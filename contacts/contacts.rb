@@ -14,11 +14,11 @@
 
 require 'cgi'
 require 'fileutils'
+require 'yaml'
 require 'rubygems'
 
 require 'curl'
 require 'nokogiri'
-require 'oj'
 
 FileUtils.mkdir_p "html"
 FileUtils.mkdir_p "data"
@@ -30,11 +30,38 @@ FileUtils.mkdir_p "data"
 # General for Iraq Reconstruction, which no longer accepts FOIA requests.
 AGENCIES = ['USDA', 'DOC', 'DoD', 'ED', 'DOE', 'HHS', 'DHS', 'HUD', 'DOI', 'DOJ', 'U.S. DOL', 'State', 'DOT', 'Treasury', 'VA', 'ACUS', 'USAID', 'ABMC', 'NRPC', 'AFRH', 'BBG', 'CIA', 'CSB', 'USCCR', 'CPPBSD', 'CFTC', 'CFPB', 'U.S. CPSC', 'CNCS', 'CIGIE', 'CSOSA', 'DNFSB', 'EPA', 'EEOC', 'CEQ', 'OMB', 'ONDCP', 'OSTP', 'USTR', 'Ex-Im Bank', 'FCA', 'FCSIC', 'FCC', 'FDIC', 'FEC', 'FERC', 'FFIEC', 'FHFA', 'FLRA', 'FMC', 'FMCS', 'FMSHRC', 'FOMC', 'FRB', 'FRTIB', 'FTC', 'GSA', 'IMLS', 'IAF', 'LSC', 'MSPB', 'MCC', 'NASA', 'NARA', 'NCPC', 'NCUA', 'NEA', 'NEH', 'NIGC', 'NLRB', 'NMB', 'NSF', 'NTSB', 'USNRC', 'OSHRC', 'OGE', 'ONHIR', 'OPM', 'OSC', 'ODNI', 'OPIC', 'PC', 'PBGC', 'PRC', 'RATB', 'US RRB', 'SEC', 'SSS', 'SBA', 'SSA', 'SIGAR', 'STB', 'TVA', 'US ADF', 'CO', 'USIBWC', 'USITC', 'USPS', 'USTDA']
 
-# the workhorse: how to parse a block of HTML from FOIA.gov
-def parse_agency(abb)
-  # TBD
-  {}
+# parsing workhorse functions: making sense of a block of HTML from FOIA.gov
+def parse_agency(abb, html_path)
+  html = File.read html_path
+  doc = Nokogiri::HTML html
+
+  name = doc.at("h1").text.strip
+  description = (doc / :h2).last.next_sibling.text.strip
+
+  # get each dept id and name, parse department from its div
+  departments = doc.css("option")[1..-1].map do |option|
+    id = option['value']
+    elem = doc.css("div##{id}").first
+    name = option.text.strip
+    parse_department elem, name
+  end
+
+  {
+    "abbreviation" => abb,
+    "name" => name,
+    "description" => description,
+    "departments" => departments
+  }
 end
+
+# get data from a 'div'for that department, and the name
+def parse_department(elem, name)
+  {
+    "name" => name
+  }
+end
+
+# download and output stuff
 
 def agency_url(abb)
   # cache bust, the site does this too
@@ -63,9 +90,9 @@ def save_agency(abb)
     puts "[#{abb}] Already downloaded."
   end
 
-  data = parse_agency abb
+  data = parse_agency abb, html_path
   if data
-    File.open("data/#{abb}.json", "w") {|f| f.write Oj.dump(data)}
+    File.open("data/#{abb}.yaml", "w") {|f| f.write YAML.dump(data)}
     puts "[#{abb}] Parsed."
   else
     puts "[#{abb}] DID NOT PARSE, NO."

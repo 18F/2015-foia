@@ -2,7 +2,7 @@
 
 Downloading agency contact information for FOIA, from FOIA.gov.
 
-`agencies.rb` hits the Ajax endpoints that the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) uses to load contact info, and downloads their HTML to the `html/` directory (ignored in git).
+`contacts.rb` hits the Ajax endpoints that the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) uses to load contact info, and downloads their HTML to the `html/` directory (ignored in git).
 
 It then scrapes/parses the contact details out of them, and makes YAML files in the `data/` directory (versioned).
 
@@ -17,10 +17,10 @@ This data is meant to be a starting point -- something that can be easily correc
 Tested using Ruby `2.1.2`. Install dependencies with:
 
 ```bash
-gem install curb nokogiri oj
+gem install curb nokogiri
 ```
 
-Then run `agencies.rb` to download and parse everything.
+Then run `contacts.rb` to download and parse everything.
 
 If an agency's HTML has already been downloaded, it will not be downloaded again. To re-download, delete the `html/` directory and run again.
 
