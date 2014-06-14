@@ -17,9 +17,21 @@ This data is meant to be a starting point -- something that can be easily correc
 Tested using Ruby `2.1.2`. Install dependencies with:
 
 ```bash
-gem install curb nokogiri
+gem install curb nokogiri oj
 ```
 
 Then run `agencies.rb` to download and parse everything.
 
 If an agency's HTML has already been downloaded, it will not be downloaded again. To re-download, delete the `html/` directory and run again.
+
+## Data
+
+_**(Work-in-progress)**_
+
+Data for an agency looks like this:
+
+```json
+{
+
+}
+```
