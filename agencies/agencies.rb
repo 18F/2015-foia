@@ -38,12 +38,25 @@ def download_agency(abb)
 end
 
 def save_agency(abb)
-  body = download_agency abb
-  if body
-    File.open("html/#{abb}.html", "w") {|f| f.write body}
-    puts "[#{abb}] Downloaded."
+  html_path = "html/#{abb}.html"
+  if !File.exist?(html_path)
+    body = download_agency abb
+    if body
+      File.open(, "w") {|f| f.write body}
+      puts "[#{abb}] Downloaded."
+    else
+      puts "[#{abb}] DID NOT DOWNLOAD, NO."
+      return
+    end
+  end
+
+  data = parse_agency abb
+  if data
+    File.open("data/#{abb}.json", "w") {|f| f.write Oj.dump(data)}
+    puts "[#{abb}] Parsed."
   else
-    puts "[#{abb}] DID NOT DOWNLOAD, NO."
+    puts "[#{abb}] DID NOT PARSE, NO."
+    return
   end
 end
 
