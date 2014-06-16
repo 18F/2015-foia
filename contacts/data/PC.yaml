@@ -18,6 +18,7 @@ departments:
   fax: 202-692-1385
   emails:
   - foia@peacecorps.gov
+  website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 - name: Office of the Inspector General
   address:
   - Jeffrey Reichert
@@ -27,3 +28,4 @@ departments:
   phone: 202-692-2922
   emails:
   - foia@peacecorps.gov
+  website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia

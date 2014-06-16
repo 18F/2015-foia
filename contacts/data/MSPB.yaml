@@ -15,6 +15,8 @@ departments:
   fax: 202-653-7130
   emails:
   - FOIAHQ@mspb.gov
+  website: http://www.mspb.gov/FOIA/foia.htm
+  request_form: https://foia.mspb.gov/
 - name: Atlanta Regional Office
   address:
   - Yvonnie Ellis
@@ -26,6 +28,8 @@ departments:
   fax: 404-730-2767
   emails:
   - FOIAAT@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Central Regional Office
   address:
   - Betty Capis
@@ -37,6 +41,8 @@ departments:
   fax: 313-886-4231
   emails:
   - FOIACH@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Washington DC Regional Office
   address:
   - Marie Sumner
@@ -48,6 +54,8 @@ departments:
   fax: 703-756-7112
   emails:
   - FOIADC@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Northeastern Regional Office
   address:
   - Dennis Matthews
@@ -59,6 +67,8 @@ departments:
   fax: 215-597-3456
   emails:
   - FOIAPH@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Dallas Regional Office
   address:
   - Bobbie Williams
@@ -70,6 +80,8 @@ departments:
   fax: 214-767-0102
   emails:
   - FOIADA@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Western Regional Office
   address:
   - Joyce Thomas
@@ -81,6 +93,8 @@ departments:
   fax: 415-904-0580
   emails:
   - FOIASF@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: New York Field Office
   address:
   - Gwendolyn Gatling
@@ -92,6 +106,8 @@ departments:
   fax: 212-264-1417
   emails:
   - FOIANY@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: Denver Field Office
   address:
   - Nicole Remmich
@@ -103,6 +119,8 @@ departments:
   fax: 303-969-5109
   emails:
   - FOIADE@mspb.gov
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+  request_form: https://foia.mspb.gov/
 - name: I don't know which office
   address:
   - Bernard Parker
@@ -113,3 +131,5 @@ departments:
   fax: 202-653-7130
   emails:
   - FOIAHQ@msrb.gov
+  website: http://www.mspb.gov/FOIA/foia.htm
+  request_form: https://foia.mspb.gov/

@@ -17,6 +17,8 @@ departments:
   - Washington, DC 20260-1101
   phone: 202-268-2608
   fax: 202-268-5353
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
 - name: USPS Field Office
   address:
   - FOIA Contact
@@ -26,6 +28,8 @@ departments:
   - St. Louis, MO 63155-9948
   phone: 314-345-5894
   fax: 650-578-4956
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
 - name: Postal Inspection Service
   address:
   - FOIA Contact
@@ -35,6 +39,8 @@ departments:
   - Washington, DC 20260
   phone: 202-268-7004
   fax: 202-268-4538
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
 - name: Office of the Inspector General
   address:
   - FOIA Contact
@@ -46,3 +52,5 @@ departments:
   fax: 703-248-4626
   emails:
   - FOIA@uspsoig.gov
+  website: http://www.uspsoig.gov/foia.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx

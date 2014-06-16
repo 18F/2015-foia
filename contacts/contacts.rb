@@ -133,6 +133,35 @@ def parse_department(elem, name)
     end
   end
 
+  # remaining fields: website, request form, anything else
+  ps.each do |p|
+    next unless strong = p.at("strong")
+    text = strong.text.tr(":", "").strip
+    next if text == "FOIA Contact"
+
+    if text.downcase == "website"
+      if a = p.at("a")
+        data['website'] = a['href'].strip
+      else
+        puts p
+        puts "== ERROR EXTRACTING WEBSITE. =="
+        exit
+      end
+    elsif text.downcase =~ /request form/i
+      if a = p.at("a")
+        data['request_form'] = a['href'].strip
+      else
+        puts p
+        puts "== ERROR EXTRACTING WEBSITE. =="
+        exit
+      end
+    else
+      # data['misc'] ||= []
+      # data['misc'][key] = strong.next_sibling.text.strip
+    end
+
+  end
+
   data
 end
 

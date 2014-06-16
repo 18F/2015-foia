@@ -17,6 +17,7 @@ departments:
   fax: 202-663-4679
   emails:
   - FOIA@EEOC.gov
+  website: http://www.eeoc.gov/eeoc/foia/
 - name: Atlanta District Office (Savanna Local Office)
   address:
   - William Batts
@@ -28,6 +29,7 @@ departments:
   fax: 404-562-6909
   emails:
   - ATLAFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/atlanta/foia.cfm
 - name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
   address:
   - Willie Alford
@@ -39,6 +41,7 @@ departments:
   fax: 205-212-2105
   emails:
   - BIRMFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
     Offices; Raleigh Area Office
   address:
@@ -51,6 +54,7 @@ departments:
   fax: 704-344-6734
   emails:
   - CHARFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/charlotte/foia.cfm
 - name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   address:
   - Sylvia Bustos
@@ -64,6 +68,7 @@ departments:
   - CHICFOIA@eeoc.gov
   - MILWFOIA@eeoc.gov
   - MINNFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/chicago/foia.cfm
 - name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
   address:
   - Peter Robinson
@@ -75,6 +80,7 @@ departments:
   emails:
   - dallasfoia@eeoc.gov
   - SAFOFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/dallas/foia.cfm
 - name: Houston District Office (New Orleans Field Office)
   address:
   - Susam Velasquez
@@ -87,6 +93,7 @@ departments:
   emails:
   - HOUSFOIA@eeoc.gov
   - NLEANSFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/houston/foia.cfm
 - name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
     Area Offices)
   address:
@@ -100,6 +107,7 @@ departments:
   emails:
   - INDIFOIA@eeoc.gov
   - DETRFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
     Offices)
   address:
@@ -112,6 +120,7 @@ departments:
   fax: 213-894-1118
   emails:
   - LOSAFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - name: Memphis District Office (Little Rock and Nashville Area Offices)
   address:
   - Audrey Bonner
@@ -123,6 +132,7 @@ departments:
   fax: 901-544-0111
   emails:
   - MEMPFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/memphis/foia.cfm
 - name: Miami District Office (Tampa Field Office and San Juan Local Office)
   address:
   - Carmen Figueroa-Martinez
@@ -135,6 +145,7 @@ departments:
   emails:
   - MIAMFOIA@eeoc.gov
   - PUERFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/miami/foia.cfm
 - name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
   address:
   - David Phillips
@@ -146,6 +157,7 @@ departments:
   fax: 212-336-3625
   emails:
   - NEWYFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/newyork/foia.cfm
 - name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
     Area Office)
   address:
@@ -158,6 +170,7 @@ departments:
   fax: 215-440-2847
   emails:
   - PHILFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
   address:
   - Silvia M. Hart
@@ -169,6 +182,7 @@ departments:
   fax: 602-640-5071
   emails:
   - phoenixfoia@eeoc.gov
+  website: http://www.eeoc.gov/field/phoenix/foia.cfm
 - name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
     Local Offices)
   address:
@@ -181,6 +195,7 @@ departments:
   fax: 415-625-5609
   emails:
   - SANFFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
   address:
   - Inez Shiloah
@@ -192,6 +207,7 @@ departments:
   fax: 314-539-7893
   emails:
   - STLOFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - name: Washington Field Office
   address:
   - Betsy Parrish
@@ -202,6 +218,7 @@ departments:
   phone: 202-419-0705
   emails:
   - WASHFOIA@eeoc.gov
+  website: http://www.eeoc.gov/field/washington/foia.cfm
 - name: I don't know which office
   address:
   - Stephanie Garner
@@ -213,3 +230,4 @@ departments:
   fax: 202-663-4639
   emails:
   - FOIA@EEOC.gov
+  website: http://www.eeoc.gov/eeoc/foia/

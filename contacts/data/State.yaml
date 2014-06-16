@@ -16,6 +16,8 @@ departments:
   - Washington, DC 20522-8100
   phone: 202-261-8484
   fax: 202-261-8579
+  website: http://foia.state.gov/
+  request_form: http://foia.state.gov/Request/Submit.aspx
 - name: Office of Inspector General
   address:
   - 'ATTN:  Zipora Bullard'
@@ -28,3 +30,5 @@ departments:
   fax: 202-663-0390
   emails:
   - oigfoia@state.gov
+  website: http://www.oig.state.gov/foia/index.htm
+  request_form: http://foia.state.gov/foiareq/foialetter.asp

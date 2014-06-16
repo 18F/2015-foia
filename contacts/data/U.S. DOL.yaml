@@ -17,6 +17,7 @@ departments:
   fax: 202-693-5389
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/dol/foia/main.htm
 - name: Bureau of International Labor Affairs
   address:
   - FOIA Coordinator
@@ -26,6 +27,7 @@ departments:
   phone: 202-693-4877
   emails:
   - ILABFOIA@dol.gov
+  website: http://www.dol.gov/ilab/
 - name: Bureau of Labor Statistics
   address:
   - FOIA Disclosure Officer
@@ -34,6 +36,7 @@ departments:
   - Washington, DC 20212-0001
   phone: 202-691-7628
   fax: 202-691-5111
+  website: http://www.bls.gov/bls/blsfoia.htm
 - name: Employee Benefits Security Administration
   address:
   - Sharon Watson
@@ -44,6 +47,7 @@ departments:
   phone: 202-693-8673
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/ebsa/foia/foia.html
 - name: Employment & Training Administration
   address:
   - FOIA Disclosure Officer
@@ -51,6 +55,7 @@ departments:
   - Washington, DC 20210-0002
   phone: 202-693-3676
   fax: 202-693-2844
+  website: http://www.doleta.gov/foia/
 - name: Jobs Corps
   address:
   - FOIA Disclosure Officer
@@ -60,6 +65,7 @@ departments:
   fax: 202-693-2844
   emails:
   - foiarequest@dol.gov
+  website: http://www.jobcorps.gov/foia.aspx
 - name: Mine Safety & Health Administration
   address:
   - FOIA Officer
@@ -70,6 +76,7 @@ departments:
   fax: 202-963-9441
   emails:
   - foiarequest@dol.gov
+  website: http://www.msha.gov/READROOM/READROOM.HTM
 - name: Office of the Administrative Law Judges
   address:
   - FOIA Disclosure Officer
@@ -80,6 +87,7 @@ departments:
   fax: 202-693-7365
   emails:
   - foiarequest@dol.gov
+  website: http://www.oalj.dol.gov/libfoia.htm
 - name: Office of the Assistant Secretary for Administration and Management
   address:
   - FOIA Coordinator
@@ -90,6 +98,7 @@ departments:
   fax: 202-693-7954
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/oasam/foia/
 - name: Office of Federal Contract Compliance Programs
   address:
   - FOIA Coordinator
@@ -100,6 +109,7 @@ departments:
   fax: 202-693-5538
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/ofccp/ofccp-foia.htm
 - name: Office of Labor-Management Standards
   address:
   - FOIA Coordinator
@@ -107,6 +117,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   phone: 202-693-0125
+  website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
 - name: Office of Workers' Compensation Programs
   address:
   - FOIA Coordinator
@@ -114,6 +125,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   phone: 202-693-0125
+  website: http://www.dol.gov/owcp/foia/owcp-foia.htm
 - name: Office of the Inspector General
   address:
   - Disclosure Officer
@@ -121,6 +133,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   fax: 202-693-7020
+  website: http://www.oig.dol.gov/foia.htm
 - name: Occupational Safety & Health Administration
   address:
   - FOIA Officer
@@ -129,6 +142,7 @@ departments:
   - Washington, DC 20210
   phone: 202-693-1999
   fax: 202-693-1635
+  website: http://www.osha.gov/as/opa/foia/foia.html
 - name: Veterans' Employment & Training Service
   address:
   - Carrie Timus
@@ -137,12 +151,14 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   phone: 202-693-4700
+  website: http://www.dol.gov/vets/foia/
 - name: Wage and Hour Division
   address:
   - FOIA Coordinator
   - Room S-3201
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
+  website: http://www.dol.gov/whd/foia/
 - name: Women's Bureau
   address:
   - FOIA Coordinator
@@ -152,6 +168,7 @@ departments:
   fax: 202-693-6746
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/wb/e-foia.htm
 - name: I don't know which office
   address:
   - Ramona Branch Oliver
@@ -163,3 +180,4 @@ departments:
   fax: 202-693-5389
   emails:
   - foiarequest@dol.gov
+  website: http://www.dol.gov/dol/foia/main.htm

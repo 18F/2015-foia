@@ -17,6 +17,8 @@ departments:
   fax: 202-586-0575
   emails:
   - FOIA-Central@hq.doe.gov
+  website: http://management.energy.gov/foia_pa.htm
+  request_form: http://energy.gov/doe-headquarters-foia-request-form
 - name: Chicago Office
   address:
   - Miriam Bartos
@@ -27,6 +29,8 @@ departments:
   fax: 630-252-2183
   emails:
   - Miriam.Bartos@ch.doe.gov
+  website: http://science.energy.gov/isc/foia/
+  request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
 - name: Idaho Operations Office
   address:
   - Clayton Ogilvie
@@ -37,6 +41,8 @@ departments:
   phone: 208-526-5190
   emails:
   - ogilvic@id.doe.gov
+  website: http://www.id.doe.gov/foia/
+  request_form: http://www.id.energy.gov/foia/RequestForm.aspx
 - name: Oak Ridge Office
   address:
   - Amy Rothrock
@@ -47,6 +53,8 @@ departments:
   fax: 865-576-1556
   emails:
   - rothrockal@oro.doe.gov
+  website: http://science.energy.gov/isc/foia/
+  request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
 - name: Office of Scientific and Technical Information
   address:
   - Madelyn Wilson
@@ -57,6 +65,7 @@ departments:
   fax: 865-576-3589
   emails:
   - wilsonm@osti.gov
+  website: ''
 - name: Richland Operations Office
   address:
   - Dorothy Riehle
@@ -66,6 +75,8 @@ departments:
   - Richland, WA 99352
   phone: 509-376-6288
   fax: 509-376-9704
+  website: http://www.hanford.gov/page.cfm/foia
+  request_form: http://www.hanford.gov/c.cfm/foia/
 - name: Savannah River Operations Office
   address:
   - Pauline Conner
@@ -74,6 +85,8 @@ departments:
   - Aiken, SC 29801
   phone: 803-952-8134
   fax: 803-952-8271
+  website: http://sro.srs.gov/foia.htm
+  request_form: http://sro.srs.gov/foiarequest.htm
 - name: National Nuclear Security Administration Service Center
   address:
   - Elizabeth Osheim
@@ -84,6 +97,8 @@ departments:
   fax: 505-284-7512
   emails:
   - FOIOfficer@nnsa.doe.gov
+  website: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia
+  request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
 - name: National Nuclear Security Administration Office of Naval Reactors
   address:
   - Clifford Nunn
@@ -92,6 +107,7 @@ departments:
   - West Mifflin, PA 15122-0109
   phone: 412-476-7202
   fax: 412-476-7675
+  website: ''
 - name: Carlsbad Field Office ? Waste Isolation Pilot Program
   address:
   - George Hellstrom
@@ -103,6 +119,8 @@ departments:
   fax: 505-234-7025
   emails:
   - foialiaison@wipp.ws
+  website: http://www.wipp.energy.gov/library/foia/index.htm
+  request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
 - name: Golden Field Office
   address:
   - Michele Altieri
@@ -114,6 +132,8 @@ departments:
   fax: 720-356-1780
   emails:
   - michelealtieri@go.doe.gov
+  website: http://www.eere.energy.gov/golden/reading_room.aspx
+  request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
 - name: Environmental Management Consolidated Business Center (EMCBC)
   address:
   - Scott Lucarelli
@@ -125,6 +145,8 @@ departments:
   fax: 513-246-0524
   emails:
   - foiaoffice@emcbc.doe.gov
+  website: https://www.emcbc.doe.gov/About/FOIA
+  request_form: http://www.emcbc.doe.gov/files/dept/legal/foia/FOIA%20FORM%202007.html
 - name: Bonneville Power Administration
   address:
   - Christy Munro
@@ -136,6 +158,8 @@ departments:
   fax: 503-230-4019
   emails:
   - cjmunro@bpa.gov
+  website: http://www.bpa.gov/news/FOIA/Pages/default.aspx
+  request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
 - name: Southeastern Power Administration
   address:
   - Joel Seymour
@@ -146,6 +170,8 @@ departments:
   fax: 706-213-3884
   emails:
   - joels@sepa.doe.gov
+  website: http://www.sepa.doe.gov/overview/?c=8
+  request_form: http://www.sepa.doe.gov/request2.htm
 - name: Southwestern Power Administration
   address:
   - Marti Ayers
@@ -157,6 +183,8 @@ departments:
   fax: 918-595-6755
   emails:
   - foia@swpa.gov
+  website: http://www.swpa.gov/foia-privacyact.aspx
+  request_form: http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm
 - name: Western Area Power Administration
   address:
   - Patricia S. Land
@@ -166,6 +194,8 @@ departments:
   - Lakewood, CO 80228-8213
   phone: 720-962-7010
   fax: 720-962-7009
+  website: http://www.wapa.gov/FOIA/default.htm
+  request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
 - name: Strategic Petroleum Reserve Project
   address:
   - Deanna Harvey
@@ -175,6 +205,8 @@ departments:
   - New Orleans, LA 70123
   phone: 504-734-4316
   fax: 504-818-5316
+  website: http://www.spr.doe.gov/FOIA/default.htm
+  request_form: http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm
 - name: National Energy Technology Laboratory
   address:
   - Ann Dunlap
@@ -186,3 +218,5 @@ departments:
   fax: 412-386-5949
   emails:
   - Ann.Dunlap@NETL.doe.gov
+  website: http://www.netl.doe.gov/home/foia
+  request_form: http://www.netl.doe.gov/home/foai-request-form

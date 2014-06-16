@@ -16,6 +16,7 @@ departments:
   fax: 301-837-0293
   emails:
   - foia@nara.gov
+  website: http://www.archives.gov/foia/index.html
 - name: Office of the Inspector General
   address:
   - FOIA Contact
@@ -24,6 +25,7 @@ departments:
   - College Park, MD 20740
   phone: 301-837-3000
   fax: 301-837-3197
+  website: http://www.archives.gov/foia/index.html
 - name: Accessioned Executive Branch Agency Records - Washington, DC Area
   address:
   - FOIA Contact
@@ -35,6 +37,7 @@ departments:
   fax: 301-837-1864
   emails:
   - specialaccess_foia@nara.gov
+  website: http://www.archives.gov/foia/index.html
 - name: Pacific Alaska Region (Anchorage)
   address:
   - Regional Director
@@ -44,6 +47,7 @@ departments:
   fax: 907-261-7813
   emails:
   - alaska.archives@nara.gov
+  website: http://www.archives.gov/pacific-alaska/anchorage/
 - name: Southeast Region (Atlanta)
   address:
   - Regional Director
@@ -53,6 +57,7 @@ departments:
   fax: 770-968-2547
   emails:
   - atlanta.archives@nara.gov
+  website: http://www.archives.gov/southeast/
 - name: Northeast Region (Boston)
   address:
   - Regional Director
@@ -63,6 +68,7 @@ departments:
   fax: 781-663-0154
   emails:
   - waltham.archives@nara.gov
+  website: ''
 - name: Great Lakes Region (Chicago)
   address:
   - Regional Director
@@ -72,6 +78,7 @@ departments:
   fax: 773-948-9050
   emails:
   - chicago.archives@nara.gov
+  website: http://www.archives.gov/great-lakes/
 - name: Rocky Mountain Region (Denver)
   address:
   - Regional Director
@@ -81,6 +88,7 @@ departments:
   fax: 303-407-5709
   emails:
   - denver.archives@nara.gov
+  website: http://www.archives.gov/rocky-mountain/
 - name: Southwest Region (Fort Worth)
   address:
   - Regional Director
@@ -90,6 +98,7 @@ departments:
   fax: 817-551-2034
   emails:
   - ftworth.archives@nara.gov
+  website: http://www.archives.gov/southwest/
 - name: Central Plains Region (Kansas City)
   address:
   - Regional Director
@@ -99,6 +108,7 @@ departments:
   fax: 816-268-8038
   emails:
   - kansascity.archives@nara.gov
+  website: http://www.archives.gov/locations/regional-archives.html
 - name: Northeast Region (New York)
   address:
   - Regional Director
@@ -109,6 +119,7 @@ departments:
   fax: 212-401-1638
   emails:
   - newyork.archives@nara.gov
+  website: http://www.archives.gov/northeast/nyc/
 - name: Mid-Atlantic Region (City Center Philadelphia)
   address:
   - Regional Director
@@ -118,6 +129,7 @@ departments:
   fax: 215-606-0116
   emails:
   - philadelphia.archives@nara.gov
+  website: http://www.archives.gov/midatlantic/
 - name: Pacific Region (San Francisco)
   address:
   - Regional Director
@@ -127,6 +139,7 @@ departments:
   fax: 650-238-3510
   emails:
   - sanbruno.archives@nara.gov
+  website: http://www.archives.gov/pacific/san-francisco/
 - name: Pacific Region (Seattle)
   address:
   - Regional Director
@@ -136,6 +149,7 @@ departments:
   fax: 206-336-5112
   emails:
   - seattle.archives@nara.gov
+  website: http://www.archives.gov/pacific-alaska/seattle/
 - name: I don't know which office
   address:
   - Joseph Scanlon
@@ -147,3 +161,4 @@ departments:
   fax: 301-837-0293
   emails:
   - foia@nara.gov
+  website: http://www.archives.gov/foia/index.html

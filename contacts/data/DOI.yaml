@@ -16,6 +16,8 @@ departments:
   fax: 202-208-6597
   emails:
   - foia@bia.gov
+  website: http://www.bia.gov/FOIA/index.htm
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Bureau of Land Management
   address:
   - Ryan Witt
@@ -26,6 +28,8 @@ departments:
   phone: 202-912-7650
   emails:
   - BLM_WO_FOIA@blm.gov
+  website: http://www.blm.gov/wo/st/en/res/FOIA.html
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Bureau of Ocean Energy Management
   address:
   - Rosemary Melendy
@@ -37,6 +41,8 @@ departments:
   fax: 703-787-1209
   emails:
   - BOEMFOIA@boem.gov
+  website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Bureau of Reclamation
   address:
   - Regina Magno-Judd
@@ -47,6 +53,8 @@ departments:
   fax: 303-445-6575
   emails:
   - bor_foia@usbr.gov
+  website: http://www.usbr.gov/foia/
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Bureau of Safety and Environmental Enforcement
   address:
   - Debbie Kimball
@@ -58,6 +66,8 @@ departments:
   fax: 703-787-1207
   emails:
   - BSEEFOIA@bsee.gov
+  website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: U.S. Fish and Wildlife Service
   address:
   - Johnny Hunt
@@ -69,6 +79,8 @@ departments:
   fax: 703-358-2698
   emails:
   - fwhq_foia@fws.gov
+  website: http://www.fws.gov/irm/bpim/foia.html
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: U.S. Geological Survey
   address:
   - Joye Durant
@@ -80,6 +92,8 @@ departments:
   fax: 703-648-7199
   emails:
   - foia@usgs.gov
+  website: http://www.usgs.gov/foia/
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: National Park Service
   address:
   - Charis Wilson
@@ -91,6 +105,8 @@ departments:
   fax: 303-969-2557
   emails:
   - npsfoia@nps.gov
+  website: http://www.nps.gov/foia.htm
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of the Inspector General
   address:
   - Kevin Krebs
@@ -101,6 +117,8 @@ departments:
   phone: 202-208-0954
   emails:
   - foia@doioig.gov
+  website: http://www.doioig.gov/freedom-of-information-act
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of Natural Resources Revenue
   address:
   - Richard Lopez
@@ -112,6 +130,8 @@ departments:
   fax: 303-445-4288
   emails:
   - mrmfoia@onrr.gov
+  website: http://www.onrr.gov/FOIA/
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of the Secretary
   address:
   - Clarice Julka
@@ -123,6 +143,8 @@ departments:
   fax: 202-219-2374
   emails:
   - os_foia@ios.doi.gov
+  website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of the Solicitor
   address:
   - Lance Purvis
@@ -134,6 +156,8 @@ departments:
   fax: 202-208-5206
   emails:
   - sol.foia@sol.doi.gov
+  website: http://www.doi.gov/foia/
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of Surface Mining
   address:
   - Dele Awoniyi
@@ -145,6 +169,8 @@ departments:
   fax: 202-219-3092
   emails:
   - foia@osmre.gov
+  website: http://www.osmre.gov/contacts/Foia.shtm
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
 - name: Office of the Special Trustee
   address:
   - Veronica Herkshan
@@ -155,3 +181,5 @@ departments:
   phone: 505-816-1645
   emails:
   - Veronica_Herkshan@ost.doi.gov
+  website: http://www.ost.doi.gov/
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm

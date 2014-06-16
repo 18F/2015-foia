@@ -14,6 +14,8 @@ departments:
   - Washington, DC  20201
   phone: 202-690-7453
   fax: 202-690-8320
+  website: http://www.hhs.gov/foia/index.html
+  request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Office of the Inspector General
   address:
   - Robin Brooks
@@ -23,12 +25,15 @@ departments:
   - Washington, DC 20201
   phone: 202-619-2541
   fax: 202-205-4030
+  website: http://oig.hhs.gov/foia/
+  request_form: http://oig.hhs.gov/foia/submit.asp
 - name: Administration for Community Living
   address:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
   phone: 202-401-4634
+  website: http://www.aoa.gov/AoARoot/Site_Utilities/FOIA/index.aspx
 - name: Administration for Children and Families
   address:
   - Kimberly N. Epstein
@@ -40,6 +45,8 @@ departments:
   fax: 202-401-4829
   emails:
   - foia@acf.hhs.gov
+  website: http://www.acf.hhs.gov/acf_foia.html
+  request_form: http://www.acf.hhs.gov/foia/foia_request.html
 - name: Agency for Healthcare Research and Quality
   address:
   - Carol Maloney
@@ -50,6 +57,8 @@ departments:
   phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
+  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
+  request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Centers for Disease Control and Prevention
   address:
   - Katherine Norris
@@ -61,6 +70,7 @@ departments:
   fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
+  website: http://www.cdc.gov/od/foia/index.htm
 - name: Agency for Toxic Substances and Disease Registry
   address:
   - Katherine Norris
@@ -72,6 +82,7 @@ departments:
   fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
+  website: http://www.cdc.gov/od/foia/index.htm
 - name: Center for Medicare and Medicaid Services
   address:
   - Michael Marquis
@@ -81,6 +92,7 @@ departments:
   - Baltimore, MD 21244
   phone: 410-786-5353
   fax: 410-786-0474
+  website: http://www.cms.gov/foia/
 - name: Food and Drug Administration
   address:
   - Frederick J. Sadler
@@ -92,6 +104,7 @@ departments:
   - Rockville, MD 20857
   phone: 301-796-3900
   fax: 301-827-9267
+  website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
 - name: Health Resources and Services Administration
   address:
   - Tom Flavin
@@ -103,6 +116,7 @@ departments:
   fax: 301-480-5285
   emails:
   - foia@hrsa.gov
+  website: http://www.hrsa.gov/foia/
 - name: Indian Health Service
   address:
   - William Tibbits
@@ -112,6 +126,8 @@ departments:
   - Rockville, MD 20852
   phone: 301-443-1116
   fax: 301-443-9879
+  website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
+  request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
 - name: National Institutes of Health
   address:
   - Susan Cornell
@@ -121,6 +137,7 @@ departments:
   - Bethesda, MD 20892
   phone: 301-496-5633
   fax: 301-402-4541
+  website: http://www.nih.gov/icd/od/foia/index.htm
 - name: Program Support Center
   address:
   - Carol Maloney
@@ -131,6 +148,8 @@ departments:
   phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
+  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
+  request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Substance Abuse and Mental Health Services Administration
   address:
   - Jeanette Hite
@@ -142,3 +161,4 @@ departments:
   fax: 240-276-2135
   emails:
   - foia@samhsa.hhs.gov
+  website: http://www.samhsa.gov/foia/

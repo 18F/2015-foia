@@ -18,6 +18,8 @@ departments:
   fax: 301-763-6239
   emails:
   - census.efoia@census.gov
+  website: http://www.census.gov/foia/
+  request_form: http://www.census.gov/foia/foia_request.php
 - name: Economics and Statistics Administration Bureau
   address:
   - Pamela Moulder
@@ -28,6 +30,7 @@ departments:
   fax: 202-482-2889
   emails:
   - p.moulder@doc.gov
+  website: https://www.esa.doc.gov/freedom-information-act
 - name: Economic Development Administration
   address:
   - Stephen Kong
@@ -39,6 +42,7 @@ departments:
   fax: 202-482-5671
   emails:
   - SKong@eda.doc.gov
+  website: http://www.eda.gov/foia.htm
 - name: Bureau of Industry and Security
   address:
   - Jennifer Kuo
@@ -50,6 +54,7 @@ departments:
   fax: 202-482-0326
   emails:
   - efoiarequest@bis.doc.gov
+  website: http://www.bis.doc.gov/foia/default.htm
 - name: International Trade Administration
   address:
   - Justin Guz
@@ -61,6 +66,7 @@ departments:
   fax: 202-482-1584
   emails:
   - FOIA@trade.gov
+  website: http://www.ita.doc.gov/foia/
 - name: Minority Business Development Agency
   address:
   - Clara Colbert
@@ -69,6 +75,7 @@ departments:
   - Washington, DC 20230
   phone: 202-481-5045
   fax: 202-482-2798
+  website: http://www.mbda.gov/foia-reading-room
 - name: National Institute of Standards and Technology
   address:
   - Catherine S. Fletcher
@@ -80,6 +87,7 @@ departments:
   fax: 301-975-5301
   emails:
   - foia@nist.gov
+  website: http://www.nist.gov/director/foia/
 - name: National Technical Information Service
   address:
   - Lee Halvorsen
@@ -91,6 +99,7 @@ departments:
   fax: 703-605-6764
   emails:
   - LHalvorsen@ntis.gov
+  website: http://www.ntis.gov/about/FOIA.aspx
 - name: National Telecommunications and Information Administration
   address:
   - Stacy Cheney
@@ -102,6 +111,7 @@ departments:
   fax: 202-501-8013
   emails:
   - eFOIA@ntia.doc.gov
+  website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - name: National Oceanic and Atmospheric Administration
   address:
   - Wendy Schumacher
@@ -113,6 +123,7 @@ departments:
   fax: 301-713-1169
   emails:
   - FOIA@noaa.gov
+  website: http://www.noaa.gov/foia/
 - name: U.S. Patent and Trademark Office
   address:
   - Kathryn Siehndel
@@ -123,6 +134,7 @@ departments:
   fax: 571-501-7335
   emails:
   - efoia@uspto.gov
+  website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - name: Office of Inspector General
   address:
   - Laura Bell
@@ -134,6 +146,8 @@ departments:
   fax: 202-501-7921
   emails:
   - FOIA@oig.doc.gov
+  website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
+  request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
 - name: Office of the Secretary
   address:
   - Bobbie Parsons
@@ -145,6 +159,7 @@ departments:
   fax: 202-482-0827
   emails:
   - Efoia@doc.gov
+  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 - name: I don't know which office
   address:
   - Brenda Dolan
@@ -156,3 +171,4 @@ departments:
   fax: 202-482-0827
   emails:
   - Efoia@doc.gov
+  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm

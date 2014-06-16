@@ -15,6 +15,8 @@ departments:
   - Washington, DC 20220
   phone: 202-622-0930
   fax: 202-622-3895
+  website: http://www.treasury.gov/foia/Pages/index.aspx
+  request_form: https://www.onlinefoia.treasury.gov/
 - name: Alcohol and Tobacco Tax and Trade Bureau
   address:
   - Quinton Mason
@@ -24,6 +26,8 @@ departments:
   - Washington, DC 20005
   phone: 202-882-9904
   fax: 202-453-2331
+  website: http://www.ttb.gov/foia/index.shtml
+  request_form: https://www.onlinefoia.treasury.gov/
 - name: Bureau of Engraving and Printing
   address:
   - Leslie J. Rivera-Pagán, Disclosure Officer
@@ -33,6 +37,8 @@ departments:
   - Washington, DC 20228
   phone: 202-874-2500
   fax: 202-874-2951
+  website: http://moneyfactory.gov/foia.html
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
 - name: Comptroller of the Currency
   address:
   - Frank Vance
@@ -43,6 +49,8 @@ departments:
   phone: 202-874-4700
   emails:
   - foia-pa@occ.treas.gov
+  website: http://www.occ.gov/about/foia/index-foia.html
+  request_form: https://appsec.occ.gov/publicaccesslink/palMain.aspx
 - name: Financial Crimes Enforcement Network
   address:
   - Amanda Michanczyk
@@ -51,6 +59,7 @@ departments:
   - Vienna, VA 22183
   phone: 703-905-5034
   fax: 703-905-5126
+  website: http://www.fincen.gov/foia/
 - name: Financial Management Service
   address:
   - Cynthia Sydnor
@@ -60,6 +69,8 @@ departments:
   - Washington, DC 20227
   phone: 202-874-1502
   fax: 202-874-2391
+  website: http://www.fms.treas.gov/foia/index.html
+  request_form: http://www.fms.treas.gov/foia/request.html
 - name: Internal Revenue Service - Headquarters Office
   address:
   - FOIA Contact
@@ -67,6 +78,7 @@ departments:
   - 2980 Brandywine Road
   - Chamblee, GA 30341
   phone: 202-317-6475
+  website: http://www.irs.gov/uac/IRS-Freedom-of-Information
 - name: United States Mint
   address:
   - Kathleen Saunders-Mitchell
@@ -76,6 +88,7 @@ departments:
   - Washington, DC 20220
   phone: 202-354-4600
   fax: 202-756-6153
+  website: http://www.usmint.gov/FOIA/
 - name: Bureau of Public Debt
   address:
   - Denise Nelson
@@ -85,6 +98,8 @@ departments:
   - Parkersburg, WV 26106
   phone: 304-480-8402
   fax: 304-480-8188
+  website: http://www.treasurydirect.gov/foia.htm
+  request_form: https://www.onlinefoia.treasury.gov/
 - name: Office of Thrift Supervision
   address:
   - Marilyn K. Burton
@@ -95,6 +110,7 @@ departments:
   fax: 202-906-6353
   emails:
   - public.info@ots.treas.gov
+  website: http://www.ots.treas.gov/?p=FreedomOfInformationAct
 - name: Treasury Inspector General for Tax Administration
   address:
   - Amy P. Jones
@@ -106,3 +122,4 @@ departments:
   fax: 202-622-3339
   emails:
   - FOIA.Reading.Room@tigta.treas.gov
+  website: http://www.treasury.gov/tigta/important_foia.shtml

@@ -16,6 +16,7 @@ departments:
   fax: 202-632-7581
   emails:
   - vacofoiaservice@va.gov
+  website: http://www.foia.va.gov/
 - name: National Cemetery Administration
   address:
   - James Killens III
@@ -27,6 +28,7 @@ departments:
   fax: 202-632-7572
   emails:
   - nca.foia@va.gov
+  website: http://www.foia.va.gov/
 - name: Veterans Benefits Administration
   address:
   - Sean Burns
@@ -38,6 +40,7 @@ departments:
   fax: 202-275-5947
   emails:
   - foia.vbaco@va.gov
+  website: http://www.foia.va.gov/
 - name: Veterans Health Administration
   address:
   - Timothy Graham
@@ -49,6 +52,7 @@ departments:
   fax: 202-273-9387
   emails:
   - vhafoia2@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
   address:
   - Inez Sidbury
@@ -58,6 +62,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7442
   fax: 202-273-7635
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Public Affairs
   address:
   - Gary Tallman
@@ -67,6 +72,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7430
   fax: 202-273-6705
+  website: http://www.foia.va.gov/
 - name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
   address:
   - Susan McCrea
@@ -76,6 +82,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7379
   fax: 202-273-5716
+  website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Management
   address:
   - Miriam Smith
@@ -85,6 +92,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6677
   fax: 202-273-6892
+  website: http://www.foia.va.gov/
 - name: Office of Asset Enterprise Management
   address:
   - Kelli Emery
@@ -94,6 +102,7 @@ departments:
   - Washington, DC 20420
   phone: 202-590-8793
   fax: 202-632-7146
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Budget
   address:
   - Cynthia Manurs
@@ -103,6 +112,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5170
   fax: 202-273-6628
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Finance
   address:
   - Karen Barber
@@ -112,6 +122,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6432
   fax: 202-273-6574
+  website: http://www.foia.va.gov/
 - name: Corporate Data Center Operations
   address:
   - Timothy Clifton
@@ -123,6 +134,7 @@ departments:
   fax: 215-381-3527
   emails:
   - cdcofoia@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Information and Technology
   address:
   - Laurie Karnay
@@ -134,6 +146,7 @@ departments:
   fax: 202-632-7581
   emails:
   - vacofoiaservice@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Human Resources and Administration
   address:
   - Yolanda Johnson
@@ -143,6 +156,7 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7310
   fax: 202-632-7536
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Human Resources Management
   address:
   - Jean Hayes
@@ -152,6 +166,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7863
   fax: 202-273-7871
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Diversity and Inclusion
   address:
   - Betty Cook
@@ -161,6 +176,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-4010
   fax: 202-501-1970
+  website: http://www.foia.va.gov/
 - name: Office of Resolution Management
   address:
   - Nigel Collie
@@ -170,6 +186,7 @@ departments:
   - Washington, DC 20420
   phone: 202-501-2827
   fax: 202-501-2885
+  website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Administration
   address:
   - Shelia Gaskins
@@ -179,6 +196,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5046
   fax: 202-273-7091
+  website: http://www.foia.va.gov/
 - name: Office of the Assistant Secretary for Operations, Security, and Preparedness
   address:
   - Tanya Al-Khateeb
@@ -188,6 +206,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6587
   fax: 202-461-0963
+  website: http://www.foia.va.gov/
 - name: Office of Policy and Planning
   address:
   - Stephanie Way
@@ -197,6 +216,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5918
   fax: 202-273-5993
+  website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Congressional and Legislative Affairs
   address:
   - Pamela Balsley
@@ -206,6 +226,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6619
   fax: 202-273-6792
+  website: http://www.foia.va.gov/
 - name: Office of Construction & Facilities Management
   address:
   - Lynn Buell
@@ -217,6 +238,7 @@ departments:
   fax: 202-495-5538
   emails:
   - CFM.FOIA@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Acquisition & Logistics
   address:
   - Richard Ha
@@ -228,6 +250,7 @@ departments:
   fax: 202-343-1434
   emails:
   - VA_OAL_FOIA@va.gov
+  website: http://www.foia.va.gov/
 - name: Board of Veterans Appeals
   address:
   - Margaret L. Peak
@@ -237,6 +260,7 @@ departments:
   - Washington, DC 20420
   phone: 202-461-8111
   fax: 202-565-9733
+  website: http://www.foia.va.gov/
 - name: Office of the General Counsel
   address:
   - J. Thomas Burch, Jr.
@@ -248,6 +272,7 @@ departments:
   fax: 202-273-9299
   emails:
   - ogcfoiarequests@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Inspector General
   address:
   - Darryl Joe
@@ -259,6 +284,7 @@ departments:
   fax: 202-565-8667
   emails:
   - vaoigfoia-pa@va.gov
+  website: http://www.foia.va.gov/
 - name: Office of Small and Disadvantaged Business Utilization
   address:
   - Karen Zhussanbay
@@ -270,6 +296,7 @@ departments:
   fax: 202-303-3313
   emails:
   - osbdufoia@va.gov
+  website: http://www.foia.va.gov/
 - name: I don't know which office
   address:
   - Laurie Karnay
@@ -279,3 +306,4 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7465
   fax: 202-632-7581
+  website: http://www.foia.va.gov/
