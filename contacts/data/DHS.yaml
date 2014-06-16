@@ -7,19 +7,146 @@ description: 'The Department of Homeland Security has a vital mission: to secure
   response, from cybersecurity analyst to chemical facility inspector'
 departments:
 - name: Headquarters & Privacy Office
+  address:
+  - Karen Neuman
+  - FOIA Officer
+  - STOP-0655
+  - 245 Murray Lane, SW
+  - Washington, DC 20528-0655
+  phone: 202-343-1743
+  fax: 202-343-4011
 - name: U.S. Citizenship & Immigration Services
+  address:
+  - Jill Eggleston
+  - FOIA Officer
+  - National Records Center, FOIA/PA Office
+  - P.O. Box 648010
+  - Lee's Summit, MO 64064-8010
+  phone: 800-375-5283
+  fax: 816-350-5785
 - name: Office for Civil Rights and Civil Liberties
+  address:
+  - Aeron Pineiro, Acting
+  - FOIA Officer
+  - 'Building 410, Mail Stop #0190'
+  - 245 Murray Lane, SW
+  - Washington, DC 20528
+  phone: 202-357-1218
+  fax: 202-357-1196
 - name: U.S. Coast Guard
+  address:
+  - Gaston Brewer
+  - FOIA Officer
+  - 'Commandant (CG-611), ATTN: FOIA Coordinator'
+  - 2703 Martin Luther King Jr Ave
+  - Washington, DC 20593-7710
+  phone: 202-475-3522
+  fax: 202-475-3927
 - name: U.S. Customs & Border Protection
+  address:
+  - Sabrina Burroughs
+  - FOIA Officer
+  - 90 K Street, NE
+  - 9th Floor
+  - Washington, DC 20229-1181
+  phone: 202-325-0150
+  fax: 202-325-0230
 - name: Federal Emergency Management Agency
+  address:
+  - Terry Cochran
+  - FOIA Officer
+  - Room 840
+  - 500 C Street, SW
+  - Washington, DC 20472
+  phone: 202-646-3323
+  fax: 202-646-3347
 - name: Federal Law Enforcement Training Center
+  address:
+  - Leslie A. Jensen
+  - FOIA Officer
+  - 'Building #681, Suite 187B'
+  - Glynco, GA 31524
+  phone: 912-267-3103
+  fax: 912-267-3113
 - name: U.S. Immigration & Customs Enforcement
+  address:
+  - Catrina Pavlick-Keenan
+  - FOIA Officer
+  - Mail Stop 5009
+  - 500 12th Street, SW
+  - Washington, DC 20536-5009
+  phone: 202-732-4265
+  fax: 202-732-4265
 - name: Office of the Inspector General
+  address:
+  - Stephanie Kuehn
+  - FOIA Officer
+  - Mail Stop 0305
+  - 245 Murray Drive
+  - Washington, DC 20528-0305
+  phone: 202-254-4001
+  fax: 202-254-4398
 - name: Office of Intelligence & Analysis
+  address:
+  - Priscilla Waters
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 202-447-4883
+  fax: 202-612-1936
 - name: Directorate for National Protection and Programs
+  address:
+  - Sandy Ford Page
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 703-235-2211
+  fax: 703-235-2052
 - name: Office of Operations Coordination and Planning
+  address:
+  - Michael Page
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 202-447-4156
+  fax: 202-282-9811
 - name: Science & Technology Directorate
+  address:
+  - Katrina Hagan
+  - FOIA Officer
+  - Mail Stop 0205
+  - 245 Murray Ln SW
+  - Washington, DC 20528
+  phone: 202-254-6342
+  fax: 202-254-6739
 - name: United States Secret Service
+  address:
+  - Latita Payne
+  - Disclosure Officer, FOIA/PA Program, Liaison Division
+  - Building 410
+  - 245 Murray Drive
+  - Washington, DC 20223
+  phone: 202-406-6370
+  fax: 202-406-5586
 - name: Transportation Security Administration
+  address:
+  - Yvonne Coates
+  - FOIA Officer
+  - 11th Floor, East Tower, TSA-20
+  - 601 S. 12th Street
+  - Arlington, VA 22202-4220
+  phone: 866-364-2872
+  fax: 571-227-1406
 - name: Office of Biometric Identity Management
+  address:
+  - Michael Johnson
+  - FOIA Officer
+  - 245 Murray Lane, SW
+  - Washington, DC 20598-0628
+  phone: 202-295-5454
+  fax: 202-295-5445
 - name: I don't know which office
+  address:
+  - FOIA Officer
+  - STOP-0655
+  - 245 Murray Lane, SW
+  - Washington, DC 20528-0655
+  phone: 202-343-1743
+  fax: 202-343-4011

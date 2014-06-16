@@ -9,18 +9,100 @@ description: 'HUD´s mission is to create strong, sustainable, inclusive communi
   way HUD does business.'
 departments:
 - name: Headquarters
+  address:
+  - Dolores Cole
+  - Office of the Executive Secretariat
+  - Room 10139
+  - 451 7th Street, SW
+  - Washington, DC 20410-3000
+  phone: 202-708-3866
+  fax: 202-619-8365
 - name: Region I (Boston, Hartford, Manchester, Providence)
+  address:
+  - Kristine G. Foye
+  - Deputy Regional Administrator
+  - Room 301
+  - 10 Causeway Street
+  - Boston, MA 02222-1092
+  phone: 617-994-8218
 - name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
+  address:
+  - Mirza Morales
+  - Deputy Regional Administrator
+  - Suite 3541
+  - 26 Federal Plaza
+  - New York, NY 10278-0068
+  phone: 212-542-7109
 - name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
+  address:
+  - Brenda Laroche
+  - Deputy Regional Administrator
+  - 100 Penn Square East Building
+  - Philadelphia, PA 10107
+  phone: 215-656-0600
 - name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
+  address:
+  - Thomacina Brown
+  - Supervisory Operations Officer
+  - 40 Marietta Street
+  - Atlanta, GA 30303
+  phone: 404-331-5001
 - name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
+  address:
+  - Beverly Bishop
+  - Deputy Regional Director
+  - Suite 2608
+  - 77 W. Jackson Boulevard
+  - Chicago, IL 60604
+  phone: 312-353-5680
 - name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
     San Antonio)
+  address:
+  - Patricia Campbell
+  - FOIA Liaison
+  - 'Unit #45, Suite 2500'
+  - 801 Cherry Street
+  - Ft. Worth, TX 76102
+  phone: 817-978-5974
 - name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
+  address:
+  - Eugene (Gene) Lipscomb
+  - Deputy Regional Administrator
+  - 400 State Avenue
+  - Kansas City, KS 66101
+  phone: 913-551-5476
 - name: Region VIII (Denver)
+  address:
+  - Deborah Griswold
+  - Deputy Regional Director
+  - 1670 Broadway
+  - Denver, CO 80202-4801
+  phone: 303-672-5440
 - name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
+  address:
+  - Suzie Hernandez
+  - FOIA Liaison
+  - John E. Moss Federal Building, Suite 4-200
+  - 650 Capitol Mall
+  - Sacramento, CA 95814-3702
+  phone: 916-498-7381
 - name: Region X (Seattle, Anchorage, Portland)
+  address:
+  - Patty Huster
+  - Regional Lead
+  - Suite 200
+  - 909 First Avenue
+  - Seattle , WA 98104-1000
+  phone: 206-220-5101
 - name: I don't know which office
+  address:
+  - Dolores W. Cole
+  - Office of the Executive Secretariat, Headquarters
+  - Room 10139
+  - 451 7th Street, SW
+  - Washington, DC 20410-3000
+  phone: 202-708-3866
+  fax: 202-619-8365

@@ -6,30 +6,254 @@ description: The Department's mission is to fulfill President Lincoln's promise 
   by serving and honoring the men and women who are America´s veterans.
 departments:
 - name: Central Office FOIA/Privacy Act Office
+  address:
+  - Laurie Karnay
+  - FOIA Team Lead
+  - "(005R1C) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-632-7465
+  fax: 202-632-7581
 - name: National Cemetery Administration
+  address:
+  - James Killens III
+  - FOIA Contact
+  - "(43D) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-632-7728
+  fax: 202-632-7572
 - name: Veterans Benefits Administration
+  address:
+  - Sean Burns
+  - FOIA Contact
+  - "(20M33) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-491-9439
+  fax: 202-275-5947
 - name: Veterans Health Administration
+  address:
+  - Timothy Graham
+  - FOIA Contact
+  - "(19F2) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 215-823-4146
+  fax: 202-273-9387
 - name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
+  address:
+  - Inez Sidbury
+  - FOIA Contact
+  - "(002B) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-7442
+  fax: 202-273-7635
 - name: Office of Deputy Assistant Secretary for Public Affairs
+  address:
+  - Gary Tallman
+  - FOIA Contact
+  - "(80A) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-7430
+  fax: 202-273-6705
 - name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
+  address:
+  - Susan McCrea
+  - FOIA Contact
+  - "(075) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-7379
+  fax: 202-273-5716
 - name: Office of Assistant Secretary for Management
+  address:
+  - Miriam Smith
+  - FOIA Contact
+  - "(004A) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-6677
+  fax: 202-273-6892
 - name: Office of Asset Enterprise Management
+  address:
+  - Kelli Emery
+  - FOIA Contact
+  - "(044) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-590-8793
+  fax: 202-632-7146
 - name: Office of Deputy Assistant Secretary for Budget
+  address:
+  - Cynthia Manurs
+  - FOIA Contact
+  - "(041C/D) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-5170
+  fax: 202-273-6628
 - name: Office of Deputy Assistant Secretary for Finance
+  address:
+  - Karen Barber
+  - FOIA Contact
+  - "(047GC1) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-6432
+  fax: 202-273-6574
 - name: Corporate Data Center Operations
+  address:
+  - Timothy Clifton
+  - FOIA Contact
+  - Philadelphia Information Technology Center
+  - 5000 Wissahickon Avenue (284)
+  - Philadelphia, PA 19144
+  phone: 215-842-2000
+  fax: 215-381-3527
 - name: Office of Assistant Secretary for Information and Technology
+  address:
+  - Laurie Karnay
+  - FOIA Team Lead
+  - "(005R1C) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-632-7465
+  fax: 202-632-7581
 - name: Office of Assistant Secretary for Human Resources and Administration
+  address:
+  - Yolanda Johnson
+  - FOIA Contact
+  - "(006V) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-632-7310
+  fax: 202-632-7536
 - name: Office of Deputy Assistant Secretary for Human Resources Management
+  address:
+  - Jean Hayes
+  - FOIA Contact
+  - "(054A) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-7863
+  fax: 202-273-7871
 - name: Office of Deputy Assistant Secretary for Diversity and Inclusion
+  address:
+  - Betty Cook
+  - FOIA Contact
+  - "(06) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-4010
+  fax: 202-501-1970
 - name: Office of Resolution Management
+  address:
+  - Nigel Collie
+  - FOIA Contact
+  - "(08) (I Street) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-501-2827
+  fax: 202-501-2885
 - name: Office of Deputy Assistant Secretary for Administration
+  address:
+  - Shelia Gaskins
+  - FOIA Contact
+  - "(032A) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-5046
+  fax: 202-273-7091
 - name: Office of the Assistant Secretary for Operations, Security, and Preparedness
+  address:
+  - Tanya Al-Khateeb
+  - FOIA Contact
+  - "(007) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-6587
+  fax: 202-461-0963
 - name: Office of Policy and Planning
+  address:
+  - Stephanie Way
+  - FOIA Contact
+  - "(008) VACO, Room 314"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-5918
+  fax: 202-273-5993
 - name: Office of Assistant Secretary for Congressional and Legislative Affairs
+  address:
+  - Pamela Balsley
+  - FOIA Contact
+  - "(009) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-6619
+  fax: 202-273-6792
 - name: Office of Construction & Facilities Management
+  address:
+  - Lynn Buell
+  - FOIA Contact
+  - "(OOCM2) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-8212
+  fax: 202-495-5538
 - name: Office of Acquisition & Logistics
+  address:
+  - Richard Ha
+  - FOIA Officer, Office of Procurement Policy Services (OALC-PPS)
+  - Room 3E.405
+  - 425 I Street, NW
+  - Washington, DC 20001
+  phone: 202-632-5286
+  fax: 202-343-1434
 - name: Board of Veterans Appeals
+  address:
+  - Margaret L. Peak
+  - FOIA Contact
+  - "(01C1) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-8111
+  fax: 202-565-9733
 - name: Office of the General Counsel
+  address:
+  - J. Thomas Burch, Jr.
+  - FOIA Contact
+  - "(026H) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-7717
+  fax: 202-273-9299
 - name: Office of Inspector General
+  address:
+  - Darryl Joe
+  - FOIA Contact
+  - "(50CI) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-461-4591
+  fax: 202-565-8667
 - name: Office of Small and Disadvantaged Business Utilization
+  address:
+  - Karen Zhussanbay
+  - FOIA Contact
+  - "(00SB) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-303-3260
+  fax: 202-303-3313
 - name: I don't know which office
+  address:
+  - Laurie Karnay
+  - FOIA Team Lead
+  - "(005R1C) VACO"
+  - 810 Vermont Avenue, NW
+  - Washington, DC 20420
+  phone: 202-632-7465
+  fax: 202-632-7581

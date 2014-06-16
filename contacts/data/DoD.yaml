@@ -5,35 +5,281 @@ description: The mission of the Department of Defense is to provide the military
   needed to deter war and to protect the security of our country.
 departments:
 - name: Office of the Secretary and Joint Staff
+  address:
+  - FOIA Contact
+  - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
+  - 1155 Defense Pentagon
+  - Washington, DC 20301-1155
+  phone: 866-574-4970
+  fax: 571-372-0500
 - name: Department of the Air Force - Headquarters/ICIO (FOIA)
+  address:
+  - JoAnne Collins
+  - FOIA Contact
+  - SAF/AAII (FOIA)
+  - 1000 Air Force Pentagon
+  - Washington, DC 20330-1000
+  phone: 703-696-2735
+  fax: 703-696-7273
 - name: Department of the Army - Freedom of Information and Privacy Office
+  address:
+  - Alecia Bolling
+  - FOIA Contact
+  - Freedom of Information Act Office
+  - Suite 144
+  - 7701 Telegraph Road, Room 150
+  - Alexandria, VA 22315-3905
+  phone: 703-428-7128
+  fax: 703-428-6522
 - name: Department of the Navy - Main Office
+  address:
+  - Robin Patterson
+  - FOIA Contact, Chief of Naval Operations
+  - "(DNS-36)"
+  - 2000 Navy Pentagon
+  - Washington, DC 20350-2000
+  phone: 202-685-0412
+  fax: 202-685-6580
 - name: Marine Corps - FOIA Program Office (ARSF)
+  address:
+  - Sally A. Hughes
+  - Head, FOIA/PA
+  - Commandant of the Marine Corps (ARSF), FOIA/PA Section (ARSF)
+  - 3000 Marine Corps Pentagon
+  - Washington, DC 20350-3000
+  phone: 703-614-4008
+  fax: 703-614-6287
 - name: Armed Services Board of Contract Appeals
+  address:
+  - Catherine A. Stanton
+  - General Counsel
+  - Skyline 6, Suite 700
+  - 5109 Leesburg Pike
+  - Falls Church, VA 22041-3208
+  phone: 703-681-8501
+  fax: 703-681-8535
 - name: Defense Commissary Agency
+  address:
+  - Comillo DeSantis
+  - FOIA/Privacy Officer
+  - 1300 E Avenue
+  - Fort Lee, VA 23801-1800
+  phone: 804-734-8116
+  fax: 804-734-8116
 - name: Defense Contract Audit Agency - Headquarters
+  address:
+  - Keith Mastromichalis
+  - 'ATTN: CMR, FOIA Service Center'
+  - Suite 2135
+  - 8725 John J. Kingman Road
+  - Fort Belvoir, VA 22060-6219
+  phone: 703-767-1022
+  fax: 703-767-1011
 - name: Defense Contract Management Agency
+  address:
+  - Donna Williamson/Kimberly Turner
+  - FOIA/PA Privacy Officer/FOIA Analyst
+  - 3901 A Avenue
+  - BLDG 10500
+  - Fort Lee, VA 23801
+  phone: 804-734-1488
+  fax: 804-734-0109
 - name: Defense Finance and Accounting Service
+  address:
+  - Gregory Outlaw
+  - FOIA/PA Program Manager/FOIA Liaison officer
+  - Corporate Communications
+  - 8899 E. 56th Street
+  - Indianapolis, IN 46249-0150
+  phone: 317-212-4591
+  fax: 317-212-8802
 - name: Defense Information Systems Agency
+  address:
+  - Robin M. Berger
+  - 'ATTN: Headquarters FOIA Requester Service Center'
+  - P.O. Box 549
+  - Ft. Meade, MD 20755
+  phone: 301-225-6104
+  fax: 301-225-0510
 - name: Defense Intelligence Agency
+  address:
+  - Alesia Y. Williams
+  - Chief, FOIA Services Branch
+  - 'ATTN: DAN-1A (FOIA)'
+  - 200 MacDill Boulevard
+  - Washington, DC 20340-5100
+  phone: 301-394-5587
+  fax: 301-394-5356
 - name: Defense Logistics Agency - Headquarters
+  address:
+  - Debbie Teer
+  - 'FOIA Contact, ATTN: DGA'
+  - Suite 1644
+  - 8725 John J. Kingman Road
+  - Fort Belvoir, VA 22060-6221
+  phone: 703-767-5247
+  fax: 703-767-6091
 - name: Defense Security Service
+  address:
+  - Leslie Blake
+  - Office of FOI and Privacy
+  - 27130 Telegraph Road
+  - Quantico, VA 22314
+  phone: 571-305-6740
+  fax: 571-305-6931
 - name: Defense Threat Reduction Agency
+  address:
+  - Juanita Y. Gaines
+  - FOIA/Privacy Act Ofc (JOXGP-F)
+  - MSC 6201
+  - 8725 John J. Kingman Road
+  - Fort Belvoir, VA 22060-6201
+  phone: 703-767-1771
+  fax: 703-767-3623
 - name: Defense Technical Information Center
+  address:
+  - Michael A. Hamilton
+  - FOIA Contact (DTIC-R)
+  - Suite 0944
+  - 8725 John J. Kingman Road
+  - Fort Belvoir, VA 22060-6218
+  phone: 703-767-9204
+  fax: 703-767-9201
 - name: Department of Defense Education Activity
+  address:
+  - James Revell
+  - FOIA Contact
+  phone: 571-372-1892
+  fax: 571-372-5829
 - name: National Geospatial-Intelligence Agency
+  address:
+  - FOIA Program Manager
+  - Mail Stop S01-EGM
+  - 7500 GEOINT Drive
+  - Springfield, VA 22150
+  phone: 571-557-4141
+  fax: 571-557-3130
 - name: National Guard Bureau
+  address:
+  - Jennifer Nikolaisen
+  - Chief FOIA Officer
+  - Office of Information and Privacy (NGB/JA-OIP)
+  - 111 South George Mason Drive, AH2
+  - Arlington, VA 22204-1373
+  phone: 571-256-7838
+  fax: 703-607-3684
 - name: National Reconnaissance Office
+  address:
+  - Patricia B. Cameresi
+  - Chief, Information Review and Release Group
+  - 'ATTN: CIO/Information Management Services Office'
+  - 14675 Lee Road
+  - Chantilly, VA 20151-1715
+  phone: 703-227-9326
+  fax: 703-227-9198
 - name: National Security Agency
+  address:
+  - Cindy S. Blacker
+  - FOIA Contact, FOIA Requester Service Center/DJ4
+  - Suite 6248
+  - 9800 Savage Road
+  - Fort George G. Meade, MD 20755-6248
+  phone: 301-688-6527
+  fax: 443-479-3612
 - name: Office of Inspector General
+  address:
+  - Jeanne Miller
+  - Chief, Freedom of Information & Privacy Office
+  - Suite 17F18
+  - 4800 Mark Center Drive
+  - Alexandria, VA 22350-1500
+  phone: 866-993-7005
+  fax: 571-972-7498
 - name: TRICARE Management Activity
+  address:
+  - Glinda Hodgkin
+  - TMA FOIA Officer
+  - 16401 East Centretech Parkway
+  - Aurora, CO 80011-9066
+  phone: 303-676-3418
+  fax: 303-371-4170
 - name: U.S. Africa Command
+  address:
+  - FOIA Contact
+  - HQ U.S. Africa Command
+  phone: "+490 711-729-4287"
+  fax: "+490 711-729-4732"
 - name: U.S. Central Command
+  address:
+  - FOIA Contact
+  - U.S. Central Command CCJ6-RDF (FOIA)
+  - 7115 South Boundary Boulevard
+  - MacDill AFB, FL 33621-5101
+  phone: 813-827-1810
+  fax: 813-827-6332
 - name: U.S. European Command
+  address:
+  - FOIA Contact
+  - HQ USEUCOM
+  phone: "+49011 711-680-7161"
+  fax: "+49011 711-680-8092"
 - name: U.S. Joint Forces Command
+  address:
+  - FOIA Contact
+  - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
+  - 1155 Defense Pentagon
+  - Washington, DC 20301-1155
+  phone: 866-574-4970
+  fax: 571-372-0500
 - name: U.S. Northern Command
+  address:
+  - FOIA Officer
+  - HQ NORAD USNORTHCOM/CS
+  - Suite B016
+  - 250 Vandenberg Street
+  - Peterson AFB, CO 80914-3804
+  phone: 719-554-1785
+  fax: 719-554-4431
 - name: U.S. Pacific Command
+  address:
+  - FOIA Contact
+  - 'ATTN: J151 FOIA Requester Service Center'
+  - Box 64017
+  - Camp H.M. Smith , HI 96861-4017
+  phone: 808-477-0995
+  fax: 808-447-6685
 - name: U.S. Southern Command
+  address:
+  - Marco T. Villalobos
+  - FOIA Contact
+  - 'ATTN: SCJ224 (FOIA)'
+  - 9301 NW 33rd Street
+  - Doral, FL 33172
+  phone: 305-437-1108
 - name: U.S. Special Operations Command
+  address:
+  - FOIA Contact
+  - HQ USSOCOM
+  - 'ATTN: SOCS-SJS-I/FOIA Requester Service Fenter'
+  - 7701 Tampa Point Boulevard
+  - MacDill AFB, FL 33621-5323
+  phone: 813-826-3212
+  fax: 813-826-5482
 - name: U.S. Strategic Command
+  address:
+  - FOIA Contact
+  - USSTRATCOM/J006 (FOIA)
+  - Suite 2E20A
+  - 901 Sac Boulevard
+  - Offutt AFB, NE 68113
+  phone: 402-294-6321
+  fax: 402-294-7535
 - name: U.S. Transportation Command
+  address:
+  - Jolynn Bien
+  - Command FOIA Officer
+  - USTRANSCOM/TCCS-FO
+  - 508 Scott Drive
+  - Scott AFB, IL 62225-5357
+  phone: 618-220-4100
+  fax: 618-229-4711

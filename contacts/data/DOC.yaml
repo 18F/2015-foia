@@ -8,16 +8,125 @@ description: The historic mission of the Department of Commerce is "to foster, p
   technological advancement.
 departments:
 - name: Census Bureau
+  address:
+  - Michael Toland, Ph.D.
+  - Freedom of Information Act Officer
+  - Room 8H207
+  - 4600 Silver Hill Road
+  - Washington, DC 20233-3700
+  phone: 301-763-2127
+  fax: 301-763-6239
 - name: Economics and Statistics Administration Bureau
+  address:
+  - Pamela Moulder
+  - Office of the Under Secretary for Economic Affairs
+  - Rom 4836
+  - Washington, DC 20230
+  phone: 202-482-5997
+  fax: 202-482-2889
 - name: Economic Development Administration
+  address:
+  - Stephen Kong
+  - FOIA Officer
+  - Room 7325
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3085
+  fax: 202-482-5671
 - name: Bureau of Industry and Security
+  address:
+  - Jennifer Kuo
+  - FOIA Officer
+  - Room 6622
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-0953
+  fax: 202-482-0326
 - name: International Trade Administration
+  address:
+  - Justin Guz
+  - ITA FOIA Officer
+  - Room 40003
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-7937
+  fax: 202-482-1584
 - name: Minority Business Development Agency
+  address:
+  - Clara Colbert
+  - FOIA Officer
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-481-5045
+  fax: 202-482-2798
 - name: National Institute of Standards and Technology
+  address:
+  - Catherine S. Fletcher
+  - FOIA & Privacy Act Officer
+  - Stop 1710
+  - 100 Bureau Drive
+  - Gaithersburg, MD 20899-1710
+  phone: 301-975-4074
+  fax: 301-975-5301
 - name: National Technical Information Service
+  address:
+  - Lee Halvorsen
+  - FOIA Contact
+  - Number 305 - Sils Building
+  - 5301 Shawnee Road
+  - Alexandria, VA 22312
+  phone: 703-605-6710
+  fax: 703-605-6764
 - name: National Telecommunications and Information Administration
+  address:
+  - Stacy Cheney
+  - FOIA Officer, Office of the Chief Counsel
+  - Room 4713
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-1816
+  fax: 202-501-8013
 - name: National Oceanic and Atmospheric Administration
+  address:
+  - Wendy Schumacher
+  - FOIA Contact
+  - Room 9719 - NOAA FOIA Office (SOU 10000)
+  - 1315 East-West Highway
+  - Silver Spring, MD 20910
+  phone: 301-713-3540
+  fax: 301-713-1169
 - name: U.S. Patent and Trademark Office
+  address:
+  - Kathryn Siehndel
+  - FOIA Contact
+  - P.O. Box 1450
+  - Alexandria, VA 22313-1450
+  phone: 571-272-3000
+  fax: 571-501-7335
 - name: Office of Inspector General
+  address:
+  - Laura Bell
+  - FOIA Officer
+  - Room 7099
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3470
+  fax: 202-501-7921
 - name: Office of the Secretary
+  address:
+  - Bobbie Parsons
+  - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government
+  - Mail Stop H6204
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3257
+  fax: 202-482-0827
 - name: I don't know which office
+  address:
+  - Brenda Dolan
+  - Departmental FOIA Officer, Office of Privacy and Open Government
+  - Mail Stop H6204
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3258
+  fax: 202-482-0827

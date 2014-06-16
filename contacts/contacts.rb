@@ -19,6 +19,7 @@ require 'rubygems'
 
 require 'curl'
 require 'nokogiri'
+require 'htmlentities'
 
 FileUtils.mkdir_p "html"
 FileUtils.mkdir_p "data"
@@ -29,6 +30,9 @@ FileUtils.mkdir_p "data"
 # Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
 # General for Iraq Reconstruction, which no longer accepts FOIA requests.
 AGENCIES = ['USDA', 'DOC', 'DoD', 'ED', 'DOE', 'HHS', 'DHS', 'HUD', 'DOI', 'DOJ', 'U.S. DOL', 'State', 'DOT', 'Treasury', 'VA', 'ACUS', 'USAID', 'ABMC', 'NRPC', 'AFRH', 'BBG', 'CIA', 'CSB', 'USCCR', 'CPPBSD', 'CFTC', 'CFPB', 'U.S. CPSC', 'CNCS', 'CIGIE', 'CSOSA', 'DNFSB', 'EPA', 'EEOC', 'CEQ', 'OMB', 'ONDCP', 'OSTP', 'USTR', 'Ex-Im Bank', 'FCA', 'FCSIC', 'FCC', 'FDIC', 'FEC', 'FERC', 'FFIEC', 'FHFA', 'FLRA', 'FMC', 'FMCS', 'FMSHRC', 'FOMC', 'FRB', 'FRTIB', 'FTC', 'GSA', 'IMLS', 'IAF', 'LSC', 'MSPB', 'MCC', 'NASA', 'NARA', 'NCPC', 'NCUA', 'NEA', 'NEH', 'NIGC', 'NLRB', 'NMB', 'NSF', 'NTSB', 'USNRC', 'OSHRC', 'OGE', 'ONHIR', 'OPM', 'OSC', 'ODNI', 'OPIC', 'PC', 'PBGC', 'PRC', 'RATB', 'US RRB', 'SEC', 'SSS', 'SBA', 'SSA', 'SIGAR', 'STB', 'TVA', 'US ADF', 'CO', 'USIBWC', 'USITC', 'USPS', 'USTDA']
+
+# regex for phones as they appear here
+PHONE = /\+?[\d\s\(\)\-]*(\(?\d{3}\)?[\s\-\(\)]*\d{3}[\-\s\(\)]*\d{4})/i
 
 # parsing workhorse functions: making sense of a block of HTML from FOIA.gov
 def parse_agency(abb, html_path)
@@ -56,9 +60,78 @@ end
 
 # get data from a 'div'for that department, and the name
 def parse_department(elem, name)
-  {
+  data = {
     "name" => name
   }
+
+  # clean up each line, ignore the first one
+  lines = (elem / :p)[1..-1]
+  lines = lines.map do |line|
+    text = line.text.strip
+    text = HTMLEntities.new.decode text
+    text = text.gsub /\n\s+/, " "
+  end
+  # remove empty lines, including unicode/nbsp spaces
+  lines = lines.reject {|line| line.gsub(/[[:space:]]/, '').strip == ""}
+
+  # first, get address - starts with line 2, then goes until we find a
+  # phone or service center. So find that first.
+  non_address = -1
+  so_far = 0
+  lines.each_with_index do |line, i|
+    if (so_far >= 2) and (((line =~ PHONE) and (line =~ /phone|fax/i)) or (line =~ /Service Center/i))
+      non_address = i
+      break
+    end
+    so_far += 1
+  end
+
+  if non_address < 0
+    puts "name: #{name}"
+    puts "== ERROR FINDING ADDRESS END. =="
+    exit
+  else
+    data['address'] = lines[0...non_address].map {|line| line.split(/[\n\r]+/)}.flatten
+  end
+
+  if phone = lines.select {|l| l =~ /phone/i}.first
+    if (phone !~ /public liaison/i) and (phone !~ /service center/)
+      data['phone'] = extract_phone(phone)
+    end
+  end
+
+  if fax = lines.select {|l| l =~ /\bfax/i}.first
+
+    if fax == "(256) 544-007 (Fax)"
+      fax = "(256) 544-0007" # fix, see http://foia.msfc.nasa.gov/reading.html
+    end
+
+    data['fax'] = extract_phone(fax)
+  end
+
+  data
+end
+
+# given "(202) 345-6789 (Telephone)", extract the number
+def extract_phone(line)
+  if match = line.match(PHONE)
+    number = match[0]
+    number = number.gsub /[^\d]/, '' # kill all non-numbers
+
+    if number.size > 10
+      prefix = number[0...(number.size - 10)]
+      number = number[(number.size-10)..-1]
+    else
+      prefix = nil
+    end
+
+    number = [number[0..2], number[3..5], number[6..9]].join "-"
+    prefix ? "+#{prefix} #{number}" : number
+  else
+    puts "phone line: #{line}"
+    puts "== ERROR EXTRACTING PHONE NUMBER. =="
+    exit
+  end
 end
 
 # download and output stuff

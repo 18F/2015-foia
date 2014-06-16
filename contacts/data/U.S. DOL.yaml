@@ -7,20 +7,139 @@ description: The Department's mission is to foster, promote, and develop the wel
   benefits and rights.
 departments:
 - name: Main Office
+  address:
+  - Ramona Branch Oliver
+  - Director, Office of Information Services , Office of the Solicitor/MALS Division
+  - Room N-2420
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-5391
+  fax: 202-693-5389
 - name: Bureau of International Labor Affairs
+  address:
+  - FOIA Coordinator
+  - Room S-5317
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210-001
+  phone: 202-693-4877
 - name: Bureau of Labor Statistics
+  address:
+  - FOIA Disclosure Officer
+  - Room 4080 Postal Square Building
+  - 2 Massachusetts Avenue, NE
+  - Washington, DC 20212-0001
+  phone: 202-691-7628
+  fax: 202-691-5111
 - name: Employee Benefits Security Administration
+  address:
+  - Sharon Watson
+  - FOIA Officer
+  - Public Disclosure Room, Suite N-1513
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-8673
 - name: Employment & Training Administration
+  address:
+  - FOIA Disclosure Officer
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210-0002
+  phone: 202-693-3676
+  fax: 202-693-2844
 - name: Jobs Corps
+  address:
+  - FOIA Disclosure Officer
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-3676
+  fax: 202-693-2844
 - name: Mine Safety & Health Administration
+  address:
+  - FOIA Officer
+  - Room 2314
+  - 1100 Wilson Boulevard
+  - Arlington, VA 22209-3939
+  phone: 202-693-9542
+  fax: 202-963-9441
 - name: Office of the Administrative Law Judges
+  address:
+  - FOIA Disclosure Officer
+  - Suite 400 North
+  - 800 K Street
+  - N.W. Washington, DC 20001-8002
+  phone: 202-693-7348
+  fax: 202-693-7365
 - name: Office of the Assistant Secretary for Administration and Management
+  address:
+  - FOIA Coordinator
+  - Room S-3317
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-7126
+  fax: 202-693-7954
 - name: Office of Federal Contract Compliance Programs
+  address:
+  - FOIA Coordinator
+  - Room N-2428
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-5500
+  fax: 202-693-5538
 - name: Office of Labor-Management Standards
+  address:
+  - FOIA Coordinator
+  - Suite N-5609
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-0125
 - name: Office of Workers' Compensation Programs
+  address:
+  - FOIA Coordinator
+  - Suite N-5609
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-0125
 - name: Office of the Inspector General
+  address:
+  - Disclosure Officer
+  - Room S-5506
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  fax: 202-693-7020
 - name: Occupational Safety & Health Administration
+  address:
+  - FOIA Officer
+  - Room N3647
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-1999
+  fax: 202-693-1635
 - name: Veterans' Employment & Training Service
+  address:
+  - Carrie Timus
+  - National FOIA Officer
+  - Room S-1325
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-4700
 - name: Wage and Hour Division
+  address:
+  - FOIA Coordinator
+  - Room S-3201
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
 - name: Women's Bureau
+  address:
+  - FOIA Coordinator
+  - Room S-3305
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  fax: 202-693-6746
 - name: I don't know which office
+  address:
+  - Ramona Branch Oliver
+  - Director, Office of Information Services , Office of the Solicitor/MALS Division
+  - Room N-2420
+  - 200 Constitution Avenue, NW
+  - Washington, DC 20210
+  phone: 202-693-5391
+  fax: 202-693-5389

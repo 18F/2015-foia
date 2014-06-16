@@ -8,41 +8,336 @@ description: The Department's mission is to enforce the law and defend the inter
   fair and impartial administration of justice for all Americans.
 departments:
 - name: Office of the Attorney General
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of the Deputy Attorney General
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of the Associate Attorney General
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Antitrust Division
+  address:
+  - Sue Ann Slates
+  - Chief, FOIA/PA Unit
+  - Liberty Square Building
+  - Suite 1000, 450 5th Street, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-2692
+  fax: 202-616-4529
 - name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  address:
+  - Stephanie Boucher
+  - Division Chief
+  - Room 1E-400
+  - 99 New York Avenue, NE
+  - Washington, DC 20226
+  phone: 202-648-8740
+  fax: 202-648-9619
 - name: Civil Division
+  address:
+  - James M. Kovakas
+  - Freedom of Information/Privacy Act Office
+  - Room 8020
+  - 1100 L Street, NW
+  - Washington, DC 20035
+  phone: 202-514-3319
+  fax: 202-305-3291
 - name: Civil Rights Division
+  address:
+  - Nelson D. Hermilla
+  - Chief, FOI/PA Branch
+  - BICN Bldg., Room 3219B
+  - 950 Pennsylvania Avenue, NW
+  - Washington, DC 20530
+  phone: 202-514-4209
 - name: Community Relations Service
+  address:
+  - George Henderson
+  - FOIA/PA Coordinator
+  - Suite 6000
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  phone: 202-305-2935
 - name: Criminal Division
+  address:
+  - Kenneth Courter
+  - Acting Chief, FOIA/PA Unit
+  - Suite 1127
+  - Keeney Building, NW
+  - Washington, DC 20530-0001
+  phone: 202-616-0307
+  fax: 202-514-6117
 - name: Drug Enforcement Administration
+  address:
+  - Katherine L. Myrick
+  - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
+  - 8701 Morrissette Drive
+  - Springfield, VA 22152
+  phone: 202-305-7596
+  fax: 202-307-8556
 - name: Environment and Natural Resources Division
+  address:
+  - Sarah Lu
+  - FOIA Coordinator, Law and Policy Section
+  - 950 Pennsylvania Ave NW
+  - Washington, DC 20530-0001
+  phone: 202-514-0424
+  fax: 202-514-4231
 - name: Executive Office for Immigration Review
+  address:
+  - Cecelia Espenoza
+  - Senior Associate General Counsel, Office of the General Counsel
+  - Suite 1903
+  - 5107 Leesburg Pike
+  - Falls Church, VA 20503
+  phone: 703-605-1297
+  fax: 703-605-0570
 - name: Executive Office for Organized Crime Drug Enforcement Task Forces
+  address:
+  - Jill Aronica
+  - FOIA Officer
+  - Suite 1060
+  - 1331 Pennsylvania Ave.
+  - Washington, DC 20530
+  phone: 202-514-0296
 - name: Executive Office for United States Attorneys
+  address:
+  - Susan B. Gerson
+  - Acting Assistant Director, FOIA/Privacy Unit
+  - Room 7300
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  phone: 202-252-6020
+  fax: 202-252-6047
 - name: Executive Office for United States Trustees
+  address:
+  - Larry Wahlquist
+  - FOIA/Privacy Counsel, Office of the General Counsel
+  - Suite 6150
+  - 441 G Street, NW
+  - Washington, DC 20530
+  phone: 202-307-1399
+  fax: 202-307-2397
 - name: Federal Bureau of Investigation
+  address:
+  - David M. Hardy
+  - Chief, Record/Information Dissemination Section, Records Management Division
+  - 170 Marcel Drive
+  - Winchester, VA 22602-4843
+  phone: 540-868-4500
+  fax: 540-868-4997
 - name: Federal Bureau of Prisons
+  address:
+  - Wanda M. Hunt
+  - Chief, FOIA/PA Section
+  - Room 841, HOLC Building
+  - 320 First Street, NW
+  - Washington, DC 20534
+  phone: 202-514-6655
 - name: Foreign Claims Settlement Commission
+  address:
+  - Jeremy LaFrancois
+  - Chief Administrative Counsel
+  - Room 6002
+  - 600 E Street, NW
+  - Washington, DC 20579-0001
+  phone: 202-616-6975
+  fax: 202-616-6993
 - name: INTERPOL-United States National Central Bureau
+  address:
+  - FOIA/PA Specialist, Office of General Counsel
+  - INTERPOL Washington
+  - U.S. Department of Justice
+  - Washington, DC 20530-0001
+  phone: 202-616-0201
+  fax: 202-616-1357
 - name: Justice Management Division
+  address:
+  - Karen McFadden
+  - FOIA Contact
+  - Room 8E.104, 2 Consitution Square
+  - 145 N Street, NE
+  - Washington, DC 20530
+  phone: 202-514-3101
+  fax: 202-616-6695
 - name: National Security Division
+  address:
+  - Arnetta Mallory
+  - FOIA Initiatives Coordinator
+  - Room 10702
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  phone: 202-307-0754
 - name: Office of Community Oriented Policing Services
+  address:
+  - Gary L. Baude
+  - FOIA/PA Officer - Legal Division
+  - 'Two Constitution Square, #11E 1405'
+  - 145 N Street, NE
+  - Washington, DC 20530-0001
+  phone: 202-353-9864
+  fax: 202-514-3456
 - name: Office of Information Policy
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of the Inspector General
+  address:
+  - Deborah M. Waller
+  - Government Information Specialist
+  - Room 4728
+  - 950 Pennsylvania Avenue, NW
+  - Washington, DC 20530
+  phone: 202-616-0646
+  fax: 202-616-9152
 - name: Office of Justice Programs
+  address:
+  - Dorothy Lee
+  - Government Information Specialist
+  - Room 5400
+  - 810 7th Street, NW
+  - Washington, DC 20531
+  phone: 202-616-3267
+  fax: 202-307-1419
 - name: Office of Legal Counsel
+  address:
+  - Bette Farris
+  - Supervisory Paralegal
+  - Room 5515
+  - 950 Pennsylvania Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-2038
 - name: Office of Legal Policy
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of Legislative Affairs
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of the Pardon Attorney
+  address:
+  - Linda M.V. Bowe
+  - FOIA Officer
+  - Suite 11000
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-616-6070
+  fax: 202-616-6069
 - name: Office of Professional Responsibility
+  address:
+  - Lyn Hardy
+  - Senior Counsel
+  - Suite 3266
+  - 950 Pennsylvania Avenue, NW
+  - Washington, DC 20530
+  phone: 202-514-3365
+  fax: 202-514-5050
 - name: Office of Public Affairs
+  address:
+  - Carmen L. Mallon
+  - Chief of Staff, Office of Information Policy
+  - Suite 11050
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-514-3642
+  fax: 202-514-1009
 - name: Office of the Solicitor General
+  address:
+  - James K. Davis
+  - FOIA Coordinator
+  - 950 Pennsylvania Avenue, NW
+  - Washington, DC 20530-0001
+  phone: 202-616-9406
 - name: Office of Tribal Justice
+  address:
+  - Susan B. Gerson
+  - Acting Assistant Director, FOIA/Privacy Unit
+  - Room 7300
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  phone: 202-252-6020
 - name: Office on Violence Against Women
+  address:
+  - Catherine Poston
+  - Attorney Advisor
+  - Suite 10W.121
+  - 145 N Street, NE
+  - Washington, DC 20530
+  phone: 202-307-6026
 - name: Professional Responsibility Advisory Office
+  address:
+  - Michael Kingsley
+  - Information Management Specialist
+  - Suite 12000
+  - 1425 New York Avenue, NW
+  - Washington, DC 20530
+  phone: 202-514-0458
+  fax: 202-353-7483
 - name: Tax Division
+  address:
+  - Carmen M. Banerjee
+  - Division Counsel for FOIA and PA Matters
+  - P.O. Box 227
+  - Ben Franklin Station
+  - Washington, DC 20044
+  phone: 202-307-6320
 - name: United States Marshals Service
+  address:
+  - William E. Bordley
+  - Associate General Counsel, Office of General Counsel
+  - FOIA/PA, CS 4, 10th Floor
+  - 2604 Jefferson Davis Highway
+  - Alexandria, VA 22301
+  phone: 202-307-9054
 - name: United States Parole Commission
+  address:
+  - Anissa Banks
+  - FOIA/PA Specialist
+  - 3rd Floor
+  - 90 K Street, NE
+  - Washington, DC 20530
+  phone: 202-346-7030
 - name: I don't know which office
+  address:
+  - FOIA/PA Mail Referral Unit
+  - Justice Management Division
+  - Room 115
+  - LOC Building
+  - Washington, DC 20530-0001
+  phone: 301-583-7354
+  fax: 301-341-0772

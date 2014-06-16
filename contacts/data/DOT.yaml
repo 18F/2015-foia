@@ -7,15 +7,116 @@ description: The Department's mission is to serve the United States by ensuring 
   today and into the future.
 departments:
 - name: Office of the Secretary
+  address:
+  - Kathy Ray
+  - FOIA Officer
+  - W94-122
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-5546
+  fax: 202-366-8536
 - name: Office of the Inspector General
+  address:
+  - Angel Simmons
+  - FOIA Officer
+  - 7th Floor
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-6131
+  fax: 202-366-1975
 - name: Federal Aviation Administration
+  address:
+  - FOIA Coordinator
+  - National FOIA Staff (AFN-140)
+  - 800 Independence Avenue, SW
+  - Washington, DC 20591
+  phone: 202-267-9165
+  fax: 202-493-5032
 - name: Federal Highway Administration
+  address:
+  - Manizheh Boehm
+  - FOIA/PA Contact
+  - HCC-40/E82-125
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-9048
+  fax: 202-366-1380
 - name: Federal Railroad Administration
+  address:
+  - Denise Kollehlon
+  - FOIA/PA Contact, Office of the Chief Counsel
+  - Stop 10
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-493-6039
+  fax: 202-493-6068
 - name: Federal Transit Administration
+  address:
+  - Nancy Sipes
+  - FOIA/PA Contact
+  - E42-315
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-4022
+  fax: 202-366-7164
 - name: Federal Motor Carrier Safety Administration
+  address:
+  - Tiffanie C. Coleman
+  - FOIA/PA Contact (MC-MMI)
+  - W66-458
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-2960
+  fax: 202-385-2335
 - name: National Highway Traffic Safety Administration
+  address:
+  - FOIA Contact
+  - NHTSA Executive Secretariat
+  - W41-304
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-1834
+  fax: 202-366-3820
 - name: Maritime Administration
+  address:
+  - T. Mitchell Hudson, Jr.
+  - FOIA Officer, Division of Legislation and Regulations
+  - W24-233
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-5320
+  fax: 202-366-7485
 - name: Pipeline and Hazardous Materials Safety Administration
+  address:
+  - Vacant
+  - FOIA Officer
+  - E23-306
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-6119
+  fax: 202-336-7041
 - name: Saint Lawrence Seaway Development Corporation
+  address:
+  - Carrie Lavigne
+  - FOIA/PA Contact
+  - P.O. Box 520
+  - Massena, NY 13662-0520
+  phone: 315-764-3210
+  fax: 315-764-3235
 - name: Surface Transportation Board
+  address:
+  - Marilyn R. Levitt
+  - FOIA/Privacy Act Officer
+  - 395 E Street, SW
+  - Washington, DC 20423-0001
+  phone: 202-245-0269
+  fax: 202-245-0460
 - name: I don't know which office
+  address:
+  - FOIA Contact
+  - Departmental FOIA Office
+  - W94-122
+  - 1200 New Jersey Avenue, SE
+  - Washington, DC 20590
+  phone: 202-366-4542
+  fax: 202-366-8536

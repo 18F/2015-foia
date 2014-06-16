@@ -6,24 +6,193 @@ description: USDA provides leadership on food, agriculture, natural resources, a
   management.
 departments:
 - name: Agricultural Marketing Service
+  address:
+  - William D. Allen IV
+  - Acting FOIA officer
+  - AG Stop 0202, Room 3521-S
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-0273
+  phone: 202-720-3785
+  fax: 202-690-3767
 - name: Animal & Plant Health Inspection
+  address:
+  - Tonya Woods
+  - FOIA Director
+  - Unit 50
+  - 4700 River Road
+  - Riverdale, MD 20737-1232
+  phone: 301-734-8296
+  fax: 301-734-5941
 - name: Departmental Management
+  address:
+  - Phyllis Holmes
+  - FOIA Contact
+  - Room 2916
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250
+  phone: 202-720-0068
+  fax: 202-720-0105
 - name: Farm Service Agency
+  address:
+  - Sue Ellen Sloca
+  - FOIA Officer
+  - Stop 0506
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250
+  phone: 202-720-1598
+  fax: 202-690-2828
 - name: Food, Nutrition & Consumer Services
+  address:
+  - Jennifer Weatherly
+  - Agency FOIA Officer
+  - Room 302
+  - 3101 Park Center Drive
+  - Alexandria, VA 22302
+  phone: 703-605-0773
+  fax: 703-605-0793
 - name: Food Safety & Inspection Service
+  address:
+  - Shelia Wright
+  - FOIA Contact
+  - Room 1140-South Building
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-3700
+  phone: 202-690-2760
+  fax: 202-690-3023
 - name: Foreign Agricultural Service
+  address:
+  - Henry Noland
+  - FOIA Officer
+  - Stop 1004
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-1004
+  phone: 202-720-0154
 - name: Forest Service - Headquarters
+  address:
+  - Sherry Turner
+  - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
+  - Stop 1143
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-1143
+  phone: 202-205-2497
+  fax: 202-260-3245
 - name: Grain Inspection, Packers & Stockyards Administration
+  address:
+  - Joanne Peterson
+  - FOIA/PA Officer
+  - Room 1647 - AG Stop 3604
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-3604
+  phone: 202-720-8087
+  fax: 202-690-2755
 - name: National Appeals Division
+  address:
+  - Brenda V. Seegars
+  - FOIA Officer and Legal Affairs Officer
+  - Rom 1100
+  - 3101 Park Center Drive
+  - Alexandria, VA 22302
+  phone: 703-305-1164
+  fax: 703-305-2825
 - name: National Finance Center
+  address:
+  - John Hemstreet
+  - FOIA Officer
+  - P.O. Box 60000
+  - New Orleans, LA 70160
+  phone: 504-426-0168
+  fax: 504-426-9703
 - name: Natural Resources Conservation Service
+  address:
+  - Deryl Richardson
+  - National FOIA Officer
+  - Room 4242-S
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250
+  phone: 202-690-4985
+  fax: 202-720-9030
 - name: Office of Budget & Program Analysis
+  address:
+  - Julie Hetrick
+  - FOIA/PA Officer
+  - Room 102-E
+  - Whitten Building
+  - Washington, DC 20250
+  phone: 202-720-1269
+  fax: 202-690-3673
 - name: Office of the Chief Financial Officer
+  address:
+  - Richard Saafeld
+  - FOIA Officer, Planning and Accountability Division
+  - Room 3444B-South Building
+  - Stop Box 9020
+  - Washington, DC 20250
+  phone: 202-720-0995
+  fax: 202-690-3536
 - name: Office of the Chief Information Officer
+  address:
+  - Wilbur Crawley
+  - FOIA/PA Officer
+  - Room 555 - Reporters Building
+  - 300 7th Street, SW
+  - Washington, DC 20024
+  phone: 202-690-0028
 - name: Office of Civil Rights
+  address:
+  - Michael G. Watts
+  - Director, Office of Adjudication and Compliance
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-9410
+  phone: 202-720-5212
+  fax: 202-720-0953
 - name: Office of the General Counsel
+  address:
+  - Betty Ollila
+  - FOIA Officer, General Law Division
+  - Room 3311-South Building
+  - Washington, DC 20250-1400
+  phone: 202-720-5824
+  fax: 202-720-5837
 - name: Office of the Secretary
+  address:
+  - Ravoyne Peyton
+  - Departmental FOIA Officer
+  - 10th Floor
+  - 355 E Street SW
+  - Washington, DC 20024
+  phone: 202-260-2657
 - name: Risk Management Agency
+  address:
+  - Bill Crews
+  - FOIA Officer
+  - Stop 0821
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250
+  phone: 202-720-9507
+  fax: 202-720-1162
 - name: Research, Education & Economics
+  address:
+  - Stasia Hutchison and Monica Williams
+  - FOIA Officers
+  - Room 1-2248 - Building GWCC, Mail Stop 5128
+  - 5601 Sunnyside Avenue
+  - Beltsville, MD 20705-5128
+  phone: 301-504-1655
+  fax: 301-504-1647
 - name: Rural Development
+  address:
+  - Sara Bradshaw
+  - FOIA/PA Officer
+  - Stop 0706-Room 3028
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-0706
+  phone: 202-692-0015
+  fax: 202-205-5053
 - name: I don't know which office
+  address:
+  - Ray Payton
+  - Departmental FOIA Officer, Office of the Secretary
+  - 10th Floor
+  - 355 E Street SW
+  - Washington, DC 20024
+  phone: 202-260-2657

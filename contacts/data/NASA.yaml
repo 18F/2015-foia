@@ -5,16 +5,120 @@ description: NASA's mission is to pioneer the future in space exploration, scien
   discovery and aeronautics research
 departments:
 - name: Headquarters
+  address:
+  - Josephine Sibley
+  - HQFOIA Officer
+  - Room 5Q 16
+  - 300 E Street, SW
+  - S.W. Washington, DC 20546
+  phone: 202-358-2462
+  fax: 202-358-4332
 - name: Ames Research Center
+  address:
+  - Lubna Shirazi
+  - ARC FOIA Officer
+  - MS 943-4
+  - Moffett Field, CA 94035-1000
+  phone: 650-604-1138
+  fax: 650-604-0688
 - name: Dryden Flight Research Center
+  address:
+  - Kim Lewis-Bias
+  - DFRC FOIA Officer
+  - Building 4839
+  - 4800 Lily Drive
+  - Edwards, CA 93523
+  phone: 661-276-2704
+  fax: 661-276-3566
 - name: Glenn Research Center
+  address:
+  - Angela Pierce
+  - GRC FOIA Officer
+  - Mail Code 21-14
+  - Cleveland, OH 44135
+  phone: 216-443-2813
+  fax: 216-433-5489
 - name: Goddard Space Flight Center
+  address:
+  - Joan Belt
+  - GSFC FOIA Officer
+  - Code 130
+  - Greenbelt, MD 20771
+  phone: 301-286-4271
+  fax: 301-286-1712
 - name: Jet Propulsion Laboratory
+  address:
+  - Dennis Mahon
+  - JPL FOIA Officer
+  - 'M/S: 180-200K'
+  - 4800 Oak Grove
+  - Pasadena, CA 91109-8001
+  phone: 818-393-6779
+  fax: 818-393-3160
 - name: Johnson Space Center
+  address:
+  - Jessica Cordero
+  - JSC FOIA Officer
+  - 'Mail Code: AP2'
+  - Houston, TX 77058
+  phone: 281-483-8252
+  fax: 281-483-4876
 - name: Kennedy Space Center
+  address:
+  - Penny Myers
+  - KSC FOIA Officer
+  - XA-A1
+  - Kennedy Space Center, FL 32889
+  phone: 321-867-9280
+  fax: 321-867-8007
 - name: Langley Research Center
+  address:
+  - Carissa Wheeler
+  - LaRC FOIA Officer
+  - Mail Stop 218
+  - 17 West Taylor Street
+  - Hampton, VA 23681-2199
+  phone: 757-864-4274
+  fax: 757-864-6333
 - name: Marshall Space Flight Center
+  address:
+  - Judi Hollingsworth
+  - MSFC FOIA Officer
+  - Mail Stop CD50
+  - Marshall Space Flight Center
+  - Huntsville, AL 35812
+  phone: 256-544-1837
+  fax: 256-544-0007
 - name: Office of the Inspector General
+  address:
+  - Frank LaRocca
+  - OIG FOIA Officer
+  - Room 8V69
+  - 300 E Street, SW
+  - S.W. Washington, DC 20546
+  phone: 202-358-2582
+  fax: 202-358-2767
 - name: NASA Shared Service Center (NSSC)
+  address:
+  - Jamie Mettler
+  - NSSC FOIA Officer
+  - Building 1111
+  - Stennis Space Center, MS 39529
+  phone: 228-813-6490
+  fax: 228-779-6772
 - name: Stennis Space Center
+  address:
+  - Sally Bilbo
+  - SSC FOIA Officer
+  - Stennis Space Center, MS 39529
+  phone: 228-688-3182
+  fax: 228-668-7499
 - name: Principal Agency FOIA Officer
+  address:
+  - Miriam BrownLam
+  - Agency
+  - Room 5P 32
+  - 300 E Street, SW
+  - S.W. Washington, DC 20546
+  phone: 202-358-0718
+  fax: 202-358-4332

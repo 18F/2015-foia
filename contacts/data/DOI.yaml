@@ -6,16 +6,124 @@ description: The U.S. Department of the Interior protects America´s natural res
   to power our future.
 departments:
 - name: Bureau of Indian Affairs
+  address:
+  - Monique Hartgrove
+  - Office of the Assistant Secretary, Bureau of Indian Affairs
+  - MS-3071, MIB
+  - 1849 C Street, NW
+  - Washington, DC 20240
+  phone: 202-208-4174
+  fax: 202-208-6597
 - name: Bureau of Land Management
+  address:
+  - Ryan Witt
+  - FOIA Officer
+  - 'Attn: FOIA, Washington Office Coorindators'
+  - 'MS: WO-560, 1849 C Street, NW'
+  - Washington, DC 20240
+  phone: 202-912-7650
 - name: Bureau of Ocean Energy Management
+  address:
+  - Rosemary Melendy
+  - FOIA Contact
+  - HM3127
+  - 381 Elden Street
+  - Herndon, VA 20170-4817
+  phone: 703-787-1315
+  fax: 703-787-1209
 - name: Bureau of Reclamation
+  address:
+  - Regina Magno-Judd
+  - FOIA Officer
+  - P.O. Box 25007
+  - Denver, CO 80225-0007
+  phone: 303-445-2056
+  fax: 303-445-6575
 - name: Bureau of Safety and Environmental Enforcement
+  address:
+  - Debbie Kimball
+  - FOIA Contact
+  - 'MS:  HE-2204'
+  - 381 Elden Street
+  - Herndon, VA 20170-4817
+  phone: 703-787-1689
+  fax: 703-787-1207
 - name: U.S. Fish and Wildlife Service
+  address:
+  - Johnny Hunt
+  - FOIA Contact, Division of Information Resources & Technology Management
+  - Arlington Square MS-380
+  - 4401 North Fairfax Drive
+  - Arlington, VA 22203
+  phone: 703-358-2504
+  fax: 703-358-2698
 - name: U.S. Geological Survey
+  address:
+  - Joye Durant
+  - Acting FOIA Contact
+  - MS-807, National Center
+  - 12201 Sunrise Valley Drive
+  - Reston, VA 20192
+  phone: 703-648-7196
+  fax: 703-648-7199
 - name: National Park Service
+  address:
+  - Charis Wilson
+  - NPS FOIA Officer
+  - P.O. Box 25287
+  - 12795 W. Alameda Parkway
+  - Denver, CO 80225
+  phone: 303-969-2959
+  fax: 303-969-2557
 - name: Office of the Inspector General
+  address:
+  - Kevin Krebs
+  - FOIA Contact
+  - MS-4428, MIB
+  - 1849 C Street, NW
+  - Washington, DC 20240
+  phone: 202-208-0954
 - name: Office of Natural Resources Revenue
+  address:
+  - Richard Lopez
+  - FOIA Contact
+  - MS-61023A
+  - PO Box 25165
+  - Denver, CO 80225-0165
+  phone: 303-231-3078
+  fax: 303-445-4288
 - name: Office of the Secretary
+  address:
+  - Clarice Julka
+  - FOIA Contact
+  - MS-116, SIB
+  - 1951 Constitution Avenue, NW
+  - Washington, DC 20240
+  phone: 202-513-0756
+  fax: 202-219-2374
 - name: Office of the Solicitor
+  address:
+  - Lance Purvis
+  - Acting FOIA Contact
+  - MS-6429, M1B
+  - 1849 C Street, NW
+  - Washington, DC 20240
+  phone: 202-208-5817
+  fax: 202-208-5206
 - name: Office of Surface Mining
+  address:
+  - Dele Awoniyi
+  - FOIA Contact
+  - MS-233, S1B
+  - 1951 Constitution Avenue, NW
+  - Washington, DC 20240
+  phone: 202-208-5840
+  fax: 202-219-3092
 - name: Office of the Special Trustee
+  address:
+  - Veronica Herkshan
+  - FOIA Contact
+  - MS-5140, MIB
+  - 1849 C Street, NW
+  - Washington, DC 20240
+  phone: 505-816-1645

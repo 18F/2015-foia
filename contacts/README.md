@@ -17,7 +17,7 @@ This data is meant to be a starting point -- something that can be easily correc
 Tested using Ruby `2.1.2`. Install dependencies with:
 
 ```bash
-gem install curb nokogiri
+gem install curb nokogiri htmlentities
 ```
 
 Then run `contacts.rb` to download and parse everything.
