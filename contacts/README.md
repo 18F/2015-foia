@@ -34,23 +34,30 @@ They may have a website, or a request form, or both.
 
 Data for an agency looks like this:
 
-```json
-{
-  "abbreviation": "DoD",
-  "name": "Department of Defense",
-  "description": "The mission of the Department of Defense is...",
-  "departments": [
-    {
-      "name": "Office of the Secretary and Joint Staff",
-      "address": "FOIA Contact...",
-      "phone": "(866) 574-4970",
-      "fax": "(571) 372-0500",
-      "email": null,
-      "website": "http://www.dod.gov/pubs/foi/",
-      "request_form": "http://www.dod.gov/pubs/foi/",
-    }
-  }
-  ]
-}
+```yaml
+---
+abbreviation: GSA
+name: Headquarters
+description: GSA's mission is to use expertise to provide innovative solutions for
+  our customers in support of their missions and by so doing, foster an effective,
+  sustainable, and transparent government for the American people.
+departments:
+- name: Headquarters
+  address:
+  - FOIA Contact
+  - FOIA Requester Service Center (H1C)
+  - Room 7308
+  - 1800 F. Street, NW
+  - Washington, DC 20405
+  phone: 855-675-3642
+  fax: 202-501-2727
+  emails:
+  - gsa.foia@gsa.gov
+  service_center: 'Phone: (855) 675-3642'
+  misc:
+    Program Manager: 'Travis Lewis, Phone: (202) 219-3078'
+  public_liaison: 'Audrey Corbett Brooks, Phone: (202) 205-5912'
+  website: http://www.gsa.gov/portal/category/21416
+
 ```
 
