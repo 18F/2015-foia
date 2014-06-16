@@ -1,0 +1,269 @@
+---
+abbreviation: EEOC
+name: I don't know which office
+description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
+  for enforcing federal laws that make it illegal to discriminate against a job applicant
+  or an employee because of the person's race, color, religion, sex (including pregnancy),
+  national origin, age (40 or older), disability or genetic information
+departments:
+- name: Headquarters
+  address:
+  - Stephanie Garner
+  - Assistant Legal Counsel/FOIA
+  - Suite 5NW02E
+  - 131 M Street, NE
+  - Washington, DC 20507
+  phone: 202-663-4634
+  fax: 202-663-4679
+  emails:
+  - FOIA@EEOC.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/eeoc/foia/
+- name: Atlanta District Office (Savanna Local Office)
+  address:
+  - William Batts
+  - Enforcement Manager
+  - Suite 4R30
+  - 100 Alabama Street, SW
+  - Atlanta, GA 30303
+  phone: 404-562-6840
+  fax: 404-562-6909
+  emails:
+  - ATLAFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/atlanta/foia.cfm
+- name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
+  address:
+  - Willie Alford
+  - Records Disclosure Coordinator
+  - Ridge Park Place, Suite 2000
+  - 1130 22nd Street
+  - Birmingham, AL 35205
+  phone: 205-212-2074
+  fax: 205-212-2105
+  emails:
+  - BIRMFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/birmingham/foia.cfm
+- name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
+    Offices; Raleigh Area Office
+  address:
+  - Joyce Stafford
+  - Records Disclosure Coordinator
+  - Suite 400
+  - 129 West Trade Street
+  - Charlotte, NC 28202
+  phone: 704-954-6488
+  fax: 704-344-6734
+  emails:
+  - CHARFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/charlotte/foia.cfm
+- name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
+  address:
+  - Sylvia Bustos
+  - Records Disclosure Coordinator
+  - Suite 2000
+  - 500 West Madison Street
+  - Chicago, IL 60661
+  phone: 312-353-8783
+  fax: 312-353-4041
+  emails:
+  - CHICFOIA@eeoc.gov
+  - MILWFOIA@eeoc.gov
+  - MINNFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/chicago/foia.cfm
+- name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
+  address:
+  - Peter Robinson
+  - Records Disclosure Coordinator
+  - 3rd Floor
+  - 207 S. Houston Street
+  - Dallas, TX 75202-4726
+  phone: 214-253-2732
+  emails:
+  - dallasfoia@eeoc.gov
+  - SAFOFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/dallas/foia.cfm
+- name: Houston District Office (New Orleans Field Office)
+  address:
+  - Susam Velasquez
+  - Records Disclosure Coordinator
+  - Mickey Leland Federal Building, 7th Floor
+  - 1919 Smith Street
+  - Houston, TX 77002-8049
+  phone: 713-209-3416
+  fax: 713-209-3381
+  emails:
+  - HOUSFOIA@eeoc.gov
+  - NLEANSFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/houston/foia.cfm
+- name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
+    Area Offices)
+  address:
+  - Janice Andrews
+  - Records Disclosure Coordinator
+  - Suite 1900
+  - 101 West Ohio Street
+  - Indianapolis, IN 46204-4203
+  phone: 317-226-6654
+  fax: 317-226-5571
+  emails:
+  - INDIFOIA@eeoc.gov
+  - DETRFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/indianapolis/foia.cfm
+- name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
+    Offices)
+  address:
+  - Lenee Sweeney
+  - Records Disclosure Coordinator
+  - 4th Floor
+  - 255 E. Temple Street
+  - Los Angeles, CA 90012
+  phone: 213-894-1712
+  fax: 213-894-1118
+  emails:
+  - LOSAFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/losangeles/foia.cfm
+- name: Memphis District Office (Little Rock and Nashville Area Offices)
+  address:
+  - Audrey Bonner
+  - Enforcement Manager
+  - Suite 900
+  - 1407 Union Avenue
+  - Memphis, TN 38104
+  phone: 901-544-0163
+  fax: 901-544-0111
+  emails:
+  - MEMPFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/memphis/foia.cfm
+- name: Miami District Office (Tampa Field Office and San Juan Local Office)
+  address:
+  - Carmen Figueroa-Martinez
+  - Records Disclosure Coordinator
+  - One Biscayne Tower, Suite 2700
+  - 2 South Biscayne Boulevard
+  - Miami, FL 33131
+  phone: 305-808-1796
+  fax: 305-808-1855
+  emails:
+  - MIAMFOIA@eeoc.gov
+  - PUERFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/miami/foia.cfm
+- name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
+  address:
+  - David Phillips
+  - Records Disclosure Coordinator
+  - 5th Floor
+  - 33 Whitehall Street
+  - New York, NY 10004
+  phone: 212-336-3644
+  fax: 212-336-3625
+  emails:
+  - NEWYFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/newyork/foia.cfm
+- name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
+    Area Office)
+  address:
+  - Fredericka Warren
+  - Records Disclosure Coordinator
+  - Suite 1300
+  - 801 Market Street
+  - Philadelphia, PA 19107-3127
+  phone: 215-440-2681
+  fax: 215-440-2847
+  emails:
+  - PHILFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/philadelphia/foia.cfm
+- name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
+  address:
+  - Silvia M. Hart
+  - Records Disclosure Officer
+  - Suite 690
+  - 3300 N. Central Avenue
+  - Phoenix, AZ 85012-2504
+  phone: 602-640-5012
+  fax: 602-640-5071
+  emails:
+  - phoenixfoia@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/phoenix/foia.cfm
+- name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
+    Local Offices)
+  address:
+  - Vincent Clark
+  - Records Disclosure Coordinator
+  - Suite 500
+  - 350 The Embarcadero
+  - San Francisco, CA 94105-1260
+  phone: 415-625-5632
+  fax: 415-625-5609
+  emails:
+  - SANFFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
+- name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
+  address:
+  - Inez Shiloah
+  - Records Disclosure Coordinator
+  - Robert A. Young, Room 8100
+  - 1222 Spruce Street
+  - St. Louis, MO 63103
+  phone: 314-539-7846
+  fax: 314-539-7893
+  emails:
+  - STLOFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/stlouis/foia.cfm
+- name: Washington Field Office
+  address:
+  - Betsy Parrish
+  - Records Disclosure Coordinator
+  - Suite 4NE29F
+  - 131 M Street, NE
+  - Washington, DC 20507
+  phone: 202-419-0705
+  emails:
+  - WASHFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/field/washington/foia.cfm
+- name: I don't know which office
+  address:
+  - Stephanie Garner
+  - Assistant Legal Counsel/FOIA, OLC/FOIA Programs
+  - Suite 5NW02E
+  - 131 M Street, NE
+  - Washington, DC 20507
+  phone: 202-663-4634
+  fax: 202-663-4639
+  emails:
+  - FOIA@EEOC.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  website: http://www.eeoc.gov/eeoc/foia/

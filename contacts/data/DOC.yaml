@@ -1,0 +1,202 @@
+---
+abbreviation: DOC
+name: I don't know which office
+description: The historic mission of the Department of Commerce is "to foster, promote,
+  and develop the foreign and domestic commerce" of the United States. This has evolved,
+  as a result of legislative and administrative additions, to encompass broadly the
+  responsibility to foster, serve, and promote the Nation's economic development and
+  technological advancement.
+departments:
+- name: Census Bureau
+  address:
+  - Michael Toland, Ph.D.
+  - Freedom of Information Act Officer
+  - Room 8H207
+  - 4600 Silver Hill Road
+  - Washington, DC 20233-3700
+  phone: 301-763-2127
+  fax: 301-763-6239
+  emails:
+  - census.efoia@census.gov
+  service_center: 'Phone: (301) 763-2127'
+  public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
+  website: http://www.census.gov/foia/
+  request_form: http://www.census.gov/foia/foia_request.php
+- name: Economics and Statistics Administration Bureau
+  address:
+  - Pamela Moulder
+  - Office of the Under Secretary for Economic Affairs
+  - Rom 4836
+  - Washington, DC 20230
+  phone: 202-482-5997
+  fax: 202-482-2889
+  emails:
+  - p.moulder@doc.gov
+  service_center: 'Phone: (202) 482-5997'
+  public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  website: https://www.esa.doc.gov/freedom-information-act
+- name: Economic Development Administration
+  address:
+  - Stephen Kong
+  - FOIA Officer
+  - Room 7325
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3085
+  fax: 202-482-5671
+  emails:
+  - SKong@eda.doc.gov
+  service_center: 'Phone: (202) 482-3085'
+  public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  website: http://www.eda.gov/foia.htm
+- name: Bureau of Industry and Security
+  address:
+  - Jennifer Kuo
+  - FOIA Officer
+  - Room 6622
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-0953
+  fax: 202-482-0326
+  emails:
+  - efoiarequest@bis.doc.gov
+  service_center: 'Phone: (202) 482-0953'
+  public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  website: http://www.bis.doc.gov/foia/default.htm
+- name: International Trade Administration
+  address:
+  - Justin Guz
+  - ITA FOIA Officer
+  - Room 40003
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-7937
+  fax: 202-482-1584
+  emails:
+  - FOIA@trade.gov
+  service_center: 'Phone: (202) 482-7937'
+  public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  website: http://www.ita.doc.gov/foia/
+- name: Minority Business Development Agency
+  address:
+  - Clara Colbert
+  - FOIA Officer
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-481-5045
+  fax: 202-482-2798
+  service_center: 'Phone: (202) 482-5045'
+  public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
+  website: http://www.mbda.gov/foia-reading-room
+- name: National Institute of Standards and Technology
+  address:
+  - Catherine S. Fletcher
+  - FOIA & Privacy Act Officer
+  - Stop 1710
+  - 100 Bureau Drive
+  - Gaithersburg, MD 20899-1710
+  phone: 301-975-4074
+  fax: 301-975-5301
+  emails:
+  - foia@nist.gov
+  service_center: 'Phone: (301) 975-4074'
+  public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+  website: http://www.nist.gov/director/foia/
+- name: National Technical Information Service
+  address:
+  - Lee Halvorsen
+  - FOIA Contact
+  - Number 305 - Sils Building
+  - 5301 Shawnee Road
+  - Alexandria, VA 22312
+  phone: 703-605-6710
+  fax: 703-605-6764
+  emails:
+  - LHalvorsen@ntis.gov
+  service_center: 'Phone: (703) 605-6404'
+  public_liaison: 'Steve Needle, Phone: (703) 605-6404'
+  website: http://www.ntis.gov/about/FOIA.aspx
+- name: National Telecommunications and Information Administration
+  address:
+  - Stacy Cheney
+  - FOIA Officer, Office of the Chief Counsel
+  - Room 4713
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-1816
+  fax: 202-501-8013
+  emails:
+  - eFOIA@ntia.doc.gov
+  service_center: 'Phone: (202) 482-1816'
+  public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
+- name: National Oceanic and Atmospheric Administration
+  address:
+  - Wendy Schumacher
+  - FOIA Contact
+  - Room 9719 - NOAA FOIA Office (SOU 10000)
+  - 1315 East-West Highway
+  - Silver Spring, MD 20910
+  phone: 301-713-3540
+  fax: 301-713-1169
+  emails:
+  - FOIA@noaa.gov
+  service_center: 'Phone: (301) 713-3540'
+  public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
+  website: http://www.noaa.gov/foia/
+- name: U.S. Patent and Trademark Office
+  address:
+  - Kathryn Siehndel
+  - FOIA Contact
+  - P.O. Box 1450
+  - Alexandria, VA 22313-1450
+  phone: 571-272-3000
+  fax: 571-501-7335
+  emails:
+  - efoia@uspto.gov
+  service_center: 'Phone: (571) 272-3000'
+  public_liaison: 'Dahlia George, Phone: (571) 272-3000'
+  website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
+- name: Office of Inspector General
+  address:
+  - Laura Bell
+  - FOIA Officer
+  - Room 7099
+  - 1401 Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3470
+  fax: 202-501-7921
+  emails:
+  - FOIA@oig.doc.gov
+  service_center: 'Phone: (202) 482-3470'
+  public_liaison: 'Laura Bell, Phone: (202) 482-3470'
+  website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
+  request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
+- name: Office of the Secretary
+  address:
+  - Bobbie Parsons
+  - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government
+  - Mail Stop H6204
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3257
+  fax: 202-482-0827
+  emails:
+  - Efoia@doc.gov
+  service_center: 'Phone: (202) 482-3257'
+  public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
+  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
+- name: I don't know which office
+  address:
+  - Brenda Dolan
+  - Departmental FOIA Officer, Office of Privacy and Open Government
+  - Mail Stop H6204
+  - 14th Street and Constitution Avenue, NW
+  - Washington, DC 20230
+  phone: 202-482-3258
+  fax: 202-482-0827
+  emails:
+  - Efoia@doc.gov
+  service_center: 'Phone: (202) 482-3258'
+  public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
+  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm

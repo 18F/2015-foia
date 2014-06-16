@@ -1,0 +1,64 @@
+---
+abbreviation: USPS
+name: Office of the Inspector General
+description: The USPS OIG achieves its mission of helping maintain confidence in the
+  postal system and improving the Postal Service´s bottom line through independent
+  audits and investigations. Audits of postal programs and operations help to determine
+  whether the programs and operations are efficient and cost-effective. Investigations
+  help prevent and detect fraud, waste, and misconduct and have a deterrent effect
+  on postal crimes.
+departments:
+- name: USPS Headquarters Office
+  address:
+  - FOIA Contact
+  - Manager, Records Office
+  - Room 9431
+  - 475 L'Enfant Plaza, SW
+  - Washington, DC 20260-1101
+  phone: 202-268-2608
+  fax: 202-268-5353
+  service_center: 'Phone: (202) 268-2608'
+  public_liaison: 'Jane Eyre, Phone: (202) 268-2608'
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
+- name: USPS Field Office
+  address:
+  - FOIA Contact
+  - St. Louis General Law Service Center
+  - Room 2400
+  - 1720 Market Street
+  - St. Louis, MO 63155-9948
+  phone: 314-345-5894
+  fax: 650-578-4956
+  service_center: 'Phone: (314) 345-5894'
+  public_liaison: 'Brittany Lindsay, Phone: (314) 345-5894'
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
+- name: Postal Inspection Service
+  address:
+  - FOIA Contact
+  - Office of Counsel
+  - Room 3301
+  - 475 L´Enfant Plaza, SW
+  - Washington, DC 20260
+  phone: 202-268-7004
+  fax: 202-268-4538
+  service_center: 'Phone: (202) 268-7004'
+  public_liaison: 'Betty White, Phone: (202) 268-7004'
+  website: http://www.usps.com/foia/welcome.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx
+- name: Office of the Inspector General
+  address:
+  - FOIA Contact
+  - FOIA Contact
+  - Suite 10000
+  - 1735 North Lynn Street
+  - Arlington , VA 22209-2020
+  phone: 703-248-2100
+  fax: 703-248-4626
+  emails:
+  - FOIA@uspsoig.gov
+  service_center: 'Phone: (703) 248-2100'
+  public_liaison: 'Betsy Cuthbertson, Phone: (703) 248-2100'
+  website: http://www.uspsoig.gov/foia.htm
+  request_form: https://pfoiapal.usps.com/palMain.aspx

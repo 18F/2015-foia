@@ -1,0 +1,149 @@
+---
+abbreviation: Treasury
+name: Treasury Inspector General for Tax Administration
+description: The Department's mission is to maintain a strong economy and create economic
+  and job opportunities by promoting the conditions that enable economic growth and
+  stability at home and abroad, strengthen national security by combating threats
+  and protecting the integrity of the financial system, and manage the U.S. Government´s
+  finances and resources effectively.
+departments:
+- name: Departmental Offices
+  address:
+  - Hugh Gilmore
+  - Director, Disclosure Services
+  - 1500 Pennsylvania Avenue, NW
+  - Washington, DC 20220
+  phone: 202-622-0930
+  fax: 202-622-3895
+  service_center: 'Phone: (202) 622-0930'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.treasury.gov/foia/Pages/index.aspx
+  request_form: https://www.onlinefoia.treasury.gov/
+- name: Alcohol and Tobacco Tax and Trade Bureau
+  address:
+  - Quinton Mason
+  - FOIA Contact, Disclosure Services
+  - Box 12
+  - 1310 G Street, NW
+  - Washington, DC 20005
+  phone: 202-882-9904
+  fax: 202-453-2331
+  service_center: 'Phone: (202) 882-9904'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.ttb.gov/foia/index.shtml
+  request_form: https://www.onlinefoia.treasury.gov/
+- name: Bureau of Engraving and Printing
+  address:
+  - Leslie J. Rivera-Pagán, Disclosure Officer
+  - 'Office of the Chief Counsel, ATTN: FOIA and Transparency Services'
+  - Room 419A
+  - 14th & C Street, SW
+  - Washington, DC 20228
+  phone: 202-874-2500
+  fax: 202-874-2951
+  service_center: 'Phone: (202) 874-2058'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://moneyfactory.gov/foia.html
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+- name: Comptroller of the Currency
+  address:
+  - Frank Vance
+  - Disclosures Services
+  - Communications Division
+  - Mail Stop 2-3
+  - Washington, DC 20219
+  phone: 202-874-4700
+  emails:
+  - foia-pa@occ.treas.gov
+  service_center: 'Phone: (202) 874-4700'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.occ.gov/about/foia/index-foia.html
+  request_form: https://appsec.occ.gov/publicaccesslink/palMain.aspx
+- name: Financial Crimes Enforcement Network
+  address:
+  - Amanda Michanczyk
+  - Disclosure (FOIA) Office
+  - P.O. Box 39
+  - Vienna, VA 22183
+  phone: 703-905-5034
+  fax: 703-905-5126
+  service_center: 'Phone: (703) 905-5034'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.fincen.gov/foia/
+- name: Financial Management Service
+  address:
+  - Cynthia Sydnor
+  - Disclosure Officer
+  - Room 553B
+  - 401 14th Street, SW
+  - Washington, DC 20227
+  phone: 202-874-1502
+  fax: 202-874-2391
+  service_center: 'Phone: (202) 874-6837'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.fms.treas.gov/foia/index.html
+  request_form: http://www.fms.treas.gov/foia/request.html
+- name: Internal Revenue Service - Headquarters Office
+  address:
+  - FOIA Contact
+  - Stop 211
+  - 2980 Brandywine Road
+  - Chamblee, GA 30341
+  phone: 202-317-6475
+  service_center: 'Phone: (202) 317-6475'
+  public_liaison: 'Bertrand Tzeng, Phone: (202) 317-6475'
+  website: http://www.irs.gov/uac/IRS-Freedom-of-Information
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+- name: United States Mint
+  address:
+  - Kathleen Saunders-Mitchell
+  - FOIA Contact
+  - 8th Floor
+  - 801 9th Street, NW
+  - Washington, DC 20220
+  phone: 202-354-4600
+  fax: 202-756-6153
+  service_center: 'Phone: (202) 354-6788'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.usmint.gov/FOIA/
+- name: Bureau of Public Debt
+  address:
+  - Denise Nelson
+  - Disclosure Officer, Division of Administrative Services
+  - Avery A5-A
+  - 200 Third Street
+  - Parkersburg, WV 26106
+  phone: 304-480-8402
+  fax: 304-480-8188
+  service_center: 'Phone: (304) 480-8402'
+  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  website: http://www.treasurydirect.gov/foia.htm
+  request_form: https://www.onlinefoia.treasury.gov/
+- name: Office of Thrift Supervision
+  address:
+  - Marilyn K. Burton
+  - FOIA Contact
+  - 1700 G Street, NW
+  - Washington, DC 20552
+  phone: 202-906-5922
+  fax: 202-906-6353
+  emails:
+  - public.info@ots.treas.gov
+  service_center: 'Phone: (202) 906-5922'
+  public_liaison: 'Dick Roberts, Phone: (202) 906-7631'
+  website: http://www.ots.treas.gov/?p=FreedomOfInformationAct
+- name: Treasury Inspector General for Tax Administration
+  address:
+  - Amy P. Jones
+  - FOIA Contact, Office of the Chief Counsel, Disclosure Branch
+  - Suite 469
+  - 1401 H Street, NW
+  - Washington, DC 20005
+  phone: 202-622-4068
+  fax: 202-622-3339
+  emails:
+  - FOIA.Reading.Room@tigta.treas.gov
+  service_center: 'Phone: (202) 622-4068'
+  public_liaison: 'Amy P. Jones, Phone: (202) 622-4068'
+  website: http://www.treasury.gov/tigta/important_foia.shtml

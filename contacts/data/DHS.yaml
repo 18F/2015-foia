@@ -1,0 +1,243 @@
+---
+abbreviation: DHS
+name: I don't know which office
+description: 'The Department of Homeland Security has a vital mission: to secure the
+  nation from the many threats we face. This requires the dedication of more than
+  230,000 employees in jobs that range from aviation and border security to emergency
+  response, from cybersecurity analyst to chemical facility inspector'
+departments:
+- name: Headquarters & Privacy Office
+  address:
+  - Karen Neuman
+  - FOIA Officer
+  - STOP-0655
+  - 245 Murray Lane, SW
+  - Washington, DC 20528-0655
+  phone: 202-343-1743
+  fax: 202-343-4011
+  emails:
+  - foia@hq.dhs.gov
+  service_center: 'Phone: (202) 343-1743, (866) 431-0486'
+  public_liaison: 'Angela Washington, Acting, Phone: (202) 343-1743, (866) 431-0486'
+  website: http://www.dhs.gov/xfoia/editorial_0579.shtm
+  request_form: http://www.dhs.gov/make-foia-request
+- name: U.S. Citizenship & Immigration Services
+  address:
+  - Jill Eggleston
+  - FOIA Officer
+  - National Records Center, FOIA/PA Office
+  - P.O. Box 648010
+  - Lee's Summit, MO 64064-8010
+  phone: 800-375-5283
+  fax: 816-350-5785
+  emails:
+  - uscis.foia@dhs.gov
+  service_center: 'Phone: (816) 350-5521 (USCIS National Customer Service Unit)'
+  public_liaison: 'Jill Eggleston, Phone: (816) 350-5521'
+  website: http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=34139c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=34139c7755cb9010VgnVCM10000045f3d6a1RCRD
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+- name: Office for Civil Rights and Civil Liberties
+  address:
+  - Aeron Pineiro, Acting
+  - FOIA Officer
+  - 'Building 410, Mail Stop #0190'
+  - 245 Murray Lane, SW
+  - Washington, DC 20528
+  phone: 202-357-1218
+  fax: 202-357-1196
+  emails:
+  - CRCL@dhs.gov
+  service_center: 'Phone: (202) 357-1218'
+  public_liaison: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
+  website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
+- name: U.S. Coast Guard
+  address:
+  - Gaston Brewer
+  - FOIA Officer
+  - 'Commandant (CG-611), ATTN: FOIA Coordinator'
+  - 2703 Martin Luther King Jr Ave
+  - Washington, DC 20593-7710
+  phone: 202-475-3522
+  fax: 202-475-3927
+  emails:
+  - efoia@uscg.mil
+  service_center: 'Amanda Ackerson, Phone: (202) 475-3522'
+  public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
+  website: http://www.uscg.mil/foia/
+- name: U.S. Customs & Border Protection
+  address:
+  - Sabrina Burroughs
+  - FOIA Officer
+  - 90 K Street, NE
+  - 9th Floor
+  - Washington, DC 20229-1181
+  phone: 202-325-0150
+  fax: 202-325-0230
+  service_center: 'Phone: (202) 325-0150'
+  public_liaison: 'Sabrina Burroughs, Phone: (202) 325-0150'
+  website: http://www.cbp.gov/xp/cgov/admin/fl/foia/
+  request_form: https://foia.cbp.gov/palMain.aspx
+- name: Federal Emergency Management Agency
+  address:
+  - Terry Cochran
+  - FOIA Officer
+  - Room 840
+  - 500 C Street, SW
+  - Washington, DC 20472
+  phone: 202-646-3323
+  fax: 202-646-3347
+  emails:
+  - fema-foia@dhs.gov
+  service_center: 'Phone: (202) 646-3323'
+  public_liaison: 'Terry Cochran, Phone: (202) 646-3323'
+  website: http://www.fema.gov/help/foia.shtm
+  request_form: https://faq.fema.gov/ci/documents/submit
+- name: Federal Law Enforcement Training Center
+  address:
+  - Leslie A. Jensen
+  - FOIA Officer
+  - 'Building #681, Suite 187B'
+  - Glynco, GA 31524
+  phone: 912-267-3103
+  fax: 912-267-3113
+  emails:
+  - fletc-foia@dhs.gov
+  service_center: 'Phone: (912) 267-3103'
+  public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
+  website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
+  request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
+- name: U.S. Immigration & Customs Enforcement
+  address:
+  - Catrina Pavlick-Keenan
+  - FOIA Officer
+  - Mail Stop 5009
+  - 500 12th Street, SW
+  - Washington, DC 20536-5009
+  phone: 202-732-4265
+  fax: 202-732-4265
+  emails:
+  - ice-foia@dhs.gov
+  service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
+  public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
+  website: http://www.ice.gov/foia/index.htm
+  request_form: http://www.ice.gov/foia/request-form.htm
+- name: Office of the Inspector General
+  address:
+  - Stephanie Kuehn
+  - FOIA Officer
+  - Mail Stop 0305
+  - 245 Murray Drive
+  - Washington, DC 20528-0305
+  phone: 202-254-4001
+  fax: 202-254-4398
+  emails:
+  - foia.oig@oig.dhs.gov
+  service_center: 'Phone: (202) 254-4001'
+  public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
+  website: http://www.dhs.gov/xfoia/editorial_0788.shtm
+- name: Office of Intelligence & Analysis
+  address:
+  - Priscilla Waters
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 202-447-4883
+  fax: 202-612-1936
+  emails:
+  - I&AFOIA@hq.dhs.gov
+  service_center: 'Phone: (202) 282-8191'
+  public_liaison: 'Priscilla Waters, Phone: (202) 447-4190'
+  website: http://www.dhs.gov/xfoia/gc_1294073392661.shtm
+- name: Directorate for National Protection and Programs
+  address:
+  - Sandy Ford Page
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 703-235-2211
+  fax: 703-235-2052
+  emails:
+  - NPPD.FOIA@dhs.gov
+  service_center: 'Phone: (703) 235-2211'
+  public_liaison: 'Sandy Ford Page, Phone: (703) 235-2211'
+  website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
+- name: Office of Operations Coordination and Planning
+  address:
+  - Michael Page
+  - FOIA Officer
+  - Washington, DC 20528
+  phone: 202-447-4156
+  fax: 202-282-9811
+  emails:
+  - FOIAOPS@DHS.GOV
+  service_center: 'Phone: (202) 447-4156'
+  public_liaison: 'Michael Page, Phone: (202) 447-4156'
+  website: http://www.dhs.gov/xabout/structure/editorial_0797.shtm
+- name: Science & Technology Directorate
+  address:
+  - Katrina Hagan
+  - FOIA Officer
+  - Mail Stop 0205
+  - 245 Murray Ln SW
+  - Washington, DC 20528
+  phone: 202-254-6342
+  fax: 202-254-6739
+  emails:
+  - stfoia@hq.dhs.gov
+  service_center: 'Phone: (202) 254-6342'
+  public_liaison: 'Katrina Hagan, Phone: (202) 254-6342'
+  website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
+- name: United States Secret Service
+  address:
+  - Latita Payne
+  - Disclosure Officer, FOIA/PA Program, Liaison Division
+  - Building 410
+  - 245 Murray Drive
+  - Washington, DC 20223
+  phone: 202-406-6370
+  fax: 202-406-5586
+  emails:
+  - FOIA@usss.dhs.gov
+  service_center: 'Phone: (202) 406-6370'
+  public_liaison: 'Latita Payne, Phone: (202) 406-6370'
+  website: http://www.secretservice.gov/foia.shtml
+- name: Transportation Security Administration
+  address:
+  - Yvonne Coates
+  - FOIA Officer
+  - 11th Floor, East Tower, TSA-20
+  - 601 S. 12th Street
+  - Arlington, VA 22202-4220
+  phone: 866-364-2872
+  fax: 571-227-1406
+  emails:
+  - foia.tsa@dhs.gov
+  service_center: 'Phone: (866) 364-2872, (571) 227-2300'
+  public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
+  website: http://www.tsa.gov/research/foia/index.shtm
+- name: Office of Biometric Identity Management
+  address:
+  - Michael Johnson
+  - FOIA Officer
+  - 245 Murray Lane, SW
+  - Washington, DC 20598-0628
+  phone: 202-295-5454
+  fax: 202-295-5445
+  emails:
+  - OBIM-FOIA@ice.dhs.gov
+  service_center: 'Phone: (202) 295-5454'
+  public_liaison: 'Michael Johnson, Phone: (202) 295-5454'
+  website: http://www.dhs.gov/files/programs/usv.shtm
+- name: I don't know which office
+  address:
+  - FOIA Officer
+  - STOP-0655
+  - 245 Murray Lane, SW
+  - Washington, DC 20528-0655
+  phone: 202-343-1743
+  fax: 202-343-4011
+  emails:
+  - foia@hq.dhs.gov
+  service_center: 'Phone: (202) 343-1743, (866) 431-0486'
+  public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'
+  website: http://www.dhs.gov/xfoia/editorial_0579.shtm
+  request_form: http://www.dhs.gov/make-foia-request

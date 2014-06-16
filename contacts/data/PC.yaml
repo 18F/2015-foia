@@ -1,0 +1,35 @@
+---
+abbreviation: PC
+name: Office of the Inspector General
+description: "In 1961, President John F. Kennedy established the Peace Corps to promote
+  world peace and friendship.\r\n\r\nThe Peace Corps' mission has three simple goals:
+  \r\n\r\nHelping the people of interested countries in meeting their need for trained
+  men and women. \r\nHelping promote a better understanding of Americans on the part
+  of the peoples served. \r\nHelping promote a better understanding of other peoples
+  on the part of Americans."
+departments:
+- name: Main Office
+  address:
+  - Denora Miller
+  - FOIA/Privacy Act Officer, Office of Management
+  - 1111 20th Street, NW
+  - Washington, DC 20536-0001
+  phone: 202-692-1236
+  fax: 202-692-1385
+  emails:
+  - foia@peacecorps.gov
+  service_center: 'Phone: (202) 692-1236'
+  public_liaison: 'Denora Miller, Phone: (202) 692-1236'
+  website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
+- name: Office of the Inspector General
+  address:
+  - Jeffrey Reichert
+  - FOIA Contact
+  - 1111 20th Street, NW
+  - Washington, DC 20536-0001
+  phone: 202-692-2922
+  emails:
+  - foia@peacecorps.gov
+  service_center: 'Phone: (202) 692-2922'
+  public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
+  website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
