@@ -17,6 +17,8 @@ departments:
   fax: 202-663-4679
   emails:
   - FOIA@EEOC.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/eeoc/foia/
 - name: Atlanta District Office (Savanna Local Office)
   address:
@@ -29,6 +31,8 @@ departments:
   fax: 404-562-6909
   emails:
   - ATLAFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/atlanta/foia.cfm
 - name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
   address:
@@ -41,6 +45,8 @@ departments:
   fax: 205-212-2105
   emails:
   - BIRMFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
     Offices; Raleigh Area Office
@@ -54,6 +60,8 @@ departments:
   fax: 704-344-6734
   emails:
   - CHARFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/charlotte/foia.cfm
 - name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   address:
@@ -68,6 +76,8 @@ departments:
   - CHICFOIA@eeoc.gov
   - MILWFOIA@eeoc.gov
   - MINNFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/chicago/foia.cfm
 - name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
   address:
@@ -80,6 +90,8 @@ departments:
   emails:
   - dallasfoia@eeoc.gov
   - SAFOFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/dallas/foia.cfm
 - name: Houston District Office (New Orleans Field Office)
   address:
@@ -93,6 +105,8 @@ departments:
   emails:
   - HOUSFOIA@eeoc.gov
   - NLEANSFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/houston/foia.cfm
 - name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
     Area Offices)
@@ -107,6 +121,8 @@ departments:
   emails:
   - INDIFOIA@eeoc.gov
   - DETRFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
     Offices)
@@ -120,6 +136,8 @@ departments:
   fax: 213-894-1118
   emails:
   - LOSAFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - name: Memphis District Office (Little Rock and Nashville Area Offices)
   address:
@@ -132,6 +150,8 @@ departments:
   fax: 901-544-0111
   emails:
   - MEMPFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/memphis/foia.cfm
 - name: Miami District Office (Tampa Field Office and San Juan Local Office)
   address:
@@ -145,6 +165,8 @@ departments:
   emails:
   - MIAMFOIA@eeoc.gov
   - PUERFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/miami/foia.cfm
 - name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
   address:
@@ -157,6 +179,8 @@ departments:
   fax: 212-336-3625
   emails:
   - NEWYFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/newyork/foia.cfm
 - name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
     Area Office)
@@ -170,6 +194,8 @@ departments:
   fax: 215-440-2847
   emails:
   - PHILFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
   address:
@@ -182,6 +208,8 @@ departments:
   fax: 602-640-5071
   emails:
   - phoenixfoia@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/phoenix/foia.cfm
 - name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
     Local Offices)
@@ -195,6 +223,8 @@ departments:
   fax: 415-625-5609
   emails:
   - SANFFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
   address:
@@ -207,6 +237,8 @@ departments:
   fax: 314-539-7893
   emails:
   - STLOFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - name: Washington Field Office
   address:
@@ -218,6 +250,8 @@ departments:
   phone: 202-419-0705
   emails:
   - WASHFOIA@eeoc.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/field/washington/foia.cfm
 - name: I don't know which office
   address:
@@ -230,4 +264,6 @@ departments:
   fax: 202-663-4639
   emails:
   - FOIA@EEOC.gov
+  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   website: http://www.eeoc.gov/eeoc/foia/

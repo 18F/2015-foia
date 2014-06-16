@@ -18,6 +18,8 @@ departments:
   fax: 202-692-1385
   emails:
   - foia@peacecorps.gov
+  service_center: 'Phone: (202) 692-1236'
+  public_liaison: 'Denora Miller, Phone: (202) 692-1236'
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 - name: Office of the Inspector General
   address:
@@ -28,4 +30,6 @@ departments:
   phone: 202-692-2922
   emails:
   - foia@peacecorps.gov
+  service_center: 'Phone: (202) 692-2922'
+  public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia

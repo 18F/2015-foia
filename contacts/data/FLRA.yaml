@@ -14,6 +14,8 @@ departments:
   fax: 202-343-1007
   emails:
   - solmail@flra.gov
+  service_center: 'Phone: (202) 218-7770'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Office of the General Counsel
   address:
@@ -24,6 +26,8 @@ departments:
   fax: 202-482-6608
   emails:
   - ogcmail@flra.gov
+  service_center: 'Phone: (202) 218-7910'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Atlanta Regional Office
   address:
@@ -35,6 +39,8 @@ departments:
   fax: 404-331-5280
   emails:
   - aromail@flra.gov
+  service_center: 'Phone: (404) 331-5300'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Boston Regional Office
   address:
@@ -46,6 +52,8 @@ departments:
   fax: 617-565-6262
   emails:
   - bromail@flra.gov
+  service_center: 'Phone: (617) 565-5100'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Chicago Regional Office
   address:
@@ -57,6 +65,8 @@ departments:
   fax: 312-886-5977
   emails:
   - cromail@flra.gov
+  service_center: 'Phone: (312) 886-3465'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Dallas Regional Office
   address:
@@ -68,6 +78,8 @@ departments:
   fax: 214-767-0156
   emails:
   - daromail@flra.gov
+  service_center: 'Phone: (214) 767-6266'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: Denver Regional Office
   address:
@@ -79,6 +91,8 @@ departments:
   fax: 303-844-2774
   emails:
   - daromail@flra.gov
+  service_center: 'Phone: (303) 844-5226'
+  public_liaison: ''
   website: http://www.flra.gov/FOIA
 - name: San Francisco Regional Office
   address:
@@ -90,6 +104,8 @@ departments:
   fax: 415-356-5017
   emails:
   - sromail@flra.gov
+  service_center: 'Phone: (415) 356-5000'
+  public_liaison: ''
   website: http://www.flra.gov/foia_contact
 - name: Washington Regional Office
   address:
@@ -101,6 +117,8 @@ departments:
   fax: 202-482-6724
   emails:
   - wromail@flra.gov
+  service_center: 'Phone: (202) 482-6700'
+  public_liaison: ''
   website: http://www.flra.gov/foia_contact
 - name: The Federal Service Impasses Panel
   address:
@@ -111,6 +129,8 @@ departments:
   fax: 202-482-6674
   emails:
   - fsipmail@flra.gov
+  service_center: 'Phone: (202) 218-7790'
+  public_liaison: ''
   website: http://www.flra.gov/foia_contact
 - name: Office of the Inspector General
   address:
@@ -121,6 +141,8 @@ departments:
   fax: 202-482-0573
   emails:
   - oigmail@flra.gov
+  service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
+  public_liaison: ''
   website: http://www.flra.gov/foia_contact
 - name: I don't know which office
   address:
@@ -132,4 +154,6 @@ departments:
   fax: 202-343-1007
   emails:
   - solmail@flra.gov
+  service_center: 'Phone: (202) 218-7770'
+  public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
   website: http://www.flra.gov/FOIA

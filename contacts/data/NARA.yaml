@@ -16,7 +16,11 @@ departments:
   fax: 301-837-0293
   emails:
   - foia@nara.gov
+  service_center: 'Phone: (301) 837-3642'
+  public_liaison: 'Gary Stern, Phone: (301) 837-2024'
   website: http://www.archives.gov/foia/index.html
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Office of the Inspector General
   address:
   - FOIA Contact
@@ -25,6 +29,8 @@ departments:
   - College Park, MD 20740
   phone: 301-837-3000
   fax: 301-837-3197
+  service_center: 'Phone: (301) 837-3000'
+  public_liaison: 'John Simms, Phone: (301) 837-3197'
   website: http://www.archives.gov/foia/index.html
 - name: Accessioned Executive Branch Agency Records - Washington, DC Area
   address:
@@ -37,6 +43,8 @@ departments:
   fax: 301-837-1864
   emails:
   - specialaccess_foia@nara.gov
+  service_center: 'Phone: (301) 837-3190'
+  public_liaison: 'Steven Tilley, Phone: (301) 837-3059'
   website: http://www.archives.gov/foia/index.html
 - name: Pacific Alaska Region (Anchorage)
   address:
@@ -47,6 +55,8 @@ departments:
   fax: 907-261-7813
   emails:
   - alaska.archives@nara.gov
+  service_center: 'Phone: (979) 691-4000'
+  public_liaison: 'R. Bruce Parham, Phone: (907) 261-7801'
   website: http://www.archives.gov/pacific-alaska/anchorage/
 - name: Southeast Region (Atlanta)
   address:
@@ -57,6 +67,8 @@ departments:
   fax: 770-968-2547
   emails:
   - atlanta.archives@nara.gov
+  service_center: 'Phone: (770) 968-2100'
+  public_liaison: 'Richard Rayburn, Phone: (770) 968-2547'
   website: http://www.archives.gov/southeast/
 - name: Northeast Region (Boston)
   address:
@@ -68,6 +80,8 @@ departments:
   fax: 781-663-0154
   emails:
   - waltham.archives@nara.gov
+  service_center: 'Phone: (781) 663-0130'
+  public_liaison: 'Patricia Foley, Phone: (781) 663-0121'
   website: ''
 - name: Great Lakes Region (Chicago)
   address:
@@ -78,6 +92,8 @@ departments:
   fax: 773-948-9050
   emails:
   - chicago.archives@nara.gov
+  service_center: 'Phone: (773) 581-7816'
+  public_liaison: 'Douglas Bicknese, Phone: (773) 948-0009'
   website: http://www.archives.gov/great-lakes/
 - name: Rocky Mountain Region (Denver)
   address:
@@ -88,6 +104,8 @@ departments:
   fax: 303-407-5709
   emails:
   - denver.archives@nara.gov
+  service_center: 'Phone: (303) 407-5740'
+  public_liaison: 'Eileen Bolger, Phone: (303) 407-5749'
   website: http://www.archives.gov/rocky-mountain/
 - name: Southwest Region (Fort Worth)
   address:
@@ -98,6 +116,8 @@ departments:
   fax: 817-551-2034
   emails:
   - ftworth.archives@nara.gov
+  service_center: 'Phone: (817) 334-5525'
+  public_liaison: 'Meg Hacker, Phone: (917) 831-5643'
   website: http://www.archives.gov/southwest/
 - name: Central Plains Region (Kansas City)
   address:
@@ -108,6 +128,8 @@ departments:
   fax: 816-268-8038
   emails:
   - kansascity.archives@nara.gov
+  service_center: 'Phone: (816) 268-8000'
+  public_liaison: 'Phone: (816) 268-8017'
   website: http://www.archives.gov/locations/regional-archives.html
 - name: Northeast Region (New York)
   address:
@@ -119,6 +141,8 @@ departments:
   fax: 212-401-1638
   emails:
   - newyork.archives@nara.gov
+  service_center: 'Phone: (212) 401-1620'
+  public_liaison: 'Nancy Shader, Phone: (212) 401-1626'
   website: http://www.archives.gov/northeast/nyc/
 - name: Mid-Atlantic Region (City Center Philadelphia)
   address:
@@ -129,6 +153,8 @@ departments:
   fax: 215-606-0116
   emails:
   - philadelphia.archives@nara.gov
+  service_center: 'Phone: (215) 305-2000'
+  public_liaison: 'John McEvoy, Phone: (215) 305-2005'
   website: http://www.archives.gov/midatlantic/
 - name: Pacific Region (San Francisco)
   address:
@@ -139,6 +165,8 @@ departments:
   fax: 650-238-3510
   emails:
   - sanbruno.archives@nara.gov
+  service_center: 'Phone: (949) 360-2641'
+  public_liaison: 'Dan Nealand, Phone: (650) 238-3478'
   website: http://www.archives.gov/pacific/san-francisco/
 - name: Pacific Region (Seattle)
   address:
@@ -149,6 +177,8 @@ departments:
   fax: 206-336-5112
   emails:
   - seattle.archives@nara.gov
+  service_center: 'Phone: (206) 336-5115'
+  public_liaison: 'Sue Karren, Phone: (206) 336-5141'
   website: http://www.archives.gov/pacific-alaska/seattle/
 - name: I don't know which office
   address:
@@ -161,4 +191,6 @@ departments:
   fax: 301-837-0293
   emails:
   - foia@nara.gov
+  service_center: 'Phone: (301) 837-3642'
+  public_liaison: 'Gary Stern, Phone: (301) 837-2024'
   website: http://www.archives.gov/foia/index.html

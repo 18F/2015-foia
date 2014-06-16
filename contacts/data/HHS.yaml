@@ -14,6 +14,8 @@ departments:
   - Washington, DC  20201
   phone: 202-690-7453
   fax: 202-690-8320
+  service_center: 'Phone: (202) 690-7453'
+  public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
   website: http://www.hhs.gov/foia/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Office of the Inspector General
@@ -25,6 +27,8 @@ departments:
   - Washington, DC 20201
   phone: 202-619-2541
   fax: 202-205-4030
+  service_center: 'Phone: (202) 619-2541'
+  public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
   website: http://oig.hhs.gov/foia/
   request_form: http://oig.hhs.gov/foia/submit.asp
 - name: Administration for Community Living
@@ -33,6 +37,8 @@ departments:
   - Acting FOIA Officer
   - Washington, DC 20201
   phone: 202-401-4634
+  service_center: 'Phone: (202) 401-4634'
+  public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
   website: http://www.aoa.gov/AoARoot/Site_Utilities/FOIA/index.aspx
 - name: Administration for Children and Families
   address:
@@ -45,6 +51,8 @@ departments:
   fax: 202-401-4829
   emails:
   - foia@acf.hhs.gov
+  service_center: 'Phone: (888) 747-1861'
+  public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
   website: http://www.acf.hhs.gov/acf_foia.html
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
 - name: Agency for Healthcare Research and Quality
@@ -57,6 +65,8 @@ departments:
   phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
+  service_center: 'Phone: (301) 492-4800'
+  public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Centers for Disease Control and Prevention
@@ -70,6 +80,8 @@ departments:
   fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
+  service_center: 'Phone: (770) 488-6399'
+  public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   website: http://www.cdc.gov/od/foia/index.htm
 - name: Agency for Toxic Substances and Disease Registry
   address:
@@ -82,6 +94,8 @@ departments:
   fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
+  service_center: 'Phone: (770) 488-6399'
+  public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   website: http://www.cdc.gov/od/foia/index.htm
 - name: Center for Medicare and Medicaid Services
   address:
@@ -92,7 +106,11 @@ departments:
   - Baltimore, MD 21244
   phone: 410-786-5353
   fax: 410-786-0474
+  service_center: 'Phone: (410) 786-5353'
+  public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
   website: http://www.cms.gov/foia/
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Food and Drug Administration
   address:
   - Frederick J. Sadler
@@ -104,7 +122,11 @@ departments:
   - Rockville, MD 20857
   phone: 301-796-3900
   fax: 301-827-9267
+  service_center: 'Phone: (301) 796-3900'
+  public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Health Resources and Services Administration
   address:
   - Tom Flavin
@@ -116,6 +138,8 @@ departments:
   fax: 301-480-5285
   emails:
   - foia@hrsa.gov
+  service_center: 'Phone: (301) 443-3376'
+  public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
   website: http://www.hrsa.gov/foia/
 - name: Indian Health Service
   address:
@@ -126,8 +150,12 @@ departments:
   - Rockville, MD 20852
   phone: 301-443-1116
   fax: 301-443-9879
+  service_center: 'Phone: (301) 443-1116'
+  public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: National Institutes of Health
   address:
   - Susan Cornell
@@ -137,7 +165,11 @@ departments:
   - Bethesda, MD 20892
   phone: 301-496-5633
   fax: 301-402-4541
+  service_center: 'Phone: (301) 496-5633'
+  public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   website: http://www.nih.gov/icd/od/foia/index.htm
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Program Support Center
   address:
   - Carol Maloney
@@ -148,6 +180,8 @@ departments:
   phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
+  service_center: 'Phone: (301) 492-4800'
+  public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
 - name: Substance Abuse and Mental Health Services Administration
@@ -161,4 +195,6 @@ departments:
   fax: 240-276-2135
   emails:
   - foia@samhsa.hhs.gov
+  service_center: 'Phone: (240) 276-2137'
+  public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
   website: http://www.samhsa.gov/foia/

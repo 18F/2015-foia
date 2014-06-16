@@ -15,6 +15,8 @@ departments:
   fax: 202-358-4332
   emails:
   - foia@hq.nasa.gov
+  service_center: 'Phone: (202) 358-2562'
+  public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
 - name: Ames Research Center
@@ -27,6 +29,8 @@ departments:
   fax: 650-604-0688
   emails:
   - foia@arc.nasa.gov
+  service_center: 'Phone: (650) 604-3273'
+  public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
 - name: Dryden Flight Research Center
   address:
@@ -39,6 +43,8 @@ departments:
   fax: 661-276-3566
   emails:
   - dfrc-foia@nasa.gov
+  service_center: 'Phone: (661) 276-2704'
+  public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
   website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
 - name: Glenn Research Center
   address:
@@ -50,6 +56,8 @@ departments:
   fax: 216-433-5489
   emails:
   - foia@grc.nasa.gov
+  service_center: 'Phone: (216) 443-2813'
+  public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - name: Goddard Space Flight Center
   address:
@@ -61,6 +69,8 @@ departments:
   fax: 301-286-1712
   emails:
   - foia@gsfc.nasa.gov
+  service_center: 'Phone: (301) 286-4271'
+  public_liaison: 'Joan Belt, Phone: (301) 286-4271'
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
   request_form: http://www.nasa.gov/centers/goddard/business/foia/e-foia.html#efoia
 - name: Jet Propulsion Laboratory
@@ -74,6 +84,8 @@ departments:
   fax: 818-393-3160
   emails:
   - jpl-foia@nasa.gov
+  service_center: 'Phone: (818) 393-6779'
+  public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
   website: http://nmo.nasa.gov/cfm_nasa/foia.cfm
   request_form: https://nmo.nasa.gov/foia/foia_requester.cfm?CFID=231001&CFTOKEN=98756504
 - name: Johnson Space Center
@@ -86,6 +98,8 @@ departments:
   fax: 281-483-4876
   emails:
   - jsc-foia@mail.nasa.gov
+  service_center: 'Phone: (281) 483-8252'
+  public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
   website: http://www.nasa.gov/centers/johnson/news/foia.html
 - name: Kennedy Space Center
   address:
@@ -97,6 +111,8 @@ departments:
   fax: 321-867-8007
   emails:
   - foia@ksc.nasa.gov
+  service_center: 'Phone: (321) 867-9280'
+  public_liaison: 'Penny Myers, Phone: (321) 867-9280'
   website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
   request_form: http://www-foiacf.ksc.nasa.gov/requester.cfm
 - name: Langley Research Center
@@ -110,6 +126,8 @@ departments:
   fax: 757-864-6333
   emails:
   - LARC-DL-foia@mail.nasa.gov
+  service_center: 'Phone: (757) 864-4274'
+  public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
   website: http://foia.larc.nasa.gov/
 - name: Marshall Space Flight Center
   address:
@@ -122,6 +140,8 @@ departments:
   fax: 256-544-0007
   emails:
   - FOIA@msfc.nasa.gov
+  service_center: 'Phone: (256) 544-1837'
+  public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
   website: http://foia.msfc.nasa.gov/
   request_form: http://foia.msfc.nasa.gov/form.html
 - name: Office of the Inspector General
@@ -135,6 +155,8 @@ departments:
   fax: 202-358-2767
   emails:
   - foiaoig@hq.nasa.gov
+  service_center: 'Phone: (202) 358-2582'
+  public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
   website: http://oig.nasa.gov/FOIA_requests.html
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
 - name: NASA Shared Service Center (NSSC)
@@ -147,6 +169,9 @@ departments:
   fax: 228-779-6772
   emails:
   - nssc@nasa.gov
+  foia_officer: 'Jamie Mettler, Phone: (228) 813-6490'
+  service_center: 'Phone: (228) 813-6174'
+  public_liaison: 'Jamie Mettler, Phone: (228) 813-6174'
   website: http://www.nssc.nasa.gov/foia/
 - name: Stennis Space Center
   address:
@@ -157,6 +182,8 @@ departments:
   fax: 228-668-7499
   emails:
   - foia@ssc.nasa.gov
+  service_center: 'Phone: (228) 688-3182'
+  public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - name: Principal Agency FOIA Officer
   address:
@@ -169,5 +196,7 @@ departments:
   fax: 202-358-4332
   emails:
   - foia@hq.nasa.gov
+  service_center: 'Phone: (202) 358-0718'
+  public_liaison: 'Phone: (202) 358-3642'
   website: http://www.hq.nasa.gov/office/pao/FOIA/agency/
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html

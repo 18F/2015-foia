@@ -17,6 +17,8 @@ departments:
   - Chicago, IL 60611-2092
   phone: 312-751-4936
   fax: 312-751-7102
+  service_center: 'Phone: (312) 751-4948'
+  public_liaison: 'Marguerite P. Dadabo, Phone: (312) 751-4936'
   website: http://www.rrb.gov/blaw/foia/foia.asp
   request_form: https://secure.rrb.gov/efoia/
 - name: Office of the Inspector General
@@ -26,5 +28,7 @@ departments:
   - 844 North Rush Street
   - Chicago, IL 60611-2092
   phone: 312-751-4350
+  service_center: 'Phone: (312) 751-4350'
+  public_liaison: 'Phone: (312) 751-4350'
   website: http://www.rrb.gov/blaw/foia/foia.asp
   request_form: https://secure.rrb.gov/efoia/

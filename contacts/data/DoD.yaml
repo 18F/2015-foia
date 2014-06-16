@@ -12,8 +12,12 @@ departments:
   - Washington, DC 20301-1155
   phone: 866-574-4970
   fax: 571-372-0500
+  service_center: 'Phone: (866) 574-4970'
+  public_liaison: 'Paul Jacobsmeyer, Phone: (571) 372-0462'
   website: http://www.dod.gov/pubs/foi/
   request_form: http://www.dod.gov/pubs/foi/
+  notes: This Office also handles requests for records of the U.S. Joint Forces Command,
+    which was disestablished on August 31, 2011.
 - name: Department of the Air Force - Headquarters/ICIO (FOIA)
   address:
   - JoAnne Collins
@@ -25,8 +29,12 @@ departments:
   fax: 703-696-7273
   emails:
   - haffoia.workflow@pentagon.af.mil
+  service_center: 'Phone: (703) 696-2735'
+  public_liaison: 'Anh Trinh, Phone: (703) 614-8500'
   website: http://www.foia.af.mil/
   request_form: https://www.efoia.af.mil/palMain.aspx
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Department of the Army - Freedom of Information and Privacy Office
   address:
   - Alecia Bolling
@@ -39,7 +47,11 @@ departments:
   fax: 703-428-6522
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
+  service_center: 'Phone: (703) 428-6238'
+  public_liaison: 'Bruno Leuyer, Phone: (703) 428-6462'
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Department of the Navy - Main Office
   address:
   - Robin Patterson
@@ -49,8 +61,12 @@ departments:
   - Washington, DC 20350-2000
   phone: 202-685-0412
   fax: 202-685-6580
+  service_center: 'Phone: (202) 685-0412'
+  public_liaison: 'Steve Muck, Phone: (202) 695-1297'
   website: https://foia.navy.mil
   request_form: https://foia.navy.mil/foia/webbas02.nsf/(vwwebpage)/home.htm?opendocument
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Marine Corps - FOIA Program Office (ARSF)
   address:
   - Sally A. Hughes
@@ -60,8 +76,12 @@ departments:
   - Washington, DC 20350-3000
   phone: 703-614-4008
   fax: 703-614-6287
+  service_center: 'Phone: (703) 614-4008'
+  public_liaison: 'Sally A. Hughes, Phone: (703) 614-4008'
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
   request_form: https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Armed Services Board of Contract Appeals
   address:
   - Catherine A. Stanton
@@ -73,6 +93,8 @@ departments:
   fax: 703-681-8535
   emails:
   - asbca.recorder@mail.mil
+  service_center: 'Phone: (703) 681-8503'
+  public_liaison: 'Catherine A. Stanton, Phone: (703) 681-8503'
   website: www.asbca.mil
 - name: Defense Commissary Agency
   address:
@@ -84,6 +106,8 @@ departments:
   fax: 804-734-8116
   emails:
   - foia@deca.mil
+  service_center: 'Phone: (804) 734-8116'
+  public_liaison: 'William E. Sherman, Phone: (804) 734-8116'
   website: http://www.commissaries.com/foiainfo.cfm
 - name: Defense Contract Audit Agency - Headquarters
   address:
@@ -96,7 +120,11 @@ departments:
   fax: 703-767-1011
   emails:
   - DCAA-FOIA@dcaa.mil
+  service_center: 'Phone: (703) 767-1022'
+  public_liaison: 'Merrick Krause, Phone: (703) 767-2249'
   website: http://www.dcaa.mil/foia.htm
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Defense Contract Management Agency
   address:
   - Donna Williamson/Kimberly Turner
@@ -108,6 +136,8 @@ departments:
   fax: 804-734-0109
   emails:
   - DCMA.FOIA@DCMA.mil
+  service_center: 'Phone: (804) 734-1488'
+  public_liaison: 'Melissa Walker, Phone: (804) 734-1487'
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
 - name: Defense Finance and Accounting Service
   address:
@@ -120,7 +150,11 @@ departments:
   fax: 317-212-8802
   emails:
   - gregory.outlaw@dfas.mil
+  service_center: 'Phone: (317) 212-4591'
+  public_liaison: 'Gregory Outlaw, Phone: (317) 212-4591'
   website: http://www.dfas.mil/foia.html
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Defense Information Systems Agency
   address:
   - Robin M. Berger
@@ -131,6 +165,8 @@ departments:
   fax: 301-225-0510
   emails:
   - disa.meade.gc.mbx.disa-gen-counsel@mail.mil
+  service_center: 'Phone: (301) 225-6104'
+  public_liaison: 'Robert S. Gorman, Phone: (301) 225-6116'
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
 - name: Defense Intelligence Agency
   address:
@@ -143,6 +179,8 @@ departments:
   fax: 301-394-5356
   emails:
   - foia@dodiis.mil
+  service_center: 'Phone: (301) 394-5587'
+  public_liaison: 'Margaret A. Bestrain, Alesia Y. Williams, Phone: (301) 394-5587'
   website: http://www.dia.mil/FOIA.aspx
 - name: Defense Logistics Agency - Headquarters
   address:
@@ -155,7 +193,11 @@ departments:
   fax: 703-767-6091
   emails:
   - hq-foia@dla.mil
+  service_center: 'Phone: (703) 767-5247, (703) 767-6183'
+  public_liaison: 'Lewis Oleinick, Phone: (703) 767-6194'
   website: http://www.dla.mil/foia-privacy/
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Defense Security Service
   address:
   - Leslie Blake
@@ -166,7 +208,11 @@ departments:
   fax: 571-305-6931
   emails:
   - Leslie.Blake@dss.mil
+  service_center: 'Phone: (703) 325-9450'
+  public_liaison: 'Jay Fraude, Phone: (703) 325-5337'
   website: https://www.dss.mil/foia/foia_program.html
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Defense Threat Reduction Agency
   address:
   - Juanita Y. Gaines
@@ -178,6 +224,8 @@ departments:
   fax: 703-767-3623
   emails:
   - efoia@dtra.mil
+  service_center: 'Phone: (703) 767-1792'
+  public_liaison: 'Richard M. Cole, Phone: (703) 767-5859'
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
 - name: Defense Technical Information Center
   address:
@@ -190,6 +238,8 @@ departments:
   fax: 703-767-9201
   emails:
   - foia@dtic.mil
+  service_center: 'Phone: (703) 767-9204'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.dtic.mil/dtic/foia.html
 - name: Department of Defense Education Activity
   address:
@@ -199,6 +249,8 @@ departments:
   fax: 571-372-5829
   emails:
   - foia@hq.dodea.edu
+  service_center: 'Phone: (571) 372-1892'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.dodea.edu/foia.cfm
 - name: National Geospatial-Intelligence Agency
   address:
@@ -210,6 +262,8 @@ departments:
   fax: 571-557-3130
   emails:
   - foianga@nga.mil
+  service_center: 'Phone: (571) 557-4141'
+  public_liaison: 'Elizabeth M. Smith, Phone: (571) 557-7708'
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - name: National Guard Bureau
   address:
@@ -222,6 +276,8 @@ departments:
   fax: 703-607-3684
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
+  service_center: 'Phone: (703) 607-3195'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.ng.mil/sitelinks/foia.aspx
 - name: National Reconnaissance Office
   address:
@@ -232,6 +288,8 @@ departments:
   - Chantilly, VA 20151-1715
   phone: 703-227-9326
   fax: 703-227-9198
+  service_center: 'Phone: (703) 227-9326'
+  public_liaison: 'Douglas J. Davis, Phone: (703) 227-9128'
   website: http://www.nro.gov/foia/index.html
   request_form: http://www.nro.gov/foia/RequestInput.aspx
 - name: National Security Agency
@@ -243,6 +301,8 @@ departments:
   - Fort George G. Meade, MD 20755-6248
   phone: 301-688-6527
   fax: 443-479-3612
+  service_center: 'Phone: (301) 688-6527'
+  public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
   website: http://www.nsa.gov/public_info/foia/index.shtml
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
 - name: Office of Inspector General
@@ -254,6 +314,8 @@ departments:
   - Alexandria, VA 22350-1500
   phone: 866-993-7005
   fax: 571-972-7498
+  service_center: 'Phone: (703) 604-9775'
+  public_liaison: 'Jeanne Miller, Phone: (703) 604-9785'
   website: http://www.dodig.mil/FOIA/index.html
   request_form: http://www.dodig.mil/FOIA/submit.html
 - name: TRICARE Management Activity
@@ -264,6 +326,8 @@ departments:
   - Aurora, CO 80011-9066
   phone: 303-676-3418
   fax: 303-371-4170
+  service_center: 'Phone: (303) 676-3674'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.tricare.mil/tma/privacy/foia.aspx
   request_form: http://www.tricare.mil/tma/privacy/FOIARequestForm.aspx
 - name: U.S. Africa Command
@@ -274,6 +338,8 @@ departments:
   fax: "+490 711-729-4732"
   emails:
   - foia@africom.mil
+  service_center: 'Phone: +49 (0)711 729-4287'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.africom.mil/FOIA.asp
 - name: U.S. Central Command
   address:
@@ -285,6 +351,8 @@ departments:
   fax: 813-827-6332
   emails:
   - foiaoffice@centcom.mil
+  service_center: 'Phone: (813) 827-1810'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.centcom.mil/freedom-of-information-act
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
 - name: U.S. European Command
@@ -295,6 +363,8 @@ departments:
   fax: "+49011 711-680-8092"
   emails:
   - foiarequest@eucom.mil
+  service_center: 'Phone: 49 011 711 680-7161'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.eucom.mil/english/FOIA.asp
 - name: U.S. Joint Forces Command
   address:
@@ -304,8 +374,13 @@ departments:
   - Washington, DC 20301-1155
   phone: 866-574-4970
   fax: 571-372-0500
+  service_center: 'Phone: (866) 574-4970'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.dod.gov/pubs/foi/
   request_form: http://www.dod.gov/pubs/foi/
+  notes: This command was disestablished as of August 31, 2011.  Requests for U.S.
+    Joint Forces Command records are now handled by the Office of the Secretary and
+    Joint Staff, whose contact information is located above.
 - name: U.S. Northern Command
   address:
   - FOIA Officer
@@ -317,6 +392,8 @@ departments:
   fax: 719-554-4431
   emails:
   - NC.FOIA.OMB@NORTHCOM.MIL
+  service_center: 'Phone: (719) 554-1785'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.northcom.mil/FOIA.html
 - name: U.S. Pacific Command
   address:
@@ -328,6 +405,8 @@ departments:
   fax: 808-447-6685
   emails:
   - pacom.foia.fct@pacom.mil
+  service_center: 'Phone: (808) 477-0995'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.pacom.mil/web/Site_Pages/Home_Page/FOIA.shtml
 - name: U.S. Southern Command
   address:
@@ -339,6 +418,8 @@ departments:
   phone: 305-437-1108
   emails:
   - Marco.Villalobos@hq.southcom.mil
+  foia_officer: 'Phone: (305) 437-1108'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.southcom.mil/foia/Pages/FOIA.aspx
 - name: U.S. Special Operations Command
   address:
@@ -351,6 +432,8 @@ departments:
   fax: 813-826-5482
   emails:
   - foia@socom.mil
+  foia_officer: 'Phone: (813) 826) 3212'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.socom.mil/foia/Pages/FOIARequesterServiceCenter.aspx
 - name: U.S. Strategic Command
   address:
@@ -363,6 +446,8 @@ departments:
   fax: 402-294-7535
   emails:
   - FOIA-PARequestCenter-U@stratcom.mil
+  service_center: 'Phone: (402) 294-6321'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.stratcom.mil/foia/
 - name: U.S. Transportation Command
   address:
@@ -375,4 +460,6 @@ departments:
   fax: 618-229-4711
   emails:
   - USTCCS-FO@ustranscom.mil
+  foia_officer: 'Phone: (618) 229-3828'
+  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   website: http://www.transcom.mil/Foia/generalInfoFoia.action

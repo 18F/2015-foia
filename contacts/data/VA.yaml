@@ -16,6 +16,8 @@ departments:
   fax: 202-632-7581
   emails:
   - vacofoiaservice@va.gov
+  service_center: 'Phone: (202) 632-7465'
+  public_liaison: 'Phone: (202) 632-7465'
   website: http://www.foia.va.gov/
 - name: National Cemetery Administration
   address:
@@ -28,6 +30,8 @@ departments:
   fax: 202-632-7572
   emails:
   - nca.foia@va.gov
+  service_center: 'Phone: (202) 461-6214'
+  public_liaison: 'Raynell Lazier, Phone: (202) 461-6214'
   website: http://www.foia.va.gov/
 - name: Veterans Benefits Administration
   address:
@@ -40,7 +44,11 @@ departments:
   fax: 202-275-5947
   emails:
   - foia.vbaco@va.gov
+  service_center: 'Phone: (202) 491-9439'
+  public_liaison: 'Sean Burns, Phone: (202) 491-9439'
   website: http://www.foia.va.gov/
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Veterans Health Administration
   address:
   - Timothy Graham
@@ -52,7 +60,11 @@ departments:
   fax: 202-273-9387
   emails:
   - vhafoia2@va.gov
+  service_center: 'Phone: (215) 823-4146'
+  public_liaison: 'Timothy Graham, Phone: (215) 823-4146'
   website: http://www.foia.va.gov/
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
   address:
   - Inez Sidbury
@@ -62,6 +74,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7442
   fax: 202-273-7635
+  service_center: 'Phone: (202) 461-7442'
+  public_liaison: 'Inez Sidbury, Phone: (202) 461-7442'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Public Affairs
   address:
@@ -72,6 +86,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7430
   fax: 202-273-6705
+  service_center: 'Phone: (202) 461-7430'
+  public_liaison: 'Nathan Naylor, Phone: (202) 461-7430'
   website: http://www.foia.va.gov/
 - name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
   address:
@@ -82,6 +98,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7379
   fax: 202-273-5716
+  service_center: 'Phone: (202) 461-7379'
+  public_liaison: 'Fran Heimrich, Phone: (202) 461-7379'
   website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Management
   address:
@@ -92,6 +110,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6677
   fax: 202-273-6892
+  service_center: 'Phone: (202) 461-6677'
+  public_liaison: 'Miriam Smith, Phone: (202) 461-6677'
   website: http://www.foia.va.gov/
 - name: Office of Asset Enterprise Management
   address:
@@ -102,6 +122,8 @@ departments:
   - Washington, DC 20420
   phone: 202-590-8793
   fax: 202-632-7146
+  service_center: 'Phone: (202) 590-8793'
+  public_liaison: 'Kelli Emery, Phone: (202) 590-8793'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Budget
   address:
@@ -112,6 +134,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5170
   fax: 202-273-6628
+  service_center: 'Phone: (202)461-5170'
+  public_liaison: 'Cynthia Manurs, Phone: (202)461-5170'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Finance
   address:
@@ -122,6 +146,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6432
   fax: 202-273-6574
+  service_center: 'Phone: (202) 461-6432'
+  public_liaison: 'Karen Barber, Phone: (202) 461-6432'
   website: http://www.foia.va.gov/
 - name: Corporate Data Center Operations
   address:
@@ -134,6 +160,8 @@ departments:
   fax: 215-381-3527
   emails:
   - cdcofoia@va.gov
+  service_center: 'Phone: (215) 842-2000 ext 4503'
+  public_liaison: 'Timothy Clifton, Phone: (215) 842-2000 ext 4503'
   website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Information and Technology
   address:
@@ -146,6 +174,8 @@ departments:
   fax: 202-632-7581
   emails:
   - vacofoiaservice@va.gov
+  service_center: 'Phone: (877) 750-3642'
+  public_liaison: 'James Horan, Phone: (877) 750-3642'
   website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Human Resources and Administration
   address:
@@ -156,6 +186,8 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7310
   fax: 202-632-7536
+  service_center: 'Phone: (202) 632-7310'
+  public_liaison: 'Yolanda Johnson, Phone: (202) 632-7310'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Human Resources Management
   address:
@@ -166,6 +198,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7863
   fax: 202-273-7871
+  service_center: 'Phone: (202) 461-7863'
+  public_liaison: 'Jean Hayes, Phone: (202) 461-7863'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Diversity and Inclusion
   address:
@@ -176,6 +210,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-4010
   fax: 202-501-1970
+  service_center: 'Phone: (202) 461-4010'
+  public_liaison: 'Betty Cook, Phone: (202) 461-4010'
   website: http://www.foia.va.gov/
 - name: Office of Resolution Management
   address:
@@ -186,6 +222,8 @@ departments:
   - Washington, DC 20420
   phone: 202-501-2827
   fax: 202-501-2885
+  service_center: 'Phone: (202) 501-2827'
+  public_liaison: 'Nigel Collie, Phone: (202) 501-2827'
   website: http://www.foia.va.gov/
 - name: Office of Deputy Assistant Secretary for Administration
   address:
@@ -196,6 +234,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5046
   fax: 202-273-7091
+  service_center: 'Phone: (202) 461-5046'
+  public_liaison: 'Shelia Gaskins, Phone: (202) 461-5046'
   website: http://www.foia.va.gov/
 - name: Office of the Assistant Secretary for Operations, Security, and Preparedness
   address:
@@ -206,6 +246,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6587
   fax: 202-461-0963
+  service_center: 'Phone: (202) 461-6587'
+  public_liaison: 'Tanya Al-Khateeb, Phone: (202) 461-6587'
   website: http://www.foia.va.gov/
 - name: Office of Policy and Planning
   address:
@@ -216,6 +258,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-5918
   fax: 202-273-5993
+  service_center: 'Phone: (202) 461-5198'
+  public_liaison: 'Stephanie Way, Phone: (202) 461-5198'
   website: http://www.foia.va.gov/
 - name: Office of Assistant Secretary for Congressional and Legislative Affairs
   address:
@@ -226,6 +270,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-6619
   fax: 202-273-6792
+  service_center: 'Phone: (202) 461-6619'
+  public_liaison: 'Pamela Balsley, Phone: (202) 461-6619'
   website: http://www.foia.va.gov/
 - name: Office of Construction & Facilities Management
   address:
@@ -238,6 +284,8 @@ departments:
   fax: 202-495-5538
   emails:
   - CFM.FOIA@va.gov
+  service_center: 'Phone: (202) 461-8212'
+  public_liaison: 'Lynn Buell, Phone: (202) 461-8212'
   website: http://www.foia.va.gov/
 - name: Office of Acquisition & Logistics
   address:
@@ -250,6 +298,8 @@ departments:
   fax: 202-343-1434
   emails:
   - VA_OAL_FOIA@va.gov
+  service_center: 'Phone: (202) 632-5286'
+  public_liaison: 'Richard Ha, Phone: (202) 632-5286'
   website: http://www.foia.va.gov/
 - name: Board of Veterans Appeals
   address:
@@ -260,6 +310,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-8111
   fax: 202-565-9733
+  service_center: 'Phone: (202) 461-8111'
+  public_liaison: 'Margaret L. Peak, Phone: (202) 461-8111'
   website: http://www.foia.va.gov/
 - name: Office of the General Counsel
   address:
@@ -272,6 +324,8 @@ departments:
   fax: 202-273-9299
   emails:
   - ogcfoiarequests@va.gov
+  service_center: 'Phone: (202) 461-7717'
+  public_liaison: 'J. Thomas Burch, Jr., Phone: (202) 461-7717'
   website: http://www.foia.va.gov/
 - name: Office of Inspector General
   address:
@@ -284,6 +338,8 @@ departments:
   fax: 202-565-8667
   emails:
   - vaoigfoia-pa@va.gov
+  service_center: 'Phone: (202) 461-4591'
+  public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
   website: http://www.foia.va.gov/
 - name: Office of Small and Disadvantaged Business Utilization
   address:
@@ -296,6 +352,8 @@ departments:
   fax: 202-303-3313
   emails:
   - osbdufoia@va.gov
+  service_center: 'Phone: (202) 303-3260 ext 5429'
+  public_liaison: 'Karen Zhussanbay, Phone: (202) 303-3260 ext 5429'
   website: http://www.foia.va.gov/
 - name: I don't know which office
   address:
@@ -306,4 +364,6 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7465
   fax: 202-632-7581
+  service_center: 'Phone: (202) 632-7600'
+  public_liaison: 'Phone: (202) 632-7600'
   website: http://www.foia.va.gov/

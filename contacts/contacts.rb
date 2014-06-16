@@ -138,6 +138,7 @@ def parse_department(elem, name)
     next unless strong = p.at("strong")
     text = strong.text.tr(":", "").strip
     next if text == "FOIA Contact"
+    value = strong.next_sibling.text.strip
 
     if text.downcase == "website"
       if a = p.at("a")
@@ -155,9 +156,20 @@ def parse_department(elem, name)
         puts "== ERROR EXTRACTING WEBSITE. =="
         exit
       end
+    elsif text.downcase =~ /service center/i
+      data['service_center'] = value
+    elsif text.downcase =~ /public liaison/i
+      data['public_liaison'] = value
+    elsif text.downcase =~ /notes/i
+      data['notes'] = value
+    elsif text.downcase =~ /foia officer/i
+      data['foia_officer'] = value
     else
-      # data['misc'] ||= []
-      # data['misc'][key] = strong.next_sibling.text.strip
+      # FTC: FOIA Hotline
+      # GSA: Program Manager
+      # CIGIE: Deputy Counsel, Office of the Inspector General, Department of Housing and Urban Development
+      data['misc'] ||= {}
+      data['misc'][text] = value
     end
 
   end

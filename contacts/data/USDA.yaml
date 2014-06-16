@@ -16,6 +16,8 @@ departments:
   fax: 202-690-3767
   emails:
   - AMS.FOIA@usda.gov
+  service_center: 'Phone: (202) 720-3785'
+  public_liaison: 'Christine Sarcone, Phone: (202) 720-3203'
   website: http://www.ams.usda.gov/AMSv1.0/ams.fetchTemplateData.do?template=TemplateN&navID=Home&topNav=Home&page=FOIA&description=Freedom%20of%20Information%20Act%20(FOIA)
   request_form: http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm
 - name: Animal & Plant Health Inspection
@@ -29,6 +31,8 @@ departments:
   fax: 301-734-5941
   emails:
   - foia.officer@aphis.usda.gov
+  service_center: 'Phone: (301) 734-8296'
+  public_liaison: 'Tonya Woods, Phone: (301) 734-5267'
   website: http://www.aphis.usda.gov/foia/
 - name: Departmental Management
   address:
@@ -41,6 +45,8 @@ departments:
   fax: 202-720-0105
   emails:
   - phyllis.holmes@usda.gov
+  service_center: 'Phone: (202) 720-0068'
+  public_liaison: 'Phyllis Holmes, Phone: (202) 720-0068'
   website: http://www.dm.usda.gov/foia.htm
 - name: Farm Service Agency
   address:
@@ -53,8 +59,12 @@ departments:
   fax: 202-690-2828
   emails:
   - fsa.foia@wdc.usda.gov
+  service_center: 'Phone: (202) 720-5534'
+  public_liaison: 'Sue Ellen Sloca, Phone: (202) 720-1598'
   website: http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi
   request_form: http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Food, Nutrition & Consumer Services
   address:
   - Jennifer Weatherly
@@ -66,6 +76,8 @@ departments:
   fax: 703-605-0793
   emails:
   - foia@fns.usda.gov
+  service_center: 'Phone: (703) 605-0773'
+  public_liaison: 'Joseph X. Tangredi, Phone: (703) 605-0773'
   website: http://www.fns.usda.gov/foia/
 - name: Food Safety & Inspection Service
   address:
@@ -78,6 +90,8 @@ departments:
   fax: 202-690-3023
   emails:
   - FOIA@FSIS.USDA.gov
+  service_center: 'Phone: (202) 690-3882'
+  public_liaison: 'Arianne M. Perkins, Phone: (202) 690-2760'
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - name: Foreign Agricultural Service
   address:
@@ -89,6 +103,8 @@ departments:
   phone: 202-720-0154
   emails:
   - Henry.Noland@fas.usda.gov
+  service_center: 'Phone: (202) 720-3101'
+  public_liaison: 'Sally Klusaritz, Phone: (202) 720-3448'
   website: http://www.fas.usda.gov/info/FOIA/freedom.asp
 - name: Forest Service - Headquarters
   address:
@@ -101,7 +117,11 @@ departments:
   fax: 202-260-3245
   emails:
   - wo_foia@fs.fed.us
+  service_center: 'Phone: (202) 205-1542'
+  public_liaison: 'Sherry Turner, Phone: (202) 205-2497'
   website: http://www.fs.fed.us/im/foia/
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Grain Inspection, Packers & Stockyards Administration
   address:
   - Joanne Peterson
@@ -113,6 +133,8 @@ departments:
   fax: 202-690-2755
   emails:
   - joanne.c.peterson@usda.gov
+  service_center: 'Joanne Peterson, Phone: (202) 720-8087'
+  public_liaison: 'Albert Conerly, Phone: (202) 720-0234'
   website: http://www.gipsa.usda.gov/foia.html
 - name: National Appeals Division
   address:
@@ -125,7 +147,11 @@ departments:
   fax: 703-305-2825
   emails:
   - Brenda.Seegars@nad.usda.gov
+  service_center: 'Phone: (703) 305-1164'
+  public_liaison: 'Brenda V. Seegars, Phone: (703) 305-1164'
   website: http://www.nad.usda.gov/foia.html
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: National Finance Center
   address:
   - John Hemstreet
@@ -134,6 +160,8 @@ departments:
   - New Orleans, LA 70160
   phone: 504-426-0168
   fax: 504-426-9703
+  service_center: 'Phone: (504) 426-0162'
+  public_liaison: 'Patricia Blumenthal, Phone: (504) 426-168'
   website: http://i2i.nfc.usda.gov/FOIA/FOIA_home.html
 - name: Natural Resources Conservation Service
   address:
@@ -146,6 +174,8 @@ departments:
   fax: 202-720-9030
   emails:
   - NRCS-foia@wdc.usda.gov
+  service_center: 'Phone: (202) 690-4985'
+  public_liaison: 'Deryl Richardson, Phone: (202) 690-4985'
   website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
 - name: Office of Budget & Program Analysis
   address:
@@ -156,6 +186,8 @@ departments:
   - Washington, DC 20250
   phone: 202-720-1269
   fax: 202-690-3673
+  service_center: 'Phone: (202) 720-1269'
+  public_liaison: 'Julie Hetrick, Phone: (202) 720-1269'
   website: http://www.dm.usda.gov/foia.htm
 - name: Office of the Chief Financial Officer
   address:
@@ -166,6 +198,8 @@ departments:
   - Washington, DC 20250
   phone: 202-720-0995
   fax: 202-690-3536
+  service_center: 'Phone: (202) 720-1893'
+  public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
   website: http://www.dm.usda.gov/foia.htm
 - name: Office of the Chief Information Officer
   address:
@@ -175,6 +209,8 @@ departments:
   - 300 7th Street, SW
   - Washington, DC 20024
   phone: 202-690-0028
+  service_center: 'Phone: (301) 504-4154'
+  public_liaison: 'Richard Ciampa, Phone: (202)720-6355'
   website: http://www.dm.usda.gov/foia.htm
 - name: Office of Civil Rights
   address:
@@ -186,6 +222,8 @@ departments:
   fax: 202-720-0953
   emails:
   - ascrfoia@usda.gov
+  service_center: 'Phone: (202) 720-5212'
+  public_liaison: 'Michael G. Watts, Phone: (202) 720-5212'
   website: http://www.ascr.usda.gov/foia_cr.html
 - name: Office of the General Counsel
   address:
@@ -195,6 +233,9 @@ departments:
   - Washington, DC 20250-1400
   phone: 202-720-5824
   fax: 202-720-5837
+  service_center: 'Phone: (202) 720-5824'
+  public_liaison: 'Assistant General Counsel for General Law Division, Phone: (202)
+    720-5565'
   website: http://www.dm.usda.gov/foia.htm
 - name: Office of the Secretary
   address:
@@ -206,6 +247,8 @@ departments:
   phone: 202-260-2657
   emails:
   - usdafoia@ocio.usda.gov
+  service_center: 'Phone: (202) 720-8164'
+  public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
   website: http://www.dm.usda.gov/foia.htm
 - name: Risk Management Agency
   address:
@@ -218,6 +261,8 @@ departments:
   fax: 202-720-1162
   emails:
   - bill.crews@rma.usda.gov
+  service_center: 'Phone: (202) 720-9507'
+  public_liaison: 'Wes Azama, Phone: (202) 260-0080'
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - name: Research, Education & Economics
   address:
@@ -228,8 +273,13 @@ departments:
   - Beltsville, MD 20705-5128
   phone: 301-504-1655
   fax: 301-504-1647
+  service_center: 'Phone: (301) 504-1743'
+  public_liaison: 'Stasia Hutchison, Monica Williams, Phone: (301) 504-1743'
   website: http://www.ars.usda.gov/Services/docs.htm?docid=1398
   request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
+  notes: This office processes records for USDA's Research, Education, Economic (REE)
+    agencies, Agricultural Research Service, Economic Research Service, National Agricultural
+    Statistics Service, and National Institute of Food and Agriculture.
 - name: Rural Development
   address:
   - Sara Bradshaw
@@ -239,7 +289,11 @@ departments:
   - Washington, DC 20250-0706
   phone: 202-692-0015
   fax: 202-205-5053
+  service_center: 'Phone: (202) 692-0004'
+  public_liaison: 'Joseph Shunk, Phone: (202) 692-0032'
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: I don't know which office
   address:
   - Ray Payton
@@ -250,4 +304,6 @@ departments:
   phone: 202-260-2657
   emails:
   - usdafoia@ocio.usda.gov
+  service_center: 'Phone: (202) 260-2657'
+  public_liaison: 'Ray Payton, Phone: (202) 260-2657'
   website: http://www.dm.usda.gov/foia.htm

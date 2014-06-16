@@ -17,8 +17,12 @@ departments:
   - Washington, DC 20410-3000
   phone: 202-708-3866
   fax: 202-619-8365
+  service_center: 'Eugenia Harris, Phone: (202) 708-3866'
+  public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region I (Boston, Hartford, Manchester, Providence)
   address:
   - Kristine G. Foye
@@ -27,8 +31,12 @@ departments:
   - 10 Causeway Street
   - Boston, MA 02222-1092
   phone: 617-994-8218
+  service_center: 'Phone: (617) 994-8218'
+  public_liaison: 'Kristine G. Foye, Phone: (617) 994-8218'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
   address:
   - Mirza Morales
@@ -37,8 +45,12 @@ departments:
   - 26 Federal Plaza
   - New York, NY 10278-0068
   phone: 212-542-7109
+  service_center: 'Phone: (212) 542-7109'
+  public_liaison: 'Mirza Morales, Phone: (212) 542-7109'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
   address:
@@ -47,8 +59,12 @@ departments:
   - 100 Penn Square East Building
   - Philadelphia, PA 10107
   phone: 215-656-0600
+  service_center: 'Phone: (215) 656-0600'
+  public_liaison: 'Brenda Laroche, Phone: (215) 656-0600'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
   address:
@@ -57,8 +73,12 @@ departments:
   - 40 Marietta Street
   - Atlanta, GA 30303
   phone: 404-331-5001
+  service_center: 'Phone: (404) 331-5001, ext. 2380'
+  public_liaison: 'Thomacina Brown, Phone: (404) 331-5001, ext. 2380'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
   address:
@@ -68,8 +88,12 @@ departments:
   - 77 W. Jackson Boulevard
   - Chicago, IL 60604
   phone: 312-353-5680
+  service_center: 'Phone: (312) 353-5680, ext. 2139'
+  public_liaison: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
     San Antonio)
   address:
@@ -79,8 +103,12 @@ departments:
   - 801 Cherry Street
   - Ft. Worth, TX 76102
   phone: 817-978-5974
+  service_center: 'Phone: (817) 978-5974, ext. 1010'
+  public_liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
   address:
   - Eugene (Gene) Lipscomb
@@ -88,8 +116,12 @@ departments:
   - 400 State Avenue
   - Kansas City, KS 66101
   phone: 913-551-5476
+  service_center: 'Phone: (913) 551-5476'
+  public_liaison: 'Eugene (Gene) Lipscomb, Phone: (913) 551-5476'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region VIII (Denver)
   address:
   - Deborah Griswold
@@ -97,8 +129,12 @@ departments:
   - 1670 Broadway
   - Denver, CO 80202-4801
   phone: 303-672-5440
+  service_center: 'Phone: (303) 672-5440, ext. 1442'
+  public_liaison: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
   address:
   - Suzie Hernandez
@@ -107,8 +143,12 @@ departments:
   - 650 Capitol Mall
   - Sacramento, CA 95814-3702
   phone: 916-498-7381
+  service_center: 'Phone: (916) 498-7381'
+  public_liaison: 'Suzie Hernandez, Phone: (916) 498-7381'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: Region X (Seattle, Anchorage, Portland)
   address:
   - Patty Huster
@@ -117,8 +157,12 @@ departments:
   - 909 First Avenue
   - Seattle , WA 98104-1000
   phone: 206-220-5101
+  service_center: 'Phone: (206) 220-5101'
+  public_liaison: 'Patty Huster, Phone: (206) 220-5101'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
 - name: I don't know which office
   address:
   - Dolores W. Cole
@@ -130,5 +174,9 @@ departments:
   fax: 202-619-8365
   emails:
   - foia_hud.gov
+  service_center: 'Eugenia Harris, Phone: (202) 708-3866'
+  public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.

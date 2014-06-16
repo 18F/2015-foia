@@ -16,6 +16,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/ag/foia.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of the Deputy Attorney General
@@ -27,6 +29,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/dag/foia.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of the Associate Attorney General
@@ -38,6 +42,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/asg/foia.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Antitrust Division
@@ -51,6 +57,8 @@ departments:
   fax: 202-616-4529
   emails:
   - antitrust.foia@usdoj.gov
+  service_center: 'Phone: (202) 514-2692'
+  public_liaison: 'Ronald Wiercioch, Phone: (202) 514-2692'
   website: http://www.justice.gov/atr/foia/index.html
 - name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   address:
@@ -63,6 +71,8 @@ departments:
   fax: 202-648-9619
   emails:
   - foiamail@atf.gov
+  service_center: 'Phone: (202) 648-8740'
+  public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
   website: http://www.atf.gov/content/contact-us/FOIA
 - name: Civil Division
   address:
@@ -75,6 +85,8 @@ departments:
   fax: 202-305-3291
   emails:
   - Civil.routing.FOIA@usdoj.gov
+  service_center: 'Phone: 202) 514-2319'
+  public_liaison: 'James M. Kovakas, Phone: (202) 514-3319'
   website: http://www.justice.gov/civil/foia.html
   request_form: http://www.justice.gov/civil/common/foia_request.html
 - name: Civil Rights Division
@@ -87,6 +99,8 @@ departments:
   phone: 202-514-4209
   emails:
   - CRT.FOIArequests@usdoj.gov
+  service_center: 'Phone: (202) 514-4210'
+  public_liaison: 'Sylvia Cabrera, Phone: (202) 514-4210'
   website: http://www.justice.gov/crt/foia/index.php
 - name: Community Relations Service
   address:
@@ -98,6 +112,8 @@ departments:
   phone: 202-305-2935
   emails:
   - CRS.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 305-2935'
+  public_liaison: 'George Henderson, Phone: (202) 305-2964'
   website: http://www.justice.gov/crs/foia.htm
 - name: Criminal Division
   address:
@@ -110,6 +126,8 @@ departments:
   fax: 202-514-6117
   emails:
   - crm.foia@usdoj.gov
+  service_center: 'Phone: (202) 616-0307'
+  public_liaison: 'Margaret Harris, Phone: (202) 616-0307'
   website: http://www.justice.gov/criminal/foia/
 - name: Drug Enforcement Administration
   address:
@@ -121,6 +139,8 @@ departments:
   fax: 202-307-8556
   emails:
   - dea.foia@usdoj.gov
+  service_center: 'Phone: (202) 307-7596'
+  public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - name: Environment and Natural Resources Division
   address:
@@ -132,6 +152,8 @@ departments:
   fax: 202-514-4231
   emails:
   - FOIARouting.enrd@usdoj.gov
+  service_center: 'Phone: (202) 514-0424'
+  public_liaison: 'Amber Blaha, Phone: (202) 616-5515'
   website: http://www.justice.gov/enrd/ENRD_FOIA.html
 - name: Executive Office for Immigration Review
   address:
@@ -144,6 +166,8 @@ departments:
   fax: 703-605-0570
   emails:
   - EOIR.FOIARequests@usdoj.gov
+  service_center: 'Phone: (703) 605-1297'
+  public_liaison: 'Crystal Souza, Phone: (703) 605-1297'
   website: http://www.justice.gov/eoir/mainfoia.html
 - name: Executive Office for Organized Crime Drug Enforcement Task Forces
   address:
@@ -155,6 +179,8 @@ departments:
   phone: 202-514-0296
   emails:
   - ocdetf.foia@usdoj.gov
+  service_center: 'Phone: (202) 514-0296'
+  public_liaison: 'Jennifer Bilinski, Phone: (202) 514-0296'
   website: ''
 - name: Executive Office for United States Attorneys
   address:
@@ -167,6 +193,8 @@ departments:
   fax: 202-252-6047
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
+  service_center: 'Phone: (202) 252-6020'
+  public_liaison: 'Donna Preston, Phone: (202) 252-6020'
   website: http://www.justice.gov/usao/resources/
 - name: Executive Office for United States Trustees
   address:
@@ -179,6 +207,8 @@ departments:
   fax: 202-307-2397
   emails:
   - USTPFOIA.Requests@usdoj.gov
+  service_center: 'Phone: (202) 307-1399'
+  public_liaison: 'Larry Wahlquist, Phone: (202) 307-1399'
   website: http://www.justice.gov/ust/eo/foia/index.htm
 - name: Federal Bureau of Investigation
   address:
@@ -190,6 +220,8 @@ departments:
   fax: 540-868-4997
   emails:
   - foiparequest@ic.fbi.gov
+  service_center: 'Phone: (540) 868-1535'
+  public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
   website: http://www.fbi.gov/foia/
 - name: Federal Bureau of Prisons
   address:
@@ -201,6 +233,8 @@ departments:
   phone: 202-514-6655
   emails:
   - ogc_efoia@bop.gov
+  service_center: 'Phone: (202) 616-7750'
+  public_liaison: 'Wilson Moorer, Phone: (202) 616-7750'
   website: http://www.bop.gov/foia/index.jsp
   request_form: http://www.bop.gov/foia/submit.jsp
 - name: Foreign Claims Settlement Commission
@@ -214,6 +248,8 @@ departments:
   fax: 202-616-6993
   emails:
   - info.fcsc@usdoj.gov
+  service_center: 'Phone: (202) 616-6975'
+  public_liaison: 'Judith Lock, Phone: (202) 616-6975'
   website: http://www.justice.gov/fcsc/foia.htm
 - name: INTERPOL-United States National Central Bureau
   address:
@@ -225,6 +261,8 @@ departments:
   fax: 202-616-1357
   emails:
   - Interpol-USNCB.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 616-0201'
+  public_liaison: 'Daniel Dembkowski, Phone: (202) 616-0201'
   website: http://www.justice.gov/interpol-washington/foia.html
 - name: Justice Management Division
   address:
@@ -237,7 +275,11 @@ departments:
   fax: 202-616-6695
   emails:
   - JMDFOIA@usdoj.gov
+  service_center: 'Phone: (202) 514-3101'
+  public_liaison: 'Michael Allen, Phone: (202) 514-3101'
   website: http://www.justice.gov/jmd/foia.htm
+  notes: This office also handles requests for records of the Office of Attorney Recruitment
+    & Management
 - name: National Security Division
   address:
   - Arnetta Mallory
@@ -248,6 +290,8 @@ departments:
   phone: 202-307-0754
   emails:
   - nsdfoia@usdoj.gov
+  service_center: 'Phone: (202) 307-0754'
+  public_liaison: 'Patricia Matthews, Phone: (202) 307-3525'
   website: http://www.justice.gov/nsd/foia/foia.htm
 - name: Office of Community Oriented Policing Services
   address:
@@ -260,6 +304,8 @@ departments:
   fax: 202-514-3456
   emails:
   - COPS.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 353-9864'
+  public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - name: Office of Information Policy
   address:
@@ -270,6 +316,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/oip/
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of the Inspector General
@@ -283,6 +331,8 @@ departments:
   fax: 202-616-9152
   emails:
   - oigfoia@usdoj.gov
+  service_center: 'Phone: (202) 616-0646'
+  public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
   website: http://www.justice.gov/oig/foia/
 - name: Office of Justice Programs
   address:
@@ -295,6 +345,8 @@ departments:
   fax: 202-307-1419
   emails:
   - FOIAOJP@usdoj.gov
+  service_center: 'Phone: (202) 307-6235'
+  public_liaison: 'George Pruden, Phone: (202) 616-3627'
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - name: Office of Legal Counsel
   address:
@@ -306,6 +358,8 @@ departments:
   phone: 202-514-2038
   emails:
   - usdoj-officeoflegalcounsel@usdoj.gov
+  service_center: 'Phone: (202) 353-0258'
+  public_liaison: 'Lawan Robinson, Phone: (202) 353-0258'
   website: http://www.justice.gov/olc/foia.htm
 - name: Office of Legal Policy
   address:
@@ -316,6 +370,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/olp/foia.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of Legislative Affairs
@@ -329,6 +385,8 @@ departments:
   fax: 202-514-1009
   emails:
   - DOJ.OIP.Initial.Requests@usdoj.gov
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/ola/ola-foia.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of the Pardon Attorney
@@ -342,6 +400,8 @@ departments:
   fax: 202-616-6069
   emails:
   - PardonAttorneyFOIA@usdoj.gov
+  service_center: 'Phone: (202) 616-6070'
+  public_liaison: 'Linda M.V. Bowe, Phone: (202) 616-6070'
   website: http://www.justice.gov/pardon/pardon_foia.htm
 - name: Office of Professional Responsibility
   address:
@@ -354,6 +414,8 @@ departments:
   fax: 202-514-5050
   emails:
   - OPR.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 514-3365'
+  public_liaison: 'Ginae Barnett, Phone: (202) 514-3365'
   website: http://www.justice.gov/opr/foia.htm
 - name: Office of Public Affairs
   address:
@@ -364,6 +426,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  service_center: 'Phone: (202) 616-5459'
+  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
   request_form: http://www.justice.gov/oip/oip-request.html
 - name: Office of the Solicitor General
@@ -375,6 +439,8 @@ departments:
   phone: 202-616-9406
   emails:
   - OSGFOIA@usdoj.gov
+  service_center: 'Phone: (202) 616-9406'
+  public_liaison: 'Valerie H. Hall, Phone: (202) 514-2203'
   website: http://www.justice.gov/osg/foia.html
 - name: Office of Tribal Justice
   address:
@@ -386,6 +452,8 @@ departments:
   phone: 202-252-6020
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
+  service_center: 'Phone: (202) 252-6020'
+  public_liaison: 'Donna Preston, Phone: (202) 252-6020'
   website: http://www.justice.gov/usao/reading_room/index.html
 - name: Office on Violence Against Women
   address:
@@ -397,6 +465,8 @@ departments:
   phone: 202-307-6026
   emails:
   - OVW.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 307-6026'
+  public_liaison: 'Catherine Poston, Phone: (202) 307-6026'
   website: http://www.ovw.usdoj.gov/ovwfoia.htm
 - name: Professional Responsibility Advisory Office
   address:
@@ -409,6 +479,8 @@ departments:
   fax: 202-353-7483
   emails:
   - PRAO.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 514-0458'
+  public_liaison: 'Michael Kingsley, Phone: (202) 514-0458'
   website: http://www.justice.gov/prao/foia.htm
 - name: Tax Division
   address:
@@ -420,6 +492,8 @@ departments:
   phone: 202-307-6320
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
+  service_center: 'Phone: (202) 307-6320'
+  public_liaison: 'Billie Willis, Phone: (202) 307-0462'
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
 - name: United States Marshals Service
   address:
@@ -431,6 +505,9 @@ departments:
   phone: 202-307-9054
   emails:
   - usms.foia@usdoj.gov
+  service_center: 'Phone: (202) 307-9054'
+  public_liaison: 'Nancy Robinson, Arleta Cunningham, Phone: (202) 307-9071, (202)
+    307-9052'
   website: http://www.usmarshals.gov/foia/index.html
 - name: United States Parole Commission
   address:
@@ -442,6 +519,8 @@ departments:
   phone: 202-346-7030
   emails:
   - USPC.FOIA@usdoj.gov
+  service_center: 'Phone: (202) 346-7030'
+  public_liaison: 'Rockne Chickinell, Phone: (202) 346-7030'
   website: http://www.justice.gov/uspc/foia.htm
 - name: I don't know which office
   address:
@@ -454,4 +533,6 @@ departments:
   fax: 301-341-0772
   emails:
   - MRUFOIA.Requests@usdoj.gov
+  service_center: 'Phone: (301) 583-7354'
+  public_liaison: 'Phone: (301) 583-7354'
   website: ''

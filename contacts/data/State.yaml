@@ -16,6 +16,8 @@ departments:
   - Washington, DC 20522-8100
   phone: 202-261-8484
   fax: 202-261-8579
+  service_center: 'Phone: (202) 261-8484'
+  public_liaison: 'Marianne Manheim, Phone: (202) 261-8484'
   website: http://foia.state.gov/
   request_form: http://foia.state.gov/Request/Submit.aspx
 - name: Office of Inspector General
@@ -30,5 +32,7 @@ departments:
   fax: 202-663-0390
   emails:
   - oigfoia@state.gov
+  service_center: 'Phone: (202) 261-8484'
+  public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
   website: http://www.oig.state.gov/foia/index.htm
   request_form: http://foia.state.gov/foiareq/foialetter.asp
