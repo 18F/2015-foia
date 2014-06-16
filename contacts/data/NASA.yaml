@@ -13,6 +13,8 @@ departments:
   - S.W. Washington, DC 20546
   phone: 202-358-2462
   fax: 202-358-4332
+  emails:
+  - foia@hq.nasa.gov
 - name: Ames Research Center
   address:
   - Lubna Shirazi
@@ -21,6 +23,8 @@ departments:
   - Moffett Field, CA 94035-1000
   phone: 650-604-1138
   fax: 650-604-0688
+  emails:
+  - foia@arc.nasa.gov
 - name: Dryden Flight Research Center
   address:
   - Kim Lewis-Bias
@@ -30,6 +34,8 @@ departments:
   - Edwards, CA 93523
   phone: 661-276-2704
   fax: 661-276-3566
+  emails:
+  - dfrc-foia@nasa.gov
 - name: Glenn Research Center
   address:
   - Angela Pierce
@@ -38,6 +44,8 @@ departments:
   - Cleveland, OH 44135
   phone: 216-443-2813
   fax: 216-433-5489
+  emails:
+  - foia@grc.nasa.gov
 - name: Goddard Space Flight Center
   address:
   - Joan Belt
@@ -46,6 +54,8 @@ departments:
   - Greenbelt, MD 20771
   phone: 301-286-4271
   fax: 301-286-1712
+  emails:
+  - foia@gsfc.nasa.gov
 - name: Jet Propulsion Laboratory
   address:
   - Dennis Mahon
@@ -55,6 +65,8 @@ departments:
   - Pasadena, CA 91109-8001
   phone: 818-393-6779
   fax: 818-393-3160
+  emails:
+  - jpl-foia@nasa.gov
 - name: Johnson Space Center
   address:
   - Jessica Cordero
@@ -63,6 +75,8 @@ departments:
   - Houston, TX 77058
   phone: 281-483-8252
   fax: 281-483-4876
+  emails:
+  - jsc-foia@mail.nasa.gov
 - name: Kennedy Space Center
   address:
   - Penny Myers
@@ -71,6 +85,8 @@ departments:
   - Kennedy Space Center, FL 32889
   phone: 321-867-9280
   fax: 321-867-8007
+  emails:
+  - foia@ksc.nasa.gov
 - name: Langley Research Center
   address:
   - Carissa Wheeler
@@ -80,6 +96,8 @@ departments:
   - Hampton, VA 23681-2199
   phone: 757-864-4274
   fax: 757-864-6333
+  emails:
+  - LARC-DL-foia@mail.nasa.gov
 - name: Marshall Space Flight Center
   address:
   - Judi Hollingsworth
@@ -89,6 +107,8 @@ departments:
   - Huntsville, AL 35812
   phone: 256-544-1837
   fax: 256-544-0007
+  emails:
+  - FOIA@msfc.nasa.gov
 - name: Office of the Inspector General
   address:
   - Frank LaRocca
@@ -98,6 +118,8 @@ departments:
   - S.W. Washington, DC 20546
   phone: 202-358-2582
   fax: 202-358-2767
+  emails:
+  - foiaoig@hq.nasa.gov
 - name: NASA Shared Service Center (NSSC)
   address:
   - Jamie Mettler
@@ -106,6 +128,8 @@ departments:
   - Stennis Space Center, MS 39529
   phone: 228-813-6490
   fax: 228-779-6772
+  emails:
+  - nssc@nasa.gov
 - name: Stennis Space Center
   address:
   - Sally Bilbo
@@ -113,6 +137,8 @@ departments:
   - Stennis Space Center, MS 39529
   phone: 228-688-3182
   fax: 228-668-7499
+  emails:
+  - foia@ssc.nasa.gov
 - name: Principal Agency FOIA Officer
   address:
   - Miriam BrownLam
@@ -122,3 +148,5 @@ departments:
   - S.W. Washington, DC 20546
   phone: 202-358-0718
   fax: 202-358-4332
+  emails:
+  - foia@hq.nasa.gov

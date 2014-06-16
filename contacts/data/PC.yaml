@@ -16,6 +16,8 @@ departments:
   - Washington, DC 20536-0001
   phone: 202-692-1236
   fax: 202-692-1385
+  emails:
+  - foia@peacecorps.gov
 - name: Office of the Inspector General
   address:
   - Jeffrey Reichert
@@ -23,3 +25,5 @@ departments:
   - 1111 20th Street, NW
   - Washington, DC 20536-0001
   phone: 202-692-2922
+  emails:
+  - foia@peacecorps.gov

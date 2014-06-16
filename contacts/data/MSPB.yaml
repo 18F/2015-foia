@@ -13,6 +13,8 @@ departments:
   - Washington, DC 20419
   phone: 202-254-4475
   fax: 202-653-7130
+  emails:
+  - FOIAHQ@mspb.gov
 - name: Atlanta Regional Office
   address:
   - Yvonnie Ellis
@@ -22,6 +24,8 @@ departments:
   - Atlanta, GA 20208-3519
   phone: 404-730-2755
   fax: 404-730-2767
+  emails:
+  - FOIAAT@mspb.gov
 - name: Central Regional Office
   address:
   - Betty Capis
@@ -31,6 +35,8 @@ departments:
   - Chicago, IL 60604-1669
   phone: 312-353-2924
   fax: 313-886-4231
+  emails:
+  - FOIACH@mspb.gov
 - name: Washington DC Regional Office
   address:
   - Marie Sumner
@@ -40,6 +46,8 @@ departments:
   - Alexandria, VA 22314-2480
   phone: 703-756-7104
   fax: 703-756-7112
+  emails:
+  - FOIADC@mspb.gov
 - name: Northeastern Regional Office
   address:
   - Dennis Matthews
@@ -49,6 +57,8 @@ departments:
   - Philadelphia, PA 19103
   phone: 215-597-9960
   fax: 215-597-3456
+  emails:
+  - FOIAPH@mspb.gov
 - name: Dallas Regional Office
   address:
   - Bobbie Williams
@@ -58,6 +68,8 @@ departments:
   - Dallas, TX 75242-9979
   phone: 214-767-0810
   fax: 214-767-0102
+  emails:
+  - FOIADA@mspb.gov
 - name: Western Regional Office
   address:
   - Joyce Thomas
@@ -67,6 +79,8 @@ departments:
   - San Francisco, CA 94105-1831
   phone: 415-904-6772
   fax: 415-904-0580
+  emails:
+  - FOIASF@mspb.gov
 - name: New York Field Office
   address:
   - Gwendolyn Gatling
@@ -76,6 +90,8 @@ departments:
   - New York, NY 10278-0022
   phone: 212-264-6183
   fax: 212-264-1417
+  emails:
+  - FOIANY@mspb.gov
 - name: Denver Field Office
   address:
   - Nicole Remmich
@@ -85,6 +101,8 @@ departments:
   - Lakewood, CO 80228-2211
   phone: 303-969-5101
   fax: 303-969-5109
+  emails:
+  - FOIADE@mspb.gov
 - name: I don't know which office
   address:
   - Bernard Parker
@@ -93,3 +111,5 @@ departments:
   - Washington, DC 20419
   phone: 202-653-7200
   fax: 202-653-7130
+  emails:
+  - FOIAHQ@msrb.gov

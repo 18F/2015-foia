@@ -15,6 +15,8 @@ departments:
   - Washington, DC 20210
   phone: 202-693-5391
   fax: 202-693-5389
+  emails:
+  - foiarequest@dol.gov
 - name: Bureau of International Labor Affairs
   address:
   - FOIA Coordinator
@@ -22,6 +24,8 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
   phone: 202-693-4877
+  emails:
+  - ILABFOIA@dol.gov
 - name: Bureau of Labor Statistics
   address:
   - FOIA Disclosure Officer
@@ -38,6 +42,8 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   phone: 202-693-8673
+  emails:
+  - foiarequest@dol.gov
 - name: Employment & Training Administration
   address:
   - FOIA Disclosure Officer
@@ -52,6 +58,8 @@ departments:
   - Washington, DC 20210
   phone: 202-693-3676
   fax: 202-693-2844
+  emails:
+  - foiarequest@dol.gov
 - name: Mine Safety & Health Administration
   address:
   - FOIA Officer
@@ -60,6 +68,8 @@ departments:
   - Arlington, VA 22209-3939
   phone: 202-693-9542
   fax: 202-963-9441
+  emails:
+  - foiarequest@dol.gov
 - name: Office of the Administrative Law Judges
   address:
   - FOIA Disclosure Officer
@@ -68,6 +78,8 @@ departments:
   - N.W. Washington, DC 20001-8002
   phone: 202-693-7348
   fax: 202-693-7365
+  emails:
+  - foiarequest@dol.gov
 - name: Office of the Assistant Secretary for Administration and Management
   address:
   - FOIA Coordinator
@@ -76,6 +88,8 @@ departments:
   - Washington, DC 20210
   phone: 202-693-7126
   fax: 202-693-7954
+  emails:
+  - foiarequest@dol.gov
 - name: Office of Federal Contract Compliance Programs
   address:
   - FOIA Coordinator
@@ -84,6 +98,8 @@ departments:
   - Washington, DC 20210
   phone: 202-693-5500
   fax: 202-693-5538
+  emails:
+  - foiarequest@dol.gov
 - name: Office of Labor-Management Standards
   address:
   - FOIA Coordinator
@@ -134,6 +150,8 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   fax: 202-693-6746
+  emails:
+  - foiarequest@dol.gov
 - name: I don't know which office
   address:
   - Ramona Branch Oliver
@@ -143,3 +161,5 @@ departments:
   - Washington, DC 20210
   phone: 202-693-5391
   fax: 202-693-5389
+  emails:
+  - foiarequest@dol.gov

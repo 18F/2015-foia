@@ -16,6 +16,8 @@ departments:
   - Washington, DC 20233-3700
   phone: 301-763-2127
   fax: 301-763-6239
+  emails:
+  - census.efoia@census.gov
 - name: Economics and Statistics Administration Bureau
   address:
   - Pamela Moulder
@@ -24,6 +26,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-5997
   fax: 202-482-2889
+  emails:
+  - p.moulder@doc.gov
 - name: Economic Development Administration
   address:
   - Stephen Kong
@@ -33,6 +37,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-3085
   fax: 202-482-5671
+  emails:
+  - SKong@eda.doc.gov
 - name: Bureau of Industry and Security
   address:
   - Jennifer Kuo
@@ -42,6 +48,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-0953
   fax: 202-482-0326
+  emails:
+  - efoiarequest@bis.doc.gov
 - name: International Trade Administration
   address:
   - Justin Guz
@@ -51,6 +59,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-7937
   fax: 202-482-1584
+  emails:
+  - FOIA@trade.gov
 - name: Minority Business Development Agency
   address:
   - Clara Colbert
@@ -68,6 +78,8 @@ departments:
   - Gaithersburg, MD 20899-1710
   phone: 301-975-4074
   fax: 301-975-5301
+  emails:
+  - foia@nist.gov
 - name: National Technical Information Service
   address:
   - Lee Halvorsen
@@ -77,6 +89,8 @@ departments:
   - Alexandria, VA 22312
   phone: 703-605-6710
   fax: 703-605-6764
+  emails:
+  - LHalvorsen@ntis.gov
 - name: National Telecommunications and Information Administration
   address:
   - Stacy Cheney
@@ -86,6 +100,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-1816
   fax: 202-501-8013
+  emails:
+  - eFOIA@ntia.doc.gov
 - name: National Oceanic and Atmospheric Administration
   address:
   - Wendy Schumacher
@@ -95,6 +111,8 @@ departments:
   - Silver Spring, MD 20910
   phone: 301-713-3540
   fax: 301-713-1169
+  emails:
+  - FOIA@noaa.gov
 - name: U.S. Patent and Trademark Office
   address:
   - Kathryn Siehndel
@@ -103,6 +121,8 @@ departments:
   - Alexandria, VA 22313-1450
   phone: 571-272-3000
   fax: 571-501-7335
+  emails:
+  - efoia@uspto.gov
 - name: Office of Inspector General
   address:
   - Laura Bell
@@ -112,6 +132,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-3470
   fax: 202-501-7921
+  emails:
+  - FOIA@oig.doc.gov
 - name: Office of the Secretary
   address:
   - Bobbie Parsons
@@ -121,6 +143,8 @@ departments:
   - Washington, DC 20230
   phone: 202-482-3257
   fax: 202-482-0827
+  emails:
+  - Efoia@doc.gov
 - name: I don't know which office
   address:
   - Brenda Dolan
@@ -130,3 +154,5 @@ departments:
   - Washington, DC 20230
   phone: 202-482-3258
   fax: 202-482-0827
+  emails:
+  - Efoia@doc.gov

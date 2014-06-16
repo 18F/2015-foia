@@ -15,6 +15,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-5546
   fax: 202-366-8536
+  emails:
+  - ost.foia@dot.gov
 - name: Office of the Inspector General
   address:
   - Angel Simmons
@@ -32,6 +34,8 @@ departments:
   - Washington, DC 20591
   phone: 202-267-9165
   fax: 202-493-5032
+  emails:
+  - 7-AWA-ARC-FOIA@faa.gov
 - name: Federal Highway Administration
   address:
   - Manizheh Boehm
@@ -41,6 +45,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-9048
   fax: 202-366-1380
+  emails:
+  - foia.officer@fhwa.dot.gov
 - name: Federal Railroad Administration
   address:
   - Denise Kollehlon
@@ -50,6 +56,8 @@ departments:
   - Washington, DC 20590
   phone: 202-493-6039
   fax: 202-493-6068
+  emails:
+  - frafoia@dot.gov
 - name: Federal Transit Administration
   address:
   - Nancy Sipes
@@ -59,6 +67,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-4022
   fax: 202-366-7164
+  emails:
+  - foia@fta.dot.gov
 - name: Federal Motor Carrier Safety Administration
   address:
   - Tiffanie C. Coleman
@@ -68,6 +78,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-2960
   fax: 202-385-2335
+  emails:
+  - foia@fmcsa.dot.gov
 - name: National Highway Traffic Safety Administration
   address:
   - FOIA Contact
@@ -86,6 +98,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-5320
   fax: 202-366-7485
+  emails:
+  - FOIA.Marad@dot.gov
 - name: Pipeline and Hazardous Materials Safety Administration
   address:
   - Vacant
@@ -95,6 +109,8 @@ departments:
   - Washington, DC 20590
   phone: 202-366-6119
   fax: 202-336-7041
+  emails:
+  - Marilyn.Burke@dot.gov
 - name: Saint Lawrence Seaway Development Corporation
   address:
   - Carrie Lavigne
@@ -103,6 +119,8 @@ departments:
   - Massena, NY 13662-0520
   phone: 315-764-3210
   fax: 315-764-3235
+  emails:
+  - foia.request@sls.dot.gov
 - name: Surface Transportation Board
   address:
   - Marilyn R. Levitt
@@ -111,6 +129,8 @@ departments:
   - Washington, DC 20423-0001
   phone: 202-245-0269
   fax: 202-245-0460
+  emails:
+  - FOIA.Privacy@stb.dot.gov
 - name: I don't know which office
   address:
   - FOIA Contact
@@ -120,3 +140,5 @@ departments:
   - Washington, DC 20590
   phone: 202-366-4542
   fax: 202-366-8536
+  emails:
+  - ost.foia@dot.gov

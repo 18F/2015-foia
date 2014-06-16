@@ -43,6 +43,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-2692
   fax: 202-616-4529
+  emails:
+  - antitrust.foia@usdoj.gov
 - name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   address:
   - Stephanie Boucher
@@ -52,6 +54,8 @@ departments:
   - Washington, DC 20226
   phone: 202-648-8740
   fax: 202-648-9619
+  emails:
+  - foiamail@atf.gov
 - name: Civil Division
   address:
   - James M. Kovakas
@@ -61,6 +65,8 @@ departments:
   - Washington, DC 20035
   phone: 202-514-3319
   fax: 202-305-3291
+  emails:
+  - Civil.routing.FOIA@usdoj.gov
 - name: Civil Rights Division
   address:
   - Nelson D. Hermilla
@@ -69,6 +75,8 @@ departments:
   - 950 Pennsylvania Avenue, NW
   - Washington, DC 20530
   phone: 202-514-4209
+  emails:
+  - CRT.FOIArequests@usdoj.gov
 - name: Community Relations Service
   address:
   - George Henderson
@@ -77,6 +85,8 @@ departments:
   - 600 E Street, NW
   - Washington, DC 20530-0001
   phone: 202-305-2935
+  emails:
+  - CRS.FOIA@usdoj.gov
 - name: Criminal Division
   address:
   - Kenneth Courter
@@ -86,6 +96,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-616-0307
   fax: 202-514-6117
+  emails:
+  - crm.foia@usdoj.gov
 - name: Drug Enforcement Administration
   address:
   - Katherine L. Myrick
@@ -94,6 +106,8 @@ departments:
   - Springfield, VA 22152
   phone: 202-305-7596
   fax: 202-307-8556
+  emails:
+  - dea.foia@usdoj.gov
 - name: Environment and Natural Resources Division
   address:
   - Sarah Lu
@@ -102,6 +116,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-0424
   fax: 202-514-4231
+  emails:
+  - FOIARouting.enrd@usdoj.gov
 - name: Executive Office for Immigration Review
   address:
   - Cecelia Espenoza
@@ -111,6 +127,8 @@ departments:
   - Falls Church, VA 20503
   phone: 703-605-1297
   fax: 703-605-0570
+  emails:
+  - EOIR.FOIARequests@usdoj.gov
 - name: Executive Office for Organized Crime Drug Enforcement Task Forces
   address:
   - Jill Aronica
@@ -119,6 +137,8 @@ departments:
   - 1331 Pennsylvania Ave.
   - Washington, DC 20530
   phone: 202-514-0296
+  emails:
+  - ocdetf.foia@usdoj.gov
 - name: Executive Office for United States Attorneys
   address:
   - Susan B. Gerson
@@ -128,6 +148,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-252-6020
   fax: 202-252-6047
+  emails:
+  - USAEO.FOIA.Requests@usdoj.gov
 - name: Executive Office for United States Trustees
   address:
   - Larry Wahlquist
@@ -137,6 +159,8 @@ departments:
   - Washington, DC 20530
   phone: 202-307-1399
   fax: 202-307-2397
+  emails:
+  - USTPFOIA.Requests@usdoj.gov
 - name: Federal Bureau of Investigation
   address:
   - David M. Hardy
@@ -145,6 +169,8 @@ departments:
   - Winchester, VA 22602-4843
   phone: 540-868-4500
   fax: 540-868-4997
+  emails:
+  - foiparequest@ic.fbi.gov
 - name: Federal Bureau of Prisons
   address:
   - Wanda M. Hunt
@@ -153,6 +179,8 @@ departments:
   - 320 First Street, NW
   - Washington, DC 20534
   phone: 202-514-6655
+  emails:
+  - ogc_efoia@bop.gov
 - name: Foreign Claims Settlement Commission
   address:
   - Jeremy LaFrancois
@@ -162,6 +190,8 @@ departments:
   - Washington, DC 20579-0001
   phone: 202-616-6975
   fax: 202-616-6993
+  emails:
+  - info.fcsc@usdoj.gov
 - name: INTERPOL-United States National Central Bureau
   address:
   - FOIA/PA Specialist, Office of General Counsel
@@ -170,6 +200,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-616-0201
   fax: 202-616-1357
+  emails:
+  - Interpol-USNCB.FOIA@usdoj.gov
 - name: Justice Management Division
   address:
   - Karen McFadden
@@ -179,6 +211,8 @@ departments:
   - Washington, DC 20530
   phone: 202-514-3101
   fax: 202-616-6695
+  emails:
+  - JMDFOIA@usdoj.gov
 - name: National Security Division
   address:
   - Arnetta Mallory
@@ -187,6 +221,8 @@ departments:
   - 600 E Street, NW
   - Washington, DC 20530-0001
   phone: 202-307-0754
+  emails:
+  - nsdfoia@usdoj.gov
 - name: Office of Community Oriented Policing Services
   address:
   - Gary L. Baude
@@ -196,6 +232,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-353-9864
   fax: 202-514-3456
+  emails:
+  - COPS.FOIA@usdoj.gov
 - name: Office of Information Policy
   address:
   - Carmen L. Mallon
@@ -214,6 +252,8 @@ departments:
   - Washington, DC 20530
   phone: 202-616-0646
   fax: 202-616-9152
+  emails:
+  - oigfoia@usdoj.gov
 - name: Office of Justice Programs
   address:
   - Dorothy Lee
@@ -223,6 +263,8 @@ departments:
   - Washington, DC 20531
   phone: 202-616-3267
   fax: 202-307-1419
+  emails:
+  - FOIAOJP@usdoj.gov
 - name: Office of Legal Counsel
   address:
   - Bette Farris
@@ -231,6 +273,8 @@ departments:
   - 950 Pennsylvania Avenue, NW
   - Washington, DC 20530-0001
   phone: 202-514-2038
+  emails:
+  - usdoj-officeoflegalcounsel@usdoj.gov
 - name: Office of Legal Policy
   address:
   - Carmen L. Mallon
@@ -249,6 +293,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-514-3642
   fax: 202-514-1009
+  emails:
+  - DOJ.OIP.Initial.Requests@usdoj.gov
 - name: Office of the Pardon Attorney
   address:
   - Linda M.V. Bowe
@@ -258,6 +304,8 @@ departments:
   - Washington, DC 20530-0001
   phone: 202-616-6070
   fax: 202-616-6069
+  emails:
+  - PardonAttorneyFOIA@usdoj.gov
 - name: Office of Professional Responsibility
   address:
   - Lyn Hardy
@@ -267,6 +315,8 @@ departments:
   - Washington, DC 20530
   phone: 202-514-3365
   fax: 202-514-5050
+  emails:
+  - OPR.FOIA@usdoj.gov
 - name: Office of Public Affairs
   address:
   - Carmen L. Mallon
@@ -283,6 +333,8 @@ departments:
   - 950 Pennsylvania Avenue, NW
   - Washington, DC 20530-0001
   phone: 202-616-9406
+  emails:
+  - OSGFOIA@usdoj.gov
 - name: Office of Tribal Justice
   address:
   - Susan B. Gerson
@@ -291,6 +343,8 @@ departments:
   - 600 E Street, NW
   - Washington, DC 20530-0001
   phone: 202-252-6020
+  emails:
+  - USAEO.FOIA.Requests@usdoj.gov
 - name: Office on Violence Against Women
   address:
   - Catherine Poston
@@ -299,6 +353,8 @@ departments:
   - 145 N Street, NE
   - Washington, DC 20530
   phone: 202-307-6026
+  emails:
+  - OVW.FOIA@usdoj.gov
 - name: Professional Responsibility Advisory Office
   address:
   - Michael Kingsley
@@ -308,6 +364,8 @@ departments:
   - Washington, DC 20530
   phone: 202-514-0458
   fax: 202-353-7483
+  emails:
+  - PRAO.FOIA@usdoj.gov
 - name: Tax Division
   address:
   - Carmen M. Banerjee
@@ -316,6 +374,8 @@ departments:
   - Ben Franklin Station
   - Washington, DC 20044
   phone: 202-307-6320
+  emails:
+  - TaxDiv.FOIAPA@usdoj.gov
 - name: United States Marshals Service
   address:
   - William E. Bordley
@@ -324,6 +384,8 @@ departments:
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
   phone: 202-307-9054
+  emails:
+  - usms.foia@usdoj.gov
 - name: United States Parole Commission
   address:
   - Anissa Banks
@@ -332,6 +394,8 @@ departments:
   - 90 K Street, NE
   - Washington, DC 20530
   phone: 202-346-7030
+  emails:
+  - USPC.FOIA@usdoj.gov
 - name: I don't know which office
   address:
   - FOIA/PA Mail Referral Unit
@@ -341,3 +405,5 @@ departments:
   - Washington, DC 20530-0001
   phone: 301-583-7354
   fax: 301-341-0772
+  emails:
+  - MRUFOIA.Requests@usdoj.gov

@@ -14,6 +14,8 @@ departments:
   - Washington, DC 20240
   phone: 202-208-4174
   fax: 202-208-6597
+  emails:
+  - foia@bia.gov
 - name: Bureau of Land Management
   address:
   - Ryan Witt
@@ -22,6 +24,8 @@ departments:
   - 'MS: WO-560, 1849 C Street, NW'
   - Washington, DC 20240
   phone: 202-912-7650
+  emails:
+  - BLM_WO_FOIA@blm.gov
 - name: Bureau of Ocean Energy Management
   address:
   - Rosemary Melendy
@@ -31,6 +35,8 @@ departments:
   - Herndon, VA 20170-4817
   phone: 703-787-1315
   fax: 703-787-1209
+  emails:
+  - BOEMFOIA@boem.gov
 - name: Bureau of Reclamation
   address:
   - Regina Magno-Judd
@@ -39,6 +45,8 @@ departments:
   - Denver, CO 80225-0007
   phone: 303-445-2056
   fax: 303-445-6575
+  emails:
+  - bor_foia@usbr.gov
 - name: Bureau of Safety and Environmental Enforcement
   address:
   - Debbie Kimball
@@ -48,6 +56,8 @@ departments:
   - Herndon, VA 20170-4817
   phone: 703-787-1689
   fax: 703-787-1207
+  emails:
+  - BSEEFOIA@bsee.gov
 - name: U.S. Fish and Wildlife Service
   address:
   - Johnny Hunt
@@ -57,6 +67,8 @@ departments:
   - Arlington, VA 22203
   phone: 703-358-2504
   fax: 703-358-2698
+  emails:
+  - fwhq_foia@fws.gov
 - name: U.S. Geological Survey
   address:
   - Joye Durant
@@ -66,6 +78,8 @@ departments:
   - Reston, VA 20192
   phone: 703-648-7196
   fax: 703-648-7199
+  emails:
+  - foia@usgs.gov
 - name: National Park Service
   address:
   - Charis Wilson
@@ -75,6 +89,8 @@ departments:
   - Denver, CO 80225
   phone: 303-969-2959
   fax: 303-969-2557
+  emails:
+  - npsfoia@nps.gov
 - name: Office of the Inspector General
   address:
   - Kevin Krebs
@@ -83,6 +99,8 @@ departments:
   - 1849 C Street, NW
   - Washington, DC 20240
   phone: 202-208-0954
+  emails:
+  - foia@doioig.gov
 - name: Office of Natural Resources Revenue
   address:
   - Richard Lopez
@@ -92,6 +110,8 @@ departments:
   - Denver, CO 80225-0165
   phone: 303-231-3078
   fax: 303-445-4288
+  emails:
+  - mrmfoia@onrr.gov
 - name: Office of the Secretary
   address:
   - Clarice Julka
@@ -101,6 +121,8 @@ departments:
   - Washington, DC 20240
   phone: 202-513-0756
   fax: 202-219-2374
+  emails:
+  - os_foia@ios.doi.gov
 - name: Office of the Solicitor
   address:
   - Lance Purvis
@@ -110,6 +132,8 @@ departments:
   - Washington, DC 20240
   phone: 202-208-5817
   fax: 202-208-5206
+  emails:
+  - sol.foia@sol.doi.gov
 - name: Office of Surface Mining
   address:
   - Dele Awoniyi
@@ -119,6 +143,8 @@ departments:
   - Washington, DC 20240
   phone: 202-208-5840
   fax: 202-219-3092
+  emails:
+  - foia@osmre.gov
 - name: Office of the Special Trustee
   address:
   - Veronica Herkshan
@@ -127,3 +153,5 @@ departments:
   - 1849 C Street, NW
   - Washington, DC 20240
   phone: 505-816-1645
+  emails:
+  - Veronica_Herkshan@ost.doi.gov

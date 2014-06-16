@@ -14,6 +14,8 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7465
   fax: 202-632-7581
+  emails:
+  - vacofoiaservice@va.gov
 - name: National Cemetery Administration
   address:
   - James Killens III
@@ -23,6 +25,8 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7728
   fax: 202-632-7572
+  emails:
+  - nca.foia@va.gov
 - name: Veterans Benefits Administration
   address:
   - Sean Burns
@@ -32,6 +36,8 @@ departments:
   - Washington, DC 20420
   phone: 202-491-9439
   fax: 202-275-5947
+  emails:
+  - foia.vbaco@va.gov
 - name: Veterans Health Administration
   address:
   - Timothy Graham
@@ -41,6 +47,8 @@ departments:
   - Washington, DC 20420
   phone: 215-823-4146
   fax: 202-273-9387
+  emails:
+  - vhafoia2@va.gov
 - name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
   address:
   - Inez Sidbury
@@ -113,6 +121,8 @@ departments:
   - Philadelphia, PA 19144
   phone: 215-842-2000
   fax: 215-381-3527
+  emails:
+  - cdcofoia@va.gov
 - name: Office of Assistant Secretary for Information and Technology
   address:
   - Laurie Karnay
@@ -122,6 +132,8 @@ departments:
   - Washington, DC 20420
   phone: 202-632-7465
   fax: 202-632-7581
+  emails:
+  - vacofoiaservice@va.gov
 - name: Office of Assistant Secretary for Human Resources and Administration
   address:
   - Yolanda Johnson
@@ -203,6 +215,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-8212
   fax: 202-495-5538
+  emails:
+  - CFM.FOIA@va.gov
 - name: Office of Acquisition & Logistics
   address:
   - Richard Ha
@@ -212,6 +226,8 @@ departments:
   - Washington, DC 20001
   phone: 202-632-5286
   fax: 202-343-1434
+  emails:
+  - VA_OAL_FOIA@va.gov
 - name: Board of Veterans Appeals
   address:
   - Margaret L. Peak
@@ -230,6 +246,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-7717
   fax: 202-273-9299
+  emails:
+  - ogcfoiarequests@va.gov
 - name: Office of Inspector General
   address:
   - Darryl Joe
@@ -239,6 +257,8 @@ departments:
   - Washington, DC 20420
   phone: 202-461-4591
   fax: 202-565-8667
+  emails:
+  - vaoigfoia-pa@va.gov
 - name: Office of Small and Disadvantaged Business Utilization
   address:
   - Karen Zhussanbay
@@ -248,6 +268,8 @@ departments:
   - Washington, DC 20420
   phone: 202-303-3260
   fax: 202-303-3313
+  emails:
+  - osbdufoia@va.gov
 - name: I don't know which office
   address:
   - Laurie Karnay

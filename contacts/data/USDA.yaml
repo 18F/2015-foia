@@ -14,6 +14,8 @@ departments:
   - Washington, DC 20250-0273
   phone: 202-720-3785
   fax: 202-690-3767
+  emails:
+  - AMS.FOIA@usda.gov
 - name: Animal & Plant Health Inspection
   address:
   - Tonya Woods
@@ -23,6 +25,8 @@ departments:
   - Riverdale, MD 20737-1232
   phone: 301-734-8296
   fax: 301-734-5941
+  emails:
+  - foia.officer@aphis.usda.gov
 - name: Departmental Management
   address:
   - Phyllis Holmes
@@ -32,6 +36,8 @@ departments:
   - Washington, DC 20250
   phone: 202-720-0068
   fax: 202-720-0105
+  emails:
+  - phyllis.holmes@usda.gov
 - name: Farm Service Agency
   address:
   - Sue Ellen Sloca
@@ -41,6 +47,8 @@ departments:
   - Washington, DC 20250
   phone: 202-720-1598
   fax: 202-690-2828
+  emails:
+  - fsa.foia@wdc.usda.gov
 - name: Food, Nutrition & Consumer Services
   address:
   - Jennifer Weatherly
@@ -50,6 +58,8 @@ departments:
   - Alexandria, VA 22302
   phone: 703-605-0773
   fax: 703-605-0793
+  emails:
+  - foia@fns.usda.gov
 - name: Food Safety & Inspection Service
   address:
   - Shelia Wright
@@ -59,6 +69,8 @@ departments:
   - Washington, DC 20250-3700
   phone: 202-690-2760
   fax: 202-690-3023
+  emails:
+  - FOIA@FSIS.USDA.gov
 - name: Foreign Agricultural Service
   address:
   - Henry Noland
@@ -67,6 +79,8 @@ departments:
   - 1400 Independence Avenue, SW
   - Washington, DC 20250-1004
   phone: 202-720-0154
+  emails:
+  - Henry.Noland@fas.usda.gov
 - name: Forest Service - Headquarters
   address:
   - Sherry Turner
@@ -76,6 +90,8 @@ departments:
   - Washington, DC 20250-1143
   phone: 202-205-2497
   fax: 202-260-3245
+  emails:
+  - wo_foia@fs.fed.us
 - name: Grain Inspection, Packers & Stockyards Administration
   address:
   - Joanne Peterson
@@ -85,6 +101,8 @@ departments:
   - Washington, DC 20250-3604
   phone: 202-720-8087
   fax: 202-690-2755
+  emails:
+  - joanne.c.peterson@usda.gov
 - name: National Appeals Division
   address:
   - Brenda V. Seegars
@@ -94,6 +112,8 @@ departments:
   - Alexandria, VA 22302
   phone: 703-305-1164
   fax: 703-305-2825
+  emails:
+  - Brenda.Seegars@nad.usda.gov
 - name: National Finance Center
   address:
   - John Hemstreet
@@ -111,6 +131,8 @@ departments:
   - Washington, DC 20250
   phone: 202-690-4985
   fax: 202-720-9030
+  emails:
+  - NRCS-foia@wdc.usda.gov
 - name: Office of Budget & Program Analysis
   address:
   - Julie Hetrick
@@ -145,6 +167,8 @@ departments:
   - Washington, DC 20250-9410
   phone: 202-720-5212
   fax: 202-720-0953
+  emails:
+  - ascrfoia@usda.gov
 - name: Office of the General Counsel
   address:
   - Betty Ollila
@@ -161,6 +185,8 @@ departments:
   - 355 E Street SW
   - Washington, DC 20024
   phone: 202-260-2657
+  emails:
+  - usdafoia@ocio.usda.gov
 - name: Risk Management Agency
   address:
   - Bill Crews
@@ -170,6 +196,8 @@ departments:
   - Washington, DC 20250
   phone: 202-720-9507
   fax: 202-720-1162
+  emails:
+  - bill.crews@rma.usda.gov
 - name: Research, Education & Economics
   address:
   - Stasia Hutchison and Monica Williams
@@ -196,3 +224,5 @@ departments:
   - 355 E Street SW
   - Washington, DC 20024
   phone: 202-260-2657
+  emails:
+  - usdafoia@ocio.usda.gov

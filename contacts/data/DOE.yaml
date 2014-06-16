@@ -15,6 +15,8 @@ departments:
   - Washington, DC 20585
   phone: 202-586-3159
   fax: 202-586-0575
+  emails:
+  - FOIA-Central@hq.doe.gov
 - name: Chicago Office
   address:
   - Miriam Bartos
@@ -23,6 +25,8 @@ departments:
   - Argonne, IL 60439
   phone: 630-252-2041
   fax: 630-252-2183
+  emails:
+  - Miriam.Bartos@ch.doe.gov
 - name: Idaho Operations Office
   address:
   - Clayton Ogilvie
@@ -31,6 +35,8 @@ departments:
   - 1955 Fremont Avenue
   - Idaho Falls, ID 83401
   phone: 208-526-5190
+  emails:
+  - ogilvic@id.doe.gov
 - name: Oak Ridge Office
   address:
   - Amy Rothrock
@@ -39,6 +45,8 @@ departments:
   - Oak Ridge, TN 37831
   phone: 865-576-1216
   fax: 865-576-1556
+  emails:
+  - rothrockal@oro.doe.gov
 - name: Office of Scientific and Technical Information
   address:
   - Madelyn Wilson
@@ -47,6 +55,8 @@ departments:
   - Oak Ridge, TN 37830
   phone: 865-576-8408
   fax: 865-576-3589
+  emails:
+  - wilsonm@osti.gov
 - name: Richland Operations Office
   address:
   - Dorothy Riehle
@@ -72,6 +82,8 @@ departments:
   - Albuquerque, NM 87185-5400
   phone: 505-845-6265
   fax: 505-284-7512
+  emails:
+  - FOIOfficer@nnsa.doe.gov
 - name: National Nuclear Security Administration Office of Naval Reactors
   address:
   - Clifford Nunn
@@ -89,6 +101,8 @@ departments:
   - Carlsbad, NM 88221
   phone: 575-234-7010
   fax: 505-234-7025
+  emails:
+  - foialiaison@wipp.ws
 - name: Golden Field Office
   address:
   - Michele Altieri
@@ -98,6 +112,8 @@ departments:
   - Golden, CO 80401
   phone: 720-356-1427
   fax: 720-356-1780
+  emails:
+  - michelealtieri@go.doe.gov
 - name: Environmental Management Consolidated Business Center (EMCBC)
   address:
   - Scott Lucarelli
@@ -107,6 +123,8 @@ departments:
   - Cincinnati, OH 45202
   phone: 513-246-0497
   fax: 513-246-0524
+  emails:
+  - foiaoffice@emcbc.doe.gov
 - name: Bonneville Power Administration
   address:
   - Christy Munro
@@ -116,6 +134,8 @@ departments:
   - Portland, OR 97208-3621
   phone: 503-230-7303
   fax: 503-230-4019
+  emails:
+  - cjmunro@bpa.gov
 - name: Southeastern Power Administration
   address:
   - Joel Seymour
@@ -124,6 +144,8 @@ departments:
   - Elberton, GA 30635-6711
   phone: 706-213-3810
   fax: 706-213-3884
+  emails:
+  - joels@sepa.doe.gov
 - name: Southwestern Power Administration
   address:
   - Marti Ayers
@@ -133,6 +155,8 @@ departments:
   - Tulsa, OK 74103
   phone: 918-595-6609
   fax: 918-595-6755
+  emails:
+  - foia@swpa.gov
 - name: Western Area Power Administration
   address:
   - Patricia S. Land
@@ -160,3 +184,5 @@ departments:
   - Pittsburgh, PA 15236-0940
   phone: 412-386-6167
   fax: 412-386-5949
+  emails:
+  - Ann.Dunlap@NETL.doe.gov

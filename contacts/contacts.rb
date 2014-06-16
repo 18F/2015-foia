@@ -65,14 +65,19 @@ def parse_department(elem, name)
   }
 
   # clean up each line, ignore the first one
-  lines = (elem / :p)[1..-1]
-  lines = lines.map do |line|
-    text = line.text.strip
+  lines = []
+  ps = []
+  (elem / :p)[1..-1].each do |p|
+    text = p.text.strip
     text = HTMLEntities.new.decode text
     text = text.gsub /\n\s+/, " "
+
+    # remove empty lines, including unicode/nbsp spaces
+    if text.gsub(/[[:space:]]/, '').strip != ""
+      lines << text
+      ps << p
+    end
   end
-  # remove empty lines, including unicode/nbsp spaces
-  lines = lines.reject {|line| line.gsub(/[[:space:]]/, '').strip == ""}
 
   # first, get address - starts with line 2, then goes until we find a
   # phone or service center. So find that first.
@@ -107,6 +112,25 @@ def parse_department(elem, name)
     end
 
     data['fax'] = extract_phone(fax)
+  end
+
+  # find email address, match to original p
+  lines.each_with_index do |line, i|
+    if line =~ /\be\-?mail/i
+      if a = ps[i].at("a")
+        emails = a['href'].sub("mailto:", "").strip
+        if emails !~ /http:\/\//
+          data['emails'] = emails.split(/;\s+/)
+        end
+      else
+        puts line
+        puts i
+        puts ps[i].to_html
+        puts " == ERROR EXTRACTING EMAIL. =="
+        exit
+      end
+      break
+    end
   end
 
   data

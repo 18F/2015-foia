@@ -12,6 +12,8 @@ departments:
   - Washington , DC 20424
   phone: 202-218-7770
   fax: 202-343-1007
+  emails:
+  - solmail@flra.gov
 - name: Office of the General Counsel
   address:
   - FOIA Contact
@@ -19,6 +21,8 @@ departments:
   - Washington , DC 20424
   phone: 202-218-7910
   fax: 202-482-6608
+  emails:
+  - ogcmail@flra.gov
 - name: Atlanta Regional Office
   address:
   - FOIA Contact
@@ -27,6 +31,8 @@ departments:
   - Atlanta, GA 30303-1270
   phone: 404-331-5300
   fax: 404-331-5280
+  emails:
+  - aromail@flra.gov
 - name: Boston Regional Office
   address:
   - FOIA Contact
@@ -35,6 +41,8 @@ departments:
   - Boston, MA 02222
   phone: 617-565-5100
   fax: 617-565-6262
+  emails:
+  - bromail@flra.gov
 - name: Chicago Regional Office
   address:
   - FOIA Contact
@@ -43,6 +51,8 @@ departments:
   - Chicago, IL 60603-9729
   phone: 312-886-3465
   fax: 312-886-5977
+  emails:
+  - cromail@flra.gov
 - name: Dallas Regional Office
   address:
   - FOIA Contact
@@ -51,6 +61,8 @@ departments:
   - Dallas, TX 75202-1906
   phone: 214-767-6266
   fax: 214-767-0156
+  emails:
+  - daromail@flra.gov
 - name: Denver Regional Office
   address:
   - FOIA Contact
@@ -59,6 +71,8 @@ departments:
   - Denver, CO 80204-3581
   phone: 303-844-5226
   fax: 303-844-2774
+  emails:
+  - daromail@flra.gov
 - name: San Francisco Regional Office
   address:
   - FOIA Contact
@@ -67,6 +81,8 @@ departments:
   - San Francisco, CA 94103-1791
   phone: 415-356-5000
   fax: 415-356-5017
+  emails:
+  - sromail@flra.gov
 - name: Washington Regional Office
   address:
   - FOIA Contact
@@ -75,6 +91,8 @@ departments:
   - Washington , DC 25424-0001
   phone: 202-482-6700
   fax: 202-482-6724
+  emails:
+  - wromail@flra.gov
 - name: The Federal Service Impasses Panel
   address:
   - FOIA Contact
@@ -82,6 +100,8 @@ departments:
   - Washington , DC 20424
   phone: 202-218-7790
   fax: 202-482-6674
+  emails:
+  - fsipmail@flra.gov
 - name: Office of the Inspector General
   address:
   - FOIA Contact
@@ -89,6 +109,8 @@ departments:
   - Washington , DC 20424
   phone: 202-218-7770
   fax: 202-482-0573
+  emails:
+  - oigmail@flra.gov
 - name: I don't know which office
   address:
   - Rosa M. Koppel
@@ -97,3 +119,5 @@ departments:
   - Washington , DC 20424
   phone: 202-218-7770
   fax: 202-343-1007
+  emails:
+  - solmail@flra.gov

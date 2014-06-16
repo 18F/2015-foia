@@ -38,6 +38,8 @@ departments:
   - Washington, DC 20447
   phone: 888-747-1861
   fax: 202-401-4829
+  emails:
+  - foia@acf.hhs.gov
 - name: Agency for Healthcare Research and Quality
   address:
   - Carol Maloney
@@ -46,6 +48,8 @@ departments:
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
   phone: 301-492-4800
+  emails:
+  - FOIArequest@psc.hhs.gov
 - name: Centers for Disease Control and Prevention
   address:
   - Katherine Norris
@@ -55,6 +59,8 @@ departments:
   - Atlanta, GA 30333
   phone: 770-488-6399
   fax: 404-235-1852
+  emails:
+  - FOIARequests@cdc.gov
 - name: Agency for Toxic Substances and Disease Registry
   address:
   - Katherine Norris
@@ -64,6 +70,8 @@ departments:
   - Atlanta, GA 30333
   phone: 770-488-6399
   fax: 404-235-1852
+  emails:
+  - FOIARequests@cdc.gov
 - name: Center for Medicare and Medicaid Services
   address:
   - Michael Marquis
@@ -93,6 +101,8 @@ departments:
   - Rockville, MD 20857
   phone: 301-443-3376
   fax: 301-480-5285
+  emails:
+  - foia@hrsa.gov
 - name: Indian Health Service
   address:
   - William Tibbits
@@ -119,6 +129,8 @@ departments:
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
   phone: 301-492-4800
+  emails:
+  - FOIArequest@psc.hhs.gov
 - name: Substance Abuse and Mental Health Services Administration
   address:
   - Jeanette Hite
@@ -128,3 +140,5 @@ departments:
   - Rockville, MD 20857
   phone: 240-276-2137
   fax: 240-276-2135
+  emails:
+  - foia@samhsa.hhs.gov

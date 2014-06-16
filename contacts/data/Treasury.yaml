@@ -41,6 +41,8 @@ departments:
   - Mail Stop 2-3
   - Washington, DC 20219
   phone: 202-874-4700
+  emails:
+  - foia-pa@occ.treas.gov
 - name: Financial Crimes Enforcement Network
   address:
   - Amanda Michanczyk
@@ -91,6 +93,8 @@ departments:
   - Washington, DC 20552
   phone: 202-906-5922
   fax: 202-906-6353
+  emails:
+  - public.info@ots.treas.gov
 - name: Treasury Inspector General for Tax Administration
   address:
   - Amy P. Jones
@@ -100,3 +104,5 @@ departments:
   - Washington, DC 20005
   phone: 202-622-4068
   fax: 202-622-3339
+  emails:
+  - FOIA.Reading.Room@tigta.treas.gov

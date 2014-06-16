@@ -15,6 +15,8 @@ departments:
   - Alexandria, VA 22314
   phone: 703-518-6540
   fax: 703-518-6569
+  emails:
+  - FOIA@ncua.gov
 - name: Office of the Inspector General
   address:
   - Sharon Separ
@@ -23,3 +25,5 @@ departments:
   - Alexandria, VA 22314
   phone: 703-518-6540
   fax: 703-518-6349
+  emails:
+  - FOIA@ncua.gov

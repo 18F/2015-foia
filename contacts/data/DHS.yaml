@@ -15,6 +15,8 @@ departments:
   - Washington, DC 20528-0655
   phone: 202-343-1743
   fax: 202-343-4011
+  emails:
+  - foia@hq.dhs.gov
 - name: U.S. Citizenship & Immigration Services
   address:
   - Jill Eggleston
@@ -24,6 +26,8 @@ departments:
   - Lee's Summit, MO 64064-8010
   phone: 800-375-5283
   fax: 816-350-5785
+  emails:
+  - uscis.foia@dhs.gov
 - name: Office for Civil Rights and Civil Liberties
   address:
   - Aeron Pineiro, Acting
@@ -33,6 +37,8 @@ departments:
   - Washington, DC 20528
   phone: 202-357-1218
   fax: 202-357-1196
+  emails:
+  - CRCL@dhs.gov
 - name: U.S. Coast Guard
   address:
   - Gaston Brewer
@@ -42,6 +48,8 @@ departments:
   - Washington, DC 20593-7710
   phone: 202-475-3522
   fax: 202-475-3927
+  emails:
+  - efoia@uscg.mil
 - name: U.S. Customs & Border Protection
   address:
   - Sabrina Burroughs
@@ -60,6 +68,8 @@ departments:
   - Washington, DC 20472
   phone: 202-646-3323
   fax: 202-646-3347
+  emails:
+  - fema-foia@dhs.gov
 - name: Federal Law Enforcement Training Center
   address:
   - Leslie A. Jensen
@@ -68,6 +78,8 @@ departments:
   - Glynco, GA 31524
   phone: 912-267-3103
   fax: 912-267-3113
+  emails:
+  - fletc-foia@dhs.gov
 - name: U.S. Immigration & Customs Enforcement
   address:
   - Catrina Pavlick-Keenan
@@ -77,6 +89,8 @@ departments:
   - Washington, DC 20536-5009
   phone: 202-732-4265
   fax: 202-732-4265
+  emails:
+  - ice-foia@dhs.gov
 - name: Office of the Inspector General
   address:
   - Stephanie Kuehn
@@ -86,6 +100,8 @@ departments:
   - Washington, DC 20528-0305
   phone: 202-254-4001
   fax: 202-254-4398
+  emails:
+  - foia.oig@oig.dhs.gov
 - name: Office of Intelligence & Analysis
   address:
   - Priscilla Waters
@@ -93,6 +109,8 @@ departments:
   - Washington, DC 20528
   phone: 202-447-4883
   fax: 202-612-1936
+  emails:
+  - I&AFOIA@hq.dhs.gov
 - name: Directorate for National Protection and Programs
   address:
   - Sandy Ford Page
@@ -100,6 +118,8 @@ departments:
   - Washington, DC 20528
   phone: 703-235-2211
   fax: 703-235-2052
+  emails:
+  - NPPD.FOIA@dhs.gov
 - name: Office of Operations Coordination and Planning
   address:
   - Michael Page
@@ -107,6 +127,8 @@ departments:
   - Washington, DC 20528
   phone: 202-447-4156
   fax: 202-282-9811
+  emails:
+  - FOIAOPS@DHS.GOV
 - name: Science & Technology Directorate
   address:
   - Katrina Hagan
@@ -116,6 +138,8 @@ departments:
   - Washington, DC 20528
   phone: 202-254-6342
   fax: 202-254-6739
+  emails:
+  - stfoia@hq.dhs.gov
 - name: United States Secret Service
   address:
   - Latita Payne
@@ -125,6 +149,8 @@ departments:
   - Washington, DC 20223
   phone: 202-406-6370
   fax: 202-406-5586
+  emails:
+  - FOIA@usss.dhs.gov
 - name: Transportation Security Administration
   address:
   - Yvonne Coates
@@ -134,6 +160,8 @@ departments:
   - Arlington, VA 22202-4220
   phone: 866-364-2872
   fax: 571-227-1406
+  emails:
+  - foia.tsa@dhs.gov
 - name: Office of Biometric Identity Management
   address:
   - Michael Johnson
@@ -142,6 +170,8 @@ departments:
   - Washington, DC 20598-0628
   phone: 202-295-5454
   fax: 202-295-5445
+  emails:
+  - OBIM-FOIA@ice.dhs.gov
 - name: I don't know which office
   address:
   - FOIA Officer
@@ -150,3 +180,5 @@ departments:
   - Washington, DC 20528-0655
   phone: 202-343-1743
   fax: 202-343-4011
+  emails:
+  - foia@hq.dhs.gov

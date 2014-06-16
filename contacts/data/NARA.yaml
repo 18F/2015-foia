@@ -14,6 +14,8 @@ departments:
   - College Park, MD 20740
   phone: 301-837-3642
   fax: 301-837-0293
+  emails:
+  - foia@nara.gov
 - name: Office of the Inspector General
   address:
   - FOIA Contact
@@ -31,6 +33,8 @@ departments:
   - College Park, MD 20740
   phone: 301-837-3190
   fax: 301-837-1864
+  emails:
+  - specialaccess_foia@nara.gov
 - name: Pacific Alaska Region (Anchorage)
   address:
   - Regional Director
@@ -38,6 +42,8 @@ departments:
   - Anchorage, AK 99501-2145
   phone: 907-261-7820
   fax: 907-261-7813
+  emails:
+  - alaska.archives@nara.gov
 - name: Southeast Region (Atlanta)
   address:
   - Regional Director
@@ -45,6 +51,8 @@ departments:
   - Morrow, GA 30260
   phone: 770-968-2100
   fax: 770-968-2547
+  emails:
+  - atlanta.archives@nara.gov
 - name: Northeast Region (Boston)
   address:
   - Regional Director
@@ -53,6 +61,8 @@ departments:
   - Waltham, MA 02452-6399
   phone: 781-663-0130
   fax: 781-663-0154
+  emails:
+  - waltham.archives@nara.gov
 - name: Great Lakes Region (Chicago)
   address:
   - Regional Director
@@ -60,6 +70,8 @@ departments:
   - Chicago, IL 60629-5898
   phone: 773-948-9001
   fax: 773-948-9050
+  emails:
+  - chicago.archives@nara.gov
 - name: Rocky Mountain Region (Denver)
   address:
   - Regional Director
@@ -67,6 +79,8 @@ departments:
   - Denver, CO 80225
   phone: 303-407-5740
   fax: 303-407-5709
+  emails:
+  - denver.archives@nara.gov
 - name: Southwest Region (Fort Worth)
   address:
   - Regional Director
@@ -74,6 +88,8 @@ departments:
   - Fort Worth, TX 76140
   phone: 817-831-5620
   fax: 817-551-2034
+  emails:
+  - ftworth.archives@nara.gov
 - name: Central Plains Region (Kansas City)
   address:
   - Regional Director
@@ -81,6 +97,8 @@ departments:
   - Kansas City, MO 64108
   phone: 816-268-8000
   fax: 816-268-8038
+  emails:
+  - kansascity.archives@nara.gov
 - name: Northeast Region (New York)
   address:
   - Regional Director
@@ -89,6 +107,8 @@ departments:
   - New York, NY 10014
   phone: 212-401-1620
   fax: 212-401-1638
+  emails:
+  - newyork.archives@nara.gov
 - name: Mid-Atlantic Region (City Center Philadelphia)
   address:
   - Regional Director
@@ -96,6 +116,8 @@ departments:
   - Philadelphia, PA 19107-4292
   phone: 215-606-0100
   fax: 215-606-0116
+  emails:
+  - philadelphia.archives@nara.gov
 - name: Pacific Region (San Francisco)
   address:
   - Regional Director
@@ -103,6 +125,8 @@ departments:
   - San Bruno, CA 94066-2350
   phone: 650-238-3501
   fax: 650-238-3510
+  emails:
+  - sanbruno.archives@nara.gov
 - name: Pacific Region (Seattle)
   address:
   - Regional Director
@@ -110,6 +134,8 @@ departments:
   - Seattle, WA 98115-7999
   phone: 206-336-5115
   fax: 206-336-5112
+  emails:
+  - seattle.archives@nara.gov
 - name: I don't know which office
   address:
   - Joseph Scanlon
@@ -119,3 +145,5 @@ departments:
   - College Park, MD 20740
   phone: 301-837-3642
   fax: 301-837-0293
+  emails:
+  - foia@nara.gov
