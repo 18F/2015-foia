@@ -1,0 +1,140 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1382" measuredH="866" mockupW="1342" mockupH="822">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="42" y="44" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FOIA.gov</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="109" y="102" w="-1" h="-1" measuredW="252" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit%20a%20FOIA%20request</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="42" y="144" w="380" h="131" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Freedom%20of%20Information%20Act%20%28FOIA%29%20is%20a%20federal%20law%20that%20gives%20the%20public%20the%20right%20to%20make%20requests%20for%20federal%20agency%20records.%20Agencies%20may%20withhold%20information%20according%20to%20nine%20exemptions%20contained%20in%20the%20statute.%20The%20FOIA%20applies%20only%20to%20federal%20agencies.%20It%20does%20not%20apply%20to%20records%20held%20by%20Congress%2C%20the%20courts%2C%20or%20by%20state%20or%20local%20government%20agencies.%20Each%20state%20has%20its%20own%20public%20access%20laws%20that%20should%20be%20consulted%20for%20access%20to%20state%20and%20local%20records.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="40" y="370" w="382" h="28" measuredW="247" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Military%2C%20Intelligence%2C%20Regulation</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="42" y="345" w="-1" h="-1" measuredW="138" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20the%20agency%20type</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="46" y="435" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20the%20agency</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="42" y="456" w="378" h="390" measuredW="100" measuredH="384" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Defense%20Advanced%20Research%20Projects%20Agency%20%28DARPA%29%0ADefense%20Commissary%20Agency%20%28DeCA%29%0ADefense%20Health%20Agency%20%28DHA%29%20--%20replaces%20TRICARE%20Management%20Activity%0ADefense%20Information%20Systems%20Agency%20%28DISA%29%0ADefense%20Intelligence%20Agency%20%28DIA%29%0ADefense%20Legal%20Services%20Agency%0ADefense%20Logistics%20Agency%20%28DLA%29%0ADefense%20Media%20Activity%20%28DMA%29%0ADefense%20Security%20Cooperation%20Agency%20%28DSCA%29%0ADefense%20Security%20Service%20%28DSS%29%0ADefense%20Threat%20Reduction%20Agency%20%28DTRA%29%0AMissile%20Defense%20Agency%20%28*%20Human%20Resources%0APrisoner%20of%20War/Missing%20Personnel%20Office%0AWashington%20Headquarters%20Services%0ANational%20Guard%20Bureau%20%28NGB%29%0ANational%20Reconnaissance%20Office%20%28NRO%29%0ASpecial%20Inspector%20General%20for%20Afghanistan%20Reconstruction%20%28SIGAR%29%0ASpecial%20Inspector%20General%20for%20Iraq%20Reconstruction%20%28SIGIR%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ButtonBar" x="40" y="392" w="382" h="28" measuredW="215" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Policy%2C%20Science%2C%20Consumer</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SearchBox" x="43" y="289" w="379" h="-1" measuredW="292" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type%20an%20federal%20agency%20or%20organization%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SearchBox" x="525" y="289" w="379" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Department%20of</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="527" y="311" w="375" h="124" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Department%20of%20Treasury%0ADepartment%20of%20Commerce%0ADepartment%20of%20Defense%0ADepartment%20of%20State%0ADepartment%20of%20Education%0ADepartment%20of%20Labor%0ADepartment%20of%20Homeland%20Security</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Title" x="525" y="44" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FOIA.gov</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="592" y="102" w="-1" h="-1" measuredW="252" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit%20a%20FOIA%20request</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="525" y="144" w="380" h="131" measuredW="275" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Freedom%20of%20Information%20Act%20%28FOIA%29%20is%20a%20federal%20law%20that%20gives%20the%20public%20the%20right%20to%20make%20requests%20for%20federal%20agency%20records.%20Agencies%20may%20withhold%20information%20according%20to%20nine%20exemptions%20contained%20in%20the%20statute.%20The%20FOIA%20applies%20only%20to%20federal%20agencies.%20It%20does%20not%20apply%20to%20records%20held%20by%20Congress%2C%20the%20courts%2C%20or%20by%20state%20or%20local%20government%20agencies.%20Each%20state%20has%20its%20own%20public%20access%20laws%20that%20should%20be%20consulted%20for%20access%20to%20state%20and%20local%20records.</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SearchBox" x="1001" y="289" w="379" h="-1" measuredW="180" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Department%20of%20Commerce</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Title" x="1001" y="44" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FOIA.gov</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SubTitle" x="1068" y="102" w="-1" h="-1" measuredW="252" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit%20a%20FOIA%20request</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="1001" y="144" w="380" h="131" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Freedom%20of%20Information%20Act%20%28FOIA%29%20is%20a%20federal%20law%20that%20gives%20the%20public%20the%20right%20to%20make%20requests%20for%20federal%20agency%20records.%20Agencies%20may%20withhold%20information%20according%20to%20nine%20exemptions%20contained%20in%20the%20statute.%20The%20FOIA%20applies%20only%20to%20federal%20agencies.%20It%20does%20not%20apply%20to%20records%20held%20by%20Congress%2C%20the%20courts%2C%20or%20by%20state%20or%20local%20government%20agencies.%20Each%20state%20has%20its%20own%20public%20access%20laws%20that%20should%20be%20consulted%20for%20access%20to%20state%20and%20local%20records.</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1001" y="354" w="379" h="-1" measuredW="77" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>First%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="1001" y="393" w="379" h="-1" measuredW="78" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Last%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TextInput" x="1001" y="432" w="379" h="-1" measuredW="103" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E-mail%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextArea" x="1001" y="486" w="381" h="121" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="1007" y="465" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Request%20Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="1287" y="638" w="93" h="-1" measuredW="92" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Maximum%20fee</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::CheckBox" x="1007" y="687" w="-1" h="-1" measuredW="191" measuredH="22" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20am%20requesting%20a%20fee%20waiver</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="1001" y="745" w="381" h="121" measuredW="200" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="1007" y="724" w="-1" h="-1" measuredW="134" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Supporting%20information</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
