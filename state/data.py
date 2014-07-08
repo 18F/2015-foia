@@ -1,31 +1,16 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 import sys
 
 # Download everything from the Department of State's FOIA reading room.
-# Search for "*" and iterate through each JSON page of results, saving
-# that page to disk. For each saved page, also extract individual documents
-
+# Iterate through each saved/serialized JSON page of search results, as
+# downloaded from state_pages.js, downloading documents where linked.
 #
+# For each downloaded document, run it through `pdftotext -layout` to
+# make a .txt file.
 
 def run(options):
-
-
-
-# given a page number and per_page, calculate the URL for State's JSON API
-def url_for(page, per_page):
-  offset = (page-1) * 200
-
-  base = "http://foia.state.gov/searchapp/Search/SubmitSimpleQuery"
-  # cache-buster
-  base += "?_dc=%s" % str(int(time.time()))
-  # boilerplate
-  base += "&searchText=*&beginDate=&endDate=&collectionMatch=false&postedBeginDate=&postedEndDate=&caseNumber="
-  # pagination
-  base += "&page=%i&start=%i&limit=%i" % (page, offset, per_page)
-
-  return base
+  pass
 
 
 # read options from the command line
