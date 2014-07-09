@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
 import sys
+import os
+import utils
+
 
 # Download everything from the Department of State's FOIA reading room.
 # Iterate through each saved/serialized JSON page of search results, as
@@ -10,9 +13,10 @@ import sys
 # make a .txt file.
 
 def run(options):
-  pass
-
-
+  print(options)
+  path = "DOCUMENTS\\IntAgreements\\0000CD01.pdf"
+  print(document_id_for(path))
+  print(url_for(path))
 
 
 
@@ -23,9 +27,9 @@ def run(options):
 #   "DOCUMENTS/5-FY2014/F-2011-03391/DOC_0C17693711/C17693711.pdf"
 #
 # should yield something like "DOCUMENTS-IntAgreements-0000CD01"
-def document_id_for(filename):
+def document_id_for(original_path):
   original_path = original_path.replace("\\", "/")
-  name, ext = os.path.splitext(original_path)[0]
+  name, ext = os.path.splitext(original_path)
   return name.replace("/", "-")
 
 # figure out the URL that a filename should generate
@@ -35,4 +39,4 @@ def document_id_for(filename):
 def url_for(original_path):
   return "http://foia.state.gov/searchapp/" + original_path.replace("\\", "/")
 
-run(options())
+run(utils.options())
