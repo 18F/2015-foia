@@ -18,9 +18,9 @@ FIELDS = ('subject', 'documentClass', 'pdfLink', 'originalLink',
 # options:
 #   page: only do a particular page number
 #   pages: do this many pages (defaults to 1)
+#     begin: combined with pages, starting page number (defaults to 1)
 #   per_page: how many to expect per_page (defaults to 200)
-#
-#   TODO:
+#   limit: only process X documents (regardless of pages)
 #   dry_run: don't actually download the PDF, but write metadata
 
 # when paginated with 200 per-page
@@ -30,11 +30,15 @@ def run(options):
   if options.get('page'):
     pages = [int(options.get('page'))]
   elif options.get('pages'):
-    pages = list(range(1, int(options.get('pages'))+1))
+    begin = int(options.get('begin', 1))
+    pages = list(range(begin, int(options.get('pages'))+1))
   else:
     pages = [1]
 
   per_page = int(options.get('per_page', 200))
+
+  limit = options.get('limit')
+  count = 0
 
   print("Processing pages %i through %i." % (pages[0], pages[-1]))
 
@@ -45,6 +49,13 @@ def run(options):
     page_data = json.load(open(page_path))
     for result in page_data['Results']:
       do_document(result, page, options)
+      count += 1
+      if limit and (count >= int(limit)):
+        break
+    if limit and (count >= int(limit)):
+      break
+
+  print("All done! Processed %i documents." % count)
 
 
 
@@ -61,8 +72,21 @@ def do_document(result, page, options):
   utils.write(utils.json_for(document), json_path)
 
   # 2) download pdfLink (unless dry run)
-  # 2a) save to disk next to JSON as document.pdf
-  # 2b) extract text from pdfLink, save to disk as document.txt
+  if options.get('dry_run') is None:
+    print("\t%s" % document['document_id'])
+
+    pdf_path = path_for(page, document['document_id'], document['file_type'])
+
+    result = utils.download(
+      document['url'],
+      pdf_path,
+      {'binary': (document['file_type'] == 'pdf')}
+    )
+
+    # TODO: extract text to .txt
+    if result:
+      utils.text_from_pdf(pdf_path)
+
 
   return True
 
@@ -87,7 +111,7 @@ def clean_document(result):
   # inferred fields: url, file name, extension, and unique ID
   document['url'] = url_for(document['pdfLink'])
   document['filename'] = os.path.basename(document['pdfLink'])
-  document['file_type'] = os.path.splitext(document['filename'])[1]
+  document['file_type'] = os.path.splitext(document['filename'])[1].replace(".", "")
   document['document_id'] = document_id_for(result['pdfLink'])
 
   return document

@@ -12,30 +12,39 @@ content in state_data.py.
 
 */
 
+// as of 2014-07-02, total hits are 92054
+var total = 92054;
+// total pages under a 200-per-page regime: 461
+
+
 var request = require("request");
 var argv = require('minimist')(process.argv.slice(2));
 var async = require('async');
 var fs = require('fs');
 
-// as of 2014-07-02, total hits are 92054
-var total = 92054;
-// total pages under a 200-per-page regime: 461
 
 var run = function() {
 
   var pages = argv.pages || 1;
+  var begin = 1;
   var per_page = argv.per_page || 200;
+
+  if (argv.page) {
+    begin = argv.page;
+    pages = argv.page;
+  }
+
 
   // async wants to iterate over an array of arguments, so, okay
   var all_pages = []; // 1 to N
-  for (var i=1; i<=pages; i++)
+  for (var i=begin; i<=pages; i++)
     all_pages.push({page: i, per_page: per_page});
 
 
   async.eachSeries(all_pages, downloadPage, function(err) {
     if (err) console.log("Error doing things!!");
 
-    console.log("All done. Saved " + pages + " pages to disk.");
+    console.log("All done. Saved " + all_pages.length + " pages to disk.");
     process.exit(0);
   });
 };

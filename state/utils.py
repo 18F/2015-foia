@@ -2,13 +2,15 @@ import datetime
 import urllib.parse
 import os, os.path, errno, sys, traceback, subprocess
 import re, html.entities
+import traceback
 import json
+import logging
 from bs4 import BeautifulSoup
 
 
 # scraper should be instantiated at class-load time, so that it can rate limit appropriately
 import scrapelib
-scraper = scrapelib.Scraper(requests_per_minute=60, follow_robots=False, retry_attempts=3)
+scraper = scrapelib.Scraper(requests_per_minute=30, follow_robots=False, retry_attempts=3)
 scraper.user_agent = "18f/foia (https://github.com/18f/foia/pull/11)"
 
 
@@ -68,3 +70,110 @@ def options():
       elif value.lower() == 'false': value = False
       options[key.lower()] = value
   return options
+
+
+# download the data at url
+def download(url, destination=None, options=None):
+  options = {} if not options else options
+  cache = options.get('cache', True) # default to caching
+  binary = options.get('binary', False) # default to assuming text
+
+  # check cache first
+  if destination and cache and os.path.exists(destination):
+    logging.info("## Cached: (%s, %s)" % (destination, url))
+
+    # if a binary file is cached, we're done
+    if binary:
+      return True
+
+    # otherwise, decode it for return
+    with open(destination, 'r') as f:
+      body = f.read()
+
+  # otherwise, download from the web
+  else:
+    try:
+      logging.info("## Downloading: %s" % url)
+      if destination: logging.info("## \tto: %s" % destination)
+      response = scraper.urlopen(url)
+    except scrapelib.HTTPError as e:
+      print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
+      return None
+
+    if binary:
+      body = response.bytes
+      if isinstance(body, str): raise ValueError("Binary content improperly decoded.")
+    else:
+      body = response
+      if not isinstance(body, str): raise ValueError("Content not decoded.")
+
+    # don't allow 0-byte files
+    if (not body) or (not body.strip()):
+      return None
+
+    # cache content to disk
+    if destination:
+      write(body, destination, binary=binary)
+
+  # don't return binary content
+  if binary:
+    return True
+  else:
+    # whether from disk or web, unescape HTML entities
+    return unescape(body)
+
+# taken from http://effbot.org/zone/re-sub.htm#unescape-html
+def unescape(text):
+
+  def remove_unicode_control(str):
+    remove_re = re.compile('[\x00-\x08\x0B-\x0C\x0E-\x1F\x7F]')
+    return remove_re.sub('', str)
+
+  def fixup(m):
+    text = m.group(0)
+    if text[:2] == "&#":
+      # character reference
+      try:
+        if text[:3] == "&#x":
+          return chr(int(text[3:-1], 16))
+        else:
+          return chr(int(text[2:-1]))
+      except ValueError:
+        pass
+    else:
+      # named entity
+      try:
+        text = chr(html.entities.name2codepoint[text[1:-1]])
+      except KeyError:
+        pass
+    return text # leave as is
+
+  text = re.sub("&#?\w+;", fixup, text)
+  text = remove_unicode_control(text)
+  return text
+
+# uses pdftotext to get text out of PDFs.
+def text_from_pdf(pdf_path):
+  try:
+    subprocess.Popen(["pdftotext", "-v"], shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT).communicate()
+  except FileNotFoundError:
+    logging.warn("Install pdftotext to extract text! The pdftotext executable must be in a directory that is in your PATH environment variable.")
+    return None
+
+  text_path = "%s.txt" % os.path.splitext(pdf_path)[0]
+
+  try:
+    subprocess.check_call("pdftotext -layout \"%s\" \"%s\"" % (pdf_path, text_path), shell=True)
+  except subprocess.CalledProcessError as exc:
+    logging.warn("Error extracting text to %s:\n\n%s" % (text_path, format_exception(exc)))
+    return None
+
+  if os.path.exists(text_path):
+    return text_path
+  else:
+    logging.warn("Text not extracted to %s" % text_path)
+    return None
+
+def format_exception(exception):
+  exc_type, exc_value, exc_traceback = sys.exc_info()
+  return "\n".join(traceback.format_exception(exc_type, exc_value, exc_traceback))
