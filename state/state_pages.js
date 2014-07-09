@@ -1,5 +1,17 @@
 #!/usr/bin/env node
 
+/*
+
+Download pages from the undocumented JSON-like API that the
+State Department's FOIA virtual library uses to power its search
+results. Pages are actually JavaScript, not JSON, so `eval()` is
+used to evaluate results and then serialize proper JSON.
+
+Actual contents of these pages are processed and used to download
+content in state_data.py.
+
+*/
+
 var request = require("request");
 var argv = require('minimist')(process.argv.slice(2));
 var async = require('async');
