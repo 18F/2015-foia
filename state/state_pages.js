@@ -14,20 +14,48 @@ var run = function() {
   var pages = argv.pages || 1;
   var per_page = argv.per_page || 200;
 
+  // async wants to iterate over an array of arguments, so, okay
+  var all_pages = []; // 1 to N
+  for (var i=1; i<=pages; i++)
+    all_pages.push({page: i, per_page: per_page});
 
-  var url = urlFor(page, per_page);
-  console.log(url + "\n");
+
+  async.eachSeries(all_pages, downloadPage, function(err) {
+    if (err) console.log("Error doing things!!");
+
+    console.log("All done. Saved " + pages + " pages to disk.");
+    process.exit(0);
+  });
+};
+
+// download a given page, with the given pagination details
+var downloadPage = function(details, done) {
+
+  var url = urlFor(details.page, details.per_page);
+  console.log("Fetching page " + details.page + "\n");
+
+  var destination = destFor(details.page, details.per_page);
 
   request(url, function(err, response, body) {
-    if (err) return console.log("Error!");
+    if (err) {
+      console.log("Error!");
+      return done();
+    }
 
-    console.log("Success");
     var parsed = {};
     eval("parsed = " + body + ";");
-    console.dir(parsed);
-  })
+    // console.dir(parsed);
 
+    fs.writeFileSync(destination, JSON.stringify(parsed, undefined, 2));
+
+    done();
+  })
 };
+
+// a folder of JSON for pages, gathered by page size
+var destFor = function(page, per_page) {
+  return "pages/" + per_page + "/" + page + ".json";
+}
 
 var urlFor = function(page, per_page) {
   var offset = (page-1) * 200;
