@@ -137,6 +137,6 @@ def url_for(original_path):
 
 # where to write data to disk
 def path_for(page, document_id, ext):
-  return "data/%i/%s/document.%s" % (page, document_id, ext)
+  return "%s/%i/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
 
 run(utils.options())

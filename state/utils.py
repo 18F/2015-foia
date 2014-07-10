@@ -177,3 +177,10 @@ def text_from_pdf(pdf_path):
 def format_exception(exception):
   exc_type, exc_value, exc_traceback = sys.exc_info()
   return "\n".join(traceback.format_exception(exc_type, exc_value, exc_traceback))
+
+def data_dir():
+  params = options()
+  if params.get("data"):
+    return params.get("data")
+  else:
+    return "data"
