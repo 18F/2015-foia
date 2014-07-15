@@ -112,7 +112,7 @@ def clean_document(result):
   document['url'] = url_for(document['pdfLink'])
   document['filename'] = os.path.basename(document['pdfLink'])
   document['file_type'] = os.path.splitext(document['filename'])[1].replace(".", "")
-  document['document_id'] = document_id_for(result['pdfLink'])
+  document['document_id'] = document_id_for(document['pdfLink'])
 
   return document
 
@@ -137,6 +137,6 @@ def url_for(original_path):
 
 # where to write data to disk
 def path_for(page, document_id, ext):
-  return "%s/%i/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
+  return "%s/%04d/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
 
 run(utils.options())
