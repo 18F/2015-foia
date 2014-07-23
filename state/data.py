@@ -5,6 +5,10 @@ import os
 import utils
 import json
 
+# Notes for State:
+#   404: http://foia.state.gov/searchapp/DOCUMENTS/Keystone/F-2011-01495ALL/DOC_0C18753478/C18753478.pdf
+
+
 FIELDS = ('subject', 'documentClass', 'pdfLink', 'originalLink',
   'docDate', 'postedDate', 'from', 'to', 'messageNumber', 'caseNumber')
 
@@ -17,11 +21,12 @@ FIELDS = ('subject', 'documentClass', 'pdfLink', 'originalLink',
 
 # options:
 #   page: only do a particular page number
-#   pages: do this many pages (defaults to 1)
+#   pages: go all the way up to page X (defaults to 1)
 #     begin: combined with pages, starting page number (defaults to 1)
 #   per_page: how many to expect per_page (defaults to 200)
 #   limit: only process X documents (regardless of pages)
 #   dry_run: don't actually download the PDF, but write metadata
+#   data: override data directory (defaults to "./data")
 
 # when paginated with 200 per-page
 
@@ -67,6 +72,12 @@ def do_document(result, page, options):
 
   document = clean_document(result)
 
+  # can limit to a particular known document ID, for debugging
+  limit_id = options.get('document_id')
+  if limit_id and (limit_id != document['document_id']):
+    print("\tSkipping, not requested.")
+    return False
+
   # 1) write JSON to disk at predictable path
   json_path = path_for(page, document['document_id'], "json")
   utils.write(utils.json_for(document), json_path)
@@ -80,7 +91,7 @@ def do_document(result, page, options):
     result = utils.download(
       document['url'],
       pdf_path,
-      {'binary': (document['file_type'] == 'pdf')}
+      {'binary': (document['file_type'].lower() == 'pdf')}
     )
 
     # TODO: extract text to .txt
@@ -104,6 +115,10 @@ def clean_document(result):
   # this means no date
   if document['docDate'].startswith("0001"):
     document['docDate'] = None
+
+  # this means no date
+  if document['postedDate'].startswith("0001"):
+    document['postedDate'] = None
 
   # standardize on forward slashes
   document['pdfLink'] = document['pdfLink'].replace("\\", "/")
