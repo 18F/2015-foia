@@ -14,7 +14,6 @@ scraper = scrapelib.Scraper(requests_per_minute=30, follow_robots=False, retry_a
 scraper.user_agent = "18f/foia (https://github.com/18f/foia/pull/11)"
 
 
-
 # serialize and pretty print json
 def json_for(object):
   return json.dumps(object, sort_keys=True, indent=2, default=format_datetime)
@@ -184,3 +183,7 @@ def data_dir():
     return params.get("data")
   else:
     return "data"
+
+# logging level
+if options().get("debug"):
+  logging.basicConfig(format='%(message)s', level='DEBUG')
