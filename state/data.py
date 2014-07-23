@@ -91,7 +91,10 @@ def do_document(result, page, options):
     result = utils.download(
       document['url'],
       pdf_path,
-      {'binary': (document['file_type'].lower() == 'pdf')}
+      {
+        'binary': (document['file_type'].lower() == 'pdf'),
+        'cache': not (options.get('force', False))
+      }
     )
 
     # TODO: extract text to .txt
