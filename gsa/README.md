@@ -1,9 +1,18 @@
 ### GSA FOIA Information
 
+#### Make a FOIA request
+
+GSA has an [online request form](http://www.gsa.gov/portal/content/103778) with a free text field and a couple extra questions:
+
+![fill-out](request-1.png)
+
+Then asks for the requester's address, and asks a couple of fee-related questions:
+
+![fees](request-2.png)
 
 #### Status of FOIA requests
 
-GSA has a [Status of FOIA Requests landing page](http://www.gsa.gov/portal/content/103778) that links to a [PDF (June 2014)](http://www.gsa.gov/portal/mediaId/193415/fileName/US_General_Services_Administration_Status_of_FOIA_Requests_-_JUNE_2014.action) with a table of current request IDs, received date, due date, requets status, and completion date. The next status update will
+GSA has a [Status of FOIA Requests landing page](http://www.gsa.gov/portal/content/241965) that links to a [PDF (June 2014)](http://www.gsa.gov/portal/mediaId/193415/fileName/US_General_Services_Administration_Status_of_FOIA_Requests_-_JUNE_2014.action) with a table of current request IDs, received date, due date, requets status, and completion date. The next status update will
 
 #### Responses and Documents
 
