@@ -2,13 +2,7 @@
 
 #### Make a FOIA request
 
-GSA has an [online request form](http://www.gsa.gov/portal/content/103778) with a free text field and a couple extra questions:
-
-![fill-out](request-1.png)
-
-Then asks for the requester's address, and asks a couple of fee-related questions:
-
-![fees](request-2.png)
+GSA has an [online request form](http://www.gsa.gov/portal/content/103778) with a [free text field and a couple extra questions](request-1.png),  the requester's address, and a [couple of fee-related questions](request-2.png).
 
 #### Status of FOIA requests
 
