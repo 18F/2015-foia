@@ -1,6 +1,6 @@
 /contacts/html
-/state/pages
-/state/data
+/data/pages
+/data/data
 __pycache__
 *.pyc
 node_modules
