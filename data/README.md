@@ -1,6 +1,14 @@
-### State Department Virtual Reading Room
+# Scrapers for FOIA data
 
-This is a scraper for the metadata, downloaded contents, and extracted text from [State's FOIA Library Search page](http://foia.state.gov/Search/results.aspx?searchText=*&beginDate=&endDate=&publishedBeginDate=&publishedEndDate=&caseNumber=). There are ~92,000 documents there, published in quarterly batches.
+Some scrapers to get at some good sample data for FOIA searching.
+
+## FOIAonline
+
+(Work-in-progress.)
+
+## State Department
+
+This scrapes for the metadata, downloaded contents, and extracted text from [State's FOIA Library Search page](http://foia.state.gov/Search/results.aspx?searchText=*&beginDate=&endDate=&publishedBeginDate=&publishedEndDate=&caseNumber=). There are ~92,000 documents there, published in quarterly batches.
 
 It's broken into two scripts:
 
