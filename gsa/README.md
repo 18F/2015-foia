@@ -1,4 +1,6 @@
-### GSA FOIA Information
+### General Services Administration
+
+FOIA resources and links.
 
 #### Make a FOIA request
 
