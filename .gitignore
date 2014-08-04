@@ -1,2 +1,11 @@
 /contacts/html
+<<<<<<< HEAD
 .DS_Store
+=======
+/data/pages
+/data/data
+__pycache__
+*.pyc
+node_modules
+todo.txt
+>>>>>>> 56a18c8a16cd008e8892b96076ca250d25c951e8
