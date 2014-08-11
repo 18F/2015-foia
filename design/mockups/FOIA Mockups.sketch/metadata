@@ -16,16 +16,16 @@
 		<string>Raleway-SemiBold</string>
 		<string>Raleway-ExtraLight</string>
 		<string>Raleway-Bold</string>
-		<string>Raleway-Light</string>
 		<string>Raleway-Medium</string>
 		<string>OpenSans</string>
 		<string>OpenSans-Bold</string>
 		<string>FontAwesome</string>
 		<string>OpenSans-SemiboldItalic</string>
 		<string>OpenSans-Extrabold</string>
+		<string>Raleway-Light</string>
 	</array>
 	<key>length</key>
-	<integer>858391</integer>
+	<integer>858645</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
