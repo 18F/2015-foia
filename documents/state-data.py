@@ -157,4 +157,4 @@ def url_for(original_path):
 def path_for(page, document_id, ext):
   return "%s/%04d/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
 
-run(utils.options())
+run(utils.options()) if (__name__ == "__main__") else None
