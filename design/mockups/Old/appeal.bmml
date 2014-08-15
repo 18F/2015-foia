@@ -1,0 +1,27 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="369" measuredH="216" mockupW="329" mockupH="201">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="42" y="44" w="-1" h="-1" measuredW="94" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>FOIA</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="40" y="125" w="327" h="38" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>You</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="42" y="15" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Appeal%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="42" y="178" w="327" h="38" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Agency%3A%20The%20U.S.%20Department%20of%20XXXXXXX%0AContact%3A%20%5BJonathan%20Foya%5D%20%28202%29%20555-0000</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
