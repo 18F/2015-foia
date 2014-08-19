@@ -1,7 +1,7 @@
 /contacts/html
-/documents/pages
 /documents/data
 __pycache__
 *.pyc
 node_modules
 todo.txt
+/documents/*.html
