@@ -75,7 +75,7 @@ var downloadPage = function(details, done) {
 
 // a folder of JSON for pages, gathered by page size
 var destFor = function(page, per_page) {
-  return "pages/" + per_page + "/" + page + ".json";
+  return "data/pages/" + per_page + "/" + page + ".json";
 }
 
 var urlFor = function(page, per_page) {

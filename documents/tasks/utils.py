@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 
 # scraper should be instantiated at class-load time, so that it can rate limit appropriately
 import scrapelib
-scraper = scrapelib.Scraper(requests_per_minute=30, follow_robots=False, retry_attempts=3)
-scraper.user_agent = "18f/foia (https://github.com/18f/foia/pull/11)"
+scraper = scrapelib.Scraper(requests_per_minute=30, retry_attempts=3)
+scraper.user_agent = "18F (https://18f.gsa.gov, https://github.com/18f/foia)"
 
 
 # serialize and pretty print json
@@ -70,7 +70,6 @@ def options():
       options[key.lower()] = value
   return options
 
-
 # download the data at url
 def download(url, destination=None, options=None):
   options = {} if not options else options
@@ -86,33 +85,45 @@ def download(url, destination=None, options=None):
       return True
 
     # otherwise, decode it for return
-    with open(destination, 'r') as f:
+    with open(destination, 'r', encoding='utf-8') as f:
       body = f.read()
 
   # otherwise, download from the web
   else:
-    try:
-      logging.info("## Downloading: %s" % url)
-      if destination: logging.info("## \tto: %s" % destination)
-      response = scraper.urlopen(url)
-    except scrapelib.HTTPError as e:
-      print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
-      return None
-
+    logging.info("## Downloading: %s" % url)
     if binary:
-      body = response.bytes
-      if isinstance(body, str): raise ValueError("Binary content improperly decoded.")
-    else:
+      if destination:
+        logging.info("## \tto: %s" % destination)
+      else:
+        raise Exception("A destination path is required for downloading a binary file")
+      try:
+        mkdir_p(os.path.dirname(destination))
+        scraper.urlretrieve(url, destination)
+      except scrapelib.HTTPError as e:
+        # intentionally print instead of using logging,
+        # so that all 404s get printed at the end of the log
+        print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
+        return None
+    else: # text
+      try:
+        if destination: logging.info("## \tto: %s" % destination)
+        response = scraper.urlopen(url)
+      except scrapelib.HTTPError as e:
+        # intentionally print instead of using logging,
+        # so that all 404s get printed at the end of the log
+        print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
+        return None
+
       body = response
       if not isinstance(body, str): raise ValueError("Content not decoded.")
 
-    # don't allow 0-byte files
-    if (not body) or (not body.strip()):
-      return None
+      # don't allow 0-byte files
+      if (not body) or (not body.strip()):
+        return None
 
-    # cache content to disk
-    if destination:
-      write(body, destination, binary=binary)
+      # cache content to disk
+      if destination:
+        write(body, destination, binary=binary)
 
   # don't return binary content
   if binary:
