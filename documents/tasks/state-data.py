@@ -50,7 +50,7 @@ def run(options):
   # go through each requested page
   for page in pages:
     print("[%i] Loading page." % page)
-    page_path = "%s/pages/%i/%i.json" % (utils.data_dir(), per_page, page)
+    page_path = "%s/state/pages/%i/%i.json" % (utils.data_dir(), per_page, page)
     page_data = json.load(open(page_path))
     for result in page_data['Results']:
       do_document(result, page, options)
@@ -155,6 +155,6 @@ def url_for(original_path):
 
 # where to write data to disk
 def path_for(page, document_id, ext):
-  return "%s/state/%04d/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
+  return "%s/state/data/%04d/%s/document.%s" % (utils.data_dir(), page, document_id, ext)
 
 run(utils.options()) if (__name__ == "__main__") else None
