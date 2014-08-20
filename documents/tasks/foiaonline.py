@@ -22,8 +22,29 @@ from bs4 import BeautifulSoup
 
 PER_PAGE = 100
 
+# using an agency's acronym seems to reliably match all their results,
+# and then of course others that have that slug in there somewhere.
+#
+# Side note: 'the' works, but appears to be a pretty bad search term overall.
+
+AGENCIES = [
+  "epa", # Environmental Protection Agency (~258,000)
+  "cbp", # Customs and Border Protection (~120,000)
+  "doc", # Department of Commerce (~25,000)
+  "mspb", # Merit Systems Protection Board (~600)
+  "flra", # Federal Labor Relations Authority (~300)
+  "nara", # National Archives and Records Administration (~1,400)
+  "pbgc", # Pension Benefit and Guaranty Corporation (~2,200)
+  "don", # Department of the Navy (~23,000)
+]
+
 def run(options):
-  term = options.get('term', "the")
+
+  term = options.get('term')
+  if term is None:
+    logging.warn("--term is required.")
+    exit(1)
+
   session = new_session()
 
   # default to page 1
@@ -31,7 +52,7 @@ def run(options):
 
   # default to all pages, can limit
   if options.get("pages"):
-    last_page = start_page + options.get("pages") - 1
+    last_page = start_page + int(options.get("pages")) - 1
   else:
     # we'll figure out the last page from the first page
     last_page = None
@@ -46,6 +67,7 @@ def run(options):
     # if we're doing all pages, grab the last page number
     if last_page is None:
       last_page = last_page_for(doc)
+      logging.warn("Last page: %s" % last_page)
 
     # actually save a page's worth of record and request #'s
     save_page(doc)
@@ -69,8 +91,6 @@ def save_page(doc):
     object_id = re.search("objectId=([^&]+)", object_link).group(1)
 
     doc_type = row.select("td")[headers['type']].text.strip().lower()
-    submitted_on = row.select("td")[headers['submitted_on']].text.strip()
-    submitted_on = parse(submitted_on).strftime("%Y-%m-%d")
 
     agency, year = split_id(doc_id)
 
@@ -79,8 +99,7 @@ def save_page(doc):
       'agency': agency,
       'year': year,
       'type': doc_type,
-      'object_id': object_id,
-      'submitted_on': submitted_on
+      'object_id': object_id
     }
 
     save_meta_result(result)
@@ -96,7 +115,13 @@ def save_meta_result(result):
     "%s.json" % (result['id'])
   )
 
-  utils.write(utils.json_for(result), path)
+  # for paged metadata, don't overwrite if we've got it already,
+  # we don't keep anything that should change.
+  if os.path.exists(path):
+    logging.debug("[%s][%s] Knew about it, skipping." % (result['id'], result['type']))
+  else:
+    logging.warn("[%s][%s] Newly discovered, saving metadata." % (result['id'], result['type']))
+    utils.write(utils.json_for(result), path)
 
 # get the agency and year from the ID,
 # e.g. "EPA-R5-2013-001219" => "EPA", "2013"
@@ -112,8 +137,7 @@ def headers_from(doc):
   headers = {}
   fields = {
     "Tracking Number": "tracking_number",
-    "Type": "type",
-    "Submitted": "submitted_on"
+    "Type": "type"
   }
 
   index = 0
@@ -166,6 +190,8 @@ def search(term, page, session):
     "searchParams.searchTerm": term,
     "searchParams.forRequest": "true",
     "searchParams.forRecord": "true",
+    "searchParams.forAppeal": "true",
+    "searchParams.forReferral": "true",
     "pageSize": PER_PAGE,
     "d-5509183-s": "submitted",
     "d-5509183-p": page,
