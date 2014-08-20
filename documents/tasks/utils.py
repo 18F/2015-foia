@@ -36,6 +36,7 @@ def write(content, destination, binary=False):
     mode = "bw"
   else:
     mode = "w"
+
   f = open(destination, mode)
   f.write(content)
   f.close()
