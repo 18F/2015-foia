@@ -26,19 +26,35 @@ def run(options):
   term = options.get('term', "the")
   session = new_session()
 
-  # we'll figure out the last page from the first page
-  last_page = None
-  page = 1
+  # default to page 1
+  start_page = options.get("begin", 1)
 
-  # while True:
-  logging.info("## Downloading page %i" % page)
-  body = search(term, page, session)
-  doc = BeautifulSoup(body)
+  # default to all pages, can limit
+  if options.get("pages"):
+    last_page = start_page + options.get("pages") - 1
+  else:
+    # we'll figure out the last page from the first page
+    last_page = None
 
-  if last_page is None:
-    last_page = last_page_for(doc)
 
-  save_page(doc)
+  page = start_page
+  while True:
+    logging.warn("## Downloading page %i" % page)
+    body = search(term, page, session)
+    doc = BeautifulSoup(body)
+
+    # if we're doing all pages, grab the last page number
+    if last_page is None:
+      last_page = last_page_for(doc)
+
+    # actually save a page's worth of record and request #'s
+    save_page(doc)
+
+    if page >= last_page: break
+    else: page += 1
+
+    # failsafe in case of a while True gone mad
+    if page > 100000: break
 
 
 # returns an array of 100 dicts with tracking #, object ID, date, and type
