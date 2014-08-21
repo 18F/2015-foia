@@ -85,21 +85,21 @@ def save_page(doc):
 
   for row in doc.select("#dttPubSearch tbody tr"):
     id_td = row.select("td")[headers['tracking_number']]
-    doc_id = id_td.text.strip()
+    tracking = id_td.text.strip()
 
     object_link = id_td.select("a")[0]['href']
     object_id = re.search("objectId=([^&]+)", object_link).group(1)
 
     doc_type = row.select("td")[headers['type']].text.strip().lower()
 
-    agency, year = split_id(doc_id)
+    agency, year = split_id(tracking)
 
     result = {
-      'id': doc_id,
+      'id': object_id,
       'agency': agency,
       'year': year,
       'type': doc_type,
-      'object_id': object_id
+      'tracking': tracking
     }
 
     save_meta_result(result)
@@ -132,7 +132,7 @@ def split_id(id):
   return agency, year
 
 # returns a mapping of header fields to order, to make this less brittle
-# e.g. {'tracking' => 0, 'object_id' => 1}
+# e.g. {'tracking_number' => 0, 'type' => 1}
 def headers_from(doc):
   headers = {}
   fields = {
