@@ -1,10 +1,10 @@
 #!/usr/bin/sh
 
-python tasks/foiaonline.py --term=epa
-python tasks/foiaonline.py --term=cbp
-python tasks/foiaonline.py --term=doc
-python tasks/foiaonline.py --term=mspb
-python tasks/foiaonline.py --term=flra
-python tasks/foiaonline.py --term=nara
-python tasks/foiaonline.py --term=pbgc
-python tasks/foiaonline.py --term=don
+python tasks/foiaonline.py --meta --term=epa
+python tasks/foiaonline.py --meta --term=cbp
+python tasks/foiaonline.py --meta --term=doc
+python tasks/foiaonline.py --meta --term=mspb
+python tasks/foiaonline.py --meta --term=flra
+python tasks/foiaonline.py --meta --term=nara
+python tasks/foiaonline.py --meta --term=pbgc
+python tasks/foiaonline.py --meta --term=don

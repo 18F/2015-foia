@@ -4,6 +4,7 @@ import sys
 import os
 import utils
 import pdb
+import json
 import requests
 import logging
 import json
@@ -39,6 +40,91 @@ AGENCIES = [
 ]
 
 def run(options):
+  if options.get("meta"):
+    run_meta(options)
+  else:
+    run_data(options)
+
+
+#### Data scraping
+
+# no session needed for data, all objects have reliable permalinks
+# for now: just `record` type objects
+def run_data(options):
+  agency = options.get("agency")
+  year = options.get("year")
+  doc_id = options.get("id")
+  if agency and year and doc_id:
+    get_record(agency, year, doc_id, options)
+
+# given agency/year/ID to record metadata, scrape more metadata,
+# download the document itself, extract text
+# testing: 090004d2803333d6
+def get_record(agency, year, doc_id, options):
+  meta_path = meta_path_for("record", agency, year, doc_id)
+  meta = json.load(open(meta_path))
+
+  # download landing page for record, cache to disk
+  url = "https://foiaonline.regulations.gov/foia/action/public/view/record?objectId=%s" % meta['id']
+  body = utils.download(url,
+    cache_path_for("record", agency, year, doc_id),
+    {'cache': not (options.get('force', False))}
+  )
+  doc = BeautifulSoup(body)
+
+  download_url = doc.select("#mainForm")[0].select("a")[0]['href']
+  download_url = "https://foiaonline.regulations.gov" + download_url
+  download_id = re.search("objectId=([^&]+)", download_url).group(1)
+
+
+  record = {
+    "type": "record",
+    "download_id": download_id,
+    "download_url": download_url,
+    "landing_id": doc_id,
+    "landing_url": url,
+    "agency": agency,
+    "year": year,
+
+    # "request_id":
+    # "title":
+    # file_type
+    # released_on
+    # author
+    # exemptions
+    # retention
+    # size
+  }
+
+  # 1) write JSON to disk at predictable path
+  json_path = data_path_for("record", agency, year, doc_id, "json")
+  utils.write(utils.json_for(record), json_path)
+
+  # 2) download the associated record doc (unless dry run)
+  if options.get('dry_run') is None:
+    logging.warn("\t%s" % doc_id)
+
+    pdf_path = data_path_for("record", agency, year, doc_id, "pdf")
+
+    result = utils.download(
+      record['download_url'],
+      pdf_path,
+      {
+        'binary': True, # (record['file_type'].lower() == 'pdf'),
+        'cache': not (options.get('force', False))
+      }
+    )
+
+    if result:
+      utils.text_from_pdf(pdf_path)
+
+
+  return True
+
+#### Metadata scraping
+
+# session is needed to post the search form and page through metadata
+def run_meta(options):
 
   term = options.get('term')
   if term is None:
@@ -108,12 +194,7 @@ def save_page(doc):
 #   /data/foiaonline/meta/record/EPA/2014/EPA-R2-2014-SHSK4.json
 #   /data/foiaonline/meta/request/EPA/2014/EPA-R2-APBNT2.json
 def save_meta_result(result):
-
-  path = os.path.join(utils.data_dir(),
-    "foiaonline/meta",
-    result['type'], result['agency'], result['year'],
-    "%s.json" % (result['id'])
-  )
+  path = meta_path_for(result['type'], result['agency'], result['year'], result['id'])
 
   # for paged metadata, don't overwrite if we've got it already,
   # we don't keep anything that should change.
@@ -203,5 +284,30 @@ def search(term, page, session):
 
   return bytes.decode(response.content)
 
+
+##### Disk paths
+
+def meta_path_for(doc_type, agency, year, doc_id):
+  return os.path.join(utils.data_dir(),
+    "foiaonline/meta",
+    doc_type, agency, year,
+    ("%s.json" % doc_id)
+  )
+
+# cache .html of landing pages for records/requests/etc
+def cache_path_for(doc_type, agency, year, doc_id):
+  return os.path.join(utils.data_dir(),
+    "foiaonline/cache",
+    doc_type, agency, year,
+    ("%s.html" % doc_id)
+  )
+
+# save .json and .pdf docs (.txt's will end up there too)
+def data_path_for(doc_type, agency, year, doc_id, extension):
+  return os.path.join(utils.data_dir(),
+    "foiaonline/data",
+    doc_type, agency, year,
+    ("%s/%s.%s" % (doc_id, doc_type, extension))
+  )
 
 run(utils.options()) if (__name__ == "__main__") else None

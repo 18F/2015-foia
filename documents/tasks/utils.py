@@ -163,23 +163,25 @@ def unescape(text):
   text = remove_unicode_control(text)
   return text
 
-# uses pdftotext to get text out of PDFs.
+# uses pdftotext to get text out of PDFs, returns the /data-relative path
 def text_from_pdf(pdf_path):
   try:
-    subprocess.Popen(["pdftotext", "-v"], shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT).communicate()
+    subprocess.Popen(["pdftotext", "-v"], shell=False, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT).communicate()
   except FileNotFoundError:
     logging.warn("Install pdftotext to extract text! The pdftotext executable must be in a directory that is in your PATH environment variable.")
     return None
 
+  real_pdf_path = os.path.abspath(os.path.expandvars(pdf_path))
   text_path = "%s.txt" % os.path.splitext(pdf_path)[0]
+  real_text_path = os.path.abspath(os.path.expandvars(text_path))
 
   try:
-    subprocess.check_call("pdftotext -layout \"%s\" \"%s\"" % (pdf_path, text_path), shell=True)
+    subprocess.check_call(["pdftotext", "-layout", real_pdf_path, real_text_path], shell=False)
   except subprocess.CalledProcessError as exc:
     logging.warn("Error extracting text to %s:\n\n%s" % (text_path, format_exception(exc)))
     return None
 
-  if os.path.exists(text_path):
+  if os.path.exists(real_text_path):
     return text_path
   else:
     logging.warn("Text not extracted to %s" % text_path)

@@ -97,7 +97,6 @@ def do_document(result, page, options):
       }
     )
 
-    # TODO: extract text to .txt
     if result:
       utils.text_from_pdf(pdf_path)
 
