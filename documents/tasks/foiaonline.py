@@ -2,6 +2,7 @@
 
 import sys
 import os
+import glob
 import utils
 import pdb
 import json
@@ -56,11 +57,26 @@ def run_data(options):
   doc_id = options.get("id")
   if agency and year and doc_id:
     get_record(agency, year, doc_id, options)
+  else:
+    # e.g. data/foiaonline/data/record/EPA/2014/090004d2803333d6/
+    doc_paths = glob.glob(os.path.join(
+      utils.data_dir(), "foiaonline/meta/record/*/*/*")
+    )
+    doc_paths.sort()
+
+    for doc_path in doc_paths:
+      pieces = doc_path.split("/")
+      agency = pieces[-3]
+      year = pieces[-2]
+      doc_id = os.path.splitext(pieces[-1])[0]
+      get_record(agency, year, doc_id, options)
+
 
 # given agency/year/ID to record metadata, scrape more metadata,
 # download the document itself, extract text
 # testing: 090004d2803333d6
 def get_record(agency, year, doc_id, options):
+  logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
   meta_path = meta_path_for("record", agency, year, doc_id)
   meta = json.load(open(meta_path))
 
