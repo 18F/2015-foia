@@ -310,9 +310,11 @@ def record_headers_from(doc):
       headers["retention"] = index
     elif label.startswith("size"):
       headers["file_size"] = index
+    elif label.startswith("ex."):
+      pass # exemption 5 subtypes
     # TODO: discover more fields
     # else:
-    #   raise Exception("Unexpected field on record details page!")
+    #   raise Exception("Unexpected field on record details page: %s" % label)
 
     index += 1
 
