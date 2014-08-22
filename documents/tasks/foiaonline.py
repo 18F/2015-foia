@@ -52,24 +52,44 @@ def run(options):
 # no session needed for data, all objects have reliable permalinks
 # for now: just `record` type objects
 def run_data(options):
+  # for now, default to records
+  doc_type = options.get("type", "record")
+
   agency = options.get("agency")
   year = options.get("year")
   doc_id = options.get("id")
+
   if agency and year and doc_id:
     get_record(agency, year, doc_id, options)
   else:
     # e.g. data/foiaonline/data/record/EPA/2014/090004d2803333d6/
+
+    if not doc_type: doc_type = "*"
+    if not year: year = "*"
+
+    # let people use lower-case slugs for agency on CLI
+    if agency:
+      agency = agency.upper()
+    else:
+      agency = "*"
+
     doc_paths = glob.glob(os.path.join(
-      utils.data_dir(), "foiaonline/meta/record/*/*/*")
+      utils.data_dir(),
+      "foiaonline/meta/%s/%s/%s/*" % (doc_type, agency, year))
     )
     doc_paths.sort()
 
+    logging.warn("Going to fetch %i records." % len(doc_paths))
+
     for doc_path in doc_paths:
       pieces = doc_path.split("/")
-      agency = pieces[-3]
-      year = pieces[-2]
-      doc_id = os.path.splitext(pieces[-1])[0]
-      get_record(agency, year, doc_id, options)
+      this_doc_type = pieces[-4]
+      this_agency = pieces[-3]
+      this_year = pieces[-2]
+      this_doc_id = os.path.splitext(pieces[-1])[0]
+
+      if this_doc_type == "record":
+        get_record(this_agency, this_year, this_doc_id, options)
 
 
 # given agency/year/ID to record metadata, scrape more metadata,
