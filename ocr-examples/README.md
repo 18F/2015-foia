@@ -3,7 +3,7 @@
 OCRing a document under a few circumstances.
 
 
-[**300dpi-8bit-tiff**](300dpi-8bit-tiff/out.txt) comes from:
+[**300dpi-8bit-tiff**](300dpi-8bit-tiff/out.txt) (**preferred**) comes from:
 
 
 ```
