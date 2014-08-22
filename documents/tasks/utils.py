@@ -71,6 +71,12 @@ def options():
       options[key.lower()] = value
   return options
 
+# used mainly in debugging, quick download a URL and parse it
+def quick_parse(url):
+  body = download(url)
+  doc = BeautifulSoup(body)
+  return doc
+
 # download the data at url
 def download(url, destination=None, options=None):
   options = {} if not options else options

@@ -74,42 +74,80 @@ def run_data(options):
 
 # given agency/year/ID to record metadata, scrape more metadata,
 # download the document itself, extract text
-# testing: 090004d2803333d6
+# testing: 090004d2803333d6, epa, 2014
 def get_record(agency, year, doc_id, options):
   logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
   meta_path = meta_path_for("record", agency, year, doc_id)
   meta = json.load(open(meta_path))
 
-  # download landing page for record, cache to disk
+  # download landing page for record
   url = "https://foiaonline.regulations.gov/foia/action/public/view/record?objectId=%s" % meta['id']
-  body = utils.download(url,
-    cache_path_for("record", agency, year, doc_id),
-    {'cache': not (options.get('force', False))}
-  )
-  doc = BeautifulSoup(body)
 
-  download_url = doc.select("#mainForm")[0].select("a")[0]['href']
+  # if dry run, then we can cache, cause we don't care about downloading the PDF
+  if options.get("dry_run"):
+    body = utils.download(url,
+      cache_path_for("record", agency, year, doc_id),
+      {'cache': not (options.get('force', False))}
+    )
+
+  # normally, not worth it to cache landing page, download link expires :(
+  else:
+    body = utils.download(url)
+
+  doc = BeautifulSoup(body)
+  main = doc.select("#mainForm")[0]
+
+  # get the actual document download link/ID
+  download_url = main.select("a")[0]['href']
   download_url = "https://foiaonline.regulations.gov" + download_url
   download_id = re.search("objectId=([^&]+)", download_url).group(1)
 
+  # get some other metadata about the record
+  headers = record_headers_from(doc)
+
+  # now clear the labels so text can be more easily extracted
+  for label in main.select("fieldset .formitem label"):
+    label.extract()
+
+  links = main.select("fieldset .formitem")
+
+  title = links[headers["title"]].text.strip()
+  author = links[headers["author"]].text.strip()
+  if author == "N/A": author = None
+
+  released_date = links[headers["released_on"]].text.strip()
+  released_at = parse(released_date)
+  released_on = released_at.strftime("%Y-%m-%d")
+
+  request_id = links[headers["request"]].text.strip()
+
+  file_type = links[headers["file_type"]].text.strip().lower()
+  if file_type == "text": file_type = "txt"
+
+  exemptions = links[headers["exemptions"]].text.strip()
+  if exemptions == "N/A": exemptions = None
+  retention = links[headers["retention"]].text.strip()
+  if retention == "N/A": retention = None
+
+  file_size = links[headers["file_size"]].text.strip()
 
   record = {
     "type": "record",
-    "download_id": download_id,
-    "download_url": download_url,
+    # "download_id": download_id, # ephemeral
+    "download_url": download_url, # ephemeral, kept for record-keeping
     "landing_id": doc_id,
     "landing_url": url,
     "agency": agency,
     "year": year,
 
-    # "request_id":
-    # "title":
-    # file_type
-    # released_on
-    # author
-    # exemptions
-    # retention
-    # size
+    "request_id": request_id,
+    "title": title,
+    "file_type": file_type,
+    "released_on": released_on,
+    "author": author,
+    "exemptions": exemptions,
+    "retention": retention,
+    "file_size": file_size
   }
 
   # 1) write JSON to disk at predictable path
@@ -120,18 +158,20 @@ def get_record(agency, year, doc_id, options):
   if options.get('dry_run') is None:
     logging.warn("\t%s" % doc_id)
 
-    pdf_path = data_path_for("record", agency, year, doc_id, "pdf")
+    binary_types = ('pdf', 'doc', 'docx', 'xls', 'xlsx')
+    pdf_path = data_path_for("record", agency, year, doc_id, record['file_type'])
 
     result = utils.download(
       record['download_url'],
       pdf_path,
       {
-        'binary': True, # (record['file_type'].lower() == 'pdf'),
+        'binary': (record['file_type'].lower() in binary_types),
         'cache': not (options.get('force', False))
       }
     )
 
-    if result:
+    # PDF extraction is easy enough
+    if result and (record['file_type'] == 'pdf'):
       utils.text_from_pdf(pdf_path)
 
 
@@ -243,6 +283,37 @@ def headers_from(doc):
     field = fields.get(text)
     if field:
       headers[field] = index
+    index += 1
+
+  return headers
+
+def record_headers_from(doc):
+  headers = {}
+  main = doc.select("#mainForm")[0]
+
+  index = 0
+  for item in main.select("fieldset .formitem"):
+    label = item.select("label")[0].text.strip().lower()
+    if label.startswith("title"):
+      headers["title"] = index
+    elif label.startswith("request tracking"):
+      headers["request"] = index
+    elif label.startswith("author"):
+      headers["author"] = index
+    elif label.startswith("release date"):
+      headers["released_on"] = index
+    elif label.startswith("file format"):
+      headers["file_type"] = index
+    elif label.startswith("exemptions"):
+      headers["exemptions"] = index
+    elif label.startswith("retention"):
+      headers["retention"] = index
+    elif label.startswith("size"):
+      headers["file_size"] = index
+    # TODO: discover more fields
+    # else:
+    #   raise Exception("Unexpected field on record details page!")
+
     index += 1
 
   return headers
