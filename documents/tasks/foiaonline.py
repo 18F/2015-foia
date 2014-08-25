@@ -38,6 +38,7 @@ from bs4 import BeautifulSoup
 #   data: override data directory (defaults to "./data")
 #
 # options for --meta:
+#   term: search term to paginate on
 #   page: only do a particular page number
 #   pages: go all the way up to page X (defaults to 1)
 #     begin: combined with pages, starting page number (defaults to 1)
@@ -139,6 +140,11 @@ def get_record(agency, year, doc_id, options):
   if options.get("resume"):
     if os.path.exists(json_path):
       data = json.load(open(json_path))
+
+      # it's an unreleased doc, move on anyway
+      if data["unreleased"]:
+        return True
+
       doc_path = data_path_for("record", agency, year, doc_id, data["file_type"])
       if os.path.exists(doc_path):
         logging.warn("[%s][%s][%s][%s] Skipping record, resuming..." % ("record", agency, year, doc_id))
@@ -157,13 +163,11 @@ def get_record(agency, year, doc_id, options):
     {'cache': options.get('skip_doc', False)}
   )
 
+  # assume released
+  unreleased = False
+
   doc = BeautifulSoup(body)
   main = doc.select("#mainForm")[0]
-
-  # get the actual document download link/ID
-  download_url = main.select("a")[0]['href']
-  download_url = "https://foiaonline.regulations.gov" + download_url
-  download_id = re.search("objectId=([^&]+)", download_url).group(1)
 
   # get some other metadata about the record
   headers = record_headers_from(doc)
@@ -173,6 +177,16 @@ def get_record(agency, year, doc_id, options):
     label.extract()
 
   links = main.select("fieldset .formitem")
+
+  # get the actual document download link/ID
+  download_link = links[headers["title"]].select("a")
+  if len(download_link) > 0:
+    download_url = download_link[0]['href']
+    download_url = "https://foiaonline.regulations.gov" + download_url
+
+  # no link means it's not released
+  else:
+    unreleased = True
 
   title = links[headers["title"]].text.strip()
   author = links[headers["author"]].text.strip()
@@ -187,6 +201,10 @@ def get_record(agency, year, doc_id, options):
   file_type = links[headers["file_type"]].text.strip().lower()
   if file_type == "text": file_type = "txt"
 
+  # this should correspond with it being unreleased
+  if file_type.startswith("contact"):
+    unreleased = True
+
   exemptions = links[headers["exemptions"]].text.strip()
   if exemptions == "N/A": exemptions = None
   retention = links[headers["retention"]].text.strip()
@@ -196,7 +214,6 @@ def get_record(agency, year, doc_id, options):
 
   record = {
     "type": "record",
-    "download_url": download_url, # ephemeral, kept for record-keeping
     "landing_id": doc_id,
     "landing_url": url,
     "agency": agency,
@@ -204,26 +221,35 @@ def get_record(agency, year, doc_id, options):
 
     "request_id": request_id,
     "title": title,
-    "file_type": file_type,
     "released_on": released_on,
     "author": author,
     "exemptions": exemptions,
-    "retention": retention,
-    "file_size": file_size
+    "retention": retention
   }
+
+  if unreleased:
+    record["unreleased"] = True
+  else:
+    record["unreleased"] = False
+    record["file_size"] = file_size
+    record["file_type"] = file_type
+    # ephemeral, used below to download, and kept for record-keeping
+    record["download_url"] = download_url
 
   # 1) write JSON to disk at predictable path
   utils.write(utils.json_for(record), json_path)
 
   # 2) download the associated record doc (unless dry run)
-  if options.get('skip_doc') is None:
-    logging.warn("\t%s" % doc_id)
+  if unreleased:
+    logging.warn("\tUnreleased doc, moving on.")
+  elif options.get('skip_doc') is None:
+    logging.warn("\tDownloading...")
 
     binary_types = ('pdf', 'doc', 'docx', 'xls', 'xlsx')
     doc_path = data_path_for("record", agency, year, doc_id, record['file_type'])
 
     result = utils.download(
-      record['download_url'],
+      download_url,
       doc_path,
       {
         'binary': (record['file_type'].lower() in binary_types),
@@ -233,6 +259,7 @@ def get_record(agency, year, doc_id, options):
 
     # PDF extraction is easy enough
     if result and (record['file_type'] == 'pdf'):
+      logging.warn("\tExtracting text from PDF...")
       utils.text_from_pdf(doc_path)
 
 
