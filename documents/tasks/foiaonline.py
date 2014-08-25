@@ -143,11 +143,12 @@ def get_record(agency, year, doc_id, options):
 
       # it's an unreleased doc, move on anyway
       if data["unreleased"]:
+        logging.warn("[%s][%s][%s][%s] Unreleased, skipping." % ("record", agency, year, doc_id))
         return True
 
       doc_path = data_path_for("record", agency, year, doc_id, data["file_type"])
       if os.path.exists(doc_path):
-        logging.warn("[%s][%s][%s][%s] Skipping record, resuming..." % ("record", agency, year, doc_id))
+        logging.warn("[%s][%s][%s][%s] Already done, skipping." % ("record", agency, year, doc_id))
         return True
 
   logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
