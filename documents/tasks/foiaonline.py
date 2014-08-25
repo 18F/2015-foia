@@ -201,6 +201,10 @@ def get_record(agency, year, doc_id, options):
   file_type = links[headers["file_type"]].text.strip().lower()
   if file_type == "text": file_type = "txt"
 
+  # TODO: handle unexpected file types more gracefully
+  # right now, it accepts any extension and dl's them.
+  # it should choke on unexpected types, and email admin.
+
   # this should correspond with it being unreleased
   if file_type.startswith("contact"):
     unreleased = True
