@@ -13,19 +13,39 @@ import re
 from dateutil.parser import parse
 from bs4 import BeautifulSoup
 
+##
+# This script assumes it's being run from one directory up,
+#  as "./tasks/foiaonline.py".
+#
+# The basic strategy for downloading data is:
+#
+# 1. Run with --meta to page through search results for search
+#    terms, and save unique IDs found during pagination.
+# 2. Run bare to use any saved metadata from step 1 to download
+#    more metadata, and download docs, for released FOIA records.
+#
+# You may find it helpful during development or archival to:
+#
+#  * Run with --resume to re-run or resume step 2, skipping over
+#    records whose docs have already been downloaded.
+#  * Run with --skip_doc to (re-)process metadata at any time, which
+#    can be done purely from already-cached metadata from step 2.
+##
+
+##
 # options for both meta and data:
 #   debug: extra debug output
 #   data: override data directory (defaults to "./data")
-
+#
 # options for --meta:
 #   page: only do a particular page number
 #   pages: go all the way up to page X (defaults to 1)
 #     begin: combined with pages, starting page number (defaults to 1)
-
+#
 # options for data download:
 #   skip_doc: don't actually download the doc, but write metadata
 #             (this allows caching and reusing)
-
+##
 
 PER_PAGE = 100
 
