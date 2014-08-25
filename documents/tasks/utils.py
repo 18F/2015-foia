@@ -128,7 +128,7 @@ def download(url, destination=None, options=None):
       if (not body) or (not body.strip()):
         return None
 
-      # cache content to disk
+      # save content to disk
       if destination:
         write(body, destination, binary=binary)
 

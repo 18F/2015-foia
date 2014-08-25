@@ -13,14 +13,19 @@ import re
 from dateutil.parser import parse
 from bs4 import BeautifulSoup
 
-# options:
+# options for both meta and data:
+#   debug: extra debug output
+#   data: override data directory (defaults to "./data")
+
+# options for --meta:
 #   page: only do a particular page number
 #   pages: go all the way up to page X (defaults to 1)
 #     begin: combined with pages, starting page number (defaults to 1)
-#   per_page: how many to expect per_page (defaults to 200)
-#   limit: only process X documents (regardless of pages)
-#   dry_run: don't actually download the PDF, but write metadata
-#   data: override data directory (defaults to "./data")
+
+# options for data download:
+#   skip_doc: don't actually download the doc, but write metadata
+#             (this allows caching and reusing)
+
 
 PER_PAGE = 100
 
@@ -96,23 +101,41 @@ def run_data(options):
 # download the document itself, extract text
 # testing: 090004d2803333d6, epa, 2014
 def get_record(agency, year, doc_id, options):
-  logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
+
   meta_path = meta_path_for("record", agency, year, doc_id)
+  json_path = data_path_for("record", agency, year, doc_id, "json")
+
+  ## Special: resume mode
+  #
+  # since downloading documents requires re-downloading landing pages,
+  # the only way to do a resumable mass download of docs is to
+  # check for whether the doc has been downloaded yet. this, in turn,
+  # requires checking for the presence of [doc_type].[file_type], and the
+  # file_type needs to be loaded from [doc_type].json.
+  #
+  # So, if --resume is on, before re-downloading anything, check if we
+  # have a parsed .json, and if so, load the file_type and check for
+  # the doc itself. If present, return True and move on.
+  if options.get("resume"):
+    if os.path.exists(json_path):
+      data = json.load(open(json_path))
+      doc_path = data_path_for("record", agency, year, doc_id, data["file_type"])
+      if os.path.exists(doc_path):
+        logging.warn("[%s][%s][%s][%s] Skipping record, resuming..." % ("record", agency, year, doc_id))
+        return True
+
+  logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
   meta = json.load(open(meta_path))
 
   # download landing page for record
   url = "https://foiaonline.regulations.gov/foia/action/public/view/record?objectId=%s" % meta['id']
 
-  # if dry run, then we can cache, cause we don't care about downloading the PDF
-  if options.get("dry_run"):
-    body = utils.download(url,
-      cache_path_for("record", agency, year, doc_id),
-      {'cache': not (options.get('force', False))}
-    )
-
-  # normally, not worth it to cache landing page, download link expires :(
-  else:
-    body = utils.download(url)
+  # save the landing page no matter what, but only use it as a cache
+  # if we're skipping the docs (download links are ephemeral :( )
+  body = utils.download(url,
+    cache_path_for("record", agency, year, doc_id),
+    {'cache': options.get('skip_doc', False)}
+  )
 
   doc = BeautifulSoup(body)
   main = doc.select("#mainForm")[0]
@@ -153,7 +176,6 @@ def get_record(agency, year, doc_id, options):
 
   record = {
     "type": "record",
-    # "download_id": download_id, # ephemeral
     "download_url": download_url, # ephemeral, kept for record-keeping
     "landing_id": doc_id,
     "landing_url": url,
@@ -171,19 +193,18 @@ def get_record(agency, year, doc_id, options):
   }
 
   # 1) write JSON to disk at predictable path
-  json_path = data_path_for("record", agency, year, doc_id, "json")
   utils.write(utils.json_for(record), json_path)
 
   # 2) download the associated record doc (unless dry run)
-  if options.get('dry_run') is None:
+  if options.get('skip_doc') is None:
     logging.warn("\t%s" % doc_id)
 
     binary_types = ('pdf', 'doc', 'docx', 'xls', 'xlsx')
-    pdf_path = data_path_for("record", agency, year, doc_id, record['file_type'])
+    doc_path = data_path_for("record", agency, year, doc_id, record['file_type'])
 
     result = utils.download(
       record['download_url'],
-      pdf_path,
+      doc_path,
       {
         'binary': (record['file_type'].lower() in binary_types),
         'cache': not (options.get('force', False))
@@ -192,7 +213,7 @@ def get_record(agency, year, doc_id, options):
 
     # PDF extraction is easy enough
     if result and (record['file_type'] == 'pdf'):
-      utils.text_from_pdf(pdf_path)
+      utils.text_from_pdf(doc_path)
 
 
   return True
