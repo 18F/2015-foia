@@ -123,7 +123,7 @@ def run_data(options):
 # testing: 090004d2803333d6, epa, 2014
 def get_record(agency, year, doc_id, options):
 
-  meta_path = meta_path_for("record", agency, year, doc_id)
+  # meta_path = meta_path_for("record", agency, year, doc_id)
   json_path = data_path_for("record", agency, year, doc_id, "json")
 
   ## Special: resume mode
@@ -152,10 +152,10 @@ def get_record(agency, year, doc_id, options):
         return True
 
   logging.warn("[%s][%s][%s][%s] Getting record..." % ("record", agency, year, doc_id))
-  meta = json.load(open(meta_path))
+  # meta = json.load(open(meta_path))
 
   # download landing page for record
-  url = "https://foiaonline.regulations.gov/foia/action/public/view/record?objectId=%s" % meta['id']
+  url = "https://foiaonline.regulations.gov/foia/action/public/view/record?objectId=%s" % doc_id
 
   # save the landing page no matter what, but only use it as a cache
   # if we're skipping the docs (download links are ephemeral :( )
@@ -201,6 +201,10 @@ def get_record(agency, year, doc_id, options):
 
   file_type = links[headers["file_type"]].text.strip().lower()
   if file_type == "text": file_type = "txt"
+
+  # for untyped binary files, just save .mystery and we'll worry later
+  if (not file_type) or (file_type.strip() == ""):
+    file_type = "mystery"
 
   # TODO: handle unexpected file types more gracefully
   # right now, it accepts any extension and dl's them.
@@ -250,14 +254,15 @@ def get_record(agency, year, doc_id, options):
   elif options.get('skip_doc') is None:
     logging.warn("\tDownloading...")
 
-    binary_types = ('pdf', 'doc', 'docx', 'xls', 'xlsx')
+    text_types = ('txt')
+    binary_types = ('pdf', 'doc', 'docx', 'xls', 'xlsx', 'mystery', '')
     doc_path = data_path_for("record", agency, year, doc_id, record['file_type'])
 
     result = utils.download(
       download_url,
       doc_path,
       {
-        'binary': (record['file_type'].lower() in binary_types),
+        'binary': True,
         'cache': not (options.get('force', False))
       }
     )
