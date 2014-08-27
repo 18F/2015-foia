@@ -194,8 +194,14 @@ def get_record(agency, year, doc_id, options):
   if author == "N/A": author = None
 
   released_date = links[headers["released_on"]].text.strip()
-  released_at = parse(released_date)
-  released_on = released_at.strftime("%Y-%m-%d")
+  if released_date == "N/A":
+    released_on = None
+  else:
+    try:
+      released_at = parse(released_date)
+      released_on = released_at.strftime("%Y-%m-%d")
+    except TypeError:
+      released_on = None
 
   request_id = links[headers["request"]].text.strip()
 
@@ -231,6 +237,7 @@ def get_record(agency, year, doc_id, options):
     "request_id": request_id,
     "title": title,
     "released_on": released_on,
+    "released_original": released_date,
     "author": author,
     "exemptions": exemptions,
     "retention": retention
