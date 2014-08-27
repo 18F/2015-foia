@@ -5,8 +5,10 @@ import re, html.entities
 import traceback
 import json
 import logging
-from bs4 import BeautifulSoup
 
+from bs4 import BeautifulSoup
+import requests
+from requests.exceptions import RequestException
 
 # scraper should be instantiated at class-load time, so that it can rate limit appropriately
 import scrapelib
@@ -76,6 +78,32 @@ def quick_parse(url):
   body = download(url)
   doc = BeautifulSoup(body)
   return doc
+
+# get content-type and content-disposition from server
+def content_headers(url):
+  '''
+  e.g. https://foiaonline.regulations.gov/foia/action/getContent;jsessionid=D793C614B6F66FF414F03448F64B7AF6?objectId=o9T34dVQIKi7v1Dv3L1K_HXAo4KBMt2C
+
+  Content-Disposition: attachment;filename="EPA Pavillion - list of withheld docs.final.12-03-2012.xlsx"
+  Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=ISO-8859-1
+  '''
+
+  try:
+    response = requests.head(url)
+  except RequestException:
+    return None
+
+  headers = response.headers
+  # try to do some smart parsing of headers here, but also leave
+  # the originals
+  if headers.get("Content-Disposition"):
+    filename = headers["Content-Disposition"].split(";")[-1]
+    extension = os.path.splitext(filename.replace("\"", '').replace("'", ''))[1]
+    headers["extension"] = extension.replace(".", "")
+  if headers.get("Content-Type"):
+    headers["type"] = headers["Content-Type"].split(";")[0]
+
+  return headers
 
 # download the data at url
 def download(url, destination=None, options=None):
