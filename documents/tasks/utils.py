@@ -5,13 +5,15 @@ import re, html.entities
 import traceback
 import json
 import logging
-from bs4 import BeautifulSoup
 
+from bs4 import BeautifulSoup
+import requests
+from requests.exceptions import RequestException
 
 # scraper should be instantiated at class-load time, so that it can rate limit appropriately
 import scrapelib
-scraper = scrapelib.Scraper(requests_per_minute=30, follow_robots=False, retry_attempts=3)
-scraper.user_agent = "18f/foia (https://github.com/18f/foia/pull/11)"
+scraper = scrapelib.Scraper(requests_per_minute=30, retry_attempts=3)
+scraper.user_agent = "18F (https://18f.gsa.gov, https://github.com/18f/foia)"
 
 
 # serialize and pretty print json
@@ -36,6 +38,7 @@ def write(content, destination, binary=False):
     mode = "bw"
   else:
     mode = "w"
+
   f = open(destination, mode)
   f.write(content)
   f.close()
@@ -70,6 +73,37 @@ def options():
       options[key.lower()] = value
   return options
 
+# used mainly in debugging, quick download a URL and parse it
+def quick_parse(url):
+  body = download(url)
+  doc = BeautifulSoup(body)
+  return doc
+
+# get content-type and content-disposition from server
+def content_headers(url):
+  '''
+  e.g. https://foiaonline.regulations.gov/foia/action/getContent;jsessionid=D793C614B6F66FF414F03448F64B7AF6?objectId=o9T34dVQIKi7v1Dv3L1K_HXAo4KBMt2C
+
+  Content-Disposition: attachment;filename="EPA Pavillion - list of withheld docs.final.12-03-2012.xlsx"
+  Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=ISO-8859-1
+  '''
+
+  try:
+    response = requests.head(url)
+  except RequestException:
+    return None
+
+  headers = response.headers
+  # try to do some smart parsing of headers here, but also leave
+  # the originals
+  if headers.get("Content-Disposition"):
+    filename = headers["Content-Disposition"].split(";")[-1]
+    extension = os.path.splitext(filename.replace("\"", '').replace("'", ''))[1]
+    headers["extension"] = extension.replace(".", "")
+  if headers.get("Content-Type"):
+    headers["type"] = headers["Content-Type"].split(";")[0]
+
+  return headers
 
 # download the data at url
 def download(url, destination=None, options=None):
@@ -86,33 +120,45 @@ def download(url, destination=None, options=None):
       return True
 
     # otherwise, decode it for return
-    with open(destination, 'r') as f:
+    with open(destination, 'r', encoding='utf-8') as f:
       body = f.read()
 
   # otherwise, download from the web
   else:
-    try:
-      logging.info("## Downloading: %s" % url)
-      if destination: logging.info("## \tto: %s" % destination)
-      response = scraper.urlopen(url)
-    except scrapelib.HTTPError as e:
-      print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
-      return None
-
+    logging.info("## Downloading: %s" % url)
     if binary:
-      body = response.bytes
-      if isinstance(body, str): raise ValueError("Binary content improperly decoded.")
-    else:
+      if destination:
+        logging.info("## \tto: %s" % destination)
+      else:
+        raise Exception("A destination path is required for downloading a binary file")
+      try:
+        mkdir_p(os.path.dirname(destination))
+        scraper.urlretrieve(url, destination)
+      except scrapelib.HTTPError as e:
+        # intentionally print instead of using logging,
+        # so that all 404s get printed at the end of the log
+        print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
+        return None
+    else: # text
+      try:
+        if destination: logging.info("## \tto: %s" % destination)
+        response = scraper.urlopen(url)
+      except scrapelib.HTTPError as e:
+        # intentionally print instead of using logging,
+        # so that all 404s get printed at the end of the log
+        print("Error downloading %s:\n\n%s" % (url, format_exception(e)))
+        return None
+
       body = response
       if not isinstance(body, str): raise ValueError("Content not decoded.")
 
-    # don't allow 0-byte files
-    if (not body) or (not body.strip()):
-      return None
+      # don't allow 0-byte files
+      if (not body) or (not body.strip()):
+        return None
 
-    # cache content to disk
-    if destination:
-      write(body, destination, binary=binary)
+      # save content to disk
+      if destination:
+        write(body, destination, binary=binary)
 
   # don't return binary content
   if binary:
@@ -151,23 +197,25 @@ def unescape(text):
   text = remove_unicode_control(text)
   return text
 
-# uses pdftotext to get text out of PDFs.
+# uses pdftotext to get text out of PDFs, returns the /data-relative path
 def text_from_pdf(pdf_path):
   try:
-    subprocess.Popen(["pdftotext", "-v"], shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT).communicate()
+    subprocess.Popen(["pdftotext", "-v"], shell=False, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT).communicate()
   except FileNotFoundError:
     logging.warn("Install pdftotext to extract text! The pdftotext executable must be in a directory that is in your PATH environment variable.")
     return None
 
+  real_pdf_path = os.path.abspath(os.path.expandvars(pdf_path))
   text_path = "%s.txt" % os.path.splitext(pdf_path)[0]
+  real_text_path = os.path.abspath(os.path.expandvars(text_path))
 
   try:
-    subprocess.check_call("pdftotext -layout \"%s\" \"%s\"" % (pdf_path, text_path), shell=True)
+    subprocess.check_call(["pdftotext", "-layout", real_pdf_path, real_text_path], shell=False)
   except subprocess.CalledProcessError as exc:
     logging.warn("Error extracting text to %s:\n\n%s" % (text_path, format_exception(exc)))
     return None
 
-  if os.path.exists(text_path):
+  if os.path.exists(real_text_path):
     return text_path
   else:
     logging.warn("Text not extracted to %s" % text_path)
@@ -184,6 +232,17 @@ def data_dir():
   else:
     return "data"
 
-# logging level
-if options().get("debug"):
-  logging.basicConfig(format='%(message)s', level='DEBUG')
+def configure_logging(options=None):
+  options = {} if not options else options
+  if options.get('debug', False):
+    log_level = "debug"
+  else:
+    log_level = options.get("log", "warn")
+
+  if log_level not in ["debug", "info", "warn", "error"]:
+    print("Invalid log level (specify: debug, info, warn, error).")
+    sys.exit(1)
+
+  logging.basicConfig(format='%(message)s', level=log_level.upper())
+
+configure_logging(options())
