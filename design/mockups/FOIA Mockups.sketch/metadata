@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app</key>
+	<string>com.bohemiancoding.sketch3</string>
+	<key>build</key>
+	<integer>8054</integer>
+	<key>commit</key>
+	<string>b2079fe10151ad0eef6cc553b7369ec78d67b9b5</string>
+	<key>fonts</key>
+	<array>
+		<string>Raleway-Regular</string>
+		<string>OpenSans-Light</string>
+		<string>OpenSans-Semibold</string>
+		<string>Raleway-SemiBold</string>
+		<string>Raleway-ExtraLight</string>
+		<string>Raleway-Bold</string>
+		<string>Raleway-Medium</string>
+		<string>OpenSans</string>
+		<string>OpenSans-Bold</string>
+		<string>FontAwesome</string>
+		<string>OpenSans-SemiboldItalic</string>
+		<string>OpenSans-Extrabold</string>
+		<string>Raleway-Light</string>
+	</array>
+	<key>length</key>
+	<integer>858645</integer>
+	<key>version</key>
+	<integer>37</integer>
+</dict>
+</plist>
