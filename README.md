@@ -4,8 +4,8 @@ This repo is for project-wide [discussion](https://github.com/18f/foia/issues) f
 
 Also see:
 
-* [foia-hub](https://github.com/18F/foia-hub) - User-facing portal for issuing FOI requests. (Static website)
-* [foia-core](https://github.com/18F/foia-core) - Core interaction between FOIA requestor and FOIA office. (Python 3 / Flask)
+* [foia-design](httpshttps://github.com/18F/foia-design) - Where our FOIA hub designs and mockups are located. 
+* [foia-hub](https://github.com/18F/foia-hub) - Core interaction between FOIA requestor and FOIA office. Includes what was previously contained in FOIA core. (Static website + Python 3 / Flask)
 * [foia-search](https://github.com/18F/foia-search) - A search/similarity/discovery API over information from FOIA responses. (Node / Elasticsearch)
 
 ## Public domain
