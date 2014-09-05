@@ -168,7 +168,12 @@ def get_record(agency, year, doc_id, options):
   unreleased = False
 
   doc = BeautifulSoup(body)
-  main = doc.select("#mainForm")[0]
+  main = doc.select("#mainForm")
+  if main:
+    main = main[0]
+  else:
+    logging.warn("[%s][%s][%s][%s] Landing page is not available, skipping." % ("record", agency, year, doc_id))
+    return True
 
   # get some other metadata about the record
   headers = record_headers_from(doc)
