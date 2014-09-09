@@ -3,6 +3,10 @@ abbreviation: CIA
 name: Central Intelligence Agency
 description: The Central Intelligence Agency (CIA) is an independent US Government
   agency responsible for providing national security intelligence to senior US policymakers.
+keywords:
+- spies
+- espionage
+- counterintelligence
 departments:
 - name: Central Intelligence Agency
   address:
