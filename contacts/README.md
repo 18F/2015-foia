@@ -61,3 +61,16 @@ departments:
 
 ```
 
+### Running the tests
+
+Install RSpec:
+
+```bash
+gem install rspec
+```
+
+Then run the test with:
+
+```bash
+spec contacts_spec.rb
+```
