@@ -34,13 +34,29 @@ AGENCIES = ['USDA', 'DOC', 'DoD', 'ED', 'DOE', 'HHS', 'DHS', 'HUD', 'DOI', 'DOJ'
 # regex for phones as they appear here
 PHONE = /\+?[\d\s\(\)\-]*(\(?\d{3}\)?[\s\-\(\)]*\d{3}[\-\s\(\)]*\d{4})/i
 
+# Account for BRs and such while finding the description
+def parse_description(doc)
+  description = ""
+  desc_el = (doc / :h2).last.next_sibling
+  while desc_el
+    if not desc_el.elem?
+      description += desc_el.text.strip
+    # Only want one new line when there are two BRs
+    elsif desc_el.description.name == "br" and not description.end_with?("\n")
+      description += "\n"
+    end
+    desc_el = desc_el.next_sibling
+  end
+  description.strip
+end
+
 # parsing workhorse functions: making sense of a block of HTML from FOIA.gov
 def parse_agency(abb, html_path)
   html = File.read html_path
   doc = Nokogiri::HTML html
 
   agency_name = doc.at("h1").text.strip
-  description = (doc / :h2).last.next_sibling.text.strip
+  description = parse_description(doc)
 
   # get each dept id and name, parse department from its div
   departments = doc.css("option")[1..-1].map do |option|
