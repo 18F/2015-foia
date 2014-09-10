@@ -39,20 +39,20 @@ def parse_agency(abb, html_path)
   html = File.read html_path
   doc = Nokogiri::HTML html
 
-  name = doc.at("h1").text.strip
+  agency_name = doc.at("h1").text.strip
   description = (doc / :h2).last.next_sibling.text.strip
 
   # get each dept id and name, parse department from its div
   departments = doc.css("option")[1..-1].map do |option|
     id = option['value']
     elem = doc.css("div##{id}").first
-    name = option.text.strip
-    parse_department elem, name
+    dept_name = option.text.strip
+    parse_department elem, dept_name
   end
 
   {
     "abbreviation" => abb,
-    "name" => name,
+    "name" => agency_name,
     "description" => description,
     "departments" => departments
   }
@@ -70,7 +70,7 @@ def parse_department(elem, name)
   (elem / :p)[1..-1].each do |p|
     text = p.text.strip
     text = HTMLEntities.new.decode text
-    text = text.gsub /\n\s+/, " "
+    text = text.gsub(/\n\s+/, " ")
 
     # remove empty lines, including unicode/nbsp spaces
     if text.gsub(/[[:space:]]/, '').strip != ""
@@ -181,7 +181,7 @@ end
 def extract_phone(line)
   if match = line.match(PHONE)
     number = match[0]
-    number = number.gsub /[^\d]/, '' # kill all non-numbers
+    number = number.gsub(/[^\d]/, '') # kill all non-numbers
 
     if number.size > 10
       prefix = number[0...(number.size - 10)]
