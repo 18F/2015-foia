@@ -22,4 +22,16 @@ describe "parse_agency" do
     expect(result["name"]).to eq("An Agency")
     expect(result["description"]).to eq("Some description")
   end
+
+  it "allows BRs in description" do
+    html = StringIO.new("<h1>An Agency</h1>" \
+                        "<h2>I want to make a FOIA request to:" \
+                        "<option value='0'>Select an Office</option>" \
+                        "</h2>" \
+                        "<div id='0'>Default</div>" \
+                        "<h2>About</h2>Line 1<br>Line 2<br><br>Last Line")
+    allow(File).to receive(:read).and_return(html)
+    result = parse_agency("age", "some/path")
+    expect(result["description"]).to eq("Line 1\nLine 2\nLast Line")
+  end
 end
