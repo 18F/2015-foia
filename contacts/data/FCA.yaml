@@ -1,8 +1,10 @@
 ---
 abbreviation: FCA
 name: Farm Credit Administration
-description: 'FCA´s mission is to ensure a dependable source of credit for agriculture
-  and rural America. We do this in two ways:'
+description: |-
+  FCA´s mission is to ensure a dependable source of credit for agriculture and rural America. We do this in two ways:
+  ·1.By creating regulations for FCS institutions to follow
+  ·2.By examining FCS institutions to ensure their compliance with the Farm Credit Act of 1971 (as amended), FCA regulations, and safe and sound banking practices
 departments:
 - name: Farm Credit Administration
   address:

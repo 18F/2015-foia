@@ -1,6 +1,6 @@
 ---
 abbreviation: Treasury
-name: Treasury Inspector General for Tax Administration
+name: Department of the Treasury
 description: The Department's mission is to maintain a strong economy and create economic
   and job opportunities by promoting the conditions that enable economic growth and
   stability at home and abroad, strengthen national security by combating threats
@@ -9,90 +9,90 @@ description: The Department's mission is to maintain a strong economy and create
 departments:
 - name: Departmental Offices
   address:
-  - Hugh Gilmore
+  - Ryan Law
   - Director, Disclosure Services
   - 1500 Pennsylvania Avenue, NW
   - Washington, DC 20220
   phone: 202-622-0930
   fax: 202-622-3895
   service_center: 'Phone: (202) 622-0930'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.treasury.gov/foia/Pages/index.aspx
-  request_form: https://www.onlinefoia.treasury.gov/
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
 - name: Alcohol and Tobacco Tax and Trade Bureau
   address:
   - Quinton Mason
   - FOIA Contact, Disclosure Services
   - Box 12
   - 1310 G Street, NW
-  - Washington, DC 20005
+  - Washington, DC 20220
   phone: 202-882-9904
   fax: 202-453-2331
-  service_center: 'Phone: (202) 882-9904'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  service_center: 'Phone: (202) 927-1024'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.ttb.gov/foia/index.shtml
-  request_form: https://www.onlinefoia.treasury.gov/
 - name: Bureau of Engraving and Printing
   address:
-  - Leslie J. Rivera-Pagán, Disclosure Officer
-  - 'Office of the Chief Counsel, ATTN: FOIA and Transparency Services'
-  - Room 419A
-  - 14th & C Street, SW
+  - Disclosure Officer
+  - FOIA Contact, FOIA Office
+  - 419 A
+  - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
   phone: 202-874-2500
   fax: 202-874-2951
   service_center: 'Phone: (202) 874-2058'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
-  website: http://moneyfactory.gov/foia.html
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  website: http://www.bep.treas.gov/foia.html
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
 - name: Comptroller of the Currency
   address:
   - Frank Vance
   - Disclosures Services
   - Communications Division
-  - Mail Stop 2-3
+  - Suite 3-E218Mail Stop 6W-11
+  - 400 7th Street, SW
   - Washington, DC 20219
-  phone: 202-874-4700
+  phone: 202-649-6758
   emails:
   - foia-pa@occ.treas.gov
   service_center: 'Phone: (202) 874-4700'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.occ.gov/about/foia/index-foia.html
-  request_form: https://appsec.occ.gov/publicaccesslink/palMain.aspx
 - name: Financial Crimes Enforcement Network
   address:
   - Amanda Michanczyk
   - Disclosure (FOIA) Office
   - P.O. Box 39
   - Vienna, VA 22183
-  phone: 703-905-5034
+  phone: 703-905-3537
   fax: 703-905-5126
   service_center: 'Phone: (703) 905-5034'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.fincen.gov/foia/
-- name: Financial Management Service
+- name: Bureau of Fiscal Services
   address:
-  - Cynthia Sydnor
+  - Cynthia Sydnor/Denise Nelson
   - Disclosure Officer
-  - Room 553B
+  - Room 508C
   - 401 14th Street, SW
   - Washington, DC 20227
-  phone: 202-874-1502
+  phone: 202-874-5602
   fax: 202-874-2391
-  service_center: 'Phone: (202) 874-6837'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  service_center: 'Phone: (202) 874-5602'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.fms.treas.gov/foia/index.html
   request_form: http://www.fms.treas.gov/foia/request.html
 - name: Internal Revenue Service - Headquarters Office
   address:
+  - Disclosure Manager
   - FOIA Contact
-  - Stop 211
-  - 2980 Brandywine Road
+  - HQ FOIA Stop 211
+  - 'HQ & FOIA Operations ATTn: IRS FOIA Request 2980 Brandywine Road'
   - Chamblee, GA 30341
-  phone: 202-317-6475
-  service_center: 'Phone: (202) 317-6475'
-  public_liaison: 'Bertrand Tzeng, Phone: (202) 317-6475'
-  website: http://www.irs.gov/uac/IRS-Freedom-of-Information
+  phone: 202-317-3475
+  service_center: 'Phone: (202) 317-3475'
+  public_liaison: 'Phone: (202) 317-3475'
+  website: http://www.irs.gov/foia/article/0,,id=120681,00.html
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
 - name: United States Mint
@@ -105,40 +105,14 @@ departments:
   phone: 202-354-4600
   fax: 202-756-6153
   service_center: 'Phone: (202) 354-6788'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
+  public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   website: http://www.usmint.gov/FOIA/
-- name: Bureau of Public Debt
-  address:
-  - Denise Nelson
-  - Disclosure Officer, Division of Administrative Services
-  - Avery A5-A
-  - 200 Third Street
-  - Parkersburg, WV 26106
-  phone: 304-480-8402
-  fax: 304-480-8188
-  service_center: 'Phone: (304) 480-8402'
-  public_liaison: 'Hugh Gilmore, Phone: (202) 622-0876'
-  website: http://www.treasurydirect.gov/foia.htm
-  request_form: https://www.onlinefoia.treasury.gov/
-- name: Office of Thrift Supervision
-  address:
-  - Marilyn K. Burton
-  - FOIA Contact
-  - 1700 G Street, NW
-  - Washington, DC 20552
-  phone: 202-906-5922
-  fax: 202-906-6353
-  emails:
-  - public.info@ots.treas.gov
-  service_center: 'Phone: (202) 906-5922'
-  public_liaison: 'Dick Roberts, Phone: (202) 906-7631'
-  website: http://www.ots.treas.gov/?p=FreedomOfInformationAct
 - name: Treasury Inspector General for Tax Administration
   address:
   - Amy P. Jones
   - FOIA Contact, Office of the Chief Counsel, Disclosure Branch
   - Suite 469
-  - 1401 H Street, NW
+  - 'ATTN: FOIA Request TIGTA Chief Counsel 1401 H Street, NW'
   - Washington, DC 20005
   phone: 202-622-4068
   fax: 202-622-3339
