@@ -34,11 +34,12 @@ class ScraperTests(TestCase):
                 <p>Content 1</p>
                 <p />
                 <p> &nbsp;</p>
-                <p>\n\t<p>
-                <p>Content 2 </p>
+                <p>\n\t</p>
+                <p>Content 2
+                <p><a href="example.com">link</a>Content 3
             </div>""")
         lines, ps = scraper.clean_paragraphs(doc)
-        self.assertEqual(lines, ['Content 1', 'Content 2'])
+        self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
 
     def test_phone(self):
         for line in ("+4 123-456-7890", "4-(123) 456 7890", "41234567890"):
@@ -90,3 +91,44 @@ class ScraperTests(TestCase):
         self.assertEqual(results, [("misc", ("Some Key", "Some Value")),
                                    ("notes", "Some notes here"),
                                    ("website", "example.com")])
+
+    def test_parse_department_integration(self):
+        html = BeautifulSoup("""<div><blockquote>
+            <p><strong>FOIA Contact:</strong> send to:</p>
+            <p>Jane Smith</p>
+            <p>Awesome Person</p>
+            <p></p>
+            <p>A Federal Agency</p>
+            <p>Washington, DC 20505</p>
+            <p>(555) 111-2222 (Telephone)</p>
+            <p>(555) 222-3333 (Fax)</p>
+            <p><a href="mailto:foia@example.gov;other@example.com">
+                foia@example.gov</a> (Request via Email)</p>
+            <hr />
+            <p><strong>FOIA Requester Service Center:</strong>
+                Phone: (555) 333-4444
+            <p><strong>FOIA Public Liaison:</strong>
+                Mark Someone, (555) 444-5555
+            <p><strong>Program Manager:</strong>
+                Someone Else, Phone: (555) 555-6666
+            <p><strong>Website: </strong>
+                <a href="http://www.foia.example.gov/">
+                    http://www.foia.example.gov/</a>
+            </p></blockquote></div>""")
+        result = scraper.parse_department(html, "Agency X")
+        self.assertEqual(result['name'], "Agency X")
+        self.assertEqual(result['address'],
+                         ["Jane Smith", "Awesome Person", "A Federal Agency",
+                          "Washington, DC 20505"])
+        self.assertEqual(result['phone'], "555-111-2222")
+        self.assertEqual(result['fax'], "555-222-3333")
+        self.assertEqual(result['emails'],
+                         ["foia@example.gov", "other@example.com"])
+        self.assertEqual(result['service_center'], "Phone: (555) 333-4444")
+        self.assertEqual(result['public_liaison'],
+                         "Mark Someone, (555) 444-5555")
+        self.assertEqual(result['misc']['Program Manager'],
+                         "Someone Else, Phone: (555) 555-6666")
+        self.assertEqual(result['website'], "http://www.foia.example.gov/")
+        print(result)
+        self.assertFalse(True)

@@ -16,12 +16,15 @@ def agency_description(doc):
 
 def clean_paragraphs(doc):
     """Find all paragraphs with content. Return paragraph els + content
-    strings"""
+    strings. Beautiful Soup doesn't handle unclosed tags very graciously, so
+    account for paragraphs within paragraphs."""
     lines, ps = [], []
     for p in doc("p"):
-        if p.string and p.string.strip():
-            lines.append(p.string.strip())
-            ps.append(p)
+        for child in p.contents:
+            # child is a text element or a link
+            if child.name in (None, 'a') and child.string.strip():
+                lines.append(child.string.strip())
+                ps.append(p)
     return lines, ps
 
 
@@ -129,6 +132,7 @@ def parse_department(elem, name):
     lines, ps = lines[1:], ps[1:]
 
     address, lines = split_address_from(lines)
+    data['address'] = address
     ps = ps[-len(lines):]   # Also throw away associated paragraphs
     for line in lines:
         lower = line.lower()
@@ -146,6 +150,9 @@ def parse_department(elem, name):
             if 'misc' not in data:
                 data['misc'] = {}
             data['misc'][misc_key] = misc_value
+        else:
+            data[key] = value
+    return data
 """
   # first, get address - starts with line 2, then goes until we find a
     if fax == "(256) 544-007 (Fax)"
