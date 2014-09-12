@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.4"
+install:
+  - cd contacts
+  - pip install -r requirements.txt --use-mirrors
+  - cd ..
+script:
+  - cd contacts
+  - nosetests
