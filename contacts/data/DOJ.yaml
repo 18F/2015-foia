@@ -118,7 +118,7 @@ departments:
 - name: Criminal Division
   address:
   - Kenneth Courter
-  - Acting Chief, FOIA/PA Unit
+  - Chief, FOIA/PA Unit
   - Suite 1127
   - Keeney Building, NW
   - Washington, DC 20530-0001
@@ -146,7 +146,7 @@ departments:
   address:
   - Sarah Lu
   - FOIA Coordinator, Law and Policy Section
-  - 950 Pennsylvania Ave NW
+  - 950 Pennsylvania Avenue, NW
   - Washington, DC 20530-0001
   phone: 202-514-0424
   fax: 202-514-4231
@@ -198,8 +198,8 @@ departments:
   website: http://www.justice.gov/usao/resources/
 - name: Executive Office for United States Trustees
   address:
-  - Larry Wahlquist
-  - FOIA/Privacy Counsel, Office of the General Counsel
+  - Mary Snyder Barry
+  - FOIA Counsel, Office of the General Counsel
   - Suite 6150
   - 441 G Street, NW
   - Washington, DC 20530
@@ -208,7 +208,7 @@ departments:
   emails:
   - USTPFOIA.Requests@usdoj.gov
   service_center: 'Phone: (202) 307-1399'
-  public_liaison: 'Larry Wahlquist, Phone: (202) 307-1399'
+  public_liaison: 'Mary Snyder Barry, Phone: (202) 307-1399'
   website: http://www.justice.gov/ust/eo/foia/index.htm
 - name: Federal Bureau of Investigation
   address:
@@ -227,14 +227,14 @@ departments:
   address:
   - Wanda M. Hunt
   - Chief, FOIA/PA Section
-  - Room 841, HOLC Building
+  - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
   phone: 202-514-6655
   emails:
   - ogc_efoia@bop.gov
   service_center: 'Phone: (202) 616-7750'
-  public_liaison: 'Wilson Moorer, Phone: (202) 616-7750'
+  public_liaison: 'Wilson Moorer, Phone: (202) 514-6655'
   website: http://www.bop.gov/foia/index.jsp
   request_form: http://www.bop.gov/foia/submit.jsp
 - name: Foreign Claims Settlement Commission
@@ -249,7 +249,7 @@ departments:
   emails:
   - info.fcsc@usdoj.gov
   service_center: 'Phone: (202) 616-6975'
-  public_liaison: 'Judith Lock, Phone: (202) 616-6975'
+  public_liaison: 'Jeremy LaFrancois, Phone: (202) 616-6975'
   website: http://www.justice.gov/fcsc/foia.htm
 - name: INTERPOL-United States National Central Bureau
   address:
@@ -287,11 +287,11 @@ departments:
   - Room 10702
   - 600 E Street, NW
   - Washington, DC 20530-0001
-  phone: 202-307-0754
+  phone: 202-233-0754
   emails:
   - nsdfoia@usdoj.gov
-  service_center: 'Phone: (202) 307-0754'
-  public_liaison: 'Patricia Matthews, Phone: (202) 307-3525'
+  service_center: 'Phone: (202) 233-0754'
+  public_liaison: 'Patricia Matthews, Phone: (202) 233-0756'
   website: http://www.justice.gov/nsd/foia/foia.htm
 - name: Office of Community Oriented Policing Services
   address:
@@ -346,7 +346,7 @@ departments:
   emails:
   - FOIAOJP@usdoj.gov
   service_center: 'Phone: (202) 307-6235'
-  public_liaison: 'George Pruden, Phone: (202) 616-3627'
+  public_liaison: 'George Pruden, Phone: (202) 616-3267'
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - name: Office of Legal Counsel
   address:
