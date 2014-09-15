@@ -1,6 +1,10 @@
 from itertools import takewhile
 import os
+from random import randint
 import re
+import sys
+from urllib.parse import urlencode
+from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 import yaml
@@ -216,10 +220,12 @@ def fix_known_typos(text):
 def save_agency(abb):
     """For a given agency, download (if not already present) their HTML,
     process it, and save the resulting YAML"""
+    if not os.path.isdir("html"):
+        os.mkdir("html")
     html_path = "html/%s.html" % abb
     if not os.path.isfile(html_path):
         body = ""
-        # body = download_agency(abb)
+        body = download_agency(abb)
         if body:
             with open(html_path, 'w') as f:
                 f.write(body)
@@ -234,6 +240,8 @@ def save_agency(abb):
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
+    if not os.path.isdir("data"):
+        os.mkdir("data")
     if data:
         with open("data/%s.yaml" % abb, 'w') as f:
             f.write(yaml.dump(data, default_flow_style=False,
@@ -247,31 +255,24 @@ def save_agencies():
     """Save all agencies"""
     for agency in AGENCIES:
         save_agency(agency)
-"""
-def agency_url(abb)
-  # cache bust, the site does this too
-  random = rand 50
-  "http://www.foia.gov/foia/FoiaMakeRequest?agency=#{CGI.escape abb}&Random=#{random}"
-end
-
-def download_agency(abb)
-  url = agency_url abb
-  response = Curl.get url
-  response.body
-end
 
 
-def save_agencies
-  AGENCIES.each {|abb| save_agency abb}
-end
+def agency_url(abb):
+    """Construct download url, add cache busting -- the site does this too"""
+    params = {"agency": abb, "Random": randint(1, 1000)}
+    return "http://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
 
-# `./agencies.rb` does everything.
-# `./agencies.rb AGENCY` does just one agency.
-if __FILE__ == $0
-  if ARGV[0] and (ARGV[0].strip != "")
-    save_agency ARGV[0]
-  else
-    save_agencies
-  end
-end
-"""
+
+def download_agency(abb):
+    """Agency HTML files"""
+    url = agency_url(abb)
+    return urlopen(url).read().decode("utf-8")
+
+
+# `python agencies.py` does everything.
+# `python agencies.py AGENCY` does just one agency.
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1].strip():
+        save_agency(sys.argv[1])
+    else:
+        save_agencies()

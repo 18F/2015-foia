@@ -164,3 +164,7 @@ class ScraperTests(TestCase):
         self.assertEqual(hq_call[0][1], "Headquarters")
         self.assertEqual(chicago_call[0][0]['id'], "2")
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
+
+    def test_agency_url(self):
+        self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
+        self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
