@@ -1,4 +1,6 @@
 beautifulsoup4
+pyyaml
 
-nose
 flake8
+mock
+nose

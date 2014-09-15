@@ -1,13 +1,14 @@
 from unittest import TestCase
 
 from bs4 import BeautifulSoup
+from mock import patch
 
 import scraper
 
 
 class ScraperTests(TestCase):
-    def setUp(self):
-        self.html = """
+    def test_agency_description(self):
+        html = """
             <h1>An Agency</h1>
             <h2>I want to make a FOIA request to:
                 <select>
@@ -19,13 +20,13 @@ class ScraperTests(TestCase):
             <div id='0'>Default</div>
             <div id='1'>Description of office 1</div>
             <div id='2'>Description of office 2</div>
-            <h2>About</h2>Line 1<br>Line 2<br><br>Last Line
+            <h2>About</h2>Line 1<br>Line 2<br><br>
+            Line 3<br />
+            Last Line
         """
-
-    def test_agency_description(self):
-        doc = BeautifulSoup(self.html)
+        doc = BeautifulSoup(html)
         description = scraper.agency_description(doc)
-        self.assertEqual(description, "Line 1\nLine 2\nLast Line")
+        self.assertEqual(description, "Line 1\nLine 2\nLine 3\nLast Line")
 
     def test_clean_paragraphs(self):
         doc = BeautifulSoup("""
@@ -36,7 +37,7 @@ class ScraperTests(TestCase):
                 <p> &nbsp;</p>
                 <p>\n\t</p>
                 <p>Content 2
-                <p><a href="example.com">link</a>Content 3
+                <p><img />Content 3
             </div>""")
         lines, ps = scraper.clean_paragraphs(doc)
         self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
@@ -83,14 +84,15 @@ class ScraperTests(TestCase):
         ps = [
             "<p>Intro <strong>Some Key:</strong> Some Value</p>",
             "<p><strong>Notes</strong> Some notes here</p>",
-            "<p><strong>Website:</strong> is <a href='example.com'>here</a>"
-            + "</p>",
+            "<p><strong>Website:</strong><a href='example.com'>here</a></p>",
+            "<p><strong>Request Form: </strong><a href=''></a></p>",
             "<p><strong>FOIA Contact</strong> is John</p>"]
         ps = [BeautifulSoup(p) for p in ps]
         results = list(scraper.find_bold_fields(ps))
         self.assertEqual(results, [("misc", ("Some Key", "Some Value")),
                                    ("notes", "Some notes here"),
-                                   ("website", "example.com")])
+                                   ("website", "example.com"),
+                                   ("request_form", "")])
 
     def test_parse_department_integration(self):
         html = BeautifulSoup("""<div><blockquote>
@@ -130,5 +132,35 @@ class ScraperTests(TestCase):
         self.assertEqual(result['misc']['Program Manager'],
                          "Someone Else, Phone: (555) 555-6666")
         self.assertEqual(result['website'], "http://www.foia.example.gov/")
-        print(result)
-        self.assertFalse(True)
+
+    @patch('scraper.parse_department')
+    def test_parse_agency(self, parse_department):
+        html = """<div><div><a><img />Print Selected Office</a></div></div>
+                  <h1><a></a>An Agency</h1>
+                  <div><img />
+                    <p>Chief FOIA Officer: Some One, Officer</p>
+                    <p><a><img />What do these FOIA terms mean?</a></p>
+                  </div>
+                  <h2><label for="ComponentsList">I want to:</label></h2>
+                  <select id="ComponentsList">
+                    <option value="0">Select an Office</option>
+                    <option value="1">Headquarters</option>
+                    <option value="2">Chicago Branch</option>
+                  </select>
+                  <div id="0">Div Zero</div>
+                  <div id="1">Div One</div>
+                  <div id="2">Div Two</div>
+                  <p>&nbsp;</p>
+                  <div class="lineshadow"></div>
+                  <h2>About the this agency</h2>Some Description
+                  <p align="right"><a href="#top">Return to Top</a></p>"""
+        result = scraper.parse_agency("AAA", BeautifulSoup(html))
+        self.assertEqual(result['abbreviation'], "AAA")
+        self.assertEqual(result['name'], "An Agency")
+        self.assertEqual(result['description'], 'Some Description')
+        self.assertEqual(2, len(result['departments']))
+        hq_call, chicago_call = parse_department.call_args_list
+        self.assertEqual(hq_call[0][0]['id'], "1")
+        self.assertEqual(hq_call[0][1], "Headquarters")
+        self.assertEqual(chicago_call[0][0]['id'], "2")
+        self.assertEqual(chicago_call[0][1], "Chicago Branch")
