@@ -3,6 +3,7 @@ from unittest import TestCase
 from bs4 import BeautifulSoup
 from mock import patch
 
+import layer_with_csv as layer
 import scraper
 
 
@@ -181,3 +182,51 @@ class ScraperTests(TestCase):
         """Verify that agency abbreviations are getting converted into a URL"""
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
+
+
+class LayerTests(TestCase):
+    def test_address_lines(self):
+        """Add lines for room number, street addy is present. Only add
+        city/state/zip if all three are present."""
+        row = {"Room Number": "", "Street Address": "", "City": "",
+               "State": "", "Zip Code": ""}
+        row["City"] = "Boston"
+        self.assertEqual([], layer.address_lines(row))
+        row["Zip Code"] = 90210
+        self.assertEqual([], layer.address_lines(row))
+        row["Street Address"] = "123 Maywood Dr"
+        self.assertEqual(["123 Maywood Dr"], layer.address_lines(row))
+        row["Room Number"] = "Apt B"
+        self.assertEqual(["Apt B", "123 Maywood Dr"],
+                         layer.address_lines(row))
+        row["State"] = "XY"
+        self.assertEqual(["Apt B", "123 Maywood Dr", "Boston, XY 90210"],
+                         layer.address_lines(row))
+
+    def test_contact_string(self):
+        """Format name and phone information; check each combination"""
+        row = {"Name": "", "Telephone": ""}
+        self.assertEqual("", layer.contact_string(row))
+        row["Name"] = "Bob Bobberson"
+        self.assertEqual("Bob Bobberson", layer.contact_string(row))
+        row["Telephone"] = "(111) 222-3333"
+        self.assertEqual("Bob Bobberson, Phone: (111) 222-3333",
+                         layer.contact_string(row))
+        row["Name"] = ""
+        self.assertEqual("Phone: (111) 222-3333", layer.contact_string(row))
+
+    def test_patch_dict(self):
+        """Verify fields are added, nothing gets overwritten, and misc fields
+        are merged"""
+        old_dict = {"a": 1, "b": 2, "misc": {"z": 100}}
+        new_dict = {"b": 4, "c": 3, "misc": {"z": 999, "y": 99}}
+        result = layer.patch_dict(old_dict, new_dict)
+        self.assertEqual(result, {
+            "a": 1, "b": 2, "c": 3, "misc": {"z": 100, "y": 99}})
+
+    def test_patch_dict_noop(self):
+        """If there are no new field, None is returned"""
+        old_dict = {"a": 1, "b": 2}
+        new_dict = {"b": 100}
+        self.assertEqual(None, layer.patch_dict(old_dict, old_dict))
+        self.assertEqual(None, layer.patch_dict(old_dict, new_dict))
