@@ -230,3 +230,94 @@ class LayerTests(TestCase):
         new_dict = {"b": 100}
         self.assertEqual(None, layer.patch_dict(old_dict, old_dict))
         self.assertEqual(None, layer.patch_dict(old_dict, new_dict))
+
+    def empty_row(self):
+        return {"Agency": "", "Department": "", "Name": "", "Title": "",
+                "Room Number": "", "Street Address": "", "City": "",
+                "State": "", "Zip Code": "", "Telephone": "", "Fax": "",
+                "Email Address": "", "Website": "", "Online Request Form": "",
+                "Notes": ""}
+
+    def test_add_contact_info_agency(self):
+        """Agency & Office should be added to `contact` dictionary if not
+        present"""
+        row = self.empty_row()
+        row["Department"] = "ACRONYM"
+        row["Agency"] = "Sewage Treatment"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        #   Adding again has no affect
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        #   Adding another agency
+        row["Agency"] = "Road Maintenance"
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+
+    def test_add_contact_info_website(self):
+        """Website field gets cleaned up -- verify it's not added unless it's
+        in the right form"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("website" in contact_dict["A"]["B"])
+
+        row["Website"] = "http://"
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("website" in contact_dict["A"]["B"])
+
+        row["Website"] = "http://example.gov"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual("http://example.gov",
+                         contact_dict["A"]["B"]["website"])
+
+    def test_add_contact_info_emails(self):
+        """Each row that contains an email address should get added to the
+        list"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"], [])
+
+        row["Email Address"] = "a@b.com"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"], ["a@b.com"])
+
+        row["Email Address"] = "c@d.gov"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"],
+                         ["a@b.com", "c@d.gov"])
+
+    def test_add_contact_info_people(self):
+        """Verify that the title of a row indicates which field it should be
+        placed in"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        row["Name"] = "Ada"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("service_center" in contact_dict["A"]["B"])
+        self.assertEqual(contact_dict["A"]["B"]["misc"], {})
+
+        row["Title"] = "Awesome Person"
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("service_center" in contact_dict["A"]["B"])
+        self.assertEqual(contact_dict["A"]["B"]["misc"],
+                         {"Awesome Person": "Ada"})
+
+        row["Name"] = "Bob"
+        row["Title"] = "FOIA Service Center Technician"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["service_center"], "Bob")
+        self.assertEqual(contact_dict["A"]["B"]["misc"],
+                         {"Awesome Person": "Ada"})

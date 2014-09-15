@@ -64,7 +64,7 @@ def add_contact_info(contacts, row):
             field_name = title_text.replace(' ', '_')
             office_struct[field_name] = contact_string(row)
             processed = True
-    if not processed:
+    if not processed and row['Title']:
         office_struct['misc'][row['Title']] = contact_string(row)
 
 
