@@ -1,4 +1,5 @@
 from itertools import takewhile
+import logging
 import os
 from random import randint
 import re
@@ -222,19 +223,19 @@ def save_agency(abb):
     process it, and save the resulting YAML"""
     if not os.path.isdir("html"):
         os.mkdir("html")
-    html_path = "html/%s.html" % abb
+    html_path = "html" + os.sep + "%s.html" % abb
     if not os.path.isfile(html_path):
         body = ""
         body = download_agency(abb)
         if body:
             with open(html_path, 'w') as f:
                 f.write(body)
-            print("[%s] Downloaded." % abb)
+            logging.info("[%s] Downloaded.", abb)
         else:
-            print("[%s] DID NOT DOWNLOAD, NO." % abb)
+            logging.warning("[%s] DID NOT DOWNLOAD, NO.", abb)
             return
     else:
-        print("[%s] Already downloaded." % abb)
+        logging.info("[%s] Already downloaded.", abb)
 
     with open(html_path, 'r') as f:
         text = f.read()
@@ -243,12 +244,12 @@ def save_agency(abb):
     if not os.path.isdir("data"):
         os.mkdir("data")
     if data:
-        with open("data/%s.yaml" % abb, 'w') as f:
+        with open("data" + os.sep + "%s.yaml" % abb, 'w') as f:
             f.write(yaml.dump(data, default_flow_style=False,
                     allow_unicode=True))
-            print("[%s] Parsed." % abb)
+            logging.info("[%s] Parsed.", abb)
     else:
-        print("[%s] DID NOT PARSE, NO." % abb)
+        logging.warning("[%s] DID NOT PARSE, NO.", abb)
 
 
 def save_agencies():
@@ -269,10 +270,14 @@ def download_agency(abb):
     return urlopen(url).read().decode("utf-8")
 
 
-# `python agencies.py` does everything.
-# `python agencies.py AGENCY` does just one agency.
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+
+    agency_name = None
     if len(sys.argv) > 1 and sys.argv[1].strip():
-        save_agency(sys.argv[1])
+        agency_name = sys.argv[1].strip()
+
+    if agency_name:
+        save_agency(agency_name)
     else:
         save_agencies()

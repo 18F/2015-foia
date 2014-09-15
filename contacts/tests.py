@@ -8,18 +8,12 @@ import scraper
 
 class ScraperTests(TestCase):
     def test_agency_description(self):
+        """Description should be pulled out and BRs should be converted"""
         html = """
             <h1>An Agency</h1>
-            <h2>I want to make a FOIA request to:
-                <select>
-                    <option value='0'>Select an Office</option>
-                    <option value='1'>First Office</option>
-                    <option value='2'>Second Office</option>
-                </select>
-            </h2>
+            <h2>Blah blah</h2>
             <div id='0'>Default</div>
             <div id='1'>Description of office 1</div>
-            <div id='2'>Description of office 2</div>
             <h2>About</h2>Line 1<br>Line 2<br><br>
             Line 3<br />
             Last Line
@@ -29,6 +23,8 @@ class ScraperTests(TestCase):
         self.assertEqual(description, "Line 1\nLine 2\nLine 3\nLast Line")
 
     def test_clean_paragraphs(self):
+        """Paragraphs should be pulled out and converted to text, disregarding
+        empty/whitespace paragraphs"""
         doc = BeautifulSoup("""
             <div>
                 <h1>Title</h1>
@@ -43,6 +39,8 @@ class ScraperTests(TestCase):
         self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
 
     def test_phone(self):
+        """Test various phone formats and make sure bad formats produce
+        errors"""
         for line in ("+4 123-456-7890", "4-(123) 456 7890", "41234567890"):
             self.assertEqual("+4 123-456-7890", scraper.phone(line))
         for line in ("  123-456-7890", "(123) 456 7890", "1234567890"):
@@ -51,6 +49,8 @@ class ScraperTests(TestCase):
             self.assertRaises(Exception, scraper.phone, line)
 
     def test_split_address_from(self):
+        """Address should be separated as soon as we encounter "service
+        center", "fax", etc."""
         lines = ["Line 1", "Line 2", "1234567890 serVice CenTer", "Line 3"]
         addy, rest = scraper.split_address_from(lines)
         self.assertEqual(lines[:2], addy)
@@ -62,6 +62,8 @@ class ScraperTests(TestCase):
         self.assertEqual(lines[1:], rest)
 
     def test_find_emails(self):
+        """Verify that email addresses can be pulled out (and split, if
+        appropriate) from paragraphs"""
         lines = ["Line 1", "Some email: ", "Then e-mails:", "Line 4"]
         ps = ["<p>Line 1</p>",
               "<p>Some email: <a href='mailto:a@b.com'>click</a></p>",
@@ -81,6 +83,9 @@ class ScraperTests(TestCase):
         self.assertRaises(Exception, scraper.find_emails, lines, ps)
 
     def test_find_bold_fields(self):
+        """Three types of bold fields, simple key-value pairs (like 'notes'),
+        url values (e.g. website, request form), and 'misc' -- everything
+        else. Account for empty urls"""
         ps = [
             "<p>Intro <strong>Some Key:</strong> Some Value</p>",
             "<p><strong>Notes</strong> Some notes here</p>",
@@ -95,6 +100,9 @@ class ScraperTests(TestCase):
                                    ("request_form", "")])
 
     def test_parse_department_integration(self):
+        """Integration test for the department div. Make sure that, given a
+        blob of html, correct fields are pulled out. Use a mix of properly
+        closed <p>s and not (this mixtures matches the live data)"""
         html = BeautifulSoup("""<div><blockquote>
             <p><strong>FOIA Contact:</strong> send to:</p>
             <p>Jane Smith</p>
@@ -135,6 +143,10 @@ class ScraperTests(TestCase):
 
     @patch('scraper.parse_department')
     def test_parse_agency(self, parse_department):
+        """Verify that the agency-specific fields (abbreviation, name,
+        description) are pulled out, and that we are calling the
+        parse_department function on the appropriate div. Include some messy
+        HTML (e.g. empty link tag in the title, "Return to Top", etc. etc.)"""
         html = """<div><div><a><img />Print Selected Office</a></div></div>
                   <h1><a></a>An Agency</h1>
                   <div><img />
@@ -166,5 +178,6 @@ class ScraperTests(TestCase):
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
 
     def test_agency_url(self):
+        """Verify that agency abbreviations are getting converted into a URL"""
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
