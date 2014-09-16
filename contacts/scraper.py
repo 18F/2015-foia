@@ -10,6 +10,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import yaml
 
+import typos
+
 
 # Transformed from the `agenciesFile` array at
 # http://www.foia.gov/foiareport.js
@@ -213,8 +215,8 @@ def parse_agency(abb, doc):
 
 def fix_known_typos(text):
     """Account for faulty data"""
-    # see http://foia.msfc.nasa.gov/reading.html
-    text = text.replace("(256) 544-007 ", "(256) 544-0007 ")
+    for error, fix in typos.REPLACEMENTS.items():
+        text = text.replace(error, fix)
     return text
 
 
