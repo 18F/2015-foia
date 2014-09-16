@@ -1,12 +1,46 @@
+from itertools import takewhile
+import logging
+import os
+from random import randint
 import re
+import sys
+from urllib.parse import urlencode
+from urllib.request import urlopen
+
+from bs4 import BeautifulSoup
+import yaml
+
+import typos
+
+
+# Transformed from the `agenciesFile` array at
+# http://www.foia.gov/foiareport.js
+# Excludes "ALL" (All agencies, though it's not, really).
+# Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
+# General for Iraq Reconstruction, which no longer accepts FOIA requests.
+AGENCIES = [
+    'USDA', 'DOC', 'DoD', 'ED', 'DOE', 'HHS', 'DHS', 'HUD', 'DOI', 'DOJ',
+    'U.S. DOL', 'State', 'DOT', 'Treasury', 'VA', 'ACUS', 'USAID', 'ABMC',
+    'NRPC', 'AFRH', 'BBG', 'CIA', 'CSB', 'USCCR', 'CPPBSD', 'CFTC', 'CFPB',
+    'U.S. CPSC', 'CNCS', 'CIGIE', 'CSOSA', 'DNFSB', 'EPA', 'EEOC', 'CEQ',
+    'OMB', 'ONDCP', 'OSTP', 'USTR', 'Ex-Im Bank', 'FCA', 'FCSIC', 'FCC',
+    'FDIC', 'FEC', 'FERC', 'FFIEC', 'FHFA', 'FLRA', 'FMC', 'FMCS', 'FMSHRC',
+    'FOMC', 'FRB', 'FRTIB', 'FTC', 'GSA', 'IMLS', 'IAF', 'LSC', 'MSPB', 'MCC',
+    'NASA', 'NARA', 'NCPC', 'NCUA', 'NEA', 'NEH', 'NIGC', 'NLRB', 'NMB',
+    'NSF', 'NTSB', 'USNRC', 'OSHRC', 'OGE', 'ONHIR', 'OPM', 'OSC', 'ODNI',
+    'OPIC', 'PC', 'PBGC', 'PRC', 'RATB', 'US RRB', 'SEC', 'SSS', 'SBA', 'SSA',
+    'SIGAR', 'STB', 'TVA', 'US ADF', 'CO', 'USIBWC', 'USITC', 'USPS', 'USTDA']
 
 
 def agency_description(doc):
     """Account for BRs and such while finding the description."""
     description = ""
-    # All text after the last h2, excluding that h2's text
-    for el in list(doc("h2")[-1].next_elements)[1:]:
-        if not el.name:
+    after_h2 = doc("h2")[-1].next_elements
+    next(after_h2)      # skip the text *within* the h2
+    while_text = takewhile(lambda el: el.name is None or el.name == 'br',
+                           after_h2)    # stop when we a different type
+    for el in while_text:
+        if el.name is None:
             description += el.string.strip()
         # Only want one new line when there are two BRs
         elif el.name == "br" and not description.endswith("\n"):
@@ -16,11 +50,16 @@ def agency_description(doc):
 
 def clean_paragraphs(doc):
     """Find all paragraphs with content. Return paragraph els + content
-    strings"""
+    strings. Beautiful Soup doesn't handle unclosed tags very graciously, so
+    account for paragraphs within paragraphs."""
     lines, ps = [], []
     for p in doc("p"):
-        if p.string and p.string.strip():
-            lines.append(p.string.strip())
+        text = ""
+        for child in p.contents:
+            if child.name != 'p' and child.string and child.string.strip():
+                text += child.string.strip()
+        if text:
+            lines.append(text)
             ps.append(p)
     return lines, ps
 
@@ -100,7 +139,9 @@ def find_bold_fields(ps):
         text = strong.string.replace(":", "").strip() if strong else ""
         lower = text.lower()
         if strong and text != "FOIA Contact":
-            value = strong.next_sibling.string.strip()
+            value = strong.next_sibling.string
+            if value:
+                value = value.strip()
             yielded = False
             for term in simple_search:
                 if term in lower:
@@ -129,6 +170,7 @@ def parse_department(elem, name):
     lines, ps = lines[1:], ps[1:]
 
     address, lines = split_address_from(lines)
+    data['address'] = address
     ps = ps[-len(lines):]   # Also throw away associated paragraphs
     for line in lines:
         lower = line.lower()
@@ -146,9 +188,98 @@ def parse_department(elem, name):
             if 'misc' not in data:
                 data['misc'] = {}
             data['misc'][misc_key] = misc_value
-"""
-  # first, get address - starts with line 2, then goes until we find a
-    if fax == "(256) 544-007 (Fax)"
-      fax = "(256) 544-0007" # fix, see http://foia.msfc.nasa.gov/reading.html
-    end
-"""
+        else:
+            data[key] = value
+    return data
+
+
+def parse_agency(abb, doc):
+    """Make sense of a block of HTML from FOIA.gov"""
+    agency_name = doc.h1.text.strip()
+    description = agency_description(doc)
+
+    # get each dept id and name, parse department from its div. Skip the first
+    # as it is always a 'please select'
+    departments = []
+    for option in doc("option")[1:]:
+        opt_id = option['value']
+        elem = doc(id=opt_id)[0]
+        dept_name = option.string.strip()
+        departments.append(parse_department(elem, dept_name))
+
+    return {"abbreviation": abb,
+            "name": agency_name,
+            "description": description,
+            "departments": departments}
+
+
+def fix_known_typos(text):
+    """Account for faulty data"""
+    for error, fix in typos.REPLACEMENTS.items():
+        text = text.replace(error, fix)
+    return text
+
+
+def save_agency(abb):
+    """For a given agency, download (if not already present) their HTML,
+    process it, and save the resulting YAML"""
+    if not os.path.isdir("html"):
+        os.mkdir("html")
+    html_path = "html" + os.sep + "%s.html" % abb
+    if not os.path.isfile(html_path):
+        body = ""
+        body = download_agency(abb)
+        if body:
+            with open(html_path, 'w') as f:
+                f.write(body)
+            logging.info("[%s] Downloaded.", abb)
+        else:
+            logging.warning("[%s] DID NOT DOWNLOAD, NO.", abb)
+            return
+    else:
+        logging.info("[%s] Already downloaded.", abb)
+
+    with open(html_path, 'r') as f:
+        text = f.read()
+    text = fix_known_typos(text)
+    data = parse_agency(abb, BeautifulSoup(text))
+    if not os.path.isdir("data"):
+        os.mkdir("data")
+    if data:
+        with open("data" + os.sep + "%s.yaml" % abb, 'w') as f:
+            f.write(yaml.dump(data, default_flow_style=False,
+                    allow_unicode=True))
+            logging.info("[%s] Parsed.", abb)
+    else:
+        logging.warning("[%s] DID NOT PARSE, NO.", abb)
+
+
+def save_agencies():
+    """Save all agencies"""
+    for agency in AGENCIES:
+        save_agency(agency)
+
+
+def agency_url(abb):
+    """Construct download url, add cache busting -- the site does this too"""
+    params = {"agency": abb, "Random": randint(1, 1000)}
+    return "http://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
+
+
+def download_agency(abb):
+    """Agency HTML files"""
+    url = agency_url(abb)
+    return urlopen(url).read().decode("utf-8")
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+
+    agency_name = None
+    if len(sys.argv) > 1 and sys.argv[1].strip():
+        agency_name = sys.argv[1].strip()
+
+    if agency_name:
+        save_agency(agency_name)
+    else:
+        save_agencies()
