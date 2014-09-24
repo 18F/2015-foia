@@ -1,3 +1,4 @@
+from copy import deepcopy
 from unittest import TestCase
 
 from bs4 import BeautifulSoup
@@ -177,6 +178,30 @@ class ScraperTests(TestCase):
         self.assertEqual(hq_call[0][1], "Headquarters")
         self.assertEqual(chicago_call[0][0]['id'], "2")
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
+
+    @patch.dict('typos.KEYWORDS', {'AGENCY': ['keyword1', 'kw2']})
+    def test_add_keywords(self):
+        """This should only add keywords to the if the abbreviation is
+        'AGENCY' and should not affect the dict otherwise."""
+        result = scraper.add_keywords('NONAGENCY', {})
+        self.assertEqual({}, result)
+        result = scraper.add_keywords('AGENCY', {})
+        self.assertEqual({'keywords': ['keyword1', 'kw2']}, result)
+
+    @patch.dict('typos.TOP_LEVEL', {'AGENCY': ['HQ']})
+    def test_add_top_level(self):
+        """The 'top_level' flag should be set on configured departments"""
+        agency = {'departments': [{'name': 'HQ'}, {'name': 'Other Q'}]}
+        agency_orig = deepcopy(agency)
+        result = scraper.add_top_level('NONAGENCY', agency)
+        self.assertEqual(agency, agency_orig)   # Non-mutating
+        depts = [d['top_level'] for d in result['departments']]
+        self.assertEqual(depts, [False, False])
+
+        result = scraper.add_top_level('AGENCY', agency)
+        self.assertEqual(agency, agency_orig)   # Non-mutating
+        depts = [d['top_level'] for d in result['departments']]
+        self.assertEqual(depts, [True, False])
 
     def test_agency_url(self):
         """Verify that agency abbreviations are getting converted into a URL"""

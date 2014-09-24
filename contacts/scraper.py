@@ -207,10 +207,12 @@ def parse_agency(abb, doc):
         dept_name = option.string.strip()
         departments.append(parse_department(elem, dept_name))
 
-    return {"abbreviation": abb,
-            "name": agency_name,
-            "description": description,
-            "departments": departments}
+    agency = {"abbreviation": abb,
+              "name": agency_name,
+              "description": description,
+              "departments": departments}
+    agency = add_keywords(abb, agency)
+    return add_top_level(abb, agency)
 
 
 def fix_known_typos(text):
@@ -218,6 +220,25 @@ def fix_known_typos(text):
     for error, fix in typos.REPLACEMENTS.items():
         text = text.replace(error, fix)
     return text
+
+
+def add_keywords(abbr, agency):
+    """Returns a version of 'agency' with keywords inserted (where
+    appropriate). Does not mutate agency"""
+    if abbr in typos.KEYWORDS:
+        agency = dict(agency, keywords=typos.KEYWORDS[abbr])
+    return agency
+
+
+def add_top_level(abbr, agency):
+    """Returns a version of 'agency' such that its departments have been
+    marked with 'top_level' or not. Does not mutate agency"""
+    departments = []
+    for department in agency['departments']:
+        top_level = department['name'] in typos.TOP_LEVEL.get(abbr, [])
+        departments.append(dict(department, top_level=top_level))
+    agency = dict(agency, departments=departments)
+    return agency
 
 
 def save_agency(abb):
