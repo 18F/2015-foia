@@ -1,24 +1,30 @@
----
 abbreviation: NCPC
-name: National Capital Planning Commission
-description: |-
-  NCPC protects and enhances the historic, cultural, and natural resources of the national capital by
-  ·Creating and updating the Comprehensive Plan for the National Capital Region
-  ·Crafting long-range plans and planning policies
-  ·Reviewing a variety of federal and District of Columbia development projects
-  ·Producing the annual Federal Capital Improvements Program (FCIP)
 departments:
-- name: National Capital Planning Commission
-  address:
+- address:
   - Deborah Young
   - FOIA Contact
   - North Lobby, Suite 500
   - 401 9th Street, NW
   - Washington, DC 20004
-  phone: 202-482-7228
-  fax: 202-482-7272
   emails:
   - Deborah.Young@ncpc.gov
-  service_center: 'Marcella Brown, Phone: (202)-482-7227'
+  fax: 202-482-7272
+  misc:
+    FOIA Contact: 'Deborah Young, Phone: (202)-482-7228'
+  name: National Capital Planning Commission
+  phone: 202-482-7228
   public_liaison: 'Deborah Young, Phone: (202)-482-7228'
+  service_center: 'Marcella Brown, Phone: (202)-482-7227'
+  top_level: false
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
+description: 'NCPC protects and enhances the historic, cultural, and natural resources
+  of the national capital by
+
+  ·Creating and updating the Comprehensive Plan for the National Capital Region
+
+  ·Crafting long-range plans and planning policies
+
+  ·Reviewing a variety of federal and District of Columbia development projects
+
+  ·Producing the annual Federal Capital Improvements Program (FCIP)'
+name: National Capital Planning Commission

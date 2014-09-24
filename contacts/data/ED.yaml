@@ -1,25 +1,25 @@
----
 abbreviation: ED
-name: Department of Education
-description: The mission of the Department of Education is to promote student achievement
-  and preparation for global competitiveness by fostering educational excellence and
-  ensuring equal access.
 departments:
-- name: Department of Education
-  address:
+- address:
   - Gregory Smith
   - Director, FOIA Service Center, Office of Management
   - LBJ 2E305
   - 400 Maryland Avenue, SW
   - Washington, DC 20202-4536
-  phone: 202-401-8365
-  fax: 202-401-0920
   emails:
   - EDFOIAManager@ed.gov
-  service_center: 'Phone: (202) 401-8365'
-  public_liaison: 'Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert
-    Wehausen, or Christie Swafford, Phone: (202) 401-8365'
-  website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
-  request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
+  fax: 202-401-0920
+  name: Department of Education
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
+  phone: 202-401-8365
+  public_liaison: 'Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert
+    Wehausen, or Christie Swafford, Phone: (202) 401-8365'
+  request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
+  service_center: 'Phone: (202) 401-8365'
+  top_level: false
+  website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
+description: The mission of the Department of Education is to promote student achievement
+  and preparation for global competitiveness by fostering educational excellence and
+  ensuring equal access.
+name: Department of Education

@@ -2,27 +2,25 @@
 
 Downloading agency contact information for FOIA, from FOIA.gov.
 
-`contacts.rb` hits the Ajax endpoints that the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) uses to load contact info, and downloads their HTML to the `html/` directory (ignored in git).
+This is a two step process, first hitting the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) and then filling in missing
+data using an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls).
 
-It then scrapes/parses the contact details out of them, and makes YAML files in the `data/` directory (versioned).
-
-## Why do this?
-
-The [FOIA.gov developer page](http://www.foia.gov/developer.html) has an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls) of contact info, but it is very incomplete.
-
-This data is meant to be a starting point -- something that can be easily corrected, expanded, and repurposed.
+It scrapes/parses the contact details out of these sources, and makes YAML files in the `data/` directory (versioned).
 
 ## Using
 
-Tested using Ruby `2.1.2`. Install dependencies with:
+First, install all of the Python dependencies (we assume you are familiar with
+Python environments, pip and the like). Then run the two relevant scripts:
 
 ```bash
-gem install curb nokogiri htmlentities
+pip install -r requirements.txt
+python scraper.py
+python layer_with_csv.py
 ```
 
-Then run `contacts.rb` to download and parse everything.
-
-If an agency's HTML has already been downloaded, it will not be downloaded again. To re-download, delete the `html/` directory and run again.
+If an agency's HTML has already been downloaded, it will not be downloaded
+again. To re-download, delete the `html/` directory and run again. Similarly,
+the XLS file is stored locally in the `xls/` directory.
 
 ## Data
 
@@ -63,14 +61,9 @@ departments:
 
 ### Running the tests
 
-Install RSpec:
+Make sure you've installed the scraper's requirements, then run the tests
+with:
 
 ```bash
-gem install rspec
-```
-
-Then run the test with:
-
-```bash
-spec contacts_spec.rb
+nosetests
 ```

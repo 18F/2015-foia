@@ -1,21 +1,22 @@
----
 abbreviation: DNFSB
-name: Defense Nuclear Facilities Safety Board
-description: Congress created the Defense Nuclear Facilities Safety Board in 1988
-  as an independent oversight organization within the Executive Branch charged with
-  providing advice and recommendations to the Secretary of Energy "to ensure adequate
-  protection of public health and safety" at DOE's defense nuclear facilities.
 departments:
-- name: Defense Nuclear Facilities Safety Board
-  address:
+- address:
   - Andrew L. Thibadeau
   - Information/FOIA Officer
   - Suite 700
   - 625 Indiana Avenue, NW
   - Washington, DC 20004
-  phone: 202-694-7088
   emails:
   - andrewt@dnfsb.gov
-  service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  foia_officer: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  name: Defense Nuclear Facilities Safety Board
+  phone: 202-694-7088
   public_liaison: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  top_level: false
   website: http://www.dnfsb.gov/foia-reading-room
+description: Congress created the Defense Nuclear Facilities Safety Board in 1988
+  as an independent oversight organization within the Executive Branch charged with
+  providing advice and recommendations to the Secretary of Energy "to ensure adequate
+  protection of public health and safety" at DOE's defense nuclear facilities.
+name: Defense Nuclear Facilities Safety Board

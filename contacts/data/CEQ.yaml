@@ -1,20 +1,20 @@
----
 abbreviation: CEQ
-name: Council on Environmental Quality
-description: The Council on Environmental Quality (CEQ) coordinates Federal environmental
-  efforts and works closely with agencies and other White House offices in the development
-  of environmental policies and initiatives.
 departments:
-- name: Council on Environmental Quality
-  address:
+- address:
   - Brooke Dorner
   - Chief FOIA Officer/Attorney-Advisor
   - 722 Jackson Place, NW
   - Washington, DC 20503
-  phone: 202-456-6224
-  fax: 202-456-0753
   emails:
   - efoia@ceq.eop.gov
-  service_center: 'Phone: (202)456-6224'
+  fax: 202-456-0753
+  name: Council on Environmental Quality
+  phone: 202-456-6224
   public_liaison: 'Brooke Dorner, Phone: (202)456-6224'
+  service_center: 'Phone: (202)456-6224'
+  top_level: false
   website: http://www.whitehouse.gov/administration/eop/ceq/foia/
+description: The Council on Environmental Quality (CEQ) coordinates Federal environmental
+  efforts and works closely with agencies and other White House offices in the development
+  of environmental policies and initiatives.
+name: Council on Environmental Quality

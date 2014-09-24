@@ -1,20 +1,22 @@
----
 abbreviation: BBG
-name: Broadcasting Board of Governors
-description: The Broadcasting Board of Governor's mission is to promote freedom and
-  democracy and to enhance understanding through multimedia communication of accurate,
-  objective, and balanced news, information, and other programming about America and
-  the world to audiences overseas.
 departments:
-- name: Broadcasting Board of Governors
-  address:
+- address:
   - Andrew T. Krog
   - FOIA/Privacy Act Officer, BBG/FOIA/PA Unit
   - Room 3349
   - 330 Independence Avenue, SW
   - Washington, DC 20237
-  phone: 202-203-4550
   fax: 202-203-4585
-  service_center: 'Phone: (202) 203-4550'
+  misc:
+    FOIA/Privacy Act Officer, BBG/FOIA/PA Unit: 'Andrew T. Krog, Phone: (202) 203-4550'
+  name: Broadcasting Board of Governors
+  phone: 202-203-4550
   public_liaison: 'Andrew T. Krog, Phone: (202) 203-4550'
+  service_center: 'Phone: (202) 203-4550'
+  top_level: false
   website: http://www.bbg.gov/reports/foia/
+description: The Broadcasting Board of Governor's mission is to promote freedom and
+  democracy and to enhance understanding through multimedia communication of accurate,
+  objective, and balanced news, information, and other programming about America and
+  the world to audiences overseas.
+name: Broadcasting Board of Governors

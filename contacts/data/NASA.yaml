@@ -1,202 +1,229 @@
----
 abbreviation: NASA
-name: National Aeronautics and Space Administration
-description: NASA's mission is to pioneer the future in space exploration, scientific
-  discovery and aeronautics research
 departments:
-- name: Headquarters
-  address:
+- address:
   - Josephine Sibley
   - HQFOIA Officer
   - Room 5Q 16
   - 300 E Street, SW
   - S.W. Washington, DC 20546
-  phone: 202-358-2462
-  fax: 202-358-4332
   emails:
   - foia@hq.nasa.gov
-  service_center: 'Phone: (202) 358-2562'
+  fax: 202-358-4332
+  foia_officer: 'Josephine Sibley, Phone: (202) 358-2462'
+  name: Headquarters
+  phone: 202-358-2462
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
-  website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
-- name: Ames Research Center
-  address:
+  service_center: 'Phone: (202) 358-2562'
+  top_level: false
+  website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
+- address:
   - Lubna Shirazi
   - ARC FOIA Officer
   - MS 943-4
   - Moffett Field, CA 94035-1000
-  phone: 650-604-1138
-  fax: 650-604-0688
   emails:
   - foia@arc.nasa.gov
-  service_center: 'Phone: (650) 604-3273'
+  fax: 650-604-0688
+  foia_officer: 'Lubna Shirazi, Phone: (650) 604-1138'
+  name: Ames Research Center
+  phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
+  service_center: 'Phone: (650) 604-3273'
+  top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
-- name: Dryden Flight Research Center
-  address:
+- address:
   - Kim Lewis-Bias
   - DFRC FOIA Officer
   - Building 4839
   - 4800 Lily Drive
   - Edwards, CA 93523
-  phone: 661-276-2704
-  fax: 661-276-3566
   emails:
   - dfrc-foia@nasa.gov
-  service_center: 'Phone: (661) 276-2704'
+  fax: 661-276-3566
+  foia_officer: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  name: Dryden Flight Research Center
+  phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  service_center: 'Phone: (661) 276-2704'
+  top_level: false
   website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
-- name: Glenn Research Center
-  address:
+- address:
   - Angela Pierce
   - GRC FOIA Officer
   - Mail Code 21-14
   - Cleveland, OH 44135
-  phone: 216-443-2813
-  fax: 216-433-5489
   emails:
   - foia@grc.nasa.gov
-  service_center: 'Phone: (216) 443-2813'
+  fax: 216-433-5489
+  foia_officer: 'Angela Pierce, Phone: (216) 443-2813'
+  name: Glenn Research Center
+  phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
+  service_center: 'Phone: (216) 443-2813'
+  top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
-- name: Goddard Space Flight Center
-  address:
+- address:
   - Joan Belt
   - GSFC FOIA Officer
   - Code 130
   - Greenbelt, MD 20771
-  phone: 301-286-4271
-  fax: 301-286-1712
   emails:
   - foia@gsfc.nasa.gov
-  service_center: 'Phone: (301) 286-4271'
+  fax: 301-286-1712
+  foia_officer: 'Joan Belt, Phone: (301) 286-4271'
+  name: Goddard Space Flight Center
+  phone: 301-286-4271
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
-  website: http://www.nasa.gov/centers/goddard/business/foia/index.html
   request_form: http://www.nasa.gov/centers/goddard/business/foia/e-foia.html#efoia
-- name: Jet Propulsion Laboratory
-  address:
+  service_center: 'Phone: (301) 286-4271'
+  top_level: false
+  website: http://www.nasa.gov/centers/goddard/business/foia/index.html
+- address:
   - Dennis Mahon
   - JPL FOIA Officer
   - 'M/S: 180-200K'
   - 4800 Oak Grove
   - Pasadena, CA 91109-8001
-  phone: 818-393-6779
-  fax: 818-393-3160
   emails:
   - jpl-foia@nasa.gov
-  service_center: 'Phone: (818) 393-6779'
+  fax: 818-393-3160
+  foia_officer: 'Dennis Mahon, Phone: (818) 393-6779'
+  name: Jet Propulsion Laboratory
+  phone: 818-393-6779
   public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
-  website: http://nmo.nasa.gov/cfm_nasa/foia.cfm
   request_form: https://nmo.nasa.gov/foia/foia_requester.cfm?CFID=231001&CFTOKEN=98756504
-- name: Johnson Space Center
-  address:
+  service_center: 'Phone: (818) 393-6779'
+  top_level: true
+  website: http://nmo.nasa.gov/cfm_nasa/foia.cfm
+- address:
   - Jessica Cordero
   - JSC FOIA Officer
   - 'Mail Code: AP2'
   - Houston, TX 77058
-  phone: 281-483-8252
-  fax: 281-483-4876
   emails:
   - jsc-foia@mail.nasa.gov
-  service_center: 'Phone: (281) 483-8252'
+  fax: 281-483-4876
+  foia_officer: 'Jessica Cordero, Phone: (281) 483-8252'
+  name: Johnson Space Center
+  phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
+  service_center: 'Phone: (281) 483-8252'
+  top_level: false
   website: http://www.nasa.gov/centers/johnson/news/foia.html
-- name: Kennedy Space Center
-  address:
+- address:
   - Penny Myers
   - KSC FOIA Officer
   - XA-A1
   - Kennedy Space Center, FL 32889
-  phone: 321-867-9280
-  fax: 321-867-8007
   emails:
   - foia@ksc.nasa.gov
-  service_center: 'Phone: (321) 867-9280'
+  fax: 321-867-8007
+  foia_officer: 'Penny Myers, Phone: (321) 867-9280'
+  name: Kennedy Space Center
+  phone: 321-867-9280
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
-  website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
   request_form: http://www-foiacf.ksc.nasa.gov/requester.cfm
-- name: Langley Research Center
-  address:
+  service_center: 'Phone: (321) 867-9280'
+  top_level: false
+  website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
+- address:
   - Carissa Wheeler
   - LaRC FOIA Officer
   - Mail Stop 218
   - 17 West Taylor Street
   - Hampton, VA 23681-2199
-  phone: 757-864-4274
-  fax: 757-864-6333
   emails:
   - LARC-DL-foia@mail.nasa.gov
-  service_center: 'Phone: (757) 864-4274'
+  fax: 757-864-6333
+  foia_officer: 'Carissa Wheeler, Phone: (757) 864-4274'
+  name: Langley Research Center
+  phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
+  service_center: 'Phone: (757) 864-4274'
+  top_level: false
   website: http://foia.larc.nasa.gov/
-- name: Marshall Space Flight Center
-  address:
+- address:
   - Judi Hollingsworth
   - MSFC FOIA Officer
   - Mail Stop CD50
   - Marshall Space Flight Center
   - Huntsville, AL 35812
-  phone: 256-544-1837
-  fax: 256-544-0007
   emails:
   - FOIA@msfc.nasa.gov
-  service_center: 'Phone: (256) 544-1837'
+  fax: 256-544-0007
+  foia_officer: 'Judi Hollingsworth, Phone: (256) 544-1837'
+  name: Marshall Space Flight Center
+  phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
-  website: http://foia.msfc.nasa.gov/
   request_form: http://foia.msfc.nasa.gov/form.html
-- name: Office of the Inspector General
-  address:
+  service_center: 'Phone: (256) 544-1837'
+  top_level: false
+  website: http://foia.msfc.nasa.gov/
+- address:
   - Frank LaRocca
   - OIG FOIA Officer
   - Room 8V69
   - 300 E Street, SW
   - S.W. Washington, DC 20546
-  phone: 202-358-2582
-  fax: 202-358-2767
   emails:
   - foiaoig@hq.nasa.gov
-  service_center: 'Phone: (202) 358-2582'
+  fax: 202-358-2767
+  foia_officer: 'Frank LaRocca, Phone: (202) 358-2582'
+  name: Office of the Inspector General
+  phone: 202-358-2582
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
-  website: http://oig.nasa.gov/FOIA_requests.html
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
-- name: NASA Shared Service Center (NSSC)
-  address:
+  service_center: 'Phone: (202) 358-2582'
+  top_level: false
+  website: http://oig.nasa.gov/FOIA_requests.html
+- address:
   - Jamie Mettler
   - NSSC FOIA Officer
   - Building 1111
   - Stennis Space Center, MS 39529
-  phone: 228-813-6490
-  fax: 228-779-6772
   emails:
   - nssc@nasa.gov
+  fax: 228-779-6772
   foia_officer: 'Jamie Mettler, Phone: (228) 813-6490'
-  service_center: 'Phone: (228) 813-6174'
+  name: NASA Shared Service Center (NSSC)
+  phone: 228-813-6490
   public_liaison: 'Jamie Mettler, Phone: (228) 813-6174'
+  service_center: 'Phone: (228) 813-6174'
+  top_level: false
   website: http://www.nssc.nasa.gov/foia/
-- name: Stennis Space Center
-  address:
+- address:
   - Sally Bilbo
   - SSC FOIA Officer
   - Stennis Space Center, MS 39529
-  phone: 228-688-3182
-  fax: 228-668-7499
   emails:
   - foia@ssc.nasa.gov
-  service_center: 'Phone: (228) 688-3182'
+  fax: 228-668-7499
+  foia_officer: 'Sally Bilbo, Phone: (228) 688-3182'
+  name: Stennis Space Center
+  phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
+  service_center: 'Phone: (228) 688-3182'
+  top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
-- name: Principal Agency FOIA Officer
-  address:
+- address:
   - Miriam BrownLam
   - Agency
   - Room 5P 32
   - 300 E Street, SW
   - S.W. Washington, DC 20546
-  phone: 202-358-0718
-  fax: 202-358-4332
   emails:
   - foia@hq.nasa.gov
-  service_center: 'Phone: (202) 358-0718'
+  fax: 202-358-4332
+  misc:
+    'Agency ': 'Miriam BrownLam, Phone: (202) 358-0718'
+  name: Principal Agency FOIA Officer
+  phone: 202-358-0718
   public_liaison: 'Phone: (202) 358-3642'
-  website: http://www.hq.nasa.gov/office/pao/FOIA/agency/
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
+  service_center: 'Phone: (202) 358-0718'
+  top_level: false
+  website: http://www.hq.nasa.gov/office/pao/FOIA/agency/
+description: NASA's mission is to pioneer the future in space exploration, scientific
+  discovery and aeronautics research
+name: National Aeronautics and Space Administration

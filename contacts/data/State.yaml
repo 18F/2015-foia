@@ -1,38 +1,44 @@
----
 abbreviation: State
-name: Department of State
-description: The Department's mission is to advance freedom for the benefit of the
-  American people and the international community by helping to build and sustain
-  a more democratic, secure, and prosperous world composed of well-governed states
-  that respond to the needs of their people, reduce widespread poverty, and act responsibly
-  within the international system.
 departments:
-- name: Department of State
-  address:
+- address:
   - John F. Hackett
   - Acting Director, Office of Information Programs and Services
   - Building SA-2
   - 515 22nd Street, NW
   - Washington, DC 20522-8100
-  phone: 202-261-8484
   fax: 202-261-8579
-  service_center: 'Phone: (202) 261-8484'
+  misc:
+    Acting Director, Office of Information Programs and Services: 'John F. Hackett,
+      Phone: (202) 261-8484'
+  name: Department of State
+  phone: 202-261-8484
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8484'
-  website: http://foia.state.gov/
   request_form: http://foia.state.gov/Request/Submit.aspx
-- name: Office of Inspector General
-  address:
+  service_center: 'Phone: (202) 261-8484'
+  top_level: false
+  website: http://foia.state.gov/
+- address:
   - 'ATTN:  Zipora Bullard'
   - FOIA Office
   - Department of State
   - Office of Inspector General
   - Office of General Counsel
   - Washington, DC 20520-0308
-  phone: 202-663-0383
-  fax: 202-663-0390
   emails:
   - oigfoia@state.gov
-  service_center: 'Phone: (202) 261-8484'
+  fax: 202-663-0390
+  misc:
+    FOIA Office: 'ATTN:  Zipora Bullard, Phone: (202) 663-0383'
+  name: Office of Inspector General
+  phone: 202-663-0383
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
-  website: http://www.oig.state.gov/foia/index.htm
   request_form: http://foia.state.gov/foiareq/foialetter.asp
+  service_center: 'Phone: (202) 261-8484'
+  top_level: false
+  website: http://www.oig.state.gov/foia/index.htm
+description: The Department's mission is to advance freedom for the benefit of the
+  American people and the international community by helping to build and sustain
+  a more democratic, secure, and prosperous world composed of well-governed states
+  that respond to the needs of their people, reduce widespread poverty, and act responsibly
+  within the international system.
+name: Department of State

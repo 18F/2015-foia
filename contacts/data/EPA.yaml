@@ -1,147 +1,207 @@
----
 abbreviation: EPA
-name: Environmental Protection Agency
-description: The mission of EPA is to protect human health and the environment.
 departments:
-- name: National Headquarters
-  address:
+- address:
   - Larry Gottesman
   - National Freedom of Information Officer
-  - "(2822T)"
+  - (2822T)
   - 1200 Pennsylvania Avenue, NW
   - Washington, DC 20460
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    National Freedom of Information Officer: 'Larry Gottesman, Phone: (202) 566-1667'
+  name: National Headquarters
   phone: 202-566-1667
-  service_center: 'Phone: (202) 566-1667'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/foia/index.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-- name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
-  address:
+  service_center: 'Phone: (202) 566-1667'
+  top_level: false
+  website: http://www.epa.gov/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 1 (OARM01-6)
   - Suite 100
   - 5 Post Office Square
   - Boston, MA 02109-3912
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 1 (OARM01-6): 'Regional Freedom of Information Officer, Phone:
+      (617) 918-1102'
+  name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
-  service_center: 'Phone: (617) 918-1102'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/ne/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 2 (States: NJ, NY, PR VI)'
-  address:
+  service_center: 'Phone: (617) 918-1102'
+  top_level: false
+  website: http://www.epa.gov/ne/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 2
   - 26th Floor
   - 290 Broadway
   - New York, NY 10007-1866
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 2: 'Regional Freedom of Information Officer, Phone: (212) 637-3668 '
+  name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
-  service_center: 'Phone: (212) 637-3668'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region02/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
-  address:
+  service_center: 'Phone: (212) 637-3668'
+  top_level: false
+  website: http://www.epa.gov/region02/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 3
-  - "(3C610)"
+  - (3C610)
   - 1650 Arch Street
   - Philadelphia, PA 19103
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 3: 'Regional Freedom of Information Officer, Phone: (215) 814-3424'
+  name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
-  service_center: 'Phone: (215) 814-3424'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region03/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
-  address:
+  service_center: 'Phone: (215) 814-3424'
+  top_level: false
+  website: http://www.epa.gov/region03/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 4
   - AFC Building, 9th Floor (4PM/IF)
   - 61 Forsyth Street, SW
   - Atlanta, GA 30303-8960
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 4: 'Regional Freedom of Information Officer, Phone: (404) 562-9891'
+  name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
-  service_center: 'Phone: (404) 562-9891'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region4/foiapgs
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
-  address:
+  service_center: 'Phone: (404) 562-9891'
+  top_level: false
+  website: http://www.epa.gov/region4/foiapgs
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 5
-  - "(MI-9)"
+  - (MI-9)
   - 77 West Jackson Boulevard
   - Chicago, IL 60604-3590
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 5: 'Regional Freedom of Information Officer, Phone: (312) 886-6686'
+  name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
-  service_center: 'Phone: (312) 886-6686'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region5/foia.htm
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 6 (States: AR, LA, NM, OK, TX)'
-  address:
+  service_center: 'Phone: (312) 886-6686'
+  top_level: false
+  website: http://www.epa.gov/region5/foia.htm
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 6
-  - "(6MD-OE)"
+  - (6MD-OE)
   - 1445 Ross Avenue
   - Dallas, TX 75202-2733
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 6: 'Regional Freedom of Information Officer, Phone: (214) 665-7202'
+  name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
-  service_center: 'Phone: (214) 665-7202'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/earth1r6/6md/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 7 (States: IA, KS, MO, NE)'
-  address:
+  service_center: 'Phone: (214) 665-7202'
+  top_level: false
+  website: http://www.epa.gov/earth1r6/6md/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 7
   - 11201 Renner Boulevard
   - Lenexa, KS 66219
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 7: 'Regional Freedom of Information Officer, Phone: (913) 551-7860'
+  name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
-  service_center: 'Phone: (913) 551-7860'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region07/citizens/foia/index.htm
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
-  address:
+  service_center: 'Phone: (913) 551-7860'
+  top_level: false
+  website: http://www.epa.gov/region07/citizens/foia/index.htm
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 8
   - 1595 Wynkoop Street
   - Denver, CO 80202-1129
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 8: 'Regional Freedom of Information Officer, Phone: (303) 312-6856'
+  name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
-  service_center: 'Phone: (303) 312-6856'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region8/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
-  address:
+  service_center: 'Phone: (303) 312-6856'
+  top_level: false
+  website: http://www.epa.gov/region8/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 9
-  - "(OPPA-2)"
+  - (OPPA-2)
   - 75 Hawthorne Street
   - San Francisco, CA 94105
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 9: 'Regional Freedom of Information Officer, Phone: (415) 947-4251'
+  name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
-  service_center: 'Phone: (415) 947-4251'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/region09/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
-- name: 'Region 10 (States: AK, ID, OR, WA)'
-  address:
+  service_center: 'Phone: (415) 947-4251'
+  top_level: false
+  website: http://www.epa.gov/region09/foia/index.html
+- address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 10
   - Office of External Affairs
   - 1200 6th Avenue (CEC-142)
   - Seattle , WA 98101
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    U.S. EPA, Region 10: 'Regional Freedom of Information Officer, Phone: (206) 553-8665'
+  name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
-  service_center: 'Phone: (206) 553-8665'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://yosemite.epa.gov/r10/extaff.nsf/webpage/freedom+of+information+act
   request_form: http://www.epa.gov/foia/requestform.html
-- name: I don't know which office
-  address:
+  service_center: 'Phone: (206) 553-8665'
+  top_level: false
+  website: http://yosemite.epa.gov/r10/extaff.nsf/webpage/freedom+of+information+act
+- address:
   - Larry Gottesman
   - National Freedom of Information Officer
-  - "(2822T)"
+  - (2822T)
   - 1200 Pennsylvania Avenue, NW
   - Washington, DC 20460
+  emails:
+  - williams.deborah@epa.gov
+  misc:
+    National Freedom of Information Officer: 'Larry Gottesman, Phone: (202) 566-1667'
+  name: I don't know which office
   phone: 202-566-1667
-  service_center: 'Phone: (202) 566-1667'
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  website: http://www.epa.gov/foia/index.html
   request_form: http://www.epa.gov/foia/requestform.html
+  service_center: 'Phone: (202) 566-1667'
+  top_level: false
+  website: http://www.epa.gov/foia/index.html
+description: The mission of EPA is to protect human health and the environment.
+name: Environmental Protection Agency

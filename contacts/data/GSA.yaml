@@ -1,29 +1,27 @@
----
 abbreviation: GSA
-name: General Services Administration
-description: The General Services Administration (GSA) helps manage and support the
-  basic functioning of federal agencies. The GSA supplies products and communications
-  for U.S. government offices, provides transportation and office space to federal
-  employees, and develops government-wide cost-minimizing policies, and other management
-  tasks.
-keywords:
-- purchase cards
-- federal contracts
-- government forms
 departments:
-- name: Headquarters
-  address:
+- address:
   - FOIA Contact
   - FOIA Requester Service Center (H1C)
   - Room 7308
   - 1800 F. Street, NW
   - Washington, DC 20405
-  phone: 855-675-3642
-  fax: 202-501-2727
   emails:
   - gsa.foia@gsa.gov
-  service_center: 'Phone: (855) 675-3642'
+  fax: 202-501-2727
   misc:
     Program Manager: 'Travis Lewis, Phone: (202) 219-3078'
+  name: Headquarters
+  phone: 202-219-3078
   public_liaison: 'Audrey Corbett Brooks, Phone: (202) 205-5912'
+  service_center: 'Phone: (855) 675-3642'
+  top_level: false
   website: http://www.gsa.gov/portal/category/21416
+description: GSA's mission is to use expertise to provide innovative solutions for
+  our customers in support of their missions and by so doing, foster an effective,
+  sustainable, and transparent government for the American people.
+keywords:
+- purchase cards
+- federal contracts
+- government forms
+name: General Services Administration

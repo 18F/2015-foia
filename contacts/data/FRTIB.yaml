@@ -1,19 +1,20 @@
----
 abbreviation: FRTIB
-name: Federal Retirement Thrift Investment Board
-description: The Agency was established to administer the Thrift Savings Plan (TSP),
-  which provides Federal employees the opportunity to save for additional retirement
-  security.
 departments:
-- name: Federal Retirement Thrift Investment Board
-  address:
+- address:
   - Amanda Haas
   - Chief FOIA Officer
   - 10th Floor
   - 77 K Street, NE
   - Washington, DC 20002
-  phone: 202-942-1660
   fax: 202-942-1676
-  service_center: 'Phone: (202) 942-1660'
+  foia_officer: 'Amanda Haas, Phone: (202) 942-1660'
+  name: Federal Retirement Thrift Investment Board
+  phone: 202-942-1660
   public_liaison: 'Amanda Haas, Phone: (202) 942-1660'
+  service_center: 'Phone: (202) 942-1660'
+  top_level: false
   website: http://www.frtib.gov/ReadingRoom.html
+description: The Agency was established to administer the Thrift Savings Plan (TSP),
+  which provides Federal employees the opportunity to save for additional retirement
+  security.
+name: Federal Retirement Thrift Investment Board

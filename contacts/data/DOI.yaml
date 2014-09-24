@@ -1,235 +1,251 @@
----
 abbreviation: DOI
-name: Department of Interior
-description: The U.S. Department of the Interior protects America´s natural resources
-  and heritage, honors our cultures and tribal communities, and supplies the energy
-  to power our future.
 departments:
-- name: Bureau of Indian Affairs
-  address:
+- address:
   - Daphne Berwald
   - Acting FOIA Officer
   - MS-3071, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  phone: 202-208-4174
-  fax: 202-208-6597
   emails:
   - foia@bia.gov
-  service_center: 'Phone: (202) 208-4174'
-  public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
-  website: http://www.bia.gov/FOIA/index.htm
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 202-208-6597
+  foia_officer: 'Daphne Berwald, Phone: (202) 208-4174'
+  name: Bureau of Indian Affairs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Bureau of Land Management
-  address:
+  phone: 202-208-4174
+  public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (202) 208-4174'
+  top_level: true
+  website: http://www.bia.gov/FOIA/index.htm
+- address:
   - Ryan Witt
   - FOIA Officer
   - 'Attn: FOIA, Washington Office Coorindators'
   - 'MS: WO-560, 1849 C Street, NW'
   - Washington, DC 20240
-  phone: 202-912-7650
   emails:
   - BLM_WO_FOIA@blm.gov
-  service_center: 'Phone: (202) 912-7650'
-  public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
-  website: http://www.blm.gov/wo/st/en/res/FOIA.html
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  foia_officer: 'Ryan Witt, Phone: (202) 912-7650'
+  name: Bureau of Land Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Bureau of Ocean Energy Management
-  address:
+  phone: 202-912-7650
+  public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (202) 912-7650'
+  top_level: true
+  website: http://www.blm.gov/wo/st/en/res/FOIA.html
+- address:
   - Rosemary Melendy
   - FOIA Contact
   - HM3127
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  phone: 703-787-1315
-  fax: 703-787-1209
   emails:
   - BOEMFOIA@boem.gov
-  service_center: 'Phone: (703) 787-1327'
-  public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
-  website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 703-787-1209
+  misc:
+    FOIA Contact: 'Rosemary Melendy, Phone: (703) 787-1315'
+  name: Bureau of Ocean Energy Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Bureau of Reclamation
-  address:
+  phone: 703-787-1315
+  public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (703) 787-1327'
+  top_level: true
+  website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
+- address:
   - Regina Magno-Judd
   - FOIA Officer
   - P.O. Box 25007
   - Denver, CO 80225-0007
-  phone: 303-445-2056
-  fax: 303-445-6575
   emails:
   - bor_foia@usbr.gov
-  service_center: 'Phone: (303) 445-2056'
-  public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
-  website: http://www.usbr.gov/foia/
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 303-445-6575
+  foia_officer: 'Regina Magno-Judd, Phone: (303) 445-2056, (888) 231-7779'
+  name: Bureau of Reclamation
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Bureau of Safety and Environmental Enforcement
-  address:
+  phone: 303-445-2056
+  public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (303) 445-2056'
+  top_level: true
+  website: http://www.usbr.gov/foia/
+- address:
   - Debbie Kimball
   - FOIA Contact
   - 'MS:  HE-2204'
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  phone: 703-787-1689
-  fax: 703-787-1207
   emails:
   - BSEEFOIA@bsee.gov
-  service_center: 'Phone: (703) 787-1689'
-  public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
-  website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 703-787-1207
+  misc:
+    FOIA Contact: 'Debbie Kimball, Phone: (703) 787-1689'
+  name: Bureau of Safety and Environmental Enforcement
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: U.S. Fish and Wildlife Service
-  address:
+  phone: 703-787-1689
+  public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (703) 787-1689'
+  top_level: true
+  website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
+- address:
   - Melissa Allen
   - FWS FOIA Officer
   - MS-IRTM
   - 5725 Leesburg Pike
   - Falls Church, VA 22041
-  phone: 703-358-2470
-  fax: 703-358-2251
   emails:
   - fwhq_foia@fws.gov
-  service_center: 'Phone: (703) 358-2504'
+  fax: 703-358-2251
+  foia_officer: 'Melissa Allen, Phone: (703) 358-2470'
+  name: U.S. Fish and Wildlife Service
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 703-358-2470
   public_liaison: 'Johnny Hunt, Phone: (703) 358-2504'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (703) 358-2504'
+  top_level: true
   website: http://www.fws.gov/irm/bpim/foia.html
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
-  notes: This office has additional FOIA contact information that can be found by
-    visiting its website.
-- name: U.S. Geological Survey
-  address:
-  - Brian May
-  - FOIA Contact
-  - MS-807, National Center
-  - 12201 Sunrise Valley Drive Room 2B116
-  - Reston, VA 20192
-  phone: 703-648-7196
-  fax: 703-648-7199
-  emails:
-  - foia@usgs.gov
-  service_center: 'Phone: (703) 648-7196'
-  public_liaison: 'Joye Durant, Phone: (703) 648-7196'
-  website: http://www.usgs.gov/foia/
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
-  notes: This office has additional FOIA contact information that can be found by
-    visiting its website.
-- name: National Park Service
-  address:
+- address:
   - Charis Wilson
   - NPS FOIA Officer
   - P.O. Box 25287
   - 12795 W. Alameda Parkway
   - Denver, CO 80225
-  phone: 303-969-2959
-  fax: 303-969-2557
   emails:
   - npsfoia@nps.gov
-  service_center: 'Phone: (202) 354-1925'
-  public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
-  website: http://www.nps.gov/foia.htm
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 303-969-2557
+  foia_officer: 'Charis Wilson, Phone: 1-855-NPS-FOIA (677-3642); (303) 969-2959'
+  name: National Park Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of the Inspector General
-  address:
+  phone: 303-969-2959
+  public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (202) 354-1925'
+  top_level: true
+  website: http://www.nps.gov/foia.htm
+- address:
   - Kevin Krebs
   - FOIA Contact
   - MS-4428, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  phone: 202-208-0954
   emails:
   - foia@doioig.gov
-  service_center: 'Phone: (202) 208-0954'
+  misc:
+    FOIA Contact: 'Kevin Krebs, Phone: (202) 208-0954'
+  name: Office of the Inspector General
+  phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
-  website: http://www.doioig.gov/freedom-of-information-act
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
-- name: Office of Natural Resources Revenue
-  address:
+  service_center: 'Phone: (202) 208-0954'
+  top_level: false
+  website: http://www.doioig.gov/freedom-of-information-act
+- address:
   - Richard Lopez
   - FOIA Contact
   - MS-61023A
   - PO Box 25165
   - Denver, CO 80225-0165
-  phone: 303-231-3078
-  fax: 303-445-4288
   emails:
   - mrmfoia@onrr.gov
-  service_center: 'Phone: (303) 231-3078'
-  public_liaison: 'Richard Lopez, Phone: (303) 231-3078'
-  website: http://www.onrr.gov/FOIA/
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 303-445-4288
+  misc:
+    FOIA Contact: 'Richard Lopez, Phone: (303) 231-3078'
+  name: Office of Natural Resources Revenue
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of the Secretary
-  address:
+  phone: 303-231-3078
+  public_liaison: 'Richard Lopez, Phone: (303) 231-3078'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (303) 231-3078'
+  top_level: false
+  website: http://www.onrr.gov/FOIA/
+- address:
   - Clarice Julka
   - FOIA Contact
   - MS-116, SIB
   - 1951 Constitution Avenue, NW
   - Washington, DC 20240
-  phone: 202-513-0756
-  fax: 202-219-2374
   emails:
   - os_foia@ios.doi.gov
-  service_center: 'Phone: (202) 513-0756'
+  fax: 202-219-2374
+  misc:
+    FOIA Contact: 'Clarice Julka, Phone: (202) 513-0756'
+  name: Office of the Secretary
+  phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
-  website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
-- name: Office of the Solicitor
-  address:
+  service_center: 'Phone: (202) 513-0756'
+  top_level: false
+  website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
+- address:
   - Lance Purvis
   - Acting FOIA Contact
   - MS-6429, M1B
   - 1849 C Street, NW
   - Washington, DC 20240
-  phone: 202-208-5817
-  fax: 202-208-5206
   emails:
   - sol.foia@sol.doi.gov
-  service_center: 'Phone: (202) 208-6503'
+  fax: 202-208-5206
+  misc:
+    Acting FOIA Contact: 'Lance Purvis, Phone: (202) 208-5817'
+  name: Office of the Solicitor
+  phone: 202-208-5817
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
-  website: http://www.doi.gov/foia/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
-- name: Office of Surface Mining
-  address:
+  service_center: 'Phone: (202) 208-6503'
+  top_level: false
+  website: http://www.doi.gov/foia/
+- address:
   - Dele Awoniyi
   - FOIA Contact
   - MS-233, S1B
   - 1951 Constitution Avenue, NW
   - Washington, DC 20240
-  phone: 202-208-5840
-  fax: 202-219-3092
   emails:
   - foia@osmre.gov
-  service_center: 'Phone: (202) 208-2909'
-  public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
-  website: http://www.osmre.gov/contacts/Foia.shtm
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  fax: 202-219-3092
+  misc:
+    FOIA Contact: 'Dele Awoniyi, Phone: (202) 208-5840'
+  name: Office of Surface Mining
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of the Special Trustee
-  address:
+  phone: 202-208-5840
+  public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (202) 208-2909'
+  top_level: false
+  website: http://www.osmre.gov/contacts/Foia.shtm
+- address:
   - Veronica Herkshan
   - FOIA Contact
   - MS-5140, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  phone: 505-816-1645
   emails:
   - Veronica_Herkshan@ost.doi.gov
-  service_center: 'Phone: (505) 816-1645'
-  public_liaison: Veronica Herkshan
-  website: http://www.ost.doi.gov/
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  misc:
+    FOIA Contact: 'Veronica Herkshan, Phone: (505) 816-1645'
+  name: Office of the Special Trustee
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
+  phone: 505-816-1645
+  public_liaison: Veronica Herkshan
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (505) 816-1645'
+  top_level: false
+  website: http://www.ost.doi.gov/
+description: The U.S. Department of the Interior protects America´s natural resources
+  and heritage, honors our cultures and tribal communities, and supplies the energy
+  to power our future.
+name: Department of Interior

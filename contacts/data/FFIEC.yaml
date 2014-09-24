@@ -1,6 +1,22 @@
----
 abbreviation: FFIEC
-name: Federal Financial Institutions Examination Council
+departments:
+- address:
+  - Judith E. Dupre
+  - Executive Secretary
+  - B7081a
+  - 3501 Fairfax Drive
+  - Arlington , VA 22226-3550
+  emails:
+  - FOIA@ffiec.gov
+  fax: 703-562-6446
+  misc:
+    Executive Secretary: 'Judith E. Dupre, Phone: (703) 516-5590'
+  name: Federal Financial Institutions Examination Council
+  phone: 703-516-5590
+  public_liaison: 'Rosanna Piccirilli, Phone: (703) 516-5591'
+  service_center: 'Phone: (703) 516-5591'
+  top_level: false
+  website: http://www.ffiec.gov/foia.htm
 description: The Council is a formal interagency body empowered to prescribe uniform
   principles, standards, and report forms for the federal examination of financial
   institutions by the Board of Governors of the Federal Reserve System (FRB), the
@@ -8,18 +24,4 @@ description: The Council is a formal interagency body empowered to prescribe uni
   (NCUA), the Office of the Comptroller of the Currency (OCC), and the Office of Thrift
   Supervision (OTS) and to make recommendations to promote uniformity in the supervision
   of financial institutions.
-departments:
-- name: Federal Financial Institutions Examination Council
-  address:
-  - Judith E. Dupre
-  - Executive Secretary
-  - B7081a
-  - 3501 Fairfax Drive
-  - Arlington , VA 22226-3550
-  phone: 703-516-5590
-  fax: 703-562-6446
-  emails:
-  - FOIA@ffiec.gov
-  service_center: 'Phone: (703) 516-5591'
-  public_liaison: 'Rosanna Piccirilli, Phone: (703) 516-5591'
-  website: http://www.ffiec.gov/foia.htm
+name: Federal Financial Institutions Examination Council

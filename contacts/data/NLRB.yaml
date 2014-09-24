@@ -1,22 +1,23 @@
----
 abbreviation: NLRB
-name: National Labor Relations Board
-description: The National Labor Relations Board is an independent federal agency that
-  protects the rights of private sector employees to join together, with or without
-  a union, to improve their wages and working conditions.
 departments:
-- name: National Labor Relations Board
-  address:
+- address:
   - Eric G. Moskowitz
   - Acting FOIA Officer
   - Room 10600
   - 1099 14th Street, NW
   - Washington, DC  20570
-  phone: 202-273-2931
   fax: 202-273-3642
-  service_center: 'Phone: (202) 273-1991'
-  public_liaison: 'Jayme Sophir, Phone: (202) 273-3800'
-  website: http://www.nlrb.gov/FOIA/
-  request_form: http://www.nlrb.gov/e-foia-request-form
+  foia_officer: 'Eric G. Moskowitz, Phone: (202) 273-2931'
+  name: National Labor Relations Board
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
+  phone: 202-273-2931
+  public_liaison: 'Jayme Sophir, Phone: (202) 273-3800'
+  request_form: http://www.nlrb.gov/e-foia-request-form
+  service_center: 'Phone: (202) 273-1991'
+  top_level: false
+  website: http://www.nlrb.gov/FOIA/
+description: The National Labor Relations Board is an independent federal agency that
+  protects the rights of private sector employees to join together, with or without
+  a union, to improve their wages and working conditions.
+name: National Labor Relations Board

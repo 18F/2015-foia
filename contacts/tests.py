@@ -1,8 +1,10 @@
+from copy import deepcopy
 from unittest import TestCase
 
 from bs4 import BeautifulSoup
 from mock import patch
 
+import layer_with_csv as layer
 import scraper
 
 
@@ -177,7 +179,170 @@ class ScraperTests(TestCase):
         self.assertEqual(chicago_call[0][0]['id'], "2")
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
 
+    @patch.dict('typos.KEYWORDS', {'AGENCY': ['keyword1', 'kw2']})
+    def test_add_keywords(self):
+        """This should only add keywords to the if the abbreviation is
+        'AGENCY' and should not affect the dict otherwise."""
+        result = scraper.add_keywords('NONAGENCY', {})
+        self.assertEqual({}, result)
+        result = scraper.add_keywords('AGENCY', {})
+        self.assertEqual({'keywords': ['keyword1', 'kw2']}, result)
+
+    @patch.dict('typos.TOP_LEVEL', {'AGENCY': ['HQ']})
+    def test_add_top_level(self):
+        """The 'top_level' flag should be set on configured departments"""
+        agency = {'departments': [{'name': 'HQ'}, {'name': 'Other Q'}]}
+        agency_orig = deepcopy(agency)
+        result = scraper.add_top_level('NONAGENCY', agency)
+        self.assertEqual(agency, agency_orig)   # Non-mutating
+        depts = [d['top_level'] for d in result['departments']]
+        self.assertEqual(depts, [False, False])
+
+        result = scraper.add_top_level('AGENCY', agency)
+        self.assertEqual(agency, agency_orig)   # Non-mutating
+        depts = [d['top_level'] for d in result['departments']]
+        self.assertEqual(depts, [True, False])
+
     def test_agency_url(self):
         """Verify that agency abbreviations are getting converted into a URL"""
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
+
+
+class LayerTests(TestCase):
+    def test_address_lines(self):
+        """Add lines for room number, street addy is present. Only add
+        city/state/zip if all three are present."""
+        row = {"Room Number": "", "Street Address": "", "City": "",
+               "State": "", "Zip Code": ""}
+        row["City"] = "Boston"
+        self.assertEqual([], layer.address_lines(row))
+        row["Zip Code"] = 90210
+        self.assertEqual([], layer.address_lines(row))
+        row["Street Address"] = "123 Maywood Dr"
+        self.assertEqual(["123 Maywood Dr"], layer.address_lines(row))
+        row["Room Number"] = "Apt B"
+        self.assertEqual(["Apt B", "123 Maywood Dr"],
+                         layer.address_lines(row))
+        row["State"] = "XY"
+        self.assertEqual(["Apt B", "123 Maywood Dr", "Boston, XY 90210"],
+                         layer.address_lines(row))
+
+    def test_contact_string(self):
+        """Format name and phone information; check each combination"""
+        row = {"Name": "", "Telephone": ""}
+        self.assertEqual("", layer.contact_string(row))
+        row["Name"] = "Bob Bobberson"
+        self.assertEqual("Bob Bobberson", layer.contact_string(row))
+        row["Telephone"] = "(111) 222-3333"
+        self.assertEqual("Bob Bobberson, Phone: (111) 222-3333",
+                         layer.contact_string(row))
+        row["Name"] = ""
+        self.assertEqual("Phone: (111) 222-3333", layer.contact_string(row))
+
+    def test_patch_dict(self):
+        """Verify fields are added, nothing gets overwritten, and misc fields
+        are merged"""
+        old_dict = {"a": 1, "b": 2, "misc": {"z": 100}}
+        new_dict = {"b": 4, "c": 3, "misc": {"z": 999, "y": 99}}
+        result = layer.patch_dict(old_dict, new_dict)
+        self.assertEqual(result, {
+            "a": 1, "b": 2, "c": 3, "misc": {"z": 100, "y": 99}})
+
+    def test_patch_dict_noop(self):
+        """If there are no new field, None is returned"""
+        old_dict = {"a": 1, "b": 2}
+        new_dict = {"b": 100}
+        self.assertEqual(None, layer.patch_dict(old_dict, old_dict))
+        self.assertEqual(None, layer.patch_dict(old_dict, new_dict))
+
+    def empty_row(self):
+        return {"Agency": "", "Department": "", "Name": "", "Title": "",
+                "Room Number": "", "Street Address": "", "City": "",
+                "State": "", "Zip Code": "", "Telephone": "", "Fax": "",
+                "Email Address": "", "Website": "", "Online Request Form": "",
+                "Notes": ""}
+
+    def test_add_contact_info_agency(self):
+        """Agency & Office should be added to `contact` dictionary if not
+        present"""
+        row = self.empty_row()
+        row["Department"] = "ACRONYM"
+        row["Agency"] = "Sewage Treatment"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        #   Adding again has no affect
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        #   Adding another agency
+        row["Agency"] = "Road Maintenance"
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+
+    def test_add_contact_info_website(self):
+        """Website field gets cleaned up -- verify it's not added unless it's
+        in the right form"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("website" in contact_dict["A"]["B"])
+
+        row["Website"] = "http://"
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("website" in contact_dict["A"]["B"])
+
+        row["Website"] = "http://example.gov"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual("http://example.gov",
+                         contact_dict["A"]["B"]["website"])
+
+    def test_add_contact_info_emails(self):
+        """Each row that contains an email address should get added to the
+        list"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"], [])
+
+        row["Email Address"] = "a@b.com"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"], ["a@b.com"])
+
+        row["Email Address"] = "c@d.gov"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"],
+                         ["a@b.com", "c@d.gov"])
+
+    def test_add_contact_info_people(self):
+        """Verify that the title of a row indicates which field it should be
+        placed in"""
+        row = self.empty_row()
+        row["Department"] = "A"
+        row["Agency"] = "B"
+        row["Name"] = "Ada"
+        contact_dict = {}
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("service_center" in contact_dict["A"]["B"])
+        self.assertEqual(contact_dict["A"]["B"]["misc"], {})
+
+        row["Title"] = "Awesome Person"
+        layer.add_contact_info(contact_dict, row)
+        self.assertFalse("service_center" in contact_dict["A"]["B"])
+        self.assertEqual(contact_dict["A"]["B"]["misc"],
+                         {"Awesome Person": "Ada"})
+
+        row["Name"] = "Bob"
+        row["Title"] = "FOIA Service Center Technician"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["service_center"], "Bob")
+        self.assertEqual(contact_dict["A"]["B"]["misc"],
+                         {"Awesome Person": "Ada"})

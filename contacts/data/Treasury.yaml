@@ -1,123 +1,155 @@
----
 abbreviation: Treasury
-name: Department of the Treasury
-description: The Department's mission is to maintain a strong economy and create economic
-  and job opportunities by promoting the conditions that enable economic growth and
-  stability at home and abroad, strengthen national security by combating threats
-  and protecting the integrity of the financial system, and manage the U.S. Government´s
-  finances and resources effectively.
 departments:
-- name: Departmental Offices
-  address:
+- address:
   - Ryan Law
   - Director, Disclosure Services
   - 1500 Pennsylvania Avenue, NW
   - Washington, DC 20220
-  phone: 202-622-0930
   fax: 202-622-3895
-  service_center: 'Phone: (202) 622-0930'
+  misc:
+    Director, Disclosure Services: 'Ryan Law, Phone: (202) 622-0930'
+  name: Departmental Offices
+  phone: 202-622-0930
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  website: http://www.treasury.gov/foia/Pages/index.aspx
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
-- name: Alcohol and Tobacco Tax and Trade Bureau
-  address:
+  service_center: 'Phone: (202) 622-0930'
+  top_level: false
+  website: http://www.treasury.gov/foia/Pages/index.aspx
+- address:
   - Quinton Mason
   - FOIA Contact, Disclosure Services
   - Box 12
   - 1310 G Street, NW
   - Washington, DC 20220
-  phone: 202-882-9904
+  emails:
+  - ttbfoia@ttb.gov
   fax: 202-453-2331
-  service_center: 'Phone: (202) 927-1024'
+  misc:
+    FOIA Contact, Disclosure Services: 'Quinton Mason, Phone: (202) 882-9904'
+  name: Alcohol and Tobacco Tax and Trade Bureau
+  phone: 202-882-9904
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  service_center: 'Phone: (202) 927-1024'
+  top_level: true
   website: http://www.ttb.gov/foia/index.shtml
-- name: Bureau of Engraving and Printing
-  address:
+- address:
   - Disclosure Officer
   - FOIA Contact, FOIA Office
   - 419 A
   - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
-  phone: 202-874-2500
   fax: 202-874-2951
-  service_center: 'Phone: (202) 874-2058'
+  misc:
+    FOIA Contact, FOIA Office: 'Disclosure Officer, Phone: (202) 874-2500'
+  name: Bureau of Engraving and Printing
+  phone: 202-874-2500
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  website: http://www.bep.treas.gov/foia.html
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
-- name: Comptroller of the Currency
-  address:
+  service_center: 'Phone: (202) 874-2058'
+  top_level: true
+  website: http://www.bep.treas.gov/foia.html
+- address:
   - Frank Vance
   - Disclosures Services
   - Communications Division
   - Suite 3-E218Mail Stop 6W-11
   - 400 7th Street, SW
   - Washington, DC 20219
-  phone: 202-649-6758
   emails:
   - foia-pa@occ.treas.gov
-  service_center: 'Phone: (202) 874-4700'
+  misc:
+    ? 'Disclosures Services
+
+      Communications Division'
+    : 'Frank Vance, Phone: (202) 649-6758'
+  name: Comptroller of the Currency
+  phone: 202-649-6758
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  service_center: 'Phone: (202) 874-4700'
+  top_level: true
   website: http://www.occ.gov/about/foia/index-foia.html
-- name: Financial Crimes Enforcement Network
-  address:
+- address:
   - Amanda Michanczyk
   - Disclosure (FOIA) Office
   - P.O. Box 39
   - Vienna, VA 22183
-  phone: 703-905-3537
   fax: 703-905-5126
-  service_center: 'Phone: (703) 905-5034'
+  misc:
+    Disclosure (FOIA) Office: 'Amanda Michanczyk, Phone: (703) 905-3537'
+  name: Financial Crimes Enforcement Network
+  phone: 703-905-3537
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  service_center: 'Phone: (703) 905-5034'
+  top_level: true
   website: http://www.fincen.gov/foia/
-- name: Bureau of Fiscal Services
-  address:
+- address:
   - Cynthia Sydnor/Denise Nelson
   - Disclosure Officer
   - Room 508C
   - 401 14th Street, SW
   - Washington, DC 20227
-  phone: 202-874-5602
   fax: 202-874-2391
-  service_center: 'Phone: (202) 874-5602'
+  misc:
+    Disclosure Officer: 'Cynthia Sydnor/Denise Nelson, Phone: (202) 874-5602'
+  name: Bureau of Fiscal Services
+  phone: 202-874-5602
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  website: http://www.fms.treas.gov/foia/index.html
   request_form: http://www.fms.treas.gov/foia/request.html
-- name: Internal Revenue Service - Headquarters Office
-  address:
+  service_center: 'Phone: (202) 874-5602'
+  top_level: false
+  website: http://www.fms.treas.gov/foia/index.html
+- address:
   - Disclosure Manager
   - FOIA Contact
   - HQ FOIA Stop 211
   - 'HQ & FOIA Operations ATTn: IRS FOIA Request 2980 Brandywine Road'
   - Chamblee, GA 30341
-  phone: 202-317-3475
-  service_center: 'Phone: (202) 317-3475'
-  public_liaison: 'Phone: (202) 317-3475'
-  website: http://www.irs.gov/foia/article/0,,id=120681,00.html
+  misc:
+    FOIA Contact: 'Disclosure Manager, Phone: (202) 317-3475'
+  name: Internal Revenue Service - Headquarters Office
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: United States Mint
-  address:
+  phone: 202-317-3475
+  public_liaison: 'Phone: (202) 317-3475'
+  service_center: 'Phone: (202) 317-3475'
+  top_level: false
+  website: http://www.irs.gov/foia/article/0,,id=120681,00.html
+- address:
   - Kathleen Saunders-Mitchell
   - FOIA Contact
   - 8th Floor
   - 801 9th Street, NW
   - Washington, DC 20220
-  phone: 202-354-4600
   fax: 202-756-6153
-  service_center: 'Phone: (202) 354-6788'
+  misc:
+    FOIA Contact: 'Kathleen Saunders-Mitchell, Phone: (202) 354-4600'
+  name: United States Mint
+  phone: 202-354-4600
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  service_center: 'Phone: (202) 354-6788'
+  top_level: true
   website: http://www.usmint.gov/FOIA/
-- name: Treasury Inspector General for Tax Administration
-  address:
+- address:
   - Amy P. Jones
   - FOIA Contact, Office of the Chief Counsel, Disclosure Branch
   - Suite 469
   - 'ATTN: FOIA Request TIGTA Chief Counsel 1401 H Street, NW'
   - Washington, DC 20005
-  phone: 202-622-4068
-  fax: 202-622-3339
   emails:
   - FOIA.Reading.Room@tigta.treas.gov
-  service_center: 'Phone: (202) 622-4068'
+  fax: 202-622-3339
+  misc:
+    FOIA Contact, Office of the Chief Counsel, Disclosure Branch: 'Amy P. Jones, Phone:
+      (202) 622-4068'
+  name: Treasury Inspector General for Tax Administration
+  phone: 202-622-4068
   public_liaison: 'Amy P. Jones, Phone: (202) 622-4068'
+  service_center: 'Phone: (202) 622-4068'
+  top_level: false
   website: http://www.treasury.gov/tigta/important_foia.shtml
+description: The Department's mission is to maintain a strong economy and create economic
+  and job opportunities by promoting the conditions that enable economic growth and
+  stability at home and abroad, strengthen national security by combating threats
+  and protecting the integrity of the financial system, and manage the U.S. Government´s
+  finances and resources effectively.
+name: Department of the Treasury

@@ -1,19 +1,24 @@
----
 abbreviation: CPPBSD
-name: Committee for Purchase from People Who Are Blind or Severely Disabled
-description: The Committee for Purchase from People Who are Blind or Severely Disabled
-  provides employment opportunities for people who are blind or have other severe
-  disabilities in the manufacture and delivery of products and services to the federal
-  government.
 departments:
-- name: Committee for Purchase from People Who Are Blind or Severely Disabled
-  address:
+- address:
   - Tina Ballard
   - Executive Director
   - Suite 10800
   - 1401 S. Clark St
   - Arlington , VA 22202-4302
+  emails:
+  - FOIA@AbilityOne.gov
+  - blineback@abilityone.gov
+  misc:
+    Executive Director: 'Tina Ballard, Phone: (703) 603-7740'
+  name: Committee for Purchase from People Who Are Blind or Severely Disabled
   phone: 703-603-7740
-  service_center: 'Wakita Wilson, Phone: (703) 603-7740'
   public_liaison: 'Barry Lineback, Phone: (703) 603-7740'
+  service_center: 'Wakita Wilson, Phone: (703) 603-7740'
+  top_level: false
   website: http://www.abilityone.gov/laws_and_regulations/foia.html
+description: The Committee for Purchase from People Who are Blind or Severely Disabled
+  provides employment opportunities for people who are blind or have other severe
+  disabilities in the manufacture and delivery of products and services to the federal
+  government.
+name: Committee for Purchase from People Who Are Blind or Severely Disabled
