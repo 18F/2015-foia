@@ -1,21 +1,22 @@
----
 abbreviation: U.S. CPSC
-name: Consumer Product Safety Commission
-description: The U.S. Consumer Product Safety Commission is charged with protecting
-  the public from unreasonable risks of injury or death from thousands of types of
-  consumer products under the agency's jurisdiction.
 departments:
-- name: Consumer Product Safety Commission
-  address:
+- address:
   - Alberta E. Mills
   - FOIA Officer
   - U.S. Consumer Product Safety Commission
   - 4330 East West Highway
   - Bethesda, MD 20814-4408
-  phone: 301-504-7923
-  fax: 301-504-0127
   emails:
   - cpsc-foia@cpsc.gov
-  service_center: 'Phone: (301) 504-7923'
+  fax: 301-504-0127
+  foia_officer: 'Alberta E. Mills, Phone: (301) 504-7923'
+  name: Consumer Product Safety Commission
+  phone: 301-504-7923
   public_liaison: 'Deborah Acosta, Phone: (301) 504-6890'
+  service_center: 'Phone: (301) 504-7923'
+  top_level: false
   website: http://www.cpsc.gov/en/Newsroom/FOIA/
+description: The U.S. Consumer Product Safety Commission is charged with protecting
+  the public from unreasonable risks of injury or death from thousands of types of
+  consumer products under the agency's jurisdiction.
+name: Consumer Product Safety Commission

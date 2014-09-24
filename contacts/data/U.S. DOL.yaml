@@ -1,237 +1,254 @@
----
 abbreviation: U.S. DOL
-name: Department of Labor
-description: The Department's mission is to foster, promote, and develop the welfare
-  of the wage earners, job seekers, and retirees of the United States; improve working
-  conditions; advance opportunities for profitable employment; and assure work-related
-  benefits and rights.
 departments:
-- name: Main Office
-  address:
+- address:
   - Ramona Branch Oliver
   - Director, Office of Information Services , Office of the Solicitor/MALS Division
   - Room N-2420
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-5391
-  fax: 202-693-5389
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-5391'
+  fax: 202-693-5389
+  name: Main Office
+  phone: 202-693-5391
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-5391'
+  top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
-- name: Bureau of International Labor Affairs
-  address:
+- address:
   - FOIA Coordinator
   - Room S-5317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
-  phone: 202-693-4877
   emails:
   - ILABFOIA@dol.gov
-  service_center: 'Phone: (202) 693-4877'
+  name: Bureau of International Labor Affairs
+  phone: 202-693-4877
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-4877'
+  top_level: true
   website: http://www.dol.gov/ilab/
-- name: Bureau of Labor Statistics
-  address:
+- address:
   - FOIA Disclosure Officer
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
   - Washington, DC 20212-0001
-  phone: 202-691-7628
   fax: 202-691-5111
-  service_center: 'Phone: (202) 691-7628'
+  name: Bureau of Labor Statistics
+  phone: 202-691-7628
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 691-7628'
+  top_level: true
   website: http://www.bls.gov/bls/blsfoia.htm
-- name: Employee Benefits Security Administration
-  address:
+- address:
   - Sharon Watson
   - FOIA Officer
   - Public Disclosure Room, Suite N-1513
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-8673
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-8655'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.dol.gov/ebsa/foia/foia.html
+  name: Employee Benefits Security Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Employment & Training Administration
-  address:
+  phone: 202-693-8673
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-8655'
+  top_level: true
+  website: http://www.dol.gov/ebsa/foia/foia.html
+- address:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
-  phone: 202-693-3676
   fax: 202-693-2844
-  service_center: 'Phone: (202) 693-3676'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.doleta.gov/foia/
+  name: Employment & Training Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Jobs Corps
-  address:
+  phone: 202-693-3676
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-3676'
+  top_level: true
+  website: http://www.doleta.gov/foia/
+- address:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-3676
-  fax: 202-693-2844
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-5500'
+  fax: 202-693-2844
+  name: Jobs Corps
+  phone: 202-693-3676
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-5500'
+  top_level: false
   website: http://www.jobcorps.gov/foia.aspx
-- name: Mine Safety & Health Administration
-  address:
+- address:
   - FOIA Officer
   - Room 2314
   - 1100 Wilson Boulevard
   - Arlington, VA 22209-3939
-  phone: 202-693-9542
-  fax: 202-963-9441
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-9424'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.msha.gov/READROOM/READROOM.HTM
+  fax: 202-963-9441
+  name: Mine Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of the Administrative Law Judges
-  address:
+  phone: 202-693-9542
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-9424'
+  top_level: true
+  website: http://www.msha.gov/READROOM/READROOM.HTM
+- address:
   - FOIA Disclosure Officer
   - Suite 400 North
   - 800 K Street
   - N.W. Washington, DC 20001-8002
-  phone: 202-693-7348
-  fax: 202-693-7365
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-7440'
+  fax: 202-693-7365
+  name: Office of the Administrative Law Judges
+  phone: 202-693-7348
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-7440'
+  top_level: false
   website: http://www.oalj.dol.gov/libfoia.htm
-- name: Office of the Assistant Secretary for Administration and Management
-  address:
+- address:
   - FOIA Coordinator
   - Room S-3317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-7126
-  fax: 202-693-7954
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-7126'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.dol.gov/oasam/foia/
+  fax: 202-693-7954
+  name: Office of the Assistant Secretary for Administration and Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of Federal Contract Compliance Programs
-  address:
+  phone: 202-693-7126
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-7126'
+  top_level: false
+  website: http://www.dol.gov/oasam/foia/
+- address:
   - FOIA Coordinator
   - Room N-2428
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-5500
-  fax: 202-693-5538
   emails:
   - foiarequest@dol.gov
+  fax: 202-693-5538
+  name: Office of Federal Contract Compliance Programs
+  phone: 202-693-5500
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-5500'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  top_level: false
   website: http://www.dol.gov/ofccp/ofccp-foia.htm
-- name: Office of Labor-Management Standards
-  address:
+- address:
   - FOIA Coordinator
   - Suite N-5609
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
+  name: Office of Labor-Management Standards
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
   phone: 202-693-0125
-  service_center: 'Phone: (202) 693-0125'
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-0125'
+  top_level: false
   website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
-  notes: This office has additional FOIA contact information that can be found by
-    visiting its website.
-- name: Office of Workers' Compensation Programs
-  address:
+- address:
   - FOIA Coordinator
   - Suite N-5609
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-0125
-  service_center: 'Phone: (202) 693-0125'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.dol.gov/owcp/foia/owcp-foia.htm
+  name: Office of Workers' Compensation Programs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Office of the Inspector General
-  address:
+  phone: 202-693-0125
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-0125'
+  top_level: false
+  website: http://www.dol.gov/owcp/foia/owcp-foia.htm
+- address:
   - Disclosure Officer
   - Room S-5506
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   fax: 202-693-7020
-  service_center: ''
+  name: Office of the Inspector General
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: ''
+  top_level: false
   website: http://www.oig.dol.gov/foia.htm
-- name: Occupational Safety & Health Administration
-  address:
+- address:
   - FOIA Officer
   - Room N3647
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-1999
   fax: 202-693-1635
-  service_center: 'Phone: (202) 693-1999'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.osha.gov/as/opa/foia/foia.html
+  name: Occupational Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Veterans' Employment & Training Service
-  address:
+  phone: 202-693-1999
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-1999'
+  top_level: true
+  website: http://www.osha.gov/as/opa/foia/foia.html
+- address:
   - Carrie Timus
   - National FOIA Officer
   - Room S-1325
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-4700
-  service_center: 'Phone: (202) 693-4700'
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.dol.gov/vets/foia/
+  name: Veterans' Employment & Training Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Wage and Hour Division
-  address:
+  phone: 202-693-4700
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-4700'
+  top_level: false
+  website: http://www.dol.gov/vets/foia/
+- address:
   - FOIA Coordinator
   - Room S-3201
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  service_center: ''
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  website: http://www.dol.gov/whd/foia/
+  - 'FOIA Requester Service Center:'
+  name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Women's Bureau
-  address:
+  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  top_level: false
+  website: http://www.dol.gov/whd/foia/
+- address:
   - FOIA Coordinator
   - Room S-3305
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  fax: 202-693-6746
   emails:
   - foiarequest@dol.gov
-  service_center: ''
+  fax: 202-693-6746
+  name: Women's Bureau
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: ''
+  top_level: false
   website: http://www.dol.gov/wb/e-foia.htm
-- name: I don't know which office
-  address:
+- address:
   - Ramona Branch Oliver
   - Director, Office of Information Services , Office of the Solicitor/MALS Division
   - Room N-2420
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  phone: 202-693-5391
-  fax: 202-693-5389
   emails:
   - foiarequest@dol.gov
-  service_center: 'Phone: (202) 693-5391'
+  fax: 202-693-5389
+  name: I don't know which office
+  phone: 202-693-5391
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  service_center: 'Phone: (202) 693-5391'
+  top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
+description: The Department's mission is to foster, promote, and develop the welfare
+  of the wage earners, job seekers, and retirees of the United States; improve working
+  conditions; advance opportunities for profitable employment; and assure work-related
+  benefits and rights.
+name: Department of Labor

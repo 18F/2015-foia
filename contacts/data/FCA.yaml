@@ -1,22 +1,26 @@
----
 abbreviation: FCA
-name: Farm Credit Administration
-description: |-
-  FCA´s mission is to ensure a dependable source of credit for agriculture and rural America. We do this in two ways:
-  ·1.By creating regulations for FCS institutions to follow
-  ·2.By examining FCS institutions to ensure their compliance with the Farm Credit Act of 1971 (as amended), FCA regulations, and safe and sound banking practices
 departments:
-- name: Farm Credit Administration
-  address:
+- address:
   - Jeffrey C. Pienta
   - FOIA Officer
   - 1501 Farm Credit Drive
   - McLean, VA 22102-5090
-  phone: 703-883-4431
-  fax: 703-790-0052
   emails:
   - foiaofficer@fca.gov
-  service_center: 'Phone: (703) 883-4020'
+  fax: 703-790-0052
+  foia_officer: 'Jeffrey C. Pienta, Phone: (703) 883-4431'
+  name: Farm Credit Administration
+  phone: 703-883-4431
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4108'
-  website: http://www.fca.gov/home/freedom_info.html
   request_form: http://www.fca.gov/OGC/FOIARequ.nsf/FOIARequest.xsp
+  service_center: 'Phone: (703) 883-4020'
+  top_level: false
+  website: http://www.fca.gov/home/freedom_info.html
+description: 'FCA´s mission is to ensure a dependable source of credit for agriculture
+  and rural America. We do this in two ways:
+
+  ·1.By creating regulations for FCS institutions to follow
+
+  ·2.By examining FCS institutions to ensure their compliance with the Farm Credit
+  Act of 1971 (as amended), FCA regulations, and safe and sound banking practices'
+name: Farm Credit Administration

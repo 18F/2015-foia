@@ -1,21 +1,23 @@
----
 abbreviation: IAF
-name: Inter-American Foundation
-description: The Inter-American Foundation (IAF) is an independent agency of the United
-  States government that provides grants to nongovernmental and community-based organizations
-  in Latin America and the Caribbean for innovative, sustainable and participatory
-  self-help programs.
 departments:
-- name: Inter-American Foundation
-  address:
+- address:
   - Paul Zimmerman
   - General Counsel
   - 12th Floor North, Suite 1200
   - 1331 Pennsylvania, NW
   - Washington, DC 20004
-  phone: 202-683-7118
   emails:
   - foia@iaf.gov
-  service_center: 'Phone: (202) 683-7117'
+  misc:
+    General Counsel: 'Paul Zimmerman, Phone: (202) 683-7118'
+  name: Inter-American Foundation
+  phone: 202-683-7118
   public_liaison: 'Jake Sgambati, Phone: (202) 688-3047'
+  service_center: 'Phone: (202) 683-7117'
+  top_level: false
   website: http://www.iaf.gov/FOIA.aspx?RMId=utJRXaBIjTQ=&DT=rmPU+j3DPhQ=
+description: The Inter-American Foundation (IAF) is an independent agency of the United
+  States government that provides grants to nongovernmental and community-based organizations
+  in Latin America and the Caribbean for innovative, sustainable and participatory
+  self-help programs.
+name: Inter-American Foundation

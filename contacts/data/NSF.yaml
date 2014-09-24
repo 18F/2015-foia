@@ -1,21 +1,22 @@
----
 abbreviation: NSF
-name: National Science Foundation
-description: The National Science Foundation (NSF) is an independent federal agency
-  created by Congress in 1950 "to promote the progress of science; to advance the
-  national health, prosperity, and welfare; to secure the national defense?"
 departments:
-- name: National Science Foundation
-  address:
+- address:
   - Sandra Evans
   - FOIA Officer
   - Suite 1265
   - 4201 Wilson Boulevard
   - Arlington, VA 22230
-  phone: 703-292-8060
-  fax: 703-292-9041
   emails:
   - foia@nsf.gov
-  service_center: 'Phone: (703) 292-8060'
+  fax: 703-292-9041
+  foia_officer: 'Sandra Evans, Phone: (703) 292-8060'
+  name: National Science Foundation
+  phone: 703-292-8060
   public_liaison: 'Sandra Evans, Phone: (703) 292-8060'
+  service_center: 'Phone: (703) 292-8060'
+  top_level: false
   website: http://www.nsf.gov/policies/foia.jsp
+description: The National Science Foundation (NSF) is an independent federal agency
+  created by Congress in 1950 "to promote the progress of science; to advance the
+  national health, prosperity, and welfare; to secure the national defense?"
+name: National Science Foundation

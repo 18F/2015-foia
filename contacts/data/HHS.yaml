@@ -1,118 +1,129 @@
----
 abbreviation: HHS
-name: Department of Health and Human Services
-description: The Department of Health and Human Services (HHS) is the United States
-  government´s principal agency for protecting the health of all Americans and providing
-  essential human services, especially for those who are least able to help themselves.
 departments:
-- name: Office of the Secretary
-  address:
+- address:
   - Michael Bell
   - Acting FOIA Officer
   - Mary E. Switzer Building, Room 2221
   - 300 C Street, SW
   - Washington, DC  20201
-  phone: 202-690-7453
   fax: 202-690-8320
-  service_center: 'Phone: (202) 690-7453'
+  foia_officer: 'Michael Bell, Phone: (202) 690-7453'
+  name: Office of the Secretary
+  phone: 202-690-7453
   public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
-  website: http://www.hhs.gov/foia/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
-- name: Office of the Inspector General
-  address:
+  service_center: 'Phone: (202) 690-7453'
+  top_level: false
+  website: http://www.hhs.gov/foia/index.html
+- address:
   - Robin Brooks
   - FOIA Officer
   - Wilbur J. Cohen Building, Room 1062
   - 330 Independence Avenue, SW
   - Washington, DC 20201
-  phone: 202-619-2541
   fax: 202-205-4030
-  service_center: 'Phone: (202) 619-2541'
+  foia_officer: 'Robin Brooks, Phone: (202) 619-2541'
+  name: Office of the Inspector General
+  phone: 202-619-2541
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
-  website: http://oig.hhs.gov/foia/
   request_form: http://oig.hhs.gov/foia/submit.asp
-- name: Administration for Community Living
-  address:
+  service_center: 'Phone: (202) 619-2541'
+  top_level: false
+  website: http://oig.hhs.gov/foia/
+- address:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
+  fax: (202) 357-0129
+  foia_officer: 'Jason Bennett, Phone: (202) 401-4634'
+  name: Administration for Community Living
   phone: 202-401-4634
-  service_center: 'Phone: (202) 401-4634'
   public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
+  service_center: 'Phone: (202) 401-4634'
+  top_level: true
   website: http://www.aoa.gov/AoARoot/Site_Utilities/FOIA/index.aspx
-- name: Administration for Children and Families
-  address:
+- address:
   - Kimberly N. Epstein
   - FOIA Officer
   - 7th Floor East, Aerospace Building
   - 370 L'Enfant Promenade, S.W.
   - Washington, DC 20447
-  phone: 888-747-1861
-  fax: 202-401-4829
   emails:
   - foia@acf.hhs.gov
-  service_center: 'Phone: (888) 747-1861'
+  fax: 202-401-4829
+  foia_officer: 'Kimberly N. Epstein, Phone: (888) 747-1861'
+  name: Administration for Children and Families
+  phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
-  website: http://www.acf.hhs.gov/acf_foia.html
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
-- name: Agency for Healthcare Research and Quality
-  address:
+  service_center: 'Phone: (888) 747-1861'
+  top_level: false
+  website: http://www.acf.hhs.gov/acf_foia.html
+- address:
   - Carol Maloney
   - FOIA Officer
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
-  phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
-  service_center: 'Phone: (301) 492-4800'
+  foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
+  name: Agency for Healthcare Research and Quality
+  phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
-  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
-- name: Centers for Disease Control and Prevention
-  address:
+  service_center: 'Phone: (301) 492-4800'
+  top_level: true
+  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
+- address:
   - Katherine Norris
   - FOIA Officer
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
-  phone: 770-488-6399
-  fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
-  service_center: 'Phone: (770) 488-6399'
+  fax: 404-235-1852
+  foia_officer: 'Katherine Norris, Phone: (770) 488-6399'
+  name: Centers for Disease Control and Prevention
+  phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
+  service_center: 'Phone: (770) 488-6399'
+  top_level: true
   website: http://www.cdc.gov/od/foia/index.htm
-- name: Agency for Toxic Substances and Disease Registry
-  address:
+- address:
   - Katherine Norris
   - FOIA Officer
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
-  phone: 770-488-6399
-  fax: 404-235-1852
   emails:
   - FOIARequests@cdc.gov
-  service_center: 'Phone: (770) 488-6399'
+  fax: 404-235-1852
+  foia_officer: 'Katherine Norris, Phone: (770) 488-6399'
+  name: Agency for Toxic Substances and Disease Registry
+  phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
+  service_center: 'Phone: (770) 488-6399'
+  top_level: false
   website: http://www.cdc.gov/od/foia/index.htm
-- name: Center for Medicare and Medicaid Services
-  address:
+- address:
   - Michael Marquis
   - FOIA Officer
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
-  phone: 410-786-5353
   fax: 410-786-0474
-  service_center: 'Phone: (410) 786-5353'
-  public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
-  website: http://www.cms.gov/foia/
+  foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
+  name: Center for Medicare and Medicaid Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Food and Drug Administration
-  address:
+  phone: 410-786-5353
+  public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
+  service_center: 'Phone: (410) 786-5353'
+  top_level: true
+  website: http://www.cms.gov/foia/
+- address:
   - Frederick J. Sadler
   - Director, Division of Freedom of Information
   - Office of the Executive Secretariat
@@ -120,81 +131,104 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
-  phone: 301-796-3900
   fax: 301-827-9267
-  service_center: 'Phone: (301) 796-3900'
-  public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
-  website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
+  misc:
+    ? 'Director, Division of Freedom of Information
+
+      Office of the Executive Secretariat
+
+      Office of the Commissioner'
+    : 'Frederick J. Sadler, Phone: (301) 796-3900'
+  name: Food and Drug Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Health Resources and Services Administration
-  address:
+  phone: 301-796-3900
+  public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
+  service_center: 'Phone: (301) 796-3900'
+  top_level: true
+  website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
+- address:
   - Tom Flavin
   - FOIA Officer
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
-  phone: 301-443-3376
-  fax: 301-480-5285
   emails:
   - foia@hrsa.gov
-  service_center: 'Phone: (301) 443-3376'
+  fax: 301-480-5285
+  foia_officer: 'Tom Flavin, Phone: (301) 443-3376'
+  name: Health Resources and Services Administration
+  phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
+  service_center: 'Phone: (301) 443-3376'
+  top_level: true
   website: http://www.hrsa.gov/foia/
-- name: Indian Health Service
-  address:
+- address:
   - William Tibbits
   - FOIA Officer
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
-  phone: 301-443-1116
   fax: 301-443-9879
-  service_center: 'Phone: (301) 443-1116'
-  public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
-  website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
-  request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
+  foia_officer: 'William Tibbits, Phone: (301) 443-1116'
+  name: Indian Health Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: National Institutes of Health
-  address:
+  phone: 301-443-1116
+  public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
+  request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
+  service_center: 'Phone: (301) 443-1116'
+  top_level: true
+  website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
+- address:
   - Susan Cornell
   - FOIA Officer
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
-  phone: 301-496-5633
   fax: 301-402-4541
-  service_center: 'Phone: (301) 496-5633'
-  public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
-  website: http://www.nih.gov/icd/od/foia/index.htm
+  foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
+  name: National Institutes of Health
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-- name: Program Support Center
-  address:
+  phone: 301-496-5633
+  public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
+  service_center: 'Phone: (301) 496-5633'
+  top_level: true
+  website: http://www.nih.gov/icd/od/foia/index.htm
+- address:
   - Carol Maloney
   - FOIA Officer
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
-  phone: 301-492-4800
   emails:
   - FOIArequest@psc.hhs.gov
-  service_center: 'Phone: (301) 492-4800'
+  foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
+  name: Program Support Center
+  phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
-  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
-- name: Substance Abuse and Mental Health Services Administration
-  address:
+  service_center: 'Phone: (301) 492-4800'
+  top_level: false
+  website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
+- address:
   - Jeanette Hite
   - FOIA Officer
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
-  phone: 240-276-2137
-  fax: 240-276-2135
   emails:
   - foia@samhsa.hhs.gov
-  service_center: 'Phone: (240) 276-2137'
+  fax: 240-276-2135
+  foia_officer: 'Jeanette Hite, Phone: (240) 276-2137'
+  name: Substance Abuse and Mental Health Services Administration
+  phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
+  service_center: 'Phone: (240) 276-2137'
+  top_level: true
   website: http://www.samhsa.gov/foia/
+description: The Department of Health and Human Services (HHS) is the United States
+  government´s principal agency for protecting the health of all Americans and providing
+  essential human services, especially for those who are least able to help themselves.
+name: Department of Health and Human Services

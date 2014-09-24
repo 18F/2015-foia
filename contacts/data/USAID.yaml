@@ -1,21 +1,25 @@
----
 abbreviation: USAID
-name: U.S. Agency for International Development
-description: The U.S. Agency for International Development (USAID) is an independent
-  agency that provides economic, development and humanitarian assistance around the
-  world in support of the foreign policy goals of the United States.
 departments:
-- name: U.S. Agency for International Development
-  address:
+- address:
   - Alecia S. Sillah
   - Team Lead, Government Information Specialist (FOIA), Bureau for Management, Office
     of Management Services, Information and Records Division
   - Room 2.7C RRB
   - 1300 Pennsylvania Avenue, N.W.
   - Washington, D.C. 20523-2701
-  phone: 202-712-0960
   emails:
   - FOIA@usaid.gov
-  service_center: 'Phone: (202) 712-0960'
+  misc:
+    ? Team Lead, Government Information Specialist (FOIA), Bureau for Management,
+      Office of Management Services, Information and Records Division
+    : 'Alecia S. Sillah, Phone: (202) 712-0960'
+  name: U.S. Agency for International Development
+  phone: 202-712-0960
   public_liaison: 'Lynn P. Winston, Phone: (202) 712-0960'
+  service_center: 'Phone: (202) 712-0960'
+  top_level: false
   website: http://www.usaid.gov/foia-requests
+description: The U.S. Agency for International Development (USAID) is an independent
+  agency that provides economic, development and humanitarian assistance around the
+  world in support of the foreign policy goals of the United States.
+name: U.S. Agency for International Development

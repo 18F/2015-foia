@@ -1,24 +1,25 @@
----
 abbreviation: NEA
-name: National Endowment for the Arts
+departments:
+- address:
+  - Monica Ashar
+  - FOIA Officer
+  - Room 608
+  - 1100 Pennsylvania Avenue, NW
+  - Washington, DC  20506
+  emails:
+  - foia@arts.gov
+  fax: 202-682-5572
+  foia_officer: 'Monica Ashar, Phone: (202) 682-5418'
+  name: National Endowment for the Arts
+  phone: 202-682-5418
+  public_liaison: 'Phone: (202) 682-5418'
+  service_center: 'Phone: (202) 682-5418'
+  top_level: false
+  website: http://www.arts.gov/about/FOIA/index.html
 description: The National Endowment for the Arts was established by Congress in 1965
   as an independent agency of the federal government. To date, the NEA has awarded
   more than $4 billion to support artistic excellence, creativity, and innovation
   for the benefit of individuals and communities. The NEA extends its work through
   partnerships with state arts agencies, local leaders, other federal agencies, and
   the philanthropic sector.
-departments:
-- name: National Endowment for the Arts
-  address:
-  - Monica Ashar
-  - FOIA Officer
-  - Room 608
-  - 1100 Pennsylvania Avenue, NW
-  - Washington, DC  20506
-  phone: 202-682-5418
-  fax: 202-682-5572
-  emails:
-  - foia@arts.gov
-  service_center: 'Phone: (202) 682-5418'
-  public_liaison: 'Phone: (202) 682-5418'
-  website: http://www.arts.gov/about/FOIA/index.html
+name: National Endowment for the Arts

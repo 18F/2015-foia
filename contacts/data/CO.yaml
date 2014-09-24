@@ -1,17 +1,21 @@
----
 abbreviation: CO
-name: United States Copyright Office
-description: "The Office's mission is: \"To promote creativity by administering\r\nand
-  sustaining an effective national copyright system.\""
 departments:
-- name: United States Copyright Office
-  address:
+- address:
   - Denise Garrett
-  - Supervisory Copyright Information Specialist, GC/I&R
+  - Supervisory Copyright Information Specialist, GC/I&R;
   - P.O. Box 70400, SW
   - Washington, DC 20024
-  phone: 202-707-6800
   fax: 202-707-6859
-  service_center: 'Phone: (202) 707-6800'
+  misc:
+    Supervisory Copyright Information Specialist, GC/I&R: 'Denise Garrett, Phone:
+      (202) 707-6800'
+  name: United States Copyright Office
+  phone: 202-707-6800
   public_liaison: 'Denise Garrett, Phone: (202) 707-6800'
+  service_center: 'Phone: (202) 707-6800'
+  top_level: false
   website: http://www.copyright.gov/foia/
+description: 'The Office''s mission is: "To promote creativity by administering
+
+  and sustaining an effective national copyright system."'
+name: United States Copyright Office

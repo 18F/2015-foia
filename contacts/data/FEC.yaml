@@ -1,24 +1,24 @@
----
 abbreviation: FEC
-name: Federal Election Commission
+departments:
+- address:
+  - FOIA Contact
+  - FOIA Requester Service Center
+  - Room 408
+  - 999 E Street, NW
+  - Washington, DC 20463
+  emails:
+  - FOIA@fec.gov
+  fax: 202-219-1043
+  name: Federal Election Commission
+  phone: 202-694-1650
+  public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
+  service_center: 'Candace Salley, Phone: (202) 694-1650'
+  top_level: false
+  website: http://www.fec.gov/press/foia.shtml
 description: In 1975, Congress created the Federal Election Commission (FEC) to administer
   and enforce the Federal Election Campaign Act (FECA) - the statute that governs
   the financing of federal elections. The duties of the FEC, which is an independent
   regulatory agency, are to disclose campaign finance information, to enforce the
   provisions of the law such as the limits and prohibitions on contributions, and
   to oversee the public funding of Presidential elections.
-departments:
-- name: Federal Election Commission
-  address:
-  - FOIA Contact
-  - FOIA Requester Service Center
-  - Room 408
-  - 999 E Street, NW
-  - Washington, DC 20463
-  phone: 202-694-1650
-  fax: 202-219-1043
-  emails:
-  - FOIA@fec.gov
-  service_center: 'Candace Salley, Phone: (202) 694-1650'
-  public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
-  website: http://www.fec.gov/press/foia.shtml
+name: Federal Election Commission

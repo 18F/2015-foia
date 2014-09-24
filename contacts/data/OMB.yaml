@@ -1,20 +1,20 @@
----
 abbreviation: OMB
-name: Office of Management and Budget
-description: The core mission of OMB is to serve the President of the United States
-  in implementing his vision across the Executive Branch.
 departments:
-- name: Office of Management and Budget
-  address:
+- address:
   - Dionne Hardy
   - FOIA Officer
   - Room 9026
   - 725 17th Street, NW
   - Washington, DC 20503
-  phone: 202-395-3642
-  fax: 202-395-3504
   emails:
   - OMBFOIA@omb.eop.gov
-  service_center: 'Phone: (202) 395-3642'
+  fax: 202-395-3504
+  name: Office of Management and Budget
+  phone: 202-395-3642
   public_liaison: 'Lauren Wright, Phone: (202) 395-7250'
+  service_center: 'Phone: (202) 395-3642'
+  top_level: false
   website: http://www.whitehouse.gov/omb/foia_default
+description: The core mission of OMB is to serve the President of the United States
+  in implementing his vision across the Executive Branch.
+name: Office of Management and Budget
