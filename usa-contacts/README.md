@@ -11,12 +11,6 @@ The files below are located in the data directory:
 | federal-offices.csv | data dump from SQL in https://github.com/GSA/project-open-data-dashboard#installation |
 
 
-
-
-
-
-
-
 ### Sample json from records
 
 ```
