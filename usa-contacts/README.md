@@ -1,4 +1,4 @@
-# registry.usa.gov Agency Data
+# usa.gov API Agency Data
 
 ## Data directory
 
