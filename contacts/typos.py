@@ -8,6 +8,7 @@ REPLACEMENTS = {
 
 KEYWORDS = {
     'CIA': ['spies', 'espionage', 'counterintelligence'],
+    'CFPB': ['HMDA', 'credit cards', 'mortgage'],
     'GSA': ['purchase cards', 'federal contracts', 'government forms'],
     'OSTP': ['white house', 'cto'],
 }
