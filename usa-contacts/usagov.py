@@ -3,7 +3,7 @@ import sys
 import os
 
 import requests
-from foia_hub.settings.default import BASE_DIR
+from foia_hub.settings.base import BASE_DIR
 
 
 # TODO: Should this be a part of a generic utilities for data stuff?
