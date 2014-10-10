@@ -1,5 +1,7 @@
 beautifulsoup4
 pyyaml
+requests
+requests_cache
 xlrd
 
 flake8

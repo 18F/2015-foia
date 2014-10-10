@@ -10,17 +10,19 @@ It scrapes/parses the contact details out of these sources, and makes YAML files
 ## Using
 
 First, install all of the Python dependencies (we assume you are familiar with
-Python environments, pip and the like). Then run the two relevant scripts:
+Python environments, pip and the like). Then run the three relevant scripts:
 
 ```bash
 pip install -r requirements.txt
 python scraper.py
 python layer_with_csv.py
+python keywords_from_fr.py
 ```
 
 If an agency's HTML has already been downloaded, it will not be downloaded
 again. To re-download, delete the `html/` directory and run again. Similarly,
-the XLS file is stored locally in the `xls/` directory.
+the XLS file is stored locally in the `xls/` directory. JSON responses pulled
+from the Federal Register for keywords are logged in an SQLite DB.
 
 ## Data
 
