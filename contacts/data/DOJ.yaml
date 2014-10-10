@@ -77,6 +77,72 @@ departments:
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
+  keywords:
+  - Administrative practice and procedure
+  - Advertising
+  - Aircraft
+  - Alcohol and alcoholic beverages
+  - Antitrust
+  - Armed forces
+  - Arms and munitions
+  - Arson
+  - Authority delegations (Government agencies)
+  - Bankruptcy
+  - Beer
+  - Caribbean Basin initiative
+  - Chemicals
+  - Cigars and cigarettes
+  - Claims
+  - Consumer protection
+  - Cosmetics
+  - Credit
+  - Customs duties and inspection
+  - Disaster assistance
+  - Domestic violence
+  - Drugs
+  - Electronic funds transfers
+  - Excise taxes
+  - Explosives
+  - Exports
+  - Food additives
+  - Foods
+  - Foreign trade zones
+  - Freedom of information
+  - Fruit juices
+  - Fruits
+  - Gasohol
+  - Government employees
+  - Hazardous substances
+  - Health
+  - Imports
+  - Intergovernmental relations
+  - Labeling
+  - Law enforcement
+  - Law enforcement officers
+  - Liquors
+  - Military personnel
+  - Packaging and containers
+  - Penalties
+  - Privacy
+  - Puerto Rico
+  - Reporting and recordkeeping requirements
+  - Research
+  - Safety
+  - Science and technology
+  - Scientific equipment
+  - Security measures
+  - Seizures and forfeitures
+  - Spices and flavorings
+  - Stills
+  - Surety bonds
+  - Tobacco
+  - Trade practices
+  - Transportation
+  - Vessels
+  - Vinegar
+  - Virgin Islands
+  - Warehouses
+  - Wine
   misc:
     Division Chief: 'Stephanie Boucher, Phone: (202) 648-8740'
   name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
@@ -145,6 +211,30 @@ departments:
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
+  keywords:
+  - Administrative practice and procedure
+  - Arms and munitions
+  - Authority delegations (Government agencies)
+  - Chemicals
+  - Communications equipment
+  - Copyright
+  - Courts
+  - Crime
+  - Drug traffic control
+  - Exports
+  - Gambling
+  - Government employees
+  - Imports
+  - Motor vehicles
+  - Organization and functions (Government agencies)
+  - Prescription drugs
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Research
+  - Security measures
+  - Seizures and forfeitures
+  - Whistleblowing
+  - Wiretapping and electronic surveillance
   misc:
     Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section: 'Katherine
       L. Myrick, Phone: (202) 305-7596'
@@ -179,6 +269,20 @@ departments:
   emails:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
+  keywords:
+  - Administrative practice and procedure
+  - Aliens
+  - Citizenship and naturalization
+  - Civil rights
+  - Employment
+  - Equal employment opportunity
+  - Immigration
+  - Law enforcement
+  - Lawyers
+  - Legal services
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Reporting and recordkeeping requirements
   misc:
     Senior Associate General Counsel, Office of the General Counsel: 'Cecelia Espenoza,
       Phone: (703) 605-1297'
@@ -246,6 +350,23 @@ departments:
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Classified information
+  - Computer technology
+  - Courts
+  - Crime
+  - Intergovernmental relations
+  - Investigations
+  - Law enforcement
+  - Law enforcement officers
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Security measures
+  - Telecommunications
+  - Wiretapping and electronic surveillance
   misc:
     Chief, Record/Information Dissemination Section, Records Management Division: 'David
       M. Hardy, Phone: (540) 868-4500'
@@ -263,6 +384,13 @@ departments:
   - Washington, DC 20534
   emails:
   - ogc_efoia@bop.gov
+  keywords:
+  - Administrative practice and procedure
+  - Claims
+  - Employment
+  - Lawyers
+  - Legal services
+  - Prisoners
   misc:
     Chief, FOIA/PA Section: 'Wanda M. Hunt, Phone: (202) 514-6655'
   name: Federal Bureau of Prisons
@@ -399,6 +527,23 @@ departments:
   emails:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
+  keywords:
+  - Administrative practice and procedure
+  - Claims
+  - Crime
+  - Disability benefits
+  - Education
+  - Emergency medical services
+  - Firefighters
+  - Grant programs
+  - Grant programs-law
+  - Law enforcement
+  - Law enforcement officers
+  - Motor vehicle safety
+  - Motor vehicles
+  - Reporting and recordkeeping requirements
+  - Transportation
+  - Victim compensation
   misc:
     Government Information Specialist: 'Dorothy Lee, Phone: (202) 616-3267'
   name: Office of Justice Programs
@@ -615,6 +760,10 @@ departments:
   - Washington, DC 20530
   emails:
   - USPC.FOIA@usdoj.gov
+  keywords:
+  - Administrative practice and procedure
+  - Prisoners
+  - Probation and parole
   misc:
     FOIA/PA Specialist: 'Anissa Banks, Phone: (202) 346-7030'
   name: United States Parole Commission
@@ -645,4 +794,151 @@ description: The Department's mission is to enforce the law and defend the inter
   foreign and domestic; to provide federal leadership in preventing and controlling
   crime; to seek just punishment for those guilty of unlawful behavior; and to ensure
   fair and impartial administration of justice for all Americans.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Aged
+- Air carriers
+- Aircraft
+- Airmen
+- Airports
+- Alcoholism
+- Aliens
+- Antitrust
+- Archives and records
+- Arms and munitions
+- Authority delegations (Government agencies)
+- Bankruptcy
+- Brokers
+- Buildings and facilities
+- Business and industry
+- Cancer
+- Chemicals
+- Cigars and cigarettes
+- Citizenship and naturalization
+- Civil rights
+- Claims
+- Classified information
+- Clemency
+- Colleges and universities
+- Communications
+- Communications equipment
+- Computer technology
+- Consumer protection
+- Copyright
+- Courts
+- Credit
+- Crime
+- Cultural exchange programs
+- Customs duties and inspection
+- Disability benefits
+- Disaster assistance
+- Domestic violence
+- Drug abuse
+- Drug traffic control
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Elections
+- Emergency medical services
+- Employment
+- Environmental impact statements
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Ethics
+- Excise taxes
+- Explosives
+- Exports
+- Federal buildings and facilities
+- Firefighters
+- Foreign officials
+- Foreign relations
+- Fraud
+- Freedom of information
+- Gambling
+- Government contracts
+- Government employees
+- Government property
+- Government property management
+- Grant programs
+- Grant programs-education
+- Grant programs-law
+- Grant programs-social programs
+- Hazardous substances
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Historic preservation
+- Human research subjects
+- Immigration
+- Imports
+- Income taxes
+- Indians
+- Individuals with disabilities
+- Intergovernmental relations
+- Investigations
+- Justice Department
+- Juvenile delinquency
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Legal services
+- Loan programs
+- Maritime carriers
+- Mass transportation
+- Migrant labor
+- Military personnel
+- Motor vehicle safety
+- Motor vehicles
+- Nonprofit organizations
+- Organization and functions (Government agencies)
+- Packaging and containers
+- Passports and visas
+- Penalties
+- Political committees and parties
+- Prescription drugs
+- Prisoners
+- Prisons
+- Privacy
+- Probation and parole
+- Radioactive materials
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Safety
+- Scientific equipment
+- Seals and insignia
+- Search warrants
+- Security measures
+- Seizures and forfeitures
+- Sex discrimination
+- Small businesses
+- State and local governments
+- Student aid
+- Students
+- Sunshine Act
+- Surety bonds
+- Technical assistance
+- Telecommunications
+- Terrorism
+- Tobacco
+- Transportation
+- Treaties
+- Trusts and trustees
+- Underground mining
+- Uranium
+- Vessels
+- Veterans
+- Victim compensation
+- Wages
+- Warehouses
+- Whistleblowing
+- Wiretapping and electronic surveillance
+- Women
 name: Department of Justice

@@ -28,6 +28,32 @@ departments:
   emails:
   - haffoia.workflow@pentagon.af.mil
   fax: 703-696-7273
+  keywords:
+  - Administrative practice and procedure
+  - Air carriers
+  - Alimony
+  - Aviation safety
+  - Child support
+  - Civil defense
+  - Civil disorders
+  - Claims
+  - Courts
+  - Credit
+  - Disaster assistance
+  - Environmental impact statements
+  - Federal buildings and facilities
+  - Foreign relations
+  - Inventions and patents
+  - Law enforcement
+  - Military air transportation
+  - Military law
+  - Military personnel
+  - Motor vehicles
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Safety
+  - Wake Island
   misc:
     FOIA Contact: 'JoAnne Collins, Phone: (703) 696-2735'
   name: Department of the Air Force - Headquarters/ICIO (FOIA)
@@ -49,6 +75,51 @@ departments:
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
+  keywords:
+  - Administrative practice and procedure
+  - Air pollution control
+  - Archives and records
+  - Armed forces
+  - Biologics
+  - Cemeteries
+  - Civil disorders
+  - Claims
+  - Credit
+  - Crime
+  - Disaster assistance
+  - District of Columbia
+  - Environmental impact statements
+  - Environmental protection
+  - Federal buildings and facilities
+  - Freedom of information
+  - Government contracts
+  - Government employees
+  - Government procurement
+  - Government property
+  - Hazardous substances
+  - Health
+  - Health care
+  - Historic preservation
+  - Intergovernmental relations
+  - Investigations
+  - Law
+  - Law enforcement
+  - Law enforcement officers
+  - Military law
+  - Military personnel
+  - National defense
+  - Natural resources
+  - Noise control
+  - Occupational safety and health
+  - Penalties
+  - Privacy
+  - Radiation protection
+  - Research
+  - Safety
+  - Traffic regulations
+  - Veterans
+  - Waste treatment and disposal
+  - Water pollution control
   misc:
     FOIA Contact: 'Alecia Bolling, Phone: (703) 428-7128'
   name: Department of the Army - Freedom of Information and Privacy Office
@@ -66,6 +137,41 @@ departments:
   - 2000 Navy Pentagon
   - Washington, DC 20350-2000
   fax: 202-685-6580
+  keywords:
+  - Administrative practice and procedure
+  - Archives and records
+  - Armed forces
+  - Claims
+  - Conflict of interests
+  - Courts
+  - Crime
+  - Endangered and threatened species
+  - Environmental impact statements
+  - Federal buildings and facilities
+  - Fish
+  - Freedom of information
+  - Government employees
+  - Government property
+  - Government property management
+  - Health care
+  - Law
+  - Law enforcement
+  - Lawyers
+  - Legal services
+  - Marine safety
+  - Military law
+  - Military personnel
+  - National defense
+  - Navigation (water)
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Security measures
+  - Surplus Government property
+  - Trusts and trustees
+  - Vessels
+  - Wildlife
   misc:
     FOIA Contact, Chief of Naval Operations: 'Robin Patterson, Phone: (202) 685-0412'
   name: Department of the Navy - Main Office
@@ -137,6 +243,8 @@ departments:
   emails:
   - DCAA-FOIA@dcaa.mil
   fax: 703-767-1011
+  keywords:
+  - Privacy
   name: Defense Contract Audit Agency - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -222,6 +330,9 @@ departments:
   emails:
   - hq-foia@dla.mil
   fax: 703-767-6091
+  keywords:
+  - Government procurement
+  - Privacy
   misc:
     'FOIA Contact, ATTN: DGA': 'Debbie Teer, Phone: (703) 767-5247, (703) 767-6183'
   name: Defense Logistics Agency - Headquarters
@@ -558,4 +669,192 @@ departments:
   website: http://www.transcom.mil/Foia/generalInfoFoia.action
 description: The mission of the Department of Defense is to provide the military forces
   needed to deter war and to protect the security of our country.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Advertising
+- Advisory committees
+- Aged
+- Air carriers
+- Air pollution control
+- Air traffic control
+- Aircraft
+- Airports
+- Alcohol abuse
+- Alcohol and alcoholic beverages
+- Alcoholism
+- Alimony
+- Archives and records
+- Armed forces
+- Armed forces reserves
+- Arms and munitions
+- Aviation safety
+- Biologics
+- Blind
+- Bridges
+- Buildings and facilities
+- Business and industry
+- Cemeteries
+- Child support
+- Child welfare
+- Civil defense
+- Civil disorders
+- Civil rights
+- Claims
+- Classified information
+- Coastal zone
+- Colleges and universities
+- Community development
+- Concessions
+- Conflict of interests
+- Conscientious objectors
+- Consumer protection
+- Continental shelf
+- Courts
+- Credit
+- Crime
+- Dams
+- Day care
+- Defense Department
+- Defense communications
+- Dental health
+- Disability benefits
+- Disaster assistance
+- District of Columbia
+- Drug abuse
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Elections
+- Elementary and secondary education
+- Employment
+- Endangered and threatened species
+- Energy
+- Environmental impact statements
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Federal buildings and facilities
+- Federally affected areas
+- Fire prevention
+- Fish
+- Flood control
+- Food assistance programs
+- Foreign currencies
+- Foreign relations
+- Fraud
+- Freedom of information
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Government property management
+- Government publications
+- Grant programs
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-veterans
+- HIV/AIDS
+- Hazardous substances
+- Health
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Health records
+- Highway safety
+- Historic preservation
+- Homeless
+- Hospitals
+- Hostages
+- Housing
+- Human research subjects
+- Income taxes
+- Indians
+- Indians-lands
+- Individuals with disabilities
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Labor management relations
+- Labor unions
+- Law
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Lebanon
+- Legal services
+- Life insurance
+- Loan programs
+- Loan programs-education
+- Loan programs-veterans
+- Manpower training programs
+- Marine safety
+- Medical and dental schools
+- Medical devices
+- Medical research
+- Mental health programs
+- Military air transportation
+- Military law
+- Military personnel
+- Motor vehicles
+- National defense
+- Natural resources
+- Navigation (air)
+- Navigation (water)
+- Noise control
+- Nonprofit organizations
+- Nuclear energy
+- Nursing homes
+- Occupational safety and health
+- Organization and functions (Government agencies)
+- Passports and visas
+- Penalties
+- Privacy
+- Public lands
+- Radiation protection
+- Real property acquisition
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Reservoirs
+- Rights-of-way
+- Safety
+- Schools
+- Science and technology
+- Seamen
+- Security measures
+- Sex discrimination
+- Statistics
+- Student aid
+- Surplus Government property
+- Taxes
+- Teachers
+- Technical assistance
+- Traffic regulations
+- Transportation
+- Travel and transportation expenses
+- Trusts and trustees
+- Vessels
+- Veterans
+- Vocational education
+- Vocational rehabilitation
+- Wages
+- Wake Island
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Waterways
+- Wildlife
+- Wiretapping and electronic surveillance
+- Women
 name: Department of Defense

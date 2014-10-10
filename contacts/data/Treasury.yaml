@@ -6,6 +6,11 @@ departments:
   - 1500 Pennsylvania Avenue, NW
   - Washington, DC 20220
   fax: 202-622-3895
+  keywords:
+  - Courts
+  - Freedom of information
+  - Government employees
+  - Privacy
   misc:
     Director, Disclosure Services: 'Ryan Law, Phone: (202) 622-0930'
   name: Departmental Offices
@@ -24,6 +29,61 @@ departments:
   emails:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
+  keywords:
+  - Administrative practice and procedure
+  - Advertising
+  - Aircraft
+  - Alcohol and alcoholic beverages
+  - Armed forces
+  - Arms and munitions
+  - Authority delegations (Government agencies)
+  - Beer
+  - Caribbean Basin initiative
+  - Chemicals
+  - Cigars and cigarettes
+  - Claims
+  - Consumer protection
+  - Cosmetics
+  - Credit
+  - Customs duties and inspection
+  - Domestic violence
+  - Drugs
+  - Electronic funds transfers
+  - Excise taxes
+  - Explosives
+  - Exports
+  - Food additives
+  - Foreign trade zones
+  - Freedom of information
+  - Fruit juices
+  - Fruits
+  - Gasohol
+  - Health
+  - Imports
+  - Labeling
+  - Law enforcement
+  - Liquors
+  - Military personnel
+  - Packaging and containers
+  - Penalties
+  - Puerto Rico
+  - Reporting and recordkeeping requirements
+  - Research
+  - Safety
+  - Scientific equipment
+  - Security measures
+  - Seizures and forfeitures
+  - Spices and flavorings
+  - Stills
+  - Surety bonds
+  - Tobacco
+  - Trade practices
+  - Transportation
+  - Vessels
+  - Vinegar
+  - Virgin Islands
+  - Warehouses
+  - Wine
   misc:
     FOIA Contact, Disclosure Services: 'Quinton Mason, Phone: (202) 882-9904'
   name: Alcohol and Tobacco Tax and Trade Bureau
@@ -39,6 +99,8 @@ departments:
   - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
   fax: 202-874-2951
+  keywords:
+  - Currency
   misc:
     FOIA Contact, FOIA Office: 'Disclosure Officer, Phone: (202) 874-2500'
   name: Bureau of Engraving and Printing
@@ -57,6 +119,79 @@ departments:
   - Washington, DC 20219
   emails:
   - foia-pa@occ.treas.gov
+  keywords:
+  - Accountants
+  - Accounting
+  - Administrative practice and procedure
+  - Advertising
+  - Aged
+  - Agriculture
+  - Antitrust
+  - Authority delegations (Government agencies)
+  - Bank deposit insurance
+  - Brokers
+  - Business and industry
+  - Civil rights
+  - Claims
+  - Community development
+  - Computer technology
+  - Confidential business information
+  - Conflict of interests
+  - Consumer protection
+  - Credit
+  - Credit unions
+  - Crime
+  - Currency
+  - Electronic funds transfers
+  - Equal access to justice
+  - Equal employment opportunity
+  - Estates
+  - Ethics
+  - Exports
+  - Fair housing
+  - Federal Reserve System
+  - Flood insurance
+  - Foreign banking
+  - Foreign currencies
+  - Foreign trade
+  - Freedom of information
+  - Gambling
+  - Government securities
+  - Holding companies
+  - Individuals with disabilities
+  - Insurance
+  - Insurance companies
+  - Investigations
+  - Investment companies
+  - Investments
+  - Law enforcement
+  - Lawyers
+  - Loan programs-housing and community development
+  - Low and moderate income housing
+  - Manufactured homes
+  - Marital status discrimination
+  - Minority businesses
+  - Mortgages
+  - National banks
+  - Nonprofit organizations
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Privacy
+  - Religious discrimination
+  - Reporting and recordkeeping requirements
+  - Rural areas
+  - Savings associations
+  - Securities
+  - Security measures
+  - Sex discrimination
+  - Signs and symbols
+  - Small businesses
+  - Surety bonds
+  - Trade practices
+  - Trusts and trustees
+  - Truth in lending
+  - United States investments abroad
+  - Women
   misc:
     ? 'Disclosures Services
 
@@ -74,6 +209,22 @@ departments:
   - P.O. Box 39
   - Vienna, VA 22183
   fax: 703-905-5126
+  keywords:
+  - Administrative practice and procedure
+  - Authority delegations (Government agencies)
+  - Brokers
+  - Currency
+  - Federal home loan banks
+  - Foreign banking
+  - Foreign currencies
+  - Gambling
+  - Investigations
+  - Law enforcement
+  - Mortgages
+  - Penalties
+  - Reporting and recordkeeping requirements
+  - Securities
+  - Terrorism
   misc:
     Disclosure (FOIA) Office: 'Amanda Michanczyk, Phone: (703) 905-3537'
   name: Financial Crimes Enforcement Network
@@ -89,6 +240,69 @@ departments:
   - 401 14th Street, SW
   - Washington, DC 20227
   fax: 202-874-2391
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Aged
+  - Air traffic controllers
+  - Alcoholism
+  - Alimony
+  - Archives and records
+  - Black lung benefits
+  - Blind
+  - Bonds
+  - Cemeteries
+  - Child support
+  - Child welfare
+  - Claims
+  - Courts
+  - Credit
+  - Crime
+  - Disability benefits
+  - Drug abuse
+  - Electronic funds transfers
+  - Federal Reserve System
+  - Firefighters
+  - Flags
+  - Foreign banking
+  - Forgery
+  - Fraud
+  - Freedom of information
+  - Government contracts
+  - Government employees
+  - Government property
+  - Government securities
+  - Grant programs
+  - Housing
+  - Income taxes
+  - Insurance
+  - Insurance companies
+  - Intergovernmental relations
+  - Inventions and patents
+  - Investigations
+  - Law enforcement officers
+  - Loan programs
+  - Medicaid
+  - Parking
+  - Penalties
+  - Privacy
+  - Railroad retirement
+  - Railroad unemployment insurance
+  - Reporting and recordkeeping requirements
+  - Retirement
+  - Seals and insignia
+  - Securities
+  - Security measures
+  - Social security
+  - Supplemental Security Income (SSI)
+  - Surety bonds
+  - Taxes
+  - Travel and transportation expenses
+  - Treaties
+  - Unemployment compensation
+  - Veterans
+  - Vocational rehabilitation
+  - Wages
   misc:
     Disclosure Officer: 'Cynthia Sydnor/Denise Nelson, Phone: (202) 874-5602'
   name: Bureau of Fiscal Services
@@ -104,6 +318,70 @@ departments:
   - HQ FOIA Stop 211
   - 'HQ & FOIA Operations ATTn: IRS FOIA Request 2980 Brandywine Road'
   - Chamblee, GA 30341
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Advertising
+  - Advisory committees
+  - Alimony
+  - Bankruptcy
+  - Bonds
+  - Brokers
+  - Campaign funds
+  - Child support
+  - Consumer protection
+  - Continental shelf
+  - Courts
+  - Crime
+  - Drugs
+  - Employee benefit plans
+  - Employment taxes
+  - Estate taxes
+  - Excise taxes
+  - Fishing vessels
+  - Foreign relations
+  - Foundations
+  - Freedom of information
+  - Gambling
+  - Gift taxes
+  - Government employees
+  - Grant programs-health
+  - Health care
+  - Health insurance
+  - Health records
+  - Hospitals
+  - Income taxes
+  - Individuals with disabilities
+  - Insurance
+  - Investigations
+  - Investments
+  - Law enforcement
+  - Loan programs-health
+  - Lobbying
+  - Medicaid
+  - Motor vehicles
+  - Nonprofit organizations
+  - Oil pollution
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Privacy
+  - Public assistance programs
+  - Railroad retirement
+  - Reporting and recordkeeping requirements
+  - Seals and insignia
+  - Securities
+  - Social security
+  - State and local governments
+  - Statistics
+  - Sunshine Act
+  - Taxes
+  - Technical assistance
+  - Telephone
+  - Transportation
+  - Trusts and trustees
+  - Unemployment compensation
+  - Women
+  - Youth
   misc:
     FOIA Contact: 'Disclosure Manager, Phone: (202) 317-3475'
   name: Internal Revenue Service - Headquarters Office
@@ -152,4 +430,275 @@ description: The Department's mission is to maintain a strong economy and create
   stability at home and abroad, strengthen national security by combating threats
   and protecting the integrity of the financial system, and manage the U.S. Government´s
   finances and resources effectively.
+keywords:
+- Accountants
+- Accounting
+- Administrative practice and procedure
+- Advertising
+- Advisory committees
+- Afghanistan
+- Aged
+- Agricultural commodities
+- Agriculture
+- Air carriers
+- Air pollution control
+- Air traffic controllers
+- Air transportation
+- Aircraft
+- Airports
+- Alcohol and alcoholic beverages
+- Alcoholism
+- Aliens
+- Alimony
+- American Samoa
+- Antidumping
+- Antitrust
+- Archives and records
+- Armed forces
+- Arms and munitions
+- Arson
+- Authority delegations (Government agencies)
+- Bank deposit insurance
+- Bankruptcy
+- Beer
+- Black lung benefits
+- Blind
+- Blocking of assets
+- Bonds
+- Brokers
+- Buildings and facilities
+- Burma
+- Business and industry
+- Cambodia
+- Campaign funds
+- Canada
+- Cargo vessels
+- Caribbean Basin initiative
+- Cemeteries
+- Chemicals
+- Child support
+- Child welfare
+- Cigars and cigarettes
+- Civil rights
+- Claims
+- Classified information
+- Coastal zone
+- Colleges and universities
+- Commodity futures
+- Common carriers
+- Communications
+- Community development
+- Computer technology
+- Confidential business information
+- Conflict of interests
+- Consumer protection
+- Continental shelf
+- Cosmetics
+- Countervailing duties
+- Courts
+- Credit
+- Credit unions
+- Crime
+- Cuba
+- Currency
+- Customs duties and inspection
+- Diamonds
+- Disability benefits
+- Disaster assistance
+- Domestic violence
+- Drug abuse
+- Drug traffic control
+- Drugs
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electronic funds transfers
+- Electronic products
+- Employee benefit plans
+- Employment taxes
+- Equal access to justice
+- Equal educational opportunity
+- Equal employment opportunity
+- Estate taxes
+- Estates
+- Ethics
+- Excise taxes
+- Explosives
+- Exports
+- Fair housing
+- Federal Reserve System
+- Federal home loan banks
+- Firefighters
+- Fisheries
+- Fishing vessels
+- Flags
+- Flood insurance
+- Food additives
+- Foods
+- Foreign banking
+- Foreign claims
+- Foreign currencies
+- Foreign investments in United States
+- Foreign relations
+- Foreign trade
+- Foreign trade zones
+- Forgery
+- Foundations
+- Fraud
+- Freedom of information
+- Freight
+- Freight forwarders
+- Fruit juices
+- Fruits
+- Gambling
+- Gasohol
+- Gift taxes
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Government securities
+- Grant programs
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Guam
+- Harbors
+- Hazardous substances
+- Health
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Health records
+- Holding companies
+- Hospitals
+- Housing
+- Humanitarian aid
+- Immigration
+- Imports
+- Income taxes
+- Individuals with disabilities
+- Insurance
+- Insurance companies
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Investment companies
+- Investments
+- Iran
+- Iraq
+- Labeling
+- Laboratories
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Lebanon
+- Liberia
+- Libya
+- Liquors
+- Loan programs
+- Loan programs-health
+- Loan programs-housing and community development
+- Lobbying
+- Low and moderate income housing
+- Manufactured homes
+- Marine resources
+- Marital status discrimination
+- Maritime carriers
+- Medicaid
+- Medical devices
+- Mexico
+- Midway Islands
+- Military personnel
+- Minority businesses
+- Mortgages
+- Motor carriers
+- Motor vehicles
+- National banks
+- National defense
+- Natural resources
+- New Investment
+- Nonprofit organizations
+- Nuclear materials
+- Oil imports
+- Oil pollution
+- Organization and functions (Government agencies)
+- Packaging and containers
+- Parking
+- Passenger vessels
+- Penalties
+- Petroleum
+- Privacy
+- Public assistance programs
+- Puerto Rico
+- Railroad retirement
+- Railroad unemployment insurance
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Retirement
+- Rural areas
+- Russian Federation
+- Safety
+- Savings associations
+- Science and technology
+- Scientific equipment
+- Seals and insignia
+- Securities
+- Security measures
+- Seizures and forfeitures
+- Services
+- Sex discrimination
+- Signs and symbols
+- Small businesses
+- Social security
+- Specially Designated Nationals
+- Spices and flavorings
+- State and local governments
+- Statistics
+- Stills
+- Student aid
+- Sudan
+- Sunshine Act
+- Supplemental Security Income (SSI)
+- Surety bonds
+- Taxes
+- Teachers
+- Technical assistance
+- Telecommunications
+- Telephone
+- Terrorism
+- Tobacco
+- Trade agreements
+- Trade practices
+- Trademarks
+- Transportation
+- Travel and transportation expenses
+- Travel restrictions
+- Treaties
+- Trusts and trustees
+- Truth in lending
+- Unemployment compensation
+- United States investments abroad
+- Uranium
+- Vessels
+- Veterans
+- Vietnam
+- Vinegar
+- Virgin Islands
+- Vocational rehabilitation
+- Wages
+- Wake Island
+- Warehouses
+- Western Balkans
+- Wildlife
+- Wine
+- Women
+- Youth
+- Yugoslavia
 name: Department of the Treasury
