@@ -55,6 +55,7 @@ def create_sample_file(sample_recs,
         data = json.load(open(data_source))
     except FileNotFoundError:
         grab_and_save_data()
+        data = json.load(open(data_source))
 
     samples = []
 
