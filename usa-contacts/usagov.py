@@ -24,8 +24,6 @@ def setup_data_dir():
     # Make a data directory if it doesn't exist
     if not os.path.isdir("data"):
         os.mkdir("data")
-        return True
-    return False
 
 
 def grab_and_save_data():
