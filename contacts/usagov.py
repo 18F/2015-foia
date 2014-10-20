@@ -5,18 +5,13 @@ import os
 import requests
 
 
-# TODO: Should this be a part of a generic utilities for data stuff?
-# This is also used in the general contacts directory
-DEFAULT_DATA_FOLDER = 'foia/usa-contacts/data'
-
-
 def setup_data_dir():
     '''
         Setup a data dir if it doesn't exist.
     '''
     # Make a data directory if it doesn't exist
-    if not os.path.isdir("data"):
-        os.mkdir("data")
+    if not os.path.isdir("usagov-data"):
+        os.mkdir("usagov-data")
 
 
 def grab_and_save_data():
@@ -30,14 +25,15 @@ def grab_and_save_data():
     data = r.json()['Contact']
 
     setup_data_dir()
-    with open('data/all_usa_data.json', 'w') as outfile:
+    with open('usagov-data/all_usa_data.json', 'w') as outfile:
         json.dump(data, outfile)
 
 
 def create_sample_file(sample_recs,
-                       data_source='data/all_usa_data.json'):
+                       data_source='usagov-data/all_usa_data.json'):
     '''
-        Example: create_sample_file([0, 100, 250, 400], 'data/all_data.json')
+        Example: create_sample_file([0, 100, 250, 400],
+                                    'usagov-data/all_data.json')
         Pulls indexed records from full datasets to create sample data.
     '''
 
@@ -53,7 +49,7 @@ def create_sample_file(sample_recs,
     for n in sample_recs:
         samples.append(data[n])
 
-    with open('data/sample_data.json', 'w') as outfile:
+    with open('usagov-data/sample_data.json', 'w') as outfile:
         json.dump(samples, outfile)
 
 
@@ -67,7 +63,7 @@ if __name__ == "__main__":
 
             python usagov.py
 
-            The result will be saved in 'data/'.
+            The result will be saved in 'usagov-data/'.
 
         To generate a sample file from the data, run the following:
 
