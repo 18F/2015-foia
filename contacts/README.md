@@ -66,6 +66,12 @@ departments:
 *Warning* - Integration between usa.gov data and the above scraper is not
 complete. For now, we only download the JSON data files
 
+To run, execute
+
+```
+python usagov.py
+```
+
 The files below are located in the usagov-data directory:
 
 | File name      | Description   |
