@@ -244,8 +244,7 @@ def add_top_level(abbr, agency):
 def save_agency(abb):
     """For a given agency, download (if not already present) their HTML,
     process it, and save the resulting YAML"""
-    if not os.path.isdir("html"):
-        os.mkdir("html")
+    os.makedirs('html', exist_ok=True)
     html_path = "html" + os.sep + "%s.html" % abb
     if not os.path.isfile(html_path):
         body = ""
@@ -264,15 +263,20 @@ def save_agency(abb):
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
-    if not os.path.isdir("data"):
-        os.mkdir("data")
+
+    save_agency_data(abb, data)
+
+def save_agency_data(agency_abbr, data, data_directory='data'):
+    """ Actually do the save. """
+    os.makedirs(data_directory, exist_ok=True)
+
     if data:
-        with open("data" + os.sep + "%s.yaml" % abb, 'w') as f:
+        with open(data_directory + os.sep + "%s.yaml" % agency_abbr, 'w') as f:
             f.write(yaml.dump(data, default_flow_style=False,
                     allow_unicode=True))
-            logging.info("[%s] Parsed.", abb)
+            logging.info("[%s] Parsed.", agency_abbr)
     else:
-        logging.warning("[%s] DID NOT PARSE, NO.", abb)
+        logging.warning("[%s] DID NOT PARSE, NO.", agency_abbr)
 
 
 def save_agencies():
