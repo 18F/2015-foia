@@ -1,0 +1,19 @@
+departments:
+- name: Administration for Community Living
+  top_level: true
+- name: Agency for Healthcare Research and Quality
+  top_level: true
+- name: Centers for Disease Control and Prevention
+  top_level: true
+- name: Center for Medicare and Medicaid Services
+  top_level: true
+- name: Food and Drug Administration
+  top_level: true
+- name: Health Resources and Services Administration
+  top_level: true
+- name: Indian Health Service
+  top_level: true
+- name: National Institutes of Health
+  top_level: true
+- name: Substance Abuse and Mental Health Services Administration
+  top_level: true

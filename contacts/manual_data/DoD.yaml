@@ -1,0 +1,19 @@
+departments:
+- name: Office of the Secretary and Joint Staff
+  top_level: true
+- name: Department of the Air Force
+  top_level: true
+- name: Department of the Army
+  top_level: true
+- name: Department of the Navy
+  top_level: true
+- name: Marine Corps
+  top_level: true
+- name: National Geographic Intelligence Agency
+  top_level: true
+- name: National Guard Bureau
+  top_level: true
+- name: National Reconnaissance Office
+  top_level: true
+- name: National Security Agency
+  top_level: true

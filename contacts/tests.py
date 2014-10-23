@@ -1,8 +1,10 @@
+import os
 from copy import deepcopy
 from unittest import TestCase
 
 from bs4 import BeautifulSoup
 from mock import Mock, patch
+import yaml
 
 import keywords_from_fr as fr
 import layer_with_csv as layer
@@ -10,6 +12,13 @@ import scraper
 
 
 class ScraperTests(TestCase):
+    def test_save_agency_data(self):
+        scraper.save_agency_data(
+            'TEST', {'name': 'Test Agency'}, data_directory='/tmp/test/')
+        self.assertTrue(os.path.isfile('/tmp/test/TEST.yaml'))
+        test_data = yaml.load(open('/tmp/test/TEST.yaml', 'r'))
+        self.assertEqual({'name': 'Test Agency'}, test_data)
+
     def test_agency_description(self):
         """Description should be pulled out and BRs should be converted"""
         html = """

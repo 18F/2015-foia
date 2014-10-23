@@ -1,0 +1,16 @@
+departments:
+- name: Office of the Attorney General
+  top_level: true
+- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  top_level: true
+- name: Drug Enforcement Administration
+  top_level: true
+- name: Federal Bureau of Investigation
+  top_level: true
+  description: "As an intelligence-driven and a threat-focused national security organization with both intelligence and law enforcement responsibilities, the mission of the FBI is to protect and defend the United States against terrorist and foreign intelligence threats, to uphold and enforce the criminal laws of the United States, and to provide leadership and criminal justice services to federal, state, municipal, and international agencies and partners."
+- name: Federal Bureau of Prisons
+  top_level: true
+- name: Office of Community Oriented Policing Services
+  top_level: true
+- name: United States Marshals Service
+  top_level: true
