@@ -1,0 +1,15 @@
+departments:
+- name: Bureau of International Labor Affairs
+  top_level: true
+- name: Bureau of Labor Statistics
+  top_level: true
+- name: Employee Benefits Security Administration
+  top_level: true
+- name: Employment & Training Administration
+  top_level: true
+- name: Job Corps
+  top_level: true
+- name: Mine Safety & Health Administration
+  top_level: true
+- name: Occupational Safety & Health Administration
+  top_level: true

@@ -1,0 +1,15 @@
+departments:
+- name: U.S. Citizenship & Immigration Services
+  top_level: true
+- name: U.S. Coast Guard
+  top_level: true
+- name: U.S. Customs & Border Protection
+  top_level: true
+- name: Federal Emergency Management Agency
+  top_level: true
+- name: Federal Law Enforcement Training Center
+  top_level: true
+- name: U.S. Immigration & Customs Enforcement
+  top_level: true
+- name: United States Secret Service
+  top_level: true

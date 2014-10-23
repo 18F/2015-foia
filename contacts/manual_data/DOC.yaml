@@ -1,0 +1,15 @@
+departments:
+- name: Census Bureau
+  top_level: true
+- name: International Trade Administration
+  top_level: true
+- name: Minority Business Development Agency
+  top_level: true
+- name: National Institute of Standards and Technology
+  top_level: true
+- name: National Technical Information Service
+  top_level: true
+- name: National Oceanic and Atmospheric Administration
+  top_level: true
+- name: U.S. Patent and Trademark Office
+  top_level: true

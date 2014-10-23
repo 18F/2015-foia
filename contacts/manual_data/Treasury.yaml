@@ -1,0 +1,13 @@
+departments:
+- name: Alcohol and Tobacco Tax and Trade Bureau
+  top_level: true
+- name: Bureau of Engraving and Printing
+  top_level: true
+- name: Comptroller of the Currency
+  top_level: true
+- name: Financial Crimes Enforcement Network
+  top_level: true
+- name: Internal Revenue Service
+  top_level: true
+- name: United States Mint
+  top_level: true

@@ -1,0 +1,15 @@
+departments:
+- name: Office of the Attorney General
+  top_level: true
+- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  top_level: true
+- name: Drug Enforcement Administration
+  top_level: true
+- name: Federal Bureau of Investigation
+  top_level: true
+- name: Federal Bureau of Prisons
+  top_level: true
+- name: Office of Community Oriented Policing Services
+  top_level: true
+- name: United States Marshals Service
+  top_level: true

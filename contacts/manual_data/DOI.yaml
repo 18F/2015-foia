@@ -1,0 +1,15 @@
+departments:
+- name: Bureau of Indian Affairs
+  top_level: true
+- name: Bureau of Land Management
+  top_level: true
+- name: Bureau of Ocean Energy Management
+  top_level: true
+- name: Bureau of Reclamation
+  top_level: true
+- name: Bureau of Safety and Environmental Enforcement
+  top_level: true
+- name: U.S. Fish and Wildlife Service
+  top_level: true
+- name: National Park Service
+  top_level: true
