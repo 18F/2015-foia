@@ -31,7 +31,7 @@ re-process the data for all agencies. You can however provide an agency
 abbreviation as a parameter, and it will only process the data for that agency. 
 
 Agency abbreviations are currently listed
-[here](https://github.com/18F/foia/blob/master/contacts/scraper.py#L21)
+[here.](https://github.com/18F/foia/blob/master/contacts/scraper.py#L21)
 
 ## Data
 
