@@ -7,7 +7,7 @@ if __name__ == "__main__":
     create manual override YAML files for the agencies. """
 
     agencies = {}
-        
+
     for agency in typos.KEYWORDS.keys():
         data = {}
         data = scraper.add_keywords(agency, data)
@@ -17,7 +17,7 @@ if __name__ == "__main__":
         departments = []
 
         for department in typos.TOP_LEVEL[agency]:
-            department = {'name': department, 'top_level':True}
+            department = {'name': department, 'top_level': True}
             departments.append(department)
 
         data = agencies.get(agency, {})

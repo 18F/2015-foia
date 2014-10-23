@@ -266,6 +266,7 @@ def save_agency(abb):
 
     save_agency_data(abb, data)
 
+
 def save_agency_data(agency_abbr, data, data_directory='data'):
     """ Actually do the save. """
     os.makedirs(data_directory, exist_ok=True)
@@ -298,12 +299,11 @@ def download_agency(abb):
 
 
 if __name__ == "__main__":
-    """ 
+    """
         python scraper.py <<agency_abbreviation>>
-        will only scrape and save the data for the provided agency. 
+        will only scrape and save the data for the provided agency.
 
-        python scraper.py will scrape and save data for all the agencies. 
-    
+        python scraper.py will scrape and save data for all the agencies.
     """
     logging.basicConfig(level=logging.INFO)
 

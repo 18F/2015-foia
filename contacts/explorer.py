@@ -26,7 +26,7 @@ def process_yaml_data(data_key):
                 count += 1
             else:
                 # Print out the values to the variance in the information.
-                #print(data['name'])  # Get agency name
+                # print(data['name'])  # Get agency name
                 print(data_value)
 
     print('------------------------------------------------------')
