@@ -24,6 +24,15 @@ again. To re-download, delete the `html/` directory and run again. Similarly,
 the XLS file is stored locally in the `xls/` directory. JSON responses pulled
 from the Federal Register for keywords are logged in an SQLite DB.
 
+### scraper.py
+
+scraper.py operates in two modes. Without any command line arguments it will
+re-process the data for all agencies. You can however provide an agency
+abbreviation as a parameter, and it will only process the data for that agency. 
+
+Agency abbreviations are currently listed
+[here.](https://github.com/18F/foia/blob/master/contacts/scraper.py#L21)
+
 ## Data
 
 _**(Work-in-progress)**_

@@ -294,13 +294,20 @@ def download_agency(abb):
 
 
 if __name__ == "__main__":
+    """ 
+        python scraper.py <<agency_abbreviation>>
+        will only scrape and save the data for the provided agency. 
+
+        python scraper.py will scrape and save data for all the agencies. 
+    
+    """
     logging.basicConfig(level=logging.INFO)
 
-    agency_name = None
-    if len(sys.argv) > 1 and sys.argv[1].strip():
-        agency_name = sys.argv[1].strip()
+    agency_abbr = None
+    if len(sys.argv) > 1:
+        agency_abbr = sys.argv[1]
 
-    if agency_name:
-        save_agency(agency_name)
+    if agency_abbr:
+        save_agency(agency_abbr)
     else:
         save_agencies()
