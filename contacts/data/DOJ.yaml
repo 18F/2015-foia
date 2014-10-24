@@ -6,6 +6,7 @@ departments:
   - Suite 11050
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
+  description: No Description
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
@@ -74,6 +75,8 @@ departments:
   - Room 1E-400
   - 99 New York Avenue, NE
   - Washington, DC 20226
+  description: The Bureau of Alcohol, Tobacco, Firearms, and Explosives enforces federal
+    criminal laws regulating the firearms and explosives industries.
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
@@ -150,6 +153,7 @@ departments:
   public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
   service_center: 'Phone: (202) 648-8740'
   top_level: true
+  usa_id: '49081'
   website: http://www.atf.gov/content/contact-us/FOIA
 - address:
   - James M. Kovakas
@@ -208,6 +212,9 @@ departments:
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
   - Springfield, VA 22152
+  description: The Drug Enforcement Administration enforces the United States' controlled
+    substance laws and regulations and aims to reduce the supply of and demand for
+    such substances.
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
@@ -243,6 +250,7 @@ departments:
   public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
   service_center: 'Phone: (202) 307-7596'
   top_level: true
+  usa_id: '52688'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - address:
   - Sarah Lu
@@ -347,6 +355,12 @@ departments:
   - Chief, Record/Information Dissemination Section, Records Management Division
   - 170 Marcel Drive
   - Winchester, VA 22602-4843
+  description: As an intelligence-driven and a threat-focused national security organization
+    with both intelligence and law enforcement responsibilities, the mission of the
+    FBI is to protect and defend the United States against terrorist and foreign intelligence
+    threats, to uphold and enforce the criminal laws of the United States, and to
+    provide leadership and criminal justice services to federal, state, municipal,
+    and international agencies and partners.
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
@@ -375,14 +389,16 @@ departments:
   public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
   service_center: 'Phone: (540) 868-1535'
   top_level: true
+  usa_id: '49278'
   website: http://www.fbi.gov/foia/
-  description: "As an intelligence-driven and a threat-focused national security organization with both intelligence and law enforcement responsibilities, the mission of the FBI is to protect and defend the United States against terrorist and foreign intelligence threats, to uphold and enforce the criminal laws of the United States, and to provide leadership and criminal justice services to federal, state, municipal, and international agencies and partners."
 - address:
   - Wanda M. Hunt
   - Chief, FOIA/PA Section
   - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
+  description: The Bureau of Prisons manages federal prisons, and community-based
+    facilities that provide work and opportunities to assist offenders.
   emails:
   - ogc_efoia@bop.gov
   keywords:
@@ -400,6 +416,7 @@ departments:
   request_form: http://www.bop.gov/foia/submit.jsp
   service_center: 'Phone: (202) 616-7750'
   top_level: true
+  usa_id: '49126'
   website: http://www.bop.gov/foia/index.jsp
 - address:
   - Jeremy LaFrancois
@@ -475,6 +492,9 @@ departments:
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
   - Washington, DC 20530-0001
+  description: The Office of Community Oriented Policing Services advances the practice
+    of community policing through sharing information and making grants to police
+    departments in the United States.
   emails:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
@@ -485,6 +505,7 @@ departments:
   public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
   service_center: 'Phone: (202) 353-9864'
   top_level: true
+  usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
   - Carmen L. Mallon
@@ -741,6 +762,12 @@ departments:
   - FOIA/PA, CS 4, 10th Floor
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
+  description: Part of the Department of Justice, the Marshals Service is responsible
+    for providing security to the federal judiciary, managing the witness security
+    program, managing and selling the seized or forfeited assets of criminals, is
+    responsible for the confinement and transportation of federal prisoners who have
+    not been turned over to the bureau of prisons, and is the primary federal agency
+    responsible for fugitive investigations.
   emails:
   - usms.foia@usdoj.gov
   misc:
@@ -752,6 +779,7 @@ departments:
     307-9052'
   service_center: 'Phone: (202) 307-9054'
   top_level: true
+  usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
 - address:
   - Anissa Banks
@@ -943,3 +971,4 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Justice
+usa_id: '52686'

@@ -1,4 +1,4 @@
-#Update Yaml files with usa_id and description
+#Update Yaml files with usa_id, description, and acronyms
 
 import yaml
 import xlrd

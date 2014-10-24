@@ -34,6 +34,7 @@ departments:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
+  description: No Description
   fax: (202) 357-0129
   foia_officer: 'Jason Bennett, Phone: (202) 401-4634'
   name: Administration for Community Living
@@ -95,6 +96,9 @@ departments:
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
+  description: The Agency for Healthcare Research and Quality supports research to
+    improve the quality, safety, efficiency, and effectiveness of health care for
+    all Americans.
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
@@ -104,6 +108,7 @@ departments:
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (301) 492-4800'
   top_level: true
+  usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
 - address:
   - Katherine Norris
@@ -111,6 +116,10 @@ departments:
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
+  description: CDC collaborates to create the expertise, information, and tools that
+    people and communities need to protect their health through health promotion,
+    prevention of disease, injury and disability, and preparedness for new health
+    threats.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -137,6 +146,7 @@ departments:
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   service_center: 'Phone: (770) 488-6399'
   top_level: true
+  usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
   - Katherine Norris
@@ -160,6 +170,11 @@ departments:
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
+  description: The Medicare Service Center answers your questions about Medicare topics,
+    manages your orders of Medicare publications, provides detailed information about
+    the Medicare managed care plans in your area, shares Medicare health plan quality
+    and customer satisfaction information. Contact the Center to obtain the phone
+    number to your state Medicaid office.
   fax: 410-786-0474
   foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
   keywords:
@@ -238,6 +253,7 @@ departments:
   public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
   service_center: 'Phone: (410) 786-5353'
   top_level: true
+  usa_id: '49134'
   website: http://www.cms.gov/foia/
 - address:
   - Frederick J. Sadler
@@ -247,6 +263,10 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
+  description: The FDA is responsible for protecting the public health by assuring
+    the safety, efficacy, and security of human and veterinary drugs, biological products,
+    medical devices, our nations food supply, cosmetics, and products that emit radiation.
+    The FDA also provides accurate, science-based health information to the public.
   fax: 301-827-9267
   keywords:
   - Adhesives
@@ -343,6 +363,7 @@ departments:
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   service_center: 'Phone: (301) 796-3900'
   top_level: true
+  usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
 - address:
   - Tom Flavin
@@ -350,6 +371,8 @@ departments:
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
+  description: The Health Resources and Services Administration improves access to
+    healthcare for people who are uninsured, isolated, or medically vulnerable.
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
@@ -381,6 +404,7 @@ departments:
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
   service_center: 'Phone: (301) 443-3376'
   top_level: true
+  usa_id: '49359'
   website: http://www.hrsa.gov/foia/
 - address:
   - William Tibbits
@@ -388,6 +412,8 @@ departments:
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
+  description: The Indian Health Service provides federal health services to American
+    Indians and Alaska Natives.
   fax: 301-443-9879
   foia_officer: 'William Tibbits, Phone: (301) 443-1116'
   keywords:
@@ -412,6 +438,7 @@ departments:
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   service_center: 'Phone: (301) 443-1116'
   top_level: true
+  usa_id: '49386'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
 - address:
   - Susan Cornell
@@ -419,6 +446,8 @@ departments:
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
+  description: The National Institutes of Health (NIH) is the primary Federal agency
+    for conducting and supporting medical research.
   fax: 301-402-4541
   foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
   keywords:
@@ -436,6 +465,7 @@ departments:
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   service_center: 'Phone: (301) 496-5633'
   top_level: true
+  usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
   - Carol Maloney
@@ -459,6 +489,9 @@ departments:
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
+  description: Through grants and research, the Substance Abuse and Mental Health
+    Services Administration works to improve substance abuse and mental health treatment
+    services to those who are most in need of them.
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135
@@ -690,3 +723,4 @@ keywords:
 - Yogurt
 - Youth
 name: Department of Health and Human Services
+usa_id: '49021'

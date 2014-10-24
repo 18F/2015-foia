@@ -23,6 +23,8 @@ departments:
   - National Records Center, FOIA/PA Office
   - P.O. Box 648010
   - Lee's Summit, MO 64064-8010
+  description: U.S. Citizenship and Immigration Services oversees immigration to the
+    United States.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
@@ -41,6 +43,7 @@ departments:
   public_liaison: 'Jill Eggleston, Phone: (816) 350-5521'
   service_center: 'Phone: (816) 350-5521 (USCIS National Customer Service Unit)'
   top_level: true
+  usa_id: '49112'
   website: http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=34139c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=34139c7755cb9010VgnVCM10000045f3d6a1RCRD
 - address:
   - Aeron Pineiro, Acting
@@ -64,6 +67,8 @@ departments:
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
   - 2703 Martin Luther King Jr Ave
   - Washington, DC 20593-7710
+  description: The U.S. Coast Guard safeguards the maritime interests of the United
+    States and the environment around the world.
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
@@ -183,6 +188,7 @@ departments:
   public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
   service_center: 'Amanda Ackerson, Phone: (202) 475-3522'
   top_level: true
+  usa_id: '49149'
   website: http://www.uscg.mil/foia/
 - address:
   - Sabrina Burroughs
@@ -190,6 +196,8 @@ departments:
   - 90 K Street, NE
   - 9th Floor
   - Washington, DC 20229-1181
+  description: 'Customs and Border Protection prevents people from entering the country
+    illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
   foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
   keywords:
@@ -294,6 +302,7 @@ departments:
   request_form: https://foia.cbp.gov/palMain.aspx
   service_center: 'Phone: (202) 325-0150'
   top_level: true
+  usa_id: '55927'
   website: http://www.cbp.gov/xp/cgov/admin/fl/foia/
 - address:
   - Terry Cochran
@@ -301,6 +310,9 @@ departments:
   - Room 840
   - 500 C Street, SW
   - Washington, DC 20472
+  description: FEMA supports citizens and emergency personnel to build, sustain, and
+    improve the nations capability to prepare for, protect against, respond to, recover
+    from, and mitigate all hazards.
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -379,12 +391,16 @@ departments:
   request_form: https://faq.fema.gov/ci/documents/submit
   service_center: 'Phone: (202) 646-3323'
   top_level: true
+  usa_id: '48042'
   website: http://www.fema.gov/help/foia.shtm
 - address:
   - Leslie A. Jensen
   - FOIA Officer
   - 'Building #681, Suite 187B'
   - Glynco, GA 31524
+  description: The Federal Law Enforcement Training Center provides law enforcement
+    training for 91 federal agencies, several state, local, and tribal agencies, and
+    oversees or assists with training at serveral International Law Enforcement Academies.
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -395,6 +411,7 @@ departments:
   request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
   service_center: 'Phone: (912) 267-3103'
   top_level: true
+  usa_id: '49308'
   website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
 - address:
   - Catrina Pavlick-Keenan
@@ -402,6 +419,8 @@ departments:
   - Mail Stop 5009
   - 500 12th Street, SW
   - Washington, DC 20536-5009
+  description: Immigration and Customs Enforcement enforces federal laws governing
+    border control, customs, trade, and immigration.
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -421,6 +440,7 @@ departments:
   request_form: http://www.ice.gov/foia/request-form.htm
   service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
   top_level: true
+  usa_id: '49711'
   website: http://www.ice.gov/foia/index.htm
 - address:
   - Stephanie Kuehn
@@ -502,6 +522,9 @@ departments:
   - Building 410
   - 245 Murray Drive
   - Washington, DC 20223
+  description: The Secret Service works to safeguard the nation's financial infrastructure.
+    The Secret Service is also responsible for protecting national leaders, visiting
+    heads of state, and National Special Security Events.
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
@@ -513,6 +536,7 @@ departments:
   public_liaison: 'Latita Payne, Phone: (202) 406-6370'
   service_center: 'Phone: (202) 406-6370'
   top_level: true
+  usa_id: '49660'
   website: http://www.secretservice.gov/foia.shtml
 - address:
   - Michael Johnson
@@ -552,3 +576,4 @@ description: 'The Department of Homeland Security has a vital mission: to secure
 keywords:
 - Bridges
 name: Department of Homeland Security
+usa_id: '49022'

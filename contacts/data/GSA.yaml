@@ -1,4 +1,8 @@
 abbreviation: GSA
+common_requests:
+- Federal contracts
+- Purchase card use
+- Government forms
 departments:
 - address:
   - FOIA Contact
@@ -20,10 +24,6 @@ departments:
 description: GSA's mission is to use expertise to provide innovative solutions for
   our customers in support of their missions and by so doing, foster an effective,
   sustainable, and transparent government for the American people.
-common_requests:
-- Federal contracts
-- Purchase card use
-- Government forms
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -165,3 +165,4 @@ keywords:
 - government forms
 - purchase cards
 name: General Services Administration
+usa_id: '49048'

@@ -1,4 +1,4 @@
-abbreviation: U.S. DOL
+abbreviation: DOL
 departments:
 - address:
   - Ramona Branch Oliver
@@ -20,6 +20,10 @@ departments:
   - Room S-5317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
+  description: The Bureau of International Labor Affairs works to improve working
+    conditions, raise living standards, protect workers’ ability to exercise their
+    rights, and address the workplace exploitation of children and other vulnerable
+    populations.
   emails:
   - ILABFOIA@dol.gov
   name: Bureau of International Labor Affairs
@@ -27,18 +31,22 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-4877'
   top_level: true
+  usa_id: '49121'
   website: http://www.dol.gov/ilab/
 - address:
   - FOIA Disclosure Officer
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
   - Washington, DC 20212-0001
+  description: The Bureau of Labor Statistics measures labor market activity, working
+    conditions, and price changes in the economy.
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 691-7628'
   top_level: true
+  usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
 - address:
   - Sharon Watson
@@ -46,6 +54,8 @@ departments:
   - Public Disclosure Room, Suite N-1513
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
+  description: The EBSA provides information and assistance on private sector, employer-sponsored
+    retirement benefit and health benefit plans.
   emails:
   - foiarequest@dol.gov
   keywords:
@@ -90,11 +100,14 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-8655'
   top_level: true
+  usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
 - address:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
+  description: The Employment and Training Administration provides job training and
+    assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
   - Accounting
@@ -168,6 +181,7 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-3676'
   top_level: true
+  usa_id: '52693'
   website: http://www.doleta.gov/foia/
 - address:
   - FOIA Disclosure Officer
@@ -187,6 +201,9 @@ departments:
   - Room 2314
   - 1100 Wilson Boulevard
   - Arlington, VA 22209-3939
+  description: The Mine Safety and Health Administration works to prevent mining related
+    deaths, injuries, and illnesses through mine regulations, inspections, and training
+    programs.
   emails:
   - foiarequest@dol.gov
   fax: 202-963-9441
@@ -246,6 +263,7 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-9424'
   top_level: true
+  usa_id: '49462'
   website: http://www.msha.gov/READROOM/READROOM.HTM
 - address:
   - FOIA Disclosure Officer
@@ -378,6 +396,9 @@ departments:
   - Room N3647
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
+  description: The Occupational Safety and Health Administration (OSHA) assures safe
+    and healthful working conditions for working men and women by setting and enforcing
+    standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
   - Administrative practice and procedure
@@ -441,6 +462,7 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-1999'
   top_level: true
+  usa_id: '48101'
   website: http://www.osha.gov/as/opa/foia/foia.html
 - address:
   - Carrie Timus
@@ -763,3 +785,4 @@ keywords:
 - X-rays
 - Youth
 name: Department of Labor
+usa_id: '49028'

@@ -1,10 +1,11 @@
-abbreviation: DoD
+abbreviation: DOD
 departments:
 - address:
   - FOIA Contact
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
   - Washington, DC 20301-1155
+  description: No Description
   emails:
   - FOIA.LIAISON@WHS.MIL
   fax: 571-372-0500
@@ -417,6 +418,8 @@ departments:
   - Office of Information and Privacy (NGB/JA-OIP)
   - 111 South George Mason Drive, AH2
   - Arlington, VA 22204-1373
+  description: The National Guard assists in times of local emergency and can also
+    be called into federal service.
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
   fax: 703-607-3684
@@ -426,6 +429,7 @@ departments:
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: (703) 607-3195'
   top_level: true
+  usa_id: '49506'
   website: http://www.ng.mil/sitelinks/foia.aspx
 - address:
   - Patricia B. Cameresi
@@ -433,6 +437,8 @@ departments:
   - 'ATTN: CIO/Information Management Services Office'
   - 14675 Lee Road
   - Chantilly, VA 20151-1715
+  description: The National Reconnaissance Office is responsible for designing, building,
+    launching, and maintaining intelligence satellites.
   emails:
   - foia@nro.mil
   - foia@nro.mil
@@ -446,6 +452,7 @@ departments:
   request_form: http://www.nro.gov/foia/RequestInput.aspx
   service_center: 'Phone: (703) 227-9326'
   top_level: true
+  usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
 - address:
   - Cindy S. Blacker
@@ -453,6 +460,9 @@ departments:
   - Suite 6248
   - 9800 Savage Road
   - Fort George G. Meade, MD 20755-6248
+  description: The National Security Agency and Central Security Service are the "codemaker
+    and codebreakers" of the intelligence community, providing foreign signal and
+    communications intelligence to decision makers.
   emails:
   - foiarsc@nsa.gov
   - foiarsc@nsa.gov
@@ -463,6 +473,7 @@ departments:
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
   service_center: 'Phone: (301) 688-6527'
   top_level: true
+  usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
 - address:
   - Jeanne Miller
@@ -858,3 +869,4 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Defense
+usa_id: '49229'
