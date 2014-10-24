@@ -257,8 +257,10 @@ def update_list_in_dict(data, field, new_values_list):
     original_values = set(data[field])
     data[field] = list(original_values | set(new_values_list))
 
-
 def update_non_departments(agency_data, manual_data):
+    """ Apply all the non-department changes from manual_data to agency_data.
+    """
+
     agency_data = dict(agency_data)
 
     list_fields = ['emails', 'common_requests', 'keywords']
@@ -273,6 +275,9 @@ def update_non_departments(agency_data, manual_data):
     return agency_data
 
 def actual_apply(agency_data, manual_data):
+    """ Actually apply the changes in manual_data to agency_data. This handles
+    the departments. """
+
     agency_data = update_non_departments(agency_data, manual_data)
     manual_depts = {}
     if 'departments' in manual_data:
