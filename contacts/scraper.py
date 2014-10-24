@@ -211,8 +211,9 @@ def parse_agency(abb, doc):
               "name": agency_name,
               "description": description,
               "departments": departments}
-    agency = add_keywords(abb, agency)
-    return add_top_level(abb, agency)
+    return agency
+    #agency = add_keywords(abb, agency)
+    #return add_top_level(abb, agency)
 
 
 def fix_known_typos(text):
@@ -222,23 +223,79 @@ def fix_known_typos(text):
     return text
 
 
-def add_keywords(abbr, agency):
-    """Returns a version of 'agency' with keywords inserted (where
-    appropriate). Does not mutate agency"""
-    if abbr in typos.KEYWORDS:
-        agency = dict(agency, keywords=typos.KEYWORDS[abbr])
-    return agency
+#def add_keywords(abbr, agency):
+#    """Returns a version of 'agency' with keywords inserted (where
+#    appropriate). Does not mutate agency"""
+#    if abbr in typos.KEYWORDS:
+#        agency = dict(agency, keywords=typos.KEYWORDS[abbr])
+#    return agency
 
 
-def add_top_level(abbr, agency):
-    """Returns a version of 'agency' such that its departments have been
-    marked with 'top_level' or not. Does not mutate agency"""
-    departments = []
-    for department in agency['departments']:
-        top_level = department['name'] in typos.TOP_LEVEL.get(abbr, [])
-        departments.append(dict(department, top_level=top_level))
-    agency = dict(agency, departments=departments)
-    return agency
+#def add_top_level(abbr, agency):
+#    """Returns a version of 'agency' such that its departments have been
+#    marked with 'top_level' or not. Does not mutate agency"""
+#    departments = []
+#    for department in agency['departments']:
+#        top_level = department['name'] in typos.TOP_LEVEL.get(abbr, [])
+#        departments.append(dict(department, top_level=top_level))
+#    agency = dict(agency, departments=departments)
+#    return agency
+
+def agency_yaml_filename(data_directory, agency_abbr):
+    return os.path.join(data_directory, '%s.yaml' % agency_abbr)
+
+
+def read_manual_data(agency_abbr, manual_data_dir='manual_data'):
+    if os.path.isdir(manual_data_dir):
+        filename = agency_yaml_filename(manual_data_dir, agency_abbr)
+        if os.path.exists(filename):
+            manual_data = yaml.load(open(filename, 'r'))
+            return manual_data
+
+
+def update_list_in_dict(data, field, new_values_list):
+    original_values = set(data[field])
+    data[field] = list(original_values | set(new_values_list))
+
+
+def update_non_departments(agency_data, manual_data):
+    agency_data = dict(agency_data)
+
+    list_fields = ['emails', 'common_requests', 'keywords']
+
+    for field in manual_data.keys():
+        if field not in list_fields + ['departments']:
+            agency_data[field] = manual_data[field]
+
+    for field in list_fields:
+        if field in manual_data and field not in ['departments']:
+            update_list_in_dict(agency_data, field, manual_data[field])
+    return agency_data
+
+def actual_apply(agency_data, manual_data):
+    agency_data = update_non_departments(agency_data, manual_data)
+    manual_depts = {}
+    if 'departments' in manual_data:
+        for dept in manual_data['departments']:
+            manual_depts[dept['name']] = dept
+
+        departments = []
+        if 'departments' in agency_data:
+            for dept in agency_data['departments']:
+                if dept['name'] in manual_depts:
+                    new_department = update_non_departments(dept, manual_depts[dept['name']])
+                else:
+                    new_department = dict(dept)
+                departments.append(new_department)
+            agency_data['departments'] = departments
+    return agency_data
+ 
+
+def apply_manual_data(agency_abbr, agency_data):
+    """ In the manual data directory, we have all the manual over-rides for
+    various contact fields. Apply those here. """
+    manual_data = read_manual_data(agency_abbr)
+    return actual_apply(agency_data, manual-data)
 
 
 def save_agency(abb):
@@ -263,8 +320,9 @@ def save_agency(abb):
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
+    data = apply_manual_data(abb, data)
 
-    save_agency_data(abb, data)
+    #save_agency_data(abb, data)
 
 
 def save_agency_data(agency_abbr, data, data_directory='data'):

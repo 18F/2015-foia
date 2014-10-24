@@ -12,6 +12,81 @@ import scraper
 
 
 class ScraperTests(TestCase):
+    def test_update_list_in_dict(self):
+        original = {'keywords': ['accounting', 'estates']}
+        scraper.update_list_in_dict(
+            original, 'keywords', ['accounting', 'employment', 'courts'])
+
+        self.assertEqual(
+            sorted(list(original['keywords'])),
+            ['accounting', 'courts', 'employment', 'estates'])
+
+    def test_actual_apply(self):
+        agency_data = {
+            'emails': ['foia@agency.gov'],
+            'common_requests': ['spaceship plans'],
+            'keywords': ['purchase card use', 'government forms'],
+            'name': 'Best agency',
+            'description': "The most important agency.",
+            'departments': [
+                {
+                    'name': 'department one', 
+                    'emails': ['department.one@agency.gov'],
+                    'keywords': ['department one things'], 
+                },
+                {
+                    'name': 'department two',
+                    'emails': ['department.two@agency.gov']
+                }
+            ]
+        }
+
+        manual_data = {
+            'no_records_about': ['aliens'],
+            'emails': ['public.liaison@agency.gov'],
+            'description': 'One of the most important agencies',
+            'common_requests': ['travel data'],
+            'keywords': ['election data', 'courts'],
+            'departments': [
+                {'name': 'department one',
+                'top_level': True,
+                'emails': ['onefoia@agency.gov'],
+                'keywords': ['first things']}
+            ]
+        }
+
+        applied = scraper.actual_apply(agency_data, manual_data)
+
+        self.assertEqual(
+            sorted(applied['emails']),
+            ['foia@agency.gov', 'public.liaison@agency.gov'])
+        self.assertEqual(
+            sorted(applied['keywords']), 
+            [
+                'courts', 'election data',
+                'government forms', 'purchase card use'])
+        self.assertEqual(
+            sorted(applied['common_requests']),
+            ['spaceship plans', 'travel data'])
+
+        self.assertEqual(applied['no_records_about'], ['aliens'])
+        self.assertEqual(
+            applied['description'],
+            'One of the most important agencies')
+
+        department_names = [d['name'] for d in applied['departments']]
+        self.assertEqual(department_names, ['department one', 'department two'])
+        
+    def test_read_manual_data(self):
+        scraper.save_agency_data(
+            'TEST', {'name': 'Test Agency'}, data_directory='/tmp/test/')
+        data = scraper.read_manual_data('TEST', manual_data_dir='/tmp/test')
+        self.assertEqual({'name': 'Test Agency'}, data)
+
+    def test_agency_yaml_filename(self):
+        filename = scraper.agency_yaml_filename('/tmp', 'TEST')
+        self.assertEqual('/tmp/TEST.yaml', filename)
+
     def test_save_agency_data(self):
         scraper.save_agency_data(
             'TEST', {'name': 'Test Agency'}, data_directory='/tmp/test/')
@@ -189,29 +264,29 @@ class ScraperTests(TestCase):
         self.assertEqual(chicago_call[0][0]['id'], "2")
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
 
-    @patch.dict('typos.KEYWORDS', {'AGENCY': ['keyword1', 'kw2']})
-    def test_add_keywords(self):
-        """This should only add keywords to the if the abbreviation is
-        'AGENCY' and should not affect the dict otherwise."""
-        result = scraper.add_keywords('NONAGENCY', {})
-        self.assertEqual({}, result)
-        result = scraper.add_keywords('AGENCY', {})
-        self.assertEqual({'keywords': ['keyword1', 'kw2']}, result)
+    #@patch.dict('typos.KEYWORDS', {'AGENCY': ['keyword1', 'kw2']})
+    #def test_add_keywords(self):
+    #    """This should only add keywords to the if the abbreviation is
+    #    'AGENCY' and should not affect the dict otherwise."""
+    #    result = scraper.add_keywords('NONAGENCY', {})
+    #    self.assertEqual({}, result)
+    #    result = scraper.add_keywords('AGENCY', {})
+    #    self.assertEqual({'keywords': ['keyword1', 'kw2']}, result)
 
-    @patch.dict('typos.TOP_LEVEL', {'AGENCY': ['HQ']})
-    def test_add_top_level(self):
-        """The 'top_level' flag should be set on configured departments"""
-        agency = {'departments': [{'name': 'HQ'}, {'name': 'Other Q'}]}
-        agency_orig = deepcopy(agency)
-        result = scraper.add_top_level('NONAGENCY', agency)
-        self.assertEqual(agency, agency_orig)   # Non-mutating
-        depts = [d['top_level'] for d in result['departments']]
-        self.assertEqual(depts, [False, False])
+    #@patch.dict('typos.TOP_LEVEL', {'AGENCY': ['HQ']})
+    #def test_add_top_level(self):
+    #    """The 'top_level' flag should be set on configured departments"""
+    #    agency = {'departments': [{'name': 'HQ'}, {'name': 'Other Q'}]}
+    #    agency_orig = deepcopy(agency)
+    #    result = scraper.add_top_level('NONAGENCY', agency)
+    #    self.assertEqual(agency, agency_orig)   # Non-mutating
+    #    depts = [d['top_level'] for d in result['departments']]
+    #    self.assertEqual(depts, [False, False])
 
-        result = scraper.add_top_level('AGENCY', agency)
-        self.assertEqual(agency, agency_orig)   # Non-mutating
-        depts = [d['top_level'] for d in result['departments']]
-        self.assertEqual(depts, [True, False])
+    #    result = scraper.add_top_level('AGENCY', agency)
+    #    self.assertEqual(agency, agency_orig)   # Non-mutating
+    #    depts = [d['top_level'] for d in result['departments']]
+    #    self.assertEqual(depts, [True, False])
 
     def test_agency_url(self):
         """Verify that agency abbreviations are getting converted into a URL"""
