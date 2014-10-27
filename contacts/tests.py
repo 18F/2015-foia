@@ -1,5 +1,4 @@
 import os
-from copy import deepcopy
 from unittest import TestCase
 
 from bs4 import BeautifulSoup
@@ -34,9 +33,9 @@ class ScraperTests(TestCase):
             'description': "The most important agency.",
             'departments': [
                 {
-                    'name': 'department one', 
+                    'name': 'department one',
                     'emails': ['department.one@agency.gov'],
-                    'keywords': ['department one things'], 
+                    'keywords': ['department one things'],
                 },
                 {
                     'name': 'department two',
@@ -52,10 +51,11 @@ class ScraperTests(TestCase):
             'common_requests': ['travel data'],
             'keywords': ['election data', 'courts'],
             'departments': [
-                {'name': 'department one',
-                'top_level': True,
-                'emails': ['onefoia@agency.gov'],
-                'keywords': ['first things']}
+                {
+                    'name': 'department one',
+                    'top_level': True,
+                    'emails': ['onefoia@agency.gov'],
+                    'keywords': ['first things']}
             ]
         }
 
@@ -65,7 +65,7 @@ class ScraperTests(TestCase):
             sorted(applied['emails']),
             ['foia@agency.gov', 'public.liaison@agency.gov'])
         self.assertEqual(
-            sorted(applied['keywords']), 
+            sorted(applied['keywords']),
             [
                 'courts', 'election data',
                 'government forms', 'purchase card use'])
@@ -79,7 +79,8 @@ class ScraperTests(TestCase):
             'One of the most important agencies')
 
         department_names = [d['name'] for d in applied['departments']]
-        self.assertEqual(department_names, ['department one', 'department two'])
+        self.assertEqual(
+            department_names, ['department one', 'department two'])
 
         for d in applied['departments']:
             if d['name'] == 'department one':
@@ -97,7 +98,7 @@ class ScraperTests(TestCase):
                 self.assertEqual({
                     'name': 'department two',
                     'emails': ['department.two@agency.gov']}, d)
-        
+
     def test_read_manual_data(self):
         scraper.save_agency_data(
             'TEST', {'name': 'Test Agency'}, data_directory='/tmp/test/')
@@ -284,30 +285,6 @@ class ScraperTests(TestCase):
         self.assertEqual(hq_call[0][1], "Headquarters")
         self.assertEqual(chicago_call[0][0]['id'], "2")
         self.assertEqual(chicago_call[0][1], "Chicago Branch")
-
-    #@patch.dict('typos.KEYWORDS', {'AGENCY': ['keyword1', 'kw2']})
-    #def test_add_keywords(self):
-    #    """This should only add keywords to the if the abbreviation is
-    #    'AGENCY' and should not affect the dict otherwise."""
-    #    result = scraper.add_keywords('NONAGENCY', {})
-    #    self.assertEqual({}, result)
-    #    result = scraper.add_keywords('AGENCY', {})
-    #    self.assertEqual({'keywords': ['keyword1', 'kw2']}, result)
-
-    #@patch.dict('typos.TOP_LEVEL', {'AGENCY': ['HQ']})
-    #def test_add_top_level(self):
-    #    """The 'top_level' flag should be set on configured departments"""
-    #    agency = {'departments': [{'name': 'HQ'}, {'name': 'Other Q'}]}
-    #    agency_orig = deepcopy(agency)
-    #    result = scraper.add_top_level('NONAGENCY', agency)
-    #    self.assertEqual(agency, agency_orig)   # Non-mutating
-    #    depts = [d['top_level'] for d in result['departments']]
-    #    self.assertEqual(depts, [False, False])
-
-    #    result = scraper.add_top_level('AGENCY', agency)
-    #    self.assertEqual(agency, agency_orig)   # Non-mutating
-    #    depts = [d['top_level'] for d in result['departments']]
-    #    self.assertEqual(depts, [True, False])
 
     def test_agency_url(self):
         """Verify that agency abbreviations are getting converted into a URL"""
