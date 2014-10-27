@@ -7,17 +7,17 @@ import json
 from glob import glob
 import re
 import logging
-from fuzzywuzzy import fuzz
+#from fuzzywuzzy import fuzz see line 104
 
 
 ACRONYM_FINDER = re.compile('\((.*?)\)') #re.compile('\((\w+)\)')
 
 def float_to_int_str(number):
-    '''converts floats to ints and then to strings to clean xls data'''
-    if type(number) == float or type(number) == int:
-        return str(int(number))
-    else:
-       return number
+    '''converts input to ints and then to strings to clean xls data'''
+    try:
+        return str(int(float(number)))
+    except:
+        return number
 
 def extract_acronym(usa_name):
     '''extracts acronyms from a string if there is one'''
@@ -25,7 +25,7 @@ def extract_acronym(usa_name):
     if len(acronym_list) == 1:
         return acronym_list[0]
     elif len(acronym_list) == 0:
-        return "None"
+        return ""
     else:
         return "Massive Error"
 
@@ -67,16 +67,14 @@ def load_usacontacts():
     '''Loads data from usacontacts.xls '''
     data = {}
 
-    xls_path =  "usagov-data/usacontacts.xls" #"xls" + os.sep +
+    xls_path =  "usagov-data/foiaHub-usaContacts-matches.xlsx" #"xls" + os.sep +
     workbook = xlrd.open_workbook(xls_path)
-    for sheet in workbook.sheet_names():
-        sheet = workbook.sheet_by_name(sheet)
-        header_names = [sheet.cell_value(0, i) for i in range(sheet.ncols)]
-        for row_num in range(1, sheet.nrows):
-            row = {header_names[i]: sheet.cell_value(row_num, i) for i in range(sheet.ncols)}
-            row['usa_id'] = float_to_int_str(row['usa_id'])
-            row['acronym'] = extract_acronym(row['usa_name'])
-            data[row['fh_name']] = row
+    sheet = workbook.sheet_by_name(workbook.sheet_names()[0])
+    header_names = [sheet.cell_value(0, i) for i in range(sheet.ncols)]
+    for row_num in range(1, sheet.nrows):
+        row = {header_names[i]: sheet.cell_value(row_num, i) for i in range(sheet.ncols)}
+        row['usa_id'] = float_to_int_str(row['usa_id'])
+        data[row['fh_name']] = row
     return data
 
 def merge_data():
@@ -104,6 +102,7 @@ def merge_data():
                     break
 
         #if all else fails try fuzzy search
+        '''DEPRECATED because it doesn't add more matches
         if found == False:
 
             closest_match = return_closest(name_usacontacts,all_usa_data.keys())
@@ -112,6 +111,7 @@ def merge_data():
                 usacontacts[name_usacontacts]['usa_id'] = all_usa_data[closest_match['name_all_usa_data']]['id']
 
         found = False
+        '''
 
     return usacontacts
 
@@ -164,7 +164,7 @@ def patch_yaml():
                     internal_data['description'] = data[internal_data['name']].get('description',"No Description")
                     descriptions += 1
 
-                if data[internal_data['name']]['acronym'] != "None" and 'abbreviation' in internal_data.keys():
+                if data[internal_data['name']]['acronym'] != "None":
                     internal_data['abbreviation'] = data[internal_data['name']]['acronym']
                     acronyms += 1
 
@@ -172,8 +172,7 @@ def patch_yaml():
                 del data[internal_data['name']]
 
         with open(filename, 'w') as f:
-            f.write(yaml.dump(yaml_data, default_flow_style=False, allow_unicode=True))
-
+           f.write(yaml.dump(yaml_data, default_flow_style=False, allow_unicode=True))
 
     logging.info("%s yaml elements_traversed",elements_traversed)
     logging.info("%s acronyms updated",acronyms)

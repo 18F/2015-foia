@@ -30,7 +30,8 @@ departments:
   service_center: 'Phone: (314) 345-5894'
   top_level: false
   website: http://www.usps.com/foia/welcome.htm
-- address:
+- abbreviation: ''
+  address:
   - FOIA Contact
   - Office of Counsel
   - Room 3301

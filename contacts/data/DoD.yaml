@@ -1,6 +1,7 @@
 abbreviation: DOD
 departments:
-- address:
+- abbreviation: ''
+  address:
   - FOIA Contact
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
@@ -19,6 +20,7 @@ departments:
   request_form: http://www.dod.gov/pubs/foi/
   service_center: 'Phone: (866) 574-4970'
   top_level: true
+  usa_id: None
   website: http://www.dod.gov/pubs/foi/
 - address:
   - JoAnne Collins
@@ -412,7 +414,8 @@ departments:
   service_center: 'Phone: (571) 557-4141'
   top_level: false
   website: http://www1.nga.mil/Pages/FOIA.aspx
-- address:
+- abbreviation: ''
+  address:
   - Jennifer Nikolaisen
   - Chief FOIA Officer
   - Office of Information and Privacy (NGB/JA-OIP)
@@ -431,7 +434,8 @@ departments:
   top_level: true
   usa_id: '49506'
   website: http://www.ng.mil/sitelinks/foia.aspx
-- address:
+- abbreviation: NRO
+  address:
   - Patricia B. Cameresi
   - Chief, Information Review and Release Group
   - 'ATTN: CIO/Information Management Services Office'
@@ -454,7 +458,8 @@ departments:
   top_level: true
   usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
-- address:
+- abbreviation: NSA
+  address:
   - Cindy S. Blacker
   - FOIA Contact, FOIA Requester Service Center/DJ4
   - Suite 6248

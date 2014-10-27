@@ -1,6 +1,7 @@
 abbreviation: DOI
 departments:
-- address:
+- abbreviation: BIA
+  address:
   - Daphne Berwald
   - Acting FOIA Officer
   - MS-3071, MIB
@@ -62,7 +63,8 @@ departments:
   top_level: true
   usa_id: '49117'
   website: http://www.bia.gov/FOIA/index.htm
-- address:
+- abbreviation: BLM
+  address:
   - Ryan Witt
   - FOIA Officer
   - 'Attn: FOIA, Washington Office Coorindators'
@@ -134,7 +136,8 @@ departments:
   top_level: true
   usa_id: '49125'
   website: http://www.blm.gov/wo/st/en/res/FOIA.html
-- address:
+- abbreviation: BOEM
+  address:
   - Rosemary Melendy
   - FOIA Contact
   - HM3127
@@ -184,7 +187,8 @@ departments:
   top_level: true
   usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
-- address:
+- abbreviation: USBR
+  address:
   - Regina Magno-Judd
   - FOIA Officer
   - P.O. Box 25007
@@ -223,7 +227,8 @@ departments:
   top_level: true
   usa_id: '49128'
   website: http://www.usbr.gov/foia/
-- address:
+- abbreviation: BSEE
+  address:
   - Debbie Kimball
   - FOIA Contact
   - 'MS:  HE-2204'
@@ -267,7 +272,8 @@ departments:
   top_level: true
   usa_id: '85146'
   website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
-- address:
+- abbreviation: FWS
+  address:
   - Melissa Allen
   - FWS FOIA Officer
   - MS-IRTM
@@ -351,7 +357,8 @@ departments:
   top_level: true
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
-- address:
+- abbreviation: ''
+  address:
   - Charis Wilson
   - NPS FOIA Officer
   - P.O. Box 25287

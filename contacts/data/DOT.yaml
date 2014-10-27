@@ -33,7 +33,8 @@ departments:
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
-- address:
+- abbreviation: FAA
+  address:
   - FOIA Coordinator
   - National FOIA Staff (AFN-140)
   - 800 Independence Avenue, SW
@@ -365,7 +366,8 @@ departments:
   service_center: 'Phone: (202) 366-2960'
   top_level: false
   website: http://www.fmcsa.dot.gov/Foia/Index.htm
-- address:
+- abbreviation: NHTSA
+  address:
   - FOIA Contact
   - NHTSA Executive Secretariat
   - W41-304
@@ -528,7 +530,8 @@ departments:
   service_center: 'Phone: (315) 764-3275'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
-- address:
+- abbreviation: STB
+  address:
   - Marilyn R. Levitt
   - FOIA/Privacy Act Officer
   - 395 E Street, SW

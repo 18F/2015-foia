@@ -1,4 +1,4 @@
-abbreviation: Treasury
+abbreviation: ''
 departments:
 - address:
   - Ryan Law
@@ -20,7 +20,8 @@ departments:
   service_center: 'Phone: (202) 622-0930'
   top_level: false
   website: http://www.treasury.gov/foia/Pages/index.aspx
-- address:
+- abbreviation: TTB
+  address:
   - Quinton Mason
   - FOIA Contact, Disclosure Services
   - Box 12
@@ -95,7 +96,8 @@ departments:
   top_level: true
   usa_id: '49082'
   website: http://www.ttb.gov/foia/index.shtml
-- address:
+- abbreviation: BEP
+  address:
   - Disclosure Officer
   - FOIA Contact, FOIA Office
   - 419 A
@@ -117,7 +119,8 @@ departments:
   top_level: true
   usa_id: '91587'
   website: http://www.bep.treas.gov/foia.html
-- address:
+- abbreviation: OCC
+  address:
   - Frank Vance
   - Disclosures Services
   - Communications Division
@@ -210,8 +213,10 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   service_center: 'Phone: (202) 874-4700'
   top_level: true
+  usa_id: '48126'
   website: http://www.occ.gov/about/foia/index-foia.html
-- address:
+- abbreviation: FINCEN
+  address:
   - Amanda Michanczyk
   - Disclosure (FOIA) Office
   - P.O. Box 39
@@ -401,7 +406,8 @@ departments:
   service_center: 'Phone: (202) 317-3475'
   top_level: false
   website: http://www.irs.gov/foia/article/0,,id=120681,00.html
-- address:
+- abbreviation: ''
+  address:
   - Kathleen Saunders-Mitchell
   - FOIA Contact
   - 8th Floor

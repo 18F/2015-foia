@@ -9,6 +9,7 @@ import yaml
 import keywords_from_fr as fr
 import layer_with_csv as layer
 import scraper
+import layer_with_usa_contacts as usa_layer
 
 
 class ScraperTests(TestCase):
@@ -401,3 +402,31 @@ class FRTests(TestCase):
         self.assertEqual(28, fr.last_day_in_month(2003, 2))
         self.assertEqual(29, fr.last_day_in_month(2004, 2))
         self.assertEqual(31, fr.last_day_in_month(2011, 1))
+
+class USALayerTests(TestCase):
+    def test_float_to_int_str(self):
+        """should convert input to int (floor) then string when possible"""
+        self.assertEqual('32', usa_layer.float_to_int_str(32.32))
+        self.assertEqual('32', usa_layer.float_to_int_str(32.99))
+        self.assertEqual(None, usa_layer.float_to_int_str(None))
+        self.assertEqual('23', usa_layer.float_to_int_str("23.2"))
+        self.assertEqual('23.2x', usa_layer.float_to_int_str("23.2x"))
+
+    def test_extract_acronym(self):
+        """extract one acroym, if it has two return 'massive error'"""
+        self.assertEqual("DOS", usa_layer.extract_acronym('Department of State (DOS)'))
+        self.assertEqual("", usa_layer.extract_acronym("Random Office"))
+        self.assertEqual("Massive Error", usa_layer.extract_acronym("Random Office (RO) (RO)"))
+
+    def test_return_closest(self):
+        """verify that the closest name about 80% match is returned"""
+        name_all_usa_data = ['Deparment of Commerce','Deparment of State',
+                             'US Postal Service', "Federal Bureau of Investigation", 'Department of Communication']
+
+        self.assertEqual('Deparment of Commerce', usa_layer.return_closest('Deparment of Comerce',name_all_usa_data)['name_all_usa_data'])
+
+        self.assertEqual('none', usa_layer.return_closest('This name is too different',name_all_usa_data)['name_all_usa_data'])
+
+        self.assertEqual('Department of Communication', usa_layer.return_closest('Deparment of Communication',name_all_usa_data)['name_all_usa_data'])
+
+

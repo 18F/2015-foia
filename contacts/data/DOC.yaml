@@ -1,6 +1,7 @@
 abbreviation: DOC
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Michael Toland, Ph.D.
   - Freedom of Information Act Officer
   - Room 8H207
@@ -28,6 +29,7 @@ departments:
   request_form: http://www.census.gov/foia/foia_request.php
   service_center: 'Phone: (301) 763-2127'
   top_level: true
+  usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
   - Pamela Moulder
@@ -88,7 +90,8 @@ departments:
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
-- address:
+- abbreviation: ITA
+  address:
   - Justin Guz
   - ITA FOIA Officer
   - Room 40003
@@ -108,7 +111,8 @@ departments:
   top_level: true
   usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
-- address:
+- abbreviation: MBDA
+  address:
   - Clara Colbert
   - FOIA Officer
   - 1401 Constitution Avenue, NW
@@ -125,7 +129,8 @@ departments:
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/foia-reading-room
-- address:
+- abbreviation: NIST
+  address:
   - Catherine S. Fletcher
   - FOIA & Privacy Act Officer
   - Stop 1710
@@ -161,7 +166,8 @@ departments:
   top_level: true
   usa_id: '49517'
   website: http://www.nist.gov/director/foia/
-- address:
+- abbreviation: NTIS
+  address:
   - Lee Halvorsen
   - FOIA Contact
   - Number 305 - Sils Building
@@ -218,7 +224,8 @@ departments:
   service_center: 'Phone: (202) 482-1816'
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
-- address:
+- abbreviation: NOAA
+  address:
   - Wendy Schumacher
   - FOIA Contact
   - Room 9719 - NOAA FOIA Office (SOU 10000)
@@ -306,7 +313,8 @@ departments:
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
-- address:
+- abbreviation: USPTO
+  address:
   - Kathryn Siehndel
   - FOIA Contact
   - P.O. Box 1450

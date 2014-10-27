@@ -17,7 +17,8 @@ departments:
   service_center: 'Phone: (202) 343-1743, (866) 431-0486'
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0579.shtm
-- address:
+- abbreviation: USCIS
+  address:
   - Jill Eggleston
   - FOIA Officer
   - National Records Center, FOIA/PA Office
@@ -61,7 +62,8 @@ departments:
   service_center: 'Phone: (202) 357-1218'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
-- address:
+- abbreviation: USCG
+  address:
   - Gaston Brewer
   - FOIA Officer
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
@@ -190,7 +192,8 @@ departments:
   top_level: true
   usa_id: '49149'
   website: http://www.uscg.mil/foia/
-- address:
+- abbreviation: CBP
+  address:
   - Sabrina Burroughs
   - FOIA Officer
   - 90 K Street, NE
@@ -304,7 +307,8 @@ departments:
   top_level: true
   usa_id: '55927'
   website: http://www.cbp.gov/xp/cgov/admin/fl/foia/
-- address:
+- abbreviation: FEMA
+  address:
   - Terry Cochran
   - FOIA Officer
   - Room 840
@@ -393,7 +397,8 @@ departments:
   top_level: true
   usa_id: '48042'
   website: http://www.fema.gov/help/foia.shtm
-- address:
+- abbreviation: FLETC
+  address:
   - Leslie A. Jensen
   - FOIA Officer
   - 'Building #681, Suite 187B'
@@ -413,7 +418,8 @@ departments:
   top_level: true
   usa_id: '49308'
   website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
-- address:
+- abbreviation: ICE
+  address:
   - Catrina Pavlick-Keenan
   - FOIA Officer
   - Mail Stop 5009
@@ -516,7 +522,8 @@ departments:
   service_center: 'Phone: (202) 254-6342'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
-- address:
+- abbreviation: ''
+  address:
   - Latita Payne
   - Disclosure Officer, FOIA/PA Program, Liaison Division
   - Building 410

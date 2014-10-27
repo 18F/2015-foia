@@ -1,6 +1,7 @@
 abbreviation: DOJ
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Carmen L. Mallon
   - Chief of Staff, Office of Information Policy
   - Suite 11050
@@ -69,7 +70,8 @@ departments:
   service_center: 'Phone: (202) 514-2692'
   top_level: false
   website: http://www.justice.gov/atr/foia/index.html
-- address:
+- abbreviation: ATF
+  address:
   - Stephanie Boucher
   - Division Chief
   - Room 1E-400
@@ -207,7 +209,8 @@ departments:
   service_center: 'Phone: (202) 616-0307'
   top_level: false
   website: http://www.justice.gov/criminal/foia/
-- address:
+- abbreviation: DEA
+  address:
   - Katherine L. Myrick
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
@@ -350,7 +353,8 @@ departments:
   service_center: 'Phone: (202) 307-1399'
   top_level: false
   website: http://www.justice.gov/ust/eo/foia/index.htm
-- address:
+- abbreviation: FBI
+  address:
   - David M. Hardy
   - Chief, Record/Information Dissemination Section, Records Management Division
   - 170 Marcel Drive
@@ -391,7 +395,8 @@ departments:
   top_level: true
   usa_id: '49278'
   website: http://www.fbi.gov/foia/
-- address:
+- abbreviation: BOP
+  address:
   - Wanda M. Hunt
   - Chief, FOIA/PA Section
   - Room 924, HOLC Building
@@ -486,7 +491,8 @@ departments:
   service_center: 'Phone: (202) 233-0754'
   top_level: false
   website: http://www.justice.gov/nsd/foia/foia.htm
-- address:
+- abbreviation: COPS
+  address:
   - Gary L. Baude
   - FOIA/PA Officer - Legal Division
   - 'Two Constitution Square, #11E 1405'
@@ -756,7 +762,8 @@ departments:
   service_center: 'Phone: (202) 307-6320'
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
-- address:
+- abbreviation: ''
+  address:
   - William E. Bordley
   - Associate General Counsel, Office of General Counsel
   - FOIA/PA, CS 4, 10th Floor

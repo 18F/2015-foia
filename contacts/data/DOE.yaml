@@ -65,7 +65,8 @@ departments:
   service_center: 'Phone: (865) 576-1216'
   top_level: false
   website: http://science.energy.gov/isc/foia/
-- address:
+- abbreviation: OSTI
+  address:
   - Madelyn Wilson
   - FOIA Officer
   - 1 Science.gov Way

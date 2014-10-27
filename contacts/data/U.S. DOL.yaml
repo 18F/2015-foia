@@ -15,7 +15,8 @@ departments:
   service_center: 'Phone: (202) 693-5391'
   top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
-- address:
+- abbreviation: ILAB
+  address:
   - FOIA Coordinator
   - Room S-5317
   - 200 Constitution Avenue, NW
@@ -33,7 +34,8 @@ departments:
   top_level: true
   usa_id: '49121'
   website: http://www.dol.gov/ilab/
-- address:
+- abbreviation: BLS
+  address:
   - FOIA Disclosure Officer
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
@@ -48,7 +50,8 @@ departments:
   top_level: true
   usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
-- address:
+- abbreviation: EBSA
+  address:
   - Sharon Watson
   - FOIA Officer
   - Public Disclosure Room, Suite N-1513
@@ -102,7 +105,8 @@ departments:
   top_level: true
   usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
-- address:
+- abbreviation: DOLETA
+  address:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
@@ -196,7 +200,8 @@ departments:
   service_center: 'Phone: (202) 693-5500'
   top_level: false
   website: http://www.jobcorps.gov/foia.aspx
-- address:
+- abbreviation: MSHA
+  address:
   - FOIA Officer
   - Room 2314
   - 1100 Wilson Boulevard
@@ -391,7 +396,8 @@ departments:
   service_center: ''
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
-- address:
+- abbreviation: OSHA
+  address:
   - FOIA Officer
   - Room N3647
   - 200 Constitution Avenue, NW

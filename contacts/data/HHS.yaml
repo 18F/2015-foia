@@ -30,7 +30,8 @@ departments:
   service_center: 'Phone: (202) 619-2541'
   top_level: false
   website: http://oig.hhs.gov/foia/
-- address:
+- abbreviation: ACL
+  address:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
@@ -90,7 +91,8 @@ departments:
   service_center: 'Phone: (888) 747-1861'
   top_level: false
   website: http://www.acf.hhs.gov/acf_foia.html
-- address:
+- abbreviation: AHRQ
+  address:
   - Carol Maloney
   - FOIA Officer
   - Suite 920
@@ -110,7 +112,8 @@ departments:
   top_level: true
   usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- address:
+- abbreviation: CDC
+  address:
   - Katherine Norris
   - FOIA Officer
   - Building 16, D-54
@@ -164,7 +167,8 @@ departments:
   service_center: 'Phone: (770) 488-6399'
   top_level: false
   website: http://www.cdc.gov/od/foia/index.htm
-- address:
+- abbreviation: CMS
+  address:
   - Michael Marquis
   - FOIA Officer
   - North Building, Room N2-20-06
@@ -255,7 +259,8 @@ departments:
   top_level: true
   usa_id: '49134'
   website: http://www.cms.gov/foia/
-- address:
+- abbreviation: FDA
+  address:
   - Frederick J. Sadler
   - Director, Division of Freedom of Information
   - Office of the Executive Secretariat
@@ -365,7 +370,8 @@ departments:
   top_level: true
   usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
-- address:
+- abbreviation: HRSA
+  address:
   - Tom Flavin
   - FOIA Officer
   - Parklawn Building, Room 6C-18
@@ -406,7 +412,8 @@ departments:
   top_level: true
   usa_id: '49359'
   website: http://www.hrsa.gov/foia/
-- address:
+- abbreviation: IHS
+  address:
   - William Tibbits
   - FOIA Officer
   - Suite 450 TMP
@@ -440,7 +447,8 @@ departments:
   top_level: true
   usa_id: '49386'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
-- address:
+- abbreviation: NIH
+  address:
   - Susan Cornell
   - FOIA Officer
   - Building 31, Room 5B35
@@ -483,7 +491,8 @@ departments:
   service_center: 'Phone: (301) 492-4800'
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- address:
+- abbreviation: SAMSHA
+  address:
   - Jeanette Hite
   - FOIA Officer
   - Room 8-1042
@@ -516,6 +525,7 @@ departments:
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
   service_center: 'Phone: (240) 276-2137'
   top_level: true
+  usa_id: '49687'
   website: http://www.samhsa.gov/foia/
 description: The Department of Health and Human Services (HHS) is the United States
   government´s principal agency for protecting the health of all Americans and providing

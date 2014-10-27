@@ -79,7 +79,8 @@ departments:
   service_center: 'Phone: (301) 286-4271'
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
-- address:
+- abbreviation: JPL
+  address:
   - Dennis Mahon
   - JPL FOIA Officer
   - 'M/S: 180-200K'
