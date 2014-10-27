@@ -131,8 +131,8 @@ def patch_yaml():
     for filename in glob("data" + os.sep + "*.yaml"):
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-            if yaml_data['name'] in data.keys():
 
+            if yaml_data['name'] in data.keys():
                 elements_traversed += 1
 
                 if data[yaml_data['name']]['usa_id'] != '':
