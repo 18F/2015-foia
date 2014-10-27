@@ -417,7 +417,7 @@ class USALayerTests(TestCase):
         self.assertEqual("DOS", usa_layer.extract_acronym('Department of State (DOS)'))
         self.assertEqual("", usa_layer.extract_acronym("Random Office"))
         self.assertEqual("Massive Error", usa_layer.extract_acronym("Random Office (RO) (RO)"))
-
+    '''deprecated function
     def test_return_closest(self):
         """verify that the closest name about 80% match is returned"""
         name_all_usa_data = ['Deparment of Commerce','Deparment of State',
@@ -428,5 +428,6 @@ class USALayerTests(TestCase):
         self.assertEqual('none', usa_layer.return_closest('This name is too different',name_all_usa_data)['name_all_usa_data'])
 
         self.assertEqual('Department of Communication', usa_layer.return_closest('Deparment of Communication',name_all_usa_data)['name_all_usa_data'])
+    '''
 
 
