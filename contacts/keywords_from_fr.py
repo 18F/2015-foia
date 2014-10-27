@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Fetch and build keywords from the "subject" field of federal register data
 
 from datetime import date, timedelta

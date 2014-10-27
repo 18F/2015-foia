@@ -2,18 +2,25 @@
 
 Downloading agency contact information for FOIA, from FOIA.gov.
 
-This is a two step process, first hitting the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) and then filling in missing
-data using an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls).
+This is a three step process:
+
+1. Scraping the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) for contact data. This automatically adds in some additional manually curated data, stored in `manual_data/`.
+2. Filling in missing data using a CSV rendition of an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls) hosted on FOIA.gov.
+3. Downloading keywords for agencies from the Federal Register.
 
 It scrapes/parses the contact details out of these sources, and makes YAML files in the `data/` directory (versioned).
 
 ## Using
 
-First, install all of the Python dependencies (we assume you are familiar with
-Python environments, pip and the like). Then run the three relevant scripts:
+First, install all of the Python dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Then run the three relevant scripts, in this order:
+
+```bash
 python scraper.py
 python layer_with_csv.py
 python layer_with_usa_contacts.py

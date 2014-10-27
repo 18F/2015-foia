@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Fill in any blanks in the YAML files by investigating a XLS"""
 from copy import deepcopy
 from glob import glob
