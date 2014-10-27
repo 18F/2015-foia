@@ -23,6 +23,7 @@ Then run the three relevant scripts, in this order:
 ```bash
 python scraper.py
 python layer_with_csv.py
+python layer_with_usa_contacts.py
 python keywords_from_fr.py
 ```
 

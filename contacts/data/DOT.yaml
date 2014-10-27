@@ -33,11 +33,13 @@ departments:
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
-- address:
+- abbreviation: FAA
+  address:
   - FOIA Coordinator
   - National FOIA Staff (AFN-140)
   - 800 Independence Avenue, SW
   - Washington, DC 20591
+  description: The FAA works to ensure that all air travel is safe.
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
@@ -129,6 +131,7 @@ departments:
   request_form: http://www.faa.gov/foia/foia_request/
   service_center: 'Phone: (202) 267-9165'
   top_level: true
+  usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
   - Manizheh Boehm
@@ -363,12 +366,21 @@ departments:
   service_center: 'Phone: (202) 366-2960'
   top_level: false
   website: http://www.fmcsa.dot.gov/Foia/Index.htm
-- address:
+- abbreviation: NHTSA
+  address:
   - FOIA Contact
   - NHTSA Executive Secretariat
   - W41-304
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
+  description: The National Highway Traffic Safety Administration (NHTSA) is responsible
+    for reducing deaths, injuries and economic losses resulting from motor vehicle
+    crashes. The agency investigates safety defects in motor vehicles, sets and enforces
+    fuel economy standards, helps states and local communities reduce the threat of
+    drunk drivers, promotes the use of safety belts, child safety seats and air bags,
+    investigates odometer fraud, establishes and enforces vehicle anti-theft regulations,
+    conducts research on driver behavior and traffic safety, and provides consumer
+    information on motor vehicle safety topics.
   emails:
   - http://www.nhtsa.gov/FOIA
   - greg.walter@dot.gov
@@ -416,6 +428,7 @@ departments:
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
   service_center: 'Phone: (202) 366-1834'
   top_level: true
+  usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
 - address:
   - T. Mitchell Hudson, Jr.
@@ -517,11 +530,15 @@ departments:
   service_center: 'Phone: (315) 764-3275'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
-- address:
+- abbreviation: STB
+  address:
   - Marilyn R. Levitt
   - FOIA/Privacy Act Officer
   - 395 E Street, SW
   - Washington, DC 20423-0001
+  description: The Surface Transportation Board regulates and decides disputes involving
+    railroad rates, railroad mergers or line sales, and certain other transportation
+    matters.
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
@@ -551,6 +568,7 @@ departments:
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   top_level: false
+  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
 - address:
   - FOIA Contact
@@ -830,3 +848,4 @@ keywords:
 - Women
 - Yugoslavia
 name: Department of Transportation
+usa_id: '49035'

@@ -1,11 +1,13 @@
 abbreviation: DOC
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Michael Toland, Ph.D.
   - Freedom of Information Act Officer
   - Room 8H207
   - 4600 Silver Hill Road
   - Washington, DC 20233-3700
+  description: No Description
   emails:
   - census.efoia@census.gov
   fax: 301-763-6239
@@ -27,6 +29,7 @@ departments:
   request_form: http://www.census.gov/foia/foia_request.php
   service_center: 'Phone: (301) 763-2127'
   top_level: true
+  usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
   - Pamela Moulder
@@ -87,12 +90,16 @@ departments:
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
-- address:
+- abbreviation: ITA
+  address:
   - Justin Guz
   - ITA FOIA Officer
   - Room 40003
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
+  description: The International Trade Administration works to promote U.S. exports
+    by providing diplomatic support, helping to shape trade policy, removing trade
+    barriers, and enforcing U.S. trade laws and agreements.
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
@@ -102,12 +109,17 @@ departments:
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
   service_center: 'Phone: (202) 482-7937'
   top_level: true
+  usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
-- address:
+- abbreviation: MBDA
+  address:
   - Clara Colbert
   - FOIA Officer
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
+  description: By providing techincal assistance and access to capital, contract opportunities,
+    and new markets, the Minority Business Development Agency promotes the growth
+    of businesses owned and operated by members of the minority and Diaspora communities.
   fax: 202-482-2798
   foia_officer: 'Clara Colbert, Phone: (202) 481-5045'
   name: Minority Business Development Agency
@@ -115,13 +127,18 @@ departments:
   public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
   service_center: 'Phone: (202) 482-5045'
   top_level: true
+  usa_id: '49464'
   website: http://www.mbda.gov/foia-reading-room
-- address:
+- abbreviation: NIST
+  address:
   - Catherine S. Fletcher
   - FOIA & Privacy Act Officer
   - Stop 1710
   - 100 Bureau Drive
   - Gaithersburg, MD 20899-1710
+  description: The National Institute of Standards and Technology promotes measurement
+    standards, conducts a wide array of scientifc research, and offers smaller manufacturers
+    technical and business assistance.
   emails:
   - foia@nist.gov
   fax: 301-975-5301
@@ -147,13 +164,19 @@ departments:
   public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
   service_center: 'Phone: (301) 975-4074'
   top_level: true
+  usa_id: '49517'
   website: http://www.nist.gov/director/foia/
-- address:
+- abbreviation: NTIS
+  address:
   - Lee Halvorsen
   - FOIA Contact
   - Number 305 - Sils Building
   - 5301 Shawnee Road
   - Alexandria, VA 22312
+  description: The National Technical Information Service provides businesses, universities,
+    and the public access to government-funded scientific, engineering, technical,
+    and business related information. The service does not use appropriated funds,
+    so charges a fee for its services.
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
@@ -164,6 +187,7 @@ departments:
   public_liaison: 'Steve Needle, Phone: (703) 605-6404'
   service_center: 'Phone: (703) 605-6404'
   top_level: true
+  usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA.aspx
 - address:
   - Stacy Cheney
@@ -200,12 +224,17 @@ departments:
   service_center: 'Phone: (202) 482-1816'
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
-- address:
+- abbreviation: NOAA
+  address:
   - Wendy Schumacher
   - FOIA Contact
   - Room 9719 - NOAA FOIA Office (SOU 10000)
   - 1315 East-West Highway
   - Silver Spring, MD 20910
+  description: The National Oceanic and Atmospheric Administration's mission is to
+    understand and predict changes in climate, weather, oceans, and coasts. The products
+    and services produced by the administration support a number of functions, including
+    severe weather preparedness, and international trade through shipping.
   emails:
   - FOIA@noaa.gov
   fax: 301-713-1169
@@ -282,12 +311,16 @@ departments:
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
   service_center: 'Phone: (301) 713-3540'
   top_level: true
+  usa_id: '49530'
   website: http://www.noaa.gov/foia/
-- address:
+- abbreviation: USPTO
+  address:
   - Kathryn Siehndel
   - FOIA Contact
   - P.O. Box 1450
   - Alexandria, VA 22313-1450
+  description: The U.S. Patent and Trademark Office is the agency responsible for
+    granting U.S. patents and registering trademarks.
   emails:
   - efoia@uspto.gov
   fax: 571-501-7335
@@ -314,6 +347,7 @@ departments:
   public_liaison: 'Dahlia George, Phone: (571) 272-3000'
   service_center: 'Phone: (571) 272-3000'
   top_level: true
+  usa_id: '48151'
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
   - Laura Bell
@@ -811,3 +845,4 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Commerce
+usa_id: '52668'

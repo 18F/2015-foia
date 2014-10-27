@@ -20,12 +20,15 @@ departments:
   service_center: 'Phone: (202) 622-0930'
   top_level: false
   website: http://www.treasury.gov/foia/Pages/index.aspx
-- address:
+- abbreviation: TTB
+  address:
   - Quinton Mason
   - FOIA Contact, Disclosure Services
   - Box 12
   - 1310 G Street, NW
   - Washington, DC 20220
+  description: The Alcohol and Tobacco Tax and Trade Bureau collects taxes and enforces
+    regulations on alcohol, tobacco, firearms, and ammunition.
   emails:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
@@ -91,13 +94,18 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   service_center: 'Phone: (202) 927-1024'
   top_level: true
+  usa_id: '49082'
   website: http://www.ttb.gov/foia/index.shtml
-- address:
+- abbreviation: BEP
+  address:
   - Disclosure Officer
   - FOIA Contact, FOIA Office
   - 419 A
   - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
+  description: The Bureau of Engraving and Printing produces United States currency
+    notes, operates as the nation's central bank, and serves to ensure that adequate
+    amounts of currency and coin are in circulation.
   fax: 202-874-2951
   keywords:
   - Currency
@@ -109,14 +117,17 @@ departments:
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 874-2058'
   top_level: true
+  usa_id: '91587'
   website: http://www.bep.treas.gov/foia.html
-- address:
+- abbreviation: OCC
+  address:
   - Frank Vance
   - Disclosures Services
   - Communications Division
   - Suite 3-E218Mail Stop 6W-11
   - 400 7th Street, SW
   - Washington, DC 20219
+  description: No Description
   emails:
   - foia-pa@occ.treas.gov
   keywords:
@@ -202,12 +213,15 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   service_center: 'Phone: (202) 874-4700'
   top_level: true
+  usa_id: '48126'
   website: http://www.occ.gov/about/foia/index-foia.html
-- address:
+- abbreviation: FINCEN
+  address:
   - Amanda Michanczyk
   - Disclosure (FOIA) Office
   - P.O. Box 39
   - Vienna, VA 22183
+  description: No Description
   fax: 703-905-5126
   keywords:
   - Administrative practice and procedure
@@ -392,12 +406,15 @@ departments:
   service_center: 'Phone: (202) 317-3475'
   top_level: false
   website: http://www.irs.gov/foia/article/0,,id=120681,00.html
-- address:
+- abbreviation: ''
+  address:
   - Kathleen Saunders-Mitchell
   - FOIA Contact
   - 8th Floor
   - 801 9th Street, NW
   - Washington, DC 20220
+  description: The Mint produces the the coins that circulate throughout the US. They
+    also produce special edition coinage that can be purchased for coin collections.
   fax: 202-756-6153
   misc:
     FOIA Contact: 'Kathleen Saunders-Mitchell, Phone: (202) 354-4600'
@@ -406,6 +423,7 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   service_center: 'Phone: (202) 354-6788'
   top_level: true
+  usa_id: '48150'
   website: http://www.usmint.gov/FOIA/
 - address:
   - Amy P. Jones
@@ -702,3 +720,4 @@ keywords:
 - Youth
 - Yugoslavia
 name: Department of the Treasury
+usa_id: '49034'
