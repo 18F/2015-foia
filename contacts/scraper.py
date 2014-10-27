@@ -254,7 +254,7 @@ def read_manual_data(agency_abbr, manual_data_dir='manual_data'):
 
 
 def update_list_in_dict(data, field, new_values_list):
-    original_values = set(data[field])
+    original_values = set(data.get(field, []))
     data[field] = list(original_values | set(new_values_list))
 
 def update_non_departments(agency_data, manual_data):
@@ -300,7 +300,7 @@ def apply_manual_data(agency_abbr, agency_data):
     """ In the manual data directory, we have all the manual over-rides for
     various contact fields. Apply those here. """
     manual_data = read_manual_data(agency_abbr)
-    return actual_apply(agency_data, manual-data)
+    return actual_apply(agency_data, manual_data)
 
 
 def save_agency(abb):

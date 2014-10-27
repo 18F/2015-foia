@@ -21,6 +21,10 @@ class ScraperTests(TestCase):
             sorted(list(original['keywords'])),
             ['accounting', 'courts', 'employment', 'estates'])
 
+        original = {}
+        scraper.update_list_in_dict(original, 'emails', ['email@agency.gov'])
+        self.assertEqual(original['emails'], ['email@agency.gov'])
+
     def test_actual_apply(self):
         agency_data = {
             'emails': ['foia@agency.gov'],
@@ -76,6 +80,23 @@ class ScraperTests(TestCase):
 
         department_names = [d['name'] for d in applied['departments']]
         self.assertEqual(department_names, ['department one', 'department two'])
+
+        for d in applied['departments']:
+            if d['name'] == 'department one':
+                self.assertEqual(
+                    sorted(d['emails']),
+                    ['department.one@agency.gov', 'onefoia@agency.gov'])
+
+                self.assertEqual(
+                    sorted(d['keywords']),
+                    ['department one things', 'first things'])
+
+                self.assertTrue(d['top_level'])
+
+            if d['name'] == 'department two':
+                self.assertEqual({
+                    'name': 'department two',
+                    'emails': ['department.two@agency.gov']}, d)
         
     def test_read_manual_data(self):
         scraper.save_agency_data(
