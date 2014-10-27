@@ -235,7 +235,7 @@ def read_manual_data(agency_abbr, manual_data_dir='manual_data'):
 
 def update_list_in_dict(data, field, new_values_list):
     original_values = set(data.get(field, []))
-    data[field] = list(original_values | set(new_values_list))
+    data[field] = sorted(list(original_values | set(new_values_list)))
 
 
 def update_non_departments(agency_data, manual_data):
