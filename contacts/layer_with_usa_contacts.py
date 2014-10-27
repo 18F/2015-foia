@@ -13,12 +13,14 @@ from fuzzywuzzy import fuzz
 ACRONYM_FINDER = re.compile('\((.*?)\)') #re.compile('\((\w+)\)')
 
 def float_to_int_str(number):
+    '''converts floats to ints and then to strings to clean xls data'''
     if type(number) == float or type(number) == int:
         return str(int(number))
     else:
        return number
 
 def extract_acronym(usa_name):
+    '''extracts acronyms from a string if there is one'''
     acronym_list = ACRONYM_FINDER.findall(usa_name)
     if len(acronym_list) == 1:
         return acronym_list[0]
@@ -28,6 +30,7 @@ def extract_acronym(usa_name):
         return "Massive Error"
 
 def return_closest(name_usacontacts,all_usa_data_keys):
+    '''uses fuzzy search to look for the closest match (very slow)'''
     name_usacontacts = ACRONYM_FINDER.sub("",name_usacontacts)
 
     best_match = {'name_usacontacts':"none",
@@ -43,7 +46,7 @@ def return_closest(name_usacontacts,all_usa_data_keys):
     return(best_match)
 
 def load_all_usa_data():
-
+    '''loads data from all_usa_data.json file '''
     with open('usagov-data/all_usa_data.json', 'r') as f:
         all_usa_data = json.loads(f.read())
 
@@ -61,7 +64,7 @@ def load_all_usa_data():
     return data
 
 def load_usacontacts():
-
+    '''Loads data from usacontacts.xls '''
     data = {}
 
     xls_path =  "usagov-data/usacontacts.xls" #"xls" + os.sep +
@@ -77,7 +80,7 @@ def load_usacontacts():
     return data
 
 def merge_data():
-
+    '''Merges usacontacts.xls and all_usa_data.json'''
     usacontacts = load_usacontacts()
     all_usa_data = load_all_usa_data()
     merged_data = {}
@@ -114,7 +117,8 @@ def merge_data():
 
 
 def patch_yaml():
-
+    '''patches yaml files with usa_id, correct acronyms,
+    and descriptions if there is none'''
     data = merge_data()
 
     #counters for updates
@@ -123,6 +127,7 @@ def patch_yaml():
     descriptions = 0
     elements_traversed = 0
 
+    #loop through the files
     for filename in glob("data" + os.sep + "*.yaml"):
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
@@ -144,7 +149,7 @@ def patch_yaml():
 
                 logging.info("%s updated", yaml_data['name'])
                 del data[yaml_data['name']]
-
+        #loop through the sub-offices of each file
         for internal_data in yaml_data['departments']:
             if internal_data['name'] in data.keys():
 
