@@ -166,7 +166,7 @@ def find_bold_fields(ps):
 
 def parse_department(elem, name):
     """Get data from a 'div' (elem) associated with a single department"""
-    data = {"name": name}
+    data = {"name": name, "top_level": False}
     lines, ps = clean_paragraphs(elem)
     # remove first el (which introduces the section)
     lines, ps = lines[1:], ps[1:]
