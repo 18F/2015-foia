@@ -11,6 +11,52 @@ import scraper
 
 
 class ScraperTests(TestCase):
+
+    def test_populate_parent(self):
+        agency_data = {
+            'name': 'Best agency',
+            'description': "The most important agency.",
+            'departments': [
+                {
+                    'name': 'department one',
+                    'emails': ['department.one@agency.gov'],
+                    'keywords': ['department one things'],
+                },
+                {
+                    'name': "I don't know which office",
+                    'emails': ['hq@agency.gov'],
+                    'phone' : '202-555-5555',
+                    'office_url': 'http://office.url',
+                    'person_name': 'Joe Bureaucrat'
+                }
+            ]
+        }
+        populated = scraper.populate_parent(agency_data)
+        self.assertEqual(len(populated['departments']), 1)
+        self.assertEqual(populated['name'], 'Best agency')
+        self.assertEqual(populated['phone'], '202-555-5555')
+        self.assertEqual(populated['person_name'], 'Joe Bureaucrat')
+        self.assertEqual(populated['emails'], ['hq@agency.gov'])
+        self.assertEqual(populated['office_url'], 'http://office.url')
+
+    def test_all_but_unknown(self):
+        agency_data = {
+            'departments': [
+                {
+                    'name': 'department one',
+                    'emails': ['department.one@agency.gov'],
+                    'keywords': ['department one things'],
+                },
+                {
+                    'name': "I don't know which office",
+                    'emails': ['hq@agency.gov']
+                }
+            ]
+        }
+        departments = scraper.all_but_unknown(agency_data)
+        self.assertEqual(len(departments), 1)
+        self.assertEqual(departments[0]['name'], 'department one')
+
     def test_get_unknown_office_details(self):
         agency_data = {
             'emails': ['foia@agency.gov'],
