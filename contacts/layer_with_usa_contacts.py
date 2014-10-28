@@ -1,4 +1,4 @@
-""" Update YAML files with usa_id, description, and acronyms. """
+#!/usr/bin/env python
 
 import yaml
 import xlrd
@@ -8,6 +8,7 @@ from glob import glob
 import re
 import logging
 
+""" Update YAML files with usa_id, description, and acronyms. """
 
 ACRONYM_FINDER = re.compile('\((.*?)\)')
 
