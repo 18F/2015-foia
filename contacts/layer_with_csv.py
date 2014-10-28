@@ -11,7 +11,6 @@ from urllib.request import urlopen
 import xlrd
 import yaml
 
-FIX_AGENCY_NAME = re.compile("\s+$")
 
 def address_lines(row):
     """Convert a row of dictionary data into a list of address lines"""
@@ -38,7 +37,7 @@ def contact_string(row):
 
 def add_contact_info(contacts, row):
     """Process a row of the xls, adding data to the contacts dictionary"""
-    agency, office = row['Department'], FIX_AGENCY_NAME.sub('',row['Agency'])
+    agency, office = row['Department'], row['Agency'].strip()
 
     if agency not in contacts:
         contacts[agency] = {}
