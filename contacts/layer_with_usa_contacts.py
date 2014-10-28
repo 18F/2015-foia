@@ -57,7 +57,7 @@ def load_all_usa_data():
 
             data[office['Name']] = {
                                 'description':office.get(
-                                'Description', 'No Description'),
+                                'description', 'No Description'),
                                 'id':office.get('Id', 'No Id'),
                                 'acronym_usa_contacts':extract_acronym(office['Name'])
                                 }
