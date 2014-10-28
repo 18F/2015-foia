@@ -1,11 +1,13 @@
 abbreviation: DOJ
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Carmen L. Mallon
   - Chief of Staff, Office of Information Policy
   - Suite 11050
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
+  description: No Description
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
@@ -68,12 +70,14 @@ departments:
   service_center: 'Phone: (202) 514-2692'
   top_level: false
   website: http://www.justice.gov/atr/foia/index.html
-- address:
+- abbreviation: ATF
+  address:
   - Stephanie Boucher
   - Division Chief
   - Room 1E-400
   - 99 New York Avenue, NE
   - Washington, DC 20226
+  description: No Description
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
@@ -150,6 +154,7 @@ departments:
   public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
   service_center: 'Phone: (202) 648-8740'
   top_level: true
+  usa_id: '49081'
   website: http://www.atf.gov/content/contact-us/FOIA
 - address:
   - James M. Kovakas
@@ -187,6 +192,22 @@ departments:
   top_level: false
   website: http://www.justice.gov/crt/foia/index.php
 - address:
+  - George Henderson
+  - FOIA/PA Coordinator
+  - Suite 6000
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  emails:
+  - CRS.FOIA@usdoj.gov
+  misc:
+    FOIA/PA Coordinator: 'George Henderson, Phone: (202) 305-2935'
+  name: Community Relations Service
+  phone: 202-305-2935
+  public_liaison: 'George Henderson, Phone: (202) 305-2964'
+  service_center: 'Phone: (202) 305-2935'
+  top_level: false
+  website: http://www.justice.gov/crs/foia.htm
+- address:
   - Kenneth Courter
   - Chief, FOIA/PA Unit
   - Suite 1127
@@ -203,11 +224,13 @@ departments:
   service_center: 'Phone: (202) 616-0307'
   top_level: false
   website: http://www.justice.gov/criminal/foia/
-- address:
+- abbreviation: DEA
+  address:
   - Katherine L. Myrick
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
   - Springfield, VA 22152
+  description: No Description
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
@@ -243,6 +266,7 @@ departments:
   public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
   service_center: 'Phone: (202) 307-7596'
   top_level: true
+  usa_id: '52688'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - address:
   - Sarah Lu
@@ -342,11 +366,18 @@ departments:
   service_center: 'Phone: (202) 307-1399'
   top_level: false
   website: http://www.justice.gov/ust/eo/foia/index.htm
-- address:
+- abbreviation: FBI
+  address:
   - David M. Hardy
   - Chief, Record/Information Dissemination Section, Records Management Division
   - 170 Marcel Drive
   - Winchester, VA 22602-4843
+  description: As an intelligence-driven and a threat-focused national security organization
+    with both intelligence and law enforcement responsibilities, the mission of the
+    FBI is to protect and defend the United States against terrorist and foreign intelligence
+    threats, to uphold and enforce the criminal laws of the United States, and to
+    provide leadership and criminal justice services to federal, state, municipal,
+    and international agencies and partners.
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
@@ -375,14 +406,16 @@ departments:
   public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
   service_center: 'Phone: (540) 868-1535'
   top_level: true
+  usa_id: '49278'
   website: http://www.fbi.gov/foia/
-  description: "As an intelligence-driven and a threat-focused national security organization with both intelligence and law enforcement responsibilities, the mission of the FBI is to protect and defend the United States against terrorist and foreign intelligence threats, to uphold and enforce the criminal laws of the United States, and to provide leadership and criminal justice services to federal, state, municipal, and international agencies and partners."
-- address:
+- abbreviation: BOP
+  address:
   - Wanda M. Hunt
   - Chief, FOIA/PA Section
   - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
+  description: No Description
   emails:
   - ogc_efoia@bop.gov
   keywords:
@@ -400,6 +433,7 @@ departments:
   request_form: http://www.bop.gov/foia/submit.jsp
   service_center: 'Phone: (202) 616-7750'
   top_level: true
+  usa_id: '49126'
   website: http://www.bop.gov/foia/index.jsp
 - address:
   - Jeremy LaFrancois
@@ -469,12 +503,14 @@ departments:
   service_center: 'Phone: (202) 233-0754'
   top_level: false
   website: http://www.justice.gov/nsd/foia/foia.htm
-- address:
+- abbreviation: COPS
+  address:
   - Gary L. Baude
   - FOIA/PA Officer - Legal Division
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
   - Washington, DC 20530-0001
+  description: No Description
   emails:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
@@ -485,6 +521,7 @@ departments:
   public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
   service_center: 'Phone: (202) 353-9864'
   top_level: true
+  usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
   - Carmen L. Mallon
@@ -735,12 +772,14 @@ departments:
   service_center: 'Phone: (202) 307-6320'
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
-- address:
+- abbreviation: ''
+  address:
   - William E. Bordley
   - Associate General Counsel, Office of General Counsel
   - FOIA/PA, CS 4, 10th Floor
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
+  description: No Description
   emails:
   - usms.foia@usdoj.gov
   misc:
@@ -752,6 +791,7 @@ departments:
     307-9052'
   service_center: 'Phone: (202) 307-9054'
   top_level: true
+  usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
 - address:
   - Anissa Banks
@@ -943,3 +983,4 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Justice
+usa_id: '52686'

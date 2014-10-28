@@ -30,10 +30,12 @@ departments:
   service_center: 'Phone: (202) 619-2541'
   top_level: false
   website: http://oig.hhs.gov/foia/
-- address:
+- abbreviation: ACL
+  address:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
+  description: No Description
   fax: (202) 357-0129
   foia_officer: 'Jason Bennett, Phone: (202) 401-4634'
   name: Administration for Community Living
@@ -89,12 +91,14 @@ departments:
   service_center: 'Phone: (888) 747-1861'
   top_level: false
   website: http://www.acf.hhs.gov/acf_foia.html
-- address:
+- abbreviation: AHRQ
+  address:
   - Carol Maloney
   - FOIA Officer
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
+  description: No Description
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
@@ -104,13 +108,16 @@ departments:
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (301) 492-4800'
   top_level: true
+  usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- address:
+- abbreviation: CDC
+  address:
   - Katherine Norris
   - FOIA Officer
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
+  description: No Description
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -137,6 +144,7 @@ departments:
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   service_center: 'Phone: (770) 488-6399'
   top_level: true
+  usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
   - Katherine Norris
@@ -154,12 +162,14 @@ departments:
   service_center: 'Phone: (770) 488-6399'
   top_level: false
   website: http://www.cdc.gov/od/foia/index.htm
-- address:
+- abbreviation: CMS
+  address:
   - Michael Marquis
   - FOIA Officer
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
+  description: No Description
   fax: 410-786-0474
   foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
   keywords:
@@ -238,8 +248,10 @@ departments:
   public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
   service_center: 'Phone: (410) 786-5353'
   top_level: true
+  usa_id: '49134'
   website: http://www.cms.gov/foia/
-- address:
+- abbreviation: FDA
+  address:
   - Frederick J. Sadler
   - Director, Division of Freedom of Information
   - Office of the Executive Secretariat
@@ -247,6 +259,7 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
+  description: No Description
   fax: 301-827-9267
   keywords:
   - Adhesives
@@ -343,13 +356,16 @@ departments:
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   service_center: 'Phone: (301) 796-3900'
   top_level: true
+  usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
-- address:
+- abbreviation: HRSA
+  address:
   - Tom Flavin
   - FOIA Officer
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
+  description: No Description
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
@@ -381,13 +397,16 @@ departments:
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
   service_center: 'Phone: (301) 443-3376'
   top_level: true
+  usa_id: '49359'
   website: http://www.hrsa.gov/foia/
-- address:
+- abbreviation: IHS
+  address:
   - William Tibbits
   - FOIA Officer
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
+  description: No Description
   fax: 301-443-9879
   foia_officer: 'William Tibbits, Phone: (301) 443-1116'
   keywords:
@@ -412,13 +431,16 @@ departments:
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   service_center: 'Phone: (301) 443-1116'
   top_level: true
+  usa_id: '49386'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
-- address:
+- abbreviation: NIH
+  address:
   - Susan Cornell
   - FOIA Officer
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
+  description: No Description
   fax: 301-402-4541
   foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
   keywords:
@@ -436,6 +458,7 @@ departments:
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   service_center: 'Phone: (301) 496-5633'
   top_level: true
+  usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
   - Carol Maloney
@@ -453,12 +476,14 @@ departments:
   service_center: 'Phone: (301) 492-4800'
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- address:
+- abbreviation: SAMSHA
+  address:
   - Jeanette Hite
   - FOIA Officer
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
+  description: No Description
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135
@@ -483,6 +508,7 @@ departments:
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
   service_center: 'Phone: (240) 276-2137'
   top_level: true
+  usa_id: '49687'
   website: http://www.samhsa.gov/foia/
 description: The Department of Health and Human Services (HHS) is the United States
   government´s principal agency for protecting the health of all Americans and providing
@@ -690,3 +716,4 @@ keywords:
 - Yogurt
 - Youth
 name: Department of Health and Human Services
+usa_id: '49021'

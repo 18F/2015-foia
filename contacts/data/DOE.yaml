@@ -65,11 +65,13 @@ departments:
   service_center: 'Phone: (865) 576-1216'
   top_level: false
   website: http://science.energy.gov/isc/foia/
-- address:
+- abbreviation: OSTI
+  address:
   - Madelyn Wilson
   - FOIA Officer
   - 1 Science.gov Way
   - Oak Ridge, TN 37830
+  description: No Description
   emails:
   - wilsonm@osti.gov
   fax: 865-576-3589
@@ -79,6 +81,7 @@ departments:
   public_liaison: 'David Gottholm, Phone: (865) 576-2623'
   service_center: 'Phone: (865) 576-1261'
   top_level: true
+  usa_id: '49592'
   website: ''
 - address:
   - Dorothy Riehle
@@ -428,3 +431,4 @@ keywords:
 - Women
 - Workers' compensation
 name: Department of Energy
+usa_id: '49019'

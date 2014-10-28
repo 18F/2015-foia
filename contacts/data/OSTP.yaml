@@ -1,4 +1,6 @@
 abbreviation: OSTP
+common_requests:
+- Records on OSTP's scientific advice and correspondance.
 departments:
 - address:
   - Rachael Leonard
@@ -18,12 +20,11 @@ description: The mission of the Office of Science and Technology Policy is three
   ensure that the policies of the Executive Branch are informed by sound science;
   and third, to ensure that the scientific and technical work of the Executive Branch
   is properly coordinated so as to provide the greatest benefit to society.
-common_requests:
-- "Records on OSTP's scientific advice and correspondence."
-no_records_about:
-- General White House correspondence or documents.
 keywords:
 - Classified information
 - cto
 - white house
 name: Office of Science and Technology Policy
+no_records_about:
+- General White House correspondance or documents.
+usa_id: '49590'

@@ -424,6 +424,30 @@ departments:
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - address:
+  - Henry Noland
+  - FOIA Officer
+  - Stop 1004
+  - 1400 Independence Avenue, SW
+  - Washington, DC 20250-1004
+  emails:
+  - Henry.Noland@fas.usda.gov
+  foia_officer: 'Henry Noland, Phone: (202) 720-0154'
+  keywords:
+  - Agricultural commodities
+  - Exports
+  - Food assistance programs
+  - Foreign aid
+  - Government procurement
+  - Imports
+  - Reporting and recordkeeping requirements
+  - Trade adjustment assistance
+  name: Foreign Agricultural Service
+  phone: 202-720-0154
+  public_liaison: 'Sally Klusaritz, Phone: (202) 720-3448'
+  service_center: 'Phone: (202) 720-3101'
+  top_level: false
+  website: http://www.fas.usda.gov/info/FOIA/freedom.asp
+- address:
   - Sherry Turner
   - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
   - Stop 1143
@@ -1106,3 +1130,4 @@ keywords:
 - Wool
 - Youth
 name: Department of Agriculture
+usa_id: '49015'

@@ -8,6 +8,7 @@ import yaml
 import keywords_from_fr as fr
 import layer_with_csv as layer
 import scraper
+import layer_with_usa_contacts as usa_layer
 
 
 class ScraperTests(TestCase):
@@ -438,6 +439,13 @@ class LayerTests(TestCase):
         self.assertTrue("ACRONYM" in contact_dict)
         self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
         self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+        #   Adding another agency with leading and trailing spaces
+        row["Agency"] = "  Economic Development   "
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+        self.assertTrue("Economic Development" in contact_dict["ACRONYM"])
 
     def test_add_contact_info_website(self):
         """Website field gets cleaned up -- verify it's not added unless it's
@@ -546,3 +554,24 @@ class FRTests(TestCase):
         self.assertEqual(28, fr.last_day_in_month(2003, 2))
         self.assertEqual(29, fr.last_day_in_month(2004, 2))
         self.assertEqual(31, fr.last_day_in_month(2011, 1))
+
+
+class USALayerTests(TestCase):
+    def test_float_to_int_str(self):
+        """should convert input to int (floor) then string when possible"""
+        self.assertEqual('32', usa_layer.float_to_int_str(32.32))
+        self.assertEqual('32', usa_layer.float_to_int_str(32.99))
+        self.assertEqual(None, usa_layer.float_to_int_str(None))
+        self.assertEqual('23', usa_layer.float_to_int_str("23.2"))
+        self.assertEqual('23.2x', usa_layer.float_to_int_str("23.2x"))
+
+    def test_extract_acronym(self):
+        """extract one acroym, if it has two return 'massive error'"""
+
+        self.assertEqual(
+            "DOS", usa_layer.extract_acronym('Department of State (DOS)'))
+        self.assertEqual(
+            "", usa_layer.extract_acronym("Random Office"))
+        self.assertEqual(
+            "Massive Error",
+            usa_layer.extract_acronym("Random Office (RO) (RO)"))

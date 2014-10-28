@@ -33,11 +33,13 @@ departments:
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
-- address:
+- abbreviation: FAA
+  address:
   - FOIA Coordinator
   - National FOIA Staff (AFN-140)
   - 800 Independence Avenue, SW
   - Washington, DC 20591
+  description: No Description
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
@@ -129,6 +131,7 @@ departments:
   request_form: http://www.faa.gov/foia/foia_request/
   service_center: 'Phone: (202) 267-9165'
   top_level: true
+  usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
   - Manizheh Boehm
@@ -363,12 +366,14 @@ departments:
   service_center: 'Phone: (202) 366-2960'
   top_level: false
   website: http://www.fmcsa.dot.gov/Foia/Index.htm
-- address:
+- abbreviation: NHTSA
+  address:
   - FOIA Contact
   - NHTSA Executive Secretariat
   - W41-304
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
+  description: No Description
   emails:
   - http://www.nhtsa.gov/FOIA
   - greg.walter@dot.gov
@@ -416,6 +421,7 @@ departments:
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
   service_center: 'Phone: (202) 366-1834'
   top_level: true
+  usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
 - address:
   - T. Mitchell Hudson, Jr.
@@ -427,6 +433,32 @@ departments:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
   foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
+  keywords:
+  - Administrative practice and procedure
+  - Citizenship and naturalization
+  - Claims
+  - Disability benefits
+  - Fishing vessels
+  - Freight
+  - Government contracts
+  - Grant programs-education
+  - Grant programs-transportation
+  - Highways and roads
+  - Income taxes
+  - Investments
+  - Loan programs-transportation
+  - Maritime carriers
+  - Mortgages
+  - National defense
+  - Passenger vessels
+  - Penalties
+  - Railroads
+  - Reporting and recordkeeping requirements
+  - Schools
+  - Seamen
+  - Trusts and trustees
+  - Uniform System of Accounts
+  - Vessels
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
@@ -517,11 +549,13 @@ departments:
   service_center: 'Phone: (315) 764-3275'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
-- address:
+- abbreviation: STB
+  address:
   - Marilyn R. Levitt
   - FOIA/Privacy Act Officer
   - 395 E Street, SW
   - Washington, DC 20423-0001
+  description: No Description
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
@@ -551,6 +585,7 @@ departments:
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   top_level: false
+  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
 - address:
   - FOIA Contact
@@ -830,3 +865,4 @@ keywords:
 - Women
 - Yugoslavia
 name: Department of Transportation
+usa_id: '49035'
