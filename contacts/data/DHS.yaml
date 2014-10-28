@@ -24,18 +24,25 @@ departments:
   - National Records Center, FOIA/PA Office
   - P.O. Box 648010
   - Lee's Summit, MO 64064-8010
-  description: U.S. Citizenship and Immigration Services oversees immigration to the
-    United States.
+  description: No Description
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
   foia_officer: 'Jill Eggleston, Phone: (800) 375-5283 (USCIS National Customer Service
     Unit)'
   keywords:
+  - Administrative practice and procedure
+  - Aliens
   - Authority delegations (Government agencies)
+  - Employment
+  - Foreign officials
   - Freedom of information
+  - Health professions
+  - Immigration
+  - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
+  - Students
   - Surety bonds
   name: U.S. Citizenship & Immigration Services
   notes: This office has additional FOIA contact information that can be found by
@@ -69,8 +76,7 @@ departments:
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
   - 2703 Martin Luther King Jr Ave
   - Washington, DC 20593-7710
-  description: The U.S. Coast Guard safeguards the maritime interests of the United
-    States and the environment around the world.
+  description: No Description
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
@@ -199,8 +205,7 @@ departments:
   - 90 K Street, NE
   - 9th Floor
   - Washington, DC 20229-1181
-  description: 'Customs and Border Protection prevents people from entering the country
-    illegally, or bringing anything harmful or illegal into the United States. '
+  description: No Description
   fax: 202-325-0230
   foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
   keywords:
@@ -314,9 +319,7 @@ departments:
   - Room 840
   - 500 C Street, SW
   - Washington, DC 20472
-  description: FEMA supports citizens and emergency personnel to build, sustain, and
-    improve the nations capability to prepare for, protect against, respond to, recover
-    from, and mitigate all hazards.
+  description: No Description
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -403,9 +406,7 @@ departments:
   - FOIA Officer
   - 'Building #681, Suite 187B'
   - Glynco, GA 31524
-  description: The Federal Law Enforcement Training Center provides law enforcement
-    training for 91 federal agencies, several state, local, and tribal agencies, and
-    oversees or assists with training at serveral International Law Enforcement Academies.
+  description: No Description
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -425,8 +426,7 @@ departments:
   - Mail Stop 5009
   - 500 12th Street, SW
   - Washington, DC 20536-5009
-  description: Immigration and Customs Enforcement enforces federal laws governing
-    border control, customs, trade, and immigration.
+  description: No Description
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -458,6 +458,33 @@ departments:
   - foia.oig@oig.dhs.gov
   fax: 202-254-4398
   foia_officer: 'Stephanie Kuehn, Phone: (202) 254-4001'
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Biologics
+  - Drugs
+  - Emergency medical services
+  - Fraud
+  - Freedom of information
+  - Grant programs-health
+  - Health facilities
+  - Health insurance
+  - Health professions
+  - Hospitals
+  - Investigations
+  - Kidney diseases
+  - Maternal and child health
+  - Medicaid
+  - Medical devices
+  - Medicare
+  - Packaging and containers
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Rural areas
+  - Social security
+  - Transportation
+  - X-rays
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
@@ -529,9 +556,7 @@ departments:
   - Building 410
   - 245 Murray Drive
   - Washington, DC 20223
-  description: The Secret Service works to safeguard the nation's financial infrastructure.
-    The Secret Service is also responsible for protecting national leaders, visiting
-    heads of state, and National Special Security Events.
+  description: No Description
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
@@ -545,6 +570,74 @@ departments:
   top_level: true
   usa_id: '49660'
   website: http://www.secretservice.gov/foia.shtml
+- address:
+  - Yvonne Coates
+  - FOIA Officer
+  - 11th Floor, East Tower, TSA-20
+  - 601 S. 12th Street
+  - Arlington, VA 22202-4220
+  emails:
+  - foia.tsa@dhs.gov
+  fax: 571-227-1406
+  foia_officer: 'Yvonne Coates, Phone: (866) 364-2872, (571) 227-2300'
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Afghanistan
+  - Agriculture
+  - Air carriers
+  - Air taxis
+  - Air traffic control
+  - Air transportation
+  - Aircraft
+  - Airmen
+  - Airports
+  - Alcohol abuse
+  - Arms and munitions
+  - Authority delegations (Government agencies)
+  - Aviation safety
+  - Canada
+  - Charter flights
+  - Cuba
+  - Drug abuse
+  - Drug testing
+  - Ethiopia
+  - Explosives
+  - Freight
+  - Freight forwarders
+  - Government employees
+  - Harbors
+  - Hazardous materials transportation
+  - Investigations
+  - Law enforcement
+  - Law enforcement officers
+  - Maritime carriers
+  - Maritime security
+  - Mass transportation
+  - Mexico
+  - Motor carriers
+  - Noise control
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Political candidates
+  - Privacy
+  - Railroad safety
+  - Railroads
+  - Reporting and recordkeeping requirements
+  - Safety
+  - Schools
+  - Seamen
+  - Security measures
+  - Transportation
+  - Vessels
+  - Waterways
+  - Yugoslavia
+  name: Transportation Security Administration
+  phone: 866-364-2872
+  public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
+  service_center: 'Phone: (866) 364-2872, (571) 227-2300'
+  top_level: false
+  website: http://www.tsa.gov/research/foia/index.shtm
 - address:
   - Michael Johnson
   - FOIA Officer

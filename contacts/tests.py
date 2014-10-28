@@ -367,6 +367,13 @@ class LayerTests(TestCase):
         self.assertTrue("ACRONYM" in contact_dict)
         self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
         self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+        #   Adding another agency with leading and trailing spaces
+        row["Agency"] = "  Economic Development   "
+        layer.add_contact_info(contact_dict, row)
+        self.assertTrue("ACRONYM" in contact_dict)
+        self.assertTrue("Sewage Treatment" in contact_dict["ACRONYM"])
+        self.assertTrue("Road Maintenance" in contact_dict["ACRONYM"])
+        self.assertTrue("Economic Development" in contact_dict["ACRONYM"])
 
     def test_add_contact_info_website(self):
         """Website field gets cleaned up -- verify it's not added unless it's

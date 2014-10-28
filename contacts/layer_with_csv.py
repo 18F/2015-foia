@@ -5,6 +5,7 @@ from copy import deepcopy
 from glob import glob
 import logging
 import os
+import re
 from urllib.request import urlopen
 
 import xlrd
@@ -36,7 +37,8 @@ def contact_string(row):
 
 def add_contact_info(contacts, row):
     """Process a row of the xls, adding data to the contacts dictionary"""
-    agency, office = row['Department'], row['Agency']
+    agency, office = row['Department'], row['Agency'].strip()
+
     if agency not in contacts:
         contacts[agency] = {}
     if office not in contacts[agency]:

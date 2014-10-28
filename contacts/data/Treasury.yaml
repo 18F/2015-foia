@@ -27,8 +27,7 @@ departments:
   - Box 12
   - 1310 G Street, NW
   - Washington, DC 20220
-  description: The Alcohol and Tobacco Tax and Trade Bureau collects taxes and enforces
-    regulations on alcohol, tobacco, firearms, and ammunition.
+  description: No Description
   emails:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
@@ -103,9 +102,7 @@ departments:
   - 419 A
   - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
-  description: The Bureau of Engraving and Printing produces United States currency
-    notes, operates as the nation's central bank, and serves to ensure that adequate
-    amounts of currency and coin are in circulation.
+  description: No Description
   fax: 202-874-2951
   keywords:
   - Currency
@@ -278,7 +275,6 @@ departments:
   - Federal Reserve System
   - Firefighters
   - Flags
-  - Foreign banking
   - Forgery
   - Fraud
   - Freedom of information
@@ -286,8 +282,6 @@ departments:
   - Government employees
   - Government property
   - Government securities
-  - Grant programs
-  - Housing
   - Income taxes
   - Insurance
   - Insurance companies
@@ -327,11 +321,11 @@ departments:
   top_level: false
   website: http://www.fms.treas.gov/foia/index.html
 - address:
-  - Disclosure Manager
   - FOIA Contact
   - HQ FOIA Stop 211
-  - 'HQ & FOIA Operations ATTn: IRS FOIA Request 2980 Brandywine Road'
-  - Chamblee, GA 30341
+  - PO Box 621506
+  - Atlanta, GA 30362-3006
+  fax: 877-807-9215
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -401,11 +395,11 @@ departments:
   name: Internal Revenue Service - Headquarters Office
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-317-3475
+  phone: (202) 317-3475
   public_liaison: 'Phone: (202) 317-3475'
   service_center: 'Phone: (202) 317-3475'
   top_level: false
-  website: http://www.irs.gov/foia/article/0,,id=120681,00.html
+  website: http://www.irs.gov/uac/IRS-Freedom-of-Information
 - abbreviation: ''
   address:
   - Kathleen Saunders-Mitchell
@@ -413,8 +407,7 @@ departments:
   - 8th Floor
   - 801 9th Street, NW
   - Washington, DC 20220
-  description: The Mint produces the the coins that circulate throughout the US. They
-    also produce special edition coinage that can be purchased for coin collections.
+  description: No Description
   fax: 202-756-6153
   misc:
     FOIA Contact: 'Kathleen Saunders-Mitchell, Phone: (202) 354-4600'
