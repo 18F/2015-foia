@@ -365,6 +365,23 @@ departments:
   top_level: false
   website: https://www.dss.mil/foia/foia_program.html
 - address:
+  - Juanita Y. Gaines
+  - FOIA/Privacy Act Ofc (JOXGP-F)
+  - MSC 6201
+  - 8725 John J. Kingman Road
+  - Fort Belvoir, VA 22060-6201
+  emails:
+  - efoia@dtra.mil
+  fax: 703-767-3623
+  misc:
+    FOIA/Privacy Act Ofc (JOXGP-F): 'Juanita Y. Gaines, Phone: (703) 767-1771'
+  name: Defense Threat Reduction Agency
+  phone: 703-767-1771
+  public_liaison: 'Richard M. Cole, Phone: (703) 767-5859'
+  service_center: 'Phone: (703) 767-1792'
+  top_level: false
+  website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
+- address:
   - Michael A. Hamilton
   - FOIA Contact (DTIC-R)
   - Suite 0944
@@ -421,8 +438,7 @@ departments:
   - Office of Information and Privacy (NGB/JA-OIP)
   - 111 South George Mason Drive, AH2
   - Arlington, VA 22204-1373
-  description: The National Guard assists in times of local emergency and can also
-    be called into federal service.
+  description: No Description
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
   fax: 703-607-3684
@@ -441,8 +457,7 @@ departments:
   - 'ATTN: CIO/Information Management Services Office'
   - 14675 Lee Road
   - Chantilly, VA 20151-1715
-  description: The National Reconnaissance Office is responsible for designing, building,
-    launching, and maintaining intelligence satellites.
+  description: No Description
   emails:
   - foia@nro.mil
   - foia@nro.mil
@@ -465,9 +480,7 @@ departments:
   - Suite 6248
   - 9800 Savage Road
   - Fort George G. Meade, MD 20755-6248
-  description: The National Security Agency and Central Security Service are the "codemaker
-    and codebreakers" of the intelligence community, providing foreign signal and
-    communications intelligence to decision makers.
+  description: No Description
   emails:
   - foiarsc@nsa.gov
   - foiarsc@nsa.gov

@@ -7,10 +7,7 @@ departments:
   - MS-3071, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  description: The Bureau of Indian Affairs’ mission is to enhance the quality of
-    life, to promote economic opportunity, and to carry out the responsibility to
-    protect and improve the trust assets of American Indians, Indian tribes and Alaska
-    Natives.
+  description: No Description
   emails:
   - foia@bia.gov
   fax: 202-208-6597
@@ -70,8 +67,7 @@ departments:
   - 'Attn: FOIA, Washington Office Coorindators'
   - 'MS: WO-560, 1849 C Street, NW'
   - Washington, DC 20240
-  description: The Bureau of Land Management manages outdoor recreation, livestock
-    grazing, mineral development, and energy production on public lands.
+  description: No Description
   emails:
   - BLM_WO_FOIA@blm.gov
   foia_officer: 'Ryan Witt, Phone: (202) 912-7650'
@@ -143,9 +139,7 @@ departments:
   - HM3127
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: The Bureau of Ocean Energy Management promotes energy independence,
-    environmental protection, and economic development by managing offshore energy
-    resources.
+  description: No Description
   emails:
   - BOEMFOIA@boem.gov
   fax: 703-787-1209
@@ -193,8 +187,7 @@ departments:
   - FOIA Officer
   - P.O. Box 25007
   - Denver, CO 80225-0007
-  description: 'The Bureau of Reclamation is a provider of wholesale water, and hydroelectric
-    power in the U.S. '
+  description: No Description
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
@@ -234,9 +227,7 @@ departments:
   - 'MS:  HE-2204'
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: The Bureau of Safety and Environmental Enforcement provides oversight
-    and enforcement to promote safety, protect the environment, and conserve offshore
-    resources.
+  description: No Description
   emails:
   - BSEEFOIA@bsee.gov
   fax: 703-787-1207
@@ -279,8 +270,7 @@ departments:
   - MS-IRTM
   - 5725 Leesburg Pike
   - Falls Church, VA 22041
-  description: The Fish and Wildlife Service works to conserve, protect and enhance
-    fish, wildlife and plants and their habitats.
+  description: No Description
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
@@ -357,6 +347,26 @@ departments:
   top_level: true
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
+- address:
+  - Brian May
+  - FOIA Contact
+  - MS-807, National Center
+  - 12201 Sunrise Valley Drive Room 2B116
+  - Reston, VA 20192
+  emails:
+  - foia@usgs.gov
+  fax: 703-648-7199
+  misc:
+    FOIA Contact: 'Brian May, Phone: (703) 648-7196'
+  name: U.S. Geological Survey
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 703-648-7196
+  public_liaison: 'Joye Durant, Phone: (703) 648-7196'
+  request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  service_center: 'Phone: (703) 648-7196'
+  top_level: false
+  website: http://www.usgs.gov/foia/
 - abbreviation: ''
   address:
   - Charis Wilson
@@ -364,10 +374,7 @@ departments:
   - P.O. Box 25287
   - 12795 W. Alameda Parkway
   - Denver, CO 80225
-  description: The National Park Service cares for the more than 400 national parks
-    in the U.S. The National Park Service also partners with local communities to
-    assist in historic preservaton and the creation and maintenance of recreational
-    spaces.
+  description: No Description
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557

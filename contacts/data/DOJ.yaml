@@ -77,8 +77,7 @@ departments:
   - Room 1E-400
   - 99 New York Avenue, NE
   - Washington, DC 20226
-  description: The Bureau of Alcohol, Tobacco, Firearms, and Explosives enforces federal
-    criminal laws regulating the firearms and explosives industries.
+  description: No Description
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
@@ -193,6 +192,22 @@ departments:
   top_level: false
   website: http://www.justice.gov/crt/foia/index.php
 - address:
+  - George Henderson
+  - FOIA/PA Coordinator
+  - Suite 6000
+  - 600 E Street, NW
+  - Washington, DC 20530-0001
+  emails:
+  - CRS.FOIA@usdoj.gov
+  misc:
+    FOIA/PA Coordinator: 'George Henderson, Phone: (202) 305-2935'
+  name: Community Relations Service
+  phone: 202-305-2935
+  public_liaison: 'George Henderson, Phone: (202) 305-2964'
+  service_center: 'Phone: (202) 305-2935'
+  top_level: false
+  website: http://www.justice.gov/crs/foia.htm
+- address:
   - Kenneth Courter
   - Chief, FOIA/PA Unit
   - Suite 1127
@@ -215,9 +230,7 @@ departments:
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
   - Springfield, VA 22152
-  description: The Drug Enforcement Administration enforces the United States' controlled
-    substance laws and regulations and aims to reduce the supply of and demand for
-    such substances.
+  description: No Description
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
@@ -402,8 +415,7 @@ departments:
   - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
-  description: The Bureau of Prisons manages federal prisons, and community-based
-    facilities that provide work and opportunities to assist offenders.
+  description: No Description
   emails:
   - ogc_efoia@bop.gov
   keywords:
@@ -498,9 +510,7 @@ departments:
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
   - Washington, DC 20530-0001
-  description: The Office of Community Oriented Policing Services advances the practice
-    of community policing through sharing information and making grants to police
-    departments in the United States.
+  description: No Description
   emails:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
@@ -769,12 +779,7 @@ departments:
   - FOIA/PA, CS 4, 10th Floor
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
-  description: Part of the Department of Justice, the Marshals Service is responsible
-    for providing security to the federal judiciary, managing the witness security
-    program, managing and selling the seized or forfeited assets of criminals, is
-    responsible for the confinement and transportation of federal prisoners who have
-    not been turned over to the bureau of prisons, and is the primary federal agency
-    responsible for fugitive investigations.
+  description: No Description
   emails:
   - usms.foia@usdoj.gov
   misc:
