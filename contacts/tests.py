@@ -11,6 +11,32 @@ import scraper
 
 
 class ScraperTests(TestCase):
+    def test_get_unknown_office_details(self):
+        agency_data = {
+            'emails': ['foia@agency.gov'],
+            'common_requests': ['spaceship plans'],
+            'keywords': ['purchase card use', 'government forms'],
+            'name': 'Best agency',
+            'description': "The most important agency.",
+            'departments': [
+                {
+                    'name': 'department one',
+                    'emails': ['department.one@agency.gov'],
+                    'keywords': ['department one things'],
+                },
+                {
+                    'name': "I don't know which office",
+                    'emails': ['hq@agency.gov']
+                }
+            ]
+        }
+        unknown = scraper.get_unknown_office_details(agency_data)
+        self.assertEqual(
+            unknown,
+            {
+                'name': "I don't know which office",
+                'emails': ['hq@agency.gov']})
+
     def test_update_list_in_dict(self):
         original = {'keywords': ['accounting', 'estates']}
         scraper.update_list_in_dict(
