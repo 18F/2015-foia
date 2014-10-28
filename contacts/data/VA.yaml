@@ -1,4 +1,10 @@
 abbreviation: VA
+address:
+- Laurie Karnay
+- FOIA Team Lead
+- (005R1C) VACO
+- 810 Vermont Avenue, NW
+- Washington, DC 20420
 departments:
 - address:
   - Laurie Karnay
@@ -430,24 +436,10 @@ departments:
   service_center: 'Phone: (202) 303-3260 ext 5429'
   top_level: false
   website: http://www.foia.va.gov/
-- address:
-  - Laurie Karnay
-  - FOIA Team Lead
-  - (005R1C) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
-  fax: 202-632-7581
-  misc:
-    FOIA Team Lead: 'Laurie Karnay, Phone: (202) 632-7465'
-  name: I don't know which office
-  phone: 202-632-7465
-  public_liaison: 'Phone: (202) 632-7600'
-  service_center: 'Phone: (202) 632-7600'
-  top_level: false
-  website: http://www.foia.va.gov/
 description: The Department's mission is to fulfill President Lincoln's promise "To
   care for him who shall have borne the battle, and for his widow, and his orphan"
   by serving and honoring the men and women who are America´s veterans.
+fax: 202-632-7581
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -598,4 +590,9 @@ keywords:
 - Wages
 - Women
 name: Department of Veterans Affairs
+phone: 202-632-7465
+public_liaison: 'Phone: (202) 632-7600'
+service_center: 'Phone: (202) 632-7600'
+top_level: false
 usa_id: '48027'
+website: http://www.foia.va.gov/

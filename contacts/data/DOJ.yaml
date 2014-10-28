@@ -1,4 +1,10 @@
 abbreviation: DOJ
+address:
+- FOIA/PA Mail Referral Unit
+- Justice Management Division
+- Room 115
+- LOC Building
+- Washington, DC 20530-0001
 departments:
 - abbreviation: ''
   address:
@@ -813,28 +819,14 @@ departments:
   service_center: 'Phone: (202) 346-7030'
   top_level: false
   website: http://www.justice.gov/uspc/foia.htm
-- address:
-  - FOIA/PA Mail Referral Unit
-  - Justice Management Division
-  - Room 115
-  - LOC Building
-  - Washington, DC 20530-0001
-  emails:
-  - MRUFOIA.Requests@usdoj.gov
-  fax: 301-341-0772
-  misc:
-    Justice Management Division: 'FOIA/PA Mail Referral Unit, Phone: (301) 583-7354'
-  name: I don't know which office
-  phone: 301-583-7354
-  public_liaison: 'Phone: (301) 583-7354'
-  service_center: 'Phone: (301) 583-7354'
-  top_level: false
-  website: ''
 description: The Department's mission is to enforce the law and defend the interests
   of the United States according to the law; to ensure public safety against threats
   foreign and domestic; to provide federal leadership in preventing and controlling
   crime; to seek just punishment for those guilty of unlawful behavior; and to ensure
   fair and impartial administration of justice for all Americans.
+emails:
+- MRUFOIA.Requests@usdoj.gov
+fax: 301-341-0772
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -983,4 +975,9 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Justice
+phone: 301-583-7354
+public_liaison: 'Phone: (301) 583-7354'
+service_center: 'Phone: (301) 583-7354'
+top_level: false
 usa_id: '52686'
+website: ''

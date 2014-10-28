@@ -1,4 +1,9 @@
 abbreviation: MSPB
+address:
+- Bernard Parker
+- FOIA Public Liaiso, Office of the Clerk
+- 1615 M Street, NW
+- Washington, DC 20419
 departments:
 - address:
   - Bernard Parker
@@ -159,26 +164,12 @@ departments:
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-  - Bernard Parker
-  - FOIA Public Liaiso, Office of the Clerk
-  - 1615 M Street, NW
-  - Washington, DC 20419
-  emails:
-  - FOIAHQ@msrb.gov
-  fax: 202-653-7130
-  misc:
-    FOIA Public Liaiso, Office of the Clerk: 'Bernard Parker, Phone: (202) 653-7200'
-  name: I don't know which office
-  phone: 202-653-7200
-  public_liaison: 'Bernard Parker, Phone: (202) 254-4475'
-  request_form: https://foia.mspb.gov/
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
-  top_level: false
-  website: http://www.mspb.gov/FOIA/foia.htm
 description: The Merit Systems Protection Board is an independent, quasi-judicial
   agency whose mission is to protect the Merit Systems Principles and promote an effective
   Federal workforce free of Prohibited Personnel Practices.
+emails:
+- FOIAHQ@msrb.gov
+fax: 202-653-7130
 keywords:
 - Administrative practice and procedure
 - Civil rights
@@ -190,4 +181,10 @@ keywords:
 - Veterans
 - Whistleblowing
 name: Merit Systems Protection Board
+phone: 202-653-7200
+public_liaison: 'Bernard Parker, Phone: (202) 254-4475'
+request_form: https://foia.mspb.gov/
+service_center: 'Bernard Parker, Phone: (202) 254-4475'
+top_level: false
 usa_id: '52630'
+website: http://www.mspb.gov/FOIA/foia.htm

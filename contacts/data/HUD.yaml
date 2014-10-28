@@ -1,4 +1,10 @@
 abbreviation: HUD
+address:
+- Dolores W. Cole
+- Office of the Executive Secretariat, Headquarters
+- Room 10139
+- 451 7th Street, SW
+- Washington, DC 20410-3000
 departments:
 - address:
   - Dolores Cole
@@ -189,33 +195,15 @@ departments:
   service_center: 'Phone: (206) 220-5101'
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
-- address:
-  - Dolores W. Cole
-  - Office of the Executive Secretariat, Headquarters
-  - Room 10139
-  - 451 7th Street, SW
-  - Washington, DC 20410-3000
-  emails:
-  - foia_hud.gov
-  fax: 202-619-8365
-  misc:
-    Office of the Executive Secretariat, Headquarters: 'Dolores W. Cole, Phone: (202)
-      708-3866'
-  name: I don't know which office
-  notes: This office has additional FOIA contact information that can be found by
-    visiting its website.
-  phone: 202-708-3866
-  public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
-  request_form: https://hudpal.efoia-host.com/palMain.aspx
-  service_center: 'Eugenia Harris, Phone: (202) 708-3866'
-  top_level: false
-  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
 description: 'HUD´s mission is to create strong, sustainable, inclusive communities
   and quality affordable homes for all. HUD is working to strengthen the housing market
   to bolster the economy and protect consumers; meet the need for quality affordable
   rental homes: utilize housing as a platform for improving quality of life; build
   inclusive and sustainable communities free from discrimination; and transform the
   way HUD does business.'
+emails:
+- foia_hud.gov
+fax: 202-619-8365
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -336,4 +324,12 @@ keywords:
 - Wages
 - Women
 name: Department of Housing and Urban Development
+notes: This office has additional FOIA contact information that can be found by visiting
+  its website.
+phone: 202-708-3866
+public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
+request_form: https://hudpal.efoia-host.com/palMain.aspx
+service_center: 'Eugenia Harris, Phone: (202) 708-3866'
+top_level: false
 usa_id: '49376'
+website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

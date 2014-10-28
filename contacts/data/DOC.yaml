@@ -1,4 +1,10 @@
 abbreviation: DOC
+address:
+- Brenda Dolan
+- Departmental FOIA Officer, Office of Privacy and Open Government
+- Mail Stop H6204
+- 14th Street and Constitution Avenue, NW
+- Washington, DC 20230
 departments:
 - abbreviation: ''
   address:
@@ -701,27 +707,14 @@ departments:
   service_center: 'Phone: (202) 482-3257'
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
-- address:
-  - Brenda Dolan
-  - Departmental FOIA Officer, Office of Privacy and Open Government
-  - Mail Stop H6204
-  - 14th Street and Constitution Avenue, NW
-  - Washington, DC 20230
-  emails:
-  - Efoia@doc.gov
-  fax: 202-482-0827
-  foia_officer: 'Brenda Dolan, Phone: (202) 482-3258'
-  name: I don't know which office
-  phone: 202-482-3258
-  public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
-  service_center: 'Phone: (202) 482-3258'
-  top_level: false
-  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 description: The historic mission of the Department of Commerce is "to foster, promote,
   and develop the foreign and domestic commerce" of the United States. This has evolved,
   as a result of legislative and administrative additions, to encompass broadly the
   responsibility to foster, serve, and promote the Nation's economic development and
   technological advancement.
+emails:
+- Efoia@doc.gov
+fax: 202-482-0827
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -895,4 +888,9 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Commerce
+phone: 202-482-3258
+public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
+service_center: 'Phone: (202) 482-3258'
+top_level: false
 usa_id: '52668'
+website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
