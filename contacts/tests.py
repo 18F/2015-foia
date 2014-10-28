@@ -26,7 +26,7 @@ class ScraperTests(TestCase):
                 {
                     'name': "I don't know which office",
                     'emails': ['hq@agency.gov'],
-                    'phone' : '202-555-5555',
+                    'phone': '202-555-5555',
                     'office_url': 'http://office.url',
                     'person_name': 'Joe Bureaucrat'
                 }
