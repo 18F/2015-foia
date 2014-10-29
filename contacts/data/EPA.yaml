@@ -1,4 +1,10 @@
 abbreviation: EPA
+address:
+- Larry Gottesman
+- National Freedom of Information Officer
+- (2822T)
+- 1200 Pennsylvania Avenue, NW
+- Washington, DC 20460
 departments:
 - address:
   - Larry Gottesman
@@ -186,23 +192,6 @@ departments:
   service_center: 'Phone: (206) 553-8665'
   top_level: false
   website: http://yosemite.epa.gov/r10/extaff.nsf/webpage/freedom+of+information+act
-- address:
-  - Larry Gottesman
-  - National Freedom of Information Officer
-  - (2822T)
-  - 1200 Pennsylvania Avenue, NW
-  - Washington, DC 20460
-  emails:
-  - williams.deborah@epa.gov
-  misc:
-    National Freedom of Information Officer: 'Larry Gottesman, Phone: (202) 566-1667'
-  name: I don't know which office
-  phone: 202-566-1667
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  request_form: http://www.epa.gov/foia/requestform.html
-  service_center: 'Phone: (202) 566-1667'
-  top_level: false
-  website: http://www.epa.gov/foia/index.html
 description: The mission of EPA is to protect human health and the environment.
 keywords:
 - Accounting
@@ -420,4 +409,10 @@ keywords:
 - Wool
 - Zinc
 name: Environmental Protection Agency
+phone: 202-566-1667
+public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+request_form: http://www.epa.gov/foia/requestform.html
+service_center: 'Phone: (202) 566-1667'
+top_level: false
 usa_id: '49039'
+website: http://www.epa.gov/foia/index.html

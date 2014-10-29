@@ -1,4 +1,9 @@
 abbreviation: FLRA
+address:
+- Rosa M. Koppel
+- Solicitor, Office of the Solicitor
+- 1400 K Street, NW
+- Washington , DC 20424
 departments:
 - address:
   - Rosa M. Koppel
@@ -173,28 +178,20 @@ departments:
   service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
   top_level: false
   website: http://www.flra.gov/foia_contact
-- address:
-  - Rosa M. Koppel
-  - Solicitor, Office of the Solicitor
-  - 1400 K Street, NW
-  - Washington , DC 20424
-  emails:
-  - solmail@flra.gov
-  fax: 202-343-1007
-  misc:
-    Solicitor, Office of the Solicitor: 'Rosa M. Koppel, Phone: (202) 218-7770'
-  name: I don't know which office
-  phone: 202-218-7770
-  public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
-  service_center: 'Phone: (202) 218-7770'
-  top_level: false
-  website: http://www.flra.gov/FOIA
 description: The FLRA exercises leadership under the Statute to promote stable, constructive
   labor relations that contribute to a more effective and efficient Government.
+emails:
+- solmail@flra.gov
+fax: 202-343-1007
 keywords:
 - Administrative practice and procedure
 - Conflict of interests
 - Government employees
 - Labor management relations
 name: Federal Labor Relations Authority
+phone: 202-218-7770
+public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
+service_center: 'Phone: (202) 218-7770'
+top_level: false
 usa_id: '52613'
+website: http://www.flra.gov/FOIA

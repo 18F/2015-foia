@@ -1,4 +1,10 @@
 abbreviation: EEOC
+address:
+- Stephanie Garner
+- Assistant Legal Counsel/FOIA, OLC/FOIA Programs
+- Suite 5NW02E
+- 131 M Street, NE
+- Washington, DC 20507
 departments:
 - address:
   - Stephanie Garner
@@ -313,28 +319,13 @@ departments:
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
-- address:
-  - Stephanie Garner
-  - Assistant Legal Counsel/FOIA, OLC/FOIA Programs
-  - Suite 5NW02E
-  - 131 M Street, NE
-  - Washington, DC 20507
-  emails:
-  - FOIA@EEOC.gov
-  fax: 202-663-4639
-  misc:
-    Assistant Legal Counsel/FOIA, OLC/FOIA Programs: 'Stephanie Garner, Phone: (202)
-      663-4634, (202) 663-7026 (TTY)'
-  name: I don't know which office
-  phone: 202-663-4634
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-  top_level: false
-  website: http://www.eeoc.gov/eeoc/foia/
 description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
   for enforcing federal laws that make it illegal to discriminate against a job applicant
   or an employee because of the person's race, color, religion, sex (including pregnancy),
   national origin, age (40 or older), disability or genetic information
+emails:
+- FOIA@EEOC.gov
+fax: 202-663-4639
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -356,4 +347,9 @@ keywords:
 - Sex discrimination
 - State and local governments
 name: Equal Employment Opportunity Commission
+phone: 202-663-4634
+public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+top_level: false
 usa_id: '48032'
+website: http://www.eeoc.gov/eeoc/foia/

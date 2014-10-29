@@ -291,6 +291,29 @@ def apply_manual_data(agency_abbr, agency_data):
         return agency_data
 
 
+def get_unknown_office_details(agency_data):
+    for dept in agency_data['departments']:
+        if dept['name'] == "I don't know which office":
+            return dict(dept)
+
+
+def all_but_unknown(agency_data):
+    departments = [d for d in agency_data['departments']
+                   if d['name'] != "I don't know which office"]
+    return departments
+
+
+def populate_parent(agency_data):
+    unknown_office = get_unknown_office_details(agency_data)
+    if unknown_office:
+        departments = all_but_unknown(agency_data)
+        agency_data = dict(agency_data, departments=departments)
+        for field, value in unknown_office.items():
+            if field not in ['name']:
+                agency_data[field] = value
+    return agency_data
+
+
 def save_agency(abb):
     """For a given agency, download (if not already present) their HTML,
     process it, and save the resulting YAML"""
@@ -313,6 +336,7 @@ def save_agency(abb):
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
+    data = populate_parent(data)
     data = apply_manual_data(abb, data)
     save_agency_data(abb, data)
 

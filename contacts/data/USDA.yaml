@@ -1,4 +1,10 @@
 abbreviation: USDA
+address:
+- Ray Payton
+- Departmental FOIA Officer, Office of the Secretary
+- 10th Floor
+- 355 E Street SW
+- Washington, DC 20024
 departments:
 - address:
   - William D. Allen IV
@@ -777,24 +783,11 @@ departments:
   service_center: 'Phone: (202) 692-0004'
   top_level: false
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
-- address:
-  - Ray Payton
-  - Departmental FOIA Officer, Office of the Secretary
-  - 10th Floor
-  - 355 E Street SW
-  - Washington, DC 20024
-  emails:
-  - usdafoia@ocio.usda.gov
-  foia_officer: 'Ray Payton, Phone: (202) 260-2657'
-  name: I don't know which office
-  phone: 202-260-2657
-  public_liaison: 'Ray Payton, Phone: (202) 260-2657'
-  service_center: 'Phone: (202) 260-2657'
-  top_level: false
-  website: http://www.dm.usda.gov/foia.htm
 description: USDA provides leadership on food, agriculture, natural resources, and
   related issues based on sound public policy, the best available science, and efficient
   management.
+emails:
+- usdafoia@ocio.usda.gov
 keywords:
 - Accounting
 - Acreage allotments
@@ -1130,4 +1123,9 @@ keywords:
 - Wool
 - Youth
 name: Department of Agriculture
+phone: 202-260-2657
+public_liaison: 'Ray Payton, Phone: (202) 260-2657'
+service_center: 'Phone: (202) 260-2657'
+top_level: false
 usa_id: '49015'
+website: http://www.dm.usda.gov/foia.htm
