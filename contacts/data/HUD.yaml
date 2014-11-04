@@ -13,6 +13,8 @@ departments:
   - 451 7th Street, SW
   - Washington, DC 20410-3000
   fax: 202-619-8365
+  misc:
+    Office of the Executive Secretariat: 'Dolores Cole, Phone: (202) 708-3866'
   name: Headquarters
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -30,6 +32,8 @@ departments:
   - Room 301
   - 10 Causeway Street
   - Boston, MA 02222-1092
+  misc:
+    Deputy Regional Administrator: 'Kristine G. Foye, Phone: (617) 994-8218'
   name: Region I (Boston, Hartford, Manchester, Providence)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -45,6 +49,8 @@ departments:
   - Suite 3541
   - 26 Federal Plaza
   - New York, NY 10278-0068
+  misc:
+    Deputy Regional Administrator: 'Mirza Morales, Phone: (212) 542-7109'
   name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -59,6 +65,8 @@ departments:
   - Deputy Regional Administrator
   - 100 Penn Square East Building
   - Philadelphia, PA 10107
+  misc:
+    Deputy Regional Administrator: 'Brenda Laroche, Phone: (215) 656-0600'
   name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
   notes: This office has additional FOIA contact information that can be found by
@@ -74,6 +82,9 @@ departments:
   - Supervisory Operations Officer
   - 40 Marietta Street
   - Atlanta, GA 30303
+  misc:
+    Supervisory Operations Officer: 'Thomacina Brown, Phone: (404) 331-5001, ext.
+      2380'
   name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
   notes: This office has additional FOIA contact information that can be found by
@@ -90,6 +101,8 @@ departments:
   - Suite 2608
   - 77 W. Jackson Boulevard
   - Chicago, IL 60604
+  misc:
+    Deputy Regional Director: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
   name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
   notes: This office has additional FOIA contact information that can be found by
@@ -106,6 +119,8 @@ departments:
   - 'Unit #45, Suite 2500'
   - 801 Cherry Street
   - Ft. Worth, TX 76102
+  misc:
+    FOIA Liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
   name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
     San Antonio)
   notes: This office has additional FOIA contact information that can be found by
@@ -121,6 +136,8 @@ departments:
   - Deputy Regional Administrator
   - 400 State Avenue
   - Kansas City, KS 66101
+  misc:
+    Deputy Regional Administrator: 'Eugene (Gene) Lipscomb, Phone: (913) 551-5476'
   name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -135,6 +152,8 @@ departments:
   - Deputy Regional Director
   - 1670 Broadway
   - Denver, CO 80202-4801
+  misc:
+    Deputy Regional Director: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
   name: Region VIII (Denver)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -150,6 +169,8 @@ departments:
   - John E. Moss Federal Building, Suite 4-200
   - 650 Capitol Mall
   - Sacramento, CA 95814-3702
+  misc:
+    FOIA Liaison: 'Suzie Hernandez, Phone: (916) 498-7381'
   name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -165,6 +186,8 @@ departments:
   - Suite 200
   - 909 First Avenue
   - Seattle , WA 98104-1000
+  misc:
+    Regional Lead: 'Patty Huster, Phone: (206) 220-5101'
   name: Region X (Seattle, Anchorage, Portland)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -183,6 +206,125 @@ description: 'HUD´s mission is to create strong, sustainable, inclusive communi
 emails:
 - foia_hud.gov
 fax: 202-619-8365
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Advertising
+- Aged
+- Alaska
+- American Samoa
+- Archives and records
+- Buildings and facilities
+- Civil rights
+- Claims
+- Classified information
+- Colleges and universities
+- Community development
+- Community development block grants
+- Computer technology
+- Condominiums
+- Confidential business information
+- Conflict of interests
+- Consumer protection
+- Cooperatives
+- Courts
+- Credit
+- Crime
+- Drug abuse
+- Drug traffic control
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Environmental impact statements
+- Environmental protection
+- Equal access to justice
+- Equal educational opportunity
+- Equal employment opportunity
+- Fair housing
+- Federal Reserve System
+- Federal home loan banks
+- Fire prevention
+- Flood insurance
+- Fraud
+- Freedom of information
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Grant programs
+- Grant programs-Indians
+- Grant programs-education
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Guam
+- HIV/AIDS
+- Hawaiian Natives
+- Health facilities
+- Health insurance
+- Health professions
+- Historic preservation
+- Home improvement
+- Homeless
+- Hospitals
+- Housing
+- Housing standards
+- Income taxes
+- Indians
+- Indians-lands
+- Individuals with disabilities
+- Intergovernmental relations
+- Inventions and patents
+- Investigations
+- Labor
+- Lawyers
+- Lead poisoning
+- Loan programs
+- Loan programs-Indians
+- Loan programs-health
+- Loan programs-housing and community development
+- Low and moderate income housing
+- Manufactured homes
+- Mental health programs
+- Minority businesses
+- Mortgage insurance
+- Mortgages
+- National banks
+- Nonprofit organizations
+- Northern Mariana Islands
+- Nursing homes
+- Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
+- Penalties
+- Pets
+- Privacy
+- Public housing
+- Puerto Rico
+- Religious discrimination
+- Relocation assistance
+- Rent subsidies
+- Reporting and recordkeeping requirements
+- Rural areas
+- Safety
+- Savings associations
+- Seals and insignia
+- Securities
+- Sex discrimination
+- Small businesses
+- Social security
+- Solar energy
+- Student aid
+- Sunshine Act
+- Surety bonds
+- Surplus Government property
+- Technical assistance
+- Unemployment compensation
+- Urban areas
+- Utilities
+- Virgin Islands
+- Wages
+- Women
 name: Department of Housing and Urban Development
 notes: This office has additional FOIA contact information that can be found by visiting
   its website.
@@ -193,4 +335,5 @@ service_center: 'Eugenia Harris, Phone: (202) 708-3866'
 simple_average: '17.21'
 simple_median: '14'
 top_level: false
+usa_id: '49376'
 website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

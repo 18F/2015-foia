@@ -1,11 +1,17 @@
-abbreviation: DoD
+abbreviation: DOD
 departments:
-- address:
+- abbreviation: ''
+  address:
   - FOIA Contact
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
   - Washington, DC 20301-1155
+  description: No Description
+  emails:
+  - FOIA.LIAISON@WHS.MIL
   fax: 571-372-0500
+  misc:
+    FOIA Contact: 'Phone: (866) 574-4970'
   name: Office of the Secretary and Joint Staff
   notes: This Office also handles requests for records of the U.S. Joint Forces Command,
     which was disestablished on August 31, 2011.
@@ -14,6 +20,7 @@ departments:
   request_form: http://www.dod.gov/pubs/foi/
   service_center: 'Phone: (866) 574-4970'
   top_level: true
+  usa_id: None
   website: http://www.dod.gov/pubs/foi/
 - address:
   - JoAnne Collins
@@ -24,6 +31,34 @@ departments:
   emails:
   - haffoia.workflow@pentagon.af.mil
   fax: 703-696-7273
+  keywords:
+  - Administrative practice and procedure
+  - Air carriers
+  - Alimony
+  - Aviation safety
+  - Child support
+  - Civil defense
+  - Civil disorders
+  - Claims
+  - Courts
+  - Credit
+  - Disaster assistance
+  - Environmental impact statements
+  - Federal buildings and facilities
+  - Foreign relations
+  - Inventions and patents
+  - Law enforcement
+  - Military air transportation
+  - Military law
+  - Military personnel
+  - Motor vehicles
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Safety
+  - Wake Island
+  misc:
+    FOIA Contact: 'JoAnne Collins, Phone: (703) 696-2735'
   name: Department of the Air Force - Headquarters/ICIO (FOIA)
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -43,6 +78,53 @@ departments:
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
+  keywords:
+  - Administrative practice and procedure
+  - Air pollution control
+  - Archives and records
+  - Armed forces
+  - Biologics
+  - Cemeteries
+  - Civil disorders
+  - Claims
+  - Credit
+  - Crime
+  - Disaster assistance
+  - District of Columbia
+  - Environmental impact statements
+  - Environmental protection
+  - Federal buildings and facilities
+  - Freedom of information
+  - Government contracts
+  - Government employees
+  - Government procurement
+  - Government property
+  - Hazardous substances
+  - Health
+  - Health care
+  - Historic preservation
+  - Intergovernmental relations
+  - Investigations
+  - Law
+  - Law enforcement
+  - Law enforcement officers
+  - Military law
+  - Military personnel
+  - National defense
+  - Natural resources
+  - Noise control
+  - Occupational safety and health
+  - Penalties
+  - Privacy
+  - Radiation protection
+  - Research
+  - Safety
+  - Traffic regulations
+  - Veterans
+  - Waste treatment and disposal
+  - Water pollution control
+  misc:
+    FOIA Contact: 'Alecia Bolling, Phone: (703) 428-7128'
   name: Department of the Army - Freedom of Information and Privacy Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -58,6 +140,43 @@ departments:
   - 2000 Navy Pentagon
   - Washington, DC 20350-2000
   fax: 202-685-6580
+  keywords:
+  - Administrative practice and procedure
+  - Archives and records
+  - Armed forces
+  - Claims
+  - Conflict of interests
+  - Courts
+  - Crime
+  - Endangered and threatened species
+  - Environmental impact statements
+  - Federal buildings and facilities
+  - Fish
+  - Freedom of information
+  - Government employees
+  - Government property
+  - Government property management
+  - Health care
+  - Law
+  - Law enforcement
+  - Lawyers
+  - Legal services
+  - Marine safety
+  - Military law
+  - Military personnel
+  - National defense
+  - Navigation (water)
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Security measures
+  - Surplus Government property
+  - Trusts and trustees
+  - Vessels
+  - Wildlife
+  misc:
+    FOIA Contact, Chief of Naval Operations: 'Robin Patterson, Phone: (202) 685-0412'
   name: Department of the Navy - Main Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -74,6 +193,8 @@ departments:
   - 3000 Marine Corps Pentagon
   - Washington, DC 20350-3000
   fax: 703-614-6287
+  misc:
+    Head, FOIA/PA: 'Sally A. Hughes, Phone: (703) 614-4008'
   name: Marine Corps - FOIA Program Office (ARSF)
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -92,6 +213,8 @@ departments:
   emails:
   - asbca.recorder@mail.mil
   fax: 703-681-8535
+  misc:
+    General Counsel: 'Catherine A. Stanton, Phone: (703) 681-8501'
   name: Armed Services Board of Contract Appeals
   phone: 703-681-8501
   public_liaison: 'Catherine A. Stanton, Phone: (703) 681-8503'
@@ -106,6 +229,8 @@ departments:
   emails:
   - foia@deca.mil
   fax: 804-734-8116
+  misc:
+    FOIA/Privacy Officer: 'Comillo DeSantis, Phone: (804) 734-8116'
   name: Defense Commissary Agency
   phone: 804-734-8116
   public_liaison: 'William E. Sherman, Phone: (804) 734-8116'
@@ -123,6 +248,8 @@ departments:
   emails:
   - DCAA-FOIA@dcaa.mil
   fax: 703-767-1011
+  keywords:
+  - Privacy
   name: Defense Contract Audit Agency - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -140,6 +267,9 @@ departments:
   emails:
   - DCMA.FOIA@DCMA.mil
   fax: 804-734-0109
+  misc:
+    FOIA/PA Privacy Officer/FOIA Analyst: 'Donna Williamson/Kimberly Turner, Phone:
+      (804) 734-1488, (804) 734-1466'
   name: Defense Contract Management Agency
   phone: 804-734-1488
   public_liaison: 'Melissa Walker, Phone: (804) 734-1487'
@@ -157,6 +287,8 @@ departments:
   emails:
   - gregory.outlaw@dfas.mil
   fax: 317-212-8802
+  misc:
+    FOIA/PA Program Manager/FOIA Liaison officer: 'Gregory Outlaw, Phone: (317) 212-4591'
   name: Defense Finance and Accounting Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -190,6 +322,8 @@ departments:
   emails:
   - foia@dodiis.mil
   fax: 301-394-5356
+  misc:
+    Chief, FOIA Services Branch: 'Alesia Y. Williams, Phone: (301) 394-5587'
   name: Defense Intelligence Agency
   phone: 301-394-5587
   public_liaison: 'Margaret A. Bestrain, Alesia Y. Williams, Phone: (301) 394-5587'
@@ -207,6 +341,11 @@ departments:
   emails:
   - hq-foia@dla.mil
   fax: 703-767-6091
+  keywords:
+  - Government procurement
+  - Privacy
+  misc:
+    'FOIA Contact, ATTN: DGA': 'Debbie Teer, Phone: (703) 767-5247, (703) 767-6183'
   name: Defense Logistics Agency - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -223,6 +362,8 @@ departments:
   emails:
   - Leslie.Blake@dss.mil
   fax: 571-305-6931
+  misc:
+    Office of FOI and Privacy: 'Leslie Blake, Phone: (571) 305-6740'
   name: Defense Security Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -242,6 +383,8 @@ departments:
   emails:
   - efoia@dtra.mil
   fax: 703-767-3623
+  misc:
+    FOIA/Privacy Act Ofc (JOXGP-F): 'Juanita Y. Gaines, Phone: (703) 767-1771'
   name: Defense Threat Reduction Agency
   phone: 703-767-1771
   public_liaison: 'Richard M. Cole, Phone: (703) 767-5859'
@@ -257,6 +400,8 @@ departments:
   emails:
   - foia@dtic.mil
   fax: 703-767-9201
+  misc:
+    FOIA Contact (DTIC-R): 'Michael A. Hamilton, Phone: (703) 767-9204'
   name: Defense Technical Information Center
   phone: 703-767-9204
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -274,6 +419,8 @@ departments:
   emails:
   - foia@hq.dodea.edu
   fax: 571-372-5829
+  misc:
+    FOIA Contact: 'James Revell, Phone: (571) 372-1892'
   name: Department of Defense Education Activity
   phone: 571-372-1892
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -288,21 +435,26 @@ departments:
   emails:
   - foianga@nga.mil
   fax: 571-557-3130
+  misc:
+    FOIA Program Manager: 'Phone: (571) 557-4141'
   name: National Geospatial-Intelligence Agency
   phone: 571-557-4141
   public_liaison: 'Elizabeth M. Smith, Phone: (571) 557-7708'
   service_center: 'Phone: (571) 557-4141'
   top_level: false
   website: http://www1.nga.mil/Pages/FOIA.aspx
-- address:
+- abbreviation: ''
+  address:
   - Jennifer Nikolaisen
   - Chief FOIA Officer
   - Office of Information and Privacy (NGB/JA-OIP)
   - 111 South George Mason Drive, AH2
   - Arlington, VA 22204-1373
+  description: No Description
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
   fax: 703-607-3684
+  foia_officer: 'Jennifer Nikolaisen, Phone: (571) 256-7838'
   name: National Guard Bureau
   phone: 571-256-7838
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -310,14 +462,23 @@ departments:
   simple_average: '10'
   simple_median: '10'
   top_level: true
+  usa_id: '49506'
   website: http://www.ng.mil/sitelinks/foia.aspx
-- address:
+- abbreviation: NRO
+  address:
   - Patricia B. Cameresi
   - Chief, Information Review and Release Group
   - 'ATTN: CIO/Information Management Services Office'
   - 14675 Lee Road
   - Chantilly, VA 20151-1715
+  description: No Description
+  emails:
+  - foia@nro.mil
+  - foia@nro.mil
   fax: 703-227-9198
+  misc:
+    Chief, Information Review and Release Group: 'Patricia B. Cameresi, Phone: (703)
+      227-9326'
   name: National Reconnaissance Office
   phone: 703-227-9326
   public_liaison: 'Patricia B. Cameresi, Phone: (703) 227-9128'
@@ -326,13 +487,19 @@ departments:
   simple_average: '8'
   simple_median: '11'
   top_level: true
+  usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
-- address:
+- abbreviation: NSA
+  address:
   - Cindy S. Blacker
   - FOIA Contact, FOIA Requester Service Center/DJ4
   - Suite 6248
   - 9800 Savage Road
   - Fort George G. Meade, MD 20755-6248
+  description: No Description
+  emails:
+  - foiarsc@nsa.gov
+  - foiarsc@nsa.gov
   fax: 443-479-3612
   name: National Security Agency
   phone: 301-688-6527
@@ -342,6 +509,7 @@ departments:
   simple_average: '19'
   simple_median: '7'
   top_level: true
+  usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
 - address:
   - Jeanne Miller
@@ -350,6 +518,9 @@ departments:
   - 4800 Mark Center Drive
   - Alexandria, VA 22350-1500
   fax: 571-972-7498
+  misc:
+    Chief, Freedom of Information & Privacy Office: 'Jeanne Miller, Phone: (866) 993-7005;
+      (703) 604-9775'
   name: Office of Inspector General
   phone: 866-993-7005
   public_liaison: 'Jeanne Miller, Phone: (703) 604-9785'
@@ -364,7 +535,11 @@ departments:
   - TMA FOIA Officer
   - 16401 East Centretech Parkway
   - Aurora, CO 80011-9066
+  emails:
+  - FOIARequests@tma.osd.mil
+  - FOIA.LIAISON@WHS.MIL
   fax: 303-371-4170
+  foia_officer: 'Glinda Hodgkin, Phone: (303) 676-3418'
   name: TRICARE Management Activity
   phone: 303-676-3418
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -381,6 +556,8 @@ departments:
   emails:
   - foia@africom.mil
   fax: +490 711-729-4732
+  misc:
+    HQ U.S. Africa Command: 'FOIA Contact, Phone: +49 (0)711 729-4287'
   name: U.S. Africa Command
   phone: +490 711-729-4287
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -395,6 +572,8 @@ departments:
   emails:
   - foiaoffice@centcom.mil
   fax: 813-827-6332
+  misc:
+    FOIA Contact: 'Phone: (813) 827-1810'
   name: U.S. Central Command
   phone: 813-827-1810
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -411,6 +590,8 @@ departments:
   emails:
   - foiarequest@eucom.mil
   fax: +49011 711-680-8092
+  misc:
+    HQ USEUCOM: 'FOIA Contact, Phone: 49 011 711 680-7161'
   name: U.S. European Command
   phone: +49011 711-680-7161
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -422,7 +603,11 @@ departments:
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
   - Washington, DC 20301-1155
+  emails:
+  - FOIA.LIAISON@WHS.MIL
   fax: 571-372-0500
+  misc:
+    FOIA Contact: 'Phone: (866) 574-4970'
   name: U.S. Joint Forces Command
   notes: This command was disestablished as of August 31, 2011.  Requests for U.S.
     Joint Forces Command records are now handled by the Office of the Secretary and
@@ -442,6 +627,8 @@ departments:
   emails:
   - NC.FOIA.OMB@NORTHCOM.MIL
   fax: 719-554-4431
+  misc:
+    HQ NORAD USNORTHCOM/CS: 'FOIA Officer, Phone: (719) 554-1785'
   name: U.S. Northern Command
   phone: 719-554-1785
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -456,6 +643,8 @@ departments:
   emails:
   - pacom.foia.fct@pacom.mil
   fax: 808-447-6685
+  misc:
+    FOIA Contact: 'Phone: (808) 477-0995'
   name: U.S. Pacific Command
   phone: 808-477-0995
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -471,6 +660,8 @@ departments:
   emails:
   - Marco.Villalobos@hq.southcom.mil
   foia_officer: 'Phone: (305) 437-1108'
+  misc:
+    FOIA Contact: 'Marco T. Villalobos, Phone: (305) 437-1108'
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -486,6 +677,8 @@ departments:
   - foia@socom.mil
   fax: 813-826-5482
   foia_officer: 'Phone: (813) 826) 3212'
+  misc:
+    HQ USSOCOM: 'FOIA Contact, Phone: (813) 826) 3212'
   name: U.S. Special Operations Command
   phone: 813-826-3212
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -500,6 +693,8 @@ departments:
   emails:
   - FOIA-PARequestCenter-U@stratcom.mil
   fax: 402-294-7535
+  misc:
+    USSTRATCOM/J006 (FOIA): 'FOIA Contact, Phone: (402) 294-6321'
   name: U.S. Strategic Command
   phone: 402-294-6321
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
@@ -523,6 +718,195 @@ departments:
   website: http://www.transcom.mil/Foia/generalInfoFoia.action
 description: The mission of the Department of Defense is to provide the military forces
   needed to deter war and to protect the security of our country.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Advertising
+- Advisory committees
+- Aged
+- Air carriers
+- Air pollution control
+- Air traffic control
+- Aircraft
+- Airports
+- Alcohol abuse
+- Alcohol and alcoholic beverages
+- Alcoholism
+- Alimony
+- Archives and records
+- Armed forces
+- Armed forces reserves
+- Arms and munitions
+- Aviation safety
+- Biologics
+- Blind
+- Bridges
+- Buildings and facilities
+- Business and industry
+- Cemeteries
+- Child support
+- Child welfare
+- Civil defense
+- Civil disorders
+- Civil rights
+- Claims
+- Classified information
+- Coastal zone
+- Colleges and universities
+- Community development
+- Concessions
+- Conflict of interests
+- Conscientious objectors
+- Consumer protection
+- Continental shelf
+- Courts
+- Credit
+- Crime
+- Dams
+- Day care
+- Defense Department
+- Defense communications
+- Dental health
+- Disability benefits
+- Disaster assistance
+- District of Columbia
+- Drug abuse
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Elections
+- Elementary and secondary education
+- Employment
+- Endangered and threatened species
+- Energy
+- Environmental impact statements
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Federal buildings and facilities
+- Federally affected areas
+- Fire prevention
+- Fish
+- Flood control
+- Food assistance programs
+- Foreign currencies
+- Foreign relations
+- Fraud
+- Freedom of information
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Government property management
+- Government publications
+- Grant programs
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-veterans
+- HIV/AIDS
+- Hazardous substances
+- Health
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Health records
+- Highway safety
+- Historic preservation
+- Homeless
+- Hospitals
+- Hostages
+- Housing
+- Human research subjects
+- Income taxes
+- Indians
+- Indians-lands
+- Individuals with disabilities
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Labor management relations
+- Labor unions
+- Law
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Lebanon
+- Legal services
+- Life insurance
+- Loan programs
+- Loan programs-education
+- Loan programs-veterans
+- Manpower training programs
+- Marine safety
+- Medical and dental schools
+- Medical devices
+- Medical research
+- Mental health programs
+- Military air transportation
+- Military law
+- Military personnel
+- Motor vehicles
+- National defense
+- Natural resources
+- Navigation (air)
+- Navigation (water)
+- Noise control
+- Nonprofit organizations
+- Nuclear energy
+- Nursing homes
+- Occupational safety and health
+- Organization and functions (Government agencies)
+- Passports and visas
+- Penalties
+- Privacy
+- Public lands
+- Radiation protection
+- Real property acquisition
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Reservoirs
+- Rights-of-way
+- Safety
+- Schools
+- Science and technology
+- Seamen
+- Security measures
+- Sex discrimination
+- Statistics
+- Student aid
+- Surplus Government property
+- Taxes
+- Teachers
+- Technical assistance
+- Traffic regulations
+- Transportation
+- Travel and transportation expenses
+- Trusts and trustees
+- Vessels
+- Veterans
+- Vocational education
+- Vocational rehabilitation
+- Wages
+- Wake Island
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Waterways
+- Wildlife
+- Wiretapping and electronic surveillance
+- Women
 name: Department of Defense
 simple_average: '3061'
 simple_median: '10'
+usa_id: '49229'

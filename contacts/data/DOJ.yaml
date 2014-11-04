@@ -6,13 +6,18 @@ address:
 - LOC Building
 - Washington, DC 20530-0001
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Carmen L. Mallon
   - Chief of Staff, Office of Information Policy
   - Suite 11050
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
+  description: No Description
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of the Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -29,6 +34,9 @@ departments:
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of the Deputy Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -45,6 +53,9 @@ departments:
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of the Associate Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -63,6 +74,8 @@ departments:
   emails:
   - antitrust.foia@usdoj.gov
   fax: 202-616-4529
+  misc:
+    Chief, FOIA/PA Unit: 'Sue Ann Slates, Phone: (202) 514-2692'
   name: Antitrust Division
   phone: 202-514-2692
   public_liaison: 'Ronald Wiercioch, Phone: (202) 514-2692'
@@ -71,20 +84,91 @@ departments:
   simple_median: '3'
   top_level: false
   website: http://www.justice.gov/atr/foia/index.html
-- address:
+- abbreviation: ATF
+  address:
   - Stephanie Boucher
   - Division Chief
   - Room 1E-400
   - 99 New York Avenue, NE
   - Washington, DC 20226
+  description: No Description
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
+  keywords:
+  - Administrative practice and procedure
+  - Advertising
+  - Aircraft
+  - Alcohol and alcoholic beverages
+  - Antitrust
+  - Armed forces
+  - Arms and munitions
+  - Arson
+  - Authority delegations (Government agencies)
+  - Bankruptcy
+  - Beer
+  - Caribbean Basin initiative
+  - Chemicals
+  - Cigars and cigarettes
+  - Claims
+  - Consumer protection
+  - Cosmetics
+  - Credit
+  - Customs duties and inspection
+  - Disaster assistance
+  - Domestic violence
+  - Drugs
+  - Electronic funds transfers
+  - Excise taxes
+  - Explosives
+  - Exports
+  - Food additives
+  - Foods
+  - Foreign trade zones
+  - Freedom of information
+  - Fruit juices
+  - Fruits
+  - Gasohol
+  - Government employees
+  - Hazardous substances
+  - Health
+  - Imports
+  - Intergovernmental relations
+  - Labeling
+  - Law enforcement
+  - Law enforcement officers
+  - Liquors
+  - Military personnel
+  - Packaging and containers
+  - Penalties
+  - Privacy
+  - Puerto Rico
+  - Reporting and recordkeeping requirements
+  - Research
+  - Safety
+  - Science and technology
+  - Scientific equipment
+  - Security measures
+  - Seizures and forfeitures
+  - Spices and flavorings
+  - Stills
+  - Surety bonds
+  - Tobacco
+  - Trade practices
+  - Transportation
+  - Vessels
+  - Vinegar
+  - Virgin Islands
+  - Warehouses
+  - Wine
+  misc:
+    Division Chief: 'Stephanie Boucher, Phone: (202) 648-8740'
   name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   phone: 202-648-8740
   public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
   service_center: 'Phone: (202) 648-8740'
   top_level: true
+  usa_id: '49081'
   website: http://www.atf.gov/content/contact-us/FOIA
 - address:
   - James M. Kovakas
@@ -95,6 +179,8 @@ departments:
   emails:
   - Civil.routing.FOIA@usdoj.gov
   fax: 202-305-3291
+  misc:
+    Freedom of Information/Privacy Act Office: 'James M. Kovakas, Phone: (202) 514-3319'
   name: Civil Division
   phone: 202-514-3319
   public_liaison: 'James M. Kovakas, Phone: (202) 514-3319'
@@ -112,6 +198,9 @@ departments:
   - Washington, DC 20530
   emails:
   - CRT.FOIArequests@usdoj.gov
+  fax: (202) 514-6195
+  misc:
+    Chief, FOI/PA Branch: 'Nelson D. Hermilla, Phone: (202) 514-4209'
   name: Civil Rights Division
   phone: 202-514-4209
   public_liaison: 'Sylvia Cabrera, Phone: (202) 514-4210'
@@ -128,6 +217,8 @@ departments:
   - Washington, DC 20530-0001
   emails:
   - CRS.FOIA@usdoj.gov
+  misc:
+    FOIA/PA Coordinator: 'George Henderson, Phone: (202) 305-2935'
   name: Community Relations Service
   phone: 202-305-2935
   public_liaison: 'George Henderson, Phone: (202) 305-2964'
@@ -145,6 +236,8 @@ departments:
   emails:
   - crm.foia@usdoj.gov
   fax: 202-514-6117
+  misc:
+    Chief, FOIA/PA Unit: 'Kenneth Courter, Phone: (202) 616-0307'
   name: Criminal Division
   phone: 202-616-0307
   public_liaison: 'Margaret Harris, Phone: (202) 616-0307'
@@ -153,14 +246,43 @@ departments:
   simple_median: '16'
   top_level: false
   website: http://www.justice.gov/criminal/foia/
-- address:
+- abbreviation: DEA
+  address:
   - Katherine L. Myrick
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
   - Springfield, VA 22152
+  description: No Description
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
+  keywords:
+  - Administrative practice and procedure
+  - Arms and munitions
+  - Authority delegations (Government agencies)
+  - Chemicals
+  - Communications equipment
+  - Copyright
+  - Courts
+  - Crime
+  - Drug traffic control
+  - Exports
+  - Gambling
+  - Government employees
+  - Imports
+  - Motor vehicles
+  - Organization and functions (Government agencies)
+  - Prescription drugs
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Research
+  - Security measures
+  - Seizures and forfeitures
+  - Whistleblowing
+  - Wiretapping and electronic surveillance
+  misc:
+    Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section: 'Katherine
+      L. Myrick, Phone: (202) 305-7596'
   name: Drug Enforcement Administration
   phone: 202-305-7596
   public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
@@ -168,6 +290,7 @@ departments:
   simple_average: '10.24'
   simple_median: '3'
   top_level: true
+  usa_id: '52688'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - address:
   - Sarah Lu
@@ -177,6 +300,8 @@ departments:
   emails:
   - FOIARouting.enrd@usdoj.gov
   fax: 202-514-4231
+  misc:
+    FOIA Coordinator, Law and Policy Section: 'Sarah Lu, Phone: (202) 514-0424'
   name: Environment and Natural Resources Division
   phone: 202-514-0424
   public_liaison: 'Amber Blaha, Phone: (202) 616-5515'
@@ -194,6 +319,23 @@ departments:
   emails:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
+  keywords:
+  - Administrative practice and procedure
+  - Aliens
+  - Citizenship and naturalization
+  - Civil rights
+  - Employment
+  - Equal employment opportunity
+  - Immigration
+  - Law enforcement
+  - Lawyers
+  - Legal services
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Reporting and recordkeeping requirements
+  misc:
+    Senior Associate General Counsel, Office of the General Counsel: 'Cecelia Espenoza,
+      Phone: (703) 605-1297'
   name: Executive Office for Immigration Review
   phone: 703-605-1297
   public_liaison: 'Crystal Souza, Phone: (703) 605-1297'
@@ -210,6 +352,7 @@ departments:
   - Washington, DC 20530
   emails:
   - ocdetf.foia@usdoj.gov
+  foia_officer: 'Jill Aronica, Phone: (202) 514-0296'
   name: Executive Office for Organized Crime Drug Enforcement Task Forces
   phone: 202-514-0296
   public_liaison: 'Jennifer Bilinski, Phone: (202) 514-0296'
@@ -227,6 +370,8 @@ departments:
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
   fax: 202-252-6047
+  misc:
+    Acting Assistant Director, FOIA/Privacy Unit: 'Susan B. Gerson, Phone: (202) 252-6020'
   name: Executive Office for United States Attorneys
   phone: 202-252-6020
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
@@ -244,6 +389,9 @@ departments:
   emails:
   - USTPFOIA.Requests@usdoj.gov
   fax: 202-307-2397
+  misc:
+    FOIA Counsel, Office of the General Counsel: 'Mary Snyder Barry, Phone: (202)
+      307-1399'
   name: Executive Office for United States Trustees
   phone: 202-307-1399
   public_liaison: 'Mary Snyder Barry, Phone: (202) 307-1399'
@@ -252,7 +400,8 @@ departments:
   simple_median: '7'
   top_level: false
   website: http://www.justice.gov/ust/eo/foia/index.htm
-- address:
+- abbreviation: FBI
+  address:
   - David M. Hardy
   - Chief, Record/Information Dissemination Section, Records Management Division
   - 170 Marcel Drive
@@ -266,6 +415,26 @@ departments:
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Classified information
+  - Computer technology
+  - Courts
+  - Crime
+  - Intergovernmental relations
+  - Investigations
+  - Law enforcement
+  - Law enforcement officers
+  - Penalties
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Security measures
+  - Telecommunications
+  - Wiretapping and electronic surveillance
+  misc:
+    Chief, Record/Information Dissemination Section, Records Management Division: 'David
+      M. Hardy, Phone: (540) 868-4500'
   name: Federal Bureau of Investigation
   phone: 540-868-4500
   public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
@@ -273,21 +442,34 @@ departments:
   simple_average: '44.48'
   simple_median: '17'
   top_level: true
+  usa_id: '49278'
   website: http://www.fbi.gov/foia/
-- address:
+- abbreviation: BOP
+  address:
   - Wanda M. Hunt
   - Chief, FOIA/PA Section
   - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
+  description: No Description
   emails:
   - ogc_efoia@bop.gov
+  keywords:
+  - Administrative practice and procedure
+  - Claims
+  - Employment
+  - Lawyers
+  - Legal services
+  - Prisoners
+  misc:
+    Chief, FOIA/PA Section: 'Wanda M. Hunt, Phone: (202) 514-6655'
   name: Federal Bureau of Prisons
   phone: 202-514-6655
   public_liaison: 'Wilson Moorer, Phone: (202) 514-6655'
   request_form: http://www.bop.gov/foia/submit.jsp
   service_center: 'Phone: (202) 616-7750'
   top_level: true
+  usa_id: '49126'
   website: http://www.bop.gov/foia/index.jsp
 - address:
   - Jeremy LaFrancois
@@ -298,6 +480,8 @@ departments:
   emails:
   - info.fcsc@usdoj.gov
   fax: 202-616-6993
+  misc:
+    Chief Administrative Counsel: 'Jeremy LaFrancois, Phone: (202) 616-6975'
   name: Foreign Claims Settlement Commission
   phone: 202-616-6975
   public_liaison: 'Jeremy LaFrancois, Phone: (202) 616-6975'
@@ -314,6 +498,8 @@ departments:
   emails:
   - Interpol-USNCB.FOIA@usdoj.gov
   fax: 202-616-1357
+  misc:
+    FOIA/PA Specialist, Office of General Counsel: 'Phone: (202) 616-0201'
   name: INTERPOL-United States National Central Bureau
   phone: 202-616-0201
   public_liaison: 'Daniel Dembkowski, Phone: (202) 616-0201'
@@ -329,6 +515,8 @@ departments:
   emails:
   - JMDFOIA@usdoj.gov
   fax: 202-616-6695
+  misc:
+    FOIA Contact: 'Karen McFadden, Phone: (202) 514-3101'
   name: Justice Management Division
   notes: This office also handles requests for records of the Office of Attorney Recruitment
     & Management
@@ -347,6 +535,8 @@ departments:
   - Washington, DC 20530-0001
   emails:
   - nsdfoia@usdoj.gov
+  misc:
+    FOIA Initiatives Coordinator: 'Arnetta Mallory, Phone: (202) 233-0754'
   name: National Security Division
   phone: 202-233-0754
   public_liaison: 'Patricia Matthews, Phone: (202) 233-0756'
@@ -355,15 +545,19 @@ departments:
   simple_median: '7.5'
   top_level: false
   website: http://www.justice.gov/nsd/foia/foia.htm
-- address:
+- abbreviation: COPS
+  address:
   - Gary L. Baude
   - FOIA/PA Officer - Legal Division
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
   - Washington, DC 20530-0001
+  description: No Description
   emails:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
+  misc:
+    FOIA/PA Officer - Legal Division: 'Gary L. Baude, Phone: (202) 353-9864'
   name: Office of Community Oriented Policing Services
   phone: 202-353-9864
   public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
@@ -371,6 +565,7 @@ departments:
   simple_average: '7.87'
   simple_median: '6'
   top_level: true
+  usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
   - Carmen L. Mallon
@@ -379,6 +574,8 @@ departments:
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
   fax: 202-514-1009
+  misc:
+    Chief of Staff: 'Carmen L. Mallon, Phone: (202) 514-3642'
   name: Office of Information Policy
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -397,6 +594,8 @@ departments:
   emails:
   - oigfoia@usdoj.gov
   fax: 202-616-9152
+  misc:
+    Government Information Specialist: 'Deborah M. Waller, Phone: (202) 616-0646'
   name: Office of the Inspector General
   phone: 202-616-0646
   public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
@@ -414,6 +613,25 @@ departments:
   emails:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
+  keywords:
+  - Administrative practice and procedure
+  - Claims
+  - Crime
+  - Disability benefits
+  - Education
+  - Emergency medical services
+  - Firefighters
+  - Grant programs
+  - Grant programs-law
+  - Law enforcement
+  - Law enforcement officers
+  - Motor vehicle safety
+  - Motor vehicles
+  - Reporting and recordkeeping requirements
+  - Transportation
+  - Victim compensation
+  misc:
+    Government Information Specialist: 'Dorothy Lee, Phone: (202) 616-3267'
   name: Office of Justice Programs
   phone: 202-616-3267
   public_liaison: 'George Pruden, Phone: (202) 616-3267'
@@ -430,6 +648,8 @@ departments:
   - Washington, DC 20530-0001
   emails:
   - usdoj-officeoflegalcounsel@usdoj.gov
+  misc:
+    Supervisory Paralegal: 'Bette Farris, Phone: (202) 514-2038'
   name: Office of Legal Counsel
   phone: 202-514-2038
   public_liaison: 'Lawan Robinson, Phone: (202) 353-0258'
@@ -445,6 +665,9 @@ departments:
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of Legal Policy
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -463,6 +686,9 @@ departments:
   emails:
   - DOJ.OIP.Initial.Requests@usdoj.gov
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of Legislative Affairs
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -481,6 +707,7 @@ departments:
   emails:
   - PardonAttorneyFOIA@usdoj.gov
   fax: 202-616-6069
+  foia_officer: 'Linda M.V. Bowe, Phone: (202) 616-6070'
   name: Office of the Pardon Attorney
   phone: 202-616-6070
   public_liaison: 'Linda M.V. Bowe, Phone: (202) 616-6070'
@@ -498,6 +725,8 @@ departments:
   emails:
   - OPR.FOIA@usdoj.gov
   fax: 202-514-5050
+  misc:
+    Senior Counsel: 'Lyn Hardy, Phone: (202) 514-3365'
   name: Office of Professional Responsibility
   phone: 202-514-3365
   public_liaison: 'Ginae Barnett, Phone: (202) 514-3365'
@@ -513,6 +742,9 @@ departments:
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
   fax: 202-514-1009
+  misc:
+    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
+      514-3642'
   name: Office of Public Affairs
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
@@ -529,6 +761,8 @@ departments:
   - Washington, DC 20530-0001
   emails:
   - OSGFOIA@usdoj.gov
+  misc:
+    FOIA Coordinator: 'James K. Davis, Phone: (202) 616-9406'
   name: Office of the Solicitor General
   phone: 202-616-9406
   public_liaison: 'Valerie H. Hall, Phone: (202) 514-2203'
@@ -545,6 +779,8 @@ departments:
   - Washington, DC 20530-0001
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
+  misc:
+    Acting Assistant Director, FOIA/Privacy Unit: 'Susan B. Gerson, Phone: (202) 252-6020'
   name: Office of Tribal Justice
   phone: 202-252-6020
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
@@ -559,6 +795,8 @@ departments:
   - Washington, DC 20530
   emails:
   - OVW.FOIA@usdoj.gov
+  misc:
+    Attorney Advisor: 'Catherine Poston, Phone: (202) 307-6026'
   name: Office on Violence Against Women
   phone: 202-307-6026
   public_liaison: 'Catherine Poston, Phone: (202) 307-6026'
@@ -576,6 +814,8 @@ departments:
   emails:
   - PRAO.FOIA@usdoj.gov
   fax: 202-353-7483
+  misc:
+    Information Management Specialist: 'Michael Kingsley, Phone: (202) 514-0458'
   name: Professional Responsibility Advisory Office
   phone: 202-514-0458
   public_liaison: 'Michael Kingsley, Phone: (202) 514-0458'
@@ -592,6 +832,8 @@ departments:
   - Washington, DC 20044
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
+  misc:
+    Division Counsel for FOIA and PA Matters: 'Carmen M. Banerjee, Phone: (202) 307-6320'
   name: Tax Division
   phone: 202-307-6320
   public_liaison: 'Billie Willis, Phone: (202) 307-0462'
@@ -600,14 +842,19 @@ departments:
   simple_median: '4'
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
-- address:
+- abbreviation: ''
+  address:
   - William E. Bordley
   - Associate General Counsel, Office of General Counsel
   - FOIA/PA, CS 4, 10th Floor
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
+  description: No Description
   emails:
   - usms.foia@usdoj.gov
+  misc:
+    Associate General Counsel, Office of General Counsel: 'William E. Bordley, Phone:
+      (202) 307-9054'
   name: United States Marshals Service
   phone: 202-307-9054
   public_liaison: 'Nancy Robinson, Arleta Cunningham, Phone: (202) 307-9071, (202)
@@ -616,6 +863,7 @@ departments:
   simple_average: '77'
   simple_median: '3'
   top_level: true
+  usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
 - address:
   - Anissa Banks
@@ -625,6 +873,12 @@ departments:
   - Washington, DC 20530
   emails:
   - USPC.FOIA@usdoj.gov
+  keywords:
+  - Administrative practice and procedure
+  - Prisoners
+  - Probation and parole
+  misc:
+    FOIA/PA Specialist: 'Anissa Banks, Phone: (202) 346-7030'
   name: United States Parole Commission
   phone: 202-346-7030
   public_liaison: 'Rockne Chickinell, Phone: (202) 346-7030'
@@ -641,6 +895,153 @@ description: The Department's mission is to enforce the law and defend the inter
 emails:
 - MRUFOIA.Requests@usdoj.gov
 fax: 301-341-0772
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Aged
+- Air carriers
+- Aircraft
+- Airmen
+- Airports
+- Alcoholism
+- Aliens
+- Antitrust
+- Archives and records
+- Arms and munitions
+- Authority delegations (Government agencies)
+- Bankruptcy
+- Brokers
+- Buildings and facilities
+- Business and industry
+- Cancer
+- Chemicals
+- Cigars and cigarettes
+- Citizenship and naturalization
+- Civil rights
+- Claims
+- Classified information
+- Clemency
+- Colleges and universities
+- Communications
+- Communications equipment
+- Computer technology
+- Consumer protection
+- Copyright
+- Courts
+- Credit
+- Crime
+- Cultural exchange programs
+- Customs duties and inspection
+- Disability benefits
+- Disaster assistance
+- Domestic violence
+- Drug abuse
+- Drug traffic control
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Elections
+- Emergency medical services
+- Employment
+- Environmental impact statements
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Ethics
+- Excise taxes
+- Explosives
+- Exports
+- Federal buildings and facilities
+- Firefighters
+- Foreign officials
+- Foreign relations
+- Fraud
+- Freedom of information
+- Gambling
+- Government contracts
+- Government employees
+- Government property
+- Government property management
+- Grant programs
+- Grant programs-education
+- Grant programs-law
+- Grant programs-social programs
+- Hazardous substances
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Historic preservation
+- Human research subjects
+- Immigration
+- Imports
+- Income taxes
+- Indians
+- Individuals with disabilities
+- Intergovernmental relations
+- Investigations
+- Justice Department
+- Juvenile delinquency
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Legal services
+- Loan programs
+- Maritime carriers
+- Mass transportation
+- Migrant labor
+- Military personnel
+- Motor vehicle safety
+- Motor vehicles
+- Nonprofit organizations
+- Organization and functions (Government agencies)
+- Packaging and containers
+- Passports and visas
+- Penalties
+- Political committees and parties
+- Prescription drugs
+- Prisoners
+- Prisons
+- Privacy
+- Probation and parole
+- Radioactive materials
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Safety
+- Scientific equipment
+- Seals and insignia
+- Search warrants
+- Security measures
+- Seizures and forfeitures
+- Sex discrimination
+- Small businesses
+- State and local governments
+- Student aid
+- Students
+- Sunshine Act
+- Surety bonds
+- Technical assistance
+- Telecommunications
+- Terrorism
+- Tobacco
+- Transportation
+- Treaties
+- Trusts and trustees
+- Underground mining
+- Uranium
+- Vessels
+- Veterans
+- Victim compensation
+- Wages
+- Warehouses
+- Whistleblowing
+- Wiretapping and electronic surveillance
+- Women
 name: Department of Justice
 phone: 301-583-7354
 public_liaison: 'Phone: (301) 583-7354'
@@ -648,4 +1049,5 @@ service_center: 'Phone: (301) 583-7354'
 simple_average: '21.75'
 simple_median: '12'
 top_level: false
+usa_id: '52686'
 website: ''

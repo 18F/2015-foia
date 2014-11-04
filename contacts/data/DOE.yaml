@@ -9,6 +9,7 @@ departments:
   emails:
   - FOIA-Central@hq.doe.gov
   fax: 202-586-0575
+  foia_officer: 'Alexander Morris, Phone: (202) 586-3159'
   name: Headquarters
   phone: 202-586-3159
   public_liaison: 'Kevin Hagerty, Phone: (202) 586-5955'
@@ -26,6 +27,7 @@ departments:
   emails:
   - Miriam.Bartos@ch.doe.gov
   fax: 630-252-2183
+  foia_officer: 'Miriam Bartos, Phone: (630) 252-2041'
   name: Chicago Office
   phone: 630-252-2041
   public_liaison: 'Brian Quirke, Phone: (630) 252-2423'
@@ -41,6 +43,7 @@ departments:
   - Idaho Falls, ID 83401
   emails:
   - ogilvic@id.doe.gov
+  foia_officer: 'Clayton Ogilvie, Phone: (208) 526-5190'
   name: Idaho Operations Office
   phone: 208-526-5190
   public_liaison: 'Clayton Ogilvie, Phone: (208) 526-5190'
@@ -58,6 +61,7 @@ departments:
   emails:
   - rothrockal@oro.doe.gov
   fax: 865-576-1556
+  foia_officer: 'Amy Rothrock, Phone: (865) 576-1216'
   name: Oak Ridge Office
   phone: 865-576-1216
   public_liaison: 'DiAnn Fields, Phone: (865) 576-0885'
@@ -67,14 +71,17 @@ departments:
   simple_median: '13'
   top_level: false
   website: http://science.energy.gov/isc/foia/
-- address:
+- abbreviation: OSTI
+  address:
   - Madelyn Wilson
   - FOIA Officer
   - 1 Science.gov Way
   - Oak Ridge, TN 37830
+  description: No Description
   emails:
   - wilsonm@osti.gov
   fax: 865-576-3589
+  foia_officer: 'Madelyn Wilson, Phone: (865) 576-8408'
   name: Office of Scientific and Technical Information
   phone: 865-576-8408
   public_liaison: 'David Gottholm, Phone: (865) 576-2623'
@@ -82,6 +89,7 @@ departments:
   simple_average: '11'
   simple_median: '10.5'
   top_level: true
+  usa_id: '49592'
   website: ''
 - address:
   - Dorothy Riehle
@@ -90,6 +98,7 @@ departments:
   - P.O. Box 550
   - Richland, WA 99352
   fax: 509-376-9704
+  foia_officer: 'Dorothy Riehle, Phone: (509) 376-6288'
   name: Richland Operations Office
   phone: 509-376-6288
   public_liaison: 'Richard Buel, Phone: (509) 376-3375'
@@ -105,6 +114,7 @@ departments:
   - P.O. Box A
   - Aiken, SC 29801
   fax: 803-952-8271
+  foia_officer: 'Pauline Conner, Phone: (803) 952-8134'
   name: Savannah River Operations Office
   phone: 803-952-8134
   public_liaison: 'Lucy Knowles, Phone: (803) 952-7618'
@@ -120,6 +130,7 @@ departments:
   emails:
   - FOIOfficer@nnsa.doe.gov
   fax: 505-284-7512
+  foia_officer: 'Elizabeth Osheim, Phone: (505) 845-6265'
   name: National Nuclear Security Administration Service Center
   phone: 505-845-6265
   public_liaison: 'Cynthia Brown, Phone: (866) 747-5994'
@@ -133,28 +144,13 @@ departments:
   - P.O. Box 109
   - West Mifflin, PA 15122-0109
   fax: 412-476-7675
+  foia_officer: 'Clifford Nunn, Phone: (412)476-7202 '
   name: National Nuclear Security Administration Office of Naval Reactors
   phone: 412-476-7202
   public_liaison: 'Jeffrey Avery, Phone: (202) 781-6236'
   service_center: 'Phone: (202) 781-6172'
   top_level: false
   website: ''
-- address:
-  - George Hellstrom
-  - FOIA Officer
-  - P.O. Box 3090
-  - 4021 National Parks Highway
-  - Carlsbad, NM 88221
-  emails:
-  - foialiaison@wipp.ws
-  fax: 505-234-7025
-  name: Carlsbad Field Office ? Waste Isolation Pilot Program
-  phone: 575-234-7010
-  public_liaison: 'George Hellstrom, Phone: (575) 234-7010'
-  request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
-  service_center: 'Phone: (575) 234-7406'
-  top_level: false
-  website: http://www.wipp.energy.gov/library/foia/index.htm
 - address:
   - Michele Altieri
   - FOIA Officer
@@ -164,6 +160,7 @@ departments:
   emails:
   - michelealtieri@go.doe.gov
   fax: 720-356-1780
+  foia_officer: 'Michele Altieri, Phone: (720) 356-1427'
   name: Golden Field Office
   phone: 720-356-1427
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
@@ -182,6 +179,7 @@ departments:
   emails:
   - foiaoffice@emcbc.doe.gov
   fax: 513-246-0524
+  foia_officer: 'Scott Lucarelli, Phone: (513) 246-0497'
   name: Environmental Management Consolidated Business Center (EMCBC)
   phone: 513-246-0497
   public_liaison: 'Lynnette Chafin, Phone: (513) 246-0461'
@@ -198,6 +196,7 @@ departments:
   emails:
   - cjmunro@bpa.gov
   fax: 503-230-4019
+  foia_officer: 'Christy Munro, Phone: (503) 230-7303'
   name: Bonneville Power Administration
   phone: 503-230-7303
   public_liaison: 'Kim Winn, Phone: (503) 230-5273'
@@ -215,6 +214,7 @@ departments:
   emails:
   - joels@sepa.doe.gov
   fax: 706-213-3884
+  foia_officer: 'Joel Seymour, Phone: (706) 213-3810'
   name: Southeastern Power Administration
   phone: 706-213-3810
   public_liaison: 'Joel Seymour, Phone: (706) 213-3810'
@@ -231,6 +231,7 @@ departments:
   emails:
   - foia@swpa.gov
   fax: 918-595-6755
+  foia_officer: 'Marti Ayers, Phone: (918) 595-6609'
   name: Southwestern Power Administration
   phone: 918-595-6609
   public_liaison: 'Larry Yadon, Phone: (918) 595-6607'
@@ -247,6 +248,13 @@ departments:
   - 12155 West Alameda Parkway
   - Lakewood, CO 80228-8213
   fax: 720-962-7009
+  foia_officer: 'Patricia S. Land, Phone: (720) 962-7010'
+  keywords:
+  - Electric power
+  - Electric utilities
+  - Energy
+  - Energy conservation
+  - Reporting and recordkeeping requirements
   name: Western Area Power Administration
   phone: 720-962-7010
   public_liaison: 'John D. Bremer, Phone: (720) 962-7010'
@@ -263,6 +271,7 @@ departments:
   - 900 Commerce Road East
   - New Orleans, LA 70123
   fax: 504-818-5316
+  foia_officer: 'Deanna Harvey, Phone: (504) 734-4316'
   name: Strategic Petroleum Reserve Project
   phone: 504-734-4316
   public_liaison: 'Deanna Harvey, Phone: (504) 734-4316'
@@ -279,6 +288,7 @@ departments:
   emails:
   - Ann.Dunlap@NETL.doe.gov
   fax: 412-386-5949
+  foia_officer: 'Ann Dunlap, Phone: (412) 386-6167'
   name: National Energy Technology Laboratory
   phone: 412-386-6167
   public_liaison: 'Ann Dunlap, Phone: (412) 386-6167'
@@ -292,6 +302,155 @@ description: The Department of Energy's overarching mission is to advance the na
   economic, and energy security of the United States; to promote scientific and technological
   innovation in support of that mission; and to ensure the environmental cleanup of
   the national nuclear weapons complex.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Aged
+- Air transportation
+- Aircraft
+- Airports
+- Alaska
+- Alcohol abuse
+- Antitrust
+- Authority delegations (Government agencies)
+- Beryllium
+- Buildings and facilities
+- Business and industry
+- Civil defense
+- Civil rights
+- Claims
+- Classified information
+- Colleges and universities
+- Conduct standards
+- Confidential business information
+- Conflict of interests
+- Continental shelf
+- Dams
+- Drug abuse
+- Drug testing
+- Education
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power plants
+- Electric power rates
+- Electric utilities
+- Energy
+- Energy conservation
+- Engineers
+- Environmental impact statements
+- Environmental protection
+- Equal access to justice
+- Equal educational opportunity
+- Equal employment opportunity
+- Exports
+- Federal buildings and facilities
+- Flood plains
+- Foreign relations
+- Fraud
+- Freedom of information
+- Fuel economy
+- Gases
+- Gasoline
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Government property management
+- Grant programs
+- Grant programs-education
+- Grant programs-energy
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Hazardous materials transportation
+- Hazardous substances
+- Health
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Historic preservation
+- Hospitals
+- Hostages
+- Household appliances
+- Housing
+- Housing standards
+- Human research subjects
+- Imports
+- Income taxes
+- Indians
+- Indians-lands
+- Individuals with disabilities
+- Intergovernmental relations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Law enforcement
+- Lawyers
+- Lebanon
+- Legal services
+- Lie detector tests
+- Livestock
+- Loan programs
+- Lobbying
+- Lung diseases
+- Marital status discrimination
+- Maritime carriers
+- Mass transportation
+- Medical research
+- Motor vehicles
+- National defense
+- Natural gas
+- Natural resources
+- Nonprofit organizations
+- Nuclear energy
+- Nuclear materials
+- Nuclear power plants and reactors
+- Occupational safety and health
+- Oil and gas reserves
+- Organization and functions (Government agencies)
+- Penalties
+- Petroleum
+- Pipelines
+- Plutonium
+- Privacy
+- Public health
+- Public lands
+- Radiation protection
+- Radioactive materials
+- Railroads
+- Reclamation
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Safety
+- Schools
+- Science and technology
+- Scientists
+- Seals and insignia
+- Securities
+- Security measures
+- Sex discrimination
+- Small businesses
+- Solar energy
+- Strategic and critical materials
+- Student aid
+- Sunshine Act
+- Technical assistance
+- Traffic regulations
+- Uniform System of Accounts
+- Uranium
+- Veterans
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Whistleblowing
+- Women
+- Workers' compensation
 name: Department of Energy
 simple_average: '22.21'
 simple_median: '9'
+usa_id: '49019'

@@ -6,21 +6,36 @@ address:
 - 14th Street and Constitution Avenue, NW
 - Washington, DC 20230
 departments:
-- address:
+- abbreviation: ''
+  address:
   - Michael Toland, Ph.D.
   - Freedom of Information Act Officer
   - Room 8H207
   - 4600 Silver Hill Road
   - Washington, DC 20233-3700
+  description: No Description
   emails:
   - census.efoia@census.gov
   fax: 301-763-6239
+  keywords:
+  - Administrative practice and procedure
+  - Census data
+  - Economic statistics
+  - Exports
+  - Foreign trade
+  - Reporting and recordkeeping requirements
+  - Seals and insignia
+  - State and local governments
+  - Statistics
+  misc:
+    Freedom of Information Act Officer: 'Michael Toland, Ph.D., Phone: (301) 763-2127'
   name: Census Bureau
   phone: 301-763-2127
   public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
   request_form: http://www.census.gov/foia/foia_request.php
   service_center: 'Phone: (301) 763-2127'
   top_level: true
+  usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
   - Pamela Moulder
@@ -30,6 +45,9 @@ departments:
   emails:
   - p.moulder@doc.gov
   fax: 202-482-2889
+  misc:
+    Office of the Under Secretary for Economic Affairs: 'Pamela Moulder, Phone: (202)
+      482-5997'
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
   public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
@@ -45,6 +63,30 @@ departments:
   emails:
   - SKong@eda.doc.gov
   fax: 202-482-5671
+  foia_officer: 'Stephen Kong, Phone: (202) 482-3085'
+  keywords:
+  - Administrative practice and procedure
+  - Aged
+  - Business and industry
+  - Civil rights
+  - Community development
+  - Environmental protection
+  - Equal employment opportunity
+  - Freedom of information
+  - Grant programs
+  - Grant programs-business
+  - Grant programs-housing and community development
+  - Individuals with disabilities
+  - Loan programs-business
+  - Loan programs-housing and community development
+  - Manpower training programs
+  - Mortgages
+  - Organization and functions (Government agencies)
+  - Reporting and recordkeeping requirements
+  - Research
+  - Sex discrimination
+  - Technical assistance
+  - Trade adjustment assistance
   name: Economic Development Administration
   phone: 202-482-3085
   public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
@@ -62,21 +104,75 @@ departments:
   emails:
   - efoiarequest@bis.doc.gov
   fax: 202-482-0326
+  foia_officer: 'Jennifer Kuo, Phone: (202) 482-0953'
+  keywords:
+  - Administrative practice and procedure
+  - Advisory committees
+  - Agricultural commodities
+  - Arms and munitions
+  - Boycotts
+  - Business and industry
+  - Chemicals
+  - Confidential business information
+  - Exports
+  - Foreign trade
+  - Forests and forest products
+  - Government contracts
+  - Horses
+  - Imports
+  - Inventions and patents
+  - Law enforcement
+  - National defense
+  - Penalties
+  - Petroleum
+  - Reporting and recordkeeping requirements
+  - Research
+  - Science and technology
+  - Strategic and critical materials
+  - Terrorism
+  - Treaties
   name: Bureau of Industry and Security
   phone: 202-482-0953
   public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
-- address:
+- abbreviation: ITA
+  address:
   - Justin Guz
   - ITA FOIA Officer
   - Room 40003
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
+  description: No Description
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
+  foia_officer: 'Justin Guz, Phone: (202) 482-7937'
+  keywords:
+  - Administrative practice and procedure
+  - American Samoa
+  - Antidumping
+  - Business and industry
+  - Cheese
+  - Confidential business information
+  - Countervailing duties
+  - Customs duties and inspection
+  - Educational facilities
+  - Emergency powers
+  - Freedom of information
+  - Guam
+  - Imports
+  - Investigations
+  - Marketing quotas
+  - Nonprofit organizations
+  - Northern Mariana Islands
+  - Reporting and recordkeeping requirements
+  - Scientific equipment
+  - Steel
+  - Textiles
+  - Virgin Islands
+  - Watches and jewelry
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
@@ -84,13 +180,17 @@ departments:
   simple_average: '4'
   simple_median: '1'
   top_level: true
+  usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
-- address:
+- abbreviation: MBDA
+  address:
   - Clara Colbert
   - FOIA Officer
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
+  description: No Description
   fax: 202-482-2798
+  foia_officer: 'Clara Colbert, Phone: (202) 481-5045'
   name: Minority Business Development Agency
   phone: 202-481-5045
   public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
@@ -98,16 +198,36 @@ departments:
   simple_average: '20'
   simple_median: '20'
   top_level: true
+  usa_id: '49464'
   website: http://www.mbda.gov/foia-reading-room
-- address:
+- abbreviation: NIST
+  address:
   - Catherine S. Fletcher
   - FOIA & Privacy Act Officer
   - Stop 1710
   - 100 Bureau Drive
   - Gaithersburg, MD 20899-1710
+  description: No Description
   emails:
   - foia@nist.gov
   fax: 301-975-5301
+  keywords:
+  - Administrative practice and procedure
+  - Buildings and facilities
+  - Business and industry
+  - Disaster assistance
+  - Grant programs-science and technology
+  - Imports
+  - Inventions and patents
+  - Investigations
+  - Laboratories
+  - Measurement standards
+  - National Institute of Standards and Technology
+  - Reporting and recordkeeping requirements
+  - Research
+  - Science and technology
+  misc:
+    FOIA & Privacy Act Officer: 'Catherine S. Fletcher, Phone: (301) 975-4074'
   name: National Institute of Standards and Technology
   phone: 301-975-4074
   public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
@@ -115,16 +235,21 @@ departments:
   simple_average: '5'
   simple_median: '1'
   top_level: true
+  usa_id: '49517'
   website: http://www.nist.gov/director/foia/
-- address:
+- abbreviation: NTIS
+  address:
   - Lee Halvorsen
   - FOIA Contact
   - Number 305 - Sils Building
   - 5301 Shawnee Road
   - Alexandria, VA 22312
+  description: No Description
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
+  misc:
+    FOIA Contact: 'Lee Halvorsen, Phone: (703) 605-6710'
   name: National Technical Information Service
   phone: 703-605-6710
   public_liaison: 'Steve Needle, Phone: (703) 605-6404'
@@ -132,6 +257,7 @@ departments:
   simple_average: '10'
   simple_median: '10'
   top_level: true
+  usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA.aspx
 - address:
   - Stacy Cheney
@@ -142,6 +268,26 @@ departments:
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
+  foia_officer: 'Stacy Cheney, Phone: (202) 482-1816'
+  keywords:
+  - Administrative practice and procedure
+  - Cable television
+  - Classified information
+  - Communications
+  - Communications common carriers
+  - Communications equipment
+  - Defense communications
+  - Electronic products
+  - Federal buildings and facilities
+  - Government employees
+  - Government procurement
+  - Government property
+  - Grant programs
+  - Radio
+  - Satellites
+  - Telecommunications
+  - Telephone
+  - Television
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
   public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
@@ -150,15 +296,85 @@ departments:
   simple_median: '7'
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
-- address:
+- abbreviation: NOAA
+  address:
   - Wendy Schumacher
   - FOIA Contact
   - Room 9719 - NOAA FOIA Office (SOU 10000)
   - 1315 East-West Highway
   - Silver Spring, MD 20910
+  description: No Description
   emails:
   - FOIA@noaa.gov
   fax: 301-713-1169
+  keywords:
+  - Administrative practice and procedure
+  - Alaska
+  - American Samoa
+  - Antarctica
+  - Canada
+  - Coast Guard
+  - Coastal zone
+  - Confidential business information
+  - Courts
+  - Disaster assistance
+  - Education
+  - Endangered and threatened species
+  - Environmental protection
+  - Exports
+  - Fish
+  - Fisheries
+  - Fishing
+  - Fishing vessels
+  - Food labeling
+  - Foreign relations
+  - Government employees
+  - Grant programs-business
+  - Guam
+  - Harbors
+  - Hawaiian Natives
+  - Historic preservation
+  - Imports
+  - Income taxes
+  - Indians
+  - Indians-lands
+  - Intergovernmental relations
+  - Labeling
+  - Loan programs
+  - Loan programs-business
+  - Marine mammals
+  - Marine resources
+  - Marine safety
+  - Monuments and memorials
+  - National forests
+  - National parks
+  - Natural resources
+  - Navigation (water)
+  - Northern Mariana Islands
+  - Oil pollution
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Puerto Rico
+  - Reporting and recordkeeping requirements
+  - Research
+  - Russian Federation
+  - Satellites
+  - Science and technology
+  - Scientific equipment
+  - Seafood
+  - Seizures and forfeitures
+  - Space transportation and exploration
+  - Statistics
+  - Transportation
+  - Treaties
+  - Virgin Islands
+  - Water pollution control
+  - Water resources
+  - Waterways
+  - Wildlife
+  - Wildlife refuges
+  misc:
+    FOIA Contact: 'Wendy Schumacher, Phone: (301) 713-3540'
   name: National Oceanic and Atmospheric Administration
   phone: 301-713-3540
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
@@ -166,20 +382,42 @@ departments:
   simple_average: '10'
   simple_median: '9'
   top_level: true
+  usa_id: '49530'
   website: http://www.noaa.gov/foia/
-- address:
+- abbreviation: USPTO
+  address:
   - Kathryn Siehndel
   - FOIA Contact
   - P.O. Box 1450
   - Alexandria, VA 22313-1450
+  description: No Description
   emails:
   - efoia@uspto.gov
   fax: 571-501-7335
+  keywords:
+  - Administrative practice and procedure
+  - Biologics
+  - Claims
+  - Classified information
+  - Courts
+  - Exports
+  - Foreign relations
+  - Freedom of information
+  - Inventions and patents
+  - Lawyers
+  - Privacy
+  - Reporting and recordkeeping requirements
+  - Science and technology
+  - Small businesses
+  - Trademarks
+  misc:
+    FOIA Contact: 'Kathryn Siehndel, Phone: (571) 272-3000'
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
   public_liaison: 'Dahlia George, Phone: (571) 272-3000'
   service_center: 'Phone: (571) 272-3000'
   top_level: true
+  usa_id: '48151'
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
   - Laura Bell
@@ -190,6 +428,7 @@ departments:
   emails:
   - FOIA@oig.doc.gov
   fax: 202-501-7921
+  foia_officer: 'Laura Bell, Phone: (202) 482-3470'
   name: Office of Inspector General
   phone: 202-482-3470
   public_liaison: 'Laura Bell, Phone: (202) 482-3470'
@@ -208,6 +447,276 @@ departments:
   emails:
   - Efoia@doc.gov
   fax: 202-482-0827
+  keywords:
+  - Accountants
+  - Accounting
+  - Administrative practice and procedure
+  - Adult education
+  - Advertising
+  - Advisory committees
+  - Aged
+  - Agricultural commodities
+  - Agricultural research
+  - Agriculture
+  - Aid to Families with Dependent Children
+  - Air carriers
+  - Air rates and fares
+  - Air taxis
+  - Air traffic control
+  - Air transportation
+  - Aircraft
+  - Airmen
+  - Airports
+  - Airspace
+  - Alcohol abuse
+  - Alcohol and alcoholic beverages
+  - Aliens
+  - Alimony
+  - Antitrust
+  - Archives and records
+  - Armed forces
+  - Armed forces reserves
+  - Arms and munitions
+  - Authority delegations (Government agencies)
+  - Aviation safety
+  - Black lung benefits
+  - Blind
+  - Brokers
+  - Buildings and facilities
+  - Buses
+  - Business and industry
+  - Canada
+  - Charter flights
+  - Cheese
+  - Chemicals
+  - Child labor
+  - Child support
+  - Child welfare
+  - Civil defense
+  - Civil rights
+  - Claims
+  - Classified information
+  - Coal
+  - Colleges and universities
+  - Communications equipment
+  - Community development
+  - Computer technology
+  - Concessions
+  - Confidential business information
+  - Conflict of interests
+  - Conscientious objectors
+  - Construction industry
+  - Consumer protection
+  - Continental shelf
+  - Cooperatives
+  - Courts
+  - Credit
+  - Crime
+  - Crop insurance
+  - Cultural exchange programs
+  - Customs duties and inspection
+  - Dairy products
+  - Defense communications
+  - Dental health
+  - Disability benefits
+  - Drug abuse
+  - Drug testing
+  - Drugs
+  - Education
+  - Education of disadvantaged
+  - Education of individuals with disabilities
+  - Educational study programs
+  - Elections
+  - Electric power
+  - Elementary and secondary education
+  - Emergency medical services
+  - Employee benefit plans
+  - Employment
+  - Energy
+  - Environmental impact statements
+  - Environmental protection
+  - Equal access to justice
+  - Equal educational opportunity
+  - Equal employment opportunity
+  - Estates
+  - Excise taxes
+  - Explosives
+  - Exports
+  - Federal buildings and facilities
+  - Federally affected areas
+  - Fire prevention
+  - Firefighters
+  - Fisheries
+  - Food assistance programs
+  - Foreign relations
+  - Forests and forest products
+  - Fraud
+  - Freedom of information
+  - Freight
+  - Gases
+  - Government contracts
+  - Government employees
+  - Government procurement
+  - Government property
+  - Government publications
+  - Grant programs
+  - Grant programs-business
+  - Grant programs-education
+  - Grant programs-health
+  - Grant programs-housing and community development
+  - Grant programs-labor
+  - Grant programs-natural resources
+  - Grant programs-social programs
+  - Grant programs-transportation
+  - Grazing lands
+  - Guam
+  - HIV/AIDS
+  - Hawaiian Natives
+  - Hazardous materials transportation
+  - Hazardous substances
+  - Health
+  - Health care
+  - Health facilities
+  - Health insurance
+  - Health maintenance organizations (HMO)
+  - Health professions
+  - Health records
+  - Highway safety
+  - Highways and roads
+  - Historic preservation
+  - Homeless
+  - Hospitals
+  - Housing
+  - Immigration
+  - Imports
+  - Income taxes
+  - Indemnity payments
+  - Indians
+  - Indians-claims
+  - Indians-lands
+  - Indians-law
+  - Indians-tribal government
+  - Individuals with disabilities
+  - Insurance
+  - Intergovernmental relations
+  - Intermodal transportation
+  - International organizations
+  - Investigations
+  - Investments
+  - Irrigation
+  - Labor
+  - Labor management relations
+  - Laboratories
+  - Land Management Bureau
+  - Law enforcement
+  - Law enforcement officers
+  - Lawyers
+  - Life insurance
+  - Livestock
+  - Loan programs
+  - Loan programs-agriculture
+  - Loan programs-business
+  - Loan programs-communications
+  - Loan programs-energy
+  - Loan programs-health
+  - Loan programs-natural resources
+  - Lobbying
+  - Manpower training programs
+  - Manufactured homes
+  - Mass transportation
+  - Maternal and child health
+  - Medicaid
+  - Medical research
+  - Medicare
+  - Metals
+  - Migrant labor
+  - Military law
+  - Military personnel
+  - Mine safety and health
+  - Mines
+  - Minimum wages
+  - Minority businesses
+  - Motion pictures
+  - Motor vehicle safety
+  - Museums
+  - National defense
+  - National forests
+  - National parks
+  - Natural resources
+  - Navigation (air)
+  - Noise control
+  - Nonprofit organizations
+  - Nuclear energy
+  - Occupational safety and health
+  - Organization and functions (Government agencies)
+  - Pacific Islands Trust Territory
+  - Passenger vessels
+  - Passports and visas
+  - Penalties
+  - Price support programs
+  - Privacy
+  - Public assistance programs
+  - Public health
+  - Public lands
+  - Puerto Rico
+  - Radiation protection
+  - Radio
+  - Railroads
+  - Range management
+  - Real property acquisition
+  - Recordings
+  - Religious discrimination
+  - Relocation assistance
+  - Reporting and recordkeeping requirements
+  - Research
+  - Rural areas
+  - Safety
+  - Science and technology
+  - Seamen
+  - Security measures
+  - Seizures and forfeitures
+  - Sex discrimination
+  - Small businesses
+  - Smoking
+  - Social security
+  - Soil conservation
+  - State and local governments
+  - Statistics
+  - Strategic and critical materials
+  - Student aid
+  - Students
+  - Sunshine Act
+  - Supplemental Security Income (SSI)
+  - Surety bonds
+  - Surface mining
+  - Surplus Government property
+  - Taxes
+  - Teachers
+  - Technical assistance
+  - Telecommunications
+  - Television
+  - Time
+  - Transportation
+  - Transportation Department
+  - Travel restrictions
+  - Trusts and trustees
+  - Truth in lending
+  - Uniform System of Accounts
+  - Virgin Islands
+  - Wages
+  - Water resources
+  - Water supply
+  - Waterways
+  - Whistleblowing
+  - Wildlife
+  - Wildlife refuges
+  - Wiretapping and electronic surveillance
+  - Women
+  - Workers' compensation
+  - Youth
+  misc:
+    FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government: 'Bobbie
+      Parsons, Phone: (202) 482-3257'
   name: Office of the Secretary
   phone: 202-482-3257
   public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
@@ -224,9 +733,182 @@ description: The historic mission of the Department of Commerce is "to foster, p
 emails:
 - Efoia@doc.gov
 fax: 202-482-0827
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Advisory committees
+- Aged
+- Agricultural commodities
+- Air carriers
+- Airports
+- Alaska
+- American Samoa
+- Antarctica
+- Antidumping
+- Arms and munitions
+- Biologics
+- Boycotts
+- Buildings and facilities
+- Business and industry
+- Cable television
+- Canada
+- Census data
+- Cheese
+- Chemicals
+- Civil rights
+- Claims
+- Classified information
+- Coast Guard
+- Coastal zone
+- Colleges and universities
+- Communications
+- Communications common carriers
+- Communications equipment
+- Community development
+- Confidential business information
+- Conflict of interests
+- Countervailing duties
+- Courts
+- Customs duties and inspection
+- Defense communications
+- Disaster assistance
+- Drug abuse
+- Economic statistics
+- Education
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electronic products
+- Emergency powers
+- Endangered and threatened species
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Exports
+- Federal buildings and facilities
+- Fish
+- Fisheries
+- Fishing
+- Fishing vessels
+- Food labeling
+- Foreign investments in United States
+- Foreign relations
+- Foreign trade
+- Foreign trade zones
+- Forests and forest products
+- Freedom of information
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Government property management
+- Grant programs
+- Grant programs-business
+- Grant programs-education
+- Grant programs-housing and community development
+- Grant programs-science and technology
+- Grant programs-social programs
+- Guam
+- Harbors
+- Hawaiian Natives
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Historic preservation
+- Horses
+- Hospitals
+- Hostages
+- Human research subjects
+- Imports
+- Income taxes
+- Indians
+- Indians-lands
+- Individuals with disabilities
+- Intergovernmental relations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Labeling
+- Laboratories
+- Law enforcement
+- Lawyers
+- Lebanon
+- Libraries
+- Loan programs
+- Loan programs-business
+- Loan programs-housing and community development
+- Manpower training programs
+- Marine mammals
+- Marine resources
+- Marine safety
+- Maritime carriers
+- Marketing quotas
+- Mass transportation
+- Measurement standards
+- Monuments and memorials
+- Mortgages
+- National Institute of Standards and Technology
+- National defense
+- National forests
+- National parks
+- Natural resources
+- Navigation (water)
+- Nonprofit organizations
+- Northern Mariana Islands
+- Oil pollution
+- Organization and functions (Government agencies)
+- Penalties
+- Petroleum
+- Privacy
+- Puerto Rico
+- Radio
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Russian Federation
+- Satellites
+- Science and technology
+- Scientific equipment
+- Seafood
+- Seals and insignia
+- Seizures and forfeitures
+- Sex discrimination
+- Small businesses
+- Space transportation and exploration
+- State and local governments
+- Statistics
+- Steel
+- Strategic and critical materials
+- Student aid
+- Technical assistance
+- Telecommunications
+- Telephone
+- Television
+- Terrorism
+- Textiles
+- Trade adjustment assistance
+- Trademarks
+- Transportation
+- Treaties
+- United States investments abroad
+- Veterans
+- Virgin Islands
+- Wages
+- Watches and jewelry
+- Water pollution control
+- Water resources
+- Waterways
+- Wildlife
+- Wildlife refuges
+- Women
 name: Department of Commerce
 phone: 202-482-3258
 public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
 service_center: 'Phone: (202) 482-3258'
 top_level: false
+usa_id: '52668'
 website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
