@@ -143,7 +143,7 @@ def find_bold_fields(ps):
         if strong and text != "FOIA Contact":
             try:
                 value = strong.next_sibling.string
-            else:
+            except:
                 value = p.next_sibling.string
             if value:
                 value = value.strip()
