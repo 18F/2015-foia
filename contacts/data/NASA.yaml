@@ -15,8 +15,8 @@ departments:
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
   service_center: 'Phone: (202) 358-2562'
-  simple_average: '5.42'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '5.42'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
@@ -32,8 +32,8 @@ departments:
   phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
   service_center: 'Phone: (650) 604-3273'
-  simple_average: '12'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '12'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
 - address:
@@ -50,8 +50,8 @@ departments:
   phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
   service_center: 'Phone: (661) 276-2704'
-  simple_average: '1'
-  simple_median: '0.5'
+  simple_request_processing_time_mean_days: '1'
+  simple_request_processing_time_median_days: '0.5'
   top_level: false
   website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
 - address:
@@ -67,8 +67,8 @@ departments:
   phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
   service_center: 'Phone: (216) 443-2813'
-  simple_average: '4.8'
-  simple_median: '2'
+  simple_request_processing_time_mean_days: '4.8'
+  simple_request_processing_time_median_days: '2'
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
@@ -85,8 +85,8 @@ departments:
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
   request_form: http://www.nasa.gov/centers/goddard/business/foia/e-foia.html#efoia
   service_center: 'Phone: (301) 286-4271'
-  simple_average: '5.94'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '5.94'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
 - abbreviation: JPL
@@ -121,8 +121,8 @@ departments:
   phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
   service_center: 'Phone: (281) 483-8252'
-  simple_average: '1.86'
-  simple_median: '1'
+  simple_request_processing_time_mean_days: '1.86'
+  simple_request_processing_time_median_days: '1'
   top_level: false
   website: http://www.nasa.gov/centers/johnson/news/foia.html
 - address:
@@ -139,8 +139,8 @@ departments:
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
   request_form: http://www-foiacf.ksc.nasa.gov/requester.cfm
   service_center: 'Phone: (321) 867-9280'
-  simple_average: '3.73'
-  simple_median: '2.5'
+  simple_request_processing_time_mean_days: '3.73'
+  simple_request_processing_time_median_days: '2.5'
   top_level: false
   website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
 - address:
@@ -157,8 +157,8 @@ departments:
   phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
   service_center: 'Phone: (757) 864-4274'
-  simple_average: '3.37'
-  simple_median: '2'
+  simple_request_processing_time_mean_days: '3.37'
+  simple_request_processing_time_median_days: '2'
   top_level: false
   website: http://foia.larc.nasa.gov/
 - address:
@@ -176,8 +176,8 @@ departments:
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
   request_form: http://foia.msfc.nasa.gov/form.html
   service_center: 'Phone: (256) 544-1837'
-  simple_average: '7.95'
-  simple_median: '5'
+  simple_request_processing_time_mean_days: '7.95'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://foia.msfc.nasa.gov/
 - address:
@@ -195,8 +195,8 @@ departments:
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
   service_center: 'Phone: (202) 358-2582'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:
@@ -226,8 +226,8 @@ departments:
   phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
   service_center: 'Phone: (228) 688-3182'
-  simple_average: '3.29'
-  simple_median: '3'
+  simple_request_processing_time_mean_days: '3.29'
+  simple_request_processing_time_median_days: '3'
   top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - address:
@@ -323,6 +323,6 @@ keywords:
 - Veterans
 - Women
 name: National Aeronautics and Space Administration
-simple_average: '5.65'
-simple_median: '4'
+simple_request_processing_time_mean_days: '5.65'
+simple_request_processing_time_median_days: '4'
 usa_id: '49476'

@@ -235,8 +235,8 @@ departments:
   phone: 804-734-8116
   public_liaison: 'William E. Sherman, Phone: (804) 734-8116'
   service_center: 'Phone: (804) 734-8116'
-  simple_average: '13'
-  simple_median: '6'
+  simple_request_processing_time_mean_days: '13'
+  simple_request_processing_time_median_days: '6'
   top_level: false
   website: http://www.commissaries.com/foiainfo.cfm
 - address:
@@ -274,8 +274,8 @@ departments:
   phone: 804-734-1488
   public_liaison: 'Melissa Walker, Phone: (804) 734-1487'
   service_center: 'Phone: (804) 734-1488'
-  simple_average: '11'
-  simple_median: '22'
+  simple_request_processing_time_mean_days: '11'
+  simple_request_processing_time_median_days: '22'
   top_level: false
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
 - address:
@@ -295,8 +295,8 @@ departments:
   phone: 317-212-4591
   public_liaison: 'Gregory Outlaw, Phone: (317) 212-4591'
   service_center: 'Phone: (317) 212-4591'
-  simple_average: '12'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '12'
+  simple_request_processing_time_median_days: '10'
   top_level: false
   website: http://www.dfas.mil/foia.html
 - address:
@@ -328,8 +328,8 @@ departments:
   phone: 301-394-5587
   public_liaison: 'Margaret A. Bestrain, Alesia Y. Williams, Phone: (301) 394-5587'
   service_center: 'Phone: (301) 394-5587'
-  simple_average: '6'
-  simple_median: '5'
+  simple_request_processing_time_mean_days: '6'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.dia.mil/FOIA.aspx
 - address:
@@ -370,8 +370,8 @@ departments:
   phone: 571-305-6740
   public_liaison: 'Jay Fraude, Phone: (703) 325-5337'
   service_center: 'Phone: (703) 325-9450'
-  simple_average: '5'
-  simple_median: '5'
+  simple_request_processing_time_mean_days: '5'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: https://www.dss.mil/foia/foia_program.html
 - address:
@@ -406,8 +406,8 @@ departments:
   phone: 703-767-9204
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: (703) 767-9204'
-  simple_average: '13'
-  simple_median: '13'
+  simple_request_processing_time_mean_days: '13'
+  simple_request_processing_time_median_days: '13'
   top_level: false
   website: http://www.dtic.mil/dtic/foia.html
 - address:
@@ -459,8 +459,8 @@ departments:
   phone: 571-256-7838
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: (703) 607-3195'
-  simple_average: '10'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '10'
   top_level: true
   usa_id: '49506'
   website: http://www.ng.mil/sitelinks/foia.aspx
@@ -484,8 +484,8 @@ departments:
   public_liaison: 'Patricia B. Cameresi, Phone: (703) 227-9128'
   request_form: http://www.nro.gov/foia/RequestInput.aspx
   service_center: 'Phone: (703) 227-9326'
-  simple_average: '8'
-  simple_median: '11'
+  simple_request_processing_time_mean_days: '8'
+  simple_request_processing_time_median_days: '11'
   top_level: true
   usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
@@ -506,8 +506,8 @@ departments:
   public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
   service_center: 'Phone: (301) 688-6527'
-  simple_average: '19'
-  simple_median: '7'
+  simple_request_processing_time_mean_days: '19'
+  simple_request_processing_time_median_days: '7'
   top_level: true
   usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
@@ -526,8 +526,8 @@ departments:
   public_liaison: 'Jeanne Miller, Phone: (703) 604-9785'
   request_form: http://www.dodig.mil/FOIA/submit.html
   service_center: 'Phone: (703) 604-9775'
-  simple_average: '18'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '18'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.dodig.mil/FOIA/index.html
 - address:
@@ -907,6 +907,6 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Defense
-simple_average: '3061'
-simple_median: '10'
+simple_request_processing_time_mean_days: '3061'
+simple_request_processing_time_median_days: '10'
 usa_id: '49229'

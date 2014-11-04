@@ -34,8 +34,8 @@ departments:
   phone: 202-693-4877
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-4877'
-  simple_average: NA
-  simple_median: NA
+  simple_request_processing_time_mean_days: NA
+  simple_request_processing_time_median_days: NA
   top_level: true
   usa_id: '49121'
   website: http://www.dol.gov/ilab/
@@ -51,8 +51,8 @@ departments:
   phone: 202-691-7628
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 691-7628'
-  simple_average: '18.3'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '18.3'
+  simple_request_processing_time_median_days: '16'
   top_level: true
   usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
@@ -107,8 +107,8 @@ departments:
   phone: 202-693-8673
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-8655'
-  simple_average: '16.1'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '16.1'
+  simple_request_processing_time_median_days: '16'
   top_level: true
   usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
@@ -302,8 +302,8 @@ departments:
   phone: 202-693-7126
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-7126'
-  simple_average: '18.8'
-  simple_median: '7.5'
+  simple_request_processing_time_mean_days: '18.8'
+  simple_request_processing_time_median_days: '7.5'
   top_level: false
   website: http://www.dol.gov/oasam/foia/
 - address:
@@ -400,8 +400,8 @@ departments:
   name: Office of the Inspector General
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: ''
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
 - abbreviation: OSHA
@@ -573,8 +573,8 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
-  simple_average: '31.8'
-  simple_median: '11'
+  simple_request_processing_time_mean_days: '31.8'
+  simple_request_processing_time_median_days: '11'
   top_level: false
   website: http://www.dol.gov/whd/foia/
 - address:
@@ -588,8 +588,8 @@ departments:
   name: Women's Bureau
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: ''
-  simple_average: '92.6'
-  simple_median: '41'
+  simple_request_processing_time_mean_days: '92.6'
+  simple_request_processing_time_median_days: '41'
   top_level: false
   website: http://www.dol.gov/wb/e-foia.htm
 description: The Department's mission is to foster, promote, and develop the welfare

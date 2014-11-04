@@ -110,8 +110,8 @@ departments:
   public_liaison: 'Christine Sarcone, Phone: (202) 720-3203'
   request_form: http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm
   service_center: 'Phone: (202) 720-3785'
-  simple_average: '16'
-  simple_median: '15'
+  simple_request_processing_time_mean_days: '16'
+  simple_request_processing_time_median_days: '15'
   top_level: false
   website: http://www.ams.usda.gov/AMSv1.0/ams.fetchTemplateData.do?template=TemplateN&navID=Home&topNav=Home&page=FOIA&description=Freedom%20of%20Information%20Act%20(FOIA)
 - address:
@@ -367,8 +367,8 @@ departments:
   public_liaison: 'Sue Ellen Sloca, Phone: (202) 720-1598'
   request_form: http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia
   service_center: 'Phone: (202) 720-5534'
-  simple_average: '2.3'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '2.3'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi
 - address:
@@ -455,8 +455,8 @@ departments:
   phone: 202-720-0154
   public_liaison: 'Sally Klusaritz, Phone: (202) 720-3448'
   service_center: 'Phone: (202) 720-3101'
-  simple_average: '7.27'
-  simple_median: '7'
+  simple_request_processing_time_mean_days: '7.27'
+  simple_request_processing_time_median_days: '7'
   top_level: false
   website: http://www.fas.usda.gov/info/FOIA/freedom.asp
 - address:
@@ -585,8 +585,8 @@ departments:
   phone: 703-305-1164
   public_liaison: 'Brenda V. Seegars, Phone: (703) 305-1164'
   service_center: 'Phone: (703) 305-1164'
-  simple_average: '16.5'
-  simple_median: '9'
+  simple_request_processing_time_mean_days: '16.5'
+  simple_request_processing_time_median_days: '9'
   top_level: false
   website: http://www.nad.usda.gov/foia.html
 - address:
@@ -639,8 +639,8 @@ departments:
   phone: 202-690-4985
   public_liaison: 'Deryl Richardson, Phone: (202) 690-4985'
   service_center: 'Phone: (202) 690-4985'
-  simple_average: '19.39'
-  simple_median: '10.5'
+  simple_request_processing_time_mean_days: '19.39'
+  simple_request_processing_time_median_days: '10.5'
   top_level: false
   website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
 - address:
@@ -676,8 +676,8 @@ departments:
   phone: 202-720-0995
   public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
   service_center: 'Phone: (202) 720-1893'
-  simple_average: '7.33'
-  simple_median: '8'
+  simple_request_processing_time_mean_days: NA
+  simple_request_processing_time_median_days: NA
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -692,8 +692,8 @@ departments:
   phone: 202-690-0028
   public_liaison: 'Richard Ciampa, Phone: (202)720-6355'
   service_center: 'Phone: (301) 504-4154'
-  simple_average: '31'
-  simple_median: '31'
+  simple_request_processing_time_mean_days: '31'
+  simple_request_processing_time_median_days: '31'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -711,8 +711,8 @@ departments:
   phone: 202-720-5212
   public_liaison: 'Michael G. Watts, Phone: (202) 720-5212'
   service_center: 'Phone: (202) 720-5212'
-  simple_average: '11.91'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '11.91'
+  simple_request_processing_time_median_days: '12'
   top_level: false
   website: http://www.ascr.usda.gov/foia_cr.html
 - address:
@@ -727,8 +727,8 @@ departments:
   public_liaison: 'Assistant General Counsel for General Law Division, Phone: (202)
     720-5565'
   service_center: 'Phone: (202) 720-5824'
-  simple_average: null
-  simple_median: null
+  simple_request_processing_time_mean_days: '22'
+  simple_request_processing_time_median_days: '18'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -744,8 +744,8 @@ departments:
   phone: 202-260-2657
   public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
   service_center: 'Phone: (202) 720-8164'
-  simple_average: '16'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '16'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -762,8 +762,8 @@ departments:
   phone: 202-720-9507
   public_liaison: 'Wes Azama, Phone: (202) 260-0080'
   service_center: 'Phone: (202) 720-9507'
-  simple_average: '29.3'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '29.3'
+  simple_request_processing_time_median_days: '12'
   top_level: false
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - address:
@@ -803,8 +803,8 @@ departments:
   phone: 202-692-0015
   public_liaison: 'Joseph Shunk, Phone: (202) 692-0032'
   service_center: 'Phone: (202) 692-0004'
-  simple_average: '83.7'
-  simple_median: '48.5'
+  simple_request_processing_time_mean_days: '83.7'
+  simple_request_processing_time_median_days: '48.5'
   top_level: false
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
 description: USDA provides leadership on food, agriculture, natural resources, and

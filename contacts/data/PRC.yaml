@@ -14,8 +14,8 @@ departments:
   public_liaison: 'Jennie Jbara, Phone: (202) 789-6800'
   request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
   service_center: 'Phone: (202) 789-6800'
-  simple_average: '7'
-  simple_median: '6'
+  simple_request_processing_time_mean_days: '7'
+  simple_request_processing_time_median_days: '6'
   top_level: false
   website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
 description: The mission of the Postal Regulatory Commission is to ensure transparency
@@ -33,6 +33,6 @@ keywords:
 - Sunshine Act
 - Trademarks
 name: Postal Regulatory Commission
-simple_average: '7'
-simple_median: '6'
+simple_request_processing_time_mean_days: '7'
+simple_request_processing_time_median_days: '6'
 usa_id: '49621'

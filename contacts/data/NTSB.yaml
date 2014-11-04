@@ -16,8 +16,8 @@ departments:
   public_liaison: 'Melba D. Moye, Phone: (202) 314-6540'
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   service_center: 'Phone: (202) 314-6540'
-  simple_average: '29.77'
-  simple_median: '20'
+  simple_request_processing_time_mean_days: '29.77'
+  simple_request_processing_time_median_days: '20'
   top_level: false
   website: http://www.ntsb.gov/foia/index.html
 description: The National Transportation Safety Board (NTSB) is an independent federal
@@ -48,6 +48,6 @@ keywords:
 - Railroad safety
 - Reporting and recordkeeping requirements
 name: National Transportation Safety Board
-simple_average: '29.77'
-simple_median: '20'
+simple_request_processing_time_mean_days: '29.77'
+simple_request_processing_time_median_days: '20'
 usa_id: '52641'

@@ -9,8 +9,8 @@ departments:
   phone: 202-395-6622
   public_liaison: 'Daniel Petersen, Phone: (202) 395-6745'
   service_center: 'Daniel Petersen, Phone: (202) 395-6622'
-  simple_average: '49'
-  simple_median: '42'
+  simple_request_processing_time_mean_days: '49'
+  simple_request_processing_time_median_days: '42'
   top_level: false
   website: http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests
 description: The principal purpose of ONDCP is to establish policies, priorities,
@@ -30,6 +30,6 @@ keywords:
 - Lebanon
 - Loan programs
 name: Office of National Drug Control Policy
-simple_average: '49'
-simple_median: '42'
+simple_request_processing_time_mean_days: '49'
+simple_request_processing_time_median_days: '42'
 usa_id: '49586'

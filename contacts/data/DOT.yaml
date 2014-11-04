@@ -20,8 +20,8 @@ departments:
   phone: 202-366-5546
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   service_center: 'Darlene Wallace, Phone: (202) 366-4542'
-  simple_average: '16'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '16'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
@@ -39,8 +39,8 @@ departments:
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
 - abbreviation: FAA
@@ -140,8 +140,8 @@ departments:
   public_liaison: 'Melanie Yohe, Phone: (202) 267-7799'
   request_form: http://www.faa.gov/foia/foia_request/
   service_center: 'Phone: (202) 267-9165'
-  simple_average: '17'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '17'
+  simple_request_processing_time_median_days: '12'
   top_level: true
   usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
@@ -211,8 +211,8 @@ departments:
   phone: 202-366-9048
   public_liaison: 'Alla Shaw, Phone: (202) 366-1042'
   service_center: 'Phone: (202) 366-0948'
-  simple_average: '25'
-  simple_median: '15'
+  simple_request_processing_time_mean_days: '25'
+  simple_request_processing_time_median_days: '15'
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
 - address:
@@ -268,8 +268,8 @@ departments:
   phone: 202-493-6039
   public_liaison: 'Warren Flatau, Phone: (202) 493-6019'
   service_center: 'Phone: (202) 493-6065'
-  simple_average: '51'
-  simple_median: '31'
+  simple_request_processing_time_mean_days: '51'
+  simple_request_processing_time_median_days: '31'
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
 - address:
@@ -318,8 +318,8 @@ departments:
   phone: 202-366-4022
   public_liaison: 'David Longo, Phone: (202) 366-0608'
   service_center: 'Phone: (202) 366-2494'
-  simple_average: '23'
-  simple_median: '20'
+  simple_request_processing_time_mean_days: '23'
+  simple_request_processing_time_median_days: '20'
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
 - address:
@@ -382,8 +382,8 @@ departments:
   phone: 202-366-2960
   public_liaison: 'Duane DeBruyne, Phone: (202) 366-9999'
   service_center: 'Phone: (202) 366-2960'
-  simple_average: '48'
-  simple_median: '51'
+  simple_request_processing_time_mean_days: '48'
+  simple_request_processing_time_median_days: '51'
   top_level: false
   website: http://www.fmcsa.dot.gov/Foia/Index.htm
 - abbreviation: NHTSA
@@ -440,8 +440,8 @@ departments:
   phone: 202-366-1834
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
   service_center: 'Phone: (202) 366-1834'
-  simple_average: '20'
-  simple_median: '18'
+  simple_request_processing_time_mean_days: '20'
+  simple_request_processing_time_median_days: '18'
   top_level: true
   usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
@@ -485,8 +485,8 @@ departments:
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
   service_center: 'Phone: (202) 366-2666'
-  simple_average: '127.9'
-  simple_median: '23.5'
+  simple_request_processing_time_mean_days: '127.9'
+  simple_request_processing_time_median_days: '23.5'
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
@@ -547,8 +547,8 @@ departments:
   phone: 202-366-6119
   public_liaison: 'Patricia Klinger, Phone: (202) 366-4831'
   service_center: 'Phone: (202) 366-4400'
-  simple_average: '19'
-  simple_median: '6'
+  simple_request_processing_time_mean_days: '19'
+  simple_request_processing_time_median_days: '6'
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
@@ -573,8 +573,8 @@ departments:
   phone: 315-764-3210
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   service_center: 'Phone: (315) 764-3275'
-  simple_average: '14'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '14'
+  simple_request_processing_time_median_days: '12'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
 - abbreviation: STB
@@ -612,8 +612,8 @@ departments:
   phone: 202-245-0269
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
-  simple_average: '6'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '6'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
@@ -884,8 +884,8 @@ name: Department of Transportation
 phone: 202-366-4542
 public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
 service_center: 'Phone: (202) 366-4542'
-simple_average: '24.88'
-simple_median: '14'
+simple_request_processing_time_mean_days: '24.88'
+simple_request_processing_time_median_days: '14'
 top_level: false
 usa_id: '49035'
 website: http://www.dot.gov/foia/

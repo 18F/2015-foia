@@ -13,8 +13,8 @@ departments:
   phone: 703-874-8500
   public_liaison: 'Jennifer Hudson, Phone: (703) 874-8500'
   service_center: 'Phone: (703) 874-8500'
-  simple_average: '86.12'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '86.12'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.dni.gov/foia.htm
 description: The Director of National Intelligence (DNI) serves as the head of the
@@ -26,6 +26,6 @@ description: The Director of National Intelligence (DNI) serves as the head of t
   the Office of the DNI's goal is to effectively integrate foreign, military and domestic
   intelligence in defense of the homeland and of United States interests abroad.
 name: Office of the Director of National Intelligence
-simple_average: '86.12'
-simple_median: '16'
+simple_request_processing_time_mean_days: '86.12'
+simple_request_processing_time_median_days: '16'
 usa_id: '49595'

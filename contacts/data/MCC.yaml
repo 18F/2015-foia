@@ -12,8 +12,8 @@ departments:
   phone: 202-521-3863
   public_liaison: 'John Mantini, Phone: (202) 521-3863'
   service_center: 'John Mantini, Phone: (202) 521-3863'
-  simple_average: '17'
-  simple_median: '18'
+  simple_request_processing_time_mean_days: '17'
+  simple_request_processing_time_median_days: '18'
   top_level: false
   website: http://www.mcc.gov/pages/foia
 description: The Millennium Challenge Corporation (MCC) is an innovative and independent
@@ -24,6 +24,6 @@ keywords:
 - Government employees
 - Organization and functions (Government agencies)
 name: Millennium Challenge Corporation
-simple_average: '17'
-simple_median: '18'
+simple_request_processing_time_mean_days: '17'
+simple_request_processing_time_median_days: '18'
 usa_id: '49460'

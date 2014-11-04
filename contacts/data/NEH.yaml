@@ -17,14 +17,14 @@ departments:
   public_liaison: 'Lisette Voyatzis, Phone: (202) 606-8322'
   request_form: http://www.neh.gov/about/foia/submit-request-online
   service_center: 'Phone: (202) 606-8322'
-  simple_average: '11.6'
-  simple_median: '13'
+  simple_request_processing_time_mean_days: '11.6'
+  simple_request_processing_time_median_days: '13'
   top_level: false
   website: http://www.neh.gov/whoweare/foiamain.html
 description: NEH is an independent grant-making agency of the United States government
   dedicated to supporting research, education, preservation, and public programs in
   the humanities.
 name: National Endowment for the Humanities
-simple_average: '11.6'
-simple_median: '13'
+simple_request_processing_time_mean_days: '11.6'
+simple_request_processing_time_median_days: '13'
 usa_id: '52636'

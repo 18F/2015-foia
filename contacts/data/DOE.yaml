@@ -15,8 +15,8 @@ departments:
   public_liaison: 'Kevin Hagerty, Phone: (202) 586-5955'
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   service_center: 'Phone: (202) 586-5955'
-  simple_average: '5.42'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '5.42'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://management.energy.gov/foia_pa.htm
 - address:
@@ -49,8 +49,8 @@ departments:
   public_liaison: 'Clayton Ogilvie, Phone: (208) 526-5190'
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   service_center: 'Phone: (208) 526-5190'
-  simple_average: '9.11'
-  simple_median: '8'
+  simple_request_processing_time_mean_days: '9.11'
+  simple_request_processing_time_median_days: '8'
   top_level: false
   website: http://www.id.doe.gov/foia/
 - address:
@@ -67,8 +67,8 @@ departments:
   public_liaison: 'DiAnn Fields, Phone: (865) 576-0885'
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   service_center: 'Phone: (865) 576-1216'
-  simple_average: '23.25'
-  simple_median: '13'
+  simple_request_processing_time_mean_days: '23.25'
+  simple_request_processing_time_median_days: '13'
   top_level: false
   website: http://science.energy.gov/isc/foia/
 - abbreviation: OSTI
@@ -86,8 +86,8 @@ departments:
   phone: 865-576-8408
   public_liaison: 'David Gottholm, Phone: (865) 576-2623'
   service_center: 'Phone: (865) 576-1261'
-  simple_average: '11'
-  simple_median: '10.5'
+  simple_request_processing_time_mean_days: '11'
+  simple_request_processing_time_median_days: '10.5'
   top_level: true
   usa_id: '49592'
   website: ''
@@ -104,8 +104,8 @@ departments:
   public_liaison: 'Richard Buel, Phone: (509) 376-3375'
   request_form: http://www.hanford.gov/c.cfm/foia/
   service_center: 'Phone: (509) 376-6288'
-  simple_average: '13.86'
-  simple_median: '11'
+  simple_request_processing_time_mean_days: '13.86'
+  simple_request_processing_time_median_days: '11'
   top_level: false
   website: http://www.hanford.gov/page.cfm/foia
 - address:
@@ -166,8 +166,8 @@ departments:
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   service_center: 'Phone: (720) 356-1427'
-  simple_average: '103'
-  simple_median: '6.57'
+  simple_request_processing_time_mean_days: '103'
+  simple_request_processing_time_median_days: '6.57'
   top_level: false
   website: http://www.eere.energy.gov/golden/reading_room.aspx
 - address:
@@ -202,8 +202,8 @@ departments:
   public_liaison: 'Kim Winn, Phone: (503) 230-5273'
   request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
   service_center: 'Phone: (503) 230-7305'
-  simple_average: '9.91'
-  simple_median: '5'
+  simple_request_processing_time_mean_days: '9.91'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.bpa.gov/news/FOIA/Pages/default.aspx
 - address:
@@ -237,8 +237,8 @@ departments:
   public_liaison: 'Larry Yadon, Phone: (918) 595-6607'
   request_form: http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm
   service_center: 'Phone: (918) 595-6609'
-  simple_average: '10.57'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '10.57'
+  simple_request_processing_time_median_days: '10'
   top_level: false
   website: http://www.swpa.gov/foia-privacyact.aspx
 - address:
@@ -260,8 +260,8 @@ departments:
   public_liaison: 'John D. Bremer, Phone: (720) 962-7010'
   request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
   service_center: 'Phone: (720) 962-7014'
-  simple_average: '7'
-  simple_median: '7'
+  simple_request_processing_time_mean_days: '7'
+  simple_request_processing_time_median_days: '7'
   top_level: false
   website: http://www.wapa.gov/FOIA/default.htm
 - address:
@@ -294,8 +294,8 @@ departments:
   public_liaison: 'Ann Dunlap, Phone: (412) 386-6167'
   request_form: http://www.netl.doe.gov/home/foai-request-form
   service_center: 'Phone: (412) 386-6167'
-  simple_average: '18.86'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '18.86'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.netl.doe.gov/home/foia
 description: The Department of Energy's overarching mission is to advance the national,
@@ -451,6 +451,6 @@ keywords:
 - Women
 - Workers' compensation
 name: Department of Energy
-simple_average: '22.21'
-simple_median: '9'
+simple_request_processing_time_mean_days: '22.21'
+simple_request_processing_time_median_days: '9'
 usa_id: '49019'

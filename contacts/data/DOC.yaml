@@ -91,8 +91,8 @@ departments:
   phone: 202-482-3085
   public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
   service_center: 'Phone: (202) 482-3085'
-  simple_average: '10'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '10'
   top_level: false
   website: http://www.eda.gov/foia.htm
 - address:
@@ -177,8 +177,8 @@ departments:
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
   service_center: 'Phone: (202) 482-7937'
-  simple_average: '4'
-  simple_median: '1'
+  simple_request_processing_time_mean_days: '4'
+  simple_request_processing_time_median_days: '1'
   top_level: true
   usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
@@ -195,8 +195,8 @@ departments:
   phone: 202-481-5045
   public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
   service_center: 'Phone: (202) 482-5045'
-  simple_average: '20'
-  simple_median: '20'
+  simple_request_processing_time_mean_days: '20'
+  simple_request_processing_time_median_days: '20'
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/foia-reading-room
@@ -232,8 +232,8 @@ departments:
   phone: 301-975-4074
   public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
   service_center: 'Phone: (301) 975-4074'
-  simple_average: '5'
-  simple_median: '1'
+  simple_request_processing_time_mean_days: '5'
+  simple_request_processing_time_median_days: '1'
   top_level: true
   usa_id: '49517'
   website: http://www.nist.gov/director/foia/
@@ -254,8 +254,8 @@ departments:
   phone: 703-605-6710
   public_liaison: 'Steve Needle, Phone: (703) 605-6404'
   service_center: 'Phone: (703) 605-6404'
-  simple_average: '10'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '10'
   top_level: true
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA.aspx
@@ -292,8 +292,8 @@ departments:
   phone: 202-482-1816
   public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
   service_center: 'Phone: (202) 482-1816'
-  simple_average: '8'
-  simple_median: '7'
+  simple_request_processing_time_mean_days: '8'
+  simple_request_processing_time_median_days: '7'
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - abbreviation: NOAA
@@ -379,8 +379,8 @@ departments:
   phone: 301-713-3540
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
   service_center: 'Phone: (301) 713-3540'
-  simple_average: '10'
-  simple_median: '9'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '9'
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
@@ -434,8 +434,8 @@ departments:
   public_liaison: 'Laura Bell, Phone: (202) 482-3470'
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   service_center: 'Phone: (202) 482-3470'
-  simple_average: '18'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '18'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
@@ -721,8 +721,8 @@ departments:
   phone: 202-482-3257
   public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
   service_center: 'Phone: (202) 482-3257'
-  simple_average: '16'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '16'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 description: The historic mission of the Department of Commerce is "to foster, promote,

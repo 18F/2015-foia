@@ -290,8 +290,8 @@ departments:
   public_liaison: 'Terry Cochran, Phone: (202) 646-3323'
   request_form: https://faq.fema.gov/ci/documents/submit
   service_center: 'Phone: (202) 646-3323'
-  simple_average: '151.37'
-  simple_median: '100.5'
+  simple_request_processing_time_mean_days: '151.37'
+  simple_request_processing_time_median_days: '100.5'
   top_level: true
   usa_id: '48042'
   website: http://www.fema.gov/help/foia.shtm
@@ -311,8 +311,8 @@ departments:
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
   request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
   service_center: 'Phone: (912) 267-3103'
-  simple_average: '19.26'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '19.26'
+  simple_request_processing_time_median_days: '10'
   top_level: true
   usa_id: '49308'
   website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
@@ -385,8 +385,8 @@ departments:
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
   service_center: 'Phone: (202) 254-4001'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0788.shtm
 - address:
@@ -465,8 +465,8 @@ departments:
   phone: 202-406-6370
   public_liaison: 'Latita Payne, Phone: (202) 406-6370'
   service_center: 'Phone: (202) 406-6370'
-  simple_average: '10.79'
-  simple_median: '11'
+  simple_request_processing_time_mean_days: '10.79'
+  simple_request_processing_time_median_days: '11'
   top_level: true
   usa_id: '49660'
   website: http://www.secretservice.gov/foia.shtml
@@ -536,8 +536,8 @@ departments:
   phone: 866-364-2872
   public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
   service_center: 'Phone: (866) 364-2872, (571) 227-2300'
-  simple_average: '7.4'
-  simple_median: '6'
+  simple_request_processing_time_mean_days: '7.4'
+  simple_request_processing_time_median_days: '6'
   top_level: false
   website: http://www.tsa.gov/research/foia/index.shtm
 - address:
@@ -772,8 +772,8 @@ phone: 202-343-1743
 public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'
 request_form: http://www.dhs.gov/make-foia-request
 service_center: 'Phone: (202) 343-1743, (866) 431-0486'
-simple_average: '36.7087'
-simple_median: '11'
+simple_request_processing_time_mean_days: '36.7087'
+simple_request_processing_time_median_days: '11'
 top_level: false
 usa_id: '49022'
 website: http://www.dhs.gov/xfoia/editorial_0579.shtm

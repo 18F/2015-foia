@@ -28,8 +28,8 @@ departments:
   phone: 703-518-6540
   public_liaison: 'Phone: (703) 518-6540'
   service_center: 'Phone: (703) 518-6540'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
 description: The National Credit Union Administration (NCUA) is the independent federal
@@ -107,6 +107,6 @@ keywords:
 - Truth in savings
 - Wages
 name: National Credit Union Administration
-simple_average: '11.08'
-simple_median: '8'
+simple_request_processing_time_mean_days: '11.08'
+simple_request_processing_time_median_days: '8'
 usa_id: '49050'

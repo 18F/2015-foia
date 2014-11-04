@@ -14,8 +14,8 @@ departments:
   phone: 202-245-0269
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
-  simple_average: '6'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '6'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.stb.dot.gov/stb/foia.html
 description: The Surface Transportation Board (STB) was created in the ICC Termination
@@ -24,5 +24,5 @@ description: The Surface Transportation Board (STB) was created in the ICC Termi
   rate and service disputes and reviewing proposed railroad mergers. The STB is decisionally
   independent, although it is administratively affiliated with the Department of Transportation.
 name: Surface Transportation Board
-simple_average: '6'
-simple_median: '4'
+simple_request_processing_time_mean_days: '6'
+simple_request_processing_time_median_days: '4'

@@ -22,8 +22,8 @@ departments:
   public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Eugenia Harris, Phone: (202) 708-3866'
-  simple_average: '5.42'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '5.42'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
 - address:
@@ -332,8 +332,8 @@ phone: 202-708-3866
 public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
 request_form: https://hudpal.efoia-host.com/palMain.aspx
 service_center: 'Eugenia Harris, Phone: (202) 708-3866'
-simple_average: '17.21'
-simple_median: '14'
+simple_request_processing_time_mean_days: '17.21'
+simple_request_processing_time_median_days: '14'
 top_level: false
 usa_id: '49376'
 website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

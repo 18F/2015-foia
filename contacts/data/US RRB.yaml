@@ -26,8 +26,8 @@ departments:
   public_liaison: 'Phone: (312) 751-4350'
   request_form: https://secure.rrb.gov/efoia/
   service_center: 'Phone: (312) 751-4350'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.rrb.gov/blaw/foia/foia.asp
 description: The Railroad Retirement Board (RRB) is an independent agency in the executive
@@ -85,6 +85,6 @@ keywords:
 - Vocational rehabilitation
 - Wages
 name: Railroad Retirement Board
-simple_average: '12.13'
-simple_median: '11'
+simple_request_processing_time_mean_days: '12.13'
+simple_request_processing_time_median_days: '11'
 usa_id: '52657'

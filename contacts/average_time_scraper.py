@@ -15,19 +15,19 @@ def patch_yamls(data):
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
             if yaml_data['name']+"_2013" in data.keys():
-                yaml_data['simple_average'] = \
+                yaml_data['simple_request_processing_time_mean_days'] = \
                     data[yaml_data['name']+"_2013"]\
                         .get('Simple-Average No. of Days')
-                yaml_data['simple_median'] = \
+                yaml_data['simple_request_processing_time_median_days'] = \
                     data[yaml_data['name']+"_2013"]\
                         .get('Simple-Median No. of Days')
 
         for internal_data in yaml_data['departments']:
             if internal_data['name']+"_2013" in data:
-                internal_data['simple_average'] = \
+                internal_data['simple_request_processing_time_mean_days'] = \
                     data[internal_data['name']+"_2013"]\
                         .get('Simple-Average No. of Days')
-                internal_data['simple_median'] = \
+                internal_data['simple_request_processing_time_median_days'] = \
                     data[internal_data['name']+"_2013"]\
                         .get('Simple-Median No. of Days')
 
@@ -41,7 +41,7 @@ def write_csv(data):
 
     with open('times.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['name','year','simple_average','simple_median',
+        writer.writerow(['name','year','simple_average','simple_average',
                             'expedited_average','expedited_median',
                             'complex_average','complex_median'])
         for element in data.items():

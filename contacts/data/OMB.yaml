@@ -13,8 +13,8 @@ departments:
   phone: 202-395-3642
   public_liaison: 'Lauren Wright, Phone: (202) 395-7250'
   service_center: 'Phone: (202) 395-3642'
-  simple_average: '31'
-  simple_median: '18'
+  simple_request_processing_time_mean_days: '31'
+  simple_request_processing_time_median_days: '18'
   top_level: false
   website: http://www.whitehouse.gov/omb/foia_default
 description: The core mission of OMB is to serve the President of the United States
@@ -43,6 +43,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - State and local governments
 name: Office of Management and Budget
-simple_average: '31'
-simple_median: '18'
+simple_request_processing_time_mean_days: '31'
+simple_request_processing_time_median_days: '18'
 usa_id: '49584'

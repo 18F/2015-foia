@@ -16,8 +16,8 @@ departments:
   phone: 202-326-3254
   public_liaison: 'Richard Gold, Phone: (202) 326-3355'
   request_form: https://www.ftc.gov/ftc/foia.htm
-  simple_average: '7.36'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '7.36'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.ftc.gov/foia/
 description: The FTC pursues vigorous and effective law enforcement; advances consumers´
@@ -93,6 +93,6 @@ keywords:
 - Wages
 - Youth
 name: Federal Trade Commission
-simple_average: '7.36'
-simple_median: '4'
+simple_request_processing_time_mean_days: '7.36'
+simple_request_processing_time_median_days: '4'
 usa_id: '49047'

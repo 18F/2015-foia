@@ -15,8 +15,8 @@ departments:
   public_liaison: 'Diane Bridge, Phone: (202) 273-3851'
   request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
   service_center: 'Phone: (202) 273-3843'
-  simple_average: '6'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '6'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.nlrb.gov/FOIA/
 description: The National Labor Relations Board is an independent federal agency that
@@ -30,6 +30,6 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: National Labor Relations Board
-simple_average: '6'
-simple_median: '4'
+simple_request_processing_time_mean_days: '6'
+simple_request_processing_time_median_days: '4'
 usa_id: '49523'

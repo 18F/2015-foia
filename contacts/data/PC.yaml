@@ -29,8 +29,8 @@ departments:
   phone: 202-692-2922
   public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
   service_center: 'Phone: (202) 692-2922'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 description: "In 1961, President John F. Kennedy established the Peace Corps to promote\
@@ -57,6 +57,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - Technical assistance
 name: Peace Corps
-simple_average: '32'
-simple_median: '26'
+simple_request_processing_time_mean_days: '32'
+simple_request_processing_time_median_days: '26'
 usa_id: '52652'

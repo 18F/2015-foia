@@ -13,8 +13,8 @@ departments:
   public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (202) 690-7453'
-  simple_average: '16'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '16'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.hhs.gov/foia/index.html
 - address:
@@ -30,8 +30,8 @@ departments:
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
   request_form: http://oig.hhs.gov/foia/submit.asp
   service_center: 'Phone: (202) 619-2541'
-  simple_average: '11.36'
-  simple_median: '9.5'
+  simple_request_processing_time_mean_days: '10'
+  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://oig.hhs.gov/foia/
 - abbreviation: ACL
@@ -46,8 +46,8 @@ departments:
   phone: 202-401-4634
   public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
   service_center: 'Phone: (202) 401-4634'
-  simple_average: '13'
-  simple_median: '14'
+  simple_request_processing_time_mean_days: '13'
+  simple_request_processing_time_median_days: '14'
   top_level: true
   website: http://www.aoa.gov/AoARoot/Site_Utilities/FOIA/index.aspx
 - address:
@@ -95,8 +95,8 @@ departments:
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   service_center: 'Phone: (888) 747-1861'
-  simple_average: '536'
-  simple_median: '488'
+  simple_request_processing_time_mean_days: '536'
+  simple_request_processing_time_median_days: '488'
   top_level: false
   website: http://www.acf.hhs.gov/acf_foia.html
 - abbreviation: AHRQ
@@ -115,8 +115,8 @@ departments:
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (301) 492-4800'
-  simple_average: null
-  simple_median: null
+  simple_request_processing_time_mean_days: null
+  simple_request_processing_time_median_days: null
   top_level: true
   usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
@@ -153,8 +153,8 @@ departments:
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   service_center: 'Phone: (770) 488-6399'
-  simple_average: '90.21'
-  simple_median: '21'
+  simple_request_processing_time_mean_days: '90.21'
+  simple_request_processing_time_median_days: '21'
   top_level: true
   usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
@@ -367,8 +367,8 @@ departments:
   phone: 301-796-3900
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   service_center: 'Phone: (301) 796-3900'
-  simple_average: '27.6'
-  simple_median: '9'
+  simple_request_processing_time_mean_days: '27.6'
+  simple_request_processing_time_median_days: '9'
   top_level: true
   usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
@@ -410,8 +410,8 @@ departments:
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
   service_center: 'Phone: (301) 443-3376'
-  simple_average: '76'
-  simple_median: '64'
+  simple_request_processing_time_mean_days: '76'
+  simple_request_processing_time_median_days: '64'
   top_level: true
   usa_id: '49359'
   website: http://www.hrsa.gov/foia/
@@ -446,8 +446,8 @@ departments:
   public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   service_center: 'Phone: (301) 443-1116'
-  simple_average: '15'
-  simple_median: '10'
+  simple_request_processing_time_mean_days: '15'
+  simple_request_processing_time_median_days: '10'
   top_level: true
   usa_id: '49386'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
@@ -475,8 +475,8 @@ departments:
   phone: 301-496-5633
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   service_center: 'Phone: (301) 496-5633'
-  simple_average: '15'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '15'
+  simple_request_processing_time_median_days: '12'
   top_level: true
   usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
@@ -527,8 +527,8 @@ departments:
   phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
   service_center: 'Phone: (240) 276-2137'
-  simple_average: '132'
-  simple_median: '100'
+  simple_request_processing_time_mean_days: '132'
+  simple_request_processing_time_median_days: '100'
   top_level: true
   usa_id: '49687'
   website: http://www.samhsa.gov/foia/

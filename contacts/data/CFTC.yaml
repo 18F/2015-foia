@@ -13,8 +13,8 @@ departments:
   phone: 202-418-5497
   public_liaison: 'Linda Mauldin, Phone: (202) 418-5497'
   service_center: 'Phone: (202) 418-5497'
-  simple_average: '65'
-  simple_median: '40'
+  simple_request_processing_time_mean_days: '65'
+  simple_request_processing_time_median_days: '40'
   top_level: false
   website: http://www.cftc.gov/FOI/index.htm
 description: Congress created the Commodity Futures Trading Commission (CFTC) in 1974
@@ -70,6 +70,6 @@ keywords:
 - Trusts and trustees
 - Whistleblowing
 name: Commodity Futures Trading Commission
-simple_average: '65'
-simple_median: '40'
+simple_request_processing_time_mean_days: '65'
+simple_request_processing_time_median_days: '40'
 usa_id: '48146'

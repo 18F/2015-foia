@@ -17,8 +17,8 @@ departments:
     Wehausen, or Christie Swafford, Phone: (202) 401-8365'
   request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
   service_center: 'Phone: (202) 401-8365'
-  simple_average: '25.51'
-  simple_median: '12'
+  simple_request_processing_time_mean_days: '25.51'
+  simple_request_processing_time_median_days: '12'
   top_level: false
   website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
 description: The mission of the Department of Education is to promote student achievement
@@ -100,6 +100,6 @@ keywords:
 - Wages
 - Women
 name: Department of Education
-simple_average: '25.51'
-simple_median: '12'
+simple_request_processing_time_mean_days: '25.51'
+simple_request_processing_time_median_days: '12'
 usa_id: '49018'

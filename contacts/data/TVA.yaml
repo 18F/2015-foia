@@ -14,8 +14,8 @@ departments:
   phone: 865-632-6945
   public_liaison: 'Wilson Taylor, III, Phone: (865) 632-8133'
   service_center: 'Phone: (865) 632-6945'
-  simple_average: '9.48'
-  simple_median: '9'
+  simple_request_processing_time_mean_days: '9.48'
+  simple_request_processing_time_median_days: '9'
   top_level: false
   website: http://www.tva.gov/foia/
 description: TVA has renewed its vision to help lead the Tennessee Valley region and
@@ -63,6 +63,6 @@ keywords:
 - Water pollution control
 - Women
 name: Tennessee Valley Authority
-simple_average: '9.48'
-simple_median: '9'
+simple_request_processing_time_mean_days: '9.48'
+simple_request_processing_time_median_days: '9'
 usa_id: '52660'

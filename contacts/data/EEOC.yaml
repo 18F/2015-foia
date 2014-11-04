@@ -22,8 +22,8 @@ departments:
   phone: 202-663-4634
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-  simple_average: '5.42'
-  simple_median: '4'
+  simple_request_processing_time_mean_days: '5.42'
+  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
 - address:
@@ -319,8 +319,8 @@ departments:
   phone: 202-419-0705
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-  simple_average: '14.26'
-  simple_median: '16'
+  simple_request_processing_time_mean_days: '14.26'
+  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
 description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
@@ -354,8 +354,8 @@ name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
 service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-simple_average: '17.52'
-simple_median: '16'
+simple_request_processing_time_mean_days: '17.52'
+simple_request_processing_time_median_days: '16'
 top_level: false
 usa_id: '48032'
 website: http://www.eeoc.gov/eeoc/foia/

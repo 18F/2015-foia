@@ -24,5 +24,5 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: Recovery Accountability and Transparency Board
-simple_average: '11.5'
-simple_median: '6.5'
+simple_request_processing_time_mean_days: '11.5'
+simple_request_processing_time_median_days: '6.5'
