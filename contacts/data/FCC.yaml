@@ -16,6 +16,8 @@ departments:
   public_liaison: 'Stephanie Kost, Phone: (202) 418-1379'
   request_form: http://transition.fcc.gov/foia/#reqform
   service_center: 'Phone: (202) 418-0440, (202) 418-0212'
+  simple_average: '33.3'
+  simple_median: '19'
   top_level: false
   website: http://www.fcc.gov/foia/
 description: The Federal Communications Commission (FCC) is an independent United
@@ -105,4 +107,6 @@ keywords:
 - Weather
 - Wiretapping and electronic surveillance
 name: Federal Communications Commission
+simple_average: '33.3'
+simple_median: '19'
 usa_id: '49041'

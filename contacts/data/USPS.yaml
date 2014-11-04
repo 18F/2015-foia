@@ -46,6 +46,8 @@ departments:
   public_liaison: 'Betty White, Phone: (202) 268-7004'
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (202) 268-7004'
+  simple_average: '7.88'
+  simple_median: '6'
   top_level: true
   website: http://www.usps.com/foia/welcome.htm
 - address:
@@ -64,6 +66,8 @@ departments:
   public_liaison: 'Betsy Cuthbertson, Phone: (703) 248-2100'
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (703) 248-2100'
+  simple_average: '9.98'
+  simple_median: '9'
   top_level: false
   website: http://www.uspsoig.gov/foia.htm
 description: The USPS OIG achieves its mission of helping maintain confidence in the
@@ -112,4 +116,6 @@ keywords:
 - State and local governments
 - Wages
 name: United States Postal Service
+simple_average: '13.63'
+simple_median: '6'
 usa_id: '49061'

@@ -13,6 +13,8 @@ departments:
   phone: 202-203-4550
   public_liaison: 'Andrew T. Krog, Phone: (202) 203-4550'
   service_center: 'Phone: (202) 203-4550'
+  simple_average: '44'
+  simple_median: '38'
   top_level: false
   website: http://www.bbg.gov/reports/foia/
 description: The Broadcasting Board of Governor's mission is to promote freedom and
@@ -30,4 +32,6 @@ keywords:
 - Sunshine Act
 - Television
 name: Broadcasting Board of Governors
+simple_average: '44'
+simple_median: '38'
 usa_id: '49109'

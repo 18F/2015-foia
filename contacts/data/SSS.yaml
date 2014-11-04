@@ -11,6 +11,8 @@ departments:
   phone: 703-605-4100
   public_liaison: 'Richard Flahavan, Phone: (703) 605-4100'
   service_center: 'Phone: (703) 605-4100'
+  simple_average: '2'
+  simple_median: '2'
   top_level: false
   website: http://www.sss.gov/freedomhome.htm
 description: The statutory missions of Selective Service are to be prepared to provide
@@ -22,4 +24,6 @@ keywords:
 - Privacy
 - Selective Service System
 name: Selective Service System
+simple_average: '2'
+simple_median: '2'
 usa_id: '52658'

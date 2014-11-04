@@ -15,6 +15,8 @@ departments:
   public_liaison: 'Stacy J. Easter, Phone: (202) 649-3803'
   request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
   service_center: 'Phone: (202) 649-3803'
+  simple_average: '15.4'
+  simple_median: '10'
   top_level: false
   website: http://www.fhfa.gov/Default.aspx?Page=12
 description: The FHFA provides effective supervision, regulation and housing mission
@@ -68,4 +70,6 @@ keywords:
 - Truth in lending
 - Wages
 name: Federal Housing Finance Agency
+simple_average: '15.4'
+simple_median: '10'
 usa_id: '52611'

@@ -12,6 +12,8 @@ departments:
   phone: 202-673-3916
   public_liaison: 'Phone: (202) 673-3916'
   service_center: 'Phone: (202) 673-3916'
+  simple_average: '7'
+  simple_median: '6.5'
   top_level: false
   website: http://www.adf.gov/OpenGovernment.html
 description: USADF provides direct support to community organizations and enterprises
@@ -29,4 +31,6 @@ keywords:
 - Lebanon
 - Loan programs
 name: United States African Development Foundation
+simple_average: '7'
+simple_median: '6.5'
 usa_id: '52581'

@@ -1,55 +1,14 @@
 abbreviation: DOI
 departments:
-- abbreviation: BIA
-  address:
+- address:
   - Daphne Berwald
   - Acting FOIA Officer
   - MS-3071, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  description: No Description
   emails:
   - foia@bia.gov
   fax: 202-208-6597
-  foia_officer: 'Daphne Berwald, Phone: (202) 208-4174'
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Alaska
-  - Buildings and facilities
-  - Child welfare
-  - Claims
-  - Courts
-  - Educational facilities
-  - Employment
-  - Equal access to justice
-  - Estates
-  - Government contracts
-  - Government property management
-  - Grant programs-Indians
-  - Grant programs-social programs
-  - Grazing lands
-  - Health care
-  - Highways and roads
-  - Indians
-  - Indians-business and finance
-  - Indians-claims
-  - Indians-education
-  - Indians-lands
-  - Indians-law
-  - Indians-tribal government
-  - Irrigation
-  - Law enforcement
-  - Lawyers
-  - Livestock
-  - Penalties
-  - Public assistance programs
-  - Reporting and recordkeeping requirements
-  - Rights-of-way
-  - School construction
-  - Schools
-  - Students
-  - Trusts and trustees
   name: Bureau of Indian Affairs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -57,71 +16,18 @@ departments:
   public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-4174'
+  simple_average: '2'
+  simple_median: '1'
   top_level: true
-  usa_id: '49117'
   website: http://www.bia.gov/FOIA/index.htm
-- abbreviation: BLM
-  address:
+- address:
   - Ryan Witt
   - FOIA Officer
   - 'Attn: FOIA, Washington Office Coorindators'
   - 'MS: WO-560, 1849 C Street, NW'
   - Washington, DC 20240
-  description: No Description
   emails:
   - BLM_WO_FOIA@blm.gov
-  foia_officer: 'Ryan Witt, Phone: (202) 912-7650'
-  keywords:
-  - Administrative practice and procedure
-  - Airports
-  - Airspace
-  - Alaska
-  - Antitrust
-  - Archives and records
-  - Bonds
-  - Coal
-  - Common carriers
-  - Communications
-  - Continental shelf
-  - Electric power
-  - Environmental impact statements
-  - Environmental protection
-  - Federal Energy Regulatory Commission
-  - Forests and forest products
-  - Geothermal energy
-  - Government contracts
-  - Grant programs-natural resources
-  - Grazing lands
-  - Highways and roads
-  - Homesteads
-  - Hydrocarbons
-  - Indians
-  - Indians-lands
-  - Intergovernmental relations
-  - Land Management Bureau
-  - Law enforcement
-  - Livestock
-  - Loan programs-natural resources
-  - Mineral royalties
-  - Mines
-  - Monuments and memorials
-  - National forests
-  - National parks
-  - Navigation (air)
-  - Oil and gas exploration
-  - Oil and gas reserves
-  - Penalties
-  - Phosphate
-  - Pipelines
-  - Public lands
-  - Range management
-  - Reporting and recordkeeping requirements
-  - Seashores
-  - Sulfur
-  - Surety bonds
-  - Water resources
-  - Wilderness areas
-  - Wildlife
   name: Bureau of Land Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -129,48 +35,19 @@ departments:
   public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 912-7650'
+  simple_average: '4'
+  simple_median: '3'
   top_level: true
-  usa_id: '49125'
   website: http://www.blm.gov/wo/st/en/res/FOIA.html
-- abbreviation: BOEM
-  address:
+- address:
   - Rosemary Melendy
   - FOIA Contact
   - HM3127
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: No Description
   emails:
   - BOEMFOIA@boem.gov
   fax: 703-787-1209
-  keywords:
-  - Administrative practice and procedure
-  - Civil rights
-  - Coastal zone
-  - Continental shelf
-  - Electric power
-  - Energy
-  - Environmental impact statements
-  - Environmental protection
-  - Freedom of information
-  - Government contracts
-  - Indians-lands
-  - Intergovernmental relations
-  - Investigations
-  - Marine resources
-  - Mineral royalties
-  - Natural resources
-  - Oil and gas exploration
-  - Oil pollution
-  - Penalties
-  - Pipelines
-  - Public lands
-  - Reporting and recordkeeping requirements
-  - Research
-  - Solar energy
-  - Surety bonds
-  misc:
-    FOIA Contact: 'Rosemary Melendy, Phone: (703) 787-1315'
   name: Bureau of Ocean Energy Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -178,38 +55,18 @@ departments:
   public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 787-1327'
+  simple_average: '4'
+  simple_median: '2'
   top_level: true
-  usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
-- abbreviation: USBR
-  address:
+- address:
   - Regina Magno-Judd
   - FOIA Officer
   - P.O. Box 25007
   - Denver, CO 80225-0007
-  description: No Description
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
-  foia_officer: 'Regina Magno-Judd, Phone: (303) 445-2056, (888) 231-7779'
-  keywords:
-  - Administrative practice and procedure
-  - Agriculture
-  - Dams
-  - Endangered and threatened species
-  - Irrigation
-  - Law enforcement
-  - Natural resources
-  - Penalties
-  - Public lands
-  - Reclamation
-  - Reporting and recordkeeping requirements
-  - Reservoirs
-  - Rural areas
-  - Security measures
-  - Water resources
-  - Water supply
-  - Watersheds
   name: Bureau of Reclamation
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -217,42 +74,19 @@ departments:
   public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (303) 445-2056'
+  simple_average: '4'
+  simple_median: '3'
   top_level: true
-  usa_id: '49128'
   website: http://www.usbr.gov/foia/
-- abbreviation: BSEE
-  address:
+- address:
   - Debbie Kimball
   - FOIA Contact
   - 'MS:  HE-2204'
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: No Description
   emails:
   - BSEEFOIA@bsee.gov
   fax: 703-787-1207
-  keywords:
-  - Administrative practice and procedure
-  - Civil rights
-  - Continental shelf
-  - Environmental impact statements
-  - Environmental protection
-  - Freedom of information
-  - Government contracts
-  - Indians-lands
-  - Intergovernmental relations
-  - Investigations
-  - Mineral royalties
-  - Oil and gas exploration
-  - Oil pollution
-  - Penalties
-  - Pipelines
-  - Public lands
-  - Reporting and recordkeeping requirements
-  - Research
-  - Surety bonds
-  misc:
-    FOIA Contact: 'Debbie Kimball, Phone: (703) 787-1689'
   name: Bureau of Safety and Environmental Enforcement
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -260,83 +94,19 @@ departments:
   public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 787-1689'
+  simple_average: '3'
+  simple_median: '3'
   top_level: true
-  usa_id: '85146'
   website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
-- abbreviation: FWS
-  address:
+- address:
   - Melissa Allen
   - FWS FOIA Officer
   - MS-IRTM
   - 5725 Leesburg Pike
   - Falls Church, VA 22041
-  description: No Description
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
-  foia_officer: 'Melissa Allen, Phone: (703) 358-2470'
-  keywords:
-  - Administrative practice and procedure
-  - Alaska
-  - Alcohol and alcoholic beverages
-  - Animal welfare
-  - Animals
-  - Business and industry
-  - Civil rights
-  - Coastal zone
-  - Concessions
-  - Education
-  - Endangered and threatened species
-  - Environmental protection
-  - Equal employment opportunity
-  - Exports
-  - Fish
-  - Fisheries
-  - Fishing
-  - Foreign officials
-  - Foreign trade
-  - Grant programs
-  - Grant programs-natural resources
-  - Grant programs-recreation
-  - Harbors
-  - Historic preservation
-  - Hunting
-  - Imports
-  - Indians
-  - Intergovernmental relations
-  - Intermodal transportation
-  - Labeling
-  - Law enforcement
-  - Marine mammals
-  - Marine resources
-  - Marine safety
-  - Monuments and memorials
-  - Motion pictures
-  - National forests
-  - National parks
-  - Natural resources
-  - Navigation (water)
-  - Oil and gas exploration
-  - Organization and functions (Government agencies)
-  - Plants
-  - Public lands
-  - Real property acquisition
-  - Recordings
-  - Reporting and recordkeeping requirements
-  - Research
-  - Rivers
-  - Safety
-  - Sewage disposal
-  - Signs and symbols
-  - Television
-  - Transportation
-  - Treaties
-  - Vessels
-  - Water pollution control
-  - Water resources
-  - Waterways
-  - Wildlife
-  - Wildlife refuges
   name: U.S. Fish and Wildlife Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -345,7 +115,6 @@ departments:
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 358-2504'
   top_level: true
-  usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
 - address:
   - Brian May
@@ -356,8 +125,6 @@ departments:
   emails:
   - foia@usgs.gov
   fax: 703-648-7199
-  misc:
-    FOIA Contact: 'Brian May, Phone: (703) 648-7196'
   name: U.S. Geological Survey
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -367,49 +134,15 @@ departments:
   service_center: 'Phone: (703) 648-7196'
   top_level: false
   website: http://www.usgs.gov/foia/
-- abbreviation: ''
-  address:
+- address:
   - Charis Wilson
   - NPS FOIA Officer
   - P.O. Box 25287
   - 12795 W. Alameda Parkway
   - Denver, CO 80225
-  description: No Description
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557
-  foia_officer: 'Charis Wilson, Phone: 1-855-NPS-FOIA (677-3642); (303) 969-2959'
-  keywords:
-  - Alaska
-  - Alcohol and alcoholic beverages
-  - Business and industry
-  - Cemeteries
-  - Civil rights
-  - Concessions
-  - District of Columbia
-  - Environmental protection
-  - Equal employment opportunity
-  - Foreign relations
-  - Government contracts
-  - Grant programs-natural resources
-  - Historic preservation
-  - Hunting
-  - Income taxes
-  - Indians-tribal government
-  - Marine safety
-  - Military personnel
-  - Motion pictures
-  - National parks
-  - Penalties
-  - Recordings
-  - Reporting and recordkeeping requirements
-  - Signs and symbols
-  - Small businesses
-  - Television
-  - Traffic regulations
-  - Transportation
-  - Veterans
-  - Wildlife refuges
   name: National Park Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -417,8 +150,9 @@ departments:
   public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 354-1925'
+  simple_average: '13'
+  simple_median: '14'
   top_level: true
-  usa_id: '49539'
   website: http://www.nps.gov/foia.htm
 - address:
   - Kevin Krebs
@@ -428,13 +162,13 @@ departments:
   - Washington, DC 20240
   emails:
   - foia@doioig.gov
-  misc:
-    FOIA Contact: 'Kevin Krebs, Phone: (202) 208-0954'
   name: Office of the Inspector General
   phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-0954'
+  simple_average: '9.98'
+  simple_median: '9'
   top_level: false
   website: http://www.doioig.gov/freedom-of-information-act
 - address:
@@ -446,44 +180,6 @@ departments:
   emails:
   - mrmfoia@onrr.gov
   fax: 303-445-4288
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Civil rights
-  - Coal
-  - Continental shelf
-  - Electronic funds transfers
-  - Environmental impact statements
-  - Environmental protection
-  - Equal access to justice
-  - Estates
-  - Geothermal energy
-  - Government contracts
-  - Grazing lands
-  - Indians
-  - Indians-lands
-  - Intergovernmental relations
-  - Investigations
-  - Lawyers
-  - Mineral resources
-  - Mineral royalties
-  - Mines
-  - Natural gas
-  - Oil and gas exploration
-  - Penalties
-  - Petroleum
-  - Phosphate
-  - Pipelines
-  - Public lands
-  - Reporting and recordkeeping requirements
-  - Small businesses
-  - Sulfur
-  - Surety bonds
-  - Surface mining
-  - Whistleblowing
-  misc:
-    FOIA Contact: 'Richard Lopez, Phone: (303) 231-3078'
   name: Office of Natural Resources Revenue
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -502,13 +198,13 @@ departments:
   emails:
   - os_foia@ios.doi.gov
   fax: 202-219-2374
-  misc:
-    FOIA Contact: 'Clarice Julka, Phone: (202) 513-0756'
   name: Office of the Secretary
   phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 513-0756'
+  simple_average: '8'
+  simple_median: '13'
   top_level: false
   website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
 - address:
@@ -520,13 +216,13 @@ departments:
   emails:
   - sol.foia@sol.doi.gov
   fax: 202-208-5206
-  misc:
-    Acting FOIA Contact: 'Lance Purvis, Phone: (202) 208-5817'
   name: Office of the Solicitor
   phone: 202-208-5817
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-6503'
+  simple_average: '35.6'
+  simple_median: '13'
   top_level: false
   website: http://www.doi.gov/foia/
 - address:
@@ -538,8 +234,6 @@ departments:
   emails:
   - foia@osmre.gov
   fax: 202-219-3092
-  misc:
-    FOIA Contact: 'Dele Awoniyi, Phone: (202) 208-5840'
   name: Office of Surface Mining
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -547,6 +241,8 @@ departments:
   public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-2909'
+  simple_average: '49'
+  simple_median: '18'
   top_level: false
   website: http://www.osmre.gov/contacts/Foia.shtm
 - address:
@@ -557,8 +253,6 @@ departments:
   - Washington, DC 20240
   emails:
   - Veronica_Herkshan@ost.doi.gov
-  misc:
-    FOIA Contact: 'Veronica Herkshan, Phone: (505) 816-1645'
   name: Office of the Special Trustee
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -571,202 +265,4 @@ departments:
 description: The U.S. Department of the Interior protects America´s natural resources
   and heritage, honors our cultures and tribal communities, and supplies the energy
   to power our future.
-keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Aged
-- Agriculture
-- Airports
-- Airspace
-- Alaska
-- Alcohol and alcoholic beverages
-- American Samoa
-- Animal welfare
-- Animals
-- Antitrust
-- Archives and records
-- Authority delegations (Government agencies)
-- Bonds
-- Buildings and facilities
-- Business and industry
-- Cemeteries
-- Child welfare
-- Civil rights
-- Claims
-- Classified information
-- Coal
-- Coastal zone
-- Colleges and universities
-- Common carriers
-- Communications
-- Concessions
-- Continental shelf
-- Courts
-- Customs duties and inspection
-- Dams
-- District of Columbia
-- Drug abuse
-- Education
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electronic funds transfers
-- Employment
-- Endangered and threatened species
-- Energy
-- Environmental impact statements
-- Environmental protection
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Estates
-- Exports
-- Federal Energy Regulatory Commission
-- Federal buildings and facilities
-- Fire prevention
-- Fish
-- Fisheries
-- Fishing
-- Foreign officials
-- Foreign relations
-- Foreign trade
-- Forests and forest products
-- Freedom of information
-- Gambling
-- Geothermal energy
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-Indians
-- Grant programs-education
-- Grant programs-natural resources
-- Grant programs-recreation
-- Grant programs-social programs
-- Grazing lands
-- Guam
-- Harbors
-- Hawaiian Natives
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Historic preservation
-- Homesteads
-- Hostages
-- Hunting
-- Hydrocarbons
-- Imports
-- Income taxes
-- Indians
-- Indians-arts and crafts
-- Indians-business and finance
-- Indians-claims
-- Indians-education
-- Indians-lands
-- Indians-law
-- Indians-tribal government
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- Intermodal transportation
-- Investigations
-- Iraq
-- Irrigation
-- Kuwait
-- Labeling
-- Land Management Bureau
-- Law enforcement
-- Lawyers
-- Lebanon
-- Livestock
-- Loan programs
-- Loan programs-natural resources
-- Marine mammals
-- Marine resources
-- Marine safety
-- Marketing quotas
-- Mass transportation
-- Military personnel
-- Mineral resources
-- Mineral royalties
-- Minerals Management Service
-- Mines
-- Monuments and memorials
-- Motion pictures
-- Museums
-- National forests
-- National parks
-- Natural gas
-- Natural resources
-- Navigation (air)
-- Navigation (water)
-- Northern Mariana Islands
-- Oil and gas exploration
-- Oil and gas reserves
-- Oil pollution
-- Organization and functions (Government agencies)
-- Penalties
-- Petroleum
-- Phosphate
-- Pipelines
-- Plants
-- Privacy
-- Public assistance programs
-- Public lands
-- Railroads
-- Range management
-- Real property acquisition
-- Reclamation
-- Recordings
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Reservoirs
-- Rights-of-way
-- Rivers
-- Rural areas
-- Safety
-- School construction
-- Schools
-- Seashores
-- Security measures
-- Sewage disposal
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- Solar energy
-- Student aid
-- Students
-- Sulfur
-- Surety bonds
-- Surface mining
-- Technical assistance
-- Television
-- Trademarks
-- Traffic regulations
-- Transportation
-- Treaties
-- Trusts and trustees
-- Underground mining
-- Vessels
-- Veterans
-- Virgin Islands
-- Watches and jewelry
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Waterways
-- Whistleblowing
-- Wilderness areas
-- Wildlife
-- Wildlife refuges
-- Women
 name: Department of Interior
-usa_id: '49033'

@@ -1,4 +1,4 @@
-abbreviation: DOL
+abbreviation: U.S. DOL
 address:
 - Ramona Branch Oliver
 - Director, Office of Information Services , Office of the Solicitor/MALS Division
@@ -21,163 +21,58 @@ departments:
   service_center: 'Phone: (202) 693-5391'
   top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
-- abbreviation: ILAB
-  address:
+- address:
   - FOIA Coordinator
   - Room S-5317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
-  description: No Description
   emails:
   - ILABFOIA@dol.gov
   name: Bureau of International Labor Affairs
   phone: 202-693-4877
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-4877'
+  simple_average: '0'
+  simple_median: '0'
   top_level: true
-  usa_id: '49121'
   website: http://www.dol.gov/ilab/
-- abbreviation: BLS
-  address:
+- address:
   - FOIA Disclosure Officer
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
   - Washington, DC 20212-0001
-  description: No Description
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 691-7628'
+  simple_average: '18.3'
+  simple_median: '16'
   top_level: true
-  usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
-- abbreviation: EBSA
-  address:
+- address:
   - Sharon Watson
   - FOIA Officer
   - Public Disclosure Room, Suite N-1513
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
   emails:
   - foiarequest@dol.gov
-  keywords:
-  - Accountants
-  - Accounting
-  - Administrative practice and procedure
-  - Advertising
-  - Advisory committees
-  - Brokers
-  - Claims
-  - Consumer protection
-  - Employee benefit plans
-  - Excise taxes
-  - Government employees
-  - Grant programs-health
-  - Health care
-  - Health insurance
-  - Health records
-  - Hospitals
-  - Individuals with disabilities
-  - Investments
-  - Law enforcement
-  - Loan programs-health
-  - Medicaid
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Public assistance programs
-  - Reporting and recordkeeping requirements
-  - Retirement
-  - Securities
-  - State and local governments
-  - Sunshine Act
-  - Surety bonds
-  - Technical assistance
-  - Trusts and trustees
-  - Women
-  - Youth
   name: Employee Benefits Security Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-8673
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-8655'
+  simple_average: '16.1'
+  simple_median: '16'
   top_level: true
-  usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
-- abbreviation: DOLETA
-  address:
+- address:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
-  description: No Description
   fax: 202-693-2844
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Aged
-  - Agricultural commodities
-  - Agriculture
-  - Aliens
-  - Australia
-  - Civil rights
-  - Claims
-  - Courts
-  - Disaster assistance
-  - Education
-  - Employment
-  - Employment and Training Administration
-  - Employment taxes
-  - Equal educational opportunity
-  - Equal employment opportunity
-  - Foreign officials
-  - Forests and forest products
-  - Fraud
-  - Government contracts
-  - Government employees
-  - Government procurement
-  - Grant programs
-  - Grant programs-Indians
-  - Grant programs-labor
-  - Guam
-  - Hawaiian Natives
-  - Health professions
-  - Homeless
-  - Housing
-  - Housing standards
-  - Immigration
-  - Indemnity payments
-  - Indians
-  - Individuals with disabilities
-  - Investigations
-  - Labor
-  - Lobbying
-  - Longshore and harbor workers
-  - Manpower training programs
-  - Migrant labor
-  - Minimum wages
-  - Nursery stock
-  - Passports and visas
-  - Penalties
-  - Privacy
-  - Religious discrimination
-  - Relocation assistance
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seamen
-  - Sex discrimination
-  - Statistics
-  - Students
-  - Trade adjustment assistance
-  - Transportation
-  - Unemployment compensation
-  - Veterans
-  - Virgin Islands
-  - Vocational education
-  - Wages
-  - Workers' compensation
-  - Youth
   name: Employment & Training Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -185,7 +80,6 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-3676'
   top_level: true
-  usa_id: '52693'
   website: http://www.doleta.gov/foia/
 - address:
   - FOIA Disclosure Officer
@@ -200,65 +94,14 @@ departments:
   service_center: 'Phone: (202) 693-5500'
   top_level: false
   website: http://www.jobcorps.gov/foia.aspx
-- abbreviation: MSHA
-  address:
+- address:
   - FOIA Officer
   - Room 2314
   - 1100 Wilson Boulevard
   - Arlington, VA 22209-3939
-  description: No Description
   emails:
   - foiarequest@dol.gov
   fax: 202-963-9441
-  keywords:
-  - Administrative practice and procedure
-  - Agriculture
-  - Aliens
-  - Asbestos
-  - Black lung benefits
-  - Chemicals
-  - Child labor
-  - Coal
-  - Colleges and universities
-  - Communications equipment
-  - Education
-  - Electric power
-  - Emergency medical services
-  - Employee benefit plans
-  - Employment
-  - Environmental impact statements
-  - Explosives
-  - Fire prevention
-  - Gases
-  - Hazardous substances
-  - Health professions
-  - Housing
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Law enforcement
-  - Metals
-  - Migrant labor
-  - Mine safety and health
-  - Minimum wages
-  - Motor vehicle safety
-  - Noise control
-  - Occupational safety and health
-  - Penalties
-  - Radiation protection
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Students
-  - Surface mining
-  - Television
-  - Trusts and trustees
-  - Underground mining
-  - Wages
-  - Water supply
-  - Whistleblowing
   name: Mine Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -266,7 +109,6 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-9424'
   top_level: true
-  usa_id: '49462'
   website: http://www.msha.gov/READROOM/READROOM.HTM
 - address:
   - FOIA Disclosure Officer
@@ -296,6 +138,8 @@ departments:
   phone: 202-693-7126
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-7126'
+  simple_average: '18.8'
+  simple_median: '7.5'
   top_level: false
   website: http://www.dol.gov/oasam/foia/
 - address:
@@ -306,18 +150,6 @@ departments:
   emails:
   - foiarequest@dol.gov
   fax: 202-693-5538
-  keywords:
-  - Administrative practice and procedure
-  - Civil rights
-  - Employment
-  - Equal employment opportunity
-  - Government contracts
-  - Government procurement
-  - Individuals with disabilities
-  - Investigations
-  - Labor
-  - Reporting and recordkeeping requirements
-  - Veterans
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
@@ -329,15 +161,6 @@ departments:
   - Suite N-5609
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  keywords:
-  - Administrative practice and procedure
-  - Government contracts
-  - Insurance companies
-  - Labor management relations
-  - Labor unions
-  - Mass transportation
-  - Reporting and recordkeeping requirements
-  - Surety bonds
   name: Office of Labor-Management Standards
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -351,30 +174,6 @@ departments:
   - Suite N-5609
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  keywords:
-  - Administrative practice and procedure
-  - Black lung benefits
-  - Cancer
-  - Chemicals
-  - Claims
-  - Government employees
-  - Health care
-  - Health professions
-  - Insurance companies
-  - Kidney diseases
-  - Labor
-  - Longshore and harbor workers
-  - Lung diseases
-  - Miners
-  - Organization and functions (Government agencies)
-  - Radioactive materials
-  - Reporting and recordkeeping requirements
-  - Underground mining
-  - Uranium
-  - Vocational rehabilitation
-  - Whistleblowing
-  - Workers' compensation
-  - X-rays
   name: Office of Workers' Compensation Programs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -392,71 +191,16 @@ departments:
   name: Office of the Inspector General
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: ''
+  simple_average: '9.98'
+  simple_median: '9'
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
-- abbreviation: OSHA
-  address:
+- address:
   - FOIA Officer
   - Room N3647
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
   fax: 202-693-1635
-  keywords:
-  - Administrative practice and procedure
-  - Advisory committees
-  - Agriculture
-  - Asbestos
-  - Blood
-  - Blood diseases
-  - Cancer
-  - Chemicals
-  - Construction industry
-  - Consumer protection
-  - Diving
-  - Electric power
-  - Employment
-  - Environmental protection
-  - Explosives
-  - Fire prevention
-  - Freedom of information
-  - Freight
-  - Gases
-  - Government employees
-  - Hazardous substances
-  - Health
-  - Health care
-  - Health facilities
-  - Health professions
-  - Health records
-  - Health statistics
-  - Highway safety
-  - Hospitals
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Laboratories
-  - Law enforcement
-  - Longshore and harbor workers
-  - Marine safety
-  - Mass transportation
-  - Motor carriers
-  - Motor vehicle safety
-  - National parks
-  - Occupational Safety and Health Administration
-  - Occupational safety and health
-  - Pipeline safety
-  - Pipelines
-  - Privacy
-  - Radiation protection
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seamen
-  - Signs and symbols
-  - Transportation
-  - Vessels
-  - Whistleblowing
   name: Occupational Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -464,7 +208,6 @@ departments:
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-1999'
   top_level: true
-  usa_id: '48101'
   website: http://www.osha.gov/as/opa/foia/foia.html
 - address:
   - Carrie Timus
@@ -472,15 +215,6 @@ departments:
   - Room S-1325
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  keywords:
-  - Administrative practice and procedure
-  - Employment
-  - Government contracts
-  - Grant programs
-  - Grant programs-labor
-  - Labor
-  - Reporting and recordkeeping requirements
-  - Veterans
   name: Veterans' Employment & Training Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -495,74 +229,12 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   - 'FOIA Requester Service Center:'
-  keywords:
-  - Administrative practice and procedure
-  - Agricultural commodities
-  - Agriculture
-  - Aliens
-  - American Samoa
-  - Black lung benefits
-  - Chemicals
-  - Child labor
-  - Coal
-  - Colleges and universities
-  - Communications equipment
-  - Construction industry
-  - Education
-  - Electric power
-  - Emergency medical services
-  - Employee benefit plans
-  - Employment
-  - Environmental impact statements
-  - Explosives
-  - Fire prevention
-  - Firefighters
-  - Forests and forest products
-  - Fraud
-  - Gases
-  - Government contracts
-  - Hazardous substances
-  - Health
-  - Health insurance
-  - Health professions
-  - Housing
-  - Housing standards
-  - Immigration
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Irrigation
-  - Labor
-  - Labor management relations
-  - Law enforcement
-  - Law enforcement officers
-  - Maternal and child health
-  - Metals
-  - Migrant labor
-  - Mine safety and health
-  - Minimum wages
-  - Motor vehicle safety
-  - Noise control
-  - Nursery stock
-  - Occupational safety and health
-  - Passports and visas
-  - Penalties
-  - Radiation protection
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Research
-  - Students
-  - Teachers
-  - Television
-  - Transportation
-  - Trusts and trustees
-  - Wages
-  - Water supply
-  - Whistleblowing
   name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  simple_average: '31.8'
+  simple_median: '11'
   top_level: false
   website: http://www.dol.gov/whd/foia/
 - address:
@@ -576,6 +248,8 @@ departments:
   name: Women's Bureau
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: ''
+  simple_average: '92.6'
+  simple_median: '41'
   top_level: false
   website: http://www.dol.gov/wb/e-foia.htm
 description: The Department's mission is to foster, promote, and develop the welfare
@@ -585,199 +259,9 @@ description: The Department's mission is to foster, promote, and develop the wel
 emails:
 - foiarequest@dol.gov
 fax: 202-693-5389
-keywords:
-- Accountants
-- Accounting
-- Administrative practice and procedure
-- Advertising
-- Advisory committees
-- Aged
-- Agricultural commodities
-- Agriculture
-- Airports
-- Aliens
-- American Samoa
-- Asbestos
-- Australia
-- Black lung benefits
-- Blood
-- Blood diseases
-- Bonds
-- Brokers
-- Buildings and facilities
-- Business and industry
-- Cancer
-- Carpools
-- Chemicals
-- Child labor
-- Civil rights
-- Claims
-- Classified information
-- Coal
-- Colleges and universities
-- Communications equipment
-- Construction industry
-- Consumer protection
-- Courts
-- Disaster assistance
-- Diving
-- Education
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Emergency medical services
-- Employee benefit plans
-- Employment
-- Employment and Training Administration
-- Employment taxes
-- Environmental impact statements
-- Environmental protection
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Excise taxes
-- Explosives
-- Federal buildings and facilities
-- Fire prevention
-- Firefighters
-- Foreign officials
-- Forests and forest products
-- Fraud
-- Freedom of information
-- Freight
-- Gases
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-Indians
-- Grant programs-business
-- Grant programs-education
-- Grant programs-health
-- Grant programs-labor
-- Grant programs-social programs
-- Guam
-- Hawaiian Natives
-- Hazardous substances
-- Health
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Health records
-- Health statistics
-- Highway safety
-- Highways and roads
-- Homeless
-- Hospitals
-- Hostages
-- Housing
-- Housing standards
-- Immigration
-- Income taxes
-- Indemnity payments
-- Indians
-- Individuals with disabilities
-- Insurance
-- Insurance companies
-- Intergovernmental relations
-- Investigations
-- Investments
-- Iraq
-- Irrigation
-- Kidney diseases
-- Kuwait
-- Labeling
-- Labor
-- Labor management relations
-- Labor unions
-- Laboratories
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Lebanon
-- Loan programs
-- Loan programs-business
-- Loan programs-health
-- Lobbying
-- Longshore and harbor workers
-- Lung diseases
-- Manpower training programs
-- Marine safety
-- Mass transportation
-- Maternal and child health
-- Medicaid
-- Metals
-- Migrant labor
-- Mine safety and health
-- Miners
-- Mines
-- Minimum wages
-- Motor carriers
-- Motor vehicle safety
-- National parks
-- Noise control
-- Nonprofit organizations
-- Nursery stock
-- Occupational Safety and Health Administration
-- Occupational safety and health
-- Organization and functions (Government agencies)
-- Passports and visas
-- Penalties
-- Pipeline safety
-- Pipelines
-- Privacy
-- Public assistance programs
-- Radiation protection
-- Radio
-- Radioactive materials
-- Railroads
-- Religious discrimination
-- Relocation assistance
-- Reporting and recordkeeping requirements
-- Research
-- Retirement
-- Safety
-- Seamen
-- Securities
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- State and local governments
-- Statistics
-- Student aid
-- Students
-- Sunshine Act
-- Surety bonds
-- Surface mining
-- Teachers
-- Technical assistance
-- Television
-- Trade adjustment assistance
-- Transportation
-- Trusts and trustees
-- Underground mining
-- Unemployment compensation
-- Uranium
-- Vessels
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Water supply
-- Whistleblowing
-- Women
-- Workers' compensation
-- X-rays
-- Youth
 name: Department of Labor
 phone: 202-693-5391
 public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
 service_center: 'Phone: (202) 693-5391'
 top_level: false
-usa_id: '49028'
 website: http://www.dol.gov/dol/foia/main.htm

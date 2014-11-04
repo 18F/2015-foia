@@ -12,9 +12,13 @@ departments:
   public_liaison: 'David Caperton, Phone: (202) 452-2899'
   request_form: http://www.federalreserve.gov/forms/fomcform.aspx
   service_center: 'Phone: (202) 452-2576'
+  simple_average: '11.7'
+  simple_median: '10'
   top_level: false
   website: http://www.federalreserve.gov/foia/fomc/about_fomcfoia.htm
 description: Monetary policy is made by the Federal Open Market Committee (FOMC),
   which consists of the members of the Board of Governors of the Federal Reserve System
   and five Reserve Bank presidents.
 name: Federal Open Market Committee
+simple_average: '11.7'
+simple_median: '10'

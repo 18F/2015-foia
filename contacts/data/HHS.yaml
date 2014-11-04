@@ -7,12 +7,13 @@ departments:
   - 300 C Street, SW
   - Washington, DC  20201
   fax: 202-690-8320
-  foia_officer: 'Michael Bell, Phone: (202) 690-7453'
   name: Office of the Secretary
   phone: 202-690-7453
   public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (202) 690-7453'
+  simple_average: '8'
+  simple_median: '13'
   top_level: false
   website: http://www.hhs.gov/foia/index.html
 - address:
@@ -22,26 +23,25 @@ departments:
   - 330 Independence Avenue, SW
   - Washington, DC 20201
   fax: 202-205-4030
-  foia_officer: 'Robin Brooks, Phone: (202) 619-2541'
   name: Office of the Inspector General
   phone: 202-619-2541
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
   request_form: http://oig.hhs.gov/foia/submit.asp
   service_center: 'Phone: (202) 619-2541'
+  simple_average: '9.98'
+  simple_median: '9'
   top_level: false
   website: http://oig.hhs.gov/foia/
-- abbreviation: ACL
-  address:
+- address:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
-  description: No Description
-  fax: (202) 357-0129
-  foia_officer: 'Jason Bennett, Phone: (202) 401-4634'
   name: Administration for Community Living
   phone: 202-401-4634
   public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
   service_center: 'Phone: (202) 401-4634'
+  simple_average: '13'
+  simple_median: '14'
   top_level: true
   website: http://www.aoa.gov/AoARoot/Site_Utilities/FOIA/index.aspx
 - address:
@@ -53,98 +53,48 @@ departments:
   emails:
   - foia@acf.hhs.gov
   fax: 202-401-4829
-  foia_officer: 'Kimberly N. Epstein, Phone: (888) 747-1861'
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Adoption and foster care
-  - Child support
-  - Child welfare
-  - Computer technology
-  - Day care
-  - Dental health
-  - Education of disadvantaged
-  - Employment
-  - Grant programs
-  - Grant programs-social programs
-  - Health care
-  - Homeless
-  - Indians
-  - Individuals with disabilities
-  - Loan programs-social programs
-  - Manpower training programs
-  - Mental health programs
-  - Nutrition
-  - Penalties
-  - Public assistance programs
-  - Real property acquisition
-  - Reporting and recordkeeping requirements
-  - Technical assistance
-  - Transportation
-  - Unemployment compensation
-  - Vocational education
-  - Youth
   name: Administration for Children and Families
   phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   service_center: 'Phone: (888) 747-1861'
+  simple_average: '536'
+  simple_median: '488'
   top_level: false
   website: http://www.acf.hhs.gov/acf_foia.html
-- abbreviation: AHRQ
-  address:
+- address:
   - Carol Maloney
   - FOIA Officer
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
-  description: No Description
   emails:
   - FOIArequest@psc.hhs.gov
-  foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
   name: Agency for Healthcare Research and Quality
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (301) 492-4800'
+  simple_average: None
+  simple_median: None
   top_level: true
-  usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- abbreviation: CDC
-  address:
+- address:
   - Katherine Norris
   - FOIA Officer
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
-  description: No Description
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
-  foia_officer: 'Katherine Norris, Phone: (770) 488-6399'
-  keywords:
-  - Aliens
-  - Biologics
-  - Coal
-  - Grant programs-health
-  - Health care
-  - Health facilities
-  - Laboratories
-  - Medicaid
-  - Medicare
-  - Mine safety and health
-  - Packaging and containers
-  - Passports and visas
-  - Penalties
-  - Public health
-  - Reporting and recordkeeping requirements
-  - Transportation
   name: Centers for Disease Control and Prevention
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   service_center: 'Phone: (770) 488-6399'
+  simple_average: '90.21'
+  simple_median: '21'
   top_level: true
-  usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
   - Katherine Norris
@@ -155,92 +105,19 @@ departments:
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
-  foia_officer: 'Katherine Norris, Phone: (770) 488-6399'
   name: Agency for Toxic Substances and Disease Registry
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   service_center: 'Phone: (770) 488-6399'
   top_level: false
   website: http://www.cdc.gov/od/foia/index.htm
-- abbreviation: CMS
-  address:
+- address:
   - Michael Marquis
   - FOIA Officer
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
-  description: No Description
   fax: 410-786-0474
-  foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Advertising
-  - Advisory committees
-  - Aged
-  - Aid to Families with Dependent Children
-  - Brokers
-  - Child support
-  - Civil rights
-  - Claims
-  - Computer technology
-  - Consumer protection
-  - Drugs
-  - Education of disadvantaged
-  - Emergency medical services
-  - Employee benefit plans
-  - Excise taxes
-  - Family planning
-  - Fraud
-  - Freedom of information
-  - Grant programs
-  - Grant programs-health
-  - Grant programs-social programs
-  - Guam
-  - Health
-  - Health care
-  - Health facilities
-  - Health insurance
-  - Health maintenance organizations (HMO)
-  - Health professions
-  - Health records
-  - Hospice care
-  - Hospitals
-  - Indians
-  - Individuals with disabilities
-  - Intergovernmental relations
-  - Investigations
-  - Kidney diseases
-  - Laboratories
-  - Loan programs
-  - Loan programs-health
-  - Maternal and child health
-  - Medicaid
-  - Medical devices
-  - Medical research
-  - Medicare
-  - Nursing homes
-  - Nutrition
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Prescription drugs
-  - Privacy
-  - Public assistance programs
-  - Public health
-  - Puerto Rico
-  - Reporting and recordkeeping requirements
-  - Rural areas
-  - Safety
-  - Social security
-  - State and local governments
-  - Sunshine Act
-  - Supplemental Security Income (SSI)
-  - Technical assistance
-  - Virgin Islands
-  - Wages
-  - Women
-  - X-rays
-  - Youth
   name: Center for Medicare and Medicaid Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -248,10 +125,8 @@ departments:
   public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
   service_center: 'Phone: (410) 786-5353'
   top_level: true
-  usa_id: '49134'
   website: http://www.cms.gov/foia/
-- abbreviation: FDA
-  address:
+- address:
   - Frederick J. Sadler
   - Director, Division of Freedom of Information
   - Office of the Executive Secretariat
@@ -259,170 +134,41 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
-  description: No Description
   fax: 301-827-9267
-  keywords:
-  - Adhesives
-  - Administrative practice and procedure
-  - Advertising
-  - Advisory committees
-  - Animal drugs
-  - Animal feeds
-  - Animal foods
-  - Authority delegations (Government agencies)
-  - Beverages
-  - Biologics
-  - Blood
-  - Cancer
-  - Color additives
-  - Communicable diseases
-  - Computer technology
-  - Confidential business information
-  - Conflict of interests
-  - Consumer protection
-  - Cosmetics
-  - Courts
-  - Cream
-  - Dietary foods
-  - Drugs
-  - Eggs and egg products
-  - Electronic products
-  - Environmental impact statements
-  - Exports
-  - Fish
-  - Food additives
-  - Food grades and standards
-  - Food labeling
-  - Food packaging
-  - Foods
-  - Foreign relations
-  - Freedom of information
-  - Fruit juices
-  - Fruits
-  - Government employees
-  - HIV/AIDS
-  - Health
-  - Health care
-  - Health records
-  - Hospitals
-  - Human research subjects
-  - Immunization
-  - Imports
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Laboratories
-  - Medical devices
-  - Medical research
-  - Milk
-  - News media
-  - Nutrition
-  - Ophthalmic goods and services
-  - Organization and functions (Government agencies)
-  - Over-the-counter drugs
-  - Packaging and containers
-  - Penalties
-  - Prescription drugs
-  - Prisoners
-  - Privacy
-  - Public health
-  - Quarantine
-  - Radiation protection
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seafood
-  - Signs and symbols
-  - Smoking
-  - Spices and flavorings
-  - Surety bonds
-  - Television
-  - Tobacco
-  - Travel restrictions
-  - Warehouses
-  - Water supply
-  - X-rays
-  - Yogurt
-  misc:
-    ? 'Director, Division of Freedom of Information
-
-      Office of the Executive Secretariat
-
-      Office of the Commissioner'
-    : 'Frederick J. Sadler, Phone: (301) 796-3900'
   name: Food and Drug Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 301-796-3900
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   service_center: 'Phone: (301) 796-3900'
+  simple_average: '27.6'
+  simple_median: '9'
   top_level: true
-  usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
-- abbreviation: HRSA
-  address:
+- address:
   - Tom Flavin
   - FOIA Officer
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
-  description: No Description
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
-  foia_officer: 'Tom Flavin, Phone: (301) 443-3376'
-  keywords:
-  - Administrative practice and procedure
-  - Biologics
-  - Claims
-  - Communicable diseases
-  - Courts
-  - Drugs
-  - Fraud
-  - Grant programs-health
-  - HIV/AIDS
-  - Health
-  - Health care
-  - Health insurance
-  - Health professions
-  - Hospitals
-  - Immunization
-  - Insurance companies
-  - Maternal and child health
-  - Medical devices
-  - Public health
-  - Reporting and recordkeeping requirements
-  - Smallpox
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
   service_center: 'Phone: (301) 443-3376'
+  simple_average: '76'
+  simple_median: '64'
   top_level: true
-  usa_id: '49359'
   website: http://www.hrsa.gov/foia/
-- abbreviation: IHS
-  address:
+- address:
   - William Tibbits
   - FOIA Officer
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
-  description: No Description
   fax: 301-443-9879
-  foia_officer: 'William Tibbits, Phone: (301) 443-1116'
-  keywords:
-  - Administrative practice and procedure
-  - Buildings and facilities
-  - Claims
-  - Government contracts
-  - Government property management
-  - Grant programs-Indians
-  - Health
-  - Health care
-  - Health facilities
-  - Indians
-  - Indians-business and finance
-  - Medicare
-  - Reporting and recordkeeping requirements
   name: Indian Health Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -430,35 +176,26 @@ departments:
   public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   service_center: 'Phone: (301) 443-1116'
+  simple_average: '15'
+  simple_median: '10'
   top_level: true
-  usa_id: '49386'
   website: http://www.ihs.gov/AdminMngrResources/FOIA/index.cfm
-- abbreviation: NIH
-  address:
+- address:
   - Susan Cornell
   - FOIA Officer
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
-  description: No Description
   fax: 301-402-4541
-  foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
-  keywords:
-  - Animal welfare
-  - Education of disadvantaged
-  - Government contracts
-  - Grant programs-health
-  - Health professions
-  - Medical research
-  - Occupational safety and health
   name: National Institutes of Health
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 301-496-5633
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   service_center: 'Phone: (301) 496-5633'
+  simple_average: '15'
+  simple_median: '12'
   top_level: true
-  usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
   - Carol Maloney
@@ -468,7 +205,6 @@ departments:
   - Bethesda, MD 20857(if sending by courier use zc 20814)
   emails:
   - FOIArequest@psc.hhs.gov
-  foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
   name: Program Support Center
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
@@ -476,244 +212,24 @@ departments:
   service_center: 'Phone: (301) 492-4800'
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- abbreviation: SAMSHA
-  address:
+- address:
   - Jeanette Hite
   - FOIA Officer
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
-  description: No Description
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135
-  foia_officer: 'Jeanette Hite, Phone: (240) 276-2137'
-  keywords:
-  - Administrative practice and procedure
-  - Alcohol abuse
-  - Alcoholism
-  - Disaster assistance
-  - Drug abuse
-  - Emergency medical services
-  - Grant programs-health
-  - Health facilities
-  - Health professions
-  - Health records
-  - Mental health programs
-  - Methadone
-  - Privacy
-  - Reporting and recordkeeping requirements
   name: Substance Abuse and Mental Health Services Administration
   phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
   service_center: 'Phone: (240) 276-2137'
+  simple_average: '132'
+  simple_median: '100'
   top_level: true
-  usa_id: '49687'
   website: http://www.samhsa.gov/foia/
 description: The Department of Health and Human Services (HHS) is the United States
   government´s principal agency for protecting the health of all Americans and providing
   essential human services, especially for those who are least able to help themselves.
-keywords:
-- Accounting
-- Adhesives
-- Administrative practice and procedure
-- Adoption and foster care
-- Advertising
-- Advisory committees
-- Aged
-- Aid to Families with Dependent Children
-- Airports
-- Alcohol abuse
-- Alcoholism
-- Aliens
-- Animal drugs
-- Animal feeds
-- Animal foods
-- Animal welfare
-- Animals
-- Archives and records
-- Authority delegations (Government agencies)
-- Beverages
-- Biologics
-- Black lung benefits
-- Blind
-- Blood
-- Blood diseases
-- Brokers
-- Buildings and facilities
-- Business and industry
-- Cancer
-- Child support
-- Child welfare
-- Civil rights
-- Claims
-- Coal
-- Colleges and universities
-- Color additives
-- Communicable diseases
-- Computer technology
-- Confidential business information
-- Conflict of interests
-- Consumer protection
-- Cosmetics
-- Courts
-- Cream
-- Cultural exchange programs
-- Day care
-- Dental health
-- Dietary foods
-- Disaster assistance
-- Drug abuse
-- Drugs
-- Education of disadvantaged
-- Eggs and egg products
-- Electronic products
-- Emergency medical services
-- Employee benefit plans
-- Employment
-- Environmental impact statements
-- Equal access to justice
-- Ethics
-- Excise taxes
-- Exports
-- Family planning
-- Fish
-- Food additives
-- Food grades and standards
-- Food labeling
-- Food packaging
-- Foods
-- Foreign relations
-- Fraud
-- Freedom of information
-- Fruit juices
-- Fruits
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-Indians
-- Grant programs-education
-- Grant programs-health
-- Grant programs-science and technology
-- Grant programs-social programs
-- Guam
-- HIV/AIDS
-- Harbors
-- Hazardous materials transportation
-- Hazardous substances
-- Health
-- Health care
-- Health facilities
-- Health insurance
-- Health maintenance organizations (HMO)
-- Health professions
-- Health records
-- Health statistics
-- Homeless
-- Hospice care
-- Hospitals
-- Hostages
-- Human research subjects
-- Immigration
-- Immunization
-- Imports
-- Indemnity payments
-- Indians
-- Indians-business and finance
-- Individuals with disabilities
-- Insurance companies
-- Intergovernmental relations
-- Investigations
-- Iraq
-- Kidney diseases
-- Kuwait
-- Labeling
-- Labor
-- Laboratories
-- Law enforcement
-- Lebanon
-- Libraries
-- Loan programs
-- Loan programs-health
-- Loan programs-social programs
-- Lung diseases
-- Manpower training programs
-- Maternal and child health
-- Medicaid
-- Medical and dental schools
-- Medical devices
-- Medical research
-- Medicare
-- Mental health programs
-- Methadone
-- Milk
-- Mine safety and health
-- Miners
-- News media
-- Nonprofit organizations
-- Nuclear materials
-- Nursing homes
-- Nutrition
-- Occupational safety and health
-- Ophthalmic goods and services
-- Organization and functions (Government agencies)
-- Over-the-counter drugs
-- Packaging and containers
-- Passports and visas
-- Penalties
-- Prescription drugs
-- Prisoners
-- Privacy
-- Public assistance programs
-- Public health
-- Puerto Rico
-- Quarantine
-- Radiation protection
-- Radioactive materials
-- Real property acquisition
-- Refugees
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Safety
-- Scholarships and fellowships
-- Science and technology
-- Scientists
-- Seafood
-- Seals and insignia
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- Smallpox
-- Smoking
-- Social security
-- Spices and flavorings
-- State and local governments
-- Student aid
-- Students
-- Sunshine Act
-- Supplemental Security Income (SSI)
-- Surety bonds
-- Taxes
-- Technical assistance
-- Television
-- Tobacco
-- Transportation
-- Travel restrictions
-- Unemployment compensation
-- Virgin Islands
-- Vocational education
-- Wages
-- Warehouses
-- Water supply
-- Whistleblowing
-- Women
-- Workers' compensation
-- X-rays
-- Yogurt
-- Youth
 name: Department of Health and Human Services
-usa_id: '49021'

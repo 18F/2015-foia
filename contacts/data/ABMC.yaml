@@ -12,6 +12,8 @@ departments:
   phone: 703-696-6897
   public_liaison: 'Michael G. Conley, Phone: (703) 696-6778'
   service_center: 'Phone: (703) 696-6897'
+  simple_average: '72'
+  simple_median: '11'
   top_level: false
   website: http://www.abmc.gov/other/foia.php
 description: "The American Battle Monuments Commission, established by the Congress\
@@ -22,4 +24,6 @@ keywords:
 - Freedom of information
 - Monuments and memorials
 name: American Battle Monuments Commission
+simple_average: '72'
+simple_median: '11'
 usa_id: '52584'

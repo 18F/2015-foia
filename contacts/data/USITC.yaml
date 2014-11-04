@@ -15,6 +15,8 @@ departments:
   public_liaison: 'Jacqueline N. Gross, Phone: (202) 205-1816'
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   service_center: 'Phone: (202) 205-2595'
+  simple_average: '10'
+  simple_median: '8'
   top_level: false
   website: http://www.usitc.gov/secretary/foia/index.htm
 description: The mission of the Commission is to (1) administer U.S. trade remedy
@@ -23,4 +25,6 @@ description: The mission of the Commission is to (1) administer U.S. trade remed
   of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
   Harmonized Tariff Schedule of the United States (HTS).
 name: United States International Trade Commission
+simple_average: '10'
+simple_median: '8'
 usa_id: '49712'

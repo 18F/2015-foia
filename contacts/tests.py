@@ -10,6 +10,7 @@ import layer_with_csv as layer
 import scraper
 import layer_with_usa_contacts as usa_layer
 
+import average_time_scaper
 
 class ScraperTests(TestCase):
 
@@ -575,3 +576,28 @@ class USALayerTests(TestCase):
         self.assertEqual(
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
+
+class AverageTimeScaperTests(TestCase):
+    def test_parse_table(self):
+        '''parses data tables from foia.gov'''
+        expected_data = {'Federal Retirement Thrift Investment Board_2012':
+            {'Complex-Lowest No. of Days': '0',
+            'Complex-Average No. of Days': '0',
+            'Expedited Processing-Highest No. of Days': '0',
+            'Component': 'FRTIB',
+            'Expedited Processing-Lowest No. of Days': '0',
+            'Simple-Lowest No. of Days': '1',
+            'Simple-Highest No. of Days': '57',
+            'Simple-Median No. of Days': '20', 'Agency': 'FRTIB',
+            'Complex-Highest No. of Days': '0',
+            'Simple-Average No. of Days': '27',
+            'Expedited Processing-Average No. of Days': '0',
+            'Expedited Processing-Median No. of Days': '0',
+            'Complex-Median No. of Days': '0', 'Year': '2012'}}
+
+        testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
+        params = {"advanceSearch":"71001.gt.-999999"}
+        params['requestYear'] = '2012'
+        params['agencyName'] = 'FRTIB'
+        data = average_time_scaper.parse_table(testurl,params,{})
+        self.assertEqual(expected_data,data)

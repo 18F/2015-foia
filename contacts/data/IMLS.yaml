@@ -14,6 +14,8 @@ departments:
   phone: 202-653-4630
   public_liaison: 'Mae Ridges, Phone: (202) 653-4642'
   service_center: 'Mae Ridges, Phone: (202) 653-4642'
+  simple_average: '8.9'
+  simple_median: '9'
   top_level: false
   website: http://www.imls.gov/about/freedom_of_information_act_foia.aspx
 description: The Institute of Museum and Library Services is the primary source of
@@ -21,4 +23,6 @@ description: The Institute of Museum and Library Services is the primary source 
   mission is to create strong libraries and museums that connect people to information
   and ideas.
 name: Institute of Museum and Library Services
+simple_average: '8.9'
+simple_median: '9'
 usa_id: '52626'

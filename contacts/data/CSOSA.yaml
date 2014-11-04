@@ -15,9 +15,13 @@ departments:
   public_liaison: 'Renee Barley, Phone: (202) 220-5300'
   request_form: http://www.csosa.gov/about/foia/foia-request-form.aspx
   service_center: 'Phone: (202) 220-5300'
+  simple_average: '14.56'
+  simple_median: '10'
   top_level: false
   website: http://www.csosa.gov/about/foia/overview.aspx
 description: CSOSA's mission is to increase public safety, prevent crime, reduce recidivism,
   and support the fair administration of justice in close collaboration with the community.
 name: Court Services and Offender Supervision Agency
+simple_average: '14.56'
+simple_median: '10'
 usa_id: '49191'

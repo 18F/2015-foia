@@ -13,6 +13,8 @@ departments:
   phone: 202-694-1650
   public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
   service_center: 'Candace Salley, Phone: (202) 694-1650'
+  simple_average: '16.3'
+  simple_median: '17'
   top_level: false
   website: http://www.fec.gov/press/foia.shtml
 description: In 1975, Congress created the Federal Election Commission (FEC) to administer
@@ -43,4 +45,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - Sunshine Act
 name: Federal Election Commission
+simple_average: '16.3'
+simple_median: '17'
 usa_id: '52607'

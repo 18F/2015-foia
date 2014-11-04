@@ -15,11 +15,12 @@ departments:
   emails:
   - ost.foia@dot.gov
   fax: 202-366-8536
-  foia_officer: 'Kathy Ray, Phone: (202) 366-5546'
   name: Office of the Secretary
   phone: 202-366-5546
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   service_center: 'Darlene Wallace, Phone: (202) 366-4542'
+  simple_average: '8'
+  simple_median: '13'
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
@@ -28,107 +29,24 @@ departments:
   - 7th Floor
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
-  emails:
-  - david.wonnenberg@dot.gov
   fax: 202-366-1975
-  foia_officer: 'Angel Simmons, Phone: (202) 366-6131'
   name: Office of the Inspector General
   phone: 202-366-6131
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
+  simple_average: '9.98'
+  simple_median: '9'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
-- abbreviation: FAA
-  address:
+- address:
   - FOIA Coordinator
   - National FOIA Staff (AFN-140)
   - 800 Independence Avenue, SW
   - Washington, DC 20591
-  description: No Description
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Afghanistan
-  - Agriculture
-  - Air carriers
-  - Air pollution control
-  - Air taxis
-  - Air traffic control
-  - Air traffic controllers
-  - Air transportation
-  - Aircraft
-  - Airmen
-  - Airports
-  - Airspace
-  - Alaska
-  - Alcohol abuse
-  - Alcoholism
-  - Armed forces
-  - Authority delegations (Government agencies)
-  - Aviation safety
-  - Canada
-  - Charter flights
-  - Claims
-  - Common carriers
-  - Confidential business information
-  - Consumer protection
-  - Cuba
-  - Drug abuse
-  - Drug testing
-  - Educational facilities
-  - Environmental protection
-  - Equal access to justice
-  - Ethiopia
-  - Exports
-  - Federal Aviation Administration
-  - Federal buildings and facilities
-  - Flammable materials
-  - Fraud
-  - Freight
-  - Freight forwarders
-  - Government contracts
-  - Government property
-  - Hazardous materials transportation
-  - Health
-  - Health professions
-  - Highway safety
-  - Imports
-  - Indemnity payments
-  - Insurance
-  - Investigations
-  - Iraq
-  - Law enforcement
-  - Law enforcement officers
-  - Lawyers
-  - Libya
-  - Mexico
-  - Motor carriers
-  - National defense
-  - National parks
-  - Navigation (air)
-  - Noise control
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Political candidates
-  - Puerto Rico
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Schools
-  - Security measures
-  - Signs and symbols
-  - Smoking
-  - Space transportation and exploration
-  - Students
-  - Teachers
-  - Transportation
-  - Weather
-  - Yugoslavia
-  misc:
-    FOIA Coordinator: 'Phone: (202) 267-9165'
   name: Federal Aviation Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -136,8 +54,9 @@ departments:
   public_liaison: 'Melanie Yohe, Phone: (202) 267-7799'
   request_form: http://www.faa.gov/foia/foia_request/
   service_center: 'Phone: (202) 267-9165'
+  simple_average: '17'
+  simple_median: '12'
   top_level: true
-  usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
   - Manizheh Boehm
@@ -148,63 +67,12 @@ departments:
   emails:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1380
-  keywords:
-  - Accounting
-  - Alcohol and alcoholic beverages
-  - Bonds
-  - Bridges
-  - Civil rights
-  - Claims
-  - Communications
-  - Communications equipment
-  - Electronic products
-  - Energy conservation
-  - Environmental impact statements
-  - Environmental protection
-  - Flood plains
-  - Government contracts
-  - Government procurement
-  - Grant programs
-  - Grant programs-transportation
-  - Highway safety
-  - Highways and roads
-  - Historic preservation
-  - Indians-lands
-  - Insurance
-  - Intergovernmental relations
-  - Intermodal transportation
-  - Investments
-  - Mass transportation
-  - Motor carriers
-  - Motor vehicles
-  - National forests
-  - National parks
-  - Noise control
-  - Public lands
-  - Radio
-  - Railroad safety
-  - Railroads
-  - Real property acquisition
-  - Relocation assistance
-  - Reporting and recordkeeping requirements
-  - Research
-  - Rights-of-way
-  - Safety
-  - Signs and symbols
-  - Soil conservation
-  - Taxes
-  - Traffic regulations
-  - Transportation
-  - Travel
-  - Travel restrictions
-  - Utilities
-  - Wildlife refuges
-  misc:
-    FOIA/PA Contact: 'Manizheh Boehm, Phone: (202) 366-9048'
   name: Federal Highway Administration
   phone: 202-366-9048
   public_liaison: 'Alla Shaw, Phone: (202) 366-1042'
   service_center: 'Phone: (202) 366-0948'
+  simple_average: '25'
+  simple_median: '15'
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
 - address:
@@ -216,50 +84,12 @@ departments:
   emails:
   - frafoia@dot.gov
   fax: 202-493-6068
-  keywords:
-  - Administrative practice and procedure
-  - Alcohol abuse
-  - Bridges
-  - Buildings and facilities
-  - Civil rights
-  - Communications
-  - Drug abuse
-  - Drug testing
-  - Environmental protection
-  - Fire prevention
-  - Freight
-  - Glass and glass products
-  - Grant programs-transportation
-  - Hazardous materials transportation
-  - Highway safety
-  - Highways and roads
-  - Investigations
-  - Investments
-  - Loan programs-transportation
-  - Motor carriers
-  - National Transportation Safety Board
-  - Noise control
-  - Occupational safety and health
-  - Penalties
-  - Radio
-  - Railroad employees
-  - Railroad safety
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Security measures
-  - Sex discrimination
-  - State and local governments
-  - Telephone
-  - Transportation
-  - Whistleblowing
-  misc:
-    FOIA/PA Contact, Office of the Chief Counsel: 'Denise Kollehlon, Phone: (202)
-      493-6039'
   name: Federal Railroad Administration
   phone: 202-493-6039
   public_liaison: 'Warren Flatau, Phone: (202) 493-6019'
   service_center: 'Phone: (202) 493-6065'
+  simple_average: '51'
+  simple_median: '31'
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
 - address:
@@ -271,43 +101,12 @@ departments:
   emails:
   - foia@fta.dot.gov
   fax: 202-366-7164
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Alcohol abuse
-  - Buses
-  - Disaster assistance
-  - Drug abuse
-  - Drug testing
-  - Energy conservation
-  - Environmental impact statements
-  - Environmental protection
-  - Freedom of information
-  - Government contracts
-  - Grant programs
-  - Grant programs-transportation
-  - Highway safety
-  - Highways and roads
-  - Historic preservation
-  - Investments
-  - Mass transportation
-  - Motor carriers
-  - Motor vehicle safety
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Public lands
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Transportation
-  - Uniform System of Accounts
-  - Wildlife refuges
-  misc:
-    FOIA/PA Contact: 'Nancy Sipes, Phone: (202) 366-4022'
   name: Federal Transit Administration
   phone: 202-366-4022
   public_liaison: 'David Longo, Phone: (202) 366-0608'
   service_center: 'Phone: (202) 366-2494'
+  simple_average: '23'
+  simple_median: '20'
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
 - address:
@@ -319,115 +118,28 @@ departments:
   emails:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
-  keywords:
-  - Administrative practice and procedure
-  - Advertising
-  - Aged
-  - Agricultural commodities
-  - Alcohol abuse
-  - Blind
-  - Brokers
-  - Buses
-  - Civil rights
-  - Claims
-  - Consumer protection
-  - Cooperatives
-  - Credit
-  - Drug abuse
-  - Drug testing
-  - Freight
-  - Freight forwarders
-  - Grant programs-transportation
-  - Hazardous materials transportation
-  - Highway safety
-  - Highways and roads
-  - Individuals with disabilities
-  - Insurance
-  - Intergovernmental relations
-  - Intermodal transportation
-  - Investigations
-  - Maritime carriers
-  - Mexico
-  - Migrant labor
-  - Motor carriers
-  - Motor vehicle safety
-  - Moving of household goods
-  - Noise control
-  - Occupational safety and health
-  - Parking
-  - Penalties
-  - Radioactive materials
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seafood
-  - Smoking
-  - Surety bonds
-  - Tires
-  - Transportation
-  misc:
-    FOIA/PA Contact (MC-MMI): 'Tiffanie C. Coleman, Phone: (202) 366-2960'
   name: Federal Motor Carrier Safety Administration
   phone: 202-366-2960
   public_liaison: 'Duane DeBruyne, Phone: (202) 366-9999'
   service_center: 'Phone: (202) 366-2960'
+  simple_average: '48'
+  simple_median: '51'
   top_level: false
   website: http://www.fmcsa.dot.gov/Foia/Index.htm
-- abbreviation: NHTSA
-  address:
+- address:
   - FOIA Contact
   - NHTSA Executive Secretariat
   - W41-304
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
-  description: No Description
-  emails:
-  - http://www.nhtsa.gov/FOIA
-  - greg.walter@dot.gov
   fax: 202-366-3820
-  keywords:
-  - Administrative practice and procedure
-  - Air pollution control
-  - Alcohol abuse
-  - Alcohol and alcoholic beverages
-  - Authority delegations (Government agencies)
-  - Confidential business information
-  - Consumer protection
-  - Crime
-  - Drug abuse
-  - Electric power
-  - Energy conservation
-  - Environmental protection
-  - Freedom of information
-  - Fuel economy
-  - Gasoline
-  - Grant programs
-  - Grant programs-transportation
-  - Highway safety
-  - Imports
-  - Insurance
-  - Insurance companies
-  - Intergovernmental relations
-  - Labeling
-  - Motor vehicle pollution
-  - Motor vehicle safety
-  - Motor vehicles
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Reporting and recordkeeping requirements
-  - Research
-  - Rubber and rubber products
-  - Telecommunications
-  - Tires
-  - Transportation
-  - Vessels
-  misc:
-    NHTSA Executive Secretariat: 'FOIA Contact, Phone: (202) 366-1834'
   name: National Highway Traffic Safety Administration
   phone: 202-366-1834
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
   service_center: 'Phone: (202) 366-1834'
+  simple_average: '20'
+  simple_median: '18'
   top_level: true
-  usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
 - address:
   - T. Mitchell Hudson, Jr.
@@ -438,37 +150,12 @@ departments:
   emails:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
-  foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
-  keywords:
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Claims
-  - Classified information
-  - Common carriers
-  - Courts
-  - Equal access to justice
-  - Exports
-  - Freedom of information
-  - Freight
-  - Freight forwarders
-  - Government employees
-  - Insurance
-  - Intermodal transportation
-  - Investigations
-  - Lawyers
-  - Maritime carriers
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Seals and insignia
-  - Sunshine Act
-  - Surety bonds
-  - Transportation
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
   service_center: 'Phone: (202) 366-2666'
+  simple_average: '127.9'
+  simple_median: '23.5'
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
@@ -480,55 +167,12 @@ departments:
   emails:
   - Marilyn.Burke@dot.gov
   fax: 202-336-7041
-  foia_officer: 'Vacant, Phone: (202) 366-6119'
-  keywords:
-  - Administrative practice and procedure
-  - Air carriers
-  - Alcohol abuse
-  - Authority delegations (Government agencies)
-  - Carbon dioxide
-  - Disaster assistance
-  - Drug abuse
-  - Drug testing
-  - Education
-  - Environmental protection
-  - Exports
-  - Fire prevention
-  - Grant programs
-  - Grant programs-Indians
-  - Grant programs-environmental protection
-  - Grant programs-transportation
-  - Hazardous materials transportation
-  - Hazardous substances
-  - Hazardous waste
-  - Highway safety
-  - Imports
-  - Indians
-  - Intermodal transportation
-  - Labeling
-  - Maritime carriers
-  - Motor carriers
-  - Motor vehicle safety
-  - Natural gas
-  - Oil pollution
-  - Organization and functions (Government agencies)
-  - Packaging and containers
-  - Penalties
-  - Petroleum
-  - Pipeline safety
-  - Pipelines
-  - Radioactive materials
-  - Railroad safety
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Security measures
-  - Transportation
-  - Uranium
-  - Water pollution control
   name: Pipeline and Hazardous Materials Safety Administration
   phone: 202-366-6119
   public_liaison: 'Patricia Klinger, Phone: (202) 366-4831'
   service_center: 'Phone: (202) 366-4400'
+  simple_average: '19'
+  simple_median: '6'
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
@@ -539,59 +183,29 @@ departments:
   emails:
   - foia.request@sls.dot.gov
   fax: 315-764-3235
-  keywords:
-  - Hazardous materials transportation
-  - Navigation (water)
-  - Penalties
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Vessels
-  - Waterways
-  misc:
-    FOIA/PA Contact: 'Carrie Lavigne, Phone: (315) 764-3210'
   name: Saint Lawrence Seaway Development Corporation
   phone: 315-764-3210
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   service_center: 'Phone: (315) 764-3275'
+  simple_average: '14'
+  simple_median: '12'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
-- abbreviation: STB
-  address:
+- address:
   - Marilyn R. Levitt
   - FOIA/Privacy Act Officer
   - 395 E Street, SW
   - Washington, DC 20423-0001
-  description: No Description
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
-  keywords:
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Bankruptcy
-  - Brokers
-  - Common carriers
-  - Communications
-  - Confidential business information
-  - Freedom of information
-  - Freight
-  - Freight forwarders
-  - Investigations
-  - Maritime carriers
-  - Motor carriers
-  - Organization and functions (Government agencies)
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Statistics
-  - Uniform System of Accounts
-  misc:
-    FOIA/Privacy Act Officer: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   name: Surface Transportation Board
   phone: 202-245-0269
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
+  simple_average: '6'
+  simple_median: '4'
   top_level: false
-  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
 description: The Department's mission is to serve the United States by ensuring a
   fast, safe, efficient, accessible and convenient transportation system that meets
@@ -600,266 +214,11 @@ description: The Department's mission is to serve the United States by ensuring 
 emails:
 - ost.foia@dot.gov
 fax: 202-366-8536
-keywords:
-- Accounting
-- Administrative practice and procedure
-- Advertising
-- Advisory committees
-- Afghanistan
-- Aged
-- Agricultural commodities
-- Agriculture
-- Air carriers
-- Air pollution control
-- Air rates and fares
-- Air taxis
-- Air traffic control
-- Air traffic controllers
-- Air transportation
-- Aircraft
-- Airmen
-- Airports
-- Airspace
-- Alaska
-- Alcohol abuse
-- Alcohol and alcoholic beverages
-- Alcoholism
-- Anchorage grounds
-- Antitrust
-- Archives and records
-- Armed forces
-- Authority delegations (Government agencies)
-- Aviation safety
-- Bankruptcy
-- Blind
-- Bonds
-- Bridges
-- Brokers
-- Buildings and facilities
-- Buses
-- Business and industry
-- Canada
-- Carbon dioxide
-- Cargo vessels
-- Charter flights
-- Citizenship and naturalization
-- Civil rights
-- Claims
-- Code of Federal Regulations
-- Colleges and universities
-- Common carriers
-- Communications
-- Communications equipment
-- Concessions
-- Confidential business information
-- Conflict of interests
-- Consumer protection
-- Continental shelf
-- Cooperatives
-- Credit
-- Crime
-- Cuba
-- Defense Department
-- Disability benefits
-- Disaster assistance
-- Drug abuse
-- Drug testing
-- Drugs
-- Education
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electronic products
-- Employment
-- Endangered and threatened species
-- Energy conservation
-- Environmental impact statements
-- Environmental protection
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Ethics
-- Ethiopia
-- Exports
-- Federal Aviation Administration
-- Federal buildings and facilities
-- Fire prevention
-- Fishing vessels
-- Flammable materials
-- Flood plains
-- Foreign relations
-- Fraud
-- Freedom of information
-- Freight
-- Freight forwarders
-- Fuel economy
-- Gases
-- Gasoline
-- Glass and glass products
-- Government contracts
-- Government employees
-- Government procurement
-- Government property
-- Government property management
-- Government publications
-- Grant programs
-- Grant programs-Indians
-- Grant programs-education
-- Grant programs-environmental protection
-- Grant programs-social programs
-- Grant programs-transportation
-- Grant programs-veterans
-- Great Lakes
-- Harbors
-- Hazardous materials transportation
-- Hazardous substances
-- Hazardous waste
-- Health
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Highway safety
-- Highways and roads
-- Historic preservation
-- Hostages
-- Human research subjects
-- Imports
-- Income taxes
-- Indemnity payments
-- Indians
-- Indians-lands
-- Individuals with disabilities
-- Insurance
-- Insurance companies
-- Intergovernmental relations
-- Intermodal transportation
-- Investigations
-- Investments
-- Iraq
-- Kuwait
-- Labeling
-- Laboratories
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Lebanon
-- Libya
-- Loan programs
-- Loan programs-education
-- Loan programs-transportation
-- Loan programs-veterans
-- Manpower training programs
-- Manufactured homes
-- Marine mammals
-- Marine safety
-- Maritime carriers
-- Mass transportation
-- Mexico
-- Migrant labor
-- Military personnel
-- Minority businesses
-- Mortgages
-- Motor carriers
-- Motor vehicle pollution
-- Motor vehicle safety
-- Motor vehicles
-- Moving of household goods
-- National Transportation Safety Board
-- National defense
-- National forests
-- National parks
-- Natural gas
-- Navigation (air)
-- Navigation (water)
-- Noise control
-- Nuclear vessels
-- Occupational safety and health
-- Oceanographic research vessels
-- Oil and gas exploration
-- Oil pollution
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Packaging and containers
-- Parking
-- Passenger vessels
-- Penalties
-- Petroleum
-- Pipeline safety
-- Pipelines
-- Political candidates
-- Privacy
-- Public lands
-- Puerto Rico
-- Radiation protection
-- Radio
-- Radioactive materials
-- Railroad employees
-- Railroad safety
-- Railroads
-- Real property acquisition
-- Religious discrimination
-- Relocation assistance
-- Reporting and recordkeeping requirements
-- Research
-- Rights-of-way
-- Rubber and rubber products
-- Safety
-- Schools
-- Seafood
-- Seamen
-- Security measures
-- Sewage disposal
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- Smoking
-- Soil conservation
-- Space transportation and exploration
-- State and local governments
-- Statistics
-- Strategic and critical materials
-- Student aid
-- Students
-- Surety bonds
-- Taxes
-- Teachers
-- Telecommunications
-- Telephone
-- Terrorism
-- Time
-- Tires
-- Traffic regulations
-- Transportation
-- Transportation Department
-- Travel
-- Travel and transportation expenses
-- Travel restrictions
-- Treaties
-- Trusts and trustees
-- Truth in lending
-- Uniform System of Accounts
-- Uranium
-- Utilities
-- Vessels
-- Veterans
-- Vocational education
-- Vocational rehabilitation
-- Volunteers
-- Wages
-- Water pollution control
-- Waterways
-- Weather
-- Whistleblowing
-- Wildlife refuges
-- Women
-- Yugoslavia
 name: Department of Transportation
 phone: 202-366-4542
 public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
 service_center: 'Phone: (202) 366-4542'
+simple_average: '24.88'
+simple_median: '14'
 top_level: false
-usa_id: '49035'
 website: http://www.dot.gov/foia/

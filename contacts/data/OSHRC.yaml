@@ -11,6 +11,8 @@ departments:
   phone: 202-606-5700
   public_liaison: 'Lyndsey Frushour, Phone: (202) 606-5700'
   service_center: 'Phone: (202) 606-5700'
+  simple_average: '9.8'
+  simple_median: '7.5'
   top_level: false
   website: http://www.oshrc.gov/foia/foia.html
 description: The mission of the Occupational Safety and Health Review Commission is
@@ -31,4 +33,6 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Occupational Safety and Health Review Commission
+simple_average: '9.8'
+simple_median: '7.5'
 usa_id: '49577'

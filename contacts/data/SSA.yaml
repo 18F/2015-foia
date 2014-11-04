@@ -16,6 +16,8 @@ departments:
   public_liaison: 'Dawn S. Wiggins, Phone: (410) 965-1727'
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
   service_center: 'Rhonda Smith, Phone: (410) 966-4034'
+  simple_average: '17'
+  simple_median: '18'
   top_level: false
   website: http://www.ssa.gov/foia/
 description: The Social Security Administration's mission is to deliver Social Security
@@ -84,4 +86,6 @@ keywords:
 - Vocational rehabilitation
 - Wages
 name: Social Security Administration
+simple_average: '17'
+simple_median: '18'
 usa_id: '49057'

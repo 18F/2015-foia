@@ -14,6 +14,8 @@ departments:
   phone: 202-261-7619
   public_liaison: 'Chris Warner, Phone: (202) 261-7619'
   service_center: 'Phone: (202) 261-7619'
+  simple_average: '4'
+  simple_median: '5'
   top_level: false
   website: http://www.csb.gov/disclaimers/legal-affairs-foia/
 description: The CSB is an independent federal agency charged with investigating industrial
@@ -29,4 +31,6 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Chemical Safety and Hazard Investigation Board
+simple_average: '4'
+simple_median: '5'
 usa_id: '52591'

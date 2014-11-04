@@ -57,6 +57,8 @@ departments:
   phone: 202-491-9439
   public_liaison: 'Sean Burns, Phone: (202) 491-9439'
   service_center: 'Phone: (202) 491-9439'
+  simple_average: '46.56'
+  simple_median: '22'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -76,6 +78,8 @@ departments:
   phone: 215-823-4146
   public_liaison: 'Timothy Graham, Phone: (215) 823-4146'
   service_center: 'Phone: (215) 823-4146'
+  simple_average: '15.88'
+  simple_median: '5'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -275,6 +279,8 @@ departments:
   phone: 202-501-2827
   public_liaison: 'Nigel Collie, Phone: (202) 501-2827'
   service_center: 'Phone: (202) 501-2827'
+  simple_average: '19.11'
+  simple_median: '14'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -320,6 +326,8 @@ departments:
   phone: 202-461-5918
   public_liaison: 'Stephanie Way, Phone: (202) 461-5198'
   service_center: 'Phone: (202) 461-5198'
+  simple_average: '13'
+  simple_median: '13'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -400,6 +408,8 @@ departments:
   phone: 202-461-7717
   public_liaison: 'J. Thomas Burch, Jr., Phone: (202) 461-7717'
   service_center: 'Phone: (202) 461-7717'
+  simple_average: '56'
+  simple_median: '56'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -417,6 +427,8 @@ departments:
   phone: 202-461-4591
   public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
   service_center: 'Phone: (202) 461-4591'
+  simple_average: '20.61'
+  simple_median: '12'
   top_level: false
   website: http://www.foia.va.gov/
 - address:
@@ -434,6 +446,8 @@ departments:
   phone: 202-303-3260
   public_liaison: 'Karen Zhussanbay, Phone: (202) 303-3260 ext 5429'
   service_center: 'Phone: (202) 303-3260 ext 5429'
+  simple_average: '28.73'
+  simple_median: '17'
   top_level: false
   website: http://www.foia.va.gov/
 description: The Department's mission is to fulfill President Lincoln's promise "To
@@ -593,6 +607,8 @@ name: Department of Veterans Affairs
 phone: 202-632-7465
 public_liaison: 'Phone: (202) 632-7600'
 service_center: 'Phone: (202) 632-7600'
+simple_average: '16.71'
+simple_median: '5'
 top_level: false
 usa_id: '48027'
 website: http://www.foia.va.gov/

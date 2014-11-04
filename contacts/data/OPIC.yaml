@@ -13,6 +13,8 @@ departments:
   phone: 202-336-8400
   public_liaison: 'Nichole Cadiente, Phone: (202) 336-8400'
   service_center: 'Phone: (202) 336-8400'
+  simple_average: '21.68'
+  simple_median: '5'
   top_level: false
   website: http://www.opic.gov/publications/foia
 description: The Overseas Private Investment Corporation's (OPIC) mission is to solve
@@ -26,4 +28,6 @@ keywords:
 - Government employees
 - Privacy
 name: Overseas Private Investment Corporation
+simple_average: '21.68'
+simple_median: '5'
 usa_id: '52651'
