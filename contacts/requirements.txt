@@ -3,7 +3,7 @@ pyyaml
 requests
 requests_cache
 xlrd
-
 flake8
 mock
 nose
+lxml

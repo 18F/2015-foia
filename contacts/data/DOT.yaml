@@ -20,8 +20,8 @@ departments:
   phone: 202-366-5546
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   service_center: 'Darlene Wallace, Phone: (202) 366-4542'
-  simple_average: '8'
-  simple_median: '13'
+  simple_average: '16'
+  simple_median: '16'
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
@@ -39,8 +39,8 @@ departments:
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
 - abbreviation: FAA

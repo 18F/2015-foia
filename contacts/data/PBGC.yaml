@@ -15,8 +15,8 @@ departments:
   phone: 202-326-4040
   public_liaison: 'Michelle Y. Chase, Phone: (202) 326-4040'
   service_center: 'Phone: (202) 326-4040'
-  simple_average: '0'
-  simple_median: '0'
+  simple_average: NA
+  simple_median: NA
   top_level: false
   website: http://www.pbgc.gov/about/foia.html
 description: The Pension Benefit Guaranty Corporation protects the retirement incomes
@@ -43,6 +43,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - Small businesses
 name: Pension Benefit Guaranty Corporation
-simple_average: '0'
-simple_median: '0'
+simple_average: NA
+simple_median: NA
 usa_id: '49052'

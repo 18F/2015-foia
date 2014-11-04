@@ -15,8 +15,8 @@ departments:
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
   service_center: 'Phone: (202) 358-2562'
-  simple_average: '34.85'
-  simple_median: '16'
+  simple_average: '5.42'
+  simple_median: '4'
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
@@ -195,8 +195,8 @@ departments:
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
   service_center: 'Phone: (202) 358-2582'
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:

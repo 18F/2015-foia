@@ -34,8 +34,8 @@ departments:
   phone: 202-693-4877
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: 'Phone: (202) 693-4877'
-  simple_average: '0'
-  simple_median: '0'
+  simple_average: NA
+  simple_median: NA
   top_level: true
   usa_id: '49121'
   website: http://www.dol.gov/ilab/
@@ -400,8 +400,8 @@ departments:
   name: Office of the Inspector General
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
   service_center: ''
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
 - abbreviation: OSHA

@@ -447,8 +447,8 @@ departments:
   public_liaison: 'Phone: (202) 208-0954'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-0954'
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: http://www.doioig.gov/freedom-of-information-act
 - address:
@@ -523,8 +523,8 @@ departments:
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 513-0756'
-  simple_average: '8'
-  simple_median: '13'
+  simple_average: '16'
+  simple_median: '16'
   top_level: false
   website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
 - address:
@@ -543,8 +543,8 @@ departments:
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-6503'
-  simple_average: '35.6'
-  simple_median: '13'
+  simple_average: '139'
+  simple_median: '44'
   top_level: false
   website: http://www.doi.gov/foia/
 - address:

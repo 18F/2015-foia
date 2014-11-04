@@ -600,8 +600,8 @@ departments:
   phone: 202-616-0646
   public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
   service_center: 'Phone: (202) 616-0646'
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: http://www.justice.gov/oig/foia/
 - address:
@@ -750,8 +750,8 @@ departments:
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
-  simple_average: '0'
-  simple_median: '0'
+  simple_average: null
+  simple_median: null
   top_level: false
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
 - address:

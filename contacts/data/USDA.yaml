@@ -676,8 +676,8 @@ departments:
   phone: 202-720-0995
   public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
   service_center: 'Phone: (202) 720-1893'
-  simple_average: '65'
-  simple_median: '64'
+  simple_average: '7.33'
+  simple_median: '8'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -727,8 +727,8 @@ departments:
   public_liaison: 'Assistant General Counsel for General Law Division, Phone: (202)
     720-5565'
   service_center: 'Phone: (202) 720-5824'
-  simple_average: '56'
-  simple_median: '56'
+  simple_average: null
+  simple_median: null
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -744,8 +744,8 @@ departments:
   phone: 202-260-2657
   public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
   service_center: 'Phone: (202) 720-8164'
-  simple_average: '8'
-  simple_median: '13'
+  simple_average: '16'
+  simple_median: '16'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:

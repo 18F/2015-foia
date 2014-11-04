@@ -34,8 +34,8 @@ departments:
   phone: 202-218-7910
   public_liaison: ''
   service_center: 'Phone: (202) 218-7910'
-  simple_average: '56'
-  simple_median: '56'
+  simple_average: null
+  simple_median: null
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -160,8 +160,8 @@ departments:
   phone: 202-482-6700
   public_liaison: ''
   service_center: 'Phone: (202) 482-6700'
-  simple_average: None
-  simple_median: None
+  simple_average: null
+  simple_median: null
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
@@ -192,8 +192,8 @@ departments:
   phone: 202-218-7770
   public_liaison: ''
   service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
-  simple_average: '9.98'
-  simple_median: '9'
+  simple_average: '11.36'
+  simple_median: '9.5'
   top_level: false
   website: http://www.flra.gov/foia_contact
 description: The FLRA exercises leadership under the Statute to promote stable, constructive
