@@ -141,7 +141,10 @@ def find_bold_fields(ps):
         text = strong.string.replace(":", "").strip() if strong else ""
         lower = text.lower()
         if strong and text != "FOIA Contact":
-            value = strong.next_sibling.string
+            try:
+                value = strong.next_sibling.string
+            else:
+                value = p.next_sibling.string
             if value:
                 value = value.strip()
             yielded = False
