@@ -11,3 +11,9 @@ departments:
   top_level: true
 - name: United States Mint
   top_level: true
+- name: Alcohol and Tobacco Tax and Trade Bureau
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+- name: Comptroller of the Currency
+  request_form: https://foia-pal.occ.gov/palMain.aspx
+- name: Financial Crimes Enforcement Network
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx

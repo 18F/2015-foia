@@ -17,3 +17,7 @@ departments:
   top_level: true
 - name: Substance Abuse and Mental Health Services Administration
   top_level: true
+- name: Centers for Disease Control and Prevention
+  request_form: http://www.cdc.gov/od/foia/request/
+- name: Food and Drug Administration
+  request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
