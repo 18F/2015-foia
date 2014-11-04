@@ -93,7 +93,7 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 927-1024'
-  top_level: false
+  top_level: true
   usa_id: '49082'
   website: http://www.ttb.gov/foia/index.shtml
 - abbreviation: BEP
@@ -211,7 +211,7 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://foia-pal.occ.gov/palMain.aspx
   service_center: 'Phone: (202) 874-4700'
-  top_level: false
+  top_level: true
   usa_id: '48126'
   website: http://www.occ.gov/about/foia/index-foia.html
 - abbreviation: FINCEN
@@ -245,7 +245,7 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (703) 905-5034'
-  top_level: false
+  top_level: true
   website: http://www.fincen.gov/foia/
 - address:
   - Cynthia Sydnor/Denise Nelson

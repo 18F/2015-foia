@@ -144,7 +144,7 @@ departments:
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   request_form: http://www.cdc.gov/od/foia/request/
   service_center: 'Phone: (770) 488-6399'
-  top_level: false
+  top_level: true
   usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
@@ -357,7 +357,7 @@ departments:
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   service_center: 'Phone: (301) 796-3900'
-  top_level: false
+  top_level: true
   usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
 - abbreviation: HRSA

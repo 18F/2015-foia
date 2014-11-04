@@ -10,8 +10,7 @@ departments:
 - name: National Technical Information Service
   top_level: true
 - name: National Oceanic and Atmospheric Administration
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   top_level: true
 - name: U.S. Patent and Trademark Office
   top_level: true
-- name: National Oceanic and Atmospheric Administration
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home

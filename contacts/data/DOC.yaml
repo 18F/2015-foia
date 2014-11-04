@@ -355,7 +355,7 @@ departments:
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (301) 713-3540'
-  top_level: false
+  top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
