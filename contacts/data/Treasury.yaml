@@ -225,7 +225,10 @@ departments:
   - Disclosure (FOIA) Office
   - P.O. Box 39
   - Vienna, VA 22183
-  description: No Description
+  description: FinCEN’s mission is to safeguard the financial system from illicit
+    use and combat money laundering and promote national security through the collection,
+    analysis, and dissemination of financial intelligence and strategic use of financial
+    authorities.
   fax: 703-905-5126
   keywords:
   - Administrative practice and procedure
@@ -260,64 +263,32 @@ departments:
   - Washington, DC 20227
   fax: 202-874-2391
   keywords:
-  - Accounting
   - Administrative practice and procedure
-  - Aged
-  - Air traffic controllers
-  - Alcoholism
-  - Alimony
-  - Archives and records
   - Black lung benefits
-  - Blind
   - Bonds
-  - Cemeteries
   - Child support
-  - Child welfare
   - Claims
-  - Courts
   - Credit
-  - Crime
   - Disability benefits
-  - Drug abuse
   - Electronic funds transfers
   - Federal Reserve System
-  - Firefighters
-  - Flags
+  - Foreign banking
   - Forgery
   - Fraud
   - Freedom of information
-  - Government contracts
-  - Government employees
-  - Government property
   - Government securities
-  - Income taxes
-  - Insurance
-  - Insurance companies
+  - Grant programs
+  - Housing
   - Intergovernmental relations
-  - Inventions and patents
-  - Investigations
-  - Law enforcement officers
   - Loan programs
-  - Medicaid
-  - Parking
-  - Penalties
   - Privacy
   - Railroad retirement
   - Railroad unemployment insurance
   - Reporting and recordkeeping requirements
-  - Retirement
-  - Seals and insignia
   - Securities
-  - Security measures
-  - Social security
   - Supplemental Security Income (SSI)
   - Surety bonds
   - Taxes
-  - Travel and transportation expenses
-  - Treaties
-  - Unemployment compensation
-  - Veterans
-  - Vocational rehabilitation
   - Wages
   misc:
     Disclosure Officer: 'Cynthia Sydnor/Denise Nelson, Phone: (202) 874-5602'
@@ -722,4 +693,3 @@ keywords:
 - Youth
 - Yugoslavia
 name: Department of the Treasury
-usa_id: '49034'

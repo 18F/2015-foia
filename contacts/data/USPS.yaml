@@ -37,7 +37,10 @@ departments:
   - Room 3301
   - 475 L´Enfant Plaza, SW
   - Washington, DC 20260
-  description: No Description
+  description: The mission of the U.S. Postal Inspection Service is to support and
+    protect the U.S. Postal Service and its employees, infrastructure, and customers;
+    enforce the laws that defend the nation’s mail system from illegal or dangerous
+    use; and ensure public trust in the mail.
   fax: 202-268-4538
   misc:
     Office of Counsel: 'FOIA Contact, Phone: (202) 268-7004'
@@ -112,4 +115,3 @@ keywords:
 - State and local governments
 - Wages
 name: United States Postal Service
-usa_id: '49061'

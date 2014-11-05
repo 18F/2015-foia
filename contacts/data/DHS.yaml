@@ -37,11 +37,10 @@ departments:
   foia_officer: 'Jill Eggleston, Phone: (800) 375-5283 (USCIS National Customer Service
     Unit)'
   keywords:
-  - Authority delegations (Government agencies)
-  - Freedom of information
-  - Privacy
+  - Administrative practice and procedure
+  - Aliens
+  - Immigration
   - Reporting and recordkeeping requirements
-  - Surety bonds
   name: U.S. Citizenship & Immigration Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -467,32 +466,28 @@ departments:
   fax: 202-254-4398
   foia_officer: 'Stephanie Kuehn, Phone: (202) 254-4001'
   keywords:
-  - Accounting
   - Administrative practice and procedure
-  - Biologics
-  - Drugs
+  - Civil rights
+  - Computer technology
+  - Education of disadvantaged
   - Emergency medical services
   - Fraud
-  - Freedom of information
   - Grant programs-health
+  - Grant programs-social programs
+  - Health care
   - Health facilities
   - Health insurance
+  - Health maintenance organizations (HMO)
   - Health professions
+  - Health records
   - Hospitals
-  - Investigations
-  - Kidney diseases
   - Maternal and child health
   - Medicaid
-  - Medical devices
   - Medicare
-  - Packaging and containers
   - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
-  - Rural areas
   - Social security
-  - Transportation
-  - X-rays
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
@@ -678,5 +673,4 @@ public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'
 request_form: http://www.dhs.gov/make-foia-request
 service_center: 'Phone: (202) 343-1743, (866) 431-0486'
 top_level: false
-usa_id: '49022'
 website: http://www.dhs.gov/xfoia/editorial_0579.shtm

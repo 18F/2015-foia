@@ -1,5 +1,6 @@
 departments:
 - name: Administration for Community Living
+  description: "ACL brings together the efforts and achievements of the Administration on Aging, the Administration on Intellectual and Developmental Disabilities, and the HHS Office on Disability to serve as the Federal agency responsible for increasing access to community supports, while focusing attention and resources on the unique needs of older Americans and people with disabilities across the lifespan."
   top_level: true
 - name: Agency for Healthcare Research and Quality
   top_level: true
