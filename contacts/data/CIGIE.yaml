@@ -1,20 +1,10 @@
+abbreviation: CIGIE
 departments:
-- abbreviation: CIGIE
-  address:
+- address:
   - FOIA Contact
   - Suite 825
   - 1717 H Street, NW
   - Washington, DC 20006
-  description: 'The Council of the Inspectors General on Integrity and Efficiency
-    (CIGIE) was statutorily established as an independent entity within the executive
-    to:
-
-    ·address integrity, economy, and effectiveness issues that transcend individual
-    Government agencies; and
-
-    ·increase the professionalism and effectiveness of personnel by developing policies,
-    standards, and approaches to aid in the establishment of a well-trained and highly
-    skilled workforce in the offices of the Inspectors General.'
   emails:
   - FOIAStaff@cigie.gov
   fax: 202-254-0162
@@ -26,6 +16,15 @@ departments:
   phone: 202-292-2600
   service_center: 'Phone: (202) 708-1613'
   top_level: false
-  usa_id: '91390'
   website: http://www.ignet.gov/foia.html
+description: 'The Council of the Inspectors General on Integrity and Efficiency (CIGIE)
+  was statutorily established as an independent entity within the executive to:
+
+  ·address integrity, economy, and effectiveness issues that transcend individual
+  Government agencies; and
+
+  ·increase the professionalism and effectiveness of personnel by developing policies,
+  standards, and approaches to aid in the establishment of a well-trained and highly
+  skilled workforce in the offices of the Inspectors General.'
 name: Council of the Inspectors General on Integrity and Efficiency
+usa_id: '91390'

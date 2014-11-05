@@ -1,14 +1,11 @@
+abbreviation: PBGC
 departments:
-- abbreviation: PBGC
-  address:
+- address:
   - D. Camilla Perry
   - Disclosure Officer
   - Suite 11101
   - 1200 K Street, NW
   - Washington, DC 20005
-  description: The Pension Benefit Guaranty Corporation protects the retirement incomes
-    of more than 44 million American workers. Find out more about us, including how
-    we're governed, how we're organized, and the customers we serve.
   emails:
   - Chase.Michelle@pbgc.gov
   fax: 202-326-4042
@@ -20,8 +17,10 @@ departments:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 326-4040'
   top_level: false
-  usa_id: '49052'
   website: http://www.pbgc.gov/about/foia.html
+description: The Pension Benefit Guaranty Corporation protects the retirement incomes
+  of more than 44 million American workers. Find out more about us, including how
+  we're governed, how we're organized, and the customers we serve.
 keywords:
 - Administrative practice and procedure
 - Business and industry
@@ -43,3 +42,4 @@ keywords:
 - Reporting and recordkeeping requirements
 - Small businesses
 name: Pension Benefit Guaranty Corporation
+usa_id: '49052'

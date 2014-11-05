@@ -1,24 +1,24 @@
+abbreviation: USTR
 departments:
-- abbreviation: USTR
-  address:
+- address:
   - Jacqueline B. Caldwell
   - FOIA Officer
   - 1724 F Street, NW
   - Washington, DC 20508
-  description: The Office of the U.S. Trade Representative (USTR) is responsible for
-    developing and coordinating U.S. international trade, commodity, and direct investment
-    policy, and overseeing negotiations with other countries.
   fax: 202-395-9458
   name: Office of the United States Trade Representative
   phone: 202-395-3419
   public_liaison: 'Jacqueline B. Caldwell, Phone: (202) 395-3419'
   service_center: 'Phone: (202) 395-3419'
   top_level: false
-  usa_id: '49724'
   website: http://www.ustr.gov/about-us/reading-room/freedom-information-act-foia
+description: The Office of the U.S. Trade Representative (USTR) is responsible for
+  developing and coordinating U.S. international trade, commodity, and direct investment
+  policy, and overseeing negotiations with other countries.
 keywords:
 - Administrative practice and procedure
 - Confidential business information
 - Foreign trade
 - Imports
 name: Office of the United States Trade Representative
+usa_id: '49724'

@@ -88,26 +88,6 @@ def merge_data():
                     break
     return usacontacts
 
-def replace_description(yaml_data):
-    name = yaml_data['name']
-    for department in yaml_data['departments']:
-        if name == department['name']:
-            department['description'] = yaml_data['description']
-            break
-    return yaml_data
-
-
-def clean_yaml(yaml_data):
-    """ clean yaml file of ids, descriptions, and abbreviation"""
-    if 'usa_id' in yaml_data.keys():
-        del yaml_data['usa_id']
-    if 'abbreviation' in yaml_data.keys():
-        del yaml_data['abbreviation']
-    if 'description' in yaml_data.keys():
-        yaml_data = replace_description(yaml_data)
-        del yaml_data['description']
-    return yaml_data
-
 def update_dict(old_dict,new_dict):
     """merge the data in the yaml files with the merged data
     overwrites ids, acronyms, but not descriptions"""
@@ -139,8 +119,6 @@ def patch_yaml():
             if yaml_data['name'] in data.keys():
                 if yaml_data['name'] in \
                         extract_names(yaml_data['departments']):
-                    yaml_data = clean_yaml(yaml_data)
-                else:
                     yaml_data,data = update_dict(yaml_data,data)
         for internal_data in yaml_data['departments']:
             if internal_data['name'] in data:

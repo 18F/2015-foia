@@ -1,14 +1,11 @@
+abbreviation: AFRH
 departments:
-- abbreviation: AFRH
-  address:
+- address:
   - Pebbles P. Young
   - P.O. Box 2875
   - 3700 North Capitol Street NW
   - P.O. Box 2875
   - Washington, DC 20011
-  description: The mission of the Armed Forces Retirement Home is to fulfill our nation´s
-    commitment to its Veterans by providing a premier retirement community with exceptional
-    residential care and extensive support services.
   emails:
   - Pebbles.Young@AFRH.Gov
   fax: 202-541-7506
@@ -17,10 +14,13 @@ departments:
   public_liaison: 'Sheila Abarr, Phone: (202) 541-7550'
   service_center: 'Phone: (202) 541-7566'
   top_level: false
-  usa_id: '49093'
   website: https://www.afrh.gov/afrh/foia.htm
+description: The mission of the Armed Forces Retirement Home is to fulfill our nation´s
+  commitment to its Veterans by providing a premier retirement community with exceptional
+  residential care and extensive support services.
 keywords:
 - Armed forces
 - Environmental protection
 - Retirement
 name: Armed Forces Retirement Home
+usa_id: '49093'

@@ -1,12 +1,10 @@
+abbreviation: USADF
 departments:
-- abbreviation: USADF
-  address:
+- address:
   - June B. Brown
   - FOIA Contact, Associate General Counsel
   - 1400 Eye Street, NW
   - Washington, DC 20005-2248
-  description: USADF provides direct support to community organizations and enterprises
-    that benefit under served and marginalized communities in Africa.
   fax: 202-673-3810
   misc:
     FOIA Contact, Associate General Counsel: 'June B. Brown, Phone: (202) 673-3916'
@@ -15,8 +13,9 @@ departments:
   public_liaison: 'Phone: (202) 673-3916'
   service_center: 'Phone: (202) 673-3916'
   top_level: false
-  usa_id: '52581'
   website: http://www.adf.gov/OpenGovernment.html
+description: USADF provides direct support to community organizations and enterprises
+  that benefit under served and marginalized communities in Africa.
 keywords:
 - Administrative practice and procedure
 - Government employees
@@ -30,3 +29,4 @@ keywords:
 - Lebanon
 - Loan programs
 name: United States African Development Foundation
+usa_id: '52581'

@@ -1,14 +1,10 @@
+abbreviation: SBA
 departments:
-- abbreviation: SBA
-  address:
+- address:
   - Lisa Babcock
   - Chief, Office of FOI/PA
   - 409 3rd Street, SW
   - Washington, DC 20416
-  description: The U.S. Small Business Administration (SBA) was created in 1953 as
-    an independent agency of the federal government to aid, counsel, assist and protect
-    the interests of small business concerns, to preserve free competitive enterprise
-    and to maintain and strengthen the overall economy of our nation.
   emails:
   - foia@sba.gov
   fax: 202-205-7059
@@ -22,8 +18,11 @@ departments:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 401-8203'
   top_level: false
-  usa_id: '48139'
   website: http://archive.sba.gov/aboutsba/sbaprograms/foia/index.html
+description: The U.S. Small Business Administration (SBA) was created in 1953 as an
+  independent agency of the federal government to aid, counsel, assist and protect
+  the interests of small business concerns, to preserve free competitive enterprise
+  and to maintain and strengthen the overall economy of our nation.
 keywords:
 - Administrative practice and procedure
 - Aged
@@ -97,3 +96,4 @@ keywords:
 - Wages
 - Women
 name: Small Business Administration
+usa_id: '48139'

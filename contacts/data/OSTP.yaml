@@ -1,26 +1,25 @@
+abbreviation: OSTP
 common_requests:
 - Records on OSTP's scientific advice and correspondance.
 departments:
-- abbreviation: OSTP
-  address:
+- address:
   - Rachael Leonard
   - General Counsel
   - 1650 Pennsylvania, NW
   - Washington, DC 20504
-  description: The mission of the Office of Science and Technology Policy is threefold;
-    first, to provide the President and his senior staff with accurate, relevant,
-    and timely scientific and technical advice on all matters of consequence; second,
-    to ensure that the policies of the Executive Branch are informed by sound science;
-    and third, to ensure that the scientific and technical work of the Executive Branch
-    is properly coordinated so as to provide the greatest benefit to society.
   fax: 202-395-1224
   name: Office of Science and Technology Policy
   phone: 202-456-6125
   public_liaison: 'Rachael Leonard, Phone: (202) 456- 6125'
   service_center: 'Phone: (202) 456- 6125'
   top_level: false
-  usa_id: '49590'
   website: http://www.whitehouse.gov/administration/eop/ostp/library/compliance/foia
+description: The mission of the Office of Science and Technology Policy is threefold;
+  first, to provide the President and his senior staff with accurate, relevant, and
+  timely scientific and technical advice on all matters of consequence; second, to
+  ensure that the policies of the Executive Branch are informed by sound science;
+  and third, to ensure that the scientific and technical work of the Executive Branch
+  is properly coordinated so as to provide the greatest benefit to society.
 keywords:
 - Classified information
 - cto
@@ -28,3 +27,4 @@ keywords:
 name: Office of Science and Technology Policy
 no_records_about:
 - General White House correspondance or documents.
+usa_id: '49590'

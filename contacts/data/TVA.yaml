@@ -1,14 +1,11 @@
+abbreviation: TVA
 departments:
-- abbreviation: TVA
-  address:
+- address:
   - Denise Smith
   - TVA FOIA Officer
   - WT 7D
   - 400 West Summit Hill Drive WT 7C
   - Knoxville, TN 37902-1499
-  description: TVA has renewed its vision to help lead the Tennessee Valley region
-    and the nation toward a cleaner and more secure energy future, relying more on
-    nuclear power and energy efficiency and relying less on coal.
   emails:
   - foia@tva.gov
   fax: 865-632-6901
@@ -18,8 +15,10 @@ departments:
   public_liaison: 'Wilson Taylor, III, Phone: (865) 632-8133'
   service_center: 'Phone: (865) 632-6945'
   top_level: false
-  usa_id: '52660'
   website: http://www.tva.gov/foia/
+description: TVA has renewed its vision to help lead the Tennessee Valley region and
+  the nation toward a cleaner and more secure energy future, relying more on nuclear
+  power and energy efficiency and relying less on coal.
 keywords:
 - Administrative practice and procedure
 - Aged
@@ -62,3 +61,4 @@ keywords:
 - Water pollution control
 - Women
 name: Tennessee Valley Authority
+usa_id: '52660'

@@ -576,23 +576,6 @@ class USALayerTests(TestCase):
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
 
-    def test_clean_yaml(self):
-        '''clean dictionary from yaml file of ids, and
-        abbreviation'''
-
-        #  removes all three fields
-        yaml_data = {'name':'Deparment X', 'usa_id':"12345",
-            'abbreviation':'DX',
-            'other_data':'test data'}
-        self.assertEqual({'name':'Deparment X','other_data':'test data'},
-            usa_layer.clean_yaml(yaml_data))
-
-        #  won't break if it removes some or none
-        yaml_data = {'name':'Deparment X', 'usa_id':"12345",
-            'abbreviation':'DX','other_data':'test data'}
-        self.assertEqual({'name':'Deparment X','other_data':'test data'},
-            usa_layer.clean_yaml(yaml_data))
-
     def test_update_dict(self):
         '''updates the new dictionary with ids, abbreviation, description
         and forms, but will not overwrite any descriptions'''
@@ -612,16 +595,3 @@ class USALayerTests(TestCase):
             'usa_id':'2','abbreviation':'B'}
         old_data,new_data = usa_layer.update_dict(old_data,new_data)
         self.assertEqual(old_data_expected,old_data)
-
-    def replace_description(self):
-        '''moves upper-level descriptions to lower level'''
-
-        new_data = {'name':"DoS",'description':'blob of text',
-            'departments':[{'name':'DoS'}]}
-
-        expected_data = {'name':"DoS",'departments':[{'name':'DoS',
-            'description':'blob of text'}]}
-
-        self.assertEqual(expected_data,
-                usa_layer.replace_description(new_data))
-

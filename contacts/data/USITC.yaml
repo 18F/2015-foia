@@ -1,16 +1,11 @@
+abbreviation: USITC
 departments:
-- abbreviation: USITC
-  address:
+- address:
   - Lisa R. Barton
   - Chief FOIA Officer
   - 112-AA
   - 500 E Street, SW
   - Washington, DC 20436
-  description: The mission of the Commission is to (1) administer U.S. trade remedy
-    laws within its mandate in a fair and objective manner; (2) provide the President,
-    USTR, and Congress with independent analysis, information, and support on matters
-    of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
-    Harmonized Tariff Schedule of the United States (HTS).
   emails:
   - jackie.gross@usitc.gov
   fax: 202-205-2104
@@ -21,6 +16,11 @@ departments:
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   service_center: 'Phone: (202) 205-2595'
   top_level: false
-  usa_id: '49712'
   website: http://www.usitc.gov/secretary/foia/index.htm
+description: The mission of the Commission is to (1) administer U.S. trade remedy
+  laws within its mandate in a fair and objective manner; (2) provide the President,
+  USTR, and Congress with independent analysis, information, and support on matters
+  of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
+  Harmonized Tariff Schedule of the United States (HTS).
 name: United States International Trade Commission
+usa_id: '49712'

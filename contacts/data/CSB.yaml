@@ -1,14 +1,11 @@
+abbreviation: CSB
 departments:
-- abbreviation: CSB
-  address:
+- address:
   - Chris Warner
   - CSB FOIA Officer
   - Suite C-100
   - 2175 K Street, NW
   - Washington, DC 20037
-  description: The CSB is an independent federal agency charged with investigating
-    industrial chemical accidents. Headquartered in Washington, DC, the agency's board
-    members are appointed by the President and confirmed by the Senate.
   emails:
   - Chris.Kirkpatrick@csb.gov
   fax: 202-974-7619
@@ -18,8 +15,10 @@ departments:
   public_liaison: 'Chris Warner, Phone: (202) 261-7619'
   service_center: 'Phone: (202) 261-7619'
   top_level: false
-  usa_id: '52591'
   website: http://www.csb.gov/disclaimers/legal-affairs-foia/
+description: The CSB is an independent federal agency charged with investigating industrial
+  chemical accidents. Headquartered in Washington, DC, the agency's board members
+  are appointed by the President and confirmed by the Senate.
 keywords:
 - Administrative practice and procedure
 - Archives and records
@@ -30,3 +29,4 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Chemical Safety and Hazard Investigation Board
+usa_id: '52591'

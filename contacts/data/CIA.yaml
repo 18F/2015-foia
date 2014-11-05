@@ -1,20 +1,19 @@
+abbreviation: CIA
 departments:
-- abbreviation: CIA
-  address:
+- address:
   - Michele Meeks
   - Information and Privacy Coordinator
   - Central Intelligence Agency
   - Washington, DC 20505
-  description: The Central Intelligence Agency (CIA) is an independent US Government
-    agency responsible for providing national security intelligence to senior US policymakers.
   fax: 703-613-3007
   name: Central Intelligence Agency
   phone: 703-613-1287
   public_liaison: 'Scott Koch, Michele Meeks, Phone: (703) 613-1287'
   service_center: 'Phone: (703) 613-1287'
   top_level: false
-  usa_id: '52590'
   website: http://www.foia.cia.gov/
+description: The Central Intelligence Agency (CIA) is an independent US Government
+  agency responsible for providing national security intelligence to senior US policymakers.
 keywords:
 - Classified information
 - Freedom of information
@@ -22,3 +21,4 @@ keywords:
 - espionage
 - spies
 name: Central Intelligence Agency
+usa_id: '52590'

@@ -1,17 +1,10 @@
+abbreviation: FCSIC
 departments:
-- abbreviation: FCSIC
-  address:
+- address:
   - Jeffrey C. Pienta
   - Freedom of Information Officer
   - 1501 Farm Credit Drive
   - McLean, VA 22102-5090
-  description: The Farm Credit System Insurance Corporation (Corporation) is a Federal
-    government-controlled corporation established by the Agricultural Credit Act of
-    1987 (1987 Act). Congress created the Insurance Corporation to enhance the financial
-    integrity of the Farm Credit System (System). The Corporation insures the timely
-    payment of principal and interest on certain System notes, bonds, and other obligations
-    issued to investors and is administered by a board of directors who serve concurrently
-    as the Farm Credit Administration (FCA) Board.
   emails:
   - FOIAOfficer@fcsic.gov
   fax: 703-790-0052
@@ -22,10 +15,17 @@ departments:
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4020'
   service_center: 'Phone: (703) 883-4020'
   top_level: false
-  usa_id: '72913'
   website: http://www.fcsic.gov/FCSIC%20FOIA.html
+description: The Farm Credit System Insurance Corporation (Corporation) is a Federal
+  government-controlled corporation established by the Agricultural Credit Act of
+  1987 (1987 Act). Congress created the Insurance Corporation to enhance the financial
+  integrity of the Farm Credit System (System). The Corporation insures the timely
+  payment of principal and interest on certain System notes, bonds, and other obligations
+  issued to investors and is administered by a board of directors who serve concurrently
+  as the Farm Credit Administration (FCA) Board.
 keywords:
 - Insurance
 - Penalties
 - Reporting and recordkeeping requirements
 name: Farm Credit System Insurance Corporation
+usa_id: '72913'

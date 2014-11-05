@@ -1,21 +1,11 @@
+abbreviation: NCPC
 departments:
-- abbreviation: NCPC
-  address:
+- address:
   - Deborah Young
   - FOIA Contact
   - North Lobby, Suite 500
   - 401 9th Street, NW
   - Washington, DC 20004
-  description: 'NCPC protects and enhances the historic, cultural, and natural resources
-    of the national capital by
-
-    ·Creating and updating the Comprehensive Plan for the National Capital Region
-
-    ·Crafting long-range plans and planning policies
-
-    ·Reviewing a variety of federal and District of Columbia development projects
-
-    ·Producing the annual Federal Capital Improvements Program (FCIP)'
   emails:
   - Deborah.Young@ncpc.gov
   fax: 202-482-7272
@@ -26,8 +16,18 @@ departments:
   public_liaison: 'Deborah Young, Phone: (202)-482-7228'
   service_center: 'Marcella Brown, Phone: (202)-482-7227'
   top_level: false
-  usa_id: '52633'
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
+description: 'NCPC protects and enhances the historic, cultural, and natural resources
+  of the national capital by
+
+  ·Creating and updating the Comprehensive Plan for the National Capital Region
+
+  ·Crafting long-range plans and planning policies
+
+  ·Reviewing a variety of federal and District of Columbia development projects
+
+  ·Producing the annual Federal Capital Improvements Program (FCIP)'
 keywords:
 - Freedom of information
 name: National Capital Planning Commission
+usa_id: '52633'

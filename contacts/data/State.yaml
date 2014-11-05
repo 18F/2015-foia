@@ -1,16 +1,11 @@
+abbreviation: DOS
 departments:
-- abbreviation: DOS
-  address:
+- address:
   - John F. Hackett
   - Acting Director, Office of Information Programs and Services
   - Building SA-2
   - 515 22nd Street, NW
   - Washington, DC 20522-8100
-  description: The Department's mission is to advance freedom for the benefit of the
-    American people and the international community by helping to build and sustain
-    a more democratic, secure, and prosperous world composed of well-governed states
-    that respond to the needs of their people, reduce widespread poverty, and act
-    responsibly within the international system.
   fax: 202-261-8579
   misc:
     Acting Director, Office of Information Programs and Services: 'John F. Hackett,
@@ -21,7 +16,6 @@ departments:
   request_form: http://foia.state.gov/Request/Submit.aspx
   service_center: 'Phone: (202) 261-8484'
   top_level: false
-  usa_id: '49030'
   website: http://foia.state.gov/
 - address:
   - 'ATTN:  Zipora Bullard'
@@ -42,6 +36,11 @@ departments:
   service_center: 'Phone: (202) 261-8484'
   top_level: false
   website: http://www.oig.state.gov/foia/index.htm
+description: The Department's mission is to advance freedom for the benefit of the
+  American people and the international community by helping to build and sustain
+  a more democratic, secure, and prosperous world composed of well-governed states
+  that respond to the needs of their people, reduce widespread poverty, and act responsibly
+  within the international system.
 keywords:
 - Administrative practice and procedure
 - Adoption and foster care
@@ -121,3 +120,4 @@ keywords:
 - Wages
 - Women
 name: Department of State
+usa_id: '49030'

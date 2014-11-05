@@ -1,18 +1,9 @@
+abbreviation: DNI
 departments:
-- abbreviation: DNI
-  address:
+- address:
   - Jennifer Hudson
   - Director, Information Management Office
   - Washington , DC  20511
-  description: The Director of National Intelligence (DNI) serves as the head of the
-    Intelligence Community (IC), overseeing and directing the implementation of the
-    National Intelligence Program and acting as the principal advisor to the President,
-    the National Security Council, and the Homeland Security Council for intelligence
-    matters related to the national security. Working together with the Principal
-    Deputy DNI (PDDNI) and with the assistance of Mission Managers and four Deputy
-    Directors, the Office of the DNI's goal is to effectively integrate foreign, military
-    and domestic intelligence in defense of the homeland and of United States interests
-    abroad.
   emails:
   - dni-foia@dni.gov
   fax: 703-874-8910
@@ -23,6 +14,14 @@ departments:
   public_liaison: 'Jennifer Hudson, Phone: (703) 874-8500'
   service_center: 'Phone: (703) 874-8500'
   top_level: false
-  usa_id: '49595'
   website: http://www.dni.gov/foia.htm
+description: The Director of National Intelligence (DNI) serves as the head of the
+  Intelligence Community (IC), overseeing and directing the implementation of the
+  National Intelligence Program and acting as the principal advisor to the President,
+  the National Security Council, and the Homeland Security Council for intelligence
+  matters related to the national security. Working together with the Principal Deputy
+  DNI (PDDNI) and with the assistance of Mission Managers and four Deputy Directors,
+  the Office of the DNI's goal is to effectively integrate foreign, military and domestic
+  intelligence in defense of the homeland and of United States interests abroad.
 name: Office of the Director of National Intelligence
+usa_id: '49595'

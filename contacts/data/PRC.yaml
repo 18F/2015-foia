@@ -1,14 +1,11 @@
+abbreviation: PRC
 departments:
-- abbreviation: PRC
-  address:
+- address:
   - Ruth Ann Abrams
   - Assistant Secretary
   - Suite 200 West
   - 901 New York Avenue, NW
   - Washington, DC 20268
-  description: The mission of the Postal Regulatory Commission is to ensure transparency
-    and accountability for the United States Postal Service and foster a vital and
-    efficient universal mail system.
   fax: 202-789-6891
   misc:
     Assistant Secretary: 'Ruth Ann Abrams, Phone: (202) 789-6800'
@@ -18,8 +15,10 @@ departments:
   request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
   service_center: 'Phone: (202) 789-6800'
   top_level: false
-  usa_id: '49621'
   website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
+description: The mission of the Postal Regulatory Commission is to ensure transparency
+  and accountability for the United States Postal Service and foster a vital and efficient
+  universal mail system.
 keywords:
 - Administrative practice and procedure
 - Confidential business information
@@ -32,3 +31,4 @@ keywords:
 - Sunshine Act
 - Trademarks
 name: Postal Regulatory Commission
+usa_id: '49621'

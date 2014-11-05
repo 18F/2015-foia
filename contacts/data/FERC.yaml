@@ -1,13 +1,9 @@
+abbreviation: FERC
 departments:
-- abbreviation: FERC
-  address:
+- address:
   - FOIA Contact
   - 888 First Street, NE
   - Washington, DC 20426
-  description: The Federal Energy Regulatory Commission, or FERC, is an independent
-    agency that regulates the interstate transmission of electricity, natural gas,
-    and oil. FERC also reviews proposals to build liquefied natural gas (LNG) terminals
-    and interstate natural gas pipelines as well as licensing hydropower projects.
   emails:
   - foia-ceii@ferc.gov
   fax: 202-208-2106
@@ -19,8 +15,11 @@ departments:
   request_form: http://www.ferc.gov/legal/ceii-foia/foia/efoia.asp
   service_center: 'Phone: (202) 502-6088'
   top_level: false
-  usa_id: '52608'
   website: http://www.ferc.gov/legal/ceii-foia.asp
+description: The Federal Energy Regulatory Commission, or FERC, is an independent
+  agency that regulates the interstate transmission of electricity, natural gas, and
+  oil. FERC also reviews proposals to build liquefied natural gas (LNG) terminals
+  and interstate natural gas pipelines as well as licensing hydropower projects.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -64,3 +63,4 @@ keywords:
 - Water pollution control
 - Water resources
 name: Federal Energy Regulatory Commission
+usa_id: '52608'

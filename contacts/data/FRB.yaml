@@ -1,13 +1,10 @@
+abbreviation: FRB
 departments:
-- abbreviation: FRB
-  address:
+- address:
   - Jeanne McLaughlin
   - FOIA Manager
   - 20th & Constitution Avenue, NW
   - Washington, DC 20551
-  description: The Federal Reserve System is the central bank of the United States.
-    It was founded by Congress in 1913 to provide the nation with a safer, more flexible,
-    and more stable monetary and financial system.
   emails:
   - Alison.M.Thro@frb.gov
   fax: 202-872-7565
@@ -19,8 +16,10 @@ departments:
   request_form: http://www.federalreserve.gov/generalinfo/foia/EFOIA/EFOIAForm.cfm
   service_center: 'Phone: (202) 452-3648'
   top_level: false
-  usa_id: '49046'
   website: http://www.federalreserve.gov/generalinfo/foia/default.cfm
+description: The Federal Reserve System is the central bank of the United States.
+  It was founded by Congress in 1913 to provide the nation with a safer, more flexible,
+  and more stable monetary and financial system.
 keywords:
 - Accountants
 - Accounting
@@ -96,3 +95,4 @@ keywords:
 - United States investments abroad
 - Wages
 name: Federal Reserve System
+usa_id: '49046'

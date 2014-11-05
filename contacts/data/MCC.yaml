@@ -1,12 +1,10 @@
+abbreviation: MCC
 departments:
-- abbreviation: MCC
-  address:
+- address:
   - John Mantini
   - Chief FOIA Officer
   - 875 15th Street, NW
   - Washington, DC 20005
-  description: The Millennium Challenge Corporation (MCC) is an innovative and independent
-    U.S. foreign aid agency that is helping lead the fight against global poverty.
   emails:
   - foia@mcc.gov
   foia_officer: 'John Mantini, Phone: (202) 521-3863'
@@ -15,11 +13,13 @@ departments:
   public_liaison: 'John Mantini, Phone: (202) 521-3863'
   service_center: 'John Mantini, Phone: (202) 521-3863'
   top_level: false
-  usa_id: '49460'
   website: http://www.mcc.gov/pages/foia
+description: The Millennium Challenge Corporation (MCC) is an innovative and independent
+  U.S. foreign aid agency that is helping lead the fight against global poverty.
 keywords:
 - Administrative practice and procedure
 - Courts
 - Government employees
 - Organization and functions (Government agencies)
 name: Millennium Challenge Corporation
+usa_id: '49460'
