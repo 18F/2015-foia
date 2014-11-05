@@ -6,7 +6,6 @@ import os
 import json
 from glob import glob
 import re
-import csv
 import logging
 
 """ Update YAML files with usa_id, description, and acronyms. """
