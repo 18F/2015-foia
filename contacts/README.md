@@ -42,6 +42,17 @@ abbreviation as a parameter, and it will only process the data for that agency.
 Agency abbreviations are currently listed
 [here.](https://github.com/18F/foia/blob/master/contacts/scraper.py#L21)
 
+### average_time_scraper.py
+
+average_time_scraper.py crawls through request processing time reports
+on foia.gov and updates the yaml files with two attributes.
+```python
+simple_request_processing_time_mean_days
+simple_request_processing_time_median_days
+```
+Additionally, it creates "time.csv", which contains all data available on
+request processing times on foia.gov
+
 ## Data
 
 _**(Work-in-progress)**_
