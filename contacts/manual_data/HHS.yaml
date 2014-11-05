@@ -5,10 +5,12 @@ departments:
   top_level: true
 - name: Centers for Disease Control and Prevention
   top_level: true
+  request_form: http://www.cdc.gov/od/foia/request/
 - name: Center for Medicare and Medicaid Services
   top_level: true
 - name: Food and Drug Administration
   top_level: true
+  request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
 - name: Health Resources and Services Administration
   top_level: true
 - name: Indian Health Service

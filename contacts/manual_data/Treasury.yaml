@@ -1,11 +1,14 @@
 departments:
 - name: Alcohol and Tobacco Tax and Trade Bureau
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Bureau of Engraving and Printing
   top_level: true
 - name: Comptroller of the Currency
+  request_form: https://foia-pal.occ.gov/palMain.aspx
   top_level: true
 - name: Financial Crimes Enforcement Network
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Internal Revenue Service
   top_level: true
