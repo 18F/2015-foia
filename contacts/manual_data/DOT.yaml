@@ -3,3 +3,5 @@ departments:
   top_level: true
 - name: National Highway Traffic Safety Administration
   top_level: true
+- name: Surface Transportation Board
+  request_form: http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm

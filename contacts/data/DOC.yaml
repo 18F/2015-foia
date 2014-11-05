@@ -151,28 +151,15 @@ departments:
   foia_officer: 'Justin Guz, Phone: (202) 482-7937'
   keywords:
   - Administrative practice and procedure
-  - American Samoa
-  - Antidumping
+  - Australia
   - Business and industry
-  - Cheese
-  - Confidential business information
-  - Countervailing duties
+  - Canada
   - Customs duties and inspection
-  - Educational facilities
-  - Emergency powers
-  - Freedom of information
-  - Guam
   - Imports
   - Investigations
-  - Marketing quotas
-  - Nonprofit organizations
-  - Northern Mariana Islands
+  - Mexico
   - Reporting and recordkeeping requirements
-  - Scientific equipment
-  - Steel
-  - Textiles
-  - Virgin Islands
-  - Watches and jewelry
+  - Trade agreements
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
@@ -378,6 +365,7 @@ departments:
   name: National Oceanic and Atmospheric Administration
   phone: 301-713-3540
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (301) 713-3540'
   simple_request_processing_time_mean_days: '10'
   simple_request_processing_time_median_days: '9'

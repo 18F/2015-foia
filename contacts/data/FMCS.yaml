@@ -13,6 +13,7 @@ departments:
   name: Federal Mediation and Conciliation Service
   phone: 202-606-3737
   public_liaison: 'Michael J. Bartlett, Phone: (202) 606-3737'
+  request_form: https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436
   service_center: 'Mery Skolochenko, Phone: (202) 606-5444'
   simple_request_processing_time_mean_days: '3.5'
   simple_request_processing_time_median_days: '2'

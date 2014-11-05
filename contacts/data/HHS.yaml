@@ -152,6 +152,7 @@ departments:
   name: Centers for Disease Control and Prevention
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
+  request_form: http://www.cdc.gov/od/foia/request/
   service_center: 'Phone: (770) 488-6399'
   simple_request_processing_time_mean_days: '90.21'
   simple_request_processing_time_median_days: '21'
@@ -366,6 +367,7 @@ departments:
     visiting its website.
   phone: 301-796-3900
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
+  request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   service_center: 'Phone: (301) 796-3900'
   simple_request_processing_time_mean_days: '27.6'
   simple_request_processing_time_median_days: '9'
