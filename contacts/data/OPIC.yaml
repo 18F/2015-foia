@@ -1,10 +1,14 @@
-abbreviation: OPIC
 departments:
-- address:
+- abbreviation: OPIC
+  address:
   - Nichole Cadiente
   - FOIA Director
   - 1100 New York Avenue, NW
   - Washington, DC 20527
+  description: The Overseas Private Investment Corporation's (OPIC) mission is to
+    solve critical world challenges by catalyzing markets in developing nations. OPIC
+    accomplishes its mission by delivering finance innovations that help ambitious
+    U.S. businesses successfully enter, grow and compete in emerging markets.
   emails:
   - FOIA@opic.gov
   misc:
@@ -14,11 +18,8 @@ departments:
   public_liaison: 'Nichole Cadiente, Phone: (202) 336-8400'
   service_center: 'Phone: (202) 336-8400'
   top_level: false
+  usa_id: '52651'
   website: http://www.opic.gov/publications/foia
-description: The Overseas Private Investment Corporation's (OPIC) mission is to solve
-  critical world challenges by catalyzing markets in developing nations. OPIC accomplishes
-  its mission by delivering finance innovations that help ambitious U.S. businesses
-  successfully enter, grow and compete in emerging markets.
 keywords:
 - Administrative practice and procedure
 - Courts
@@ -26,4 +27,3 @@ keywords:
 - Government employees
 - Privacy
 name: Overseas Private Investment Corporation
-usa_id: '52651'

@@ -1,11 +1,14 @@
-abbreviation: FOMC
 departments:
-- address:
+- abbreviation: FOMC
+  address:
   - Matthew Luecke
   - FOMC FOIA Service Center Manager
   - Mail Stop 55
   - 20th & Constitution Avenue, NW
   - Washington, DC 20551
+  description: Monetary policy is made by the Federal Open Market Committee (FOMC),
+    which consists of the members of the Board of Governors of the Federal Reserve
+    System and five Reserve Bank presidents.
   fax: 202-452-2921
   name: Federal Open Market Committee
   phone: 202-452-2576
@@ -14,7 +17,4 @@ departments:
   service_center: 'Phone: (202) 452-2576'
   top_level: false
   website: http://www.federalreserve.gov/foia/fomc/about_fomcfoia.htm
-description: Monetary policy is made by the Federal Open Market Committee (FOMC),
-  which consists of the members of the Board of Governors of the Federal Reserve System
-  and five Reserve Bank presidents.
 name: Federal Open Market Committee

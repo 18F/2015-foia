@@ -1,11 +1,14 @@
-abbreviation: NLRB
 departments:
-- address:
+- abbreviation: NLRB
+  address:
   - Deirdre MacNeil
   - FOIA Officer
   - Room 10600
   - 1099 14th Street, NW
   - Washington, DC  20570
+  description: The National Labor Relations Board is an independent federal agency
+    that protects the rights of private sector employees to join together, with or
+    without a union, to improve their wages and working conditions.
   fax: 202-273-3642
   foia_officer: 'Eric G. Moskowitz, Phone: (202) 273-2931'
   name: National Labor Relations Board
@@ -16,10 +19,8 @@ departments:
   request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
   service_center: 'Phone: (202) 273-3843'
   top_level: false
+  usa_id: '49523'
   website: http://www.nlrb.gov/FOIA/
-description: The National Labor Relations Board is an independent federal agency that
-  protects the rights of private sector employees to join together, with or without
-  a union, to improve their wages and working conditions.
 keywords:
 - Administrative practice and procedure
 - Freedom of information
@@ -28,4 +29,3 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: National Labor Relations Board
-usa_id: '49523'

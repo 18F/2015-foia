@@ -1,11 +1,15 @@
-abbreviation: FMSHRC
 departments:
-- address:
+- abbreviation: FMSHRC
+  address:
   - Linda H. Ghosal
   - Chief FOIA Officer
   - Suite 520N
   - 1331 Pennsylvania, NW
   - Washington, DC 20004-1710
+  description: The Federal Mine Safety and Health Review Commission is an independent
+    adjudicative agency that provides administrative trial and appellate review of
+    legal disputes arising under the Federal Mine Safety and Health Amendments Act
+    of 1977 (Mine Act).
   emails:
   - foia@fmshrc.gov
   fax: 202-434-9944
@@ -15,11 +19,8 @@ departments:
   public_liaison: 'Emogene Johnson, Phone: (202) 434-9935'
   service_center: 'Phone: (202) 434-9935'
   top_level: false
+  usa_id: '52617'
   website: http://www.fmshrc.gov/foia
-description: The Federal Mine Safety and Health Review Commission is an independent
-  adjudicative agency that provides administrative trial and appellate review of legal
-  disputes arising under the Federal Mine Safety and Health Amendments Act of 1977
-  (Mine Act).
 keywords:
 - Administrative practice and procedure
 - Civil rights
@@ -36,4 +37,3 @@ keywords:
 - Sunshine Act
 - Whistleblowing
 name: Federal Mine Safety and Health Review Commission
-usa_id: '52617'

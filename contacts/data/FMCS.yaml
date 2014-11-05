@@ -1,10 +1,14 @@
-abbreviation: FMCS
 departments:
-- address:
+- abbreviation: FMCS
+  address:
   - Michael J. Bartlett
   - Deputy General Counsel
   - 2100 K Street, NW
   - Washington, DC 20427
+  description: The Agency helps build better relationships through joint problem-solving
+    and constructive responses to inevitable conflict. In turn, this improves the
+    ability of organizations to create value for customers, shareholders and employees
+    alike, and substantially benefits the national economy.
   emails:
   - foia@fmcs.gov
   fax: 202-606-5345
@@ -16,11 +20,8 @@ departments:
   request_form: https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436
   service_center: 'Mery Skolochenko, Phone: (202) 606-5444'
   top_level: false
+  usa_id: '49312'
   website: http://www.fmcs.gov/internet/itemDetailNoNav.asp?categoryID=90&itemID=16303
-description: The Agency helps build better relationships through joint problem-solving
-  and constructive responses to inevitable conflict. In turn, this improves the ability
-  of organizations to create value for customers, shareholders and employees alike,
-  and substantially benefits the national economy.
 keywords:
 - Administrative practice and procedure
 - Freedom of information
@@ -36,4 +37,3 @@ keywords:
 - Lebanon
 - Loan programs
 name: Federal Mediation and Conciliation Service
-usa_id: '49312'

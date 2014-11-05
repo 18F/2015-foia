@@ -27,7 +27,10 @@ departments:
   - Room S-5317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
-  description: No Description
+  description: The Bureau of International Labor Affairs works to improve working
+    conditions, raise living standards, protect workers’ ability to exercise their
+    rights, and address the workplace exploitation of children and other vulnerable
+    populations.
   emails:
   - ILABFOIA@dol.gov
   name: Bureau of International Labor Affairs
@@ -43,7 +46,8 @@ departments:
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
   - Washington, DC 20212-0001
-  description: No Description
+  description: The Bureau of Labor Statistics measures labor market activity, working
+    conditions, and price changes in the economy.
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
@@ -59,7 +63,8 @@ departments:
   - Public Disclosure Room, Suite N-1513
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
+  description: The EBSA provides information and assistance on private sector, employer-sponsored
+    retirement benefit and health benefit plans.
   emails:
   - foiarequest@dol.gov
   keywords:
@@ -111,7 +116,8 @@ departments:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
-  description: No Description
+  description: The Employment and Training Administration provides job training and
+    assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
   - Accounting
@@ -206,7 +212,9 @@ departments:
   - Room 2314
   - 1100 Wilson Boulevard
   - Arlington, VA 22209-3939
-  description: No Description
+  description: The Mine Safety and Health Administration works to prevent mining related
+    deaths, injuries, and illnesses through mine regulations, inspections, and training
+    programs.
   emails:
   - foiarequest@dol.gov
   fax: 202-963-9441
@@ -400,7 +408,9 @@ departments:
   - Room N3647
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
+  description: The Occupational Safety and Health Administration (OSHA) assures safe
+    and healthful working conditions for working men and women by setting and enforcing
+    standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
   - Administrative practice and procedure

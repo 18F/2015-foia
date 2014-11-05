@@ -1,11 +1,16 @@
-abbreviation: FCC
 departments:
-- address:
+- abbreviation: FCC
+  address:
   - Vanessa Lamb
   - FOIA Contact
   - Room 1-B135
   - 445 12th Street, SW
   - Washington, DC 20554
+  description: The Federal Communications Commission (FCC) is an independent United
+    States government agency. The FCC was established by the Communications Act of
+    1934 and is charged with regulating interstate and international communications
+    by radio, television, wire, satellite and cable. The FCC's jurisdiction covers
+    the 50 states, the District of Columbia, and U.S. possessions.
   emails:
   - FOIA@fcc.gov
   fax: 202-418-0521
@@ -17,12 +22,8 @@ departments:
   request_form: http://transition.fcc.gov/foia/#reqform
   service_center: 'Phone: (202) 418-0440, (202) 418-0212'
   top_level: false
+  usa_id: '49041'
   website: http://www.fcc.gov/foia/
-description: The Federal Communications Commission (FCC) is an independent United
-  States government agency. The FCC was established by the Communications Act of 1934
-  and is charged with regulating interstate and international communications by radio,
-  television, wire, satellite and cable. The FCC's jurisdiction covers the 50 states,
-  the District of Columbia, and U.S. possessions.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -105,4 +106,3 @@ keywords:
 - Weather
 - Wiretapping and electronic surveillance
 name: Federal Communications Commission
-usa_id: '49041'

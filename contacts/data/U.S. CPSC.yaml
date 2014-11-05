@@ -1,11 +1,14 @@
-abbreviation: CPSC
 departments:
-- address:
+- abbreviation: CPSC
+  address:
   - Alberta E. Mills
   - FOIA Officer
   - U.S. Consumer Product Safety Commission
   - 4330 East West Highway
   - Bethesda, MD 20814-4408
+  description: The U.S. Consumer Product Safety Commission is charged with protecting
+    the public from unreasonable risks of injury or death from thousands of types
+    of consumer products under the agency's jurisdiction.
   emails:
   - cpsc-foia@cpsc.gov
   fax: 301-504-0127
@@ -15,10 +18,8 @@ departments:
   public_liaison: 'Deborah Acosta, Phone: (301) 504-6890'
   service_center: 'Phone: (301) 504-7923'
   top_level: false
+  usa_id: '49013'
   website: http://www.cpsc.gov/en/Newsroom/FOIA/
-description: The U.S. Consumer Product Safety Commission is charged with protecting
-  the public from unreasonable risks of injury or death from thousands of types of
-  consumer products under the agency's jurisdiction.
 keywords:
 - Administrative practice and procedure
 - Business and industry
@@ -47,4 +48,3 @@ keywords:
 - Voluntary standards
 - Youth
 name: Consumer Product Safety Commission
-usa_id: '49013'

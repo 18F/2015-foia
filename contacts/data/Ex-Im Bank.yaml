@@ -1,10 +1,13 @@
-abbreviation: EXIM
 departments:
-- address:
+- abbreviation: EXIM
+  address:
   - Dawn R. Kral
   - FOIA Contact
   - 811 Vermont Avenue, NW
   - Washington, DC 20571
+  description: The Export-Import Bank of the United States (Ex-Im Bank) is the official
+    export credit agency of the United States. Ex-Im Bank's mission is to assist in
+    financing the export of U.S. goods and services to international markets.
   emails:
   - foia@exim.gov
   fax: 202-565-3294
@@ -16,10 +19,8 @@ departments:
   request_form: http://www.exim.gov/about/library/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 565-3248'
   top_level: false
+  usa_id: '52603'
   website: http://www.exim.gov/about/disclosure/foia.cfm
-description: The Export-Import Bank of the United States (Ex-Im Bank) is the official
-  export credit agency of the United States. Ex-Im Bank's mission is to assist in
-  financing the export of U.S. goods and services to international markets.
 keywords:
 - Administrative practice and procedure
 - Classified information
@@ -36,4 +37,3 @@ keywords:
 - Reporting and recordkeeping requirements
 - Sunshine Act
 name: Export-Import Bank of the U.S.
-usa_id: '52603'

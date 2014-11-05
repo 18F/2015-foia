@@ -1,11 +1,15 @@
-abbreviation: ABMC
 departments:
-- address:
+- abbreviation: ABMC
+  address:
   - Martha R. Sell
   - FOIA Assistant
   - Suite 500
   - 2300 Clarendon Boulevard
   - Arlington, VA 22201
+  description: "The American Battle Monuments Commission, established by the Congress\
+    \ in 1923, is an agency of the Executive Branch of the Federal Government. \n\n\
+    The Commission-guardian of America´s overseas commemorative cemeteries and memorials-honors\
+    \ the service, achievements and sacrifice of United States Armed Forces."
   misc:
     FOIA Assistant: 'Martha R. Sell, Phone: (703) 696-6897'
   name: American Battle Monuments Commission
@@ -13,13 +17,9 @@ departments:
   public_liaison: 'Michael G. Conley, Phone: (703) 696-6778'
   service_center: 'Phone: (703) 696-6897'
   top_level: false
+  usa_id: '52584'
   website: http://www.abmc.gov/other/foia.php
-description: "The American Battle Monuments Commission, established by the Congress\
-  \ in 1923, is an agency of the Executive Branch of the Federal Government. \n\n\
-  The Commission-guardian of America´s overseas commemorative cemeteries and memorials-honors\
-  \ the service, achievements and sacrifice of United States Armed Forces."
 keywords:
 - Freedom of information
 - Monuments and memorials
 name: American Battle Monuments Commission
-usa_id: '52584'

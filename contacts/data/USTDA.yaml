@@ -1,11 +1,16 @@
-abbreviation: USTDA
 departments:
-- address:
+- abbreviation: USTDA
+  address:
   - Anna Kastelas
   - FOIA Contact
   - Suite 1600
   - 1000 Wilson Boulevard
   - Arlington, VA 22209-3901
+  description: The U.S. Trade and Development Agency helps companies create U.S. jobs
+    through the export of U.S. goods and services for priority development projects
+    in emerging economies. USTDA links U.S. businesses to export opportunities by
+    funding project planning activities, pilot projects, and reverse trade missions
+    while creating sustainable infrastructure and economic growth in partner countries.
   fax: 703-875-4009
   misc:
     FOIA Contact: 'Anna Kastelas, Phone: (703) 875-4357'
@@ -14,11 +19,6 @@ departments:
   public_liaison: 'Anna Kastelas, Phone: (703) 875-4357'
   service_center: 'Phone: (703) 875-5578'
   top_level: false
+  usa_id: '49721'
   website: http://www.ustda.gov/pubs/foia/
-description: The U.S. Trade and Development Agency helps companies create U.S. jobs
-  through the export of U.S. goods and services for priority development projects
-  in emerging economies. USTDA links U.S. businesses to export opportunities by funding
-  project planning activities, pilot projects, and reverse trade missions while creating
-  sustainable infrastructure and economic growth in partner countries.
 name: United States Trade and Development Agency
-usa_id: '49721'

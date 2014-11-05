@@ -1,11 +1,14 @@
-abbreviation: CFTC
 departments:
-- address:
+- abbreviation: CFTC
+  address:
   - FOIA Contact
   - CFTC FOIA Compliance Office
   - Three Lafayette Centre,
   - 1155 21st Street, NW
   - Washington, DC 20581
+  description: Congress created the Commodity Futures Trading Commission (CFTC) in
+    1974 as an independent agency with the mandate to regulate commodity futures and
+    option markets in the United States.
   fax: 202-418-5524
   misc:
     CFTC FOIA Compliance Office: 'FOIA Contact, Phone: (202) 418-5497'
@@ -15,10 +18,8 @@ departments:
   request_form: https://www.cftc.gov/FOI/request/index.htm
   service_center: 'Phone: (202) 418-5497'
   top_level: false
+  usa_id: '48146'
   website: http://www.cftc.gov/FOI/index.htm
-description: Congress created the Commodity Futures Trading Commission (CFTC) in 1974
-  as an independent agency with the mandate to regulate commodity futures and option
-  markets in the United States.
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -69,4 +70,3 @@ keywords:
 - Trusts and trustees
 - Whistleblowing
 name: Commodity Futures Trading Commission
-usa_id: '48146'

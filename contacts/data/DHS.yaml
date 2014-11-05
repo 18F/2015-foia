@@ -29,7 +29,8 @@ departments:
   - National Records Center, FOIA/PA Office
   - P.O. Box 648010
   - Lee's Summit, MO 64064-8010
-  description: No Description
+  description: U.S. Citizenship and Immigration Services oversees immigration to the
+    United States.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
@@ -73,7 +74,8 @@ departments:
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
   - 2703 Martin Luther King Jr Ave
   - Washington, DC 20593-7710
-  description: No Description
+  description: The U.S. Coast Guard safeguards the maritime interests of the United
+    States and the environment around the world.
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
@@ -202,7 +204,8 @@ departments:
   - 90 K Street, NE
   - 9th Floor
   - Washington, DC 20229-1181
-  description: No Description
+  description: 'Customs and Border Protection prevents people from entering the country
+    illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
   foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
   keywords:
@@ -316,7 +319,9 @@ departments:
   - Room 840
   - 500 C Street, SW
   - Washington, DC 20472
-  description: No Description
+  description: FEMA supports citizens and emergency personnel to build, sustain, and
+    improve the nations capability to prepare for, protect against, respond to, recover
+    from, and mitigate all hazards.
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -403,7 +408,9 @@ departments:
   - FOIA Officer
   - 'Building #681, Suite 187B'
   - Glynco, GA 31524
-  description: No Description
+  description: The Federal Law Enforcement Training Center provides law enforcement
+    training for 91 federal agencies, several state, local, and tribal agencies, and
+    oversees or assists with training at serveral International Law Enforcement Academies.
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -423,7 +430,8 @@ departments:
   - Mail Stop 5009
   - 500 12th Street, SW
   - Washington, DC 20536-5009
-  description: No Description
+  description: Immigration and Customs Enforcement enforces federal laws governing
+    border control, customs, trade, and immigration.
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -556,7 +564,9 @@ departments:
   - Building 410
   - 245 Murray Drive
   - Washington, DC 20223
-  description: No Description
+  description: The Secret Service works to safeguard the nation's financial infrastructure.
+    The Secret Service is also responsible for protecting national leaders, visiting
+    heads of state, and National Special Security Events.
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586

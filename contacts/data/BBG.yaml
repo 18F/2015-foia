@@ -1,11 +1,15 @@
-abbreviation: BBG
 departments:
-- address:
+- abbreviation: BBG
+  address:
   - Andrew T. Krog
   - FOIA/Privacy Act Officer, BBG/FOIA/PA Unit
   - Room 3349
   - 330 Independence Avenue, SW
   - Washington, DC 20237
+  description: The Broadcasting Board of Governor's mission is to promote freedom
+    and democracy and to enhance understanding through multimedia communication of
+    accurate, objective, and balanced news, information, and other programming about
+    America and the world to audiences overseas.
   fax: 202-203-4585
   misc:
     FOIA/Privacy Act Officer, BBG/FOIA/PA Unit: 'Andrew T. Krog, Phone: (202) 203-4550'
@@ -14,11 +18,8 @@ departments:
   public_liaison: 'Andrew T. Krog, Phone: (202) 203-4550'
   service_center: 'Phone: (202) 203-4550'
   top_level: false
+  usa_id: '49109'
   website: http://www.bbg.gov/reports/foia/
-description: The Broadcasting Board of Governor's mission is to promote freedom and
-  democracy and to enhance understanding through multimedia communication of accurate,
-  objective, and balanced news, information, and other programming about America and
-  the world to audiences overseas.
 keywords:
 - Administrative practice and procedure
 - Foreign relations
@@ -30,4 +31,3 @@ keywords:
 - Sunshine Act
 - Television
 name: Broadcasting Board of Governors
-usa_id: '49109'

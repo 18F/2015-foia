@@ -1,10 +1,16 @@
-abbreviation: FTC
 departments:
-- address:
+- abbreviation: FTC
+  address:
   - Dione Stearns
   - Assistant General Counsel for Information & Legal Support
   - 600 Pennsylvania Avenue, NW H-585
   - Washington, DC 20580
+  description: The FTC pursues vigorous and effective law enforcement; advances consumers´
+    interests by sharing its expertise with federal and state legislatures and U.S.
+    and international government agencies; develops policy and research tools through
+    hearings, workshops, and conferences; and creates practical and plain-language
+    educational programs for consumers and businesses in a global marketplace with
+    constantly changing technologies.
   emails:
   - foia@ftc.gov
   fax: 202-326-2477
@@ -17,13 +23,8 @@ departments:
   public_liaison: 'Richard Gold, Phone: (202) 326-3355'
   request_form: https://www.ftc.gov/ftc/foia.htm
   top_level: false
+  usa_id: '49047'
   website: http://www.ftc.gov/foia/
-description: The FTC pursues vigorous and effective law enforcement; advances consumers´
-  interests by sharing its expertise with federal and state legislatures and U.S.
-  and international government agencies; develops policy and research tools through
-  hearings, workshops, and conferences; and creates practical and plain-language educational
-  programs for consumers and businesses in a global marketplace with constantly changing
-  technologies.
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -91,4 +92,3 @@ keywords:
 - Wages
 - Youth
 name: Federal Trade Commission
-usa_id: '49047'

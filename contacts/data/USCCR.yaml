@@ -1,11 +1,15 @@
-abbreviation: USCCR
 departments:
-- address:
+- abbreviation: USCCR
+  address:
   - Jennifer Cron Hepler
   - Attorney-Advisor
   - Suite 1150
   - 1331 Pennsylvania Ave, NW
   - Washington, DC 20425
+  description: The primary mission of the U.S. Commission on Civil Rights is to investigate
+    allegations relating to deprivations because of color, race, religion, sex, age,
+    disability, or national origin or as a result of any pattern or practice of fraud
+    of the right of citizens of the United States to vote and have votes counted.
   emails:
   - foia@usccr.gov
   fax: 202-376-1163
@@ -16,11 +20,8 @@ departments:
   public_liaison: 'Lenore Ostrowsky, Phone: (202) 376-8591'
   service_center: 'Phone: (202) 376-8351'
   top_level: false
+  usa_id: '48018'
   website: http://www.usccr.gov/foia/index.php
-description: The primary mission of the U.S. Commission on Civil Rights is to investigate
-  allegations relating to deprivations because of color, race, religion, sex, age,
-  disability, or national origin or as a result of any pattern or practice of fraud
-  of the right of citizens of the United States to vote and have votes counted.
 keywords:
 - Administrative practice and procedure
 - Advisory committees
@@ -36,4 +37,3 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Commission on Civil Rights
-usa_id: '48018'

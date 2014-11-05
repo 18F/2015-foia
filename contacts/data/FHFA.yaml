@@ -1,11 +1,15 @@
-abbreviation: FHFA
 departments:
-- address:
+- abbreviation: FHFA
+  address:
   - Stacy J. Easter
   - FOIA Officer
   - Constitution Center
   - 400 7th Street, SW
   - Washington, DC 20024
+  description: The FHFA provides effective supervision, regulation and housing mission
+    oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks to promote
+    their safety and soundness, support housing finance and affordable housing, and
+    support a stable and liquid mortgage market.
   emails:
   - FOIA@fhfa.gov
   fax: 202-649-1703
@@ -16,11 +20,8 @@ departments:
   request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
   service_center: 'Phone: (202) 649-3803'
   top_level: false
+  usa_id: '52611'
   website: http://www.fhfa.gov/Default.aspx?Page=12
-description: The FHFA provides effective supervision, regulation and housing mission
-  oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks to promote
-  their safety and soundness, support housing finance and affordable housing, and
-  support a stable and liquid mortgage market.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -52,4 +53,3 @@ keywords:
 - Trade practices
 - Wages
 name: Federal Housing Finance Agency
-usa_id: '52611'

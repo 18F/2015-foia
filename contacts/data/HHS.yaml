@@ -98,7 +98,9 @@ departments:
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
-  description: No Description
+  description: The Agency for Healthcare Research and Quality supports research to
+    improve the quality, safety, efficiency, and effectiveness of health care for
+    all Americans.
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
@@ -117,7 +119,10 @@ departments:
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
-  description: No Description
+  description: CDC collaborates to create the expertise, information, and tools that
+    people and communities need to protect their health through health promotion,
+    prevention of disease, injury and disability, and preparedness for new health
+    threats.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -170,7 +175,11 @@ departments:
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
-  description: No Description
+  description: The Medicare Service Center answers your questions about Medicare topics,
+    manages your orders of Medicare publications, provides detailed information about
+    the Medicare managed care plans in your area, shares Medicare health plan quality
+    and customer satisfaction information. Contact the Center to obtain the phone
+    number to your state Medicaid office.
   fax: 410-786-0474
   foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
   keywords:
@@ -260,7 +269,10 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
-  description: No Description
+  description: The FDA is responsible for protecting the public health by assuring
+    the safety, efficacy, and security of human and veterinary drugs, biological products,
+    medical devices, our nations food supply, cosmetics, and products that emit radiation.
+    The FDA also provides accurate, science-based health information to the public.
   fax: 301-827-9267
   keywords:
   - Adhesives
@@ -367,7 +379,8 @@ departments:
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
-  description: No Description
+  description: The Health Resources and Services Administration improves access to
+    healthcare for people who are uninsured, isolated, or medically vulnerable.
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
@@ -408,7 +421,8 @@ departments:
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
-  description: No Description
+  description: The Indian Health Service provides federal health services to American
+    Indians and Alaska Natives.
   fax: 301-443-9879
   foia_officer: 'William Tibbits, Phone: (301) 443-1116'
   keywords:
@@ -442,7 +456,8 @@ departments:
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
-  description: No Description
+  description: The National Institutes of Health (NIH) is the primary Federal agency
+    for conducting and supporting medical research.
   fax: 301-402-4541
   foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
   keywords:
@@ -485,7 +500,9 @@ departments:
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
-  description: No Description
+  description: Through grants and research, the Substance Abuse and Mental Health
+    Services Administration works to improve substance abuse and mental health treatment
+    services to those who are most in need of them.
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135

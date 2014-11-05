@@ -1,10 +1,15 @@
-abbreviation: FDIC
 departments:
-- address:
+- abbreviation: FDIC
+  address:
   - FOIA Contact
   - Legal Division, FOIA/PA Group
   - 550 17th Street, NW
   - Washington, DC 20429
+  description: "The Federal Deposit Insurance Corporation (FDIC) is an independent\
+    \ agency created by the Congress to maintain stability and public confidence in\
+    \ the nation's financial system by \ninsuring deposits, \nexamining and supervising\
+    \ financial institutions for safety and soundness and consumer protection, and\
+    \ \nmanaging receiverships."
   emails:
   - efoia@fdic.gov
   fax: 703-562-2797
@@ -16,12 +21,8 @@ departments:
   request_form: https://efoiarequest.fdic.gov/palMain.aspx?protocol=https
   service_center: 'Phone: (202) 898-7021'
   top_level: false
+  usa_id: '49043'
   website: http://www.fdic.gov/about/freedom/index.html
-description: "The Federal Deposit Insurance Corporation (FDIC) is an independent agency\
-  \ created by the Congress to maintain stability and public confidence in the nation's\
-  \ financial system by \ninsuring deposits, \nexamining and supervising financial\
-  \ institutions for safety and soundness and consumer protection, and \nmanaging\
-  \ receiverships."
 keywords:
 - Accountants
 - Accounting
@@ -97,4 +98,3 @@ keywords:
 - Wages
 - Women
 name: Federal Deposit Insurance Corporation
-usa_id: '49043'

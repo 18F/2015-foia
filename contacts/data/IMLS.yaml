@@ -1,11 +1,15 @@
-abbreviation: IMLS
 departments:
-- address:
+- abbreviation: IMLS
+  address:
   - Mamie Bittner
   - FOIA Officer
   - 9th Floor
   - 1800 M Street, NW
   - Washington, DC 20036-5802
+  description: The Institute of Museum and Library Services is the primary source
+    of federal support for the nation´s 123,000 libraries and 17,500 museums. The
+    Institute's mission is to create strong libraries and museums that connect people
+    to information and ideas.
   emails:
   - foia@imls.gov
   fax: 202-653-4625
@@ -16,10 +20,6 @@ departments:
   request_form: http://www.imls.gov/about/foia_request_form.aspx
   service_center: 'Mae Ridges, Phone: (202) 653-4642'
   top_level: false
+  usa_id: '52626'
   website: http://www.imls.gov/about/freedom_of_information_act_foia.aspx
-description: The Institute of Museum and Library Services is the primary source of
-  federal support for the nation´s 123,000 libraries and 17,500 museums. The Institute's
-  mission is to create strong libraries and museums that connect people to information
-  and ideas.
 name: Institute of Museum and Library Services
-usa_id: '52626'

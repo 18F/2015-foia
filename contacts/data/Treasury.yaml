@@ -27,7 +27,8 @@ departments:
   - Box 12
   - 1310 G Street, NW
   - Washington, DC 20220
-  description: No Description
+  description: The Alcohol and Tobacco Tax and Trade Bureau collects taxes and enforces
+    regulations on alcohol, tobacco, firearms, and ammunition.
   emails:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
@@ -103,7 +104,9 @@ departments:
   - 419 A
   - Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
   - Washington, DC 20228
-  description: No Description
+  description: The Bureau of Engraving and Printing produces United States currency
+    notes, operates as the nation's central bank, and serves to ensure that adequate
+    amounts of currency and coin are in circulation.
   fax: 202-874-2951
   keywords:
   - Currency
@@ -125,7 +128,9 @@ departments:
   - Suite 3-E218Mail Stop 6W-11
   - 400 7th Street, SW
   - Washington, DC 20219
-  description: No Description
+  description: The Office of the Comptroller of the Currency charters, regulates,
+    and supervises all national banks. It also supervises the Federal branches and
+    agencies of foreign banks.
   emails:
   - foia-pa@occ.treas.gov
   keywords:
@@ -410,7 +415,8 @@ departments:
   - 8th Floor
   - 801 9th Street, NW
   - Washington, DC 20220
-  description: No Description
+  description: The Mint produces the the coins that circulate throughout the US. They
+    also produce special edition coinage that can be purchased for coin collections.
   fax: 202-756-6153
   misc:
     FOIA Contact: 'Kathleen Saunders-Mitchell, Phone: (202) 354-4600'

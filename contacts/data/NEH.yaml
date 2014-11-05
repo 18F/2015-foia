@@ -1,11 +1,14 @@
-abbreviation: NEH
 departments:
-- address:
+- abbreviation: NEH
+  address:
   - Katherine Griffin
   - Principal FOIA Contact
   - 4th Floor
   - 400 7th Street SW
   - Washington, DC  20506
+  description: NEH is an independent grant-making agency of the United States government
+    dedicated to supporting research, education, preservation, and public programs
+    in the humanities.
   emails:
   - gencounsel@neh.gov
   - evoyatzis@neh.gov
@@ -18,9 +21,6 @@ departments:
   request_form: http://www.neh.gov/about/foia/submit-request-online
   service_center: 'Phone: (202) 606-8322'
   top_level: false
+  usa_id: '52636'
   website: http://www.neh.gov/whoweare/foiamain.html
-description: NEH is an independent grant-making agency of the United States government
-  dedicated to supporting research, education, preservation, and public programs in
-  the humanities.
 name: National Endowment for the Humanities
-usa_id: '52636'

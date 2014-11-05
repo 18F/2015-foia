@@ -1,11 +1,18 @@
-abbreviation: IBWC
 departments:
-- address:
+- abbreviation: IBWC
+  address:
   - Rebecca Rizzuti
   - FOIA Officer & Public Liaison
   - FOIA - Legal Office, Suite C100
   - 4171 N. Mesa
   - El Paso, TX 79902
+  description: 'The Comission''s mission is to provide binational solutions to issues
+    that arise during the application of United States ? Mexico
+
+    treaties regarding boundary demarcation, national ownership of waters, sanitation,
+    water quality,
+
+    and flood control in the border region.'
   emails:
   - rebecca.rizzuti@ibwc.gov
   fax: 915-440-0948
@@ -17,11 +24,4 @@ departments:
   service_center: 'Rebecca Rizzuti, Phone: (915) 832-4729'
   top_level: false
   website: http://www.ibwc.gov/Organization/FOIA.html
-description: 'The Comission''s mission is to provide binational solutions to issues
-  that arise during the application of United States ? Mexico
-
-  treaties regarding boundary demarcation, national ownership of waters, sanitation,
-  water quality,
-
-  and flood control in the border region.'
 name: United States International Boundary and Water Commission

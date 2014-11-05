@@ -1,22 +1,23 @@
-abbreviation: OSHRC
 departments:
-- address:
+- abbreviation: OSHRC
+  address:
   - FOIA Request - OSHRC
   - FOIA Requester Service Center
   - 9th Floor
   - 1120 20th Street, NW
   - Washington, DC  20036-3457
+  description: The mission of the Occupational Safety and Health Review Commission
+    is to provide fair and timely adjudication of workplace safety and health disputes
+    between the Department of Labor and employers. In doing this, the Commission plays
+    a vital role in encouraging safe and healthy workplaces for American workers.
   fax: 202-606-5417
   name: Occupational Safety and Health Review Commission
   phone: 202-606-5700
   public_liaison: 'Lyndsey Frushour, Phone: (202) 606-5700'
   service_center: 'Phone: (202) 606-5700'
   top_level: false
+  usa_id: '49577'
   website: http://www.oshrc.gov/foia/foia.html
-description: The mission of the Occupational Safety and Health Review Commission is
-  to provide fair and timely adjudication of workplace safety and health disputes
-  between the Department of Labor and employers. In doing this, the Commission plays
-  a vital role in encouraging safe and healthy workplaces for American workers.
 keywords:
 - Administrative practice and procedure
 - Archives and records
@@ -31,4 +32,3 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Occupational Safety and Health Review Commission
-usa_id: '49577'
