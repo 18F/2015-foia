@@ -30,8 +30,6 @@ departments:
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
   request_form: http://oig.hhs.gov/foia/submit.asp
   service_center: 'Phone: (202) 619-2541'
-  simple_request_processing_time_mean_days: '25'
-  simple_request_processing_time_median_days: '22'
   top_level: false
   website: http://oig.hhs.gov/foia/
 - abbreviation: ACL
@@ -115,8 +113,8 @@ departments:
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   service_center: 'Phone: (301) 492-4800'
-  simple_request_processing_time_mean_days: null
-  simple_request_processing_time_median_days: null
+  simple_request_processing_time_mean_days: NA
+  simple_request_processing_time_median_days: NA
   top_level: true
   usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home

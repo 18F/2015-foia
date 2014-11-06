@@ -39,8 +39,6 @@ departments:
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
-  simple_request_processing_time_mean_days: '25'
-  simple_request_processing_time_median_days: '22'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
 - abbreviation: FAA
@@ -457,30 +455,30 @@ departments:
   foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
   keywords:
   - Administrative practice and procedure
-  - Authority delegations (Government agencies)
+  - Citizenship and naturalization
   - Claims
-  - Classified information
-  - Common carriers
-  - Courts
-  - Equal access to justice
-  - Exports
-  - Freedom of information
+  - Disability benefits
+  - Fishing vessels
   - Freight
-  - Freight forwarders
-  - Government employees
-  - Insurance
-  - Intermodal transportation
-  - Investigations
-  - Lawyers
+  - Government contracts
+  - Grant programs-education
+  - Grant programs-transportation
+  - Highways and roads
+  - Income taxes
+  - Investments
+  - Loan programs-transportation
   - Maritime carriers
-  - Organization and functions (Government agencies)
+  - Mortgages
+  - National defense
+  - Passenger vessels
   - Penalties
-  - Privacy
+  - Railroads
   - Reporting and recordkeeping requirements
-  - Seals and insignia
-  - Sunshine Act
-  - Surety bonds
-  - Transportation
+  - Schools
+  - Seamen
+  - Trusts and trustees
+  - Uniform System of Accounts
+  - Vessels
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
@@ -613,8 +611,6 @@ departments:
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   request_form: http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
-  simple_request_processing_time_mean_days: '6'
-  simple_request_processing_time_median_days: '4'
   top_level: false
   usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html

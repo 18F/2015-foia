@@ -11,35 +11,31 @@ import requests
 
 def patch_yamls(data):
     """patches yaml files with average times"""
-    matches = 0
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-            print(yaml_data['name']+"_2013" + short_filename)
             if yaml_data['name']+"_2013" + short_filename in data.keys():
-                matches += 1
                 yaml_data['simple_request_processing_time_mean_days'] = \
                     data[yaml_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Average No. of Days')
+                        .get('Simple-Average No. of Days',"NA")
                 yaml_data['simple_request_processing_time_median_days'] = \
                     data[yaml_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Median No. of Days')
+                        .get('Simple-Median No. of Days',"NA")
+                del data[yaml_data['name']+"_2013" + short_filename]
 
         for internal_data in yaml_data['departments']:
             if internal_data['name']+"_2013" + short_filename in data:
-                matches += 1
                 internal_data['simple_request_processing_time_mean_days'] = \
                     data[internal_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Average No. of Days')
+                        .get('Simple-Average No. of Days',"NA")
                 internal_data['simple_request_processing_time_median_days'] = \
                     data[internal_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Median No. of Days')
+                        .get('Simple-Median No. of Days',"NA")
 
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
-    print(matches )
 
 
 def write_csv(data):

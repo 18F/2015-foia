@@ -36,11 +36,10 @@ departments:
   foia_officer: 'Jill Eggleston, Phone: (800) 375-5283 (USCIS National Customer Service
     Unit)'
   keywords:
-  - Authority delegations (Government agencies)
-  - Freedom of information
-  - Privacy
+  - Administrative practice and procedure
+  - Aliens
+  - Immigration
   - Reporting and recordkeeping requirements
-  - Surety bonds
   name: U.S. Citizenship & Immigration Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -79,115 +78,12 @@ departments:
   fax: 202-475-3927
   foia_officer: 'Gaston Brewer, Phone: (202) 475-3522'
   keywords:
-  - Administrative practice and procedure
-  - Advertising
-  - Air carriers
-  - Aircraft
-  - Airports
-  - Alaska
-  - Alcohol abuse
-  - Alcohol and alcoholic beverages
-  - Anchorage grounds
-  - Archives and records
-  - Armed forces
-  - Armed forces reserves
-  - Authority delegations (Government agencies)
-  - Aviation safety
-  - Benzene
-  - Bridges
-  - Business and industry
-  - Cargo vessels
-  - Citizenship and naturalization
-  - Civil rights
-  - Claims
-  - Code of Federal Regulations
-  - Colleges and universities
-  - Communications equipment
-  - Conflict of interests
-  - Continental shelf
-  - Defense Department
-  - Diving
-  - Drug abuse
-  - Drug testing
-  - Drugs
-  - Education
-  - Employment
-  - Endangered and threatened species
-  - Environmental protection
-  - Explosives
-  - Fire prevention
-  - Fishing vessels
-  - Foreign relations
-  - Freedom of information
-  - Freight
-  - Gases
-  - Government employees
-  - Government publications
-  - Grant programs-education
-  - Grant programs-veterans
-  - Great Lakes
   - Harbors
-  - Hazardous materials transportation
-  - Hazardous substances
-  - Health care
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Laboratories
-  - Law enforcement
-  - Law enforcement officers
-  - Loan programs-education
-  - Loan programs-veterans
-  - Manpower training programs
-  - Marine mammals
-  - Marine resources
   - Marine safety
-  - Maritime carriers
-  - Maritime security
-  - Measurement standards
-  - Military personnel
-  - Mortgages
-  - Motor carriers
-  - National Transportation Safety Board
-  - Natural gas
   - Navigation (water)
-  - Nuclear vessels
-  - Occupational safety and health
-  - Oceanographic research vessels
-  - Oil and gas exploration
-  - Oil pollution
-  - Organization and functions (Government agencies)
-  - Packaging and containers
-  - Passenger vessels
-  - Penalties
-  - Petroleum
-  - Radiation protection
-  - Radio
   - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Schools
-  - Seamen
   - Security measures
-  - Sewage disposal
-  - Signs and symbols
-  - Surety bonds
-  - Telecommunications
-  - Telephone
-  - Terrorism
-  - Transportation
-  - Travel and transportation expenses
-  - Treaties
-  - Vessels
-  - Veterans
-  - Vocational education
-  - Vocational rehabilitation
-  - Volunteers
-  - Wages
-  - Water pollution control
   - Waterways
-  - Whistleblowing
   name: U.S. Coast Guard
   phone: 202-475-3522
   public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
@@ -435,15 +331,12 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Aliens
-  - Authority delegations (Government agencies)
   - Employment
-  - Foreign officials
-  - Freedom of information
-  - Health professions
-  - Privacy
+  - Foreign relations
+  - Immigration
+  - Penalties
   - Reporting and recordkeeping requirements
-  - Students
-  - Surety bonds
+  - Treaties
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
@@ -667,7 +560,210 @@ emails:
 - foia@hq.dhs.gov
 fax: 202-343-4011
 keywords:
+- Accounting
+- Administrative practice and procedure
+- Advertising
+- Advisory committees
+- Aged
+- Air carriers
+- Air pollution control
+- Air traffic control
+- Air transportation
+- Aircraft
+- Airmen
+- Airports
+- Alaska
+- Alcohol abuse
+- Alcohol and alcoholic beverages
+- Aliens
+- American Samoa
+- Anchorage grounds
+- Antidumping
+- Archives and records
+- Armed forces
+- Armed forces reserves
+- Arms and munitions
+- Authority delegations (Government agencies)
+- Aviation safety
+- Benzene
+- Bonds
 - Bridges
+- Brokers
+- Business and industry
+- Canada
+- Cargo vessels
+- Caribbean Basin initiative
+- Cigars and cigarettes
+- Citizenship and naturalization
+- Civil rights
+- Claims
+- Classified information
+- Coastal zone
+- Coffee
+- Colleges and universities
+- Common carriers
+- Communications equipment
+- Computer technology
+- Confidential business information
+- Conflict of interests
+- Continental shelf
+- Cotton
+- Countervailing duties
+- Courts
+- Cuba
+- Cultural exchange programs
+- Customs duties and inspection
+- Defense Department
+- Disaster assistance
+- Diving
+- Drug abuse
+- Drug testing
+- Drug traffic control
+- Education
+- Electronic products
+- Employment
+- Endangered and threatened species
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Executive orders
+- Explosives
+- Exports
+- Federal buildings and facilities
+- Fire prevention
+- Fishing vessels
+- Flood insurance
+- Foreign currencies
+- Foreign officials
+- Foreign relations
+- Foreign trade zones
+- Fraud
+- Freedom of information
+- Freight
+- Freight forwarders
+- Fruit juices
+- Gases
+- Government contracts
+- Government employees
+- Government procurement
+- Government property management
+- Government publications
+- Grant programs
+- Grant programs-education
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Grant programs-veterans
+- Great Lakes
+- Guam
+- Harbors
+- Hazardous materials transportation
+- Hazardous substances
+- Health care
+- Health professions
+- Highways and roads
+- Housing
+- Immigration
+- Imports
+- Income taxes
+- Individuals with disabilities
+- Insurance
+- Intergovernmental relations
+- International organizations
+- Investigations
+- Kingman Reef
+- Labeling
+- Labor
+- Labor management relations
+- Labor unions
+- Laboratories
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Liquors
+- Loan programs
+- Loan programs-education
+- Loan programs-housing and community development
+- Loan programs-veterans
+- Lobbying
+- Lotteries
+- Manpower training programs
+- Marine mammals
+- Marine resources
+- Marine safety
+- Maritime carriers
+- Maritime security
+- Mass transportation
+- Measurement standards
+- Metals
+- Mexico
+- Midway Islands
+- Military personnel
+- Motor carriers
+- Motor vehicles
+- National Transportation Safety Board
+- Natural gas
+- Natural resources
+- Navigation (water)
+- Nuclear vessels
+- Occupational safety and health
+- Oceanographic research vessels
+- Oil and gas exploration
+- Oil imports
+- Oil pollution
+- Organization and functions (Government agencies)
+- Packaging and containers
+- Passenger vessels
+- Passports and visas
+- Penalties
+- Petroleum
+- Privacy
+- Puerto Rico
+- Radiation protection
+- Radio
+- Railroad safety
+- Railroads
+- Refugees
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Safety
+- Schools
+- Science and technology
+- Seals and insignia
+- Seamen
+- Search warrants
+- Security measures
+- Seizures and forfeitures
+- Sewage disposal
+- Sex discrimination
+- Signs and symbols
+- Small businesses
+- Students
+- Sugar
+- Surety bonds
+- Taxes
+- Telephone
+- Terrorism
+- Trade agreements
+- Trademarks
+- Transportation
+- Travel and transportation expenses
+- Travel restrictions
+- Treaties
+- Vessels
+- Veterans
+- Vocational education
+- Vocational rehabilitation
+- Volunteers
+- Wages
+- Wake Island
+- Warehouses
+- Water pollution control
+- Waterways
+- Wheat
+- Whistleblowing
+- Wine
+- Wool
 name: Department of Homeland Security
 phone: 202-343-1743
 public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'

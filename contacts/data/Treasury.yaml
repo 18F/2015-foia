@@ -18,8 +18,6 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 622-0930'
-  simple_request_processing_time_mean_days: '38'
-  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.treasury.gov/foia/Pages/index.aspx
 - abbreviation: TTB
@@ -95,8 +93,6 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 927-1024'
-  simple_request_processing_time_mean_days: '8.35'
-  simple_request_processing_time_median_days: '7'
   top_level: true
   usa_id: '49082'
   website: http://www.ttb.gov/foia/index.shtml
@@ -118,8 +114,6 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 874-2058'
-  simple_request_processing_time_mean_days: '7'
-  simple_request_processing_time_median_days: '3'
   top_level: true
   usa_id: '91587'
   website: http://www.bep.treas.gov/foia.html
@@ -251,8 +245,6 @@ departments:
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (703) 905-5034'
-  simple_request_processing_time_mean_days: '1'
-  simple_request_processing_time_median_days: '1'
   top_level: true
   website: http://www.fincen.gov/foia/
 - address:
@@ -426,8 +418,6 @@ departments:
   phone: 202-354-4600
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
   service_center: 'Phone: (202) 354-6788'
-  simple_request_processing_time_mean_days: '9.3'
-  simple_request_processing_time_median_days: '6'
   top_level: true
   usa_id: '48150'
   website: http://www.usmint.gov/FOIA/
@@ -447,8 +437,6 @@ departments:
   phone: 202-622-4068
   public_liaison: 'Amy P. Jones, Phone: (202) 622-4068'
   service_center: 'Phone: (202) 622-4068'
-  simple_request_processing_time_mean_days: '8'
-  simple_request_processing_time_median_days: '2'
   top_level: false
   website: http://www.treasury.gov/tigta/important_foia.shtml
 description: The Department's mission is to maintain a strong economy and create economic
@@ -728,6 +716,4 @@ keywords:
 - Youth
 - Yugoslavia
 name: Department of the Treasury
-simple_request_processing_time_mean_days: '15.68'
-simple_request_processing_time_median_days: '5'
 usa_id: '49034'

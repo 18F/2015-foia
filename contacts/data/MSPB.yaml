@@ -18,8 +18,6 @@ departments:
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
   request_form: https://foia.mspb.gov/
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
-  simple_request_processing_time_mean_days: '33.04'
-  simple_request_processing_time_median_days: '14'
   top_level: false
   website: http://www.mspb.gov/FOIA/foia.htm
 - address:
@@ -38,8 +36,6 @@ departments:
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
   request_form: https://foia.mspb.gov/
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
-  simple_request_processing_time_mean_days: '12'
-  simple_request_processing_time_median_days: '10'
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
@@ -112,8 +108,6 @@ departments:
   public_liaison: 'Crystal Wilson, Phone: (214) 767-0810 ext. 5100'
   request_form: https://foia.mspb.gov/
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
-  simple_request_processing_time_mean_days: '15'
-  simple_request_processing_time_median_days: '14'
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
