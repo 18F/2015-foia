@@ -117,7 +117,7 @@ def patch_yaml():
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
             if yaml_data['name'] in data.keys():
-                if yaml_data['name'] in \
+                if yaml_data['name'] not in \
                         extract_names(yaml_data['departments']):
                     yaml_data,data = update_dict(yaml_data,data)
         for internal_data in yaml_data['departments']:

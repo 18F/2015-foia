@@ -1,9 +1,16 @@
 abbreviation: CFPB
 departments:
-- address:
+- abbreviation: CFPB
+  address:
   - Chief FOIA Officer
   - 1700 G Street, NW
   - Washington, DC 20552
+  description: The Consumer Financial Protection Bureau ensures that financial products
+    and services work for consumers. The Bureau helps consumers by providing educational
+    materials and accepts complaints. They supervise banks, lenders, as well as large
+    non bank entities, such as credit reporting agencies and debt collection companies.
+    the Bureau also works to make credit card, mortgage, and other loan disclosures
+    clearer so consumers can understand their rights and responsibilities.
   emails:
   - foia@cfpb.gov
   fax: 855-329-3642
@@ -13,6 +20,7 @@ departments:
   public_liaison: 'Mark Vugrinovich, Phone: (202) 435-9499'
   service_center: 'Phone: (855) 444-3642'
   top_level: false
+  usa_id: '49113'
   website: http://www.consumerfinance.gov/foia/
 description: The central mission of the Consumer Financial Protection Bureau is to
   make markets for consumer financial products and services work for Americans - whether

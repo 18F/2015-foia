@@ -1,10 +1,16 @@
 abbreviation: SSS
 departments:
-- address:
+- abbreviation: SSS
+  address:
   - Paula A. Sweeney
   - FOIA Officer
   - National Headquarters
   - Arlington , VA 22209-2425
+  description: The Selective Service System is charged with providing the Department
+    of Defense trained and untrained personnel in the event of a national emergency.
+    Almost all male citizens and immigrants between the agees of 18-26 must register
+    with the Selective Service. The Selective Service also provides alternative service
+    options for concientious objectors.
   fax: 703-605-4106
   foia_officer: 'Paula A. Sweeney, Phone: (703) 605-4100'
   name: Selective Service System
@@ -12,6 +18,7 @@ departments:
   public_liaison: 'Richard Flahavan, Phone: (703) 605-4100'
   service_center: 'Phone: (703) 605-4100'
   top_level: false
+  usa_id: '52658'
   website: http://www.sss.gov/freedomhome.htm
 description: The statutory missions of Selective Service are to be prepared to provide
   trained and untrained personnel to the DoD in the event of a national emergency

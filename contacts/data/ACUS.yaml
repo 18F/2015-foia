@@ -1,11 +1,15 @@
 abbreviation: ACUS
 departments:
-- address:
+- abbreviation: ACUS
+  address:
   - Shawne McGibbon
   - FOIA Officer
   - Suite 706 South
   - 1120 20th Street, NW
   - Washington, DC 20036
+  description: 'The Administrative Conference of the United States is an independent
+    federal agency dedicated to improving federal agency administrative processes
+    and procedures. '
   emails:
   - dpritzker@acus.gov
   fax: 202-386-7190
@@ -16,6 +20,7 @@ departments:
   request_form: http://www.acus.gov/webform/foia-request
   service_center: 'Phone: (202) 480-2080'
   top_level: false
+  usa_id: '49068'
   website: http://www.acus.gov/foia/
 description: The Administrative Conference of the United States is an independent
   federal agency dedicated to improving the administrative process through consensus-driven

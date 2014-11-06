@@ -1,11 +1,16 @@
 abbreviation: SEC
 departments:
-- address:
+- abbreviation: SEC
+  address:
   - John Livornese
   - FOIA Officer, Office of FOIA Services
   - Mail Stop 2736
   - 100 F Street, NE
   - Washington, DC 20549-2736
+  description: The Securities and Exchange Commission oversees securities exchanges,
+    securities brokers and dealers, investment advisors, and mutual funds in an effort
+    to promote fair dealing, the disclosure of important market information, and to
+    prevent fraud.
   emails:
   - foiapa@sec.gov
   fax: 202-772-9337
@@ -17,6 +22,7 @@ departments:
   request_form: https://tts.sec.gov/cgi-bin/request_public_docs
   service_center: 'Phone: (202) 551-7900'
   top_level: false
+  usa_id: '49054'
   website: http://www.sec.gov/foia.shtml
 description: The mission of the U.S. Securities and Exchange Commission is to protect
   investors, maintain fair, orderly, and efficient markets, and facilitate capital

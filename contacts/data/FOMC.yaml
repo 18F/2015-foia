@@ -1,11 +1,13 @@
 abbreviation: FOMC
 departments:
-- address:
+- abbreviation: FOMC
+  address:
   - Matthew Luecke
   - FOMC FOIA Service Center Manager
   - Mail Stop 55
   - 20th & Constitution Avenue, NW
   - Washington, DC 20551
+  description: No Description
   fax: 202-452-2921
   name: Federal Open Market Committee
   phone: 202-452-2576

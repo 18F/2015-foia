@@ -1,11 +1,14 @@
 abbreviation: NMB
 departments:
-- address:
+- abbreviation: NMB
+  address:
   - Mary L. Johnson
   - General Counsel
   - Suite 250E
   - 1301 K Street, NW
   - Washington, DC  20005
+  description: The National Mediation Board facilitates the resolution of labor-management
+    disputes in the rail and airline industries.
   emails:
   - parker@nmb.gov
   fax: 202-692-5085
@@ -16,6 +19,7 @@ departments:
   public_liaison: 'Susanna Parker, Phone: (202) 692-5040'
   service_center: 'Tonya Kirksey, Phone: (202) 692-5040'
   top_level: false
+  usa_id: '49526'
   website: http://www.nmb.gov/publicinfo/foia.html
 description: The National Mediation Board (NMB), established by the 1934 amendments
   to the Railway Labor Act of 1926, is an independent agency that performs a central

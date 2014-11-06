@@ -1,11 +1,17 @@
 abbreviation: USITC
 departments:
-- address:
+- abbreviation: USITC
+  address:
   - Lisa R. Barton
   - Chief FOIA Officer
   - 112-AA
   - 500 E Street, SW
   - Washington, DC 20436
+  description: The International Trade Commission is a quasi-judicial body that investigates
+    whether or not, and to what extent, an unfair trade practice harms U.S. businesses.
+    When unfair trade practices are found to harm U.S. businesses, the Commission
+    may implement corrective measures. The Commission also provides the President
+    and Congress impartial information on international trade to inform trade policy.
   emails:
   - jackie.gross@usitc.gov
   fax: 202-205-2104
@@ -16,6 +22,7 @@ departments:
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   service_center: 'Phone: (202) 205-2595'
   top_level: false
+  usa_id: '49712'
   website: http://www.usitc.gov/secretary/foia/index.htm
 description: The mission of the Commission is to (1) administer U.S. trade remedy
   laws within its mandate in a fair and objective manner; (2) provide the President,
