@@ -18,8 +18,8 @@ departments:
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
   request_form: https://foia.mspb.gov/
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
-  simple_request_processing_time_mean_days: '5.42'
-  simple_request_processing_time_median_days: '4'
+  simple_request_processing_time_mean_days: '33.04'
+  simple_request_processing_time_median_days: '14'
   top_level: false
   website: http://www.mspb.gov/FOIA/foia.htm
 - address:

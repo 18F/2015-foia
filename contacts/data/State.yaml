@@ -34,8 +34,8 @@ departments:
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
   request_form: http://foia.state.gov/foiareq/foialetter.asp
   service_center: 'Phone: (202) 261-8484'
-  simple_request_processing_time_mean_days: '18'
-  simple_request_processing_time_median_days: '4'
+  simple_request_processing_time_mean_days: '15'
+  simple_request_processing_time_median_days: '17'
   top_level: false
   website: http://www.oig.state.gov/foia/index.htm
 description: The Department's mission is to advance freedom for the benefit of the

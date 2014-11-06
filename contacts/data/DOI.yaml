@@ -447,8 +447,8 @@ departments:
   public_liaison: 'Phone: (202) 208-0954'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-0954'
-  simple_request_processing_time_mean_days: '10'
-  simple_request_processing_time_median_days: '5'
+  simple_request_processing_time_mean_days: '25'
+  simple_request_processing_time_median_days: '22'
   top_level: false
   website: http://www.doioig.gov/freedom-of-information-act
 - address:

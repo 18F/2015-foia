@@ -195,8 +195,8 @@ departments:
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
   service_center: 'Phone: (202) 358-2582'
-  simple_request_processing_time_mean_days: '10'
-  simple_request_processing_time_median_days: '5'
+  simple_request_processing_time_mean_days: '11.36'
+  simple_request_processing_time_median_days: '9.5'
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:

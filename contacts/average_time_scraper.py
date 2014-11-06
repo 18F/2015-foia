@@ -11,43 +11,51 @@ import requests
 
 def patch_yamls(data):
     """patches yaml files with average times"""
+    matches = 0
     for filename in glob("data" + os.sep + "*.yaml"):
+        short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-            if yaml_data['name']+"_2013" in data.keys():
+            print(yaml_data['name']+"_2013" + short_filename)
+            if yaml_data['name']+"_2013" + short_filename in data.keys():
+                matches += 1
                 yaml_data['simple_request_processing_time_mean_days'] = \
-                    data[yaml_data['name']+"_2013"]\
+                    data[yaml_data['name']+"_2013" + short_filename]\
                         .get('Simple-Average No. of Days')
                 yaml_data['simple_request_processing_time_median_days'] = \
-                    data[yaml_data['name']+"_2013"]\
+                    data[yaml_data['name']+"_2013" + short_filename]\
                         .get('Simple-Median No. of Days')
 
         for internal_data in yaml_data['departments']:
-            if internal_data['name']+"_2013" in data:
+            if internal_data['name']+"_2013" + short_filename in data:
+                matches += 1
                 internal_data['simple_request_processing_time_mean_days'] = \
-                    data[internal_data['name']+"_2013"]\
+                    data[internal_data['name']+"_2013" + short_filename]\
                         .get('Simple-Average No. of Days')
                 internal_data['simple_request_processing_time_median_days'] = \
-                    data[internal_data['name']+"_2013"]\
+                    data[internal_data['name']+"_2013" + short_filename]\
                         .get('Simple-Median No. of Days')
 
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
+    print(matches )
 
 
 def write_csv(data):
     '''write data to csv'''
 
-    with open('times.csv', 'w', newline='') as csvfile:
+    with open('request_time_data.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['name','year','simple_average','simple_average',
-                            'expedited_average','expedited_median',
-                            'complex_average','complex_median'])
+        writer.writerow(['name','year','agency','simple_average',
+                        'simiple_median','expedited_average',
+                        'expedited_median','complex_average',
+                        'complex_median'])
         for element in data.items():
             writer.writerow([
-                re.sub("_\d+","",element[0]),
+                re.sub("_.*","",element[0]),
                 element[1].get('Year','NA'),
+                element[1].get('Agency','NA'),
                 element[1].get('Simple-Average No. of Days','NA'),
                 element[1].get('Simple-Median No. of Days','NA'),
                 element[1].get('Expedited Processing-Average No. of Days','NA'),
@@ -85,6 +93,9 @@ def zip_and_clean(header,row):
 
     return dict(zip(header, map(zero_to_na, row)))
 
+def get_agency(value):
+    return '_%s' % value['Agency']
+
 def parse_table(url, params, data):
     '''gets, caches, and parses url to extract the table data'''
 
@@ -94,8 +105,10 @@ def parse_table(url, params, data):
     header=[col.text for col in tree.xpath('//table//tr//th//a')]
     year = '_%s' % params['requestYear']
     for row in tree.xpath('//table//tr[not(th)]'):
-        data[row.xpath('.//span[@title]')[1].values()[0]+year] =\
-            zip_and_clean(header, row.xpath('.//td//text()'))
+        value = zip_and_clean(header, row.xpath('.//td//text()'))
+        key = row.xpath('.//span[@title]')[1].values()[0] + year + \
+            get_agency(value)
+        data[key] = value
     return data
 
 

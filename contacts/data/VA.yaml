@@ -427,8 +427,8 @@ departments:
   phone: 202-461-4591
   public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
   service_center: 'Phone: (202) 461-4591'
-  simple_request_processing_time_mean_days: '18'
-  simple_request_processing_time_median_days: '4'
+  simple_request_processing_time_mean_days: '15'
+  simple_request_processing_time_median_days: '17'
   top_level: false
   website: http://www.foia.va.gov/
 - address:

@@ -676,8 +676,8 @@ departments:
   phone: 202-720-0995
   public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
   service_center: 'Phone: (202) 720-1893'
-  simple_request_processing_time_mean_days: NA
-  simple_request_processing_time_median_days: NA
+  simple_request_processing_time_mean_days: '7.33'
+  simple_request_processing_time_median_days: '8'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -744,8 +744,8 @@ departments:
   phone: 202-260-2657
   public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
   service_center: 'Phone: (202) 720-8164'
-  simple_request_processing_time_mean_days: '16'
-  simple_request_processing_time_median_days: '16'
+  simple_request_processing_time_mean_days: '71'
+  simple_request_processing_time_median_days: '1'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:

@@ -50,8 +50,8 @@ on foia.gov and updates the yaml files with two attributes.
 simple_request_processing_time_mean_days
 simple_request_processing_time_median_days
 ```
-Additionally, it creates "time.csv", which contains all data available on
-request processing times on foia.gov
+Additionally, it creates "request_time_data.csv", which contains
+all data available on request processing times on foia.gov
 
 ## Data
 

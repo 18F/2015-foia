@@ -22,8 +22,8 @@ departments:
   phone: 202-663-4634
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-  simple_request_processing_time_mean_days: '5.42'
-  simple_request_processing_time_median_days: '4'
+  simple_request_processing_time_mean_days: '33.04'
+  simple_request_processing_time_median_days: '14'
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
 - address:

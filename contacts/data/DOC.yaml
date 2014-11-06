@@ -422,8 +422,8 @@ departments:
   public_liaison: 'Laura Bell, Phone: (202) 482-3470'
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   service_center: 'Phone: (202) 482-3470'
-  simple_request_processing_time_mean_days: '18'
-  simple_request_processing_time_median_days: '4'
+  simple_request_processing_time_mean_days: '12'
+  simple_request_processing_time_median_days: '13'
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
@@ -709,8 +709,8 @@ departments:
   phone: 202-482-3257
   public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
   service_center: 'Phone: (202) 482-3257'
-  simple_request_processing_time_mean_days: '16'
-  simple_request_processing_time_median_days: '16'
+  simple_request_processing_time_mean_days: '8'
+  simple_request_processing_time_median_days: '6'
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 description: The historic mission of the Department of Commerce is "to foster, promote,

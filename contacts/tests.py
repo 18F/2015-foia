@@ -580,7 +580,7 @@ class USALayerTests(TestCase):
 class AverageTimeScaperTests(TestCase):
     def test_parse_table(self):
         '''parses data tables from foia.gov'''
-        expected_data = {'Federal Retirement Thrift Investment Board_2012':
+        expected_data = {'Federal Retirement Thrift Investment Board_2012_FRTIB':
             {'Complex-Lowest No. of Days': 'NA',
             'Complex-Average No. of Days': 'NA',
             'Expedited Processing-Highest No. of Days': 'NA',
@@ -616,4 +616,12 @@ class AverageTimeScaperTests(TestCase):
         exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
         result = average_time_scraper.zip_and_clean(test_header,test_row)
         self.assertEqual(exp_data,result)
+
+    def test_get_agency(self):
+        '''returns a string in format _%s where %s is the agency name'''
+
+        test_data = {'Agency':"DOS","other_data":"text blob"}
+        expected_data = '_DOS'
+        result = average_time_scraper.get_agency(test_data)
+        self.assertEqual(expected_data, result)
 
