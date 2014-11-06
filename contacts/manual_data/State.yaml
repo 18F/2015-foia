@@ -1,4 +1,5 @@
 departments:
 - name: Department of State
   request_form: http://foia.state.gov/Request/Submit.aspx
-name: Department of State
+- name: Office of Inspector General
+  website: http://oig.state.gov/foia
