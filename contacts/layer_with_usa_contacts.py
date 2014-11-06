@@ -11,8 +11,6 @@ import logging
 """ Update YAML files with usa_id, description, and acronyms. """
 
 ACRONYM_FINDER = re.compile('\((.*?)\)')
-extract_names = lambda yaml_data: [dept['name'] for dept in yaml_data]
-
 
 def float_to_int_str(number):
     """converts input to ints and then to strings to clean xls data"""
@@ -102,10 +100,7 @@ def update_dict(old_dict,new_dict):
             old_dict['description'] == "No Description":
         old_dict['description'] = new_dict[old_dict['name']].get(
             'description', "No Description")
-
     logging.info("%s updated", old_dict['name'])
-    del new_dict[old_dict['name']]
-
     return old_dict, new_dict
 
 
@@ -117,9 +112,9 @@ def patch_yaml():
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
             if yaml_data['name'] in data.keys():
-                if yaml_data['name'] not in \
-                        extract_names(yaml_data['departments']):
-                    yaml_data,data = update_dict(yaml_data,data)
+                yaml_data,data = update_dict(yaml_data,data)
+                del data[yaml_data['name']]
+
         for internal_data in yaml_data['departments']:
             if internal_data['name'] in data:
                 internal_data,data = update_dict(internal_data,data)

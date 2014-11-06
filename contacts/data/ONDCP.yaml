@@ -1,19 +1,15 @@
 abbreviation: ONDCP
 departments:
-- abbreviation: ONDCP
-  address:
+- address:
   - General Counsel
   - Office of Legal Counsel
   - 750 17th Street, NW
   - Washington, DC 20503
-  description: The Office of National Drug Control Policy coordinates drug-control
-    efforts and funding, and advises the president on drug-control issues.
   name: Office of National Drug Control Policy
   phone: 202-395-6622
   public_liaison: 'Daniel Petersen, Phone: (202) 395-6745'
   service_center: 'Daniel Petersen, Phone: (202) 395-6622'
   top_level: false
-  usa_id: '49586'
   website: http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests
 description: The principal purpose of ONDCP is to establish policies, priorities,
   and objectives for the Nation's drug control program. The goals of the program are

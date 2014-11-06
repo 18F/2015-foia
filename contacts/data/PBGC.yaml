@@ -1,17 +1,11 @@
 abbreviation: PBGC
 departments:
-- abbreviation: PBGC
-  address:
+- address:
   - D. Camilla Perry
   - Disclosure Officer
   - Suite 11101
   - 1200 K Street, NW
   - Washington, DC 20005
-  description: Funded by the insurance premiums it collects and other investments,
-    the Pension Benefit Guaranty Corporation insures and guarantees private sector
-    workers' pensions. The contact information below is primarily for workers or retirees.
-    If you are a plan sponsor or administrator, use the contact link below to find
-    the appropriate information.
   emails:
   - Chase.Michelle@pbgc.gov
   fax: 202-326-4042
@@ -23,7 +17,6 @@ departments:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 326-4040'
   top_level: false
-  usa_id: '49052'
   website: http://www.pbgc.gov/about/foia.html
 description: The Pension Benefit Guaranty Corporation protects the retirement incomes
   of more than 44 million American workers. Find out more about us, including how

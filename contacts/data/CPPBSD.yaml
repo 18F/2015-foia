@@ -1,15 +1,11 @@
 abbreviation: CPPBSD
 departments:
-- abbreviation: CPPBSD
-  address:
+- address:
   - Tina Ballard
   - Executive Director
   - Suite 10800
   - 1401 S. Clark St
   - Arlington , VA 22202-4302
-  description: The AbilityOne Commission creates job opportunities for people who
-    are blind or have other significant disabilities in the manufacture and delivery
-    of products and services to the Federal Government.
   emails:
   - FOIA@AbilityOne.gov
   - blineback@abilityone.gov
@@ -20,7 +16,6 @@ departments:
   public_liaison: 'Barry Lineback, Phone: (703) 603-7740'
   service_center: 'Wakita Wilson, Phone: (703) 603-7740'
   top_level: false
-  usa_id: '49157'
   website: http://www.abilityone.gov/laws_and_regulations/foia.html
 description: The Committee for Purchase from People Who are Blind or Severely Disabled
   provides employment opportunities for people who are blind or have other severe

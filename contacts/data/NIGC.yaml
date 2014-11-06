@@ -1,15 +1,11 @@
 abbreviation: NIGC
 departments:
-- abbreviation: NIGC
-  address:
+- address:
   - AnDrea Choate'
   - FOIA/PA and  Records Management Assistant
   - Suite 9100
   - 1441 L Street, NW
   - Washington, DC  20005
-  description: The National Indian Gaming Commission is a regulatory body that oversees
-    some aspects of gaming on Indian lands, often complementing the work of Indian
-    regulators.
   emails:
   - Andrea_Choate@nigc.gov
   fax: 202-632-7066
@@ -20,7 +16,6 @@ departments:
   public_liaison: 'AnDrea Choate'', Phone: (202) 632-7003'
   service_center: 'Phone: (202) 632-7003'
   top_level: false
-  usa_id: '49512'
   website: http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx
 description: 'The Commission´s primary mission is to regulate gaming activities on
   Indian lands for the purpose of shielding Indian tribes from organized crime and

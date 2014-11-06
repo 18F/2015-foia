@@ -1,16 +1,11 @@
 abbreviation: SSA
 departments:
-- abbreviation: SSA
-  address:
+- address:
   - Dawn S. Wiggins
   - Principal Public FOIA Liaison
   - Office of the General Counsel, Office of Privacy and Disclosure
   - 617 Altmeyer Building
   - Baltimore, MD 21235
-  description: The Social Security Administration assigns social security numbers;
-    administers the retirement, survivors, and disability insurance programs known
-    as Social Security; and administers the Supplemental Security Income program for
-    the aged, blind, and disabled.
   emails:
   - Foia.pa.officers@ssa.gov
   fax: 410-966-0869
@@ -22,7 +17,6 @@ departments:
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
   service_center: 'Rhonda Smith, Phone: (410) 966-4034'
   top_level: false
-  usa_id: '49057'
   website: http://www.ssa.gov/foia/
 description: The Social Security Administration's mission is to deliver Social Security
   services that meet the changing needs of the public.

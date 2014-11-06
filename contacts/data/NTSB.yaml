@@ -1,16 +1,11 @@
 abbreviation: NTSB
 departments:
-- abbreviation: NTSB
-  address:
+- address:
   - Melba D. Moye
   - Chief, Records Management Division
   - CIO-40
   - 490 L´Enfant Plaza, SW
   - Washington, DC  20594
-  description: The National Transportation Safety Board investigates every civil aviation
-    accident in the U.S. and significant accidents in other modes of transporation.
-    Based on their investigative findings and special studies, the board makes recommendations
-    aimed at preventing future accidents.
   emails:
   - foia@ntsb.gov
   fax: 240-752-6257
@@ -22,7 +17,6 @@ departments:
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   service_center: 'Phone: (202) 314-6540'
   top_level: false
-  usa_id: '52641'
   website: http://www.ntsb.gov/foia/index.html
 description: The National Transportation Safety Board (NTSB) is an independent federal
   agency charged with determining the probable cause of transportation accidents and

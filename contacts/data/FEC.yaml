@@ -1,15 +1,11 @@
 abbreviation: FEC
 departments:
-- abbreviation: FEC
-  address:
+- address:
   - FOIA Contact
   - FOIA Requester Service Center
   - Room 408
   - 999 E Street, NW
   - Washington, DC 20463
-  description: The Federal Election Commission enforces federal campaign finance laws,
-    including monitoring donation prohibitions and limits and overseeing public funding
-    for presidential campaigns.
   emails:
   - FOIA@fec.gov
   fax: 202-219-1043
@@ -18,7 +14,6 @@ departments:
   public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
   service_center: 'Candace Salley, Phone: (202) 694-1650'
   top_level: false
-  usa_id: '52607'
   website: http://www.fec.gov/press/foia.shtml
 description: In 1975, Congress created the Federal Election Commission (FEC) to administer
   and enforce the Federal Election Campaign Act (FECA) - the statute that governs

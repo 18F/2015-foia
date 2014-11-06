@@ -1,15 +1,11 @@
 abbreviation: OSC
 departments:
-- abbreviation: OSC
-  address:
+- address:
   - Christopher M. Kurt
   - FOIA Officer
   - Suite 218
   - 1730 M Street, NW
   - Washington, DC 20036-4505
-  description: The Office of Special Counsel is an investigative and prosecutorial
-    office that works to end government and political corruption, and to protect government
-    employees and whistleblowers.
   fax: 202-254-3711
   foia_officer: 'Christopher M. Kurt, Phone: (202) 254-3716'
   name: Office of Special Counsel
@@ -17,7 +13,6 @@ departments:
   public_liaison: 'Kenneth Hendricks, Phone: (202) 254-3733'
   service_center: 'Phone: (202) 254-3716'
   top_level: false
-  usa_id: '49593'
   website: http://www.osc.gov/foia.htm
 description: 'The U.S. Office of Special Counsel (OSC) is an independent federal investigative
   and prosecutorial agency. Our basic authorities come from four federal statutes:

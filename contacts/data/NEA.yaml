@@ -1,15 +1,11 @@
 abbreviation: NEA
 departments:
-- abbreviation: NEA
-  address:
+- address:
   - Monica Ashar
   - FOIA Officer
   - Room 608
   - 1100 Pennsylvania Avenue, NW
   - Washington, DC  20506
-  description: A grant-making organization, to date the National Endowment for the
-    Arts has awarded more than $4 billion to support artistic excellence, creativity,
-    and innovation for the benefit of individuals and communities.
   emails:
   - foia@arts.gov
   fax: 202-682-5572
@@ -19,7 +15,6 @@ departments:
   public_liaison: 'Phone: (202) 682-5418'
   service_center: 'Phone: (202) 682-5418'
   top_level: false
-  usa_id: '52634'
   website: http://www.arts.gov/about/FOIA/index.html
 description: The National Endowment for the Arts was established by Congress in 1965
   as an independent agency of the federal government. To date, the NEA has awarded

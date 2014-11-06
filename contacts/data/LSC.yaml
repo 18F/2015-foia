@@ -1,16 +1,11 @@
 abbreviation: LSC
 departments:
-- abbreviation: LSC
-  address:
+- address:
   - Cheryl DuHart
   - FOIA Analyst
   - 3rd Floor
   - 3333 K Street, NW
   - Washington, DC 20007
-  description: The Legal Services Corporation is an independent corporation founded
-    by Congress that provides grant funds, training, and technical assistance to civil
-    legal aid programs. The goal of the corporation is to ensure low income individuals
-    and families have access to quality legal aid in civil matters.
   emails:
   - FOIA@lsc.gov
   fax: 202-337-6519
@@ -22,7 +17,6 @@ departments:
   request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
   service_center: 'Phone: (202) 295-1500'
   top_level: false
-  usa_id: '49442'
   website: http://www.lsc.gov/foia2/
 description: LSC is the single largest provider of civil legal aid for the poor in
   the nation. Established in 1974, LSC operates as an independent 501(c)(3) nonprofit

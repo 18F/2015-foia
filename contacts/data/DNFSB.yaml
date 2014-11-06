@@ -1,16 +1,11 @@
 abbreviation: DNFSB
 departments:
-- abbreviation: DNFSB
-  address:
+- address:
   - Andrew L. Thibadeau
   - Information/FOIA Officer
   - Suite 700
   - 625 Indiana Avenue, NW
   - Washington, DC 20004
-  description: The Defense Nuclear Facilities Safety Board reviews the content and
-    implementation of health and safety standards at Department of Energy Defense
-    Nuclear Facilities. The board also makes recommendations to the President and
-    Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities.
   emails:
   - andrewt@dnfsb.gov
   foia_officer: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
@@ -19,7 +14,6 @@ departments:
   public_liaison: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
   service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
   top_level: false
-  usa_id: '52601'
   website: http://www.dnfsb.gov/foia-reading-room
 description: Congress created the Defense Nuclear Facilities Safety Board in 1988
   as an independent oversight organization within the Executive Branch charged with

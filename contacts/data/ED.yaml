@@ -1,14 +1,11 @@
 abbreviation: ED
 departments:
-- abbreviation: ED
-  address:
+- address:
   - Gregory Smith
   - Director, FOIA Service Center, Office of Management
   - LBJ 2E305
   - 400 Maryland Avenue, SW
   - Washington, DC 20202-4536
-  description: The mission of the Department of Education is to foster educational
-    excellence and to ensure equal access to educational opportunity for all.
   emails:
   - EDFOIAManager@ed.gov
   fax: 202-401-0920
@@ -21,7 +18,6 @@ departments:
   request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
   service_center: 'Phone: (202) 401-8365'
   top_level: false
-  usa_id: '49018'
   website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
 description: The mission of the Department of Education is to promote student achievement
   and preparation for global competitiveness by fostering educational excellence and
