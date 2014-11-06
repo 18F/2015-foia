@@ -121,10 +121,10 @@ def build_keywords():
     today = date.today()
     this_year, this_month = today.year, today.month
     # Do not cache this month as it'll change with each run
-    for agency, topic in results_from_month(this_year, this_month):
-        if agency not in keywords:
-            keywords[agency] = set()
-        keywords[agency].add(topic)
+    #for agency, topic in results_from_month(this_year, this_month):
+    #    if agency not in keywords:
+    #        keywords[agency] = set()
+    #    keywords[agency].add(topic)
 
     # Now, step back until 1999 - there are no topics before 2000
     client = CachedSession('fr')
