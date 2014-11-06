@@ -1,6 +1,11 @@
 abbreviation: ABMC
 departments:
-- address: null
+- address:
+  - Martha R. Sell
+  - FOIA Assistant
+  - Suite 500
+  - 2300 Clarendon Boulevard
+  - Arlington, VA 22201
   misc:
     FOIA Assistant: 'Martha R. Sell, Phone: (703) 696-6897'
   name: American Battle Monuments Commission
