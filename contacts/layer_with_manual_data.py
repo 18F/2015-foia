@@ -6,6 +6,7 @@ import yaml
 
 import scraper
 
+
 def layer_manual_data(agency_abbr):
     filename = scraper.agency_yaml_filename('data', agency_abbr)
     with open(filename, 'r') as f:
