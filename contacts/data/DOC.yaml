@@ -13,7 +13,8 @@ departments:
   - Room 8H207
   - 4600 Silver Hill Road
   - Washington, DC 20233-3700
-  description: No Description
+  description: The U.S. Census Bureau provides data about the nation's people and
+    economy.
   emails:
   - census.efoia@census.gov
   fax: 301-763-6239
@@ -142,22 +143,41 @@ departments:
   - Room 40003
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  description: No Description
+  description: The International Trade Administration works to promote U.S. exports
+    by providing diplomatic support, helping to shape trade policy, removing trade
+    barriers, and enforcing U.S. trade laws and agreements.
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
   foia_officer: 'Justin Guz, Phone: (202) 482-7937'
   keywords:
   - Administrative practice and procedure
+  - American Samoa
+  - Antidumping
   - Australia
   - Business and industry
   - Canada
+  - Cheese
+  - Confidential business information
+  - Countervailing duties
   - Customs duties and inspection
+  - Educational facilities
+  - Emergency powers
+  - Freedom of information
+  - Guam
   - Imports
   - Investigations
+  - Marketing quotas
   - Mexico
+  - Nonprofit organizations
+  - Northern Mariana Islands
   - Reporting and recordkeeping requirements
+  - Scientific equipment
+  - Steel
+  - Textiles
   - Trade agreements
+  - Virgin Islands
+  - Watches and jewelry
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
@@ -171,7 +191,9 @@ departments:
   - FOIA Officer
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  description: No Description
+  description: By providing techincal assistance and access to capital, contract opportunities,
+    and new markets, the Minority Business Development Agency promotes the growth
+    of businesses owned and operated by members of the minority and Diaspora communities.
   fax: 202-482-2798
   foia_officer: 'Clara Colbert, Phone: (202) 481-5045'
   name: Minority Business Development Agency
@@ -188,7 +210,9 @@ departments:
   - Stop 1710
   - 100 Bureau Drive
   - Gaithersburg, MD 20899-1710
-  description: No Description
+  description: The National Institute of Standards and Technology promotes measurement
+    standards, conducts a wide array of scientifc research, and offers smaller manufacturers
+    technical and business assistance.
   emails:
   - foia@nist.gov
   fax: 301-975-5301
@@ -223,7 +247,10 @@ departments:
   - Number 305 - Sils Building
   - 5301 Shawnee Road
   - Alexandria, VA 22312
-  description: No Description
+  description: The National Technical Information Service provides businesses, universities,
+    and the public access to government-funded scientific, engineering, technical,
+    and business related information. The service does not use appropriated funds,
+    so charges a fee for its services.
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
@@ -278,7 +305,10 @@ departments:
   - Room 9719 - NOAA FOIA Office (SOU 10000)
   - 1315 East-West Highway
   - Silver Spring, MD 20910
-  description: No Description
+  description: The National Oceanic and Atmospheric Administration's mission is to
+    understand and predict changes in climate, weather, oceans, and coasts. The products
+    and services produced by the administration support a number of functions, including
+    severe weather preparedness, and international trade through shipping.
   emails:
   - FOIA@noaa.gov
   fax: 301-713-1169
@@ -364,7 +394,8 @@ departments:
   - FOIA Contact
   - P.O. Box 1450
   - Alexandria, VA 22313-1450
-  description: No Description
+  description: The U.S. Patent and Trademark Office is the agency responsible for
+    granting U.S. patents and registering trademarks.
   emails:
   - efoia@uspto.gov
   fax: 571-501-7335

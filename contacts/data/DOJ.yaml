@@ -13,7 +13,12 @@ departments:
   - Suite 11050
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
-  description: No Description
+  description: The Attorney General is responsible for the overall supervision and
+    direction of the administration and operation of the Department. The Attorney
+    General represents the United States in legal matters generally and furnishes
+    advice and opinions on legal matters to the President, the Cabinet, heads of the
+    executive departments, and other agencies of the Federal Government. Records maintained
+    include those relating to the administration of the office.
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
@@ -83,7 +88,8 @@ departments:
   - Room 1E-400
   - 99 New York Avenue, NE
   - Washington, DC 20226
-  description: No Description
+  description: The Bureau of Alcohol, Tobacco, Firearms, and Explosives enforces federal
+    criminal laws regulating the firearms and explosives industries.
   emails:
   - foiamail@atf.gov
   fax: 202-648-9619
@@ -236,7 +242,9 @@ departments:
   - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
   - 8701 Morrissette Drive
   - Springfield, VA 22152
-  description: No Description
+  description: The Drug Enforcement Administration enforces the United States' controlled
+    substance laws and regulations and aims to reduce the supply of and demand for
+    such substances.
   emails:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
@@ -421,7 +429,8 @@ departments:
   - Room 924, HOLC Building
   - 320 First Street, NW
   - Washington, DC 20534
-  description: No Description
+  description: The Bureau of Prisons manages federal prisons, and community-based
+    facilities that provide work and opportunities to assist offenders.
   emails:
   - ogc_efoia@bop.gov
   keywords:
@@ -516,7 +525,9 @@ departments:
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
   - Washington, DC 20530-0001
-  description: No Description
+  description: The Office of Community Oriented Policing Services advances the practice
+    of community policing through sharing information and making grants to police
+    departments in the United States.
   emails:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
@@ -785,7 +796,12 @@ departments:
   - FOIA/PA, CS 4, 10th Floor
   - 2604 Jefferson Davis Highway
   - Alexandria, VA 22301
-  description: No Description
+  description: Part of the Department of Justice, the Marshals Service is responsible
+    for providing security to the federal judiciary, managing the witness security
+    program, managing and selling the seized or forfeited assets of criminals, is
+    responsible for the confinement and transportation of federal prisoners who have
+    not been turned over to the bureau of prisons, and is the primary federal agency
+    responsible for fugitive investigations.
   emails:
   - usms.foia@usdoj.gov
   misc:

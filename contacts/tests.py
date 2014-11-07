@@ -575,3 +575,23 @@ class USALayerTests(TestCase):
         self.assertEqual(
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
+
+    def test_update_dict(self):
+        '''updates the new dictionary with ids, abbreviation, description
+        and forms, but will not overwrite any descriptions'''
+
+        new_data = {'Deparment A':{'usa_id':'1','acronym':'A'},
+            'Deparment B':{'usa_id':'2','acronym':'B',
+            'description':'next des.'}}
+
+        old_data = {'name':'Deparment A','description':"old desc."}
+        old_data_expected = {'name':'Deparment A','description':"old desc.",
+            'usa_id':'1','abbreviation':'A'}
+        old_data,new_data = usa_layer.update_dict(old_data,new_data)
+        self.assertEqual(old_data_expected,old_data)
+
+        old_data = {'name':'Deparment B'}
+        old_data_expected = {'name':'Deparment B','description':"next des.",
+            'usa_id':'2','abbreviation':'B'}
+        old_data,new_data = usa_layer.update_dict(old_data,new_data)
+        self.assertEqual(old_data_expected,old_data)

@@ -6,7 +6,13 @@ departments:
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
   - Washington, DC 20301-1155
-  description: No Description
+  description: This Requester Service Center (RSC) processes Freedom of Information
+    Act (FOIA) requests for records related to the Office of the Secretary of Defense
+    and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
+    and other specific OSD components.* This RSC does not process FOIA requests for
+    the entire Department of Defense (DoD). Please direct requests related to the
+    Military Services, Combatant Commands, or other Defense Agencies, to the appropriate
+    organization/component that maintains the record(s) of interest.
   emails:
   - FOIA.LIAISON@WHS.MIL
   fax: 571-372-0500
@@ -438,7 +444,8 @@ departments:
   - Office of Information and Privacy (NGB/JA-OIP)
   - 111 South George Mason Drive, AH2
   - Arlington, VA 22204-1373
-  description: No Description
+  description: The National Guard assists in times of local emergency and can also
+    be called into federal service.
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
   fax: 703-607-3684
@@ -457,7 +464,8 @@ departments:
   - 'ATTN: CIO/Information Management Services Office'
   - 14675 Lee Road
   - Chantilly, VA 20151-1715
-  description: No Description
+  description: The National Reconnaissance Office is responsible for designing, building,
+    launching, and maintaining intelligence satellites.
   emails:
   - foia@nro.mil
   - foia@nro.mil
@@ -480,7 +488,9 @@ departments:
   - Suite 6248
   - 9800 Savage Road
   - Fort George G. Meade, MD 20755-6248
-  description: No Description
+  description: The National Security Agency and Central Security Service are the "codemaker
+    and codebreakers" of the intelligence community, providing foreign signal and
+    communications intelligence to decision makers.
   emails:
   - foiarsc@nsa.gov
   - foiarsc@nsa.gov

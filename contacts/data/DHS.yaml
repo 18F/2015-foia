@@ -29,15 +29,19 @@ departments:
   - National Records Center, FOIA/PA Office
   - P.O. Box 648010
   - Lee's Summit, MO 64064-8010
-  description: No Description
+  description: U.S. Citizenship and Immigration Services oversees immigration to the
+    United States.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
   foia_officer: 'Jill Eggleston, Phone: (800) 375-5283 (USCIS National Customer Service
     Unit)'
   keywords:
+  - Administrative practice and procedure
+  - Aliens
   - Authority delegations (Government agencies)
   - Freedom of information
+  - Immigration
   - Privacy
   - Reporting and recordkeeping requirements
   - Surety bonds
@@ -73,7 +77,8 @@ departments:
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
   - 2703 Martin Luther King Jr Ave
   - Washington, DC 20593-7710
-  description: No Description
+  description: The U.S. Coast Guard safeguards the maritime interests of the United
+    States and the environment around the world.
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
@@ -202,7 +207,8 @@ departments:
   - 90 K Street, NE
   - 9th Floor
   - Washington, DC 20229-1181
-  description: No Description
+  description: 'Customs and Border Protection prevents people from entering the country
+    illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
   foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
   keywords:
@@ -316,7 +322,9 @@ departments:
   - Room 840
   - 500 C Street, SW
   - Washington, DC 20472
-  description: No Description
+  description: FEMA supports citizens and emergency personnel to build, sustain, and
+    improve the nations capability to prepare for, protect against, respond to, recover
+    from, and mitigate all hazards.
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -403,7 +411,9 @@ departments:
   - FOIA Officer
   - 'Building #681, Suite 187B'
   - Glynco, GA 31524
-  description: No Description
+  description: The Federal Law Enforcement Training Center provides law enforcement
+    training for 91 federal agencies, several state, local, and tribal agencies, and
+    oversees or assists with training at serveral International Law Enforcement Academies.
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -423,7 +433,8 @@ departments:
   - Mail Stop 5009
   - 500 12th Street, SW
   - Washington, DC 20536-5009
-  description: No Description
+  description: Immigration and Customs Enforcement enforces federal laws governing
+    border control, customs, trade, and immigration.
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -434,12 +445,16 @@ departments:
   - Authority delegations (Government agencies)
   - Employment
   - Foreign officials
+  - Foreign relations
   - Freedom of information
   - Health professions
+  - Immigration
+  - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
   - Students
   - Surety bonds
+  - Treaties
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
@@ -462,14 +477,21 @@ departments:
   - Accounting
   - Administrative practice and procedure
   - Biologics
+  - Civil rights
+  - Computer technology
   - Drugs
+  - Education of disadvantaged
   - Emergency medical services
   - Fraud
   - Freedom of information
   - Grant programs-health
+  - Grant programs-social programs
+  - Health care
   - Health facilities
   - Health insurance
+  - Health maintenance organizations (HMO)
   - Health professions
+  - Health records
   - Hospitals
   - Investigations
   - Kidney diseases
@@ -556,7 +578,9 @@ departments:
   - Building 410
   - 245 Murray Drive
   - Washington, DC 20223
-  description: No Description
+  description: The Secret Service works to safeguard the nation's financial infrastructure.
+    The Secret Service is also responsible for protecting national leaders, visiting
+    heads of state, and National Special Security Events.
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
@@ -661,7 +685,210 @@ emails:
 - foia@hq.dhs.gov
 fax: 202-343-4011
 keywords:
+- Accounting
+- Administrative practice and procedure
+- Advertising
+- Advisory committees
+- Aged
+- Air carriers
+- Air pollution control
+- Air traffic control
+- Air transportation
+- Aircraft
+- Airmen
+- Airports
+- Alaska
+- Alcohol abuse
+- Alcohol and alcoholic beverages
+- Aliens
+- American Samoa
+- Anchorage grounds
+- Antidumping
+- Archives and records
+- Armed forces
+- Armed forces reserves
+- Arms and munitions
+- Authority delegations (Government agencies)
+- Aviation safety
+- Benzene
+- Bonds
 - Bridges
+- Brokers
+- Business and industry
+- Canada
+- Cargo vessels
+- Caribbean Basin initiative
+- Cigars and cigarettes
+- Citizenship and naturalization
+- Civil rights
+- Claims
+- Classified information
+- Coastal zone
+- Coffee
+- Colleges and universities
+- Common carriers
+- Communications equipment
+- Computer technology
+- Confidential business information
+- Conflict of interests
+- Continental shelf
+- Cotton
+- Countervailing duties
+- Courts
+- Cuba
+- Cultural exchange programs
+- Customs duties and inspection
+- Defense Department
+- Disaster assistance
+- Diving
+- Drug abuse
+- Drug testing
+- Drug traffic control
+- Education
+- Electronic products
+- Employment
+- Endangered and threatened species
+- Environmental protection
+- Equal educational opportunity
+- Equal employment opportunity
+- Executive orders
+- Explosives
+- Exports
+- Federal buildings and facilities
+- Fire prevention
+- Fishing vessels
+- Flood insurance
+- Foreign currencies
+- Foreign officials
+- Foreign relations
+- Foreign trade zones
+- Fraud
+- Freedom of information
+- Freight
+- Freight forwarders
+- Fruit juices
+- Gases
+- Government contracts
+- Government employees
+- Government procurement
+- Government property management
+- Government publications
+- Grant programs
+- Grant programs-education
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Grant programs-veterans
+- Great Lakes
+- Guam
+- Harbors
+- Hazardous materials transportation
+- Hazardous substances
+- Health care
+- Health professions
+- Highways and roads
+- Housing
+- Immigration
+- Imports
+- Income taxes
+- Individuals with disabilities
+- Insurance
+- Intergovernmental relations
+- International organizations
+- Investigations
+- Kingman Reef
+- Labeling
+- Labor
+- Labor management relations
+- Labor unions
+- Laboratories
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Liquors
+- Loan programs
+- Loan programs-education
+- Loan programs-housing and community development
+- Loan programs-veterans
+- Lobbying
+- Lotteries
+- Manpower training programs
+- Marine mammals
+- Marine resources
+- Marine safety
+- Maritime carriers
+- Maritime security
+- Mass transportation
+- Measurement standards
+- Metals
+- Mexico
+- Midway Islands
+- Military personnel
+- Motor carriers
+- Motor vehicles
+- National Transportation Safety Board
+- Natural gas
+- Natural resources
+- Navigation (water)
+- Nuclear vessels
+- Occupational safety and health
+- Oceanographic research vessels
+- Oil and gas exploration
+- Oil imports
+- Oil pollution
+- Organization and functions (Government agencies)
+- Packaging and containers
+- Passenger vessels
+- Passports and visas
+- Penalties
+- Petroleum
+- Privacy
+- Puerto Rico
+- Radiation protection
+- Radio
+- Railroad safety
+- Railroads
+- Refugees
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Research
+- Safety
+- Schools
+- Science and technology
+- Seals and insignia
+- Seamen
+- Search warrants
+- Security measures
+- Seizures and forfeitures
+- Sewage disposal
+- Sex discrimination
+- Signs and symbols
+- Small businesses
+- Students
+- Sugar
+- Surety bonds
+- Taxes
+- Telephone
+- Terrorism
+- Trade agreements
+- Trademarks
+- Transportation
+- Travel and transportation expenses
+- Travel restrictions
+- Treaties
+- Vessels
+- Veterans
+- Vocational education
+- Vocational rehabilitation
+- Volunteers
+- Wages
+- Wake Island
+- Warehouses
+- Water pollution control
+- Waterways
+- Wheat
+- Whistleblowing
+- Wine
+- Wool
 name: Department of Homeland Security
 phone: 202-343-1743
 public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'

@@ -45,7 +45,7 @@ departments:
   - National FOIA Staff (AFN-140)
   - 800 Independence Avenue, SW
   - Washington, DC 20591
-  description: No Description
+  description: The FAA works to ensure that all air travel is safe.
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
@@ -379,7 +379,14 @@ departments:
   - W41-304
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
-  description: No Description
+  description: The National Highway Traffic Safety Administration (NHTSA) is responsible
+    for reducing deaths, injuries and economic losses resulting from motor vehicle
+    crashes. The agency investigates safety defects in motor vehicles, sets and enforces
+    fuel economy standards, helps states and local communities reduce the threat of
+    drunk drivers, promotes the use of safety belts, child safety seats and air bags,
+    investigates odometer fraud, establishes and enforces vehicle anti-theft regulations,
+    conducts research on driver behavior and traffic safety, and provides consumer
+    information on motor vehicle safety topics.
   emails:
   - http://www.nhtsa.gov/FOIA
   - greg.walter@dot.gov
@@ -442,29 +449,48 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Authority delegations (Government agencies)
+  - Citizenship and naturalization
   - Claims
   - Classified information
   - Common carriers
   - Courts
+  - Disability benefits
   - Equal access to justice
   - Exports
+  - Fishing vessels
   - Freedom of information
   - Freight
   - Freight forwarders
+  - Government contracts
   - Government employees
+  - Grant programs-education
+  - Grant programs-transportation
+  - Highways and roads
+  - Income taxes
   - Insurance
   - Intermodal transportation
   - Investigations
+  - Investments
   - Lawyers
+  - Loan programs-transportation
   - Maritime carriers
+  - Mortgages
+  - National defense
   - Organization and functions (Government agencies)
+  - Passenger vessels
   - Penalties
   - Privacy
+  - Railroads
   - Reporting and recordkeeping requirements
+  - Schools
   - Seals and insignia
+  - Seamen
   - Sunshine Act
   - Surety bonds
   - Transportation
+  - Trusts and trustees
+  - Uniform System of Accounts
+  - Vessels
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
@@ -561,7 +587,9 @@ departments:
   - FOIA/Privacy Act Officer
   - 395 E Street, SW
   - Washington, DC 20423-0001
-  description: No Description
+  description: The Surface Transportation Board regulates and decides disputes involving
+    railroad rates, railroad mergers or line sales, and certain other transportation
+    matters.
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
