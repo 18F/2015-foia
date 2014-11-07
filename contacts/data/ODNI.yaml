@@ -24,6 +24,47 @@ description: The Director of National Intelligence (DNI) serves as the head of t
   the Office of the DNI's goal is to effectively integrate foreign, military and domestic
   intelligence in defense of the homeland and of United States interests abroad.
 name: Office of the Director of National Intelligence
-simple_request_processing_time_mean_days: '86.12'
-simple_request_processing_time_median_days: '16'
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: '305.53'
+    Complex-Highest No. of Days: '991'
+    Complex-Lowest No. of Days: '2'
+    Complex-Median No. of Days: '122'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '134.99'
+    Simple-Highest No. of Days: '847'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '88'
+  '2011':
+    Complex-Average No. of Days: '94'
+    Complex-Highest No. of Days: '823'
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: '26.5'
+    Simple-Average No. of Days: '41.87'
+    Simple-Highest No. of Days: '1029'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '4'
+  '2012':
+    Complex-Average No. of Days: '190.28'
+    Complex-Highest No. of Days: '1163'
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: '42.5'
+    Expedited Processing-Average No. of Days: '208'
+    Expedited Processing-Highest No. of Days: '579'
+    Expedited Processing-Lowest No. of Days: '22'
+    Expedited Processing-Median No. of Days: '23'
+    Simple-Average No. of Days: '16.54'
+    Simple-Highest No. of Days: '772'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '4'
+  '2013':
+    Complex-Average No. of Days: '1145'
+    Complex-Median No. of Days: '167.91'
+    Simple-Average No. of Days: '86.12'
+    Simple-Highest No. of Days: '64.5'
+    Simple-Lowest No. of Days: '1407'
+    Simple-Median No. of Days: '16'
 usa_id: '49595'

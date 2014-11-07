@@ -45,9 +45,49 @@ departments:
   phone: 202-268-7004
   public_liaison: 'Betty White, Phone: (202) 268-7004'
   request_form: https://pfoiapal.usps.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      Complex-Average No. of Days: '19'
+      Complex-Lowest No. of Days: '87'
+      Complex-Median No. of Days: '69'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '82'
+      Simple-Lowest No. of Days: '126'
+      Simple-Median No. of Days: '7'
+    '2011':
+      Complex-Average No. of Days: '23.5'
+      Complex-Highest No. of Days: '37'
+      Complex-Lowest No. of Days: '10'
+      Complex-Median No. of Days: '23.5'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '11.67'
+      Simple-Highest No. of Days: '888'
+      Simple-Lowest No. of Days: NA
+      Simple-Median No. of Days: '7'
+    '2012':
+      Complex-Average No. of Days: '30'
+      Complex-Highest No. of Days: '30'
+      Complex-Lowest No. of Days: '30'
+      Complex-Median No. of Days: '30'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '7.75'
+      Simple-Highest No. of Days: '106'
+      Simple-Lowest No. of Days: NA
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '218'
+      Complex-Median No. of Days: '59'
+      Simple-Average No. of Days: '7.88'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '115'
+      Simple-Median No. of Days: '6'
   service_center: 'Phone: (202) 268-7004'
-  simple_request_processing_time_mean_days: '7.88'
-  simple_request_processing_time_median_days: '6'
   top_level: true
   website: http://www.usps.com/foia/welcome.htm
 - address:
@@ -114,6 +154,53 @@ keywords:
 - State and local governments
 - Wages
 name: United States Postal Service
-simple_request_processing_time_mean_days: '13.63'
-simple_request_processing_time_median_days: '6'
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: '495'
+    Complex-Highest No. of Days: '6.25'
+    Complex-Lowest No. of Days: '6.5'
+    Complex-Median No. of Days: '46'
+    Expedited Processing-Average No. of Days: '8'
+    Expedited Processing-Median No. of Days: '4'
+    Simple-Average No. of Days: '17'
+    Simple-Highest No. of Days: '25'
+    Simple-Lowest No. of Days: '524'
+    Simple-Median No. of Days: '7'
+  '2011':
+    Complex-Average No. of Days: '43.13'
+    Complex-Highest No. of Days: '573'
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: '21'
+    Expedited Processing-Average No. of Days: '14.33'
+    Expedited Processing-Highest No. of Days: '34'
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: '9.5'
+    Simple-Average No. of Days: '11.44'
+    Simple-Highest No. of Days: '888'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '5'
+  '2012':
+    Complex-Average No. of Days: '44.06'
+    Complex-Highest No. of Days: '476'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '23.5'
+    Expedited Processing-Average No. of Days: '1'
+    Expedited Processing-Highest No. of Days: '1'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '1'
+    Simple-Average No. of Days: '15.06'
+    Simple-Highest No. of Days: '335'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '7'
+  '2013':
+    Complex-Average No. of Days: '1059'
+    Complex-Highest No. of Days: '8'
+    Complex-Lowest No. of Days: '4'
+    Complex-Median No. of Days: '49.62'
+    Expedited Processing-Average No. of Days: '24'
+    Expedited Processing-Median No. of Days: '1'
+    Simple-Average No. of Days: '13.63'
+    Simple-Highest No. of Days: '23'
+    Simple-Lowest No. of Days: '504'
+    Simple-Median No. of Days: '6'
 usa_id: '49061'

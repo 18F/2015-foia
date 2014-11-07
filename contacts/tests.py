@@ -625,3 +625,16 @@ class AverageTimeScaperTests(TestCase):
         result = average_time_scraper.get_agency(test_data)
         self.assertEqual(expected_data, result)
 
+    def test_append_time_stats(self):
+        '''appends time stats data to dictionary'''
+
+        test_yaml = {'name':"DOS","other_data":"text blob"}
+        test_data = {'DOS_2013DOS':
+            {'Simple-Mean No. of Days':'22','Agency':'DOS',
+            'Year':'2013','Component':'DOS'}}
+        expected_data = {'name':"DOS","other_data":"text blob",
+            'request_time_stats':{'2013':{'Simple-Mean No. of Days':'22'}}}
+        result = average_time_scraper.append_time_stats(test_yaml,
+            test_data,"_2013","DOS")
+        self.assertEqual(expected_data, result)
+

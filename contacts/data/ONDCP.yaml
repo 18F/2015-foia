@@ -28,6 +28,67 @@ keywords:
 - Lebanon
 - Loan programs
 name: Office of National Drug Control Policy
-simple_request_processing_time_mean_days: '49'
-simple_request_processing_time_median_days: '42'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: NA
+    Simple-Highest No. of Days: NA
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: NA
+  '2009':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2011':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2012':
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: '42'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
+  '2013':
+    Simple-Average No. of Days: '49'
+    Simple-Highest No. of Days: '148'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '42'
 usa_id: '49586'

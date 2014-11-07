@@ -25,6 +25,66 @@ keywords:
 - Freedom of information
 - Government employees
 name: Council on Environmental Quality
-simple_request_processing_time_mean_days: '47'
-simple_request_processing_time_median_days: '35'
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '81'
+    Simple-Highest No. of Days: '519'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '20'
+  '2009':
+    Simple-Average No. of Days: '32'
+    Simple-Highest No. of Days: '613'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: '20'
+    Expedited Processing-Highest No. of Days: '33'
+    Expedited Processing-Lowest No. of Days: '7'
+    Expedited Processing-Median No. of Days: '20'
+    Simple-Average No. of Days: '31.9'
+    Simple-Highest No. of Days: '293'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11.5'
+  '2011':
+    Complex-Average No. of Days: '484.8'
+    Complex-Highest No. of Days: '1310'
+    Complex-Lowest No. of Days: '188'
+    Complex-Median No. of Days: '220.5'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '27.7'
+    Simple-Highest No. of Days: '60'
+    Simple-Lowest No. of Days: '4'
+    Simple-Median No. of Days: '24'
+  '2012':
+    Complex-Average No. of Days: '93'
+    Complex-Highest No. of Days: '173'
+    Complex-Lowest No. of Days: '8'
+    Complex-Median No. of Days: '90'
+    Expedited Processing-Average No. of Days: '76'
+    Expedited Processing-Highest No. of Days: '124'
+    Expedited Processing-Lowest No. of Days: '28'
+    Expedited Processing-Median No. of Days: '76'
+    Simple-Average No. of Days: '26'
+    Simple-Highest No. of Days: '68'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '24'
+  '2013':
+    Complex-Average No. of Days: '15'
+    Complex-Highest No. of Days: '113'
+    Complex-Lowest No. of Days: '170'
+    Complex-Median No. of Days: '106'
+    Expedited Processing-Average No. of Days: '33'
+    Expedited Processing-Lowest No. of Days: '204'
+    Expedited Processing-Median No. of Days: '116'
+    Simple-Average No. of Days: '47'
+    Simple-Highest No. of Days: '112'
+    Simple-Lowest No. of Days: '236'
+    Simple-Median No. of Days: '35'
 usa_id: '49181'

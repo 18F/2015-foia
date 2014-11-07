@@ -61,6 +61,71 @@ keywords:
 - Water pollution control
 - Women
 name: Tennessee Valley Authority
-simple_request_processing_time_mean_days: '9.48'
-simple_request_processing_time_median_days: '9'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '39'
+    Complex-Highest No. of Days: '125'
+    Complex-Lowest No. of Days: '20'
+    Complex-Median No. of Days: '33'
+    Simple-Average No. of Days: '8'
+    Simple-Highest No. of Days: '19'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2009':
+    Complex-Average No. of Days: '63'
+    Complex-Highest No. of Days: '225'
+    Complex-Lowest No. of Days: '21'
+    Complex-Median No. of Days: '40'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '7'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2010':
+    Complex-Average No. of Days: '48.8'
+    Complex-Highest No. of Days: '235'
+    Complex-Lowest No. of Days: '21'
+    Complex-Median No. of Days: '35'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '7.8'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '6'
+  '2011':
+    Complex-Average No. of Days: '50'
+    Complex-Highest No. of Days: '103'
+    Complex-Lowest No. of Days: '22'
+    Complex-Median No. of Days: '43'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '6.5'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2012':
+    Complex-Average No. of Days: '36.4'
+    Complex-Highest No. of Days: '86'
+    Complex-Lowest No. of Days: '21'
+    Complex-Median No. of Days: '34'
+    Simple-Average No. of Days: '7.7'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2013':
+    Complex-Average No. of Days: '77.92'
+    Complex-Highest No. of Days: '627'
+    Complex-Lowest No. of Days: '21'
+    Complex-Median No. of Days: '36'
+    Simple-Average No. of Days: '9.48'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '9'
 usa_id: '52660'

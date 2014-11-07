@@ -22,5 +22,49 @@ description: The Office of Navajo and Hopi Indian Relocation (ONHIR) was establi
   by Congress to implement the settlement of  a land conflict between the Navajo and
   Hopi Indian Tribes.
 name: Office of Navajo and Hopi Indian Relocation
-simple_request_processing_time_mean_days: '8.53'
-simple_request_processing_time_median_days: '6'
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '12'
+    Simple-Highest No. of Days: '38'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '6'
+  '2011':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '4.43'
+    Simple-Highest No. of Days: '16'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2012':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '5.5'
+    Simple-Highest No. of Days: '28'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2013':
+    Complex-Median No. of Days: NA
+    Simple-Average No. of Days: '8.53'
+    Simple-Highest No. of Days: '37'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '6'

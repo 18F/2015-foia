@@ -316,9 +316,52 @@ departments:
   name: Washington Field Office
   phone: 202-419-0705
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  request_time_stats:
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '11.8473'
+      Simple-Highest No. of Days: '83'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '16.3054'
+      Simple-Highest No. of Days: '29'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '18'
+    '2012':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '15.83'
+      Simple-Highest No. of Days: '23'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '18'
+    '2013':
+      Simple-Average No. of Days: '14.26'
+      Simple-Highest No. of Days: '43'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-  simple_request_processing_time_mean_days: '14.26'
-  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
 description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
@@ -351,9 +394,56 @@ keywords:
 name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: '1'
+    Expedited Processing-Highest No. of Days: '1'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '1'
+    Simple-Average No. of Days: '11.465'
+    Simple-Highest No. of Days: '240'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '9'
+  '2011':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: '3'
+    Expedited Processing-Highest No. of Days: '5'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '3'
+    Simple-Average No. of Days: '15.8739'
+    Simple-Highest No. of Days: '290'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '15'
+  '2012':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: '7.77'
+    Expedited Processing-Highest No. of Days: '19'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '5'
+    Simple-Average No. of Days: '18'
+    Simple-Highest No. of Days: '517'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '17'
+  '2013':
+    Complex-Average No. of Days: '7.09'
+    Complex-Highest No. of Days: '19'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '3'
+    Simple-Average No. of Days: '17.52'
+    Simple-Highest No. of Days: '306'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
 service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
-simple_request_processing_time_mean_days: '17.52'
-simple_request_processing_time_median_days: '16'
 top_level: false
 usa_id: '48032'
 website: http://www.eeoc.gov/eeoc/foia/

@@ -29,6 +29,78 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Chemical Safety and Hazard Investigation Board
-simple_request_processing_time_mean_days: '4'
-simple_request_processing_time_median_days: '5'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '437'
+    Complex-Highest No. of Days: '721'
+    Complex-Lowest No. of Days: '59'
+    Complex-Median No. of Days: '459'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '18'
+    Simple-Highest No. of Days: '33'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '20'
+  '2009':
+    Complex-Average No. of Days: '360'
+    Complex-Highest No. of Days: '1053'
+    Complex-Lowest No. of Days: '8'
+    Complex-Median No. of Days: '268'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '19'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '20'
+  '2010':
+    Complex-Average No. of Days: '669'
+    Complex-Highest No. of Days: '917'
+    Complex-Lowest No. of Days: '283'
+    Complex-Median No. of Days: '725'
+    Expedited Processing-Average No. of Days: '27'
+    Expedited Processing-Highest No. of Days: '27'
+    Expedited Processing-Lowest No. of Days: '27'
+    Expedited Processing-Median No. of Days: '27'
+    Simple-Average No. of Days: '16'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '20'
+  '2011':
+    Complex-Average No. of Days: '429'
+    Complex-Highest No. of Days: '1530'
+    Complex-Lowest No. of Days: '35'
+    Complex-Median No. of Days: '283'
+    Expedited Processing-Average No. of Days: '107'
+    Expedited Processing-Highest No. of Days: '296'
+    Expedited Processing-Lowest No. of Days: '5'
+    Expedited Processing-Median No. of Days: '20'
+    Simple-Average No. of Days: '18'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '9'
+    Simple-Median No. of Days: '20'
+  '2012':
+    Complex-Average No. of Days: '413'
+    Complex-Highest No. of Days: '977'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '382'
+    Expedited Processing-Average No. of Days: '188'
+    Expedited Processing-Highest No. of Days: '880'
+    Expedited Processing-Lowest No. of Days: '8'
+    Expedited Processing-Median No. of Days: '35'
+    Simple-Average No. of Days: '17'
+    Simple-Highest No. of Days: '41'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '20'
+  '2013':
+    Complex-Average No. of Days: '38'
+    Complex-Lowest No. of Days: '1192'
+    Complex-Median No. of Days: '664'
+    Simple-Average No. of Days: '4'
+    Simple-Highest No. of Days: '685'
+    Simple-Lowest No. of Days: '14'
+    Simple-Median No. of Days: '5'
 usa_id: '52591'

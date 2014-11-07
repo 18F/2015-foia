@@ -14,9 +14,45 @@ departments:
   phone: 202-358-2462
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
+  request_time_stats:
+    '2010':
+      Complex-Average No. of Days: '2'
+      Complex-Highest No. of Days: '57'
+      Complex-Lowest No. of Days: '1329'
+      Complex-Median No. of Days: '361.56'
+      Expedited Processing-Average No. of Days: '57'
+      Expedited Processing-Lowest No. of Days: '57'
+      Expedited Processing-Median No. of Days: '57'
+      Simple-Average No. of Days: '244.01'
+      Simple-Highest No. of Days: '314'
+      Simple-Lowest No. of Days: '1097'
+      Simple-Median No. of Days: '210'
+    '2011':
+      Complex-Average No. of Days: '846'
+      Complex-Highest No. of Days: '227'
+      Complex-Lowest No. of Days: '227'
+      Complex-Median No. of Days: '135.96'
+      Expedited Processing-Average No. of Days: '227'
+      Expedited Processing-Median No. of Days: '227'
+      Simple-Average No. of Days: '44.98'
+      Simple-Highest No. of Days: '80.5'
+      Simple-Lowest No. of Days: '842'
+      Simple-Median No. of Days: '4'
+    '2012':
+      Complex-Average No. of Days: '896'
+      Complex-Median No. of Days: '62.58'
+      Simple-Average No. of Days: '6.33'
+      Simple-Highest No. of Days: '15'
+      Simple-Lowest No. of Days: '145'
+      Simple-Median No. of Days: '2'
+    '2013':
+      Complex-Average No. of Days: '230'
+      Complex-Median No. of Days: '24.28'
+      Simple-Average No. of Days: '5.42'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '18'
+      Simple-Median No. of Days: '4'
   service_center: 'Phone: (202) 358-2562'
-  simple_request_processing_time_mean_days: '5.42'
-  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
@@ -31,9 +67,60 @@ departments:
   name: Ames Research Center
   phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '30'
+      Complex-Highest No. of Days: '163'
+      Complex-Lowest No. of Days: '9'
+      Complex-Median No. of Days: '9'
+      Expedited Processing-Average No. of Days: '41'
+      Expedited Processing-Highest No. of Days: '49'
+      Expedited Processing-Lowest No. of Days: '33'
+      Expedited Processing-Median No. of Days: '41'
+      Simple-Average No. of Days: '118'
+      Simple-Highest No. of Days: '415'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '99'
+    '2009':
+      Complex-Average No. of Days: '30'
+      Complex-Highest No. of Days: '163'
+      Complex-Lowest No. of Days: '9'
+      Complex-Median No. of Days: '9'
+      Expedited Processing-Average No. of Days: '41'
+      Expedited Processing-Highest No. of Days: '49'
+      Expedited Processing-Lowest No. of Days: '33'
+      Expedited Processing-Median No. of Days: '41'
+      Simple-Average No. of Days: '118'
+      Simple-Highest No. of Days: '415'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '99'
+    '2010':
+      Simple-Average No. of Days: '41.81'
+      Simple-Lowest No. of Days: '319'
+      Simple-Median No. of Days: '20'
+    '2011':
+      Complex-Average No. of Days: '20'
+      Complex-Lowest No. of Days: '480'
+      Complex-Median No. of Days: '193'
+      Simple-Average No. of Days: '32.59'
+      Simple-Highest No. of Days: '79'
+      Simple-Lowest No. of Days: '276'
+      Simple-Median No. of Days: '20.5'
+    '2012':
+      Complex-Average No. of Days: '533'
+      Complex-Median No. of Days: '60.35'
+      Simple-Average No. of Days: '12.96'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '56'
+      Simple-Median No. of Days: '10'
+    '2013':
+      Complex-Average No. of Days: '126'
+      Complex-Median No. of Days: '26.9'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '21'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '16'
   service_center: 'Phone: (650) 604-3273'
-  simple_request_processing_time_mean_days: '12'
-  simple_request_processing_time_median_days: '16'
   top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
 - address:
@@ -49,9 +136,71 @@ departments:
   name: Dryden Flight Research Center
   phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '35'
+      Complex-Highest No. of Days: '46'
+      Complex-Lowest No. of Days: '29'
+      Complex-Median No. of Days: '177'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '51'
+      Simple-Highest No. of Days: '286'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '515'
+    '2009':
+      Complex-Average No. of Days: '35'
+      Complex-Highest No. of Days: '46'
+      Complex-Lowest No. of Days: '29'
+      Complex-Median No. of Days: '177'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '51'
+      Simple-Highest No. of Days: '286'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '515'
+    '2010':
+      Complex-Average No. of Days: '244'
+      Complex-Highest No. of Days: '12.5'
+      Complex-Lowest No. of Days: '244'
+      Complex-Median No. of Days: '244'
+      Expedited Processing-Average No. of Days: '6'
+      Expedited Processing-Lowest No. of Days: '19'
+      Expedited Processing-Median No. of Days: '12.5'
+      Simple-Average No. of Days: '28.48'
+      Simple-Highest No. of Days: '244'
+      Simple-Lowest No. of Days: '169'
+      Simple-Median No. of Days: '15'
+    '2011':
+      Complex-Average No. of Days: '30'
+      Complex-Highest No. of Days: '30'
+      Complex-Lowest No. of Days: '30'
+      Complex-Median No. of Days: '30'
+      Simple-Average No. of Days: '21.33'
+      Simple-Highest No. of Days: '93'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2012':
+      Complex-Average No. of Days: '26'
+      Complex-Lowest No. of Days: '288'
+      Complex-Median No. of Days: '85.88'
+      Simple-Average No. of Days: '25.58'
+      Simple-Highest No. of Days: '45'
+      Simple-Lowest No. of Days: '103'
+      Simple-Median No. of Days: '15.5'
+    '2013':
+      Complex-Average No. of Days: '3'
+      Complex-Lowest No. of Days: '150'
+      Complex-Median No. of Days: '34.86'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '0.5'
   service_center: 'Phone: (661) 276-2704'
-  simple_request_processing_time_mean_days: '1'
-  simple_request_processing_time_median_days: '0.5'
   top_level: false
   website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
 - address:
@@ -66,9 +215,64 @@ departments:
   name: Glenn Research Center
   phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '23'
+      Complex-Highest No. of Days: '64'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '21'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '50'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: '23'
+      Complex-Highest No. of Days: '64'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '21'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '50'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2010':
+      Complex-Average No. of Days: '279'
+      Complex-Median No. of Days: '34.27'
+      Simple-Average No. of Days: '11.56'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '43'
+      Simple-Median No. of Days: '6'
+    '2011':
+      Complex-Average No. of Days: '1'
+      Complex-Lowest No. of Days: '448'
+      Complex-Median No. of Days: '35.21'
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '11.5'
+      Simple-Lowest No. of Days: '47'
+      Simple-Median No. of Days: '11'
+    '2012':
+      Complex-Average No. of Days: '66'
+      Complex-Median No. of Days: '22.43'
+      Simple-Average No. of Days: '5.25'
+      Simple-Highest No. of Days: '18.5'
+      Simple-Lowest No. of Days: '24'
+      Simple-Median No. of Days: '2'
+    '2013':
+      Complex-Average No. of Days: '13.2'
+      Complex-Lowest No. of Days: '59'
+      Complex-Median No. of Days: '4'
+      Simple-Average No. of Days: '4.8'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '2'
   service_center: 'Phone: (216) 443-2813'
-  simple_request_processing_time_mean_days: '4.8'
-  simple_request_processing_time_median_days: '2'
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
@@ -84,9 +288,67 @@ departments:
   phone: 301-286-4271
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
   request_form: http://www.nasa.gov/centers/goddard/business/foia/e-foia.html#efoia
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '82'
+      Complex-Highest No. of Days: '635'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '51'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '146'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2009':
+      Complex-Average No. of Days: '82'
+      Complex-Highest No. of Days: '635'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '51'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '146'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2010':
+      Complex-Average No. of Days: '139.46'
+      Complex-Highest No. of Days: '15'
+      Complex-Lowest No. of Days: '434'
+      Complex-Median No. of Days: '123.5'
+      Expedited Processing-Average No. of Days: '4'
+      Expedited Processing-Lowest No. of Days: '172'
+      Expedited Processing-Median No. of Days: '44.8'
+      Simple-Average No. of Days: '65.46'
+      Simple-Highest No. of Days: '262'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '39'
+    '2011':
+      Complex-Average No. of Days: '298'
+      Complex-Median No. of Days: '36.66'
+      Simple-Average No. of Days: '16.77'
+      Simple-Highest No. of Days: '25.5'
+      Simple-Lowest No. of Days: '82'
+      Simple-Median No. of Days: '10'
+    '2012':
+      Complex-Average No. of Days: '103'
+      Complex-Median No. of Days: '27.04'
+      Simple-Average No. of Days: '12.18'
+      Simple-Highest No. of Days: '11.5'
+      Simple-Lowest No. of Days: '77'
+      Simple-Median No. of Days: '3'
+    '2013':
+      Complex-Average No. of Days: '140'
+      Complex-Median No. of Days: '27.32'
+      Simple-Average No. of Days: '5.94'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '23'
+      Simple-Median No. of Days: '4'
   service_center: 'Phone: (301) 286-4271'
-  simple_request_processing_time_mean_days: '5.94'
-  simple_request_processing_time_median_days: '4'
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
 - abbreviation: JPL
@@ -120,9 +382,65 @@ departments:
   name: Johnson Space Center
   phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '75'
+      Complex-Highest No. of Days: '260'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '75'
+      Expedited Processing-Average No. of Days: '30'
+      Expedited Processing-Highest No. of Days: '110'
+      Expedited Processing-Lowest No. of Days: '4'
+      Expedited Processing-Median No. of Days: '30'
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2009':
+      Complex-Average No. of Days: '75'
+      Complex-Highest No. of Days: '260'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '75'
+      Expedited Processing-Average No. of Days: '30'
+      Expedited Processing-Highest No. of Days: '110'
+      Expedited Processing-Lowest No. of Days: '4'
+      Expedited Processing-Median No. of Days: '30'
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: '237'
+      Complex-Highest No. of Days: '12.43'
+      Complex-Lowest No. of Days: '11'
+      Complex-Median No. of Days: '19.93'
+      Expedited Processing-Average No. of Days: '30'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '8.54'
+      Simple-Highest No. of Days: '12'
+      Simple-Lowest No. of Days: '64'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Complex-Median No. of Days: '351'
+      Simple-Average No. of Days: '80'
+      Simple-Highest No. of Days: '19.04'
+      Simple-Lowest No. of Days: '10'
+      Simple-Median No. of Days: '17'
+    '2012':
+      Complex-Average No. of Days: '115'
+      Complex-Median No. of Days: '22.53'
+      Simple-Average No. of Days: '5.97'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '35'
+      Simple-Median No. of Days: '3'
+    '2013':
+      Complex-Average No. of Days: '80'
+      Complex-Median No. of Days: '12.99'
+      Simple-Average No. of Days: '1.86'
+      Simple-Highest No. of Days: '8'
+      Simple-Lowest No. of Days: '7'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (281) 483-8252'
-  simple_request_processing_time_mean_days: '1.86'
-  simple_request_processing_time_median_days: '1'
   top_level: false
   website: http://www.nasa.gov/centers/johnson/news/foia.html
 - address:
@@ -138,9 +456,62 @@ departments:
   phone: 321-867-9280
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
   request_form: http://www-foiacf.ksc.nasa.gov/requester.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '25'
+      Complex-Highest No. of Days: '160'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '8'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '60'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2009':
+      Complex-Average No. of Days: '25'
+      Complex-Highest No. of Days: '160'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '8'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '60'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2010':
+      Complex-Average No. of Days: '67'
+      Complex-Median No. of Days: '16.35'
+      Simple-Average No. of Days: '5.75'
+      Simple-Highest No. of Days: '7.5'
+      Simple-Lowest No. of Days: '41'
+      Simple-Median No. of Days: '1'
+    '2011':
+      Complex-Average No. of Days: '318'
+      Complex-Median No. of Days: '38.11'
+      Simple-Average No. of Days: '11.93'
+      Simple-Highest No. of Days: '22'
+      Simple-Lowest No. of Days: '63'
+      Simple-Median No. of Days: '7'
+    '2012':
+      Complex-Average No. of Days: '121'
+      Complex-Median No. of Days: '27.95'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '15'
+      Simple-Lowest No. of Days: '22'
+      Simple-Median No. of Days: '7'
+    '2013':
+      Complex-Average No. of Days: '135'
+      Complex-Median No. of Days: '22.02'
+      Simple-Average No. of Days: '3.73'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '15'
+      Simple-Median No. of Days: '2.5'
   service_center: 'Phone: (321) 867-9280'
-  simple_request_processing_time_mean_days: '3.73'
-  simple_request_processing_time_median_days: '2.5'
   top_level: false
   website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
 - address:
@@ -156,9 +527,61 @@ departments:
   name: Langley Research Center
   phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '377'
+      Complex-Highest No. of Days: '871'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '396'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '101'
+      Simple-Highest No. of Days: '101'
+      Simple-Lowest No. of Days: '101'
+      Simple-Median No. of Days: '101'
+    '2009':
+      Complex-Average No. of Days: '377'
+      Complex-Highest No. of Days: '871'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '396'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '101'
+      Simple-Highest No. of Days: '101'
+      Simple-Lowest No. of Days: '101'
+      Simple-Median No. of Days: '101'
+    '2010':
+      Complex-Average No. of Days: '1200'
+      Complex-Median No. of Days: '308.35'
+      Simple-Average No. of Days: '13.89'
+      Simple-Highest No. of Days: '202'
+      Simple-Lowest No. of Days: '102'
+      Simple-Median No. of Days: '8'
+    '2011':
+      Complex-Median No. of Days: '841'
+      Simple-Average No. of Days: '35'
+      Simple-Highest No. of Days: '97.25'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '6.22'
+    '2012':
+      Complex-Average No. of Days: '79'
+      Complex-Median No. of Days: '18.61'
+      Simple-Average No. of Days: '2.77'
+      Simple-Highest No. of Days: '11.5'
+      Simple-Lowest No. of Days: '10'
+      Simple-Median No. of Days: '2'
+    '2013':
+      Complex-Average No. of Days: '120'
+      Complex-Median No. of Days: '19.75'
+      Simple-Average No. of Days: '3.37'
+      Simple-Highest No. of Days: '12'
+      Simple-Lowest No. of Days: '15'
+      Simple-Median No. of Days: '2'
   service_center: 'Phone: (757) 864-4274'
-  simple_request_processing_time_mean_days: '3.37'
-  simple_request_processing_time_median_days: '2'
   top_level: false
   website: http://foia.larc.nasa.gov/
 - address:
@@ -175,9 +598,68 @@ departments:
   phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
   request_form: http://foia.msfc.nasa.gov/form.html
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '37'
+      Complex-Highest No. of Days: '77'
+      Complex-Lowest No. of Days: '19'
+      Complex-Median No. of Days: '35'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '42'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2009':
+      Complex-Average No. of Days: '37'
+      Complex-Highest No. of Days: '77'
+      Complex-Lowest No. of Days: '19'
+      Complex-Median No. of Days: '35'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '42'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2010':
+      Complex-Average No. of Days: '5'
+      Complex-Highest No. of Days: '20.5'
+      Complex-Lowest No. of Days: '153'
+      Complex-Median No. of Days: '49.5'
+      Expedited Processing-Average No. of Days: '8'
+      Expedited Processing-Lowest No. of Days: '30'
+      Expedited Processing-Median No. of Days: '19.75'
+      Simple-Average No. of Days: '14.45'
+      Simple-Highest No. of Days: '21.5'
+      Simple-Lowest No. of Days: '62'
+      Simple-Median No. of Days: '11'
+    '2011':
+      Complex-Average No. of Days: '2'
+      Complex-Lowest No. of Days: '100'
+      Complex-Median No. of Days: '32.14'
+      Simple-Average No. of Days: '13.9'
+      Simple-Highest No. of Days: '29'
+      Simple-Lowest No. of Days: '84'
+      Simple-Median No. of Days: '12'
+    '2012':
+      Complex-Average No. of Days: '63'
+      Complex-Median No. of Days: '20.5'
+      Simple-Average No. of Days: '9.44'
+      Simple-Highest No. of Days: '18.5'
+      Simple-Lowest No. of Days: '28'
+      Simple-Median No. of Days: '7'
+    '2013':
+      Complex-Average No. of Days: '66'
+      Complex-Median No. of Days: '21.58'
+      Simple-Average No. of Days: '7.95'
+      Simple-Highest No. of Days: '23'
+      Simple-Lowest No. of Days: '29'
+      Simple-Median No. of Days: '5'
   service_center: 'Phone: (256) 544-1837'
-  simple_request_processing_time_mean_days: '7.95'
-  simple_request_processing_time_median_days: '5'
   top_level: false
   website: http://foia.msfc.nasa.gov/
 - address:
@@ -194,9 +676,59 @@ departments:
   phone: 202-358-2582
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '18'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '18'
+    '2010':
+      Simple-Average No. of Days: '49.46'
+      Simple-Highest No. of Days: '261'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '24'
+    '2011':
+      Complex-Average No. of Days: '4'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '4'
+      Simple-Average No. of Days: '16.84'
+      Simple-Highest No. of Days: '4'
+      Simple-Lowest No. of Days: '47'
+      Simple-Median No. of Days: '18.5'
+    '2012':
+      Simple-Average No. of Days: '22.76'
+      Simple-Lowest No. of Days: '80'
+      Simple-Median No. of Days: '16.5'
+    '2013':
+      Complex-Average No. of Days: '13'
+      Complex-Lowest No. of Days: '58'
+      Complex-Median No. of Days: '32.8'
+      Simple-Average No. of Days: '11.36'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '35'
+      Simple-Median No. of Days: '9.5'
   service_center: 'Phone: (202) 358-2582'
-  simple_request_processing_time_mean_days: '11.36'
-  simple_request_processing_time_median_days: '9.5'
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:
@@ -225,9 +757,69 @@ departments:
   name: Stennis Space Center
   phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '220'
+      Complex-Highest No. of Days: '28'
+      Complex-Lowest No. of Days: '14'
+      Complex-Median No. of Days: '10'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '146'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '7'
+    '2009':
+      Complex-Average No. of Days: '220'
+      Complex-Highest No. of Days: '28'
+      Complex-Lowest No. of Days: '14'
+      Complex-Median No. of Days: '10'
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '146'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: '164'
+      Complex-Highest No. of Days: '2'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '38.8'
+      Expedited Processing-Average No. of Days: '2'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '4.59'
+      Simple-Highest No. of Days: '6'
+      Simple-Lowest No. of Days: '22'
+      Simple-Median No. of Days: '2'
+    '2011':
+      Complex-Average No. of Days: '151'
+      Complex-Lowest No. of Days: '342'
+      Complex-Median No. of Days: '246.5'
+      Simple-Average No. of Days: '11.57'
+      Simple-Highest No. of Days: '246.5'
+      Simple-Lowest No. of Days: '50'
+      Simple-Median No. of Days: '9'
+    '2012':
+      Complex-Average No. of Days: '4'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '4'
+      Simple-Average No. of Days: '5.5'
+      Simple-Highest No. of Days: '4'
+      Simple-Lowest No. of Days: '13'
+      Simple-Median No. of Days: '4'
+    '2013':
+      Complex-Average No. of Days: '9'
+      Complex-Lowest No. of Days: '9'
+      Complex-Median No. of Days: '9'
+      Simple-Average No. of Days: '3.29'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '11'
+      Simple-Median No. of Days: '3'
   service_center: 'Phone: (228) 688-3182'
-  simple_request_processing_time_mean_days: '3.29'
-  simple_request_processing_time_median_days: '3'
   top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - address:
@@ -323,6 +915,66 @@ keywords:
 - Veterans
 - Women
 name: National Aeronautics and Space Administration
-simple_request_processing_time_mean_days: '5.65'
-simple_request_processing_time_median_days: '4'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '83'
+    Complex-Highest No. of Days: '1142'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '35'
+    Expedited Processing-Average No. of Days: '36'
+    Expedited Processing-Highest No. of Days: '110'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '36'
+    Simple-Average No. of Days: '34'
+    Simple-Highest No. of Days: '415'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11'
+  '2009':
+    Complex-Average No. of Days: '83'
+    Complex-Highest No. of Days: '1142'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '35'
+    Expedited Processing-Average No. of Days: '36'
+    Expedited Processing-Highest No. of Days: '110'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '36'
+    Simple-Average No. of Days: '34'
+    Simple-Highest No. of Days: '415'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11'
+  '2010':
+    Complex-Average No. of Days: '1329'
+    Complex-Highest No. of Days: '22.57'
+    Complex-Lowest No. of Days: '12'
+    Complex-Median No. of Days: '181.68'
+    Expedited Processing-Median No. of Days: '172'
+    Simple-Average No. of Days: '54.25'
+    Simple-Highest No. of Days: '71'
+    Simple-Lowest No. of Days: '1097'
+    Simple-Median No. of Days: '13'
+  '2011':
+    Complex-Average No. of Days: '846'
+    Complex-Highest No. of Days: '227'
+    Complex-Lowest No. of Days: '227'
+    Complex-Median No. of Days: '57.97'
+    Expedited Processing-Average No. of Days: '227'
+    Expedited Processing-Median No. of Days: '227'
+    Simple-Average No. of Days: '23.9'
+    Simple-Highest No. of Days: '18'
+    Simple-Lowest No. of Days: '842'
+    Simple-Median No. of Days: '11'
+  '2012':
+    Complex-Average No. of Days: '896'
+    Complex-Median No. of Days: '33.99'
+    Simple-Average No. of Days: '9.92'
+    Simple-Highest No. of Days: '13'
+    Simple-Lowest No. of Days: '145'
+    Simple-Median No. of Days: '4'
+  '2013':
+    Complex-Average No. of Days: '252'
+    Complex-Median No. of Days: '22.34'
+    Simple-Average No. of Days: '5.65'
+    Simple-Highest No. of Days: '14'
+    Simple-Lowest No. of Days: '35'
+    Simple-Median No. of Days: '4'
 usa_id: '49476'

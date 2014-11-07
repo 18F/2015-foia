@@ -9,30 +9,33 @@ import csv
 import re
 import requests
 
+def append_time_stats(yaml_data,data,year,short_filename):
+    '''appends request time stats to list under key request_time_stats'''
+    if not yaml_data.get('request_time_stats'):
+        yaml_data['request_time_stats'] = {}
+    del data[yaml_data['name']+ year + short_filename]['Agency']
+    del data[yaml_data['name']+ year + short_filename]['Year']
+    del data[yaml_data['name']+ year + short_filename]['Component']
+    yaml_data['request_time_stats'][year.strip("_")] = \
+        data[yaml_data['name']+ year + short_filename]
+    return yaml_data
+
 def patch_yamls(data):
     """patches yaml files with average times"""
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-            if yaml_data['name']+"_2013" + short_filename in data.keys():
-                yaml_data['simple_request_processing_time_mean_days'] = \
-                    data[yaml_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Average No. of Days',"NA")
-                yaml_data['simple_request_processing_time_median_days'] = \
-                    data[yaml_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Median No. of Days',"NA")
-                del data[yaml_data['name']+"_2013" + short_filename]
-
-        for internal_data in yaml_data['departments']:
-            if internal_data['name']+"_2013" + short_filename in data:
-                internal_data['simple_request_processing_time_mean_days'] = \
-                    data[internal_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Average No. of Days',"NA")
-                internal_data['simple_request_processing_time_median_days'] = \
-                    data[internal_data['name']+"_2013" + short_filename]\
-                        .get('Simple-Median No. of Days',"NA")
-
+        for year in range(2008,2014):
+            year = "_%s" % year
+            if yaml_data['name']+ year + short_filename in data.keys():
+                yaml_data = append_time_stats(yaml_data,data,
+                    year,short_filename)
+                del data[yaml_data['name']+ year + short_filename]
+            for internal_data in yaml_data['departments']:
+                if internal_data['name']+ year + short_filename in data.keys():
+                    internal_data = append_time_stats(internal_data,
+                        data,year,short_filename)
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))

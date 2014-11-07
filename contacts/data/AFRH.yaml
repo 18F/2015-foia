@@ -23,6 +23,36 @@ keywords:
 - Environmental protection
 - Retirement
 name: Armed Forces Retirement Home
-simple_request_processing_time_mean_days: '14'
-simple_request_processing_time_median_days: '16'
+request_time_stats:
+  '2011':
+    Complex-Average No. of Days: '49'
+    Complex-Highest No. of Days: '51'
+    Complex-Lowest No. of Days: '47'
+    Complex-Median No. of Days: '49'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '32'
+    Simple-Highest No. of Days: '39'
+    Simple-Lowest No. of Days: '25'
+    Simple-Median No. of Days: '32'
+  '2012':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '111'
+    Simple-Highest No. of Days: '656'
+    Simple-Lowest No. of Days: '4'
+    Simple-Median No. of Days: '14.5'
+  '2013':
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '21'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
 usa_id: '49093'

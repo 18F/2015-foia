@@ -33,9 +33,61 @@ departments:
   name: Office of the General Counsel
   phone: 202-218-7910
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '39'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '3'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '3'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '8'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '2'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '69'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '5'
+    '2012':
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '8'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '8'
+    '2013':
+      Simple-Average No. of Days: '22'
+      Simple-Lowest No. of Days: '51'
+      Simple-Median No. of Days: '18'
   service_center: 'Phone: (202) 218-7910'
-  simple_request_processing_time_mean_days: '22'
-  simple_request_processing_time_median_days: '18'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -51,9 +103,62 @@ departments:
   name: Atlanta Regional Office
   phone: 404-331-5300
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '8'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '10'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '14'
+    '2012':
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '12'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '10'
+    '2013':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (404) 331-5300'
-  simple_request_processing_time_mean_days: '12'
-  simple_request_processing_time_median_days: '10'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -69,9 +174,62 @@ departments:
   name: Boston Regional Office
   phone: 617-565-5100
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '5'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '9'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '11'
+    '2012':
+      Simple-Average No. of Days: '2'
+      Simple-Highest No. of Days: '3'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '2'
+    '2013':
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '3'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '3'
   service_center: 'Phone: (617) 565-5100'
-  simple_request_processing_time_mean_days: '3'
-  simple_request_processing_time_median_days: '3'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -87,9 +245,62 @@ departments:
   name: Chicago Regional Office
   phone: 312-886-3465
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '3'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '1'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '39'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '6'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '3'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '3'
+    '2012':
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '7'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '3'
+    '2013':
+      Simple-Average No. of Days: '9.5'
+      Simple-Highest No. of Days: '10'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '9.5'
   service_center: 'Phone: (312) 886-3465'
-  simple_request_processing_time_mean_days: '9.5'
-  simple_request_processing_time_median_days: '9.5'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -105,9 +316,62 @@ departments:
   name: Dallas Regional Office
   phone: 214-767-6266
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '7'
+      Simple-Lowest No. of Days: '7'
+      Simple-Median No. of Days: '7'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '6'
+      Simple-Highest No. of Days: '6'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '6'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '20'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: '18'
+      Simple-Median No. of Days: '18'
+    '2012':
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '12'
+      Simple-Median No. of Days: '14'
+    '2013':
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: '13'
+      Simple-Median No. of Days: '14'
   service_center: 'Phone: (214) 767-6266'
-  simple_request_processing_time_mean_days: '15'
-  simple_request_processing_time_median_days: '14'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -123,9 +387,56 @@ departments:
   name: Denver Regional Office
   phone: 303-844-5226
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '9'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '9'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Simple-Average No. of Days: NA
+      Simple-Highest No. of Days: NA
+      Simple-Lowest No. of Days: NA
+      Simple-Median No. of Days: NA
+    '2012':
+      Simple-Average No. of Days: NA
+      Simple-Highest No. of Days: NA
+      Simple-Lowest No. of Days: NA
+      Simple-Median No. of Days: NA
+    '2013':
+      Simple-Average No. of Days: '1'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (303) 844-5226'
-  simple_request_processing_time_mean_days: '1'
-  simple_request_processing_time_median_days: '1'
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
@@ -141,9 +452,61 @@ departments:
   name: San Francisco Regional Office
   phone: 415-356-5000
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '7'
+      Simple-Lowest No. of Days: '7'
+      Simple-Median No. of Days: '7'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '9'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '17'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '20'
+    '2012':
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '15'
+      Simple-Median No. of Days: '18'
+    '2013':
+      Simple-Average No. of Days: '4.17'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '3.5'
   service_center: 'Phone: (415) 356-5000'
-  simple_request_processing_time_mean_days: '4.17'
-  simple_request_processing_time_median_days: '3.5'
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
@@ -159,9 +522,58 @@ departments:
   name: Washington Regional Office
   phone: 202-482-6700
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '8'
+    '2009':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '1'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2010':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '20'
+    '2011':
+      Complex-Average No. of Days: NA
+      Complex-Highest No. of Days: NA
+      Complex-Lowest No. of Days: NA
+      Complex-Median No. of Days: NA
+      Expedited Processing-Average No. of Days: NA
+      Expedited Processing-Highest No. of Days: NA
+      Expedited Processing-Lowest No. of Days: NA
+      Expedited Processing-Median No. of Days: NA
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '1'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2012':
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '2'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2013': {}
   service_center: 'Phone: (202) 482-6700'
-  simple_request_processing_time_mean_days: NA
-  simple_request_processing_time_median_days: NA
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
@@ -208,9 +620,66 @@ name: Federal Labor Relations Authority
 phone: 202-218-7770
 public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '28'
+    Simple-Highest No. of Days: '325'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '9'
+  '2009':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '80'
+    Simple-Highest No. of Days: NA
+    Simple-Lowest No. of Days: '1061'
+    Simple-Median No. of Days: '10'
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: NA
+    Simple-Lowest No. of Days: '250'
+    Simple-Median No. of Days: '9'
+  '2011':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '69'
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: '12'
+  '2012':
+    Complex-Average No. of Days: '21'
+    Complex-Lowest No. of Days: '156'
+    Complex-Median No. of Days: '66'
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '21'
+    Simple-Lowest No. of Days: '28'
+    Simple-Median No. of Days: '8'
+  '2013':
+    Complex-Average No. of Days: '18'
+    Complex-Lowest No. of Days: '56'
+    Complex-Median No. of Days: '37.33'
+    Simple-Average No. of Days: '10.71'
+    Simple-Highest No. of Days: '38'
+    Simple-Lowest No. of Days: '51'
+    Simple-Median No. of Days: '9'
 service_center: 'Phone: (202) 218-7770'
-simple_request_processing_time_mean_days: '10.71'
-simple_request_processing_time_median_days: '9'
 top_level: false
 usa_id: '52613'
 website: http://www.flra.gov/FOIA

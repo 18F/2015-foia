@@ -18,5 +18,73 @@ description: Monetary policy is made by the Federal Open Market Committee (FOMC)
   which consists of the members of the Board of Governors of the Federal Reserve System
   and five Reserve Bank presidents.
 name: Federal Open Market Committee
-simple_request_processing_time_mean_days: '11.7'
-simple_request_processing_time_median_days: '10'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '18.6'
+    Complex-Highest No. of Days: '31'
+    Complex-Lowest No. of Days: '12'
+    Complex-Median No. of Days: '13'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '8.9'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '8.5'
+  '2009':
+    Complex-Average No. of Days: '38.5'
+    Complex-Highest No. of Days: '69'
+    Complex-Lowest No. of Days: '8'
+    Complex-Median No. of Days: '38.5'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '3'
+    Simple-Highest No. of Days: '5'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2010':
+    Complex-Average No. of Days: '4'
+    Complex-Lowest No. of Days: '137'
+    Complex-Median No. of Days: '50.4'
+    Simple-Average No. of Days: '7.6'
+    Simple-Highest No. of Days: '37'
+    Simple-Lowest No. of Days: '20'
+    Simple-Median No. of Days: '6.5'
+  '2011':
+    Complex-Average No. of Days: '21.4'
+    Complex-Highest No. of Days: '27'
+    Complex-Lowest No. of Days: '19'
+    Complex-Median No. of Days: '19'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '10.4'
+    Simple-Highest No. of Days: '19'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '8'
+  '2012':
+    Complex-Average No. of Days: '85.8'
+    Complex-Highest No. of Days: '156'
+    Complex-Lowest No. of Days: '27'
+    Complex-Median No. of Days: '73'
+    Expedited Processing-Average No. of Days: '11'
+    Expedited Processing-Highest No. of Days: '11'
+    Expedited Processing-Lowest No. of Days: '11'
+    Expedited Processing-Median No. of Days: '11'
+    Simple-Average No. of Days: '7.6'
+    Simple-Highest No. of Days: '13'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '7'
+  '2013':
+    Complex-Average No. of Days: '168.6'
+    Complex-Highest No. of Days: '342'
+    Complex-Lowest No. of Days: '36'
+    Complex-Median No. of Days: '196'
+    Simple-Average No. of Days: '11.7'
+    Simple-Highest No. of Days: '18'
+    Simple-Lowest No. of Days: '4'
+    Simple-Median No. of Days: '10'

@@ -30,6 +30,45 @@ keywords:
 - Sunshine Act
 - Television
 name: Broadcasting Board of Governors
-simple_request_processing_time_mean_days: '44'
-simple_request_processing_time_median_days: '38'
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: '79'
+    Complex-Highest No. of Days: '223'
+    Complex-Lowest No. of Days: '17'
+    Complex-Median No. of Days: '70'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '22'
+    Simple-Highest No. of Days: '69'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '19'
+  '2011':
+    Complex-Average No. of Days: '31'
+    Complex-Highest No. of Days: '117'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '28'
+    Expedited Processing-Average No. of Days: '52'
+    Expedited Processing-Highest No. of Days: '52'
+    Expedited Processing-Lowest No. of Days: '52'
+    Expedited Processing-Median No. of Days: '52'
+    Simple-Average No. of Days: NA
+    Simple-Highest No. of Days: NA
+    Simple-Lowest No. of Days: NA
+    Simple-Median No. of Days: NA
+  '2012':
+    Complex-Average No. of Days: '36'
+    Complex-Highest No. of Days: '49'
+    Complex-Lowest No. of Days: '37'
+    Complex-Median No. of Days: '30'
+    Simple-Average No. of Days: '32'
+    Simple-Highest No. of Days: '118'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '26'
+  '2013':
+    Simple-Average No. of Days: '44'
+    Simple-Highest No. of Days: '99'
+    Simple-Lowest No. of Days: '6'
+    Simple-Median No. of Days: '38'
 usa_id: '49109'

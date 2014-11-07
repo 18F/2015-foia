@@ -41,6 +41,67 @@ keywords:
 - Reporting and recordkeeping requirements
 - State and local governments
 name: Office of Management and Budget
-simple_request_processing_time_mean_days: '31'
-simple_request_processing_time_median_days: '18'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '26'
+    Simple-Highest No. of Days: '105'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '20'
+  '2009':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '23'
+    Simple-Highest No. of Days: '83'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '18'
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '52'
+    Simple-Highest No. of Days: '236'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '33'
+  '2011':
+    Simple-Average No. of Days: '82'
+    Simple-Highest No. of Days: '284'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '66'
+  '2012':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '69'
+    Simple-Highest No. of Days: '648'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '44'
+  '2013':
+    Simple-Average No. of Days: '31'
+    Simple-Highest No. of Days: '233'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '18'
 usa_id: '49584'

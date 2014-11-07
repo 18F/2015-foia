@@ -91,6 +91,77 @@ keywords:
 - Wages
 - Youth
 name: Federal Trade Commission
-simple_request_processing_time_mean_days: '7.36'
-simple_request_processing_time_median_days: '4'
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '33.02'
+    Complex-Highest No. of Days: '146'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '21'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '8.29'
+    Simple-Highest No. of Days: '218'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2009':
+    Complex-Average No. of Days: '24.55'
+    Complex-Highest No. of Days: '230'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '14'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '6.59'
+    Simple-Highest No. of Days: '74'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2010':
+    Complex-Average No. of Days: '54.76'
+    Complex-Highest No. of Days: '595'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '22'
+    Simple-Average No. of Days: '8.23'
+    Simple-Highest No. of Days: '157'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '4'
+  '2011':
+    Complex-Average No. of Days: '49.48'
+    Complex-Highest No. of Days: '463'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '26.5'
+    Expedited Processing-Average No. of Days: '11.4'
+    Expedited Processing-Highest No. of Days: '18'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '16'
+    Simple-Average No. of Days: '5.29'
+    Simple-Highest No. of Days: '129'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2012':
+    Complex-Average No. of Days: '49.48'
+    Complex-Highest No. of Days: '463'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '26.5'
+    Expedited Processing-Average No. of Days: '11.4'
+    Expedited Processing-Highest No. of Days: '18'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '16'
+    Simple-Average No. of Days: '5.29'
+    Simple-Highest No. of Days: '129'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2013':
+    Complex-Average No. of Days: '27.6'
+    Complex-Highest No. of Days: '588'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '18'
+    Expedited Processing-Average No. of Days: '8'
+    Expedited Processing-Highest No. of Days: '8'
+    Expedited Processing-Lowest No. of Days: '8'
+    Expedited Processing-Median No. of Days: '8'
+    Simple-Average No. of Days: '7.36'
+    Simple-Highest No. of Days: '111'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '4'
 usa_id: '49047'

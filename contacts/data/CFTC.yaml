@@ -69,6 +69,57 @@ keywords:
 - Trusts and trustees
 - Whistleblowing
 name: Commodity Futures Trading Commission
-simple_request_processing_time_mean_days: '65'
-simple_request_processing_time_median_days: '40'
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '23.7'
+    Simple-Highest No. of Days: '315'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '14'
+  '2009':
+    Simple-Average No. of Days: '15.26'
+    Simple-Highest No. of Days: '119'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '9.5'
+  '2010':
+    Complex-Average No. of Days: NA
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: NA
+    Complex-Median No. of Days: NA
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Highest No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '22.79'
+    Simple-Highest No. of Days: '253'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '13'
+  '2011':
+    Complex-Average No. of Days: '1'
+    Complex-Highest No. of Days: NA
+    Complex-Lowest No. of Days: '473'
+    Complex-Median No. of Days: '119.26'
+    Expedited Processing-Average No. of Days: NA
+    Expedited Processing-Lowest No. of Days: NA
+    Expedited Processing-Median No. of Days: NA
+    Simple-Average No. of Days: '28.39'
+    Simple-Highest No. of Days: '79'
+    Simple-Lowest No. of Days: '145'
+    Simple-Median No. of Days: '13.5'
+  '2012':
+    Complex-Average No. of Days: '3'
+    Complex-Lowest No. of Days: '471'
+    Complex-Median No. of Days: '146.47'
+    Simple-Average No. of Days: '46.52'
+    Simple-Highest No. of Days: '108'
+    Simple-Lowest No. of Days: '333'
+    Simple-Median No. of Days: '18'
+  '2013':
+    Complex-Average No. of Days: '239.27'
+    Complex-Highest No. of Days: '838'
+    Complex-Lowest No. of Days: '26'
+    Complex-Median No. of Days: '216'
+    Simple-Average No. of Days: '65'
+    Simple-Highest No. of Days: '401'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '40'
 usa_id: '48146'
