@@ -28,39 +28,19 @@ keywords:
 name: Overseas Private Investment Corporation
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
-    Expedited Processing-Average No. of Days: NA
-    Expedited Processing-Highest No. of Days: NA
-    Expedited Processing-Lowest No. of Days: NA
-    Expedited Processing-Median No. of Days: NA
     Simple-Average No. of Days: '26'
     Simple-Highest No. of Days: '177'
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '89'
   '2009':
-    Complex-Average No. of Days: NA
     Complex-Highest No. of Days: '7.5'
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Expedited Processing-Average No. of Days: '94'
     Expedited Processing-Median No. of Days: '27.5'
     Simple-Average No. of Days: '12'
-    Simple-Highest No. of Days: NA
     Simple-Lowest No. of Days: '36'
     Simple-Median No. of Days: '10'
   '2010':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
-    Expedited Processing-Average No. of Days: NA
-    Expedited Processing-Lowest No. of Days: NA
-    Expedited Processing-Median No. of Days: NA
     Simple-Average No. of Days: '17.95'
-    Simple-Highest No. of Days: NA
     Simple-Lowest No. of Days: '92'
     Simple-Median No. of Days: '9'
   '2011':
@@ -71,11 +51,7 @@ request_time_stats:
     Simple-Lowest No. of Days: '114'
     Simple-Median No. of Days: '12'
   '2012':
-    Complex-Average No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Simple-Average No. of Days: '18.37'
-    Simple-Highest No. of Days: NA
     Simple-Lowest No. of Days: '125'
     Simple-Median No. of Days: '10'
   '2013':

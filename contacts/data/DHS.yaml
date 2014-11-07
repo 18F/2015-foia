@@ -353,7 +353,6 @@ departments:
       Expedited Processing-Median No. of Days: '8'
       Simple-Average No. of Days: '247.98'
       Simple-Highest No. of Days: '1780'
-      Simple-Lowest No. of Days: NA
       Simple-Median No. of Days: '146'
     '2013':
       Complex-Average No. of Days: '147.96'
@@ -385,28 +384,11 @@ departments:
   request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: NA
-      Complex-Highest No. of Days: NA
-      Complex-Lowest No. of Days: NA
-      Complex-Median No. of Days: NA
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Highest No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '22'
       Simple-Highest No. of Days: '98'
-      Simple-Lowest No. of Days: NA
       Simple-Median No. of Days: '12'
     '2009':
-      Complex-Average No. of Days: NA
-      Complex-Highest No. of Days: NA
-      Complex-Lowest No. of Days: NA
-      Complex-Median No. of Days: NA
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '40.47'
-      Simple-Highest No. of Days: NA
       Simple-Lowest No. of Days: '235'
       Simple-Median No. of Days: '23'
     '2010':
@@ -517,10 +499,6 @@ departments:
       Complex-Highest No. of Days: '359'
       Complex-Lowest No. of Days: '3'
       Complex-Median No. of Days: '31'
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Highest No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '21.47'
       Simple-Highest No. of Days: '132'
       Simple-Lowest No. of Days: '1'
@@ -653,10 +631,6 @@ departments:
       Complex-Highest No. of Days: '1566'
       Complex-Lowest No. of Days: '61'
       Complex-Median No. of Days: '162'
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Highest No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '31.16'
       Simple-Highest No. of Days: '60'
       Simple-Lowest No. of Days: '2'
@@ -666,10 +640,6 @@ departments:
       Complex-Highest No. of Days: '1204'
       Complex-Lowest No. of Days: '61'
       Complex-Median No. of Days: '208'
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Highest No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '38.66'
       Simple-Highest No. of Days: '59'
       Simple-Lowest No. of Days: '21'
@@ -806,10 +776,6 @@ departments:
       Complex-Highest No. of Days: '1037'
       Complex-Lowest No. of Days: '1'
       Complex-Median No. of Days: '59'
-      Expedited Processing-Average No. of Days: NA
-      Expedited Processing-Highest No. of Days: NA
-      Expedited Processing-Lowest No. of Days: NA
-      Expedited Processing-Median No. of Days: NA
       Simple-Average No. of Days: '37.28'
       Simple-Highest No. of Days: '321'
       Simple-Lowest No. of Days: '1'
@@ -1092,15 +1058,12 @@ request_time_stats:
   '2008':
     Complex-Average No. of Days: '280.38'
     Complex-Highest No. of Days: '2860'
-    Complex-Lowest No. of Days: NA
     Complex-Median No. of Days: '374'
     Expedited Processing-Average No. of Days: '57.85'
     Expedited Processing-Highest No. of Days: '439'
-    Expedited Processing-Lowest No. of Days: NA
     Expedited Processing-Median No. of Days: '23'
     Simple-Average No. of Days: '146.31'
     Simple-Highest No. of Days: '1064'
-    Simple-Lowest No. of Days: NA
     Simple-Median No. of Days: '87'
   '2009':
     Complex-Average No. of Days: '1'

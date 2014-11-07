@@ -9,6 +9,14 @@ import csv
 import re
 import requests
 
+def delete_empty_data(data):
+    '''delete the empty keys for dictionary'''
+    keys = list(data.keys())
+    for key in keys:
+        if data[key] == "NA":
+            del data[key]
+    return data
+
 def append_time_stats(yaml_data,data,year,short_filename):
     '''appends request time stats to list under key request_time_stats'''
     if not yaml_data.get('request_time_stats'):
@@ -17,7 +25,7 @@ def append_time_stats(yaml_data,data,year,short_filename):
     del data[yaml_data['name']+ year + short_filename]['Year']
     del data[yaml_data['name']+ year + short_filename]['Component']
     yaml_data['request_time_stats'][year.strip("_")] = \
-        data[yaml_data['name']+ year + short_filename]
+        delete_empty_data(data[yaml_data['name']+ year + short_filename])
     return yaml_data
 
 def patch_yamls(data):

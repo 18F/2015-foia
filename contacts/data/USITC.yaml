@@ -25,10 +25,6 @@ description: The mission of the Commission is to (1) administer U.S. trade remed
 name: United States International Trade Commission
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Expedited Processing-Average No. of Days: '10.5'
     Expedited Processing-Highest No. of Days: '20'
     Expedited Processing-Lowest No. of Days: '1'
@@ -38,23 +34,11 @@ request_time_stats:
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '16'
   '2009':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
-    Expedited Processing-Average No. of Days: NA
-    Expedited Processing-Highest No. of Days: NA
-    Expedited Processing-Lowest No. of Days: NA
-    Expedited Processing-Median No. of Days: NA
     Simple-Average No. of Days: '19'
     Simple-Highest No. of Days: '49'
     Simple-Lowest No. of Days: '2'
     Simple-Median No. of Days: '18'
   '2010':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Expedited Processing-Average No. of Days: '4'
     Expedited Processing-Highest No. of Days: '4'
     Expedited Processing-Lowest No. of Days: '4'
@@ -64,10 +48,6 @@ request_time_stats:
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '17'
   '2011':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Expedited Processing-Average No. of Days: '6'
     Expedited Processing-Highest No. of Days: '6'
     Expedited Processing-Lowest No. of Days: '6'
@@ -77,10 +57,6 @@ request_time_stats:
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '15'
   '2012':
-    Complex-Average No. of Days: NA
-    Complex-Highest No. of Days: NA
-    Complex-Lowest No. of Days: NA
-    Complex-Median No. of Days: NA
     Expedited Processing-Average No. of Days: '3'
     Expedited Processing-Highest No. of Days: '30'
     Expedited Processing-Lowest No. of Days: '1'
@@ -94,10 +70,6 @@ request_time_stats:
     Complex-Highest No. of Days: '30'
     Complex-Lowest No. of Days: '30'
     Complex-Median No. of Days: '30'
-    Expedited Processing-Average No. of Days: NA
-    Expedited Processing-Highest No. of Days: NA
-    Expedited Processing-Lowest No. of Days: NA
-    Expedited Processing-Median No. of Days: NA
     Simple-Average No. of Days: '10'
     Simple-Highest No. of Days: '20'
     Simple-Lowest No. of Days: '1'

@@ -115,7 +115,6 @@ request_time_stats:
   '2009':
     Complex-Average No. of Days: '59'
     Complex-Highest No. of Days: '1002'
-    Complex-Lowest No. of Days: NA
     Complex-Median No. of Days: '32'
     Expedited Processing-Average No. of Days: '56'
     Expedited Processing-Highest No. of Days: '56'
@@ -123,7 +122,6 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '56'
     Simple-Average No. of Days: '41'
     Simple-Highest No. of Days: '851'
-    Simple-Lowest No. of Days: NA
     Simple-Median No. of Days: '10'
   '2010':
     Complex-Average No. of Days: '45'
@@ -141,28 +139,22 @@ request_time_stats:
   '2011':
     Complex-Average No. of Days: '103.24'
     Complex-Highest No. of Days: '613'
-    Complex-Lowest No. of Days: NA
     Complex-Median No. of Days: '83'
     Expedited Processing-Average No. of Days: '6'
     Expedited Processing-Highest No. of Days: '19'
-    Expedited Processing-Lowest No. of Days: NA
     Expedited Processing-Median No. of Days: '4'
     Simple-Average No. of Days: '30.83'
     Simple-Highest No. of Days: '496'
-    Simple-Lowest No. of Days: NA
     Simple-Median No. of Days: '18'
   '2012':
     Complex-Average No. of Days: '108'
     Complex-Highest No. of Days: '684'
-    Complex-Lowest No. of Days: NA
     Complex-Median No. of Days: '63'
     Expedited Processing-Average No. of Days: '91.8'
     Expedited Processing-Highest No. of Days: '263'
-    Expedited Processing-Lowest No. of Days: NA
     Expedited Processing-Median No. of Days: '81.5'
     Simple-Average No. of Days: '35.71'
     Simple-Highest No. of Days: '724'
-    Simple-Lowest No. of Days: NA
     Simple-Median No. of Days: '19'
   '2013':
     Complex-Average No. of Days: '817'
