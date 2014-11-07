@@ -4,12 +4,20 @@ departments:
 - name: U.S. Coast Guard
   top_level: true
 - name: U.S. Customs & Border Protection
+  website: http://www.cbp.gov/site-policy-notices/foia
   top_level: true
 - name: Federal Emergency Management Agency
   top_level: true
+  website: http://www.fema.gov/fema-freedom-information-act
 - name: Federal Law Enforcement Training Center
   top_level: true
+  website: http://www.fletc.gov/freedom-information-act-foia
+  request_form: http://www.fletc.gov/about/freedom-information-act-request
 - name: U.S. Immigration & Customs Enforcement
+  request_form: http://www.ice.gov/webform/foia-request-form
   top_level: true
 - name: United States Secret Service
   top_level: true
+- name: Transportation Security Administration
+  top_level: true
+  website: http://www.tsa.gov/research-center/freedom-information-act-foia

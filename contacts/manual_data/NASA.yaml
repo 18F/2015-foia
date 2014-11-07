@@ -1,5 +1,16 @@
 departments:
 - name: Jet Propulsion Laboratory
+  request_form: http://socialforms.nasa.gov/foia
+  website: http://www.jpl.nasa.gov/
   top_level: true
 - name: NASA Shared Services Center
   top_level: true
+- name: Marshall Space Flight Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: Dryden Flight Research Center
+  website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
+- name: Goddard Space Flight Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: Kennedy Space Center
+  website: http://www.nasa.gov/centers/kennedy/home/
+  request_form: http://socialforms.nasa.gov/foia

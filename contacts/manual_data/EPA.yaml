@@ -1,2 +1,5 @@
 name: Environmental Protection Agency
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
+departments:
+- name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
+  website: http://www.epa.gov/region8/epa-region-8-foia-office-contact

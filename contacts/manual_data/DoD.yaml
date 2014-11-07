@@ -12,8 +12,24 @@ departments:
 - name: National Geographic Intelligence Agency
   top_level: true
 - name: National Guard Bureau
+  website: http://www.arng.army.mil/Pages/FOIA.aspx
   top_level: true
 - name: National Reconnaissance Office
   top_level: true
 - name: National Security Agency
   top_level: true
+- name: U.S. Central Command
+  request_form: https://www6.centcom.mil/FOIARequests/request.asp
+  website: http://www.centcom.mil/en/freedom-of-information-act-en
+- name: U.S. European Command
+  website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
+- name: U.S. Northern Command
+  website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
+- name: U.S. Pacific Command
+  website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
+- name: U.S. Southern Command
+  website: http://www.socom.mil/FOIA/Pages/default.aspx
+- name: U.S. Transportation Command
+  website: http://www.transcom.mil/foia/
+- name: Armed Services Board of Contract Appeals
+  website: http://www.asbca.mil

@@ -220,7 +220,7 @@ departments:
   public_liaison: 'Catherine A. Stanton, Phone: (703) 681-8503'
   service_center: 'Phone: (703) 681-8503'
   top_level: false
-  website: www.asbca.mil
+  website: http://www.asbca.mil
 - address:
   - Comillo DeSantis
   - FOIA/Privacy Officer
@@ -449,7 +449,7 @@ departments:
   service_center: 'Phone: (703) 607-3195'
   top_level: true
   usa_id: '49506'
-  website: http://www.ng.mil/sitelinks/foia.aspx
+  website: http://www.arng.army.mil/Pages/FOIA.aspx
 - abbreviation: NRO
   address:
   - Patricia B. Cameresi
@@ -560,7 +560,7 @@ departments:
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
   service_center: 'Phone: (813) 827-1810'
   top_level: false
-  website: http://www.centcom.mil/freedom-of-information-act
+  website: http://www.centcom.mil/en/freedom-of-information-act-en
 - address:
   - FOIA Contact
   - HQ USEUCOM
@@ -577,7 +577,7 @@ departments:
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: 49 011 711 680-7161'
   top_level: false
-  website: http://www.eucom.mil/english/FOIA.asp
+  website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
 - address:
   - FOIA Contact
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
@@ -614,7 +614,7 @@ departments:
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: (719) 554-1785'
   top_level: false
-  website: http://www.northcom.mil/FOIA.html
+  website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
 - address:
   - FOIA Contact
   - 'ATTN: J151 FOIA Requester Service Center'
@@ -630,7 +630,7 @@ departments:
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   service_center: 'Phone: (808) 477-0995'
   top_level: false
-  website: http://www.pacom.mil/web/Site_Pages/Home_Page/FOIA.shtml
+  website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - address:
   - Marco T. Villalobos
   - FOIA Contact
@@ -646,7 +646,7 @@ departments:
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   top_level: false
-  website: http://www.southcom.mil/foia/Pages/FOIA.aspx
+  website: http://www.socom.mil/FOIA/Pages/default.aspx
 - address:
   - FOIA Contact
   - HQ USSOCOM
@@ -695,7 +695,7 @@ departments:
   phone: 618-220-4100
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   top_level: false
-  website: http://www.transcom.mil/Foia/generalInfoFoia.action
+  website: http://www.transcom.mil/foia/
 description: The mission of the Department of Defense is to provide the military forces
   needed to deter war and to protect the security of our country.
 keywords:
