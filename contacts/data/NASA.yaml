@@ -47,7 +47,7 @@ departments:
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
   service_center: 'Phone: (661) 276-2704'
   top_level: false
-  website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
+  website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
 - address:
   - Angela Pierce
   - GRC FOIA Officer
@@ -75,7 +75,7 @@ departments:
   name: Goddard Space Flight Center
   phone: 301-286-4271
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
-  request_form: http://www.nasa.gov/centers/goddard/business/foia/e-foia.html#efoia
+  request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (301) 286-4271'
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
@@ -94,10 +94,10 @@ departments:
   name: Jet Propulsion Laboratory
   phone: 818-393-6779
   public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
-  request_form: https://nmo.nasa.gov/foia/foia_requester.cfm?CFID=231001&CFTOKEN=98756504
+  request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (818) 393-6779'
   top_level: true
-  website: http://nmo.nasa.gov/cfm_nasa/foia.cfm
+  website: http://www.jpl.nasa.gov/
 - address:
   - Jessica Cordero
   - JSC FOIA Officer
@@ -125,10 +125,10 @@ departments:
   name: Kennedy Space Center
   phone: 321-867-9280
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
-  request_form: http://www-foiacf.ksc.nasa.gov/requester.cfm
+  request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (321) 867-9280'
   top_level: false
-  website: http://www.nasa.gov/centers/kennedy/about/foia/index.html
+  website: http://www.nasa.gov/centers/kennedy/home/
 - address:
   - Carissa Wheeler
   - LaRC FOIA Officer
@@ -158,7 +158,7 @@ departments:
   name: Marshall Space Flight Center
   phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
-  request_form: http://foia.msfc.nasa.gov/form.html
+  request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (256) 544-1837'
   top_level: false
   website: http://foia.msfc.nasa.gov/

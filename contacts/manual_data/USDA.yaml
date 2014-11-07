@@ -1,3 +1,9 @@
 departments:
 - name: Foreign Agricultural Service
   website: http://www.fas.usda.gov/freedom-information-act-foia
+- name: Research, Education & Economics
+  website: http://www.ars.usda.gov/is/foia/foiaform.htm
+- name: National Finance Center
+  website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
+- name: Agricultural Marketing Service
+  website: ''

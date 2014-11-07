@@ -12,6 +12,7 @@ departments:
 - name: National Geographic Intelligence Agency
   top_level: true
 - name: National Guard Bureau
+  website: http://www.arng.army.mil/Pages/FOIA.aspx
   top_level: true
 - name: National Reconnaissance Office
   top_level: true
