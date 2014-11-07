@@ -314,7 +314,7 @@ departments:
   service_center: 'Phone: (202) 325-0150'
   top_level: true
   usa_id: '55927'
-  website: http://www.cbp.gov/xp/cgov/admin/fl/foia/
+  website: http://www.cbp.gov/site-policy-notices/foia
 - abbreviation: FEMA
   address:
   - Terry Cochran
@@ -404,7 +404,7 @@ departments:
   service_center: 'Phone: (202) 646-3323'
   top_level: true
   usa_id: '48042'
-  website: http://www.fema.gov/help/foia.shtm
+  website: http://www.fema.gov/fema-freedom-information-act
 - abbreviation: FLETC
   address:
   - Leslie A. Jensen
@@ -421,11 +421,11 @@ departments:
   name: Federal Law Enforcement Training Center
   phone: 912-267-3103
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
-  request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
+  request_form: http://www.fletc.gov/about/freedom-information-act-request
   service_center: 'Phone: (912) 267-3103'
   top_level: true
   usa_id: '49308'
-  website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
+  website: http://www.fletc.gov/freedom-information-act-foia
 - abbreviation: ICE
   address:
   - Catrina Pavlick-Keenan
@@ -458,7 +458,7 @@ departments:
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
-  request_form: http://www.ice.gov/foia/request-form.htm
+  request_form: http://www.ice.gov/webform/foia-request-form
   service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
   top_level: true
   usa_id: '49711'
@@ -660,8 +660,8 @@ departments:
   phone: 866-364-2872
   public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
   service_center: 'Phone: (866) 364-2872, (571) 227-2300'
-  top_level: false
-  website: http://www.tsa.gov/research/foia/index.shtm
+  top_level: true
+  website: http://www.tsa.gov/research-center/freedom-information-act-foia
 - address:
   - Michael Johnson
   - FOIA Officer

@@ -202,7 +202,7 @@ departments:
   service_center: 'Phone: (202) 482-5045'
   top_level: true
   usa_id: '49464'
-  website: http://www.mbda.gov/foia-reading-room
+  website: http://www.mbda.gov/freedom-information-act-reading-room
 - abbreviation: NIST
   address:
   - Catherine S. Fletcher
@@ -262,7 +262,7 @@ departments:
   service_center: 'Phone: (703) 605-6404'
   top_level: true
   usa_id: '49549'
-  website: http://www.ntis.gov/about/FOIA.aspx
+  website: http://www.ntis.gov/about/FOIA/
 - address:
   - Stacy Cheney
   - FOIA Officer, Office of the Chief Counsel
