@@ -86,6 +86,8 @@ def normalize_name(name):
 
 
 def normalize_and_map(keywords):
+    """Maps old dictionary to dictionary with new keys without loosing
+    keys in the process """
     new_dictionary = dict()
     for key in keywords.keys():
         normal_key = normalize_name(key)

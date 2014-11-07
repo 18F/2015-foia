@@ -555,6 +555,11 @@ class FRTests(TestCase):
         self.assertEqual(29, fr.last_day_in_month(2004, 2))
         self.assertEqual(31, fr.last_day_in_month(2011, 1))
 
+    def test_normalize_and_map(self):
+        """should normalize keys w/ loosing data"""
+        test_dict = {'A':{'datum1'},'B':{'datum2'},'a':{'datum3'}}
+        expected_dict = {'A':{'datum1','datum3'},'B':{'datum2'}}
+        self.assertEqual(expected_dict,fr.normalize_and_map(test_dict))
 
 class USALayerTests(TestCase):
     def test_float_to_int_str(self):
