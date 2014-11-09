@@ -1,6 +1,8 @@
 departments:
 - name: Administration for Community Living
+  description: "ACL brings together the efforts and achievements of the Administration on Aging, the Administration on Intellectual and Developmental Disabilities, and the HHS Office on Disability to serve as the Federal agency responsible for increasing access to community supports, while focusing attention and resources on the unique needs of older Americans and people with disabilities across the lifespan."
   top_level: true
+  website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
 - name: Agency for Healthcare Research and Quality
   top_level: true
 - name: Centers for Disease Control and Prevention
@@ -15,7 +17,10 @@ departments:
   top_level: true
 - name: Indian Health Service
   top_level: true
+  website: http://www.ihs.gov/FOIA/
 - name: National Institutes of Health
   top_level: true
 - name: Substance Abuse and Mental Health Services Administration
   top_level: true
+- name: Administration for Children and Families
+  website: https://www.acf.hhs.gov/freedom-of-information-act

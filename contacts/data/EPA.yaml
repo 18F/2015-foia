@@ -157,7 +157,7 @@ departments:
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (303) 312-6856'
   top_level: false
-  website: http://www.epa.gov/region8/foia/index.html
+  website: http://www.epa.gov/region8/epa-region-8-foia-office-contact
 - address:
   - Regional Freedom of Information Officer
   - U.S. EPA, Region 9
@@ -356,7 +356,6 @@ keywords:
 - Plants
 - Plastics materials and synthetics
 - Plutonium
-- Poison prevention
 - Polymers
 - Poultry and poultry products
 - Privacy

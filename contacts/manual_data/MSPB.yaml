@@ -1,2 +1,21 @@
-name: Merit Systems Protection Board
+departments:
+- name: Headquarters
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Atlanta Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Central Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Washington DC Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Northeastern Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Dallas Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Western Regional Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: New York Field Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+  website: http://www.mspb.gov/contact/contact.htm#FOIA
+- name: Denver Field Office
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_form: https://foiaonline.regulations.gov/foia/action/public/home

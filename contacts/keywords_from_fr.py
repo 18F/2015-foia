@@ -85,6 +85,17 @@ def normalize_name(name):
     return name.strip()
 
 
+def normalize_and_map(keywords):
+    """Maps old dictionary to dictionary with new keys without loosing
+    keys in the process """
+    new_dictionary = dict()
+    for key in keywords.keys():
+        normal_key = normalize_name(key)
+        new_dictionary[normal_key] = \
+            keywords.get(key,[]) | set(new_dictionary.get(normal_key,[]))
+    return new_dictionary
+
+
 def add_results(results, keywords):
     """Add entries found in the results to the dictionary of keywords"""
     for result in results['results']:
@@ -121,10 +132,10 @@ def build_keywords():
     today = date.today()
     this_year, this_month = today.year, today.month
     # Do not cache this month as it'll change with each run
-    for agency, topic in results_from_month(this_year, this_month):
-        if agency not in keywords:
-            keywords[agency] = set()
-        keywords[agency].add(topic)
+    #for agency, topic in results_from_month(this_year, this_month):
+    #    if agency not in keywords:
+    #        keywords[agency] = set()
+    #    keywords[agency].add(topic)
 
     # Now, step back until 1999 - there are no topics before 2000
     client = CachedSession('fr')
@@ -158,9 +169,8 @@ def new_keywords(agency_data, fr_keywords):
 def patch_yaml():
     """Go through the YAML files; for all agencies, check if we have some new
     keywords based on FR data. If so, update the YAML"""
-    fr_keywords = build_keywords()
-    fr_keywords = {normalize_name(name): value
-                   for name, value in fr_keywords.items()}
+    fr_keywords = normalize_and_map(build_keywords())
+
     for filename in glob("data" + os.sep + "*.yaml"):
         num_new_keywords = 0
         with open(filename) as f:

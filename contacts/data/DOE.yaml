@@ -237,7 +237,9 @@ departments:
   - FOIA Officer
   - 1 Science.gov Way
   - Oak Ridge, TN 37830
-  description: No Description
+  description: The Office of Scientific and Technical Information collects, preserves,
+    and makes available the results of research and development carried out or sponsored
+    by the Department of Energy.
   emails:
   - wilsonm@osti.gov
   fax: 865-576-3589
@@ -438,7 +440,7 @@ departments:
   name: Environmental Management Consolidated Business Center (EMCBC)
   phone: 513-246-0497
   public_liaison: 'Lynnette Chafin, Phone: (513) 246-0461'
-  request_form: http://www.emcbc.doe.gov/files/dept/legal/foia/FOIA%20FORM%202007.html
+  request_form: https://www.emcbc.doe.gov/foia/foia_form.php
   service_center: 'Phone: (513) 246-0489'
   top_level: false
   website: https://www.emcbc.doe.gov/About/FOIA

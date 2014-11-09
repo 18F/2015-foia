@@ -15,7 +15,7 @@ departments:
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (202) 268-2608'
   top_level: false
-  website: http://www.usps.com/foia/welcome.htm
+  website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
   - FOIA Contact
   - St. Louis General Law Service Center
@@ -29,7 +29,7 @@ departments:
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (314) 345-5894'
   top_level: false
-  website: http://www.usps.com/foia/welcome.htm
+  website: http://about.usps.com/who-we-are/foia/welcome.htm
 - abbreviation: ''
   address:
   - FOIA Contact
@@ -37,7 +37,10 @@ departments:
   - Room 3301
   - 475 L´Enfant Plaza, SW
   - Washington, DC 20260
-  description: No Description
+  description: The mission of the U.S. Postal Inspection Service is to support and
+    protect the U.S. Postal Service and its employees, infrastructure, and customers;
+    enforce the laws that defend the nation’s mail system from illegal or dangerous
+    use; and ensure public trust in the mail.
   fax: 202-268-4538
   misc:
     Office of Counsel: 'FOIA Contact, Phone: (202) 268-7004'
@@ -78,8 +81,8 @@ departments:
       Simple-Lowest No. of Days: '115'
       Simple-Median No. of Days: '6'
   service_center: 'Phone: (202) 268-7004'
-  top_level: true
-  website: http://www.usps.com/foia/welcome.htm
+  top_level: false
+  website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
   - FOIA Contact
   - FOIA Contact
@@ -97,7 +100,7 @@ departments:
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (703) 248-2100'
   top_level: false
-  website: http://www.uspsoig.gov/foia.htm
+  website: https://uspsoig.gov/general/foia
 description: The USPS OIG achieves its mission of helping maintain confidence in the
   postal system and improving the Postal Service´s bottom line through independent
   audits and investigations. Audits of postal programs and operations help to determine

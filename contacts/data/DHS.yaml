@@ -29,7 +29,8 @@ departments:
   - National Records Center, FOIA/PA Office
   - P.O. Box 648010
   - Lee's Summit, MO 64064-8010
-  description: No Description
+  description: U.S. Citizenship and Immigration Services oversees immigration to the
+    United States.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
@@ -38,8 +39,17 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Aliens
+  - Authority delegations (Government agencies)
+  - Employment
+  - Foreign officials
+  - Freedom of information
+  - Health professions
   - Immigration
+  - Penalties
+  - Privacy
   - Reporting and recordkeeping requirements
+  - Students
+  - Surety bonds
   name: U.S. Citizenship & Immigration Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -72,18 +82,122 @@ departments:
   - 'Commandant (CG-611), ATTN: FOIA Coordinator'
   - 2703 Martin Luther King Jr Ave
   - Washington, DC 20593-7710
-  description: No Description
+  description: The U.S. Coast Guard safeguards the maritime interests of the United
+    States and the environment around the world.
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
   foia_officer: 'Gaston Brewer, Phone: (202) 475-3522'
   keywords:
+  - Administrative practice and procedure
+  - Advertising
+  - Air carriers
+  - Aircraft
+  - Airports
+  - Alaska
+  - Alcohol abuse
+  - Alcohol and alcoholic beverages
+  - Anchorage grounds
+  - Archives and records
+  - Armed forces
+  - Armed forces reserves
+  - Authority delegations (Government agencies)
+  - Aviation safety
+  - Benzene
+  - Bridges
+  - Business and industry
+  - Cargo vessels
+  - Citizenship and naturalization
+  - Civil rights
+  - Claims
+  - Code of Federal Regulations
+  - Colleges and universities
+  - Communications equipment
+  - Conflict of interests
+  - Continental shelf
+  - Defense Department
+  - Diving
+  - Drug abuse
+  - Drug testing
+  - Drugs
+  - Education
+  - Employment
+  - Endangered and threatened species
+  - Environmental protection
+  - Explosives
+  - Fire prevention
+  - Fishing vessels
+  - Foreign relations
+  - Freedom of information
+  - Freight
+  - Gases
+  - Government employees
+  - Government publications
+  - Grant programs-education
+  - Grant programs-veterans
+  - Great Lakes
   - Harbors
+  - Hazardous materials transportation
+  - Hazardous substances
+  - Health care
+  - Insurance
+  - Intergovernmental relations
+  - Investigations
+  - Labeling
+  - Laboratories
+  - Law enforcement
+  - Law enforcement officers
+  - Loan programs-education
+  - Loan programs-veterans
+  - Manpower training programs
+  - Marine mammals
+  - Marine resources
   - Marine safety
+  - Maritime carriers
+  - Maritime security
+  - Measurement standards
+  - Military personnel
+  - Mortgages
+  - Motor carriers
+  - National Transportation Safety Board
+  - Natural gas
   - Navigation (water)
+  - Nuclear vessels
+  - Occupational safety and health
+  - Oceanographic research vessels
+  - Oil and gas exploration
+  - Oil pollution
+  - Organization and functions (Government agencies)
+  - Packaging and containers
+  - Passenger vessels
+  - Penalties
+  - Petroleum
+  - Radiation protection
+  - Radio
   - Reporting and recordkeeping requirements
+  - Research
+  - Safety
+  - Schools
+  - Seamen
   - Security measures
+  - Sewage disposal
+  - Signs and symbols
+  - Surety bonds
+  - Telecommunications
+  - Telephone
+  - Terrorism
+  - Transportation
+  - Travel and transportation expenses
+  - Treaties
+  - Vessels
+  - Veterans
+  - Vocational education
+  - Vocational rehabilitation
+  - Volunteers
+  - Wages
+  - Water pollution control
   - Waterways
+  - Whistleblowing
   name: U.S. Coast Guard
   phone: 202-475-3522
   public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
@@ -98,7 +212,8 @@ departments:
   - 90 K Street, NE
   - 9th Floor
   - Washington, DC 20229-1181
-  description: No Description
+  description: 'Customs and Border Protection prevents people from entering the country
+    illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
   foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
   keywords:
@@ -204,7 +319,7 @@ departments:
   service_center: 'Phone: (202) 325-0150'
   top_level: true
   usa_id: '55927'
-  website: http://www.cbp.gov/xp/cgov/admin/fl/foia/
+  website: http://www.cbp.gov/site-policy-notices/foia
 - abbreviation: FEMA
   address:
   - Terry Cochran
@@ -212,7 +327,9 @@ departments:
   - Room 840
   - 500 C Street, SW
   - Washington, DC 20472
-  description: No Description
+  description: FEMA supports citizens and emergency personnel to build, sustain, and
+    improve the nations capability to prepare for, protect against, respond to, recover
+    from, and mitigate all hazards.
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -366,14 +483,16 @@ departments:
   service_center: 'Phone: (202) 646-3323'
   top_level: true
   usa_id: '48042'
-  website: http://www.fema.gov/help/foia.shtm
+  website: http://www.fema.gov/fema-freedom-information-act
 - abbreviation: FLETC
   address:
   - Leslie A. Jensen
   - FOIA Officer
   - 'Building #681, Suite 187B'
   - Glynco, GA 31524
-  description: No Description
+  description: The Federal Law Enforcement Training Center provides law enforcement
+    training for 91 federal agencies, several state, local, and tribal agencies, and
+    oversees or assists with training at serveral International Law Enforcement Academies.
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -381,7 +500,7 @@ departments:
   name: Federal Law Enforcement Training Center
   phone: 912-267-3103
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
-  request_form: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia/foia-request-form.html
+  request_form: http://www.fletc.gov/about/freedom-information-act-request
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '22'
@@ -414,7 +533,7 @@ departments:
   service_center: 'Phone: (912) 267-3103'
   top_level: true
   usa_id: '49308'
-  website: http://www.fletc.gov/reference/public-information/freedom-of-information-act-foia
+  website: http://www.fletc.gov/freedom-information-act-foia
 - abbreviation: ICE
   address:
   - Catrina Pavlick-Keenan
@@ -422,7 +541,8 @@ departments:
   - Mail Stop 5009
   - 500 12th Street, SW
   - Washington, DC 20536-5009
-  description: No Description
+  description: Immigration and Customs Enforcement enforces federal laws governing
+    border control, customs, trade, and immigration.
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -430,16 +550,23 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Aliens
+  - Authority delegations (Government agencies)
   - Employment
+  - Foreign officials
   - Foreign relations
+  - Freedom of information
+  - Health professions
   - Immigration
   - Penalties
+  - Privacy
   - Reporting and recordkeeping requirements
+  - Students
+  - Surety bonds
   - Treaties
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
-  request_form: http://www.ice.gov/foia/request-form.htm
+  request_form: http://www.ice.gov/webform/foia-request-form
   service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
   top_level: true
   usa_id: '49711'
@@ -455,12 +582,16 @@ departments:
   fax: 202-254-4398
   foia_officer: 'Stephanie Kuehn, Phone: (202) 254-4001'
   keywords:
+  - Accounting
   - Administrative practice and procedure
+  - Biologics
   - Civil rights
   - Computer technology
+  - Drugs
   - Education of disadvantaged
   - Emergency medical services
   - Fraud
+  - Freedom of information
   - Grant programs-health
   - Grant programs-social programs
   - Health care
@@ -470,13 +601,20 @@ departments:
   - Health professions
   - Health records
   - Hospitals
+  - Investigations
+  - Kidney diseases
   - Maternal and child health
   - Medicaid
+  - Medical devices
   - Medicare
+  - Packaging and containers
   - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
+  - Rural areas
   - Social security
+  - Transportation
+  - X-rays
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
@@ -615,7 +753,9 @@ departments:
   - Building 410
   - 245 Murray Drive
   - Washington, DC 20223
-  description: No Description
+  description: The Secret Service works to safeguard the nation's financial infrastructure.
+    The Secret Service is also responsible for protecting national leaders, visiting
+    heads of state, and National Special Security Events.
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
@@ -821,8 +961,8 @@ departments:
       Simple-Lowest No. of Days: '1'
       Simple-Median No. of Days: '6'
   service_center: 'Phone: (866) 364-2872, (571) 227-2300'
-  top_level: false
-  website: http://www.tsa.gov/research/foia/index.shtm
+  top_level: true
+  website: http://www.tsa.gov/research-center/freedom-information-act-foia
 - address:
   - Michael Johnson
   - FOIA Officer

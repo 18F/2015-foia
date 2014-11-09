@@ -556,6 +556,11 @@ class FRTests(TestCase):
         self.assertEqual(29, fr.last_day_in_month(2004, 2))
         self.assertEqual(31, fr.last_day_in_month(2011, 1))
 
+    def test_normalize_and_map(self):
+        """should normalize keys w/ loosing data"""
+        test_dict = {'A':{'datum1'},'B':{'datum2'},'a':{'datum3'}}
+        expected_dict = {'A':{'datum1','datum3'},'B':{'datum2'}}
+        self.assertEqual(expected_dict,fr.normalize_and_map(test_dict))
 
 class USALayerTests(TestCase):
     def test_float_to_int_str(self):
@@ -577,6 +582,7 @@ class USALayerTests(TestCase):
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
 
+<<<<<<< HEAD
 class AverageTimeScaperTests(TestCase):
     def test_parse_table(self):
         '''parses data tables from foia.gov'''
@@ -638,3 +644,24 @@ class AverageTimeScaperTests(TestCase):
             test_data,"_2013","DOS")
         self.assertEqual(expected_data, result)
 
+=======
+    def test_update_dict(self):
+        '''updates the new dictionary with ids, abbreviation, description
+        and forms, but will not overwrite any descriptions'''
+
+        new_data = {'Deparment A':{'usa_id':'1','acronym':'A'},
+            'Deparment B':{'usa_id':'2','acronym':'B',
+            'description':'next des.'}}
+
+        old_data = {'name':'Deparment A','description':"old desc."}
+        old_data_expected = {'name':'Deparment A','description':"old desc.",
+            'usa_id':'1','abbreviation':'A'}
+        old_data,new_data = usa_layer.update_dict(old_data,new_data)
+        self.assertEqual(old_data_expected,old_data)
+
+        old_data = {'name':'Deparment B'}
+        old_data_expected = {'name':'Deparment B','description':"next des.",
+            'usa_id':'2','abbreviation':'B'}
+        old_data,new_data = usa_layer.update_dict(old_data,new_data)
+        self.assertEqual(old_data_expected,old_data)
+>>>>>>> 4c7ed29740e078463f6ff383849ed831e7e09e1f

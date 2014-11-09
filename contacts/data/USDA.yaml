@@ -148,7 +148,7 @@ departments:
       Simple-Median No. of Days: '15'
   service_center: 'Phone: (202) 720-3785'
   top_level: false
-  website: http://www.ams.usda.gov/AMSv1.0/ams.fetchTemplateData.do?template=TemplateN&navID=Home&topNav=Home&page=FOIA&description=Freedom%20of%20Information%20Act%20(FOIA)
+  website: ''
 - address:
   - Tonya Woods
   - FOIA Director
@@ -597,7 +597,7 @@ departments:
       Simple-Median No. of Days: '7'
   service_center: 'Phone: (202) 720-3101'
   top_level: false
-  website: http://www.fas.usda.gov/info/FOIA/freedom.asp
+  website: http://www.fas.usda.gov/freedom-information-act-foia
 - address:
   - Sherry Turner
   - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
@@ -759,7 +759,7 @@ departments:
   public_liaison: 'Patricia Blumenthal, Phone: (504) 426-168'
   service_center: 'Phone: (504) 426-0162'
   top_level: false
-  website: http://i2i.nfc.usda.gov/FOIA/FOIA_home.html
+  website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
 - address:
   - Deryl Richardson
   - National FOIA Officer
@@ -1087,7 +1087,7 @@ departments:
   request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
   service_center: 'Phone: (301) 504-1743'
   top_level: false
-  website: http://www.ars.usda.gov/Services/docs.htm?docid=1398
+  website: http://www.ars.usda.gov/is/foia/foiaform.htm
 - address:
   - Sara Bradshaw
   - FOIA/PA Officer
