@@ -582,7 +582,6 @@ class USALayerTests(TestCase):
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
 
-<<<<<<< HEAD
 class AverageTimeScaperTests(TestCase):
     def test_parse_table(self):
         '''parses data tables from foia.gov'''
@@ -644,7 +643,6 @@ class AverageTimeScaperTests(TestCase):
             test_data,"_2013","DOS")
         self.assertEqual(expected_data, result)
 
-=======
     def test_update_dict(self):
         '''updates the new dictionary with ids, abbreviation, description
         and forms, but will not overwrite any descriptions'''
@@ -664,4 +662,3 @@ class AverageTimeScaperTests(TestCase):
             'usa_id':'2','abbreviation':'B'}
         old_data,new_data = usa_layer.update_dict(old_data,new_data)
         self.assertEqual(old_data_expected,old_data)
->>>>>>> 4c7ed29740e078463f6ff383849ed831e7e09e1f
