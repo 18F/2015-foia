@@ -10,6 +10,16 @@ departments:
   name: Federal Open Market Committee
   phone: 202-452-2576
   public_liaison: 'David Caperton, Phone: (202) 452-2899'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Rooms
+    - http://www.federalreserve.gov/foia/fomc/readingrooms.htm
+  - !!python/tuple
+    - conventional reading room
+    - http://www.federalreserve.gov/foia/fomc/readingrooms.htm#rr2
+  - !!python/tuple
+    - electronic reading room
+    - http://www.federalreserve.gov/foia/fomc/readingrooms.htm#rr1
   request_form: http://www.federalreserve.gov/forms/fomcform.aspx
   service_center: 'Phone: (202) 452-2576'
   top_level: false

@@ -190,6 +190,10 @@ departments:
   name: Animal & Plant Health Inspection
   phone: 301-734-8296
   public_liaison: 'Tonya Woods, Phone: (301) 734-5267'
+  reading_rooms:
+  - !!python/tuple
+    - Freedom of Information Act (FOIA) Reading Room
+    - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
   service_center: 'Phone: (301) 734-8296'
   top_level: false
   website: http://www.aphis.usda.gov/foia/
@@ -207,6 +211,10 @@ departments:
   name: Departmental Management
   phone: 202-720-0068
   public_liaison: 'Phyllis Holmes, Phone: (202) 720-0068'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (202) 720-0068'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -363,6 +371,10 @@ departments:
     visiting its website.
   phone: 202-720-1598
   public_liaison: 'Sue Ellen Sloca, Phone: (202) 720-1598'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er
   request_form: http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia
   service_center: 'Phone: (202) 720-5534'
   top_level: false
@@ -426,6 +438,10 @@ departments:
   name: Food Safety & Inspection Service
   phone: 202-690-2760
   public_liaison: 'Arianne M. Perkins, Phone: (202) 690-2760'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
   service_center: 'Phone: (202) 690-3882'
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
@@ -450,6 +466,10 @@ departments:
   name: Foreign Agricultural Service
   phone: 202-720-0154
   public_liaison: 'Sally Klusaritz, Phone: (202) 720-3448'
+  reading_rooms:
+  - !!python/tuple
+    - FAS eFOIA Reading Room
+    - http://www.fas.usda.gov/foia-reading-room
   service_center: 'Phone: (202) 720-3101'
   top_level: false
   website: http://www.fas.usda.gov/freedom-information-act-foia
@@ -560,6 +580,10 @@ departments:
   name: Grain Inspection, Packers & Stockyards Administration
   phone: 202-720-8087
   public_liaison: 'Albert Conerly, Phone: (202) 720-0234'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - http://www.gipsa.usda.gov/foia.html
   service_center: 'Joanne Peterson, Phone: (202) 720-8087'
   top_level: false
   website: http://www.gipsa.usda.gov/foia.html
@@ -591,6 +615,10 @@ departments:
   name: National Finance Center
   phone: 504-426-0168
   public_liaison: 'Patricia Blumenthal, Phone: (504) 426-168'
+  reading_rooms:
+  - !!python/tuple
+    - Click here to access the NFC Electronic Reading Room
+    - https://www.nfc.usda.gov/FOIA/foiaereading.html
   service_center: 'Phone: (504) 426-0162'
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
@@ -645,6 +673,10 @@ departments:
   name: Office of Budget & Program Analysis
   phone: 202-720-1269
   public_liaison: 'Julie Hetrick, Phone: (202) 720-1269'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (202) 720-1269'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -665,6 +697,10 @@ departments:
   name: Office of the Chief Financial Officer
   phone: 202-720-0995
   public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (202) 720-1893'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -679,6 +715,10 @@ departments:
   name: Office of the Chief Information Officer
   phone: 202-690-0028
   public_liaison: 'Richard Ciampa, Phone: (202)720-6355'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (301) 504-4154'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -696,6 +736,10 @@ departments:
   name: Office of Civil Rights
   phone: 202-720-5212
   public_liaison: 'Michael G. Watts, Phone: (202) 720-5212'
+  reading_rooms:
+  - !!python/tuple
+    - E-FOIA Reading Room
+    - http://www.ascr.usda.gov/efoia_cr.html
   service_center: 'Phone: (202) 720-5212'
   top_level: false
   website: http://www.ascr.usda.gov/foia_cr.html
@@ -710,6 +754,10 @@ departments:
   phone: 202-720-5824
   public_liaison: 'Assistant General Counsel for General Law Division, Phone: (202)
     720-5565'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (202) 720-5824'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -725,6 +773,10 @@ departments:
   name: Office of the Secretary
   phone: 202-260-2657
   public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
+  reading_rooms:
+  - !!python/tuple
+    - USDA Agencies' FOIA Reading Rooms
+    - http://www.dm.usda.gov/foia/agencyfoia.htm
   service_center: 'Phone: (202) 720-8164'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -741,6 +793,10 @@ departments:
   name: Risk Management Agency
   phone: 202-720-9507
   public_liaison: 'Wes Azama, Phone: (202) 260-0080'
+  reading_rooms:
+  - !!python/tuple
+    - RMA Electronic                              Reading Room
+    - http://www.rma.usda.gov/aboutrma/foia/reading.html
   service_center: 'Phone: (202) 720-9507'
   top_level: false
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
@@ -1125,6 +1181,10 @@ keywords:
 name: Department of Agriculture
 phone: 202-260-2657
 public_liaison: 'Ray Payton, Phone: (202) 260-2657'
+reading_rooms:
+- !!python/tuple
+  - USDA Agencies' FOIA Reading Rooms
+  - http://www.dm.usda.gov/foia/agencyfoia.htm
 service_center: 'Phone: (202) 260-2657'
 top_level: false
 usa_id: '49015'

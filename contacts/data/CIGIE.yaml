@@ -14,6 +14,10 @@ departments:
     FOIA Contact: 'Phone: (202) 292-2600'
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - https://www.ignet.gov/content/foia-reading-room-1
   service_center: 'Phone: (202) 708-1613'
   top_level: false
   website: https://www.ignet.gov/content/foia-0

@@ -12,6 +12,10 @@ departments:
   name: Federal Energy Regulatory Commission
   phone: 202-502-6088
   public_liaison: 'Toyia Johnson, Phone: (202) 502-6088'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Room Material
+    - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
   request_form: http://www.ferc.gov/legal/ceii-foia/foia/efoia.asp
   service_center: 'Phone: (202) 502-6088'
   top_level: false

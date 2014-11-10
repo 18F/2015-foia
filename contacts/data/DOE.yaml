@@ -13,6 +13,10 @@ departments:
   name: Headquarters
   phone: 202-586-3159
   public_liaison: 'Kevin Hagerty, Phone: (202) 586-5955'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Room
+    - http://energy.gov/management/management/office-management/operational-management/freedom-information-act/reading-room
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   service_center: 'Phone: (202) 586-5955'
   top_level: false
@@ -29,6 +33,13 @@ departments:
   name: Chicago Office
   phone: 630-252-2041
   public_liaison: 'Brian Quirke, Phone: (630) 252-2423'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://science.energy.gov/isc/foia/electronic-reading-room/
+  - !!python/tuple
+    - ISC Conventional Reading Rooms
+    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   service_center: 'Phone: (630) 252-2041'
   top_level: false
@@ -45,6 +56,13 @@ departments:
   name: Idaho Operations Office
   phone: 208-526-5190
   public_liaison: 'Clayton Ogilvie, Phone: (208) 526-5190'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room Documents
+    - http://www.id.doe.gov/foia/archive.htm
+  - !!python/tuple
+    - Reading Room
+    - http://www.id.doe.gov/foia/read.htm
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   service_center: 'Phone: (208) 526-5190'
   top_level: false
@@ -61,6 +79,13 @@ departments:
   name: Oak Ridge Office
   phone: 865-576-1216
   public_liaison: 'DiAnn Fields, Phone: (865) 576-0885'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://science.energy.gov/isc/foia/electronic-reading-room/
+  - !!python/tuple
+    - ISC Conventional Reading Rooms
+    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   service_center: 'Phone: (865) 576-1216'
   top_level: false
@@ -94,6 +119,10 @@ departments:
   name: Richland Operations Office
   phone: 509-376-6288
   public_liaison: 'Richard Buel, Phone: (509) 376-3375'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic FOIA Reading Room
+    - http://www.hanford.gov/?page=69
   request_form: http://www.hanford.gov/c.cfm/foia/
   service_center: 'Phone: (509) 376-6288'
   top_level: false
@@ -124,6 +153,13 @@ departments:
   name: National Nuclear Security Administration Service Center
   phone: 505-845-6265
   public_liaison: 'Cynthia Brown, Phone: (866) 747-5994'
+  reading_rooms:
+  - !!python/tuple
+    - Virtual Reading Room after to 2000
+    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000
+  - !!python/tuple
+    - Virtual Reading Room prior to 2000
+    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   service_center: 'Phone: (866) 747-5994'
   top_level: false
@@ -154,6 +190,10 @@ departments:
   name: Golden Field Office
   phone: 720-356-1427
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
+  reading_rooms:
+  - !!python/tuple
+    - Golden Field Office Reading Room
+    - http://energy.gov/node/28747/
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   service_center: 'Phone: (720) 356-1427'
   top_level: false
@@ -188,6 +228,10 @@ departments:
   name: Bonneville Power Administration
   phone: 503-230-7303
   public_liaison: 'Kim Winn, Phone: (503) 230-5273'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library and Resources
+    - http://www.bpa.gov/news/FOIA/library/Pages/default.aspx
   request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
   service_center: 'Phone: (503) 230-7305'
   top_level: false
@@ -221,6 +265,13 @@ departments:
   name: Southwestern Power Administration
   phone: 918-595-6609
   public_liaison: 'Larry Yadon, Phone: (918) 595-6607'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.swpa.gov/viewfoiarequests.aspx
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.swpa.gov/viewfoiarequests.aspx#status
   request_form: http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm
   service_center: 'Phone: (918) 595-6609'
   top_level: false
@@ -257,6 +308,10 @@ departments:
   name: Strategic Petroleum Reserve Project
   phone: 504-734-4316
   public_liaison: 'Deanna Harvey, Phone: (504) 734-4316'
+  reading_rooms:
+  - !!python/tuple
+    - Public Reading Room
+    - http://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html
   request_form: http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm
   service_center: 'Phone: (504) 734-4316'
   top_level: false

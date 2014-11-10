@@ -15,6 +15,13 @@ departments:
   name: Federal Trade Commission
   phone: 202-326-3254
   public_liaison: 'Richard Gold, Phone: (202) 326-3355'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - http://www.ftc.gov/about-ftc/foia/foia-reading-rooms
+  - !!python/tuple
+    - OIG Reading Room
+    - http://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
   request_form: https://ftc.gov/ftc/foia.htm
   top_level: false
   website: http://www.ftc.gov/foia/

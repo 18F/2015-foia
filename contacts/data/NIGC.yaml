@@ -14,6 +14,13 @@ departments:
   name: National Indian Gaming Commission
   phone: 202-632-7003
   public_liaison: 'AnDrea Choate'', Phone: (202) 632-7003'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act/The_Freedom_of_Information_Act/Electronic_Reading_Room.aspx
+  - !!python/tuple
+    - Reading Room
+    - http://www.nigc.gov/Reading_Room.aspx
   service_center: 'Phone: (202) 632-7003'
   top_level: false
   website: http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx

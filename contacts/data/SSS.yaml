@@ -10,6 +10,10 @@ departments:
   name: Selective Service System
   phone: 703-605-4100
   public_liaison: 'Richard Flahavan, Phone: (703) 605-4100'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Room
+    - http://www.sss.gov/FOIA/readingrm.htm
   service_center: 'Phone: (703) 605-4100'
   top_level: false
   website: http://www.sss.gov/freedomhome.htm

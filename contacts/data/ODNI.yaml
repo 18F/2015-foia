@@ -12,6 +12,10 @@ departments:
   name: Office of the Director of National Intelligence
   phone: 703-874-8500
   public_liaison: 'Jennifer Hudson, Phone: (703) 874-8500'
+  reading_rooms:
+  - !!python/tuple
+    - ODNI's Electronic Reading Room
+    - http://www.dni.gov/index.php/intelligence-community/ic-policies-reports
   service_center: 'Phone: (703) 874-8500'
   top_level: false
   website: http://www.dni.gov/foia.htm

@@ -14,6 +14,10 @@ departments:
   name: Committee for Purchase from People Who Are Blind or Severely Disabled
   phone: 703-603-7740
   public_liaison: 'Barry Lineback, Phone: (703) 603-7740'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - http://www.abilityone.gov/laws_and_regulations/foia_reading_room.html
   service_center: 'Wakita Wilson, Phone: (703) 603-7740'
   top_level: false
   website: http://www.abilityone.gov/laws_and_regulations/foia.html

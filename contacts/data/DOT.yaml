@@ -19,6 +19,10 @@ departments:
   name: Office of the Secretary
   phone: 202-366-5546
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
+  reading_rooms:
+  - !!python/tuple
+    - OST Electronic Reading Room
+    - http://www.dot.gov/foia/ost-electronic-reading-room
   service_center: 'Darlene Wallace, Phone: (202) 366-4542'
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
@@ -35,6 +39,10 @@ departments:
   name: Office of the Inspector General
   phone: 202-366-6131
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
+  reading_rooms:
+  - !!python/tuple
+    - OIG FOIA Electronic Reading Room
+    - https://www.oig.dot.gov/foia-electronic-reading-room
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
@@ -134,6 +142,10 @@ departments:
     visiting its website.
   phone: 202-267-9165
   public_liaison: 'Melanie Yohe, Phone: (202) 267-7799'
+  reading_rooms:
+  - !!python/tuple
+    - Visit the FOIA Library
+    - http://www.faa.gov/foia/electronic_reading_room/
   request_form: http://www.faa.gov/foia/foia_request/
   service_center: 'Phone: (202) 267-9165'
   top_level: true
@@ -204,6 +216,10 @@ departments:
   name: Federal Highway Administration
   phone: 202-366-9048
   public_liaison: 'Alla Shaw, Phone: (202) 366-1042'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.fhwa.dot.gov/foia/err.htm
   service_center: 'Phone: (202) 366-0948'
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
@@ -259,6 +275,10 @@ departments:
   name: Federal Railroad Administration
   phone: 202-493-6039
   public_liaison: 'Warren Flatau, Phone: (202) 493-6019'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.fra.dot.gov/Page/P0388
   service_center: 'Phone: (202) 493-6065'
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
@@ -307,6 +327,10 @@ departments:
   name: Federal Transit Administration
   phone: 202-366-4022
   public_liaison: 'David Longo, Phone: (202) 366-0608'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Electronic Reading Room
+    - http://www.fta.dot.gov/legislation_law/12316_8574.html
   service_center: 'Phone: (202) 366-2494'
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
@@ -369,6 +393,10 @@ departments:
   name: Federal Motor Carrier Safety Administration
   phone: 202-366-2960
   public_liaison: 'Duane DeBruyne, Phone: (202) 366-9999'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
   service_center: 'Phone: (202) 366-2960'
   top_level: false
   website: http://www.fmcsa.dot.gov/foia
@@ -425,6 +453,10 @@ departments:
   name: National Highway Traffic Safety Administration
   phone: 202-366-1834
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
+  reading_rooms:
+  - !!python/tuple
+    - NHTSA Electronic Reading Room (ERR)
+    - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
   service_center: 'Phone: (202) 366-1834'
   top_level: true
   usa_id: '48081'
@@ -468,6 +500,10 @@ departments:
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
+  reading_rooms:
+  - !!python/tuple
+    - Maritime Administration Electronic Reading Room
+    - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
   service_center: 'Phone: (202) 366-2666'
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
@@ -528,6 +564,10 @@ departments:
   name: Pipeline and Hazardous Materials Safety Administration
   phone: 202-366-6119
   public_liaison: 'Patricia Klinger, Phone: (202) 366-4831'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.phmsa.dot.gov/foia/e-reading-room
   service_center: 'Phone: (202) 366-4400'
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html

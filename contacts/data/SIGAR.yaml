@@ -13,6 +13,11 @@ departments:
   name: Special Inspector General for Afghanistan Reconstruction
   phone: 703-545-5993
   public_liaison: 'Phone: (703) 545-5993'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Room
+    - http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading
+      Room
   request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
   service_center: 'Phone: (703) 545-5993'
   top_level: false

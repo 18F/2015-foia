@@ -13,6 +13,10 @@ departments:
   name: Tennessee Valley Authority
   phone: 865-632-6945
   public_liaison: 'Wilson Taylor, III, Phone: (865) 632-8133'
+  reading_rooms:
+  - !!python/tuple
+    - Reading Room
+    - http://www.tva.gov/foia/foia_reading.htm
   service_center: 'Phone: (865) 632-6945'
   top_level: false
   website: http://www.tva.gov/foia/

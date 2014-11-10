@@ -13,6 +13,10 @@ departments:
   name: Department of State
   phone: 202-261-8484
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8484'
+  reading_rooms:
+  - !!python/tuple
+    - Virtual Reading Room Search
+    - http://foia.state.gov/Search/Search.aspx
   request_form: http://foia.state.gov/Request/Submit.aspx
   service_center: 'Phone: (202) 261-8484'
   top_level: false
@@ -32,6 +36,10 @@ departments:
   name: Office of Inspector General
   phone: 202-663-0383
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - http://oig.state.gov/foia-reading-room
   request_form: http://foia.state.gov/foiareq/foialetter.asp
   service_center: 'Phone: (202) 261-8484'
   top_level: false

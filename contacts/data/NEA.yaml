@@ -13,6 +13,10 @@ departments:
   name: National Endowment for the Arts
   phone: 202-682-5418
   public_liaison: 'Phone: (202) 682-5418'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room, Frequently Requested Records
+    - http://arts.gov/foia/reading-room
   service_center: 'Phone: (202) 682-5418'
   top_level: false
   website: http://www.arts.gov/about/FOIA/index.html

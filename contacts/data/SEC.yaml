@@ -14,6 +14,10 @@ departments:
   phone: 202-551-7900
   public_liaison: 'John Livornese, Lizzette Katilius, David Henshall, Jeffrey Ovall
     and Ray McInerney, Phone: (202) 551-7900'
+  reading_rooms:
+  - !!python/tuple
+    - Conventional and Electronic Reading Rooms
+    - http://www.sec.gov/foia/efoiapg.htm
   request_form: https://tts.sec.gov/cgi-bin/request_public_docs
   service_center: 'Phone: (202) 551-7900'
   top_level: false

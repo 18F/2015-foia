@@ -14,6 +14,10 @@ departments:
   name: Pension Benefit Guaranty Corporation
   phone: 202-326-4040
   public_liaison: 'Michelle Y. Chase, Phone: (202) 326-4040'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.pbgc.gov/about/news/other/res/electronic-reading-room.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 326-4040'
   top_level: false

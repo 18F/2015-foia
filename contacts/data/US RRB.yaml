@@ -10,6 +10,10 @@ departments:
   name: Main Office
   phone: 312-751-4936
   public_liaison: 'Marguerite P. Dadabo, Phone: (312) 751-4936'
+  reading_rooms:
+  - !!python/tuple
+    - RRB Reading Room
+    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   service_center: 'Phone: (312) 751-4948'
   top_level: false
@@ -24,6 +28,10 @@ departments:
   name: Office of the Inspector General
   phone: 312-751-4350
   public_liaison: 'Phone: (312) 751-4350'
+  reading_rooms:
+  - !!python/tuple
+    - RRB Reading Room
+    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   service_center: 'Phone: (312) 751-4350'
   top_level: false

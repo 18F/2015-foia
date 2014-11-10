@@ -12,6 +12,10 @@ departments:
   name: Commodity Futures Trading Commission
   phone: 202-418-5497
   public_liaison: 'Linda Mauldin, Phone: (202) 418-5497'
+  reading_rooms:
+  - !!python/tuple
+    - Conventional and Electronic Reading Rooms
+    - /FOI/foiareadingrooms
   request_form: https://www.cftc.gov/FOI/request/index.htm
   service_center: 'Phone: (202) 418-5497'
   top_level: false

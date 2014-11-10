@@ -12,6 +12,10 @@ departments:
   name: Farm Credit Administration
   phone: 703-883-4431
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4108'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Reading Room
+    - http://www.fca.gov/home/FOIA_index.html
   request_form: ''
   service_center: 'Phone: (703) 883-4020'
   top_level: false

@@ -12,6 +12,10 @@ departments:
   name: Broadcasting Board of Governors
   phone: 202-203-4550
   public_liaison: 'Andrew T. Krog, Phone: (202) 203-4550'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.bbg.gov/about-the-agency/research-reports/foia/electronic-reading-room/
   service_center: 'Phone: (202) 203-4550'
   top_level: false
   website: http://www.bbg.gov/reports/foia/

@@ -21,6 +21,10 @@ departments:
     visiting its website.
   phone: 301-837-3642
   public_liaison: 'Gary Stern, Phone: (301) 837-2024'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center: 'Phone: (301) 837-3642'
   top_level: false
   website: http://www.archives.gov/foia/index.html
@@ -37,6 +41,10 @@ departments:
   name: Office of the Inspector General
   phone: 301-837-3000
   public_liaison: 'John Simms, Phone: (301) 837-3197'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center: 'Phone: (301) 837-3000'
   top_level: false
   website: http://www.archives.gov/foia/index.html
@@ -54,6 +62,10 @@ departments:
   name: Accessioned Executive Branch Agency Records - Washington, DC Area
   phone: 301-837-3190
   public_liaison: 'Steven Tilley, Phone: (301) 837-3059'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center: 'Phone: (301) 837-3190'
   top_level: false
   website: http://www.archives.gov/foia/index.html
@@ -280,6 +292,10 @@ keywords:
 name: National Archives and Records Administration
 phone: 301-837-3642
 public_liaison: 'Gary Stern, Phone: (301) 837-2024'
+reading_rooms:
+- !!python/tuple
+  - Electronic Reading Room
+  - http://www.archives.gov/foia/electronic-reading-room.html
 service_center: 'Phone: (301) 837-3642'
 top_level: false
 usa_id: '49483'

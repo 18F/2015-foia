@@ -29,6 +29,10 @@ departments:
   name: Ames Research Center
   phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
+  reading_rooms:
+  - !!python/tuple
+    - '> Electronic Reading Room'
+    - http://www.nasa.gov/centers/ames/business/foia/elec.html
   service_center: 'Phone: (650) 604-3273'
   top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
@@ -45,6 +49,10 @@ departments:
   name: Dryden Flight Research Center
   phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
   service_center: 'Phone: (661) 276-2704'
   top_level: false
   website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
@@ -158,6 +166,10 @@ departments:
   name: Marshall Space Flight Center
   phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
+  reading_rooms:
+  - !!python/tuple
+    - + FOIA Library
+    - http://foia.msfc.nasa.gov/reading.html
   request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (256) 544-1837'
   top_level: false
@@ -205,6 +217,10 @@ departments:
   name: Stennis Space Center
   phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
   service_center: 'Phone: (228) 688-3182'
   top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html

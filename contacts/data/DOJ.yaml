@@ -21,6 +21,10 @@ departments:
   name: Office of the Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: true
@@ -38,6 +42,10 @@ departments:
   name: Office of the Deputy Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -55,6 +63,10 @@ departments:
   name: Office of the Associate Attorney General
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/asg/oasg-electronic-reading-room
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -73,6 +85,10 @@ departments:
   name: Antitrust Division
   phone: 202-514-2692
   public_liaison: 'Ronald Wiercioch, Phone: (202) 514-2692'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.justice.gov/atr/foia/foiaroom.html
   service_center: 'Phone: (202) 514-2692'
   top_level: false
   website: http://www.justice.gov/atr/foia/index.html
@@ -227,6 +243,10 @@ departments:
   name: Criminal Division
   phone: 202-616-0307
   public_liaison: 'Margaret Harris, Phone: (202) 616-0307'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/criminal/foia/elect-read-room.html
   service_center: 'Phone: (202) 616-0307'
   top_level: false
   website: http://www.justice.gov/criminal/foia/
@@ -270,6 +290,10 @@ departments:
   name: Drug Enforcement Administration
   phone: 202-305-7596
   public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.dea.gov/FOIA/FOIA/FOIA_library.shtml
   service_center: 'Phone: (202) 307-7596'
   top_level: true
   usa_id: '52688'
@@ -287,6 +311,10 @@ departments:
   name: Environment and Natural Resources Division
   phone: 202-514-0424
   public_liaison: 'Amber Blaha, Phone: (202) 616-5515'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/enrd/Current_topics.html
   service_center: 'Phone: (202) 514-0424'
   top_level: false
   website: http://www.justice.gov/enrd/ENRD_FOIA.html
@@ -319,6 +347,10 @@ departments:
   name: Executive Office for Immigration Review
   phone: 703-605-1297
   public_liaison: 'Crystal Souza, Phone: (703) 605-1297'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/eoir/foia-lib.html
   service_center: 'Phone: (703) 605-1297'
   top_level: false
   website: http://www.justice.gov/eoir/mainfoia.html
@@ -351,6 +383,10 @@ departments:
   name: Executive Office for United States Attorneys
   phone: 202-252-6020
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/usao/resources/foialibrary/
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/
@@ -369,6 +405,10 @@ departments:
   name: Executive Office for United States Trustees
   phone: 202-307-1399
   public_liaison: 'Mary Snyder Barry, Phone: (202) 307-1399'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/ust/eo/foia/foia_err.htm
   service_center: 'Phone: (202) 307-1399'
   top_level: false
   website: http://www.justice.gov/ust/eo/foia/index.htm
@@ -410,6 +450,10 @@ departments:
   name: Federal Bureau of Investigation
   phone: 540-868-4500
   public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
+  reading_rooms:
+  - !!python/tuple
+    - FBI Headquarters Reading Room
+    - http://www.fbi.gov/foia/fbi-headquarters-reading-room
   service_center: 'Phone: (540) 868-1535'
   top_level: true
   usa_id: '49278'
@@ -455,6 +499,10 @@ departments:
   name: Foreign Claims Settlement Commission
   phone: 202-616-6975
   public_liaison: 'Jeremy LaFrancois, Phone: (202) 616-6975'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/fcsc/foia-library
   service_center: 'Phone: (202) 616-6975'
   top_level: false
   website: http://www.justice.gov/fcsc/foia.htm
@@ -471,6 +519,10 @@ departments:
   name: INTERPOL-United States National Central Bureau
   phone: 202-616-0201
   public_liaison: 'Daniel Dembkowski, Phone: (202) 616-0201'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/interpol-washington/foia-library
   service_center: 'Phone: (202) 616-0201'
   top_level: false
   website: http://www.justice.gov/interpol-washington/foia.html
@@ -490,6 +542,10 @@ departments:
     & Management
   phone: 202-514-3101
   public_liaison: 'Michael Allen, Phone: (202) 514-3101'
+  reading_rooms:
+  - !!python/tuple
+    - 'FOIA Library:'
+    - http://www.justice.gov/jmd/foia-library
   service_center: 'Phone: (202) 514-3101'
   top_level: false
   website: http://www.justice.gov/jmd/foia.htm
@@ -506,6 +562,10 @@ departments:
   name: National Security Division
   phone: 202-233-0754
   public_liaison: 'Patricia Matthews, Phone: (202) 233-0756'
+  reading_rooms:
+  - !!python/tuple
+    - 'FOIA Library:'
+    - http://www.justice.gov/nsd/nsd-foia-library
   service_center: 'Phone: (202) 233-0754'
   top_level: false
   website: http://www.justice.gov/nsd/foia/foia.htm
@@ -559,6 +619,10 @@ departments:
   name: Office of the Inspector General
   phone: 202-616-0646
   public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
+  reading_rooms:
+  - !!python/tuple
+    - 'Electronic Reading Room:'
+    - http://www.justice.gov/oig/foia/eroom.htm
   service_center: 'Phone: (202) 616-0646'
   top_level: false
   website: http://www.justice.gov/oig/foia/
@@ -609,6 +673,10 @@ departments:
   name: Office of Legal Counsel
   phone: 202-514-2038
   public_liaison: 'Lawan Robinson, Phone: (202) 353-0258'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.justice.gov/olc/olc-foia-electronic-reading-room
   service_center: 'Phone: (202) 353-0258'
   top_level: false
   website: http://www.justice.gov/olc/foia.htm
@@ -625,6 +693,10 @@ departments:
   name: Office of Legal Policy
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -644,6 +716,10 @@ departments:
   name: Office of Legislative Affairs
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - 'FOIA Library:'
+    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -661,6 +737,10 @@ departments:
   name: Office of the Pardon Attorney
   phone: 202-616-6070
   public_liaison: 'Linda M.V. Bowe, Phone: (202) 616-6070'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/pardon/readingroom.htm
   service_center: 'Phone: (202) 616-6070'
   top_level: false
   website: http://www.justice.gov/pardon/pardon_foia.htm
@@ -678,6 +758,10 @@ departments:
   name: Office of Professional Responsibility
   phone: 202-514-3365
   public_liaison: 'Ginae Barnett, Phone: (202) 514-3365'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.justice.gov/opr/readingroom/index.html
   service_center: 'Phone: (202) 514-3365'
   top_level: false
   website: http://www.justice.gov/opr/foia.htm
@@ -694,6 +778,10 @@ departments:
   name: Office of Public Affairs
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -710,6 +798,10 @@ departments:
   name: Office of the Solicitor General
   phone: 202-616-9406
   public_liaison: 'Valerie H. Hall, Phone: (202) 514-2203'
+  reading_rooms:
+  - !!python/tuple
+    - Electronic Reading Room
+    - http://www.justice.gov/osg/osg-freedom-information-act-0
   service_center: 'Phone: (202) 616-9406'
   top_level: false
   website: http://www.justice.gov/osg/foia.html
@@ -726,6 +818,10 @@ departments:
   name: Office of Tribal Justice
   phone: 202-252-6020
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/usao/resources/foialibrary/
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/
@@ -759,6 +855,10 @@ departments:
   name: Professional Responsibility Advisory Office
   phone: 202-514-0458
   public_liaison: 'Michael Kingsley, Phone: (202) 514-0458'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/prao/foia-library
   service_center: 'Phone: (202) 514-0458'
   top_level: false
   website: http://www.justice.gov/prao/foia.htm
@@ -775,6 +875,10 @@ departments:
   name: Tax Division
   phone: 202-307-6320
   public_liaison: 'Billie Willis, Phone: (202) 307-0462'
+  reading_rooms:
+  - !!python/tuple
+    - 'FOIA Library:'
+    - http://www.justice.gov/tax/readingroom/foia/tax.htm
   service_center: 'Phone: (202) 307-6320'
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
@@ -816,6 +920,10 @@ departments:
   name: United States Parole Commission
   phone: 202-346-7030
   public_liaison: 'Rockne Chickinell, Phone: (202) 346-7030'
+  reading_rooms:
+  - !!python/tuple
+    - FOIA Library
+    - http://www.justice.gov/uspc/reading-room.html
   service_center: 'Phone: (202) 346-7030'
   top_level: false
   website: http://www.justice.gov/uspc/foia.htm
