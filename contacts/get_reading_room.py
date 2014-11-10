@@ -7,7 +7,7 @@ import yaml
 from glob import glob
 from bs4 import BeautifulSoup
 
-from scraper import agency_yaml_filename, AGENCIES
+from scraper import agency_yaml_filename, AGENCIES, save_agency_data, update_list_in_dict
 
 def read_yaml_file(agency_abbr):
     yaml_filename = agency_yaml_filename('data', agency_abbr)
@@ -88,18 +88,31 @@ def process(data):
             return links
         
 
+def update_links(agency_data, links):
+    agency_data = dict(agency_data)
+    update_list_in_dict(agency_data, 'reading_rooms', links)
+    return agency_data
+
 def reading_room(agency_abbr):
     agency_data = read_yaml_file(agency_abbr)
     if agency_data:
-        process(agency_data)
+        links = process(agency_data)
+        if links:
+            agency_data = update_links(agency_data, links)
+        departments = []
         if 'departments' in agency_data:
             for department in agency_data['departments']:
-                return process(department)
-
+                links = process(department)
+                if links:
+                    department = update_links(department, links)
+                departments.append(department)
+            agency_data['departments'] = departments
+        return agency_data
 
 def all_reading_rooms():
     for agency in AGENCIES:
-        reading_room(agency)
+        agency_data = reading_room(agency)
+        save_agency_data(agency, agency_data)
         
 
 if __name__ == "__main__":
