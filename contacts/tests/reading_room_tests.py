@@ -1,5 +1,5 @@
 from unittest import TestCase
-import get_reading_room as reading
+import layer_with_reading_room as reading
 
 class ReadingRoomTests(TestCase):
 
