@@ -27,4 +27,33 @@ description: 'The Council of the Inspectors General on Integrity and Efficiency 
   standards, and approaches to aid in the establishment of a well-trained and highly
   skilled workforce in the offices of the Inspectors General.'
 name: Council of the Inspectors General on Integrity and Efficiency
+request_time_stats:
+  '2010':
+    Simple-Average No. of Days: '22'
+    Simple-Highest No. of Days: '22'
+    Simple-Lowest No. of Days: '22'
+    Simple-Median No. of Days: '22'
+  '2011':
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '44'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '13'
+  '2012':
+    Complex-Average No. of Days: '82'
+    Complex-Highest No. of Days: '104'
+    Complex-Lowest No. of Days: '59'
+    Complex-Median No. of Days: '88'
+    Simple-Average No. of Days: '13'
+    Simple-Highest No. of Days: '39'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2013':
+    Complex-Average No. of Days: '73'
+    Complex-Highest No. of Days: '101'
+    Complex-Lowest No. of Days: '52'
+    Complex-Median No. of Days: '66'
+    Simple-Average No. of Days: '23'
+    Simple-Highest No. of Days: '44'
+    Simple-Lowest No. of Days: '6'
+    Simple-Median No. of Days: '22'
 usa_id: '91390'

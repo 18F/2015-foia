@@ -21,6 +21,57 @@ departments:
   phone: 202-708-3866
   public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
   request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2008': {}
+    '2009': {}
+    '2010':
+      Complex-Average No. of Days: '117'
+      Complex-Highest No. of Days: '1568'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '644'
+      Expedited Processing-Average No. of Days: '37'
+      Expedited Processing-Highest No. of Days: '61'
+      Expedited Processing-Lowest No. of Days: '2'
+      Expedited Processing-Median No. of Days: '43'
+      Simple-Average No. of Days: '75'
+      Simple-Highest No. of Days: '698'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '534'
+    '2011':
+      Complex-Average No. of Days: '99'
+      Complex-Highest No. of Days: '674'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '57'
+      Expedited Processing-Average No. of Days: '44'
+      Expedited Processing-Highest No. of Days: '59'
+      Expedited Processing-Lowest No. of Days: '30'
+      Expedited Processing-Median No. of Days: '44'
+      Simple-Average No. of Days: '51'
+      Simple-Highest No. of Days: '728'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '20'
+    '2012':
+      Complex-Average No. of Days: '98.73'
+      Complex-Highest No. of Days: '533'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '69'
+      Simple-Average No. of Days: '45.12'
+      Simple-Highest No. of Days: '400'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '23.5'
+    '2013':
+      Complex-Average No. of Days: '77.63'
+      Complex-Highest No. of Days: '660'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '27.5'
+      Expedited Processing-Average No. of Days: '40.2'
+      Expedited Processing-Highest No. of Days: '89'
+      Expedited Processing-Lowest No. of Days: '12'
+      Expedited Processing-Median No. of Days: '35'
+      Simple-Average No. of Days: '34.85'
+      Simple-Highest No. of Days: '276'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '16'
   service_center: 'Eugenia Harris, Phone: (202) 708-3866'
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
@@ -329,6 +380,50 @@ notes: This office has additional FOIA contact information that can be found by 
 phone: 202-708-3866
 public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
 request_form: https://hudpal.efoia-host.com/palMain.aspx
+request_time_stats:
+  '2008': {}
+  '2009': {}
+  '2010':
+    Complex-Average No. of Days: '191'
+    Simple-Average No. of Days: '698'
+    Simple-Highest No. of Days: '1568'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '1'
+  '2011':
+    Complex-Average No. of Days: '674'
+    Complex-Highest No. of Days: '1'
+    Complex-Lowest No. of Days: '33'
+    Complex-Median No. of Days: '1'
+    Expedited Processing-Median No. of Days: '83'
+    Simple-Average No. of Days: '1'
+    Simple-Highest No. of Days: '69'
+    Simple-Lowest No. of Days: '728'
+    Simple-Median No. of Days: '28'
+  '2012':
+    Complex-Average No. of Days: '44.75'
+    Complex-Highest No. of Days: '533'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '34'
+    Expedited Processing-Average No. of Days: '8.4'
+    Expedited Processing-Highest No. of Days: '39'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '9'
+    Simple-Average No. of Days: '20.13'
+    Simple-Highest No. of Days: '400'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
+  '2013':
+    Complex-Average No. of Days: '23.89'
+    Complex-Highest No. of Days: '660'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '16.5'
+    Expedited Processing-Average No. of Days: '8.89'
+    Expedited Processing-Highest No. of Days: '89'
+    Expedited Processing-Median No. of Days: '1.5'
+    Simple-Average No. of Days: '17.21'
+    Simple-Highest No. of Days: '276'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '14'
 service_center: 'Eugenia Harris, Phone: (202) 708-3866'
 top_level: false
 usa_id: '49376'

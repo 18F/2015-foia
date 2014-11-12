@@ -29,3 +29,20 @@ keywords:
 - Government employees
 - Privacy
 name: Special Inspector General for Afghanistan Reconstruction
+request_time_stats:
+  '2010': {}
+  '2011':
+    Simple-Average No. of Days: '5'
+    Simple-Highest No. of Days: '5'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '5'
+  '2012':
+    Simple-Average No. of Days: '61'
+    Simple-Highest No. of Days: '381'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '13'
+  '2013':
+    Simple-Average No. of Days: '20'
+    Simple-Highest No. of Days: '53'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '20'

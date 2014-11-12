@@ -84,4 +84,34 @@ keywords:
 - Wages
 name: Railroad Retirement Board
 request_form: https://secure.rrb.gov/efoia/
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '13'
+    Simple-Highest No. of Days: '25'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16.5'
+  '2009':
+    Simple-Average No. of Days: '14.35'
+    Simple-Highest No. of Days: '28'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '14'
+  '2010':
+    Simple-Average No. of Days: '12.14'
+    Simple-Highest No. of Days: '24'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '12'
+  '2011':
+    Simple-Average No. of Days: '15.86'
+    Simple-Highest No. of Days: '215'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '13'
+  '2012':
+    Simple-Average No. of Days: '23.13'
+    Simple-Highest No. of Days: '215'
+    Simple-Median No. of Days: '12'
+  '2013':
+    Simple-Average No. of Days: '12.13'
+    Simple-Highest No. of Days: '26'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11'
 usa_id: '52657'

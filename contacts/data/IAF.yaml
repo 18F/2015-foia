@@ -33,4 +33,35 @@ keywords:
 - Lebanon
 - Loan programs
 name: Inter-American Foundation
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '12.2'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '12'
+  '2009':
+    Simple-Average No. of Days: '14.4'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '9'
+    Simple-Median No. of Days: '14'
+  '2010':
+    Simple-Average No. of Days: '15.2'
+    Simple-Highest No. of Days: '10'
+    Simple-Lowest No. of Days: '11'
+    Simple-Median No. of Days: '14'
+  '2011':
+    Simple-Average No. of Days: '13.9'
+    Simple-Highest No. of Days: '33'
+    Simple-Lowest No. of Days: '4'
+    Simple-Median No. of Days: '15'
+  '2012':
+    Simple-Average No. of Days: '13.9'
+    Simple-Highest No. of Days: '57'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '8'
+  '2013':
+    Simple-Average No. of Days: '16.36'
+    Simple-Highest No. of Days: '35'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '17'
 usa_id: '49404'

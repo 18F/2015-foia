@@ -10,6 +10,7 @@ import layer_with_csv as layer
 import scraper
 import layer_with_usa_contacts as usa_layer
 
+import average_time_scraper
 
 class ScraperTests(TestCase):
 
@@ -580,6 +581,67 @@ class USALayerTests(TestCase):
         self.assertEqual(
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
+
+class AverageTimeScaperTests(TestCase):
+    def test_parse_table(self):
+        '''parses data tables from foia.gov'''
+        expected_data = {'Federal Retirement Thrift Investment Board_2012_FRTIB':
+            {'Complex-Lowest No. of Days': 'NA',
+            'Complex-Average No. of Days': 'NA',
+            'Expedited Processing-Highest No. of Days': 'NA',
+            'Component': 'FRTIB',
+            'Expedited Processing-Lowest No. of Days': 'NA',
+            'Simple-Lowest No. of Days': '1',
+            'Simple-Highest No. of Days': '57',
+            'Simple-Median No. of Days': '20', 'Agency': 'FRTIB',
+            'Complex-Highest No. of Days': 'NA',
+            'Simple-Average No. of Days': '27',
+            'Expedited Processing-Average No. of Days': 'NA',
+            'Expedited Processing-Median No. of Days': 'NA',
+            'Complex-Median No. of Days': 'NA', 'Year': '2012'}}
+
+        testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
+        params = {"advanceSearch":"71001.gt.-999999"}
+        params['requestYear'] = '2012'
+        params['agencyName'] = 'FRTIB'
+        data = average_time_scraper.parse_table(testurl,params,{})
+        self.assertEqual(expected_data,data)
+
+        #won't break with empty tables
+        params['requestYear'] = '2008'
+        params['agencyName'] = 'RATB'
+        data = average_time_scraper.parse_table(testurl,params,{})
+        self.assertEqual({},data)
+
+    def test_zip_and_clean(self):
+        '''returns a zipped dictionary with 0s coded as NAs'''
+
+        test_header = ['header 1','header 2','header 3']
+        test_row = ['2.23','0','NA']
+        exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
+        result = average_time_scraper.zip_and_clean(test_header,test_row)
+        self.assertEqual(exp_data,result)
+
+    def test_get_agency(self):
+        '''returns a string in format _%s where %s is the agency name'''
+
+        test_data = {'Agency':"DOS","other_data":"text blob"}
+        expected_data = '_DOS'
+        result = average_time_scraper.get_agency(test_data)
+        self.assertEqual(expected_data, result)
+
+    def test_append_time_stats(self):
+        '''appends time stats data to dictionary'''
+
+        test_yaml = {'name':"DOS","other_data":"text blob"}
+        test_data = {'DOS_2013DOS':
+            {'Simple-Mean No. of Days':'22','Agency':'DOS',
+            'Year':'2013','Component':'DOS'}}
+        expected_data = {'name':"DOS","other_data":"text blob",
+            'request_time_stats':{'2013':{'Simple-Mean No. of Days':'22'}}}
+        result = average_time_scraper.append_time_stats(test_yaml,
+            test_data,"_2013","DOS")
+        self.assertEqual(expected_data, result)
 
     def test_update_dict(self):
         '''updates the new dictionary with ids, abbreviation, description

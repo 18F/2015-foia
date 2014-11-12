@@ -28,4 +28,32 @@ keywords:
 - Freedom of information
 - Privacy
 name: Administrative Conference of the United States
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: '20'
+    Complex-Highest No. of Days: '20'
+    Complex-Lowest No. of Days: '20'
+    Complex-Median No. of Days: '20'
+    Simple-Average No. of Days: '20'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '20'
+    Simple-Median No. of Days: '20'
+  '2011':
+    Simple-Average No. of Days: '1.6'
+    Simple-Highest No. of Days: '4'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '1'
+  '2012':
+    Expedited Processing-Average No. of Days: '3'
+    Expedited Processing-Highest No. of Days: '3'
+    Expedited Processing-Lowest No. of Days: '3'
+    Expedited Processing-Median No. of Days: '3'
+    Simple-Average No. of Days: '2'
+    Simple-Highest No. of Days: '5'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2013':
+    Simple-Average No. of Days: '1.2'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '1'
 usa_id: '49068'

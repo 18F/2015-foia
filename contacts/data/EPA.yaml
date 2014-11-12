@@ -356,7 +356,6 @@ keywords:
 - Plants
 - Plastics materials and synthetics
 - Plutonium
-- Poison prevention
 - Polymers
 - Poultry and poultry products
 - Privacy
@@ -413,6 +412,76 @@ name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '60.91'
+    Complex-Highest No. of Days: '1329'
+    Complex-Lowest No. of Days: '7'
+    Complex-Median No. of Days: '37'
+    Expedited Processing-Average No. of Days: '51'
+    Expedited Processing-Highest No. of Days: '92'
+    Expedited Processing-Lowest No. of Days: '20'
+    Expedited Processing-Median No. of Days: '46'
+    Simple-Average No. of Days: '42.95'
+    Simple-Highest No. of Days: '1364'
+    Simple-Median No. of Days: '20'
+  '2009':
+    Complex-Average No. of Days: '75.32'
+    Complex-Highest No. of Days: '902'
+    Complex-Lowest No. of Days: '5'
+    Complex-Median No. of Days: '39'
+    Expedited Processing-Average No. of Days: '8'
+    Expedited Processing-Highest No. of Days: '11'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '10'
+    Simple-Average No. of Days: '37.15'
+    Simple-Highest No. of Days: '1419'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '20'
+  '2010':
+    Complex-Average No. of Days: '959'
+    Complex-Highest No. of Days: '13.08'
+    Complex-Lowest No. of Days: '9'
+    Complex-Median No. of Days: '93.74'
+    Expedited Processing-Median No. of Days: '66'
+    Simple-Average No. of Days: '36.41'
+    Simple-Highest No. of Days: '51'
+    Simple-Lowest No. of Days: '1436'
+    Simple-Median No. of Days: '19'
+  '2011':
+    Complex-Average No. of Days: '3'
+    Complex-Highest No. of Days: '19'
+    Complex-Lowest No. of Days: '1326'
+    Complex-Median No. of Days: '96.36'
+    Expedited Processing-Average No. of Days: '6'
+    Expedited Processing-Lowest No. of Days: '116'
+    Expedited Processing-Median No. of Days: '27.11'
+    Simple-Average No. of Days: '47.39'
+    Simple-Highest No. of Days: '48'
+    Simple-Lowest No. of Days: '1448'
+    Simple-Median No. of Days: '20'
+  '2012':
+    Complex-Average No. of Days: '1186'
+    Complex-Highest No. of Days: '111.18'
+    Complex-Lowest No. of Days: '71'
+    Complex-Median No. of Days: '45.91'
+    Expedited Processing-Average No. of Days: '346'
+    Expedited Processing-Median No. of Days: '24'
+    Simple-Average No. of Days: '16.93'
+    Simple-Highest No. of Days: '30'
+    Simple-Lowest No. of Days: '19'
+    Simple-Median No. of Days: '15'
+  '2013':
+    Complex-Average No. of Days: '1344'
+    Complex-Highest No. of Days: '118.73'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '55.86'
+    Expedited Processing-Average No. of Days: '524'
+    Expedited Processing-Median No. of Days: '4'
+    Simple-Average No. of Days: '27.18'
+    Simple-Highest No. of Days: '34'
+    Simple-Lowest No. of Days: '2044'
+    Simple-Median No. of Days: '15'
 service_center: 'Phone: (202) 566-1667'
 top_level: false
 usa_id: '49039'

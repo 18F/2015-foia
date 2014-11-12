@@ -28,4 +28,31 @@ keywords:
 - Lebanon
 - Loan programs
 name: Office of National Drug Control Policy
+request_time_stats:
+  '2008': {}
+  '2009':
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2010':
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2011':
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2012':
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: '42'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
+  '2013':
+    Simple-Average No. of Days: '49'
+    Simple-Highest No. of Days: '148'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '42'
 usa_id: '49586'

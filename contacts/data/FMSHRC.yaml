@@ -36,4 +36,58 @@ keywords:
 - Sunshine Act
 - Whistleblowing
 name: Federal Mine Safety and Health Review Commission
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '8'
+    Simple-Highest No. of Days: '24'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2009':
+    Simple-Average No. of Days: '6'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2010':
+    Complex-Average No. of Days: '17'
+    Complex-Highest No. of Days: '36'
+    Complex-Lowest No. of Days: '4'
+    Complex-Median No. of Days: '14.5'
+    Simple-Average No. of Days: '5'
+    Simple-Highest No. of Days: '22'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '2'
+  '2011':
+    Complex-Average No. of Days: '8'
+    Complex-Lowest No. of Days: '20'
+    Complex-Median No. of Days: '12.5'
+    Simple-Average No. of Days: '3.3'
+    Simple-Highest No. of Days: '11'
+    Simple-Lowest No. of Days: '36'
+    Simple-Median No. of Days: '1'
+  '2012':
+    Complex-Average No. of Days: '16'
+    Complex-Highest No. of Days: '31'
+    Complex-Lowest No. of Days: '11'
+    Complex-Median No. of Days: '18.5'
+    Expedited Processing-Average No. of Days: '12.5'
+    Expedited Processing-Highest No. of Days: '17'
+    Expedited Processing-Lowest No. of Days: '8'
+    Expedited Processing-Median No. of Days: '12.5'
+    Simple-Average No. of Days: '3.6'
+    Simple-Highest No. of Days: '18'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '1'
+  '2013':
+    Complex-Average No. of Days: '8.9'
+    Complex-Highest No. of Days: '34'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '6'
+    Expedited Processing-Average No. of Days: '5.7'
+    Expedited Processing-Highest No. of Days: '9'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '7'
+    Simple-Average No. of Days: '3.1'
+    Simple-Highest No. of Days: '24'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '1'
 usa_id: '52617'

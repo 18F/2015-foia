@@ -30,4 +30,24 @@ description: 'NCPC protects and enhances the historic, cultural, and natural res
 keywords:
 - Freedom of information
 name: National Capital Planning Commission
+request_time_stats:
+  '2010':
+    Simple-Average No. of Days: '3.5'
+    Simple-Highest No. of Days: '7'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '4'
+  '2011':
+    Simple-Average No. of Days: '6'
+    Simple-Highest No. of Days: '10'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2012':
+    Simple-Average No. of Days: '3'
+    Simple-Highest No. of Days: '6'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2013':
+    Simple-Average No. of Days: '3.67'
+    Simple-Lowest No. of Days: '16'
+    Simple-Median No. of Days: '2'
 usa_id: '52633'

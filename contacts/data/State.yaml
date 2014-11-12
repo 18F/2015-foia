@@ -33,6 +33,41 @@ departments:
   phone: 202-663-0383
   public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
   request_form: http://foia.state.gov/foiareq/foialetter.asp
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '1'
+      Complex-Highest No. of Days: '1'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '1'
+      Simple-Average No. of Days: '37'
+      Simple-Highest No. of Days: '213'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2009':
+      Simple-Average No. of Days: '24'
+      Simple-Highest No. of Days: '206'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2010':
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '44'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2011':
+      Simple-Average No. of Days: '22'
+      Simple-Highest No. of Days: '49'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '24'
+    '2012':
+      Simple-Average No. of Days: '9.49'
+      Simple-Highest No. of Days: '75'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '155'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '17'
   service_center: 'Phone: (202) 261-8484'
   top_level: false
   website: http://oig.state.gov/foia

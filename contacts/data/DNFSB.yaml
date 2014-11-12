@@ -25,4 +25,50 @@ keywords:
 - Courts
 - Government employees
 name: Defense Nuclear Facilities Safety Board
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '6.3'
+    Simple-Highest No. of Days: '19'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '6'
+  '2009':
+    Expedited Processing-Average No. of Days: '2'
+    Expedited Processing-Highest No. of Days: '2'
+    Expedited Processing-Lowest No. of Days: '2'
+    Expedited Processing-Median No. of Days: '2'
+    Simple-Average No. of Days: '9'
+    Simple-Highest No. of Days: '35'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5.5'
+  '2010':
+    Complex-Average No. of Days: '47'
+    Complex-Lowest No. of Days: '47'
+    Complex-Median No. of Days: '47'
+    Simple-Average No. of Days: '7'
+    Simple-Highest No. of Days: '47'
+    Simple-Lowest No. of Days: '29'
+    Simple-Median No. of Days: '5'
+  '2011':
+    Complex-Average No. of Days: '62'
+    Complex-Highest No. of Days: '62'
+    Complex-Lowest No. of Days: '62'
+    Complex-Median No. of Days: '62'
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '14'
+  '2012':
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '22'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11'
+  '2013':
+    Complex-Average No. of Days: '7'
+    Complex-Highest No. of Days: '8'
+    Complex-Lowest No. of Days: '6'
+    Complex-Median No. of Days: '7'
+    Simple-Average No. of Days: '14.53'
+    Simple-Highest No. of Days: '39'
+    Simple-Lowest No. of Days: '6'
+    Simple-Median No. of Days: '14'
 usa_id: '52601'
