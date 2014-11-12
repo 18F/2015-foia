@@ -18,6 +18,9 @@ def read_yaml_file(agency_abbr):
 
 
 def get_base_url(url):
+    """ Given a long text url, with sub-directories, query parameters, just
+    return the base URL for the domain. """
+
     parsed_uri = urlparse(url)
     domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
     return domain
