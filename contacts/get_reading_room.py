@@ -51,6 +51,9 @@ def get_absolute_url(link, url):
 
 
 def unique_links(links):
+    """ We sometimes get the same URI with different link texts. Squash those.
+    """
+
     redirected = []
     for l in links:
         try:
@@ -72,6 +75,8 @@ def unique_links(links):
 
 
 def process(data):
+    """ Actually scrape and clean up the reading room or library links. """
+
     if 'website' in data and data['website'].strip():
         try:
             response = requests.get(data['website'], verify=False)
@@ -102,12 +107,17 @@ def process(data):
 
 
 def update_links(agency_data, links):
+    """ Update the reading rooms links for a particular agency. """
+
     agency_data = dict(agency_data)
     update_list_in_dict(agency_data, 'reading_rooms', links)
     return agency_data
 
 
 def reading_room(agency_abbr):
+    """ Get the reading room links for the agency, and also for each of the
+    departments. """
+
     agency_data = read_yaml_file(agency_abbr)
     if agency_data:
         links = process(agency_data)
@@ -125,6 +135,8 @@ def reading_room(agency_abbr):
 
 
 def all_reading_rooms():
+    """ Get reading room links for ALL agencies. """
+
     for agency in AGENCIES:
         agency_data = reading_room(agency)
         save_agency_data(agency, agency_data)
