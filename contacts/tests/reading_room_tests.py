@@ -78,3 +78,20 @@ class ReadingRoomTests(TestCase):
         self.assertEqual([
             ('reading', 'http://www.amtrak.com/foia/')],
             agency_data['reading_rooms'])
+
+    def test_scrape_reading_room_links(self):
+        html = """
+            <p>
+                <a href="http://gsa.gov/foia/reading-room">Reading Room</a>
+            </p>
+            <p> 
+                <a href="http://gsa.gov/foia/library">FOIA Library</a>
+            </p>
+        """
+
+        links = reading.scrape_reading_room_links(html, 'http://gsa.gov/foia')
+        self.assertEqual(
+            set([
+                ('Reading Room', 'http://gsa.gov/foia/reading-room'),
+                ('FOIA Library', 'http://gsa.gov/foia/library')]),
+            links)
