@@ -56,3 +56,25 @@ class ReadingRoomTests(TestCase):
         self.assertEqual(
             None, 
             reading.get_absolute_url(l, 'http://fbi.gov/rr'))
+
+    def test_update_links(self):
+        agency_data = {
+            'reading_rooms': [('reading', 'http://www.amtrak.com/foia/')]
+        }
+        new_links = [('reading', 'http://www.amtrak.com/foia/')]
+        updated_agency = reading.update_links(agency_data, new_links)
+        self.assertEqual([
+            ('reading', 'http://www.amtrak.com/foia/')],
+            updated_agency['reading_rooms'])
+
+        new_links = [('FOIA library', 'http://www.amtrak.com/library/')]
+        updated_agency = reading.update_links(agency_data, new_links)
+
+        self.assertEqual([
+                ('FOIA library', 'http://www.amtrak.com/library/'),
+                ('reading', 'http://www.amtrak.com/foia/')],
+            updated_agency['reading_rooms'])
+
+        self.assertEqual([
+            ('reading', 'http://www.amtrak.com/foia/')],
+            agency_data['reading_rooms'])
