@@ -47,7 +47,7 @@ def get_absolute_url(link, url):
             if href == get_base_url(url):
                 return None
         if domains_match(url, href):
-            return (clean_link_text(link.text), href)
+            return [clean_link_text(link.text), href]
 
 
 def unique_links(links):
@@ -61,7 +61,7 @@ def unique_links(links):
             if len(response.history) > 0:
                 if response.history[0].status_code == 301:
                     redirected.append(
-                        (l[0], response.history[0].headers['Location']))
+                        [l[0], response.history[0].headers['Location']])
             else:
                 redirected.append(l)
         except requests.exceptions.ConnectionError:
@@ -76,7 +76,7 @@ def unique_links(links):
 def scrape_reading_room_links(content, website_url):
     doc = BeautifulSoup(content)
     all_as = doc.find_all('a')
-    links = set()
+    links = []
     for link in all_as:
         for keyword in [
                 'foia library',
@@ -86,7 +86,7 @@ def scrape_reading_room_links(content, website_url):
                     and 'certification' not in link.text.lower():
                 url_pair = get_absolute_url(link, website_url)
                 if url_pair:
-                    links.add(url_pair)
+                    links.append(url_pair)
     return links
 
 def process(data):
@@ -108,12 +108,24 @@ def process(data):
                 return None
             return links
 
+def uniquefy(links):
+    seen = set()
+    uniques = [l for l in links 
+               if l[1] not in seen and not seen.add(l[1])]
+    return uniques
 
 def update_links(agency_data, links):
     """ Update the reading rooms links for a particular agency. """
 
     agency_data = dict(agency_data)
-    update_list_in_dict(agency_data, 'reading_rooms', links)
+
+    original_links = agency_data.get('reading_rooms', [])
+    all_links = original_links + links
+    unique_links = uniquefy(all_links)
+    sorted_uniques = sorted(unique_links, key=lambda x: x[0])
+
+
+    agency_data['reading_rooms'] = sorted_uniques
     return agency_data
 
 

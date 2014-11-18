@@ -40,7 +40,7 @@ class ReadingRoomTests(TestCase):
         l.link['href'] = '/reading-room-2000/'
         l.text = "Reading Room"
         self.assertEqual(
-            ('Reading Room', 'http://fbi.gov/reading-room-2000/'), 
+            ['Reading Room', 'http://fbi.gov/reading-room-2000/'], 
             reading.get_absolute_url(l, 'http://fbi.gov/foia/'))
 
         l = Link()
@@ -59,24 +59,26 @@ class ReadingRoomTests(TestCase):
 
     def test_update_links(self):
         agency_data = {
-            'reading_rooms': [('reading', 'http://www.amtrak.com/foia/')]
+            'reading_rooms': [['reading', 'http://www.amtrak.com/foia/']]
         }
-        new_links = [('reading', 'http://www.amtrak.com/foia/')]
+        new_links = [['reading', 'http://www.amtrak.com/foia/']]
         updated_agency = reading.update_links(agency_data, new_links)
         self.assertEqual([
-            ('reading', 'http://www.amtrak.com/foia/')],
+            ['reading', 'http://www.amtrak.com/foia/']],
             updated_agency['reading_rooms'])
 
-        new_links = [('FOIA library', 'http://www.amtrak.com/library/')]
+        new_links = [['FOIA library', 'http://www.amtrak.com/library/']]
         updated_agency = reading.update_links(agency_data, new_links)
 
+        print(updated_agency)
+
         self.assertEqual([
-                ('FOIA library', 'http://www.amtrak.com/library/'),
-                ('reading', 'http://www.amtrak.com/foia/')],
+                ['FOIA library', 'http://www.amtrak.com/library/'],
+                ['reading', 'http://www.amtrak.com/foia/']],
             updated_agency['reading_rooms'])
 
         self.assertEqual([
-            ('reading', 'http://www.amtrak.com/foia/')],
+            ['reading', 'http://www.amtrak.com/foia/']],
             agency_data['reading_rooms'])
 
     def test_scrape_reading_room_links(self):
@@ -91,7 +93,7 @@ class ReadingRoomTests(TestCase):
 
         links = reading.scrape_reading_room_links(html, 'http://gsa.gov/foia')
         self.assertEqual(
-            set([
-                ('Reading Room', 'http://gsa.gov/foia/reading-room'),
-                ('FOIA Library', 'http://gsa.gov/foia/library')]),
+            [
+                ['Reading Room', 'http://gsa.gov/foia/reading-room'],
+                ['FOIA Library', 'http://gsa.gov/foia/library']],
             links)
