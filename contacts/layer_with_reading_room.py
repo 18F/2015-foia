@@ -7,7 +7,7 @@ import yaml
 from bs4 import BeautifulSoup
 
 from scraper import agency_yaml_filename, AGENCIES
-from scraper import save_agency_data, update_list_in_dict
+from scraper import save_agency_data
 
 
 def read_yaml_file(agency_abbr):
@@ -73,6 +73,7 @@ def unique_links(links):
                if l[1] not in seen and not seen.add(l[1])]
     return uniques
 
+
 def scrape_reading_room_links(content, website_url):
     doc = BeautifulSoup(content)
     all_as = doc.find_all('a')
@@ -89,6 +90,7 @@ def scrape_reading_room_links(content, website_url):
                     links.append(url_pair)
     return links
 
+
 def process(data):
     """ Actually scrape and clean up the reading room or library links. """
 
@@ -102,17 +104,20 @@ def process(data):
             return None
 
         if response.status_code == 200:
-            links = scrape_reading_room_links(response.content, data['website'])
+            links = scrape_reading_room_links(
+                response.content, data['website'])
             links = unique_links(links)
             if len(links) == 0:
                 return None
             return links
 
+
 def uniquefy(links):
     seen = set()
-    uniques = [l for l in links 
+    uniques = [l for l in links
                if l[1] not in seen and not seen.add(l[1])]
     return uniques
+
 
 def update_links(agency_data, links):
     """ Update the reading rooms links for a particular agency. """
