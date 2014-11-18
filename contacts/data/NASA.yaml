@@ -13,7 +13,6 @@ departments:
   name: Headquarters
   phone: 202-358-2462
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
-  reading_rooms: []
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
   request_time_stats:
     '2010':
@@ -214,7 +213,6 @@ departments:
   name: Glenn Research Center
   phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '23'
@@ -279,7 +277,6 @@ departments:
   name: Goddard Space Flight Center
   phone: 301-286-4271
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
-  reading_rooms: []
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -352,7 +349,6 @@ departments:
   name: Jet Propulsion Laboratory
   phone: 818-393-6779
   public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
-  reading_rooms: []
   request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (818) 393-6779'
   top_level: true
@@ -369,7 +365,6 @@ departments:
   name: Johnson Space Center
   phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '75'
@@ -443,7 +438,6 @@ departments:
   name: Kennedy Space Center
   phone: 321-867-9280
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
-  reading_rooms: []
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -508,7 +502,6 @@ departments:
   name: Langley Research Center
   phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '377'
@@ -644,7 +637,6 @@ departments:
   name: Office of the Inspector General
   phone: 202-358-2582
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
-  reading_rooms: []
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
   request_time_stats:
     '2008':
@@ -697,7 +689,6 @@ departments:
   name: NASA Shared Service Center (NSSC)
   phone: 228-813-6490
   public_liaison: 'Jamie Mettler, Phone: (228) 813-6174'
-  reading_rooms: []
   service_center: 'Phone: (228) 813-6174'
   top_level: false
   website: http://www.nssc.nasa.gov/foia/
@@ -786,7 +777,6 @@ departments:
   name: Principal Agency FOIA Officer
   phone: 202-358-0718
   public_liaison: 'Phone: (202) 358-3642'
-  reading_rooms: []
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
   service_center: 'Phone: (202) 358-0718'
   top_level: false
@@ -866,7 +856,6 @@ keywords:
 - Veterans
 - Women
 name: National Aeronautics and Space Administration
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '83'

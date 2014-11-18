@@ -143,7 +143,6 @@ departments:
   name: Administration for Children and Families
   phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
-  reading_rooms: []
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   request_time_stats:
     '2008':
@@ -737,7 +736,6 @@ departments:
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '18'
@@ -998,7 +996,6 @@ departments:
   name: Substance Abuse and Mental Health Services Administration
   phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '75'
@@ -1259,5 +1256,4 @@ keywords:
 - Yogurt
 - Youth
 name: Department of Health and Human Services
-reading_rooms: []
 usa_id: '49021'

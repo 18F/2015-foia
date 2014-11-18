@@ -11,7 +11,6 @@ departments:
   name: Millennium Challenge Corporation
   phone: 202-521-3863
   public_liaison: 'John Mantini, Phone: (202) 521-3863'
-  reading_rooms: []
   service_center: 'John Mantini, Phone: (202) 521-3863'
   top_level: false
   website: http://www.mcc.gov/pages/foia
@@ -23,7 +22,6 @@ keywords:
 - Government employees
 - Organization and functions (Government agencies)
 name: Millennium Challenge Corporation
-reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '17'

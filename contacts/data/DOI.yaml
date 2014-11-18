@@ -615,7 +615,6 @@ departments:
     visiting its website.
   phone: 703-648-7196
   public_liaison: 'Joye Durant, Phone: (703) 648-7196'
-  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 648-7196'
   top_level: false
@@ -833,7 +832,6 @@ departments:
   name: Office of the Secretary
   phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
-  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -958,7 +956,6 @@ departments:
     visiting its website.
   phone: 202-208-5840
   public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
-  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1009,7 +1006,6 @@ departments:
     visiting its website.
   phone: 505-816-1645
   public_liaison: Veronica Herkshan
-  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (505) 816-1645'
   top_level: false
@@ -1215,5 +1211,4 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Interior
-reading_rooms: []
 usa_id: '49033'

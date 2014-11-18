@@ -13,7 +13,6 @@ departments:
   name: Federal Reserve System
   phone: 202-452-3648
   public_liaison: 'Jeanne McLaughlin, Phone: (202) 452-3236'
-  reading_rooms: []
   request_form: http://www.federalreserve.gov/forms/efoiaform.aspx
   service_center: 'Phone: (202) 452-3648'
   top_level: false
@@ -96,5 +95,4 @@ keywords:
 - United States investments abroad
 - Wages
 name: Federal Reserve System
-reading_rooms: []
 usa_id: '49046'

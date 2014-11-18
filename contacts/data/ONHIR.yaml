@@ -15,7 +15,6 @@ departments:
   name: Office of Navajo and Hopi Indian Relocation
   phone: 928-779-2727
   public_liaison: 'Lawrence A. Ruzzow, Phone: (928) 779-2721'
-  reading_rooms: []
   service_center: 'Phone: (928) 779-2727, ext. 145'
   top_level: false
   website: http://onhir.gov/
@@ -23,7 +22,6 @@ description: The Office of Navajo and Hopi Indian Relocation (ONHIR) was establi
   by Congress to implement the settlement of  a land conflict between the Navajo and
   Hopi Indian Tribes.
 name: Office of Navajo and Hopi Indian Relocation
-reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '12'

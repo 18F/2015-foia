@@ -12,7 +12,6 @@ departments:
   name: Nuclear Regulatory Commission
   phone: 301-415-7169
   public_liaison: 'Pat Hirsch, Phone: (301) 415-0563'
-  reading_rooms: []
   service_center: 'Phone: (301) 415-7169'
   top_level: false
   website: http://www.nrc.gov/reading-rm/foia/foia-privacy.html
@@ -101,5 +100,4 @@ keywords:
 - Whistleblowing
 - Women
 name: Nuclear Regulatory Commission
-reading_rooms: []
 usa_id: '52645'

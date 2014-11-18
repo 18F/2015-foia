@@ -13,7 +13,6 @@ departments:
   name: Chemical Safety and Hazard Investigation Board
   phone: 202-261-7619
   public_liaison: 'Chris Warner, Phone: (202) 261-7619'
-  reading_rooms: []
   service_center: 'Phone: (202) 261-7619'
   top_level: false
   website: http://www.csb.gov/disclaimers/legal-affairs-foia/
@@ -30,7 +29,6 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Chemical Safety and Hazard Investigation Board
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '437'

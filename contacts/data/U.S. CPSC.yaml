@@ -13,7 +13,6 @@ departments:
   name: Consumer Product Safety Commission
   phone: 301-504-7923
   public_liaison: 'Deborah Acosta, Phone: (301) 504-6890'
-  reading_rooms: []
   service_center: 'Phone: (301) 504-7923'
   top_level: false
   website: http://www.cpsc.gov/en/Newsroom/FOIA/
@@ -48,5 +47,4 @@ keywords:
 - Voluntary standards
 - Youth
 name: Consumer Product Safety Commission
-reading_rooms: []
 usa_id: '49013'

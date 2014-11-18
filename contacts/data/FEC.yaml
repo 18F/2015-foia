@@ -12,7 +12,6 @@ departments:
   name: Federal Election Commission
   phone: 202-694-1650
   public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
-  reading_rooms: []
   service_center: 'Candace Salley, Phone: (202) 694-1650'
   top_level: false
   website: http://www.fec.gov/press/foia.shtml
@@ -44,7 +43,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - Sunshine Act
 name: Federal Election Commission
-reading_rooms: []
 request_time_stats:
   '2008':
     Expedited Processing-Average No. of Days: '188.2'

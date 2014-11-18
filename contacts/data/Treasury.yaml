@@ -95,7 +95,6 @@ departments:
   name: Alcohol and Tobacco Tax and Trade Bureau
   phone: 202-882-9904
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  reading_rooms: []
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 927-1024'
   top_level: true
@@ -119,7 +118,6 @@ departments:
   name: Bureau of Engraving and Printing
   phone: 202-874-2500
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  reading_rooms: []
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 874-2058'
   top_level: true
@@ -219,7 +217,6 @@ departments:
   name: Comptroller of the Currency
   phone: 202-649-6758
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  reading_rooms: []
   request_form: https://foia-pal.occ.gov/palMain.aspx
   service_center: 'Phone: (202) 874-4700'
   top_level: true
@@ -339,7 +336,6 @@ departments:
   name: Bureau of Fiscal Services
   phone: 202-874-5602
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
-  reading_rooms: []
   request_form: http://www.fms.treas.gov/foia/request.html
   service_center: 'Phone: (202) 874-5602'
   top_level: false
@@ -747,5 +743,4 @@ keywords:
 - Youth
 - Yugoslavia
 name: Department of the Treasury
-reading_rooms: []
 usa_id: '49034'

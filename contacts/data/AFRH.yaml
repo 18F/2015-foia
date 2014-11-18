@@ -12,7 +12,6 @@ departments:
   name: Armed Forces Retirement Home
   phone: 202-541-7716
   public_liaison: 'Sheila Abarr, Phone: (202) 541-7550'
-  reading_rooms: []
   service_center: 'Phone: (202) 541-7566'
   top_level: false
   website: https://www.afrh.gov/afrh/foia.htm
@@ -24,7 +23,6 @@ keywords:
 - Environmental protection
 - Retirement
 name: Armed Forces Retirement Home
-reading_rooms: []
 request_time_stats:
   '2011':
     Complex-Average No. of Days: '49'

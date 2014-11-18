@@ -13,7 +13,6 @@ departments:
   name: Federal Mediation and Conciliation Service
   phone: 202-606-3737
   public_liaison: 'Michael J. Bartlett, Phone: (202) 606-3737'
-  reading_rooms: []
   request_form: https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436
   service_center: 'Mery Skolochenko, Phone: (202) 606-5444'
   top_level: false
@@ -37,7 +36,6 @@ keywords:
 - Lebanon
 - Loan programs
 name: Federal Mediation and Conciliation Service
-reading_rooms: []
 request_time_stats:
   '2008':
     Expedited Processing-Average No. of Days: '2'

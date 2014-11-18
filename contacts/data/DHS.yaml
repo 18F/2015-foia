@@ -18,7 +18,6 @@ departments:
   name: Headquarters & Privacy Office
   phone: 202-343-1743
   public_liaison: 'Angela Washington, Acting, Phone: (202) 343-1743, (866) 431-0486'
-  reading_rooms: []
   request_form: http://www.dhs.gov/make-foia-request
   service_center: 'Phone: (202) 343-1743, (866) 431-0486'
   top_level: false
@@ -76,7 +75,6 @@ departments:
   name: Office for Civil Rights and Civil Liberties
   phone: 202-357-1218
   public_liaison: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
-  reading_rooms: []
   service_center: 'Phone: (202) 357-1218'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
@@ -323,7 +321,6 @@ departments:
   name: U.S. Customs & Border Protection
   phone: 202-325-0150
   public_liaison: 'Sabrina Burroughs, Phone: (202) 325-0150'
-  reading_rooms: []
   request_form: https://foia.cbp.gov/palMain.aspx
   service_center: 'Phone: (202) 325-0150'
   top_level: true
@@ -414,7 +411,6 @@ departments:
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison: 'Terry Cochran, Phone: (202) 646-3323'
-  reading_rooms: []
   request_form: https://faq.fema.gov/ci/documents/submit
   request_time_stats:
     '2008':
@@ -737,7 +733,6 @@ departments:
   name: Directorate for National Protection and Programs
   phone: 703-235-2211
   public_liaison: 'Sandy Ford Page, Phone: (703) 235-2211'
-  reading_rooms: []
   service_center: 'Phone: (703) 235-2211'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
@@ -752,7 +747,6 @@ departments:
   name: Office of Operations Coordination and Planning
   phone: 202-447-4156
   public_liaison: 'Michael Page, Phone: (202) 447-4156'
-  reading_rooms: []
   service_center: 'Phone: (202) 447-4156'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0797.shtm
@@ -769,7 +763,6 @@ departments:
   name: Science & Technology Directorate
   phone: 202-254-6342
   public_liaison: 'Katrina Hagan, Phone: (202) 254-6342'
-  reading_rooms: []
   service_center: 'Phone: (202) 254-6342'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
@@ -1008,7 +1001,6 @@ departments:
   name: Office of Biometric Identity Management
   phone: 202-295-5454
   public_liaison: 'Michael Johnson, Phone: (202) 295-5454'
-  reading_rooms: []
   service_center: 'Phone: (202) 295-5454'
   top_level: false
   website: http://www.dhs.gov/files/programs/usv.shtm
@@ -1227,7 +1219,6 @@ keywords:
 name: Department of Homeland Security
 phone: 202-343-1743
 public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'
-reading_rooms: []
 request_form: http://www.dhs.gov/make-foia-request
 request_time_stats:
   '2008':

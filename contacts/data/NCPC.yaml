@@ -14,7 +14,6 @@ departments:
   name: National Capital Planning Commission
   phone: 202-482-7228
   public_liaison: 'Deborah Young, Phone: (202)-482-7228'
-  reading_rooms: []
   service_center: 'Marcella Brown, Phone: (202)-482-7227'
   top_level: false
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
@@ -31,7 +30,6 @@ description: 'NCPC protects and enhances the historic, cultural, and natural res
 keywords:
 - Freedom of information
 name: National Capital Planning Commission
-reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '3.5'

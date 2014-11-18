@@ -13,7 +13,6 @@ departments:
   name: National Science Foundation
   phone: 703-292-8060
   public_liaison: 'Sandra Evans, Phone: (703) 292-8060'
-  reading_rooms: []
   service_center: 'Phone: (703) 292-8060'
   top_level: false
   website: http://www.nsf.gov/policies/foia.jsp
@@ -79,7 +78,6 @@ keywords:
 - Wildlife
 - Women
 name: National Science Foundation
-reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '20.26'

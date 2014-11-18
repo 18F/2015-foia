@@ -144,7 +144,6 @@ departments:
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (214) 665-7202'
   top_level: false
@@ -180,7 +179,6 @@ departments:
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (303) 312-6856'
   top_level: false
@@ -198,7 +196,6 @@ departments:
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (415) 947-4251'
   top_level: false
@@ -216,7 +213,6 @@ departments:
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
-  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (206) 553-8665'
   top_level: false

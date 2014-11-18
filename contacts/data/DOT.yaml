@@ -1107,7 +1107,6 @@ departments:
   name: Saint Lawrence Seaway Development Corporation
   phone: 315-764-3210
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '25'
@@ -1190,7 +1189,6 @@ departments:
   name: Surface Transportation Board
   phone: 202-245-0269
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
-  reading_rooms: []
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   top_level: false
@@ -1462,7 +1460,6 @@ keywords:
 name: Department of Transportation
 phone: 202-366-4542
 public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '1531'

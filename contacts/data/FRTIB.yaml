@@ -11,7 +11,6 @@ departments:
   name: Federal Retirement Thrift Investment Board
   phone: 202-942-1660
   public_liaison: 'Amanda Haas, Phone: (202) 942-1660'
-  reading_rooms: []
   service_center: 'Phone: (202) 942-1660'
   top_level: false
   website: http://frtib.gov/ReadingRoom/FOIA/e-read_guide.pdf
@@ -38,7 +37,6 @@ keywords:
 - Taxes
 - Wages
 name: Federal Retirement Thrift Investment Board
-reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '16.5'

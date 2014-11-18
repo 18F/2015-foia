@@ -11,7 +11,6 @@ departments:
   name: Consumer Financial Protection Bureau
   phone: 855-444-3642
   public_liaison: 'Mark Vugrinovich, Phone: (202) 435-9499'
-  reading_rooms: []
   service_center: 'Phone: (855) 444-3642'
   top_level: false
   website: http://www.consumerfinance.gov/foia/
@@ -78,5 +77,4 @@ keywords:
 - credit cards
 - mortgage
 name: Consumer Financial Protection Bureau
-reading_rooms: []
 usa_id: '49113'

@@ -199,7 +199,6 @@ departments:
     visiting its website.
   phone: 202-685-0412
   public_liaison: 'Steve Muck, Phone: (202) 695-1297'
-  reading_rooms: []
   request_form: https://foia.navy.mil/foia/webbas02.nsf/(vwwebpage)/home.htm?opendocument
   service_center: 'Phone: (202) 685-0412'
   top_level: false
@@ -241,7 +240,6 @@ departments:
   name: Armed Services Board of Contract Appeals
   phone: 703-681-8501
   public_liaison: 'Catherine A. Stanton, Phone: (703) 681-8503'
-  reading_rooms: []
   service_center: 'Phone: (703) 681-8503'
   top_level: false
   website: http://www.asbca.mil
@@ -310,7 +308,6 @@ departments:
     visiting its website.
   phone: 703-767-1022
   public_liaison: 'Merrick Krause, Phone: (703) 767-2249'
-  reading_rooms: []
   service_center: 'Phone: (703) 767-1022'
   top_level: false
   website: http://www.dcaa.mil/foia.htm
@@ -742,7 +739,6 @@ departments:
   name: Department of Defense Education Activity
   phone: 571-372-1892
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   service_center: 'Phone: (571) 372-1892'
   top_level: false
   website: http://www.dodea.edu/foia.cfm
@@ -759,7 +755,6 @@ departments:
   name: National Geospatial-Intelligence Agency
   phone: 571-557-4141
   public_liaison: 'Elizabeth M. Smith, Phone: (571) 557-7708'
-  reading_rooms: []
   service_center: 'Phone: (571) 557-4141'
   top_level: false
   website: http://www1.nga.mil/Pages/FOIA.aspx
@@ -779,7 +774,6 @@ departments:
   name: National Guard Bureau
   phone: 571-256-7838
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   request_time_stats:
     '2009':
       Complex-Average No. of Days: '65'
@@ -932,7 +926,6 @@ departments:
   name: National Security Agency
   phone: 301-688-6527
   public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
-  reading_rooms: []
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
   request_time_stats:
     '2008':
@@ -1073,7 +1066,6 @@ departments:
   name: U.S. Africa Command
   phone: +490 711-729-4287
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   service_center: 'Phone: +49 (0)711 729-4287'
   top_level: false
   website: http://www.africom.mil/FOIA.asp
@@ -1090,7 +1082,6 @@ departments:
   name: U.S. Central Command
   phone: 813-827-1810
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
   service_center: 'Phone: (813) 827-1810'
   top_level: false
@@ -1195,7 +1186,6 @@ departments:
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   top_level: false
   website: http://www.socom.mil/FOIA/Pages/default.aspx
 - address:
@@ -1213,7 +1203,6 @@ departments:
   name: U.S. Special Operations Command
   phone: 813-826-3212
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms: []
   top_level: false
   website: http://www.socom.mil/foia/Pages/FOIARequesterServiceCenter.aspx
 - address:
@@ -1445,7 +1434,6 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Defense
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '4277'

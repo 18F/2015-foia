@@ -12,7 +12,6 @@ departments:
   name: USPS Headquarters Office
   phone: 202-268-2608
   public_liaison: 'Jane Eyre, Phone: (202) 268-2608'
-  reading_rooms: []
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (202) 268-2608'
   top_level: false
@@ -27,7 +26,6 @@ departments:
   name: USPS Field Office
   phone: 314-345-5894
   public_liaison: 'Brittany Lindsay, Phone: (314) 345-5894'
-  reading_rooms: []
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (314) 345-5894'
   top_level: false
@@ -49,7 +47,6 @@ departments:
   name: Postal Inspection Service
   phone: 202-268-7004
   public_liaison: 'Betty White, Phone: (202) 268-7004'
-  reading_rooms: []
   request_form: https://pfoiapal.usps.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -100,7 +97,6 @@ departments:
   name: Office of the Inspector General
   phone: 703-248-2100
   public_liaison: 'Betsy Cuthbertson, Phone: (703) 248-2100'
-  reading_rooms: []
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (703) 248-2100'
   top_level: false
@@ -151,7 +147,6 @@ keywords:
 - State and local governments
 - Wages
 name: United States Postal Service
-reading_rooms: []
 request_time_stats:
   '2010':
     Complex-Average No. of Days: '495'

@@ -448,7 +448,6 @@ departments:
   name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   phone: 202-648-8740
   public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
-  reading_rooms: []
   service_center: 'Phone: (202) 648-8740'
   top_level: true
   usa_id: '49081'
@@ -467,7 +466,6 @@ departments:
   name: Civil Division
   phone: 202-514-3319
   public_liaison: 'James M. Kovakas, Phone: (202) 514-3319'
-  reading_rooms: []
   request_form: http://www.justice.gov/civil/common/foia_request.html
   request_time_stats:
     '2008':
@@ -533,7 +531,6 @@ departments:
   name: Civil Rights Division
   phone: 202-514-4209
   public_liaison: 'Sylvia Cabrera, Phone: (202) 514-4210'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '50'
@@ -1037,7 +1034,6 @@ departments:
   name: Executive Office for Organized Crime Drug Enforcement Task Forces
   phone: 202-514-0296
   public_liaison: 'Jennifer Bilinski, Phone: (202) 514-0296'
-  reading_rooms: []
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '67'
@@ -1367,7 +1363,6 @@ departments:
   name: Federal Bureau of Prisons
   phone: 202-514-6655
   public_liaison: 'Wilson Moorer, Phone: (202) 514-6655'
-  reading_rooms: []
   request_form: http://www.bop.gov/foia/submit.jsp
   service_center: 'Phone: (202) 616-7750'
   top_level: true
@@ -1623,7 +1618,6 @@ departments:
   name: Office of Community Oriented Policing Services
   phone: 202-353-9864
   public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '3.6'
@@ -1667,7 +1661,6 @@ departments:
   name: Office of Information Policy
   phone: 202-514-3642
   public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
-  reading_rooms: []
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -1783,7 +1776,6 @@ departments:
   name: Office of Justice Programs
   phone: 202-616-3267
   public_liaison: 'George Pruden, Phone: (202) 616-3267'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '60.8'
@@ -2442,7 +2434,6 @@ departments:
   name: Office on Violence Against Women
   phone: 202-307-6026
   public_liaison: 'Catherine Poston, Phone: (202) 307-6026'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '13.25'
@@ -2627,7 +2618,6 @@ departments:
   phone: 202-307-9054
   public_liaison: 'Nancy Robinson, Arleta Cunningham, Phone: (202) 307-9071, (202)
     307-9052'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '84.7'
@@ -2928,7 +2918,6 @@ keywords:
 name: Department of Justice
 phone: 301-583-7354
 public_liaison: 'Phone: (301) 583-7354'
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '6659'

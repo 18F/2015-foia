@@ -108,7 +108,6 @@ departments:
   name: Agricultural Marketing Service
   phone: 202-720-3785
   public_liaison: 'Christine Sarcone, Phone: (202) 720-3203'
-  reading_rooms: []
   request_form: http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm
   request_time_stats:
     '2010':
@@ -494,7 +493,6 @@ departments:
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
   public_liaison: 'Joseph X. Tangredi, Phone: (703) 605-0773'
-  reading_rooms: []
   service_center: 'Phone: (703) 605-0773'
   top_level: false
   website: http://www.fns.usda.gov/foia/
@@ -684,7 +682,6 @@ departments:
     visiting its website.
   phone: 202-205-2497
   public_liaison: 'Sherry Turner, Phone: (202) 205-2497'
-  reading_rooms: []
   service_center: 'Phone: (202) 205-1542'
   top_level: false
   website: http://www.fs.fed.us/im/foia/
@@ -744,7 +741,6 @@ departments:
     visiting its website.
   phone: 703-305-1164
   public_liaison: 'Brenda V. Seegars, Phone: (703) 305-1164'
-  reading_rooms: []
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '3'
@@ -821,7 +817,6 @@ departments:
   name: Natural Resources Conservation Service
   phone: 202-690-4985
   public_liaison: 'Deryl Richardson, Phone: (202) 690-4985'
-  reading_rooms: []
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '14'
@@ -1131,7 +1126,6 @@ departments:
     Statistics Service, and National Institute of Food and Agriculture.
   phone: 301-504-1655
   public_liaison: 'Stasia Hutchison, Monica Williams, Phone: (301) 504-1743'
-  reading_rooms: []
   request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
   service_center: 'Phone: (301) 504-1743'
   top_level: false
@@ -1150,7 +1144,6 @@ departments:
     visiting its website.
   phone: 202-692-0015
   public_liaison: 'Joseph Shunk, Phone: (202) 692-0032'
-  reading_rooms: []
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '14'

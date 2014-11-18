@@ -325,7 +325,6 @@ departments:
   name: San Francisco Regional Office
   phone: 415-356-5000
   public_liaison: ''
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '7'
@@ -372,7 +371,6 @@ departments:
   name: Washington Regional Office
   phone: 202-482-6700
   public_liaison: ''
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '8'
@@ -415,7 +413,6 @@ departments:
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
   public_liaison: ''
-  reading_rooms: []
   service_center: 'Phone: (202) 218-7790'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -431,7 +428,6 @@ departments:
   name: Office of the Inspector General
   phone: 202-218-7770
   public_liaison: ''
-  reading_rooms: []
   service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
   top_level: false
   website: http://www.flra.gov/foia_contact

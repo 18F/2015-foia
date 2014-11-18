@@ -14,7 +14,6 @@ departments:
   name: National Mediation Board
   phone: 202-692-5040
   public_liaison: 'Susanna Parker, Phone: (202) 692-5040'
-  reading_rooms: []
   service_center: 'Tonya Kirksey, Phone: (202) 692-5040'
   top_level: false
   website: http://www.nmb.gov/press-and-contacts/foia/foia-designations/
@@ -32,7 +31,6 @@ keywords:
 - Labor unions
 - Railroads
 name: National Mediation Board
-reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '13'

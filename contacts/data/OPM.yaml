@@ -12,7 +12,6 @@ departments:
   name: Office of Personnel Management
   phone: 202-606-4417
   public_liaison: 'Trina Porter, Phone: (202) 606-4417'
-  reading_rooms: []
   service_center: 'Phone: (202) 606-3642'
   top_level: false
   website: http://www.opm.gov/information-management/freedom-of-information-act
@@ -110,5 +109,4 @@ keywords:
 - Vocational rehabilitation
 - Wages
 name: Office of Personnel Management
-reading_rooms: []
 usa_id: '48112'

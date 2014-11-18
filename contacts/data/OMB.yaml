@@ -12,7 +12,6 @@ departments:
   name: Office of Management and Budget
   phone: 202-395-3642
   public_liaison: 'Lauren Wright, Phone: (202) 395-7250'
-  reading_rooms: []
   service_center: 'Phone: (202) 395-3642'
   top_level: false
   website: http://www.whitehouse.gov/omb/foia_default
@@ -42,7 +41,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - State and local governments
 name: Office of Management and Budget
-reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '26'

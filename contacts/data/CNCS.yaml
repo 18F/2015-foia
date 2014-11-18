@@ -14,7 +14,6 @@ departments:
   name: Corporation for National and Community Service
   phone: 202-606-6671
   public_liaison: 'Wilsie Y. Minor, Phone: (202) 606-6673'
-  reading_rooms: []
   service_center: 'Phone: (202) 606-6671'
   top_level: false
   website: http://www.nationalservice.gov/home/foia/index.asp
@@ -77,7 +76,6 @@ keywords:
 - Wages
 - Women
 name: Corporation for National and Community Service
-reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '9'

@@ -265,7 +265,6 @@ departments:
   name: Office of Scientific and Technical Information
   phone: 865-576-8408
   public_liaison: 'David Gottholm, Phone: (865) 576-2623'
-  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '16'
@@ -365,7 +364,6 @@ departments:
   name: Savannah River Operations Office
   phone: 803-952-8134
   public_liaison: 'Lucy Knowles, Phone: (803) 952-7618'
-  reading_rooms: []
   request_form: http://sro.srs.gov/foiarequest.htm
   request_time_stats:
     '2008':
@@ -408,7 +406,6 @@ departments:
   name: National Nuclear Security Administration Office of Naval Reactors
   phone: 412-476-7202
   public_liaison: 'Jeffrey Avery, Phone: (202) 781-6236'
-  reading_rooms: []
   service_center: 'Phone: (202) 781-6172'
   top_level: false
   website: ''
@@ -472,7 +469,6 @@ departments:
   name: Environmental Management Consolidated Business Center (EMCBC)
   phone: 513-246-0497
   public_liaison: 'Lynnette Chafin, Phone: (513) 246-0461'
-  reading_rooms: []
   request_form: https://www.emcbc.doe.gov/foia/foia_form.php
   service_center: 'Phone: (513) 246-0489'
   top_level: false
@@ -550,7 +546,6 @@ departments:
   name: Southeastern Power Administration
   phone: 706-213-3810
   public_liaison: 'Joel Seymour, Phone: (706) 213-3810'
-  reading_rooms: []
   request_form: http://www.sepa.doe.gov/request2.htm
   service_center: 'Phone: (706) 213-3810'
   top_level: false
@@ -625,7 +620,6 @@ departments:
   name: Western Area Power Administration
   phone: 720-962-7010
   public_liaison: 'John D. Bremer, Phone: (720) 962-7010'
-  reading_rooms: []
   request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
   request_time_stats:
     '2008':
@@ -692,7 +686,6 @@ departments:
   name: National Energy Technology Laboratory
   phone: 412-386-6167
   public_liaison: 'Ann Dunlap, Phone: (412) 386-6167'
-  reading_rooms: []
   request_form: http://www.netl.doe.gov/home/foai-request-form
   request_time_stats:
     '2008':
@@ -877,7 +870,6 @@ keywords:
 - Women
 - Workers' compensation
 name: Department of Energy
-reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '86'

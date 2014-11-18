@@ -9,7 +9,6 @@ departments:
   name: Central Intelligence Agency
   phone: 703-613-1287
   public_liaison: 'Scott Koch, Michele Meeks, Phone: (703) 613-1287'
-  reading_rooms: []
   service_center: 'Phone: (703) 613-1287'
   top_level: false
   website: http://www.foia.cia.gov/
@@ -22,7 +21,6 @@ keywords:
 - espionage
 - spies
 name: Central Intelligence Agency
-reading_rooms: []
 request_time_stats:
   '2009':
     Complex-Average No. of Days: '146'
