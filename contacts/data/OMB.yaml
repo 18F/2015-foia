@@ -41,4 +41,35 @@ keywords:
 - Reporting and recordkeeping requirements
 - State and local governments
 name: Office of Management and Budget
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '26'
+    Simple-Highest No. of Days: '105'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '20'
+  '2009':
+    Simple-Average No. of Days: '23'
+    Simple-Highest No. of Days: '83'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '18'
+  '2010':
+    Simple-Average No. of Days: '52'
+    Simple-Highest No. of Days: '236'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '33'
+  '2011':
+    Simple-Average No. of Days: '82'
+    Simple-Highest No. of Days: '284'
+    Simple-Lowest No. of Days: '5'
+    Simple-Median No. of Days: '66'
+  '2012':
+    Simple-Average No. of Days: '69'
+    Simple-Highest No. of Days: '648'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '44'
+  '2013':
+    Simple-Average No. of Days: '31'
+    Simple-Highest No. of Days: '233'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '18'
 usa_id: '49584'

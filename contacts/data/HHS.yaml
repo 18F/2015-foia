@@ -16,6 +16,40 @@ departments:
     - Electronic  FOIA Reading Room
     - http://www.hhs.gov/foia/reading/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '259'
+      Complex-Highest No. of Days: '1395'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '222'
+    '2009':
+      Complex-Average No. of Days: '247'
+      Complex-Highest No. of Days: '1754'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '217'
+    '2010':
+      Complex-Average No. of Days: '79'
+      Complex-Highest No. of Days: '2155'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '220'
+    '2011':
+      Complex-Average No. of Days: '185'
+      Complex-Highest No. of Days: '1619'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '600'
+    '2012':
+      Complex-Average No. of Days: '91'
+      Complex-Highest No. of Days: '2648'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '189'
+    '2013':
+      Complex-Average No. of Days: '1'
+      Complex-Lowest No. of Days: '303'
+      Complex-Median No. of Days: '46'
+      Simple-Average No. of Days: '71'
+      Simple-Highest No. of Days: '1'
+      Simple-Lowest No. of Days: '1453'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (202) 690-7453'
   top_level: false
   website: http://www.hhs.gov/foia/index.html
@@ -43,7 +77,11 @@ departments:
   - Jason Bennett
   - Acting FOIA Officer
   - Washington, DC 20201
-  description: No Description
+  description: ACL brings together the efforts and achievements of the Administration
+    on Aging, the Administration on Intellectual and Developmental Disabilities, and
+    the HHS Office on Disability to serve as the Federal agency responsible for increasing
+    access to community supports, while focusing attention and resources on the unique
+    needs of older Americans and people with disabilities across the lifespan.
   fax: (202) 357-0129
   foia_officer: 'Jason Bennett, Phone: (202) 401-4634'
   name: Administration for Community Living
@@ -53,6 +91,15 @@ departments:
   - !!python/tuple
     - Electronic Reading Room
     - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
+  request_time_stats:
+    '2012':
+      Simple-Average No. of Days: '5'
+      Simple-Lowest No. of Days: '7'
+    '2013':
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '60'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
   service_center: 'Phone: (202) 401-4634'
   top_level: true
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
@@ -100,6 +147,75 @@ departments:
   phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '108'
+      Complex-Highest No. of Days: '403'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '193'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '43'
+      Expedited Processing-Lowest No. of Days: '3'
+      Expedited Processing-Median No. of Days: '15'
+      Simple-Average No. of Days: '96'
+      Simple-Highest No. of Days: '429'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '186'
+    '2009':
+      Complex-Average No. of Days: '278'
+      Complex-Highest No. of Days: '566'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '261'
+      Simple-Average No. of Days: '145'
+      Simple-Highest No. of Days: '310'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '108'
+    '2010':
+      Complex-Average No. of Days: '238'
+      Complex-Highest No. of Days: '776'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '106'
+      Simple-Average No. of Days: '149'
+      Simple-Highest No. of Days: '925'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2011':
+      Complex-Average No. of Days: '236'
+      Complex-Highest No. of Days: '823'
+      Complex-Lowest No. of Days: '5'
+      Complex-Median No. of Days: '95'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '43'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '3'
+      Simple-Average No. of Days: '138'
+      Simple-Highest No. of Days: '963'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2012':
+      Complex-Average No. of Days: '71'
+      Complex-Highest No. of Days: '750'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '33'
+      Expedited Processing-Highest No. of Days: '4'
+      Expedited Processing-Median No. of Days: '4'
+      Simple-Average No. of Days: '227'
+      Simple-Highest No. of Days: '1039'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '87'
+    '2013':
+      Complex-Average No. of Days: '119'
+      Complex-Highest No. of Days: '992'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '60'
+      Expedited Processing-Average No. of Days: '182'
+      Expedited Processing-Highest No. of Days: '207'
+      Expedited Processing-Lowest No. of Days: '156'
+      Expedited Processing-Median No. of Days: '182'
+      Simple-Average No. of Days: '536'
+      Simple-Highest No. of Days: '1260'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '488'
   service_center: 'Phone: (888) 747-1861'
   top_level: false
   website: https://www.acf.hhs.gov/freedom-of-information-act
@@ -110,7 +226,9 @@ departments:
   - Suite 920
   - 7700 Wisconsin Avenue
   - Bethesda, MD 20857(if sending by courier use zc 20814)
-  description: No Description
+  description: The Agency for Healthcare Research and Quality supports research to
+    improve the quality, safety, efficiency, and effectiveness of health care for
+    all Americans.
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer: 'Carol Maloney, Phone: (301) 492-4800 '
@@ -122,6 +240,53 @@ departments:
     - Electronic Reading Room
     - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '15'
+      Complex-Highest No. of Days: '35'
+      Complex-Lowest No. of Days: '11'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '10'
+      Expedited Processing-Lowest No. of Days: '10'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '35'
+      Simple-Lowest No. of Days: '1'
+    '2009':
+      Complex-Average No. of Days: '13'
+      Complex-Highest No. of Days: '35'
+      Complex-Lowest No. of Days: '10'
+      Expedited Processing-Average No. of Days: '25'
+      Expedited Processing-Highest No. of Days: '25'
+      Expedited Processing-Lowest No. of Days: '25'
+      Expedited Processing-Median No. of Days: '25'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '1'
+    '2010':
+      Complex-Average No. of Days: '60.38'
+      Complex-Highest No. of Days: '221'
+      Complex-Median No. of Days: '46.5'
+      Simple-Average No. of Days: '18.95'
+      Simple-Highest No. of Days: '143'
+      Simple-Median No. of Days: '14'
+    '2011':
+      Complex-Average No. of Days: '47'
+      Complex-Highest No. of Days: '207'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '35'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '79'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2012':
+      Complex-Average No. of Days: '7'
+      Complex-Lowest No. of Days: '80'
+      Complex-Median No. of Days: '40'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '35'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '6'
+    '2013': {}
   service_center: 'Phone: (301) 492-4800'
   top_level: true
   usa_id: '49074'
@@ -133,7 +298,10 @@ departments:
   - Building 16, D-54
   - 1600 Clifton Road, N.E.
   - Atlanta, GA 30333
-  description: No Description
+  description: CDC collaborates to create the expertise, information, and tools that
+    people and communities need to protect their health through health promotion,
+    prevention of disease, injury and disability, and preparedness for new health
+    threats.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -163,6 +331,70 @@ departments:
     - Electronic Reading Room
     - http://www.cdc.gov/od/foia/reading.htm
   request_form: http://www.cdc.gov/od/foia/request/
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '60.35'
+      Complex-Highest No. of Days: '463'
+      Complex-Median No. of Days: '17'
+      Expedited Processing-Average No. of Days: '7.88'
+      Expedited Processing-Highest No. of Days: '39'
+      Expedited Processing-Median No. of Days: '6'
+      Simple-Average No. of Days: '14.2'
+      Simple-Highest No. of Days: '396'
+      Simple-Median No. of Days: '2'
+    '2009':
+      Complex-Average No. of Days: '84'
+      Complex-Highest No. of Days: '681'
+      Complex-Median No. of Days: '27'
+      Expedited Processing-Average No. of Days: '1.5'
+      Expedited Processing-Highest No. of Days: '2'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1.5'
+      Simple-Average No. of Days: '49'
+      Simple-Highest No. of Days: '652'
+      Simple-Median No. of Days: '16'
+    '2010':
+      Complex-Average No. of Days: '95.26'
+      Complex-Highest No. of Days: '927'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '35'
+      Expedited Processing-Average No. of Days: '145.22'
+      Expedited Processing-Highest No. of Days: '321'
+      Expedited Processing-Lowest No. of Days: '21'
+      Expedited Processing-Median No. of Days: '121'
+      Simple-Average No. of Days: '90.18'
+      Simple-Highest No. of Days: '848'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '18'
+    '2011':
+      Complex-Average No. of Days: '1000'
+      Complex-Median No. of Days: '73.37'
+      Simple-Average No. of Days: '44.32'
+      Simple-Highest No. of Days: '32'
+      Simple-Lowest No. of Days: '292'
+      Simple-Median No. of Days: '26.5'
+    '2012':
+      Complex-Average No. of Days: '102'
+      Complex-Highest No. of Days: '1119'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '62'
+      Simple-Average No. of Days: '74'
+      Simple-Highest No. of Days: '536'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '18'
+    '2013':
+      Complex-Average No. of Days: '150'
+      Complex-Highest No. of Days: '1541'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '52'
+      Expedited Processing-Average No. of Days: '97'
+      Expedited Processing-Highest No. of Days: '97'
+      Expedited Processing-Lowest No. of Days: '97'
+      Expedited Processing-Median No. of Days: '97'
+      Simple-Average No. of Days: '90.21'
+      Simple-Highest No. of Days: '1041'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '21'
   service_center: 'Phone: (770) 488-6399'
   top_level: true
   usa_id: '48013'
@@ -194,7 +426,11 @@ departments:
   - North Building, Room N2-20-06
   - 7500 Security Boulevard
   - Baltimore, MD 21244
-  description: No Description
+  description: The Medicare Service Center answers your questions about Medicare topics,
+    manages your orders of Medicare publications, provides detailed information about
+    the Medicare managed care plans in your area, shares Medicare health plan quality
+    and customer satisfaction information. Contact the Center to obtain the phone
+    number to your state Medicaid office.
   fax: 410-786-0474
   foia_officer: 'Michael Marquis, Phone: (410) 786-5353'
   keywords:
@@ -284,7 +520,10 @@ departments:
   - Room 1020
   - 12420 Parklawn Drive
   - Rockville, MD 20857
-  description: No Description
+  description: The FDA is responsible for protecting the public health by assuring
+    the safety, efficacy, and security of human and veterinary drugs, biological products,
+    medical devices, our nations food supply, cosmetics, and products that emit radiation.
+    The FDA also provides accurate, science-based health information to the public.
   fax: 301-827-9267
   keywords:
   - Adhesives
@@ -384,6 +623,81 @@ departments:
     - Electronic Reading Room
     - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '500.8'
+      Complex-Highest No. of Days: '1951'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '481'
+      Expedited Processing-Average No. of Days: '309.5'
+      Expedited Processing-Highest No. of Days: '1108'
+      Expedited Processing-Lowest No. of Days: '2'
+      Expedited Processing-Median No. of Days: '173'
+      Simple-Average No. of Days: '285.9'
+      Simple-Highest No. of Days: '1643'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '206'
+    '2009':
+      Complex-Average No. of Days: '316'
+      Complex-Highest No. of Days: '1420'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '293'
+      Expedited Processing-Average No. of Days: '254'
+      Expedited Processing-Highest No. of Days: '635'
+      Expedited Processing-Lowest No. of Days: '40'
+      Expedited Processing-Median No. of Days: '171'
+      Simple-Average No. of Days: '95'
+      Simple-Highest No. of Days: '1250'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2010':
+      Complex-Average No. of Days: '248.6'
+      Complex-Highest No. of Days: '1446'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '122'
+      Expedited Processing-Average No. of Days: '40'
+      Expedited Processing-Highest No. of Days: '65'
+      Expedited Processing-Lowest No. of Days: '15'
+      Expedited Processing-Median No. of Days: '40'
+      Simple-Average No. of Days: '53.1'
+      Simple-Highest No. of Days: '1401'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '8'
+    '2011':
+      Complex-Average No. of Days: '248.1'
+      Complex-Highest No. of Days: '1760'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '162'
+      Expedited Processing-Average No. of Days: '64.3'
+      Expedited Processing-Highest No. of Days: '109'
+      Expedited Processing-Lowest No. of Days: '31'
+      Expedited Processing-Median No. of Days: '53'
+      Simple-Average No. of Days: '48.6'
+      Simple-Highest No. of Days: '1305'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2012':
+      Complex-Average No. of Days: '203'
+      Complex-Highest No. of Days: '1757'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '105'
+      Simple-Average No. of Days: '29'
+      Simple-Highest No. of Days: '1198'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '8'
+    '2013':
+      Complex-Average No. of Days: '168.8'
+      Complex-Highest No. of Days: '1465'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '78'
+      Expedited Processing-Average No. of Days: '173.7'
+      Expedited Processing-Highest No. of Days: '495'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '22'
+      Simple-Average No. of Days: '27.6'
+      Simple-Highest No. of Days: '1220'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
   service_center: 'Phone: (301) 796-3900'
   top_level: true
   usa_id: '48058'
@@ -395,7 +709,8 @@ departments:
   - Parklawn Building, Room 6C-18
   - 5600 Fishers Lane
   - Rockville, MD 20857
-  description: No Description
+  description: The Health Resources and Services Administration improves access to
+    healthcare for people who are uninsured, isolated, or medically vulnerable.
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
@@ -425,6 +740,37 @@ departments:
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '18'
+      Complex-Highest No. of Days: '239'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '15'
+    '2009':
+      Complex-Average No. of Days: '17'
+      Complex-Highest No. of Days: '174'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '15'
+    '2010':
+      Complex-Average No. of Days: '15'
+      Complex-Highest No. of Days: '174'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '14'
+    '2011':
+      Complex-Average No. of Days: '17'
+      Complex-Highest No. of Days: '344'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '15'
+    '2012':
+      Complex-Average No. of Days: '21'
+      Complex-Highest No. of Days: '229'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '18'
+    '2013':
+      Simple-Average No. of Days: '76'
+      Simple-Highest No. of Days: '252'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '64'
   service_center: 'Phone: (301) 443-3376'
   top_level: true
   usa_id: '49359'
@@ -436,7 +782,8 @@ departments:
   - Suite 450 TMP
   - 801 Thompson Avenue
   - Rockville, MD 20852
-  description: No Description
+  description: The Indian Health Service provides federal health services to American
+    Indians and Alaska Natives.
   fax: 301-443-9879
   foia_officer: 'William Tibbits, Phone: (301) 443-1116'
   keywords:
@@ -463,6 +810,70 @@ departments:
     - EFOIA Reading Room
     - http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_elec_read_room
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '36'
+      Complex-Highest No. of Days: '66'
+      Complex-Lowest No. of Days: '42'
+      Complex-Median No. of Days: '44'
+      Expedited Processing-Average No. of Days: '20'
+      Expedited Processing-Highest No. of Days: '25'
+      Expedited Processing-Lowest No. of Days: '3'
+      Expedited Processing-Median No. of Days: '14'
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '24'
+      Simple-Lowest No. of Days: '12'
+      Simple-Median No. of Days: '16'
+    '2009':
+      Complex-Average No. of Days: '90'
+      Complex-Highest No. of Days: '141'
+      Complex-Lowest No. of Days: '34'
+      Complex-Median No. of Days: '52'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '32'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '13'
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '24'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Complex-Average No. of Days: '90'
+      Complex-Highest No. of Days: '120'
+      Complex-Lowest No. of Days: '60'
+      Complex-Median No. of Days: '80'
+      Expedited Processing-Highest No. of Days: '1'
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '26'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '16'
+    '2011':
+      Complex-Average No. of Days: '96'
+      Complex-Highest No. of Days: '160'
+      Complex-Lowest No. of Days: '62'
+      Complex-Median No. of Days: '85'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '25'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '15'
+    '2012':
+      Complex-Average No. of Days: '59'
+      Complex-Highest No. of Days: '152'
+      Complex-Lowest No. of Days: '13'
+      Complex-Median No. of Days: '42'
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '32'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Complex-Average No. of Days: '61'
+      Complex-Highest No. of Days: '107'
+      Complex-Lowest No. of Days: '15'
+      Complex-Median No. of Days: '44'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (301) 443-1116'
   top_level: true
   usa_id: '49386'
@@ -474,7 +885,8 @@ departments:
   - Building 31, Room 5B35
   - 9000 Rockville Pike
   - Bethesda, MD 20892
-  description: No Description
+  description: The National Institutes of Health (NIH) is the primary Federal agency
+    for conducting and supporting medical research.
   fax: 301-402-4541
   foia_officer: 'Susan Cornell, Phone: (301) 496-5633'
   keywords:
@@ -494,6 +906,44 @@ departments:
   - !!python/tuple
     - NIH FOIA Library
     - http://www.nih.gov/icd/od/foia/index.htm#foialibrary
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '40'
+      Complex-Highest No. of Days: '721'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '20'
+    '2009':
+      Complex-Average No. of Days: '31'
+      Complex-Highest No. of Days: '801'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '16'
+    '2010':
+      Simple-Average No. of Days: '27'
+      Simple-Highest No. of Days: '1127'
+      Simple-Median No. of Days: '14'
+    '2011':
+      Simple-Average No. of Days: '24'
+      Simple-Highest No. of Days: '459'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2012':
+      Complex-Average No. of Days: '78'
+      Complex-Highest No. of Days: '1240'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '54'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '161'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
+    '2013':
+      Complex-Average No. of Days: '70'
+      Complex-Highest No. of Days: '742'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '43'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '93'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
   service_center: 'Phone: (301) 496-5633'
   top_level: true
   usa_id: '48089'
@@ -515,6 +965,9 @@ departments:
     - Electronic Reading Room
     - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
+  request_time_stats:
+    '2008': {}
+    '2009': {}
   service_center: 'Phone: (301) 492-4800'
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
@@ -525,7 +978,9 @@ departments:
   - Room 8-1042
   - 1 Choke Cherry Road
   - Rockville, MD 20857
-  description: No Description
+  description: Through grants and research, the Substance Abuse and Mental Health
+    Services Administration works to improve substance abuse and mental health treatment
+    services to those who are most in need of them.
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135
@@ -548,6 +1003,56 @@ departments:
   name: Substance Abuse and Mental Health Services Administration
   phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '75'
+      Complex-Highest No. of Days: '138'
+      Complex-Lowest No. of Days: '8'
+      Complex-Median No. of Days: '70'
+    '2009':
+      Complex-Average No. of Days: '75'
+      Complex-Highest No. of Days: '180'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '68'
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '30'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Complex-Average No. of Days: '273'
+      Complex-Highest No. of Days: '280'
+      Complex-Lowest No. of Days: '53'
+      Complex-Median No. of Days: '190'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Complex-Average No. of Days: '58'
+      Complex-Highest No. of Days: '135'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '34'
+      Simple-Average No. of Days: '34'
+      Simple-Highest No. of Days: '78'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '17'
+    '2012':
+      Complex-Average No. of Days: '83'
+      Complex-Highest No. of Days: '393'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '57'
+      Simple-Average No. of Days: '48'
+      Simple-Highest No. of Days: '106'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '56'
+    '2013':
+      Complex-Average No. of Days: '199'
+      Complex-Highest No. of Days: '570'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '168'
+      Simple-Average No. of Days: '132'
+      Simple-Highest No. of Days: '710'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '100'
   service_center: 'Phone: (240) 276-2137'
   top_level: true
   usa_id: '49687'

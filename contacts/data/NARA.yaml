@@ -296,6 +296,59 @@ reading_rooms:
 - !!python/tuple
   - Electronic Reading Room
   - http://www.archives.gov/foia/electronic-reading-room.html
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '480.45'
+    Complex-Highest No. of Days: '2843'
+    Complex-Median No. of Days: '157'
+    Simple-Average No. of Days: '10.28'
+    Simple-Highest No. of Days: '1411'
+    Simple-Median No. of Days: '5'
+  '2009':
+    Complex-Average No. of Days: '264.16'
+    Complex-Highest No. of Days: '2978'
+    Complex-Lowest No. of Days: '2'
+    Complex-Median No. of Days: '41'
+    Simple-Average No. of Days: '10.91'
+    Simple-Highest No. of Days: '1409'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5'
+  '2010':
+    Complex-Average No. of Days: '471'
+    Complex-Highest No. of Days: '3937'
+    Complex-Median No. of Days: '160'
+    Simple-Average No. of Days: '17.1'
+    Simple-Highest No. of Days: '3268'
+    Simple-Median No. of Days: '5'
+  '2011':
+    Complex-Average No. of Days: '382'
+    Complex-Highest No. of Days: '4327'
+    Complex-Median No. of Days: '20'
+    Simple-Average No. of Days: '10.5'
+    Simple-Highest No. of Days: '1753'
+    Simple-Median No. of Days: '4'
+  '2012':
+    Complex-Average No. of Days: '917'
+    Complex-Highest No. of Days: '4932'
+    Complex-Median No. of Days: '357'
+    Expedited Processing-Average No. of Days: '10'
+    Expedited Processing-Highest No. of Days: '22'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '8'
+    Simple-Average No. of Days: '57.5'
+    Simple-Highest No. of Days: '3509'
+    Simple-Median No. of Days: '6'
+  '2013':
+    Complex-Average No. of Days: '6136'
+    Complex-Highest No. of Days: '7.5'
+    Complex-Lowest No. of Days: '6'
+    Complex-Median No. of Days: '718'
+    Expedited Processing-Average No. of Days: '22'
+    Expedited Processing-Median No. of Days: '1'
+    Simple-Average No. of Days: '42.2'
+    Simple-Highest No. of Days: '290'
+    Simple-Lowest No. of Days: '3994'
+    Simple-Median No. of Days: '6'
 service_center: 'Phone: (301) 837-3642'
 top_level: false
 usa_id: '49483'

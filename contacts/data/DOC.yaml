@@ -13,7 +13,8 @@ departments:
   - Room 8H207
   - 4600 Silver Hill Road
   - Washington, DC 20233-3700
-  description: No Description
+  description: The U.S. Census Bureau provides data about the nation's people and
+    economy.
   emails:
   - census.efoia@census.gov
   fax: 301-763-6239
@@ -94,6 +95,73 @@ departments:
   name: Economic Development Administration
   phone: 202-482-3085
   public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '19'
+      Complex-Highest No. of Days: '58'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '16'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '15'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2009':
+      Complex-Average No. of Days: '27'
+      Complex-Highest No. of Days: '57'
+      Complex-Lowest No. of Days: '11'
+      Complex-Median No. of Days: '20'
+      Expedited Processing-Average No. of Days: '8'
+      Expedited Processing-Highest No. of Days: '8'
+      Expedited Processing-Lowest No. of Days: '8'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2010':
+      Complex-Average No. of Days: '32'
+      Complex-Highest No. of Days: '71'
+      Complex-Lowest No. of Days: '15'
+      Complex-Median No. of Days: '31'
+      Expedited Processing-Average No. of Days: '2'
+      Expedited Processing-Highest No. of Days: '2'
+      Expedited Processing-Lowest No. of Days: '2'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '10'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Complex-Average No. of Days: '34'
+      Complex-Highest No. of Days: '114'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '28'
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Highest No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '8.7'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2012':
+      Complex-Average No. of Days: '43'
+      Complex-Highest No. of Days: '100'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '40'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '10'
+    '2013':
+      Complex-Average No. of Days: '38'
+      Complex-Highest No. of Days: '86'
+      Complex-Lowest No. of Days: '22'
+      Complex-Median No. of Days: '33'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (202) 482-3085'
   top_level: false
   website: http://www.eda.gov/foia.htm
@@ -146,25 +214,87 @@ departments:
   - Room 40003
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  description: No Description
+  description: The International Trade Administration works to promote U.S. exports
+    by providing diplomatic support, helping to shape trade policy, removing trade
+    barriers, and enforcing U.S. trade laws and agreements.
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
   foia_officer: 'Justin Guz, Phone: (202) 482-7937'
   keywords:
   - Administrative practice and procedure
+  - American Samoa
+  - Antidumping
   - Australia
   - Business and industry
   - Canada
+  - Cheese
+  - Confidential business information
+  - Countervailing duties
   - Customs duties and inspection
+  - Educational facilities
+  - Emergency powers
+  - Freedom of information
+  - Guam
   - Imports
   - Investigations
+  - Marketing quotas
   - Mexico
+  - Nonprofit organizations
+  - Northern Mariana Islands
   - Reporting and recordkeeping requirements
+  - Scientific equipment
+  - Steel
+  - Textiles
   - Trade agreements
+  - Virgin Islands
+  - Watches and jewelry
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '64'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '42'
+    '2009':
+      Simple-Average No. of Days: '21'
+      Simple-Highest No. of Days: '152'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2010':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '233'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '20'
+    '2011':
+      Complex-Average No. of Days: '47'
+      Complex-Highest No. of Days: '66'
+      Complex-Lowest No. of Days: '26'
+      Complex-Median No. of Days: '57'
+      Simple-Average No. of Days: '60'
+      Simple-Highest No. of Days: '160'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '64'
+    '2012':
+      Complex-Average No. of Days: '177'
+      Complex-Highest No. of Days: '424'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '158'
+      Simple-Average No. of Days: '84'
+      Simple-Highest No. of Days: '367'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '31'
+    '2013':
+      Complex-Average No. of Days: '149'
+      Complex-Highest No. of Days: '680'
+      Complex-Lowest No. of Days: '10'
+      Complex-Median No. of Days: '74'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (202) 482-7937'
   top_level: true
   usa_id: '49409'
@@ -175,7 +305,9 @@ departments:
   - FOIA Officer
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  description: No Description
+  description: By providing techincal assistance and access to capital, contract opportunities,
+    and new markets, the Minority Business Development Agency promotes the growth
+    of businesses owned and operated by members of the minority and Diaspora communities.
   fax: 202-482-2798
   foia_officer: 'Clara Colbert, Phone: (202) 481-5045'
   name: Minority Business Development Agency
@@ -185,6 +317,45 @@ departments:
   - !!python/tuple
     - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '14'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '13'
+    '2009':
+      Simple-Average No. of Days: '19'
+      Simple-Highest No. of Days: '76'
+      Simple-Lowest No. of Days: '7'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '14'
+      Simple-Median No. of Days: '16'
+    '2011':
+      Complex-Average No. of Days: '40'
+      Complex-Highest No. of Days: '103'
+      Complex-Lowest No. of Days: '7'
+      Complex-Median No. of Days: '30'
+    '2012':
+      Complex-Average No. of Days: '59'
+      Complex-Highest No. of Days: '59'
+      Complex-Lowest No. of Days: '59'
+      Complex-Median No. of Days: '59'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Complex-Average No. of Days: '118'
+      Complex-Highest No. of Days: '120'
+      Complex-Lowest No. of Days: '116'
+      Complex-Median No. of Days: '118'
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '20'
   service_center: 'Phone: (202) 482-5045'
   top_level: true
   usa_id: '49464'
@@ -196,7 +367,9 @@ departments:
   - Stop 1710
   - 100 Bureau Drive
   - Gaithersburg, MD 20899-1710
-  description: No Description
+  description: The National Institute of Standards and Technology promotes measurement
+    standards, conducts a wide array of scientifc research, and offers smaller manufacturers
+    technical and business assistance.
   emails:
   - foia@nist.gov
   fax: 301-975-5301
@@ -220,6 +393,41 @@ departments:
   name: National Institute of Standards and Technology
   phone: 301-975-4074
   public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '22'
+      Simple-Highest No. of Days: '466'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '33'
+    '2009':
+      Simple-Average No. of Days: '31'
+      Simple-Highest No. of Days: '256'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '28'
+    '2010':
+      Simple-Average No. of Days: '26'
+      Simple-Highest No. of Days: '920'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Simple-Average No. of Days: '49'
+      Simple-Highest No. of Days: '1142'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7.5'
+    '2012':
+      Simple-Average No. of Days: '19'
+      Simple-Highest No. of Days: '511'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '3'
+    '2013':
+      Complex-Average No. of Days: '128'
+      Complex-Highest No. of Days: '1114'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '63'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (301) 975-4074'
   top_level: true
   usa_id: '49517'
@@ -231,7 +439,10 @@ departments:
   - Number 305 - Sils Building
   - 5301 Shawnee Road
   - Alexandria, VA 22312
-  description: No Description
+  description: The National Technical Information Service provides businesses, universities,
+    and the public access to government-funded scientific, engineering, technical,
+    and business related information. The service does not use appropriated funds,
+    so charges a fee for its services.
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
@@ -244,6 +455,53 @@ departments:
   - !!python/tuple
     - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
+  request_time_stats:
+    '2008':
+      Expedited Processing-Average No. of Days: '1'
+      Expedited Processing-Highest No. of Days: '3'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '11'
+    '2009':
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Highest No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '6'
+      Simple-Highest No. of Days: '10'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Highest No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '8'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2011':
+      Simple-Average No. of Days: '3.3'
+      Simple-Highest No. of Days: '22'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2012':
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '35'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '45'
+      Complex-Highest No. of Days: '63'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '43'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (703) 605-6404'
   top_level: true
   usa_id: '49549'
@@ -280,6 +538,69 @@ departments:
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
   public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '35'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '22'
+    '2009':
+      Expedited Processing-Average No. of Days: '19'
+      Expedited Processing-Highest No. of Days: '29'
+      Expedited Processing-Lowest No. of Days: '9'
+      Expedited Processing-Median No. of Days: '19'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '26'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: '28'
+      Complex-Highest No. of Days: '34'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '22'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2011':
+      Complex-Average No. of Days: '151'
+      Complex-Highest No. of Days: '423'
+      Complex-Lowest No. of Days: '10'
+      Complex-Median No. of Days: '64'
+      Expedited Processing-Average No. of Days: '1'
+      Expedited Processing-Highest No. of Days: '1'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '26'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2012':
+      Complex-Average No. of Days: '110'
+      Complex-Highest No. of Days: '479'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '29'
+      Expedited Processing-Average No. of Days: '8'
+      Expedited Processing-Highest No. of Days: '25'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '4'
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '28'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2013':
+      Complex-Average No. of Days: '89'
+      Complex-Highest No. of Days: '541'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '18'
+      Expedited Processing-Average No. of Days: '143'
+      Expedited Processing-Highest No. of Days: '208'
+      Expedited Processing-Lowest No. of Days: '78'
+      Expedited Processing-Median No. of Days: '143'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
   service_center: 'Phone: (202) 482-1816'
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
@@ -290,7 +611,10 @@ departments:
   - Room 9719 - NOAA FOIA Office (SOU 10000)
   - 1315 East-West Highway
   - Silver Spring, MD 20910
-  description: No Description
+  description: The National Oceanic and Atmospheric Administration's mission is to
+    understand and predict changes in climate, weather, oceans, and coasts. The products
+    and services produced by the administration support a number of functions, including
+    severe weather preparedness, and international trade through shipping.
   emails:
   - FOIA@noaa.gov
   fax: 301-713-1169
@@ -370,6 +694,73 @@ departments:
     - Reading Room
     - http://www.noaa.gov/foia/reading_room/index.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '55'
+      Complex-Highest No. of Days: '684'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '57'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '22'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: '113'
+      Complex-Highest No. of Days: '762'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '50'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '40'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '6'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2010':
+      Complex-Average No. of Days: '67'
+      Complex-Highest No. of Days: '456'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '42'
+      Expedited Processing-Average No. of Days: '80'
+      Expedited Processing-Highest No. of Days: '105'
+      Expedited Processing-Lowest No. of Days: '25'
+      Expedited Processing-Median No. of Days: '35'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2011':
+      Simple-Average No. of Days: '45'
+      Simple-Highest No. of Days: '981'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '21'
+    '2012':
+      Complex-Average No. of Days: '27'
+      Complex-Highest No. of Days: '628'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '16'
+      Simple-Average No. of Days: '101'
+      Simple-Highest No. of Days: '222'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '52'
+    '2013':
+      Complex-Average No. of Days: '118'
+      Complex-Highest No. of Days: '783'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '66'
+      Expedited Processing-Average No. of Days: '40'
+      Expedited Processing-Highest No. of Days: '40'
+      Expedited Processing-Lowest No. of Days: '40'
+      Expedited Processing-Median No. of Days: '40'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
   service_center: 'Phone: (301) 713-3540'
   top_level: true
   usa_id: '49530'
@@ -380,7 +771,8 @@ departments:
   - FOIA Contact
   - P.O. Box 1450
   - Alexandria, VA 22313-1450
-  description: No Description
+  description: The U.S. Patent and Trademark Office is the agency responsible for
+    granting U.S. patents and registering trademarks.
   emails:
   - efoia@uspto.gov
   fax: 571-501-7335
@@ -427,6 +819,43 @@ departments:
     - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '43'
+      Simple-Highest No. of Days: '571'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Simple-Average No. of Days: '23'
+      Simple-Highest No. of Days: '190'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '20'
+    '2010':
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '139'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '17'
+    '2011':
+      Simple-Average No. of Days: '19.2'
+      Simple-Highest No. of Days: '54'
+      Simple-Median No. of Days: '20'
+    '2012':
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '51'
+      Simple-Median No. of Days: '18'
+    '2013':
+      Complex-Average No. of Days: '45'
+      Complex-Highest No. of Days: '120'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '33'
+      Expedited Processing-Average No. of Days: '13'
+      Expedited Processing-Highest No. of Days: '13'
+      Expedited Processing-Lowest No. of Days: '13'
+      Expedited Processing-Median No. of Days: '13'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
   service_center: 'Phone: (202) 482-3470'
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
@@ -716,6 +1145,65 @@ departments:
   - !!python/tuple
     - FOIA Electronic Library (Formerly E-Reading Room)
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '151'
+      Complex-Highest No. of Days: '366'
+      Complex-Lowest No. of Days: '50'
+      Complex-Median No. of Days: '136'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '48'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2009':
+      Complex-Average No. of Days: '134'
+      Complex-Highest No. of Days: '573'
+      Complex-Lowest No. of Days: '52'
+      Complex-Median No. of Days: '82'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '46'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
+    '2010':
+      Complex-Average No. of Days: '164'
+      Complex-Highest No. of Days: '709'
+      Complex-Lowest No. of Days: '50'
+      Complex-Median No. of Days: '127'
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '47'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '17'
+    '2011':
+      Complex-Average No. of Days: '150'
+      Complex-Highest No. of Days: '386'
+      Complex-Lowest No. of Days: '74'
+      Complex-Median No. of Days: '117'
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '67'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '22'
+    '2012':
+      Complex-Average No. of Days: '70'
+      Complex-Highest No. of Days: '380'
+      Complex-Lowest No. of Days: '26'
+      Complex-Median No. of Days: '47'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2013':
+      Complex-Average No. of Days: '117'
+      Complex-Highest No. of Days: '499'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '87'
+      Expedited Processing-Average No. of Days: '147'
+      Expedited Processing-Highest No. of Days: '147'
+      Expedited Processing-Lowest No. of Days: '147'
+      Expedited Processing-Median No. of Days: '147'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
   service_center: 'Phone: (202) 482-3257'
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm

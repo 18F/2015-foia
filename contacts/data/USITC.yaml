@@ -27,4 +27,55 @@ description: The mission of the Commission is to (1) administer U.S. trade remed
   of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
   Harmonized Tariff Schedule of the United States (HTS).
 name: United States International Trade Commission
+request_time_stats:
+  '2008':
+    Expedited Processing-Average No. of Days: '10.5'
+    Expedited Processing-Highest No. of Days: '20'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '10.5'
+    Simple-Average No. of Days: '16'
+    Simple-Highest No. of Days: '60'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
+  '2009':
+    Simple-Average No. of Days: '19'
+    Simple-Highest No. of Days: '49'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '18'
+  '2010':
+    Expedited Processing-Average No. of Days: '4'
+    Expedited Processing-Highest No. of Days: '4'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '4'
+    Simple-Average No. of Days: '1'
+    Simple-Highest No. of Days: '37'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '17'
+  '2011':
+    Expedited Processing-Average No. of Days: '6'
+    Expedited Processing-Highest No. of Days: '6'
+    Expedited Processing-Lowest No. of Days: '6'
+    Expedited Processing-Median No. of Days: '6'
+    Simple-Average No. of Days: '16'
+    Simple-Highest No. of Days: '34'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '15'
+  '2012':
+    Expedited Processing-Average No. of Days: '3'
+    Expedited Processing-Highest No. of Days: '30'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '14'
+    Simple-Average No. of Days: '12'
+    Simple-Highest No. of Days: '33'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11'
+  '2013':
+    Complex-Average No. of Days: '30'
+    Complex-Highest No. of Days: '30'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '30'
+    Simple-Average No. of Days: '10'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '8'
 usa_id: '49712'

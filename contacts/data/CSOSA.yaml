@@ -24,4 +24,28 @@ departments:
 description: CSOSA's mission is to increase public safety, prevent crime, reduce recidivism,
   and support the fair administration of justice in close collaboration with the community.
 name: Court Services and Offender Supervision Agency
+request_time_stats:
+  '2010':
+    Simple-Average No. of Days: '42.1'
+    Simple-Highest No. of Days: '62'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '23'
+  '2011':
+    Simple-Average No. of Days: '29.92'
+    Simple-Lowest No. of Days: '269'
+    Simple-Median No. of Days: '27'
+  '2012':
+    Simple-Average No. of Days: '37'
+    Simple-Highest No. of Days: '475'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '17'
+  '2013':
+    Complex-Average No. of Days: '1'
+    Complex-Highest No. of Days: '1'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '1'
+    Simple-Average No. of Days: '14.56'
+    Simple-Highest No. of Days: '207'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
 usa_id: '49191'

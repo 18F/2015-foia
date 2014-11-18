@@ -1,5 +1,6 @@
 departments:
 - name: Office of the Secretary and Joint Staff
+  description: "This Requester Service Center (RSC) processes Freedom of Information Act (FOIA) requests for records related to the Office of the Secretary of Defense and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM), and other specific OSD components.* This RSC does not process FOIA requests for the entire Department of Defense (DoD). Please direct requests related to the Military Services, Combatant Commands, or other Defense Agencies, to the appropriate organization/component that maintains the record(s) of interest."
   top_level: true
 - name: Department of the Air Force
   top_level: true

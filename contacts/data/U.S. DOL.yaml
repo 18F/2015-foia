@@ -31,12 +31,54 @@ departments:
   - Room S-5317
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-001
-  description: No Description
+  description: The Bureau of International Labor Affairs works to improve working
+    conditions, raise living standards, protect workers’ ability to exercise their
+    rights, and address the workplace exploitation of children and other vulnerable
+    populations.
   emails:
   - ILABFOIA@dol.gov
   name: Bureau of International Labor Affairs
   phone: 202-693-4877
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '29.3'
+      Complex-Highest No. of Days: '131'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '13'
+    '2009':
+      Complex-Average No. of Days: '26.3'
+      Complex-Highest No. of Days: '34'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '19'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '8'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '8'
+    '2010':
+      Complex-Average No. of Days: '19.4'
+      Complex-Highest No. of Days: '63'
+      Complex-Lowest No. of Days: '5'
+      Complex-Median No. of Days: '13'
+    '2011':
+      Complex-Average No. of Days: '21.1'
+      Complex-Highest No. of Days: '69'
+      Complex-Lowest No. of Days: '6'
+      Complex-Median No. of Days: '17'
+    '2012':
+      Complex-Average No. of Days: '57.7'
+      Complex-Highest No. of Days: '758'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '16'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '1'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2013':
+      Complex-Average No. of Days: '34.9'
+      Complex-Highest No. of Days: '436'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '11'
   service_center: 'Phone: (202) 693-4877'
   top_level: true
   usa_id: '49121'
@@ -47,11 +89,75 @@ departments:
   - Room 4080 Postal Square Building
   - 2 Massachusetts Avenue, NE
   - Washington, DC 20212-0001
-  description: No Description
+  description: The Bureau of Labor Statistics measures labor market activity, working
+    conditions, and price changes in the economy.
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      Expedited Processing-Average No. of Days: '8'
+      Expedited Processing-Highest No. of Days: '8'
+      Expedited Processing-Lowest No. of Days: '8'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '15'
+    '2009':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Complex-Average No. of Days: '76.7'
+      Complex-Highest No. of Days: '148'
+      Complex-Lowest No. of Days: '19'
+      Complex-Median No. of Days: '69'
+      Expedited Processing-Average No. of Days: '9'
+      Expedited Processing-Highest No. of Days: '9'
+      Expedited Processing-Lowest No. of Days: '9'
+      Expedited Processing-Median No. of Days: '9'
+      Simple-Average No. of Days: '35.6'
+      Simple-Highest No. of Days: '334'
+      Simple-Lowest No. of Days: '11'
+      Simple-Median No. of Days: '14'
+    '2011':
+      Complex-Average No. of Days: '75'
+      Complex-Highest No. of Days: '75'
+      Complex-Lowest No. of Days: '75'
+      Complex-Median No. of Days: '75'
+      Expedited Processing-Average No. of Days: '11'
+      Expedited Processing-Highest No. of Days: '11'
+      Expedited Processing-Lowest No. of Days: '11'
+      Expedited Processing-Median No. of Days: '11'
+      Simple-Average No. of Days: '15.3'
+      Simple-Highest No. of Days: '28'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '17'
+    '2012':
+      Complex-Average No. of Days: '30.5'
+      Complex-Highest No. of Days: '99'
+      Complex-Lowest No. of Days: '17'
+      Complex-Median No. of Days: '20'
+      Expedited Processing-Average No. of Days: '91'
+      Expedited Processing-Highest No. of Days: '91'
+      Expedited Processing-Lowest No. of Days: '91'
+      Expedited Processing-Median No. of Days: '91'
+      Simple-Average No. of Days: '18.9'
+      Simple-Highest No. of Days: '22'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '20'
+    '2013':
+      Complex-Average No. of Days: '38.8'
+      Complex-Highest No. of Days: '301'
+      Complex-Lowest No. of Days: '7'
+      Complex-Median No. of Days: '21'
+      Simple-Average No. of Days: '18.3'
+      Simple-Highest No. of Days: '45'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 691-7628'
   top_level: true
   usa_id: '49124'
@@ -63,7 +169,8 @@ departments:
   - Public Disclosure Room, Suite N-1513
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
+  description: The EBSA provides information and assistance on private sector, employer-sponsored
+    retirement benefit and health benefit plans.
   emails:
   - foiarequest@dol.gov
   keywords:
@@ -110,6 +217,67 @@ departments:
   - !!python/tuple
     - Department of Labor FOIA Reading Room
     - http://www.dol.gov/dol/foia/readroom.htm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '7.1'
+      Complex-Highest No. of Days: '138'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '3'
+      Expedited Processing-Average No. of Days: '2.7'
+      Expedited Processing-Highest No. of Days: '6'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1'
+      Simple-Average No. of Days: '3.4'
+      Simple-Highest No. of Days: '252'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2009':
+      Complex-Average No. of Days: '19.45'
+      Complex-Highest No. of Days: '181'
+      Complex-Median No. of Days: '12'
+      Expedited Processing-Average No. of Days: '6.5'
+      Expedited Processing-Highest No. of Days: '12'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '12'
+      Simple-Average No. of Days: '6.2'
+      Simple-Highest No. of Days: '156'
+      Simple-Median No. of Days: '2'
+    '2010':
+      Complex-Average No. of Days: '19.7'
+      Complex-Highest No. of Days: '245'
+      Complex-Median No. of Days: '9'
+      Expedited Processing-Average No. of Days: '1.9'
+      Expedited Processing-Highest No. of Days: '13'
+      Simple-Average No. of Days: '5.4'
+      Simple-Highest No. of Days: '52'
+      Simple-Median No. of Days: '3'
+    '2011':
+      Complex-Average No. of Days: '16.8'
+      Complex-Highest No. of Days: '307'
+      Complex-Median No. of Days: '11'
+      Expedited Processing-Average No. of Days: '7.4'
+      Expedited Processing-Highest No. of Days: '25'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1.5'
+      Simple-Average No. of Days: '7.4'
+      Simple-Highest No. of Days: '188'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2012':
+      Complex-Average No. of Days: '120.3'
+      Complex-Highest No. of Days: '1980'
+      Complex-Median No. of Days: '17'
+      Simple-Average No. of Days: '16.2'
+      Simple-Highest No. of Days: '77'
+      Simple-Median No. of Days: '14.5'
+    '2013':
+      Complex-Average No. of Days: '30.9'
+      Complex-Highest No. of Days: '582'
+      Complex-Median No. of Days: '10'
+      Simple-Average No. of Days: '16.1'
+      Simple-Highest No. of Days: '60'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 693-8655'
   top_level: true
   usa_id: '48029'
@@ -119,7 +287,8 @@ departments:
   - FOIA Disclosure Officer
   - 200 Constitution Avenue, NW
   - Washington, DC 20210-0002
-  description: No Description
+  description: The Employment and Training Administration provides job training and
+    assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
   - Accounting
@@ -214,7 +383,9 @@ departments:
   - Room 2314
   - 1100 Wilson Boulevard
   - Arlington, VA 22209-3939
-  description: No Description
+  description: The Mine Safety and Health Administration works to prevent mining related
+    deaths, injuries, and illnesses through mine regulations, inspections, and training
+    programs.
   emails:
   - foiarequest@dol.gov
   fax: 202-963-9441
@@ -303,6 +474,61 @@ departments:
     visiting its website.
   phone: 202-693-7126
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '30'
+      Complex-Highest No. of Days: '160'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '23'
+      Expedited Processing-Average No. of Days: '6'
+      Expedited Processing-Highest No. of Days: '6'
+      Expedited Processing-Lowest No. of Days: '6'
+      Expedited Processing-Median No. of Days: '6'
+    '2009':
+      Complex-Average No. of Days: '30.4'
+      Complex-Highest No. of Days: '162'
+      Complex-Median No. of Days: '23'
+      Expedited Processing-Average No. of Days: '27'
+      Expedited Processing-Highest No. of Days: '37'
+      Expedited Processing-Median No. of Days: '20'
+    '2010':
+      Complex-Average No. of Days: '32'
+      Complex-Highest No. of Days: '301'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '20'
+      Expedited Processing-Average No. of Days: '92'
+      Expedited Processing-Highest No. of Days: '92'
+      Expedited Processing-Lowest No. of Days: '92'
+      Expedited Processing-Median No. of Days: '92'
+    '2011':
+      Complex-Average No. of Days: '50'
+      Complex-Highest No. of Days: '324'
+      Complex-Median No. of Days: '35'
+      Simple-Average No. of Days: '21.7'
+      Simple-Highest No. of Days: '195'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '23'
+    '2012':
+      Complex-Average No. of Days: '35.2'
+      Complex-Highest No. of Days: '257'
+      Complex-Median No. of Days: '26.5'
+      Expedited Processing-Average No. of Days: '35.5'
+      Expedited Processing-Highest No. of Days: '49'
+      Expedited Processing-Lowest No. of Days: '22'
+      Expedited Processing-Median No. of Days: '35.5'
+      Simple-Average No. of Days: '19'
+      Simple-Highest No. of Days: '109'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '51.8'
+      Complex-Highest No. of Days: '925'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '29'
+      Simple-Average No. of Days: '18.8'
+      Simple-Highest No. of Days: '93'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7.5'
   service_center: 'Phone: (202) 693-7126'
   top_level: false
   website: http://www.dol.gov/oasam/foia/
@@ -403,6 +629,78 @@ departments:
   - !!python/tuple
     - Electronic Reading Room
     - http://www.oig.dol.gov/foiareadingroom.htm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '79'
+      Complex-Highest No. of Days: '229'
+      Complex-Lowest No. of Days: '42'
+      Complex-Median No. of Days: '55'
+      Expedited Processing-Average No. of Days: '33'
+      Expedited Processing-Highest No. of Days: '33'
+      Expedited Processing-Lowest No. of Days: '33'
+      Expedited Processing-Median No. of Days: '33'
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '50'
+      Simple-Median No. of Days: '28'
+    '2009':
+      Complex-Average No. of Days: '84'
+      Complex-Highest No. of Days: '177'
+      Complex-Lowest No. of Days: '15'
+      Complex-Median No. of Days: '69'
+      Expedited Processing-Average No. of Days: '4'
+      Expedited Processing-Highest No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '3'
+      Expedited Processing-Median No. of Days: '3'
+      Simple-Average No. of Days: '17'
+      Simple-Highest No. of Days: '136'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: '86'
+      Complex-Highest No. of Days: '242'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '48'
+      Expedited Processing-Average No. of Days: '22'
+      Expedited Processing-Highest No. of Days: '41'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '17'
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '186'
+      Simple-Median No. of Days: '20'
+    '2011':
+      Complex-Average No. of Days: '108'
+      Complex-Highest No. of Days: '482'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '37'
+      Expedited Processing-Average No. of Days: '30'
+      Expedited Processing-Highest No. of Days: '30'
+      Expedited Processing-Lowest No. of Days: '30'
+      Expedited Processing-Median No. of Days: '30'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '33'
+      Simple-Median No. of Days: '7'
+    '2012':
+      Complex-Average No. of Days: '173'
+      Complex-Highest No. of Days: '712'
+      Complex-Median No. of Days: '91'
+      Expedited Processing-Average No. of Days: '3'
+      Expedited Processing-Highest No. of Days: '15'
+      Expedited Processing-Median No. of Days: '1'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '70'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '278'
+      Complex-Highest No. of Days: '715'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '255'
+      Expedited Processing-Average No. of Days: '4'
+      Expedited Processing-Highest No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '3'
+      Expedited Processing-Median No. of Days: '3'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '91'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
   service_center: ''
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
@@ -412,7 +710,9 @@ departments:
   - Room N3647
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
-  description: No Description
+  description: The Occupational Safety and Health Administration (OSHA) assures safe
+    and healthful working conditions for working men and women by setting and enforcing
+    standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
   - Administrative practice and procedure
@@ -582,6 +882,68 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2009':
+      Complex-Average No. of Days: '53'
+      Complex-Highest No. of Days: '213'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '24'
+      Expedited Processing-Average No. of Days: '4'
+      Expedited Processing-Highest No. of Days: '11'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '19'
+      Simple-Highest No. of Days: '50'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '8'
+    '2010':
+      Complex-Average No. of Days: '37.6'
+      Complex-Highest No. of Days: '273'
+      Complex-Median No. of Days: '27'
+      Expedited Processing-Average No. of Days: '8.6'
+      Expedited Processing-Highest No. of Days: '41'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '6'
+      Simple-Average No. of Days: '17.7'
+      Simple-Highest No. of Days: '523'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2011':
+      Complex-Average No. of Days: '42.7'
+      Complex-Highest No. of Days: '491'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '26'
+      Expedited Processing-Average No. of Days: '14'
+      Expedited Processing-Highest No. of Days: '47'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '12'
+      Simple-Average No. of Days: '25.4'
+      Simple-Highest No. of Days: '230'
+      Simple-Median No. of Days: '15'
+    '2012':
+      Complex-Average No. of Days: '53.8'
+      Complex-Highest No. of Days: '1249'
+      Complex-Median No. of Days: '24'
+      Expedited Processing-Average No. of Days: '8.8'
+      Expedited Processing-Highest No. of Days: '39'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '4.5'
+      Simple-Average No. of Days: '32.6'
+      Simple-Highest No. of Days: '757'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
+    '2013':
+      Complex-Average No. of Days: '57.3'
+      Complex-Highest No. of Days: '772'
+      Complex-Median No. of Days: '26'
+      Expedited Processing-Average No. of Days: '17.1'
+      Expedited Processing-Highest No. of Days: '196'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '31.8'
+      Simple-Highest No. of Days: '468'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
   top_level: false
   website: http://www.dol.gov/whd/foia/
 - address:
@@ -594,6 +956,65 @@ departments:
   fax: 202-693-6746
   name: Women's Bureau
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '29'
+      Complex-Highest No. of Days: '90'
+      Complex-Lowest No. of Days: '16'
+      Complex-Median No. of Days: '20'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '27'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '19'
+    '2009':
+      Complex-Average No. of Days: '23'
+      Complex-Highest No. of Days: '35'
+      Complex-Lowest No. of Days: '15'
+      Complex-Median No. of Days: '21'
+      Simple-Average No. of Days: '18.8'
+      Simple-Highest No. of Days: '28'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '20.5'
+    '2010':
+      Complex-Average No. of Days: '10.3'
+      Complex-Highest No. of Days: '21'
+      Complex-Lowest No. of Days: '10'
+      Complex-Median No. of Days: '13.7'
+      Expedited Processing-Average No. of Days: '7'
+      Expedited Processing-Highest No. of Days: '12'
+      Expedited Processing-Lowest No. of Days: '8'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '12'
+      Simple-Median No. of Days: '6'
+    '2011':
+      Complex-Average No. of Days: '53.9'
+      Complex-Highest No. of Days: '124'
+      Complex-Lowest No. of Days: '5'
+      Complex-Median No. of Days: '58'
+      Simple-Average No. of Days: '42.5'
+      Simple-Highest No. of Days: '83'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '41'
+    '2012':
+      Complex-Average No. of Days: '468.7'
+      Complex-Highest No. of Days: '1298'
+      Complex-Lowest No. of Days: '6'
+      Complex-Median No. of Days: '102'
+      Simple-Average No. of Days: '95.4'
+      Simple-Highest No. of Days: '150'
+      Simple-Lowest No. of Days: '50'
+      Simple-Median No. of Days: '88'
+    '2013':
+      Complex-Average No. of Days: '101'
+      Complex-Highest No. of Days: '169'
+      Complex-Lowest No. of Days: '33'
+      Complex-Median No. of Days: '101'
+      Simple-Average No. of Days: '92.6'
+      Simple-Highest No. of Days: '160'
+      Simple-Lowest No. of Days: '41'
+      Simple-Median No. of Days: '41'
   service_center: ''
   top_level: false
   website: http://www.dol.gov/wb/e-foia.htm
@@ -800,6 +1221,10 @@ reading_rooms:
 - !!python/tuple
   - DOL-Wide FOIA Reading Room
   - http://www.dol.gov/dol/foia/readroom.htm
+request_time_stats:
+  '2008': {}
+  '2009': {}
+  '2010': {}
 service_center: 'Phone: (202) 693-5391'
 top_level: false
 usa_id: '49028'

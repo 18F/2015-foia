@@ -35,4 +35,56 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Occupational Safety and Health Review Commission
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '28'
+    Complex-Highest No. of Days: '28'
+    Complex-Lowest No. of Days: '28'
+    Complex-Median No. of Days: '28'
+    Simple-Average No. of Days: '8.5'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2009':
+    Complex-Average No. of Days: '28'
+    Complex-Highest No. of Days: '5'
+    Complex-Lowest No. of Days: '28'
+    Complex-Median No. of Days: '28'
+    Expedited Processing-Average No. of Days: '5'
+    Expedited Processing-Lowest No. of Days: '5'
+    Expedited Processing-Median No. of Days: '5'
+    Simple-Average No. of Days: '9'
+    Simple-Highest No. of Days: '28'
+    Simple-Lowest No. of Days: '20'
+    Simple-Median No. of Days: '8'
+  '2010':
+    Complex-Average No. of Days: '21'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '26'
+    Simple-Average No. of Days: '10.7'
+    Simple-Highest No. of Days: '26.5'
+    Simple-Lowest No. of Days: '20'
+    Simple-Median No. of Days: '10.5'
+  '2011':
+    Simple-Average No. of Days: '12'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '11.5'
+  '2012':
+    Complex-Average No. of Days: '30'
+    Complex-Highest No. of Days: '30'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '30'
+    Simple-Average No. of Days: '11.2'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2013':
+    Complex-Average No. of Days: '55'
+    Complex-Lowest No. of Days: '55'
+    Complex-Median No. of Days: '55'
+    Simple-Average No. of Days: '9.8'
+    Simple-Highest No. of Days: '55'
+    Simple-Lowest No. of Days: '24'
+    Simple-Median No. of Days: '7.5'
 usa_id: '49577'

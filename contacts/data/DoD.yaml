@@ -6,7 +6,13 @@ departments:
   - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
   - 1155 Defense Pentagon
   - Washington, DC 20301-1155
-  description: No Description
+  description: This Requester Service Center (RSC) processes Freedom of Information
+    Act (FOIA) requests for records related to the Office of the Secretary of Defense
+    and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
+    and other specific OSD components.* This RSC does not process FOIA requests for
+    the entire Department of Defense (DoD). Please direct requests related to the
+    Military Services, Combatant Commands, or other Defense Agencies, to the appropriate
+    organization/component that maintains the record(s) of interest.
   emails:
   - FOIA.LIAISON@WHS.MIL
   fax: 571-372-0500
@@ -260,6 +266,36 @@ departments:
   - !!python/tuple
     - Electronic Reading Room
     - http://www.commissaries.com/foia/foia_err.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '28'
+      Complex-Highest No. of Days: '43'
+      Complex-Lowest No. of Days: '18'
+      Complex-Median No. of Days: '26'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2009':
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '53'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2010':
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '88'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2011':
+      Simple-Average No. of Days: '65'
+      Simple-Median No. of Days: '11'
+    '2012':
+      Simple-Average No. of Days: '80'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Simple-Average No. of Days: '13'
+      Simple-Lowest No. of Days: '179'
+      Simple-Median No. of Days: '6'
   service_center: 'Phone: (804) 734-8116'
   top_level: false
   website: http://www.commissaries.com/foiainfo.cfm
@@ -301,6 +337,65 @@ departments:
   - !!python/tuple
     - FOIA Library
     - http://www.dcma.mil/DCMAHQ/FOIA/reading_room.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '71'
+      Complex-Highest No. of Days: '371'
+      Complex-Lowest No. of Days: '20'
+      Complex-Median No. of Days: '66'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '31'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
+    '2009':
+      Complex-Average No. of Days: '133'
+      Complex-Highest No. of Days: '506'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '65'
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '153'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2010':
+      Complex-Average No. of Days: '32'
+      Complex-Lowest No. of Days: '408'
+      Complex-Median No. of Days: '125'
+      Simple-Average No. of Days: '30'
+      Simple-Highest No. of Days: '91'
+      Simple-Lowest No. of Days: '193'
+      Simple-Median No. of Days: '21'
+    '2011':
+      Complex-Average No. of Days: '215'
+      Complex-Highest No. of Days: '417'
+      Complex-Lowest No. of Days: '8'
+      Complex-Median No. of Days: '249'
+      Expedited Processing-Average No. of Days: '24'
+      Expedited Processing-Highest No. of Days: '25'
+      Expedited Processing-Lowest No. of Days: '22'
+      Expedited Processing-Median No. of Days: '24'
+      Simple-Average No. of Days: '47'
+      Simple-Highest No. of Days: '253'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '25'
+    '2012':
+      Complex-Average No. of Days: '137'
+      Complex-Highest No. of Days: '446'
+      Complex-Median No. of Days: '223'
+      Simple-Average No. of Days: '66'
+      Simple-Highest No. of Days: '516'
+      Simple-Median No. of Days: '258'
+    '2013':
+      Complex-Average No. of Days: '23'
+      Complex-Highest No. of Days: '3'
+      Complex-Lowest No. of Days: '1066'
+      Complex-Median No. of Days: '182'
+      Expedited Processing-Average No. of Days: '1'
+      Expedited Processing-Lowest No. of Days: '6'
+      Expedited Processing-Median No. of Days: '3'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '544'
+      Simple-Lowest No. of Days: '44'
+      Simple-Median No. of Days: '22'
   service_center: 'Phone: (804) 734-1488'
   top_level: false
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
@@ -324,6 +419,71 @@ departments:
   - !!python/tuple
     - FOIA Reading Room
     - http://www.dfas.mil/foia/foiareadingroom.html
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '39'
+      Complex-Highest No. of Days: '111'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '32'
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '187'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '14'
+    '2009':
+      Complex-Average No. of Days: '27'
+      Complex-Highest No. of Days: '88'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '23'
+      Expedited Processing-Average No. of Days: '7'
+      Expedited Processing-Highest No. of Days: '19'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '139'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2010':
+      Complex-Average No. of Days: '23'
+      Complex-Highest No. of Days: '133'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '18'
+      Expedited Processing-Average No. of Days: '6'
+      Expedited Processing-Highest No. of Days: '9'
+      Expedited Processing-Lowest No. of Days: '4'
+      Expedited Processing-Median No. of Days: '7'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '59'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '4'
+    '2011':
+      Complex-Average No. of Days: '2'
+      Complex-Lowest No. of Days: '47'
+      Complex-Median No. of Days: '26'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '26'
+      Simple-Lowest No. of Days: '39'
+      Simple-Median No. of Days: '18'
+    '2012':
+      Complex-Average No. of Days: '38'
+      Complex-Highest No. of Days: '156'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '21'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '63'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '1'
+      Complex-Highest No. of Days: '9'
+      Complex-Lowest No. of Days: '288'
+      Complex-Median No. of Days: '42'
+      Expedited Processing-Average No. of Days: '9'
+      Expedited Processing-Lowest No. of Days: '9'
+      Expedited Processing-Median No. of Days: '9'
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '21'
+      Simple-Lowest No. of Days: '79'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (317) 212-4591'
   top_level: false
   website: http://www.dfas.mil/foia.html
@@ -363,6 +523,61 @@ departments:
   - !!python/tuple
     - Electronic Reading Room
     - http://www.dia.mil/FOIA/FOIAElectronicReadingRoom.aspx
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '516'
+      Complex-Highest No. of Days: '3200'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '277'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '10'
+    '2009':
+      Complex-Average No. of Days: '963'
+      Complex-Highest No. of Days: '3714'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '811'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2010':
+      Complex-Average No. of Days: '1060'
+      Complex-Highest No. of Days: '3418'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '938'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
+    '2011':
+      Complex-Average No. of Days: '924'
+      Complex-Highest No. of Days: '3567'
+      Complex-Lowest No. of Days: '23'
+      Complex-Median No. of Days: '801'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2012':
+      Complex-Average No. of Days: '786'
+      Complex-Highest No. of Days: '3713'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '469'
+      Simple-Average No. of Days: '7'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '6'
+    '2013':
+      Complex-Average No. of Days: '855'
+      Complex-Highest No. of Days: '3517'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '553'
+      Simple-Average No. of Days: '6'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
   service_center: 'Phone: (301) 394-5587'
   top_level: false
   website: http://www.dia.mil/FOIA.aspx
@@ -411,6 +626,37 @@ departments:
   - !!python/tuple
     - Electronic Reading Room
     - https://www.dss.mil/about_dss/publications.html
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '25'
+      Simple-Highest No. of Days: '101'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '30'
+    '2009':
+      Simple-Average No. of Days: '20'
+      Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '7'
+    '2011':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '7'
+    '2012':
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
+    '2013':
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
   service_center: 'Phone: (703) 325-9450'
   top_level: false
   website: https://www.dss.mil/foia/foia_program.html
@@ -453,6 +699,44 @@ departments:
   - !!python/tuple
     - ELECTRONIC                 READING ROOM
     - http://www.dtic.mil/dtic/foiareadingroom.html
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '12'
+      Simple-Highest No. of Days: '21'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
+    '2009':
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '72'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2010':
+      Simple-Average No. of Days: '35'
+      Simple-Highest No. of Days: '233'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '16'
+    '2011':
+      Simple-Average No. of Days: '22'
+      Simple-Highest No. of Days: '129'
+      Simple-Lowest No. of Days: '3'
+      Simple-Median No. of Days: '20'
+    '2012':
+      Complex-Average No. of Days: '42'
+      Complex-Highest No. of Days: '111'
+      Complex-Lowest No. of Days: '22'
+      Complex-Median No. of Days: '26'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Complex-Average No. of Days: '25'
+      Complex-Highest No. of Days: '54'
+      Complex-Lowest No. of Days: '21'
+      Complex-Median No. of Days: '24'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
   service_center: 'Phone: (703) 767-9204'
   top_level: false
   website: http://www.dtic.mil/dtic/foia.html
@@ -496,7 +780,8 @@ departments:
   - Office of Information and Privacy (NGB/JA-OIP)
   - 111 South George Mason Drive, AH2
   - Arlington, VA 22204-1373
-  description: No Description
+  description: The National Guard assists in times of local emergency and can also
+    be called into federal service.
   emails:
   - ng.ncr.arng.mbx.ngb-foia@mail.mil
   fax: 703-607-3684
@@ -504,6 +789,53 @@ departments:
   name: National Guard Bureau
   phone: 571-256-7838
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  request_time_stats:
+    '2009':
+      Complex-Average No. of Days: '65'
+      Complex-Highest No. of Days: '77'
+      Complex-Lowest No. of Days: '53'
+      Complex-Median No. of Days: '65'
+      Expedited Processing-Average No. of Days: '99'
+      Expedited Processing-Highest No. of Days: '99'
+      Expedited Processing-Lowest No. of Days: '99'
+      Expedited Processing-Median No. of Days: '99'
+      Simple-Average No. of Days: '28'
+      Simple-Highest No. of Days: '113'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '21'
+    '2010':
+      Complex-Average No. of Days: '48'
+      Complex-Highest No. of Days: '147'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '34'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '124'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Complex-Average No. of Days: '61'
+      Complex-Highest No. of Days: '197'
+      Complex-Lowest No. of Days: '1'
+      Complex-Median No. of Days: '49'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '113'
+      Simple-Lowest No. of Days: '10'
+      Simple-Median No. of Days: '6'
+    '2012':
+      Complex-Average No. of Days: '337'
+      Complex-Median No. of Days: '69'
+      Simple-Average No. of Days: '6'
+      Simple-Highest No. of Days: '52'
+      Simple-Lowest No. of Days: '23'
+      Simple-Median No. of Days: '5'
+    '2013':
+      Complex-Average No. of Days: '6'
+      Complex-Lowest No. of Days: '604'
+      Complex-Median No. of Days: '85'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '61'
+      Simple-Lowest No. of Days: '30'
+      Simple-Median No. of Days: '10'
   service_center: 'Phone: (703) 607-3195'
   top_level: true
   usa_id: '49506'
@@ -515,7 +847,8 @@ departments:
   - 'ATTN: CIO/Information Management Services Office'
   - 14675 Lee Road
   - Chantilly, VA 20151-1715
-  description: No Description
+  description: The National Reconnaissance Office is responsible for designing, building,
+    launching, and maintaining intelligence satellites.
   emails:
   - foia@nro.mil
   - foia@nro.mil
@@ -531,6 +864,63 @@ departments:
     - NRO Electronic Reading Room
     - http://www.nro.gov/foia/reading-room.html
   request_form: http://www.nro.gov/foia/RequestInput.aspx
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '219'
+      Complex-Highest No. of Days: '1011'
+      Complex-Lowest No. of Days: '41'
+      Complex-Median No. of Days: '96'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '47'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: '218'
+      Complex-Highest No. of Days: '1161'
+      Complex-Lowest No. of Days: '22'
+      Complex-Median No. of Days: '136'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '77'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '13'
+    '2010':
+      Complex-Average No. of Days: '41'
+      Complex-Highest No. of Days: '5'
+      Complex-Lowest No. of Days: '1364'
+      Complex-Median No. of Days: '177'
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '133'
+      Simple-Lowest No. of Days: '39'
+      Simple-Median No. of Days: '7'
+    '2011':
+      Complex-Average No. of Days: '6'
+      Complex-Lowest No. of Days: '720'
+      Complex-Median No. of Days: '196'
+      Simple-Average No. of Days: '10'
+      Simple-Highest No. of Days: '148'
+      Simple-Lowest No. of Days: '58'
+      Simple-Median No. of Days: '6'
+    '2012':
+      Complex-Average No. of Days: '218'
+      Complex-Highest No. of Days: '1316'
+      Complex-Lowest No. of Days: '23'
+      Complex-Median No. of Days: '103'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '36'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2013':
+      Complex-Average No. of Days: '137'
+      Complex-Highest No. of Days: '1148'
+      Complex-Lowest No. of Days: '23'
+      Complex-Median No. of Days: '110'
+      Simple-Average No. of Days: '8'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '11'
   service_center: 'Phone: (703) 227-9326'
   top_level: true
   usa_id: '49542'
@@ -542,7 +932,9 @@ departments:
   - Suite 6248
   - 9800 Savage Road
   - Fort George G. Meade, MD 20755-6248
-  description: No Description
+  description: The National Security Agency and Central Security Service are the "codemaker
+    and codebreakers" of the intelligence community, providing foreign signal and
+    communications intelligence to decision makers.
   emails:
   - foiarsc@nsa.gov
   - foiarsc@nsa.gov
@@ -551,6 +943,85 @@ departments:
   phone: 301-688-6527
   public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '1785'
+      Complex-Highest No. of Days: '4277'
+      Complex-Lowest No. of Days: '191'
+      Complex-Median No. of Days: '2012'
+      Expedited Processing-Average No. of Days: '114'
+      Expedited Processing-Highest No. of Days: '399'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '12'
+      Simple-Average No. of Days: '78'
+      Simple-Highest No. of Days: '2361'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2009':
+      Complex-Average No. of Days: '1327'
+      Complex-Highest No. of Days: '4117'
+      Complex-Lowest No. of Days: '220'
+      Complex-Median No. of Days: '833'
+      Expedited Processing-Average No. of Days: '10'
+      Expedited Processing-Highest No. of Days: '10'
+      Expedited Processing-Lowest No. of Days: '10'
+      Expedited Processing-Median No. of Days: '10'
+      Simple-Average No. of Days: '62'
+      Simple-Highest No. of Days: '2066'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '8'
+    '2010':
+      Complex-Average No. of Days: '1398'
+      Complex-Highest No. of Days: '4189'
+      Complex-Lowest No. of Days: '182'
+      Complex-Median No. of Days: '822'
+      Expedited Processing-Average No. of Days: '78'
+      Expedited Processing-Highest No. of Days: '78'
+      Expedited Processing-Lowest No. of Days: '78'
+      Expedited Processing-Median No. of Days: '78'
+      Simple-Average No. of Days: '48'
+      Simple-Highest No. of Days: '1457'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '12'
+    '2011':
+      Complex-Average No. of Days: '962'
+      Complex-Highest No. of Days: '4377'
+      Complex-Lowest No. of Days: '211'
+      Complex-Median No. of Days: '595'
+      Expedited Processing-Average No. of Days: '279'
+      Expedited Processing-Highest No. of Days: '548'
+      Expedited Processing-Lowest No. of Days: '9'
+      Expedited Processing-Median No. of Days: '9'
+      Simple-Average No. of Days: '86'
+      Simple-Highest No. of Days: '1572'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '18'
+    '2012':
+      Complex-Average No. of Days: '1185'
+      Complex-Highest No. of Days: '3953'
+      Complex-Lowest No. of Days: '143'
+      Complex-Median No. of Days: '892'
+      Expedited Processing-Average No. of Days: '106'
+      Expedited Processing-Highest No. of Days: '391'
+      Expedited Processing-Lowest No. of Days: '9'
+      Expedited Processing-Median No. of Days: '11'
+      Simple-Average No. of Days: '58'
+      Simple-Highest No. of Days: '2939'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2013':
+      Complex-Average No. of Days: '993'
+      Complex-Highest No. of Days: '4585'
+      Complex-Lowest No. of Days: '18'
+      Complex-Median No. of Days: '559'
+      Expedited Processing-Average No. of Days: '173'
+      Expedited Processing-Highest No. of Days: '609'
+      Expedited Processing-Lowest No. of Days: '4'
+      Expedited Processing-Median No. of Days: '39'
+      Simple-Average No. of Days: '19'
+      Simple-Highest No. of Days: '3061'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
   service_center: 'Phone: (301) 688-6527'
   top_level: true
   usa_id: '49546'
@@ -990,4 +1461,53 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Defense
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '4277'
+    Complex-Highest No. of Days: '1'
+    Complex-Lowest No. of Days: '22.8939'
+    Complex-Median No. of Days: '1'
+    Expedited Processing-Median No. of Days: '687'
+    Simple-Average No. of Days: '1'
+    Simple-Highest No. of Days: '190'
+    Simple-Lowest No. of Days: '2361'
+    Simple-Median No. of Days: '30.2508'
+  '2009':
+    Complex-Average No. of Days: '1'
+    Complex-Highest No. of Days: '13'
+    Complex-Lowest No. of Days: '4117'
+    Complex-Median No. of Days: '187'
+    Expedited Processing-Average No. of Days: '1507'
+    Expedited Processing-Median No. of Days: '1'
+    Simple-Average No. of Days: '1'
+    Simple-Lowest No. of Days: '2918'
+    Simple-Median No. of Days: '43'
+  '2010':
+    Complex-Average No. of Days: '970'
+    Complex-Median No. of Days: '8'
+    Simple-Average No. of Days: '2306'
+    Simple-Highest No. of Days: '4314'
+    Simple-Lowest No. of Days: '127'
+    Simple-Median No. of Days: '24'
+  '2011':
+    Complex-Average No. of Days: '1023'
+    Complex-Median No. of Days: '16'
+    Simple-Average No. of Days: '3760'
+    Simple-Highest No. of Days: '4475'
+    Simple-Lowest No. of Days: '111'
+    Simple-Median No. of Days: '19'
+  '2012':
+    Complex-Average No. of Days: '391'
+    Complex-Median No. of Days: '14'
+    Simple-Average No. of Days: '2939'
+    Simple-Highest No. of Days: '4099'
+    Simple-Lowest No. of Days: '115'
+    Simple-Median No. of Days: '11'
+  '2013':
+    Complex-Average No. of Days: '609'
+    Complex-Median No. of Days: '15'
+    Simple-Average No. of Days: '3061'
+    Simple-Highest No. of Days: '4585'
+    Simple-Lowest No. of Days: '93'
+    Simple-Median No. of Days: '10'
 usa_id: '49229'

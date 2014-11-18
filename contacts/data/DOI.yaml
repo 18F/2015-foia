@@ -7,7 +7,10 @@ departments:
   - MS-3071, MIB
   - 1849 C Street, NW
   - Washington, DC 20240
-  description: No Description
+  description: The Bureau of Indian Affairs’ mission is to enhance the quality of
+    life, to promote economic opportunity, and to carry out the responsibility to
+    protect and improve the trust assets of American Indians, Indian tribes and Alaska
+    Natives.
   emails:
   - foia@bia.gov
   fax: 202-208-6597
@@ -60,6 +63,57 @@ departments:
     - Reading Room
     - http://www.bia.gov/FOIA/ReadingRoom/index.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '6'
+      Complex-Highest No. of Days: '7'
+      Complex-Lowest No. of Days: '1327'
+      Complex-Median No. of Days: '88.72'
+      Expedited Processing-Average No. of Days: '1'
+      Expedited Processing-Lowest No. of Days: '19'
+      Expedited Processing-Median No. of Days: '10.8'
+      Simple-Average No. of Days: '2.5'
+      Simple-Highest No. of Days: '5'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2009':
+      Complex-Median No. of Days: '689'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '32.4'
+      Simple-Lowest No. of Days: '13'
+      Simple-Median No. of Days: '2'
+    '2010':
+      Complex-Average No. of Days: '785'
+      Complex-Median No. of Days: '33'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '48'
+      Simple-Median No. of Days: '2'
+    '2011':
+      Complex-Average No. of Days: '671'
+      Complex-Median No. of Days: '32'
+      Simple-Average No. of Days: '2'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '23'
+      Simple-Median No. of Days: '2'
+    '2012':
+      Complex-Average No. of Days: '736'
+      Complex-Median No. of Days: '27'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '23'
+      Simple-Median No. of Days: '1'
+    '2013':
+      Complex-Average No. of Days: '620'
+      Complex-Highest No. of Days: '13'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '23'
+      Expedited Processing-Average No. of Days: '20'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '2'
+      Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: '22'
+      Simple-Median No. of Days: '1'
   service_center: 'Phone: (202) 208-4174'
   top_level: true
   usa_id: '49117'
@@ -71,7 +125,8 @@ departments:
   - 'Attn: FOIA, Washington Office Coorindators'
   - 'MS: WO-560, 1849 C Street, NW'
   - Washington, DC 20240
-  description: No Description
+  description: The Bureau of Land Management manages outdoor recreation, livestock
+    grazing, mineral development, and energy production on public lands.
   emails:
   - BLM_WO_FOIA@blm.gov
   foia_officer: 'Ryan Witt, Phone: (202) 912-7650'
@@ -136,6 +191,67 @@ departments:
     - Reading Room
     - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Highest No. of Days: '11'
+      Complex-Lowest No. of Days: '895'
+      Complex-Median No. of Days: '35.09'
+      Expedited Processing-Average No. of Days: '2'
+      Expedited Processing-Lowest No. of Days: '12'
+      Expedited Processing-Median No. of Days: '8'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '20'
+      Simple-Median No. of Days: '2'
+    '2009':
+      Complex-Average No. of Days: '4'
+      Complex-Highest No. of Days: '4'
+      Complex-Lowest No. of Days: '5'
+      Complex-Median No. of Days: '415'
+      Expedited Processing-Median No. of Days: '7'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '33.88'
+      Simple-Lowest No. of Days: '9'
+      Simple-Median No. of Days: '3'
+    '2010':
+      Complex-Average No. of Days: '476'
+      Complex-Median No. of Days: '32'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: '45'
+      Simple-Median No. of Days: '3'
+    '2011':
+      Complex-Average No. of Days: '672'
+      Complex-Highest No. of Days: '2'
+      Complex-Lowest No. of Days: '2'
+      Complex-Median No. of Days: '38'
+      Expedited Processing-Average No. of Days: '2'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '41'
+      Simple-Median No. of Days: '3'
+    '2012':
+      Complex-Average No. of Days: '776'
+      Complex-Highest No. of Days: '15'
+      Complex-Lowest No. of Days: '15'
+      Complex-Median No. of Days: '52'
+      Expedited Processing-Average No. of Days: '15'
+      Expedited Processing-Median No. of Days: '15'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '21'
+      Simple-Lowest No. of Days: '20'
+      Simple-Median No. of Days: '4'
+    '2013':
+      Complex-Average No. of Days: '653'
+      Complex-Highest No. of Days: '106'
+      Complex-Lowest No. of Days: '106'
+      Complex-Median No. of Days: '45'
+      Expedited Processing-Average No. of Days: '106'
+      Expedited Processing-Median No. of Days: '106'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '21'
+      Simple-Lowest No. of Days: '17'
+      Simple-Median No. of Days: '3'
   service_center: 'Phone: (202) 912-7650'
   top_level: true
   usa_id: '49125'
@@ -147,7 +263,9 @@ departments:
   - HM3127
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: No Description
+  description: The Bureau of Ocean Energy Management promotes energy independence,
+    environmental protection, and economic development by managing offshore energy
+    resources.
   emails:
   - BOEMFOIA@boem.gov
   fax: 703-787-1209
@@ -192,6 +310,29 @@ departments:
     - Library and Reading Room
     - http://www.boem.gov/BOEM-Newsroom/Library/Library.aspx
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2012':
+      Complex-Average No. of Days: '269'
+      Complex-Highest No. of Days: '28'
+      Complex-Lowest No. of Days: '28'
+      Complex-Median No. of Days: '45'
+      Expedited Processing-Average No. of Days: '41'
+      Expedited Processing-Median No. of Days: '15'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '27'
+      Simple-Lowest No. of Days: '27'
+      Simple-Median No. of Days: '8'
+    '2013':
+      Complex-Average No. of Days: '95'
+      Complex-Highest No. of Days: '99'
+      Complex-Lowest No. of Days: '361'
+      Complex-Median No. of Days: '30'
+      Expedited Processing-Average No. of Days: '99'
+      Expedited Processing-Median No. of Days: '99'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '10'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '2'
   service_center: 'Phone: (703) 787-1327'
   top_level: true
   usa_id: '85122'
@@ -202,7 +343,8 @@ departments:
   - FOIA Officer
   - P.O. Box 25007
   - Denver, CO 80225-0007
-  description: No Description
+  description: 'The Bureau of Reclamation is a provider of wholesale water, and hydroelectric
+    power in the U.S. '
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
@@ -235,6 +377,72 @@ departments:
     - FOIA Reading Room
     - http://www.usbr.gov/foia/readroom.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Average No. of Days: '1'
+      Complex-Highest No. of Days: '6'
+      Complex-Lowest No. of Days: '476'
+      Complex-Median No. of Days: '20.88'
+      Expedited Processing-Average No. of Days: '2'
+      Expedited Processing-Lowest No. of Days: '6'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '5'
+      Simple-Highest No. of Days: '12'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '3'
+    '2009':
+      Complex-Average No. of Days: '413'
+      Complex-Highest No. of Days: '7'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '33.94'
+      Expedited Processing-Average No. of Days: '29'
+      Expedited Processing-Median No. of Days: '1'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '7'
+    '2010':
+      Complex-Average No. of Days: '24'
+      Complex-Highest No. of Days: '11'
+      Complex-Lowest No. of Days: '280'
+      Complex-Median No. of Days: '17'
+      Expedited Processing-Average No. of Days: '11'
+      Expedited Processing-Lowest No. of Days: '11'
+      Expedited Processing-Median No. of Days: '11'
+      Simple-Average No. of Days: '18'
+      Simple-Highest No. of Days: '75'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '9'
+    '2011':
+      Complex-Average No. of Days: '607'
+      Complex-Highest No. of Days: '12'
+      Complex-Lowest No. of Days: '12'
+      Complex-Median No. of Days: '34'
+      Expedited Processing-Average No. of Days: '13'
+      Expedited Processing-Median No. of Days: '10'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '15'
+      Simple-Lowest No. of Days: '32'
+      Simple-Median No. of Days: '15'
+    '2012':
+      Complex-Average No. of Days: '29'
+      Complex-Lowest No. of Days: '381'
+      Complex-Median No. of Days: '16'
+      Simple-Average No. of Days: '9'
+      Simple-Highest No. of Days: '17'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Complex-Average No. of Days: '94'
+      Complex-Highest No. of Days: '25'
+      Complex-Lowest No. of Days: '25'
+      Complex-Median No. of Days: '17'
+      Expedited Processing-Average No. of Days: '25'
+      Expedited Processing-Median No. of Days: '25'
+      Simple-Average No. of Days: '4'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '13'
+      Simple-Median No. of Days: '3'
   service_center: 'Phone: (303) 445-2056'
   top_level: true
   usa_id: '49128'
@@ -246,7 +454,9 @@ departments:
   - 'MS:  HE-2204'
   - 381 Elden Street
   - Herndon, VA 20170-4817
-  description: No Description
+  description: The Bureau of Safety and Environmental Enforcement provides oversight
+    and enforcement to promote safety, protect the environment, and conserve offshore
+    resources.
   emails:
   - BSEEFOIA@bsee.gov
   fax: 703-787-1207
@@ -282,6 +492,27 @@ departments:
     - BSEE FOIA Reading Room    (Frequently Requested Documents)
     - /About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2012':
+      Complex-Average No. of Days: '65'
+      Complex-Lowest No. of Days: '538'
+      Complex-Median No. of Days: '22'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '8'
+      Simple-Median No. of Days: '11'
+    '2013':
+      Complex-Average No. of Days: '86'
+      Complex-Highest No. of Days: '48'
+      Complex-Lowest No. of Days: '617'
+      Complex-Median No. of Days: '29'
+      Expedited Processing-Average No. of Days: '46'
+      Expedited Processing-Lowest No. of Days: '579'
+      Expedited Processing-Median No. of Days: '224'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '7'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '3'
   service_center: 'Phone: (703) 787-1689'
   top_level: true
   usa_id: '85146'
@@ -293,7 +524,8 @@ departments:
   - MS-IRTM
   - 5725 Leesburg Pike
   - Falls Church, VA 22041
-  description: No Description
+  description: The Fish and Wildlife Service works to conserve, protect and enhance
+    fish, wildlife and plants and their habitats.
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
@@ -401,7 +633,10 @@ departments:
   - P.O. Box 25287
   - 12795 W. Alameda Parkway
   - Denver, CO 80225
-  description: No Description
+  description: The National Park Service cares for the more than 400 national parks
+    in the U.S. The National Park Service also partners with local communities to
+    assist in historic preservaton and the creation and maintenance of recreational
+    spaces.
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557
@@ -447,6 +682,67 @@ departments:
     - NPS FOIA Library
     - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Highest No. of Days: '5'
+      Complex-Lowest No. of Days: '733'
+      Complex-Median No. of Days: '21.22'
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '11'
+      Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: '4'
+      Simple-Median No. of Days: '12'
+    '2009':
+      Complex-Average No. of Days: '6'
+      Complex-Highest No. of Days: '2'
+      Complex-Lowest No. of Days: '10'
+      Complex-Median No. of Days: '596'
+      Expedited Processing-Median No. of Days: '27'
+      Simple-Average No. of Days: '6'
+      Simple-Highest No. of Days: '15.91'
+      Simple-Lowest No. of Days: '18'
+      Simple-Median No. of Days: '2'
+    '2010':
+      Complex-Average No. of Days: '19'
+      Complex-Highest No. of Days: '2'
+      Complex-Lowest No. of Days: '37'
+      Complex-Median No. of Days: '424'
+      Expedited Processing-Median No. of Days: '124'
+      Simple-Average No. of Days: '43'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '6'
+      Simple-Median No. of Days: '5'
+    '2011':
+      Complex-Average No. of Days: '16'
+      Complex-Highest No. of Days: '21'
+      Complex-Lowest No. of Days: '444'
+      Complex-Median No. of Days: '7'
+      Expedited Processing-Average No. of Days: '42'
+      Expedited Processing-Median No. of Days: '21'
+      Simple-Average No. of Days: '15'
+      Simple-Highest No. of Days: '55'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '3'
+    '2012':
+      Complex-Average No. of Days: '103'
+      Complex-Median No. of Days: '18'
+      Simple-Average No. of Days: '27'
+      Simple-Highest No. of Days: '9'
+      Simple-Lowest No. of Days: '1438'
+      Simple-Median No. of Days: '9'
+    '2013':
+      Complex-Average No. of Days: '545'
+      Complex-Highest No. of Days: '22'
+      Complex-Lowest No. of Days: '16'
+      Complex-Median No. of Days: '28'
+      Expedited Processing-Average No. of Days: '64'
+      Expedited Processing-Median No. of Days: '2'
+      Simple-Average No. of Days: '13'
+      Simple-Highest No. of Days: '13'
+      Simple-Lowest No. of Days: '27'
+      Simple-Median No. of Days: '14'
   service_center: 'Phone: (202) 354-1925'
   top_level: true
   usa_id: '49539'
@@ -547,6 +843,60 @@ departments:
   phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Highest No. of Days: '13'
+      Complex-Lowest No. of Days: '547'
+      Complex-Median No. of Days: '28.33'
+      Expedited Processing-Average No. of Days: '3'
+      Expedited Processing-Lowest No. of Days: '22'
+      Expedited Processing-Median No. of Days: '13'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '15'
+      Simple-Median No. of Days: '1'
+    '2009':
+      Complex-Average No. of Days: '13'
+      Complex-Lowest No. of Days: '25'
+      Complex-Median No. of Days: '13'
+      Simple-Average No. of Days: '3'
+      Simple-Highest No. of Days: '357'
+      Simple-Lowest No. of Days: '37'
+      Simple-Median No. of Days: '1'
+    '2010':
+      Simple-Average No. of Days: '56'
+      Simple-Lowest No. of Days: '1185'
+      Simple-Median No. of Days: '19'
+    '2011':
+      Complex-Average No. of Days: '1855'
+      Complex-Highest No. of Days: '70'
+      Complex-Lowest No. of Days: '13'
+      Complex-Median No. of Days: '117'
+      Expedited Processing-Average No. of Days: '192'
+      Expedited Processing-Median No. of Days: '4'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '37'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '1'
+    '2012':
+      Complex-Average No. of Days: '2'
+      Complex-Lowest No. of Days: '4'
+      Complex-Median No. of Days: '3'
+      Simple-Average No. of Days: '85'
+      Simple-Highest No. of Days: '3'
+      Simple-Lowest No. of Days: '661'
+      Simple-Median No. of Days: '26'
+    '2013':
+      Complex-Average No. of Days: '63'
+      Complex-Highest No. of Days: '5'
+      Complex-Lowest No. of Days: '983'
+      Complex-Median No. of Days: '19'
+      Expedited Processing-Average No. of Days: '5'
+      Expedited Processing-Lowest No. of Days: '5'
+      Expedited Processing-Median No. of Days: '5'
+      Simple-Average No. of Days: '16'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '16'
+      Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 513-0756'
   top_level: false
   website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
@@ -572,6 +922,33 @@ departments:
     - OS FOIA Library
     - http://www.doi.gov/foia/os/index.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Simple-Average No. of Days: '94'
+      Simple-Highest No. of Days: '642'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '63'
+    '2009':
+      Simple-Average No. of Days: '107'
+      Simple-Lowest No. of Days: '501'
+      Simple-Median No. of Days: '48'
+    '2010':
+      Simple-Average No. of Days: '170'
+      Simple-Lowest No. of Days: '1051'
+      Simple-Median No. of Days: '45'
+    '2011':
+      Simple-Average No. of Days: '209'
+      Simple-Highest No. of Days: '929'
+      Simple-Lowest No. of Days: '5'
+      Simple-Median No. of Days: '78'
+    '2012':
+      Simple-Average No. of Days: '313'
+      Simple-Lowest No. of Days: '1497'
+      Simple-Median No. of Days: '114'
+    '2013':
+      Simple-Average No. of Days: '139'
+      Simple-Lowest No. of Days: '1140'
+      Simple-Median No. of Days: '44'
   service_center: 'Phone: (202) 208-6503'
   top_level: false
   website: http://www.doi.gov/foia/
@@ -592,6 +969,37 @@ departments:
   phone: 202-208-5840
   public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      Complex-Lowest No. of Days: '112'
+      Complex-Median No. of Days: '16.61'
+    '2009':
+      Simple-Average No. of Days: '154'
+      Simple-Median No. of Days: '20.94'
+    '2010':
+      Simple-Average No. of Days: '42'
+      Simple-Lowest No. of Days: '545'
+      Simple-Median No. of Days: '13'
+    '2011':
+      Simple-Average No. of Days: '25'
+      Simple-Highest No. of Days: '183'
+      Simple-Lowest No. of Days: '1'
+      Simple-Median No. of Days: '16'
+    '2012':
+      Complex-Average No. of Days: '662'
+      Complex-Highest No. of Days: '289'
+      Complex-Lowest No. of Days: '356'
+      Complex-Median No. of Days: '73'
+      Expedited Processing-Average No. of Days: '369'
+      Expedited Processing-Median No. of Days: '141'
+      Simple-Average No. of Days: '1'
+      Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: '2'
+      Simple-Median No. of Days: '1'
+    '2013':
+      Simple-Average No. of Days: '49'
+      Simple-Lowest No. of Days: '766'
+      Simple-Median No. of Days: '18'
   service_center: 'Phone: (202) 208-2909'
   top_level: false
   website: http://www.osmre.gov/contacts/Foia.shtm

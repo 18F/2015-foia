@@ -22,4 +22,23 @@ keywords:
 - Government employees
 - Organization and functions (Government agencies)
 name: Millennium Challenge Corporation
+request_time_stats:
+  '2010':
+    Simple-Average No. of Days: '17'
+    Simple-Lowest No. of Days: '259'
+    Simple-Median No. of Days: '6'
+  '2011':
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '21'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '16'
+  '2012':
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: '21'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '17'
+  '2013':
+    Simple-Average No. of Days: '17'
+    Simple-Lowest No. of Days: '55'
+    Simple-Median No. of Days: '18'
 usa_id: '49460'

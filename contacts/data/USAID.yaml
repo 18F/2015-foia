@@ -20,6 +20,7 @@ departments:
   - !!python/tuple
     - FOIA Library
     - http://www.usaid.gov/foia-requests/foia-library
+  request_form: https://foiarequest.usaid.gov/index.aspx
   service_center: 'Phone: (202) 712-0960'
   top_level: false
   website: http://www.usaid.gov/foia-requests

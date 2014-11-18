@@ -50,4 +50,37 @@ keywords:
 - Railroad safety
 - Reporting and recordkeeping requirements
 name: National Transportation Safety Board
+request_time_stats:
+  '2010':
+    Complex-Average No. of Days: '241'
+    Complex-Median No. of Days: '39.39'
+    Simple-Average No. of Days: '10.1'
+    Simple-Highest No. of Days: '18'
+    Simple-Lowest No. of Days: '42'
+    Simple-Median No. of Days: '6'
+  '2011':
+    Complex-Average No. of Days: '297'
+    Complex-Median No. of Days: '75.05'
+    Simple-Average No. of Days: '17.81'
+    Simple-Highest No. of Days: '37'
+    Simple-Lowest No. of Days: '71'
+    Simple-Median No. of Days: '22'
+  '2012':
+    Complex-Average No. of Days: '614'
+    Complex-Median No. of Days: '104.51'
+    Simple-Average No. of Days: '18.53'
+    Simple-Highest No. of Days: '30'
+    Simple-Lowest No. of Days: '50'
+    Simple-Median No. of Days: '17'
+  '2013':
+    Complex-Average No. of Days: '1304'
+    Complex-Highest No. of Days: '62'
+    Complex-Lowest No. of Days: '62'
+    Complex-Median No. of Days: '184.18'
+    Expedited Processing-Average No. of Days: '62'
+    Expedited Processing-Median No. of Days: '62'
+    Simple-Average No. of Days: '29.77'
+    Simple-Highest No. of Days: '100'
+    Simple-Lowest No. of Days: '666'
+    Simple-Median No. of Days: '20'
 usa_id: '52641'

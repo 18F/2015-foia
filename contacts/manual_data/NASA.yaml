@@ -1,5 +1,6 @@
 departments:
 - name: Jet Propulsion Laboratory
+  description: "NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and our universe."
   request_form: http://socialforms.nasa.gov/foia
   website: http://www.jpl.nasa.gov/
   top_level: true

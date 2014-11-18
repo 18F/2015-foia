@@ -28,32 +28,97 @@ description: The FHFA provides effective supervision, regulation and housing mis
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Advertising
+- Agriculture
 - Archives and records
+- Claims
 - Community development
 - Confidential business information
 - Conflict of interests
+- Consumer protection
+- Courts
 - Credit
+- Credit unions
+- Crime
+- Currency
 - Elections
+- Equal access to justice
 - Equal employment opportunity
+- Ethics
+- Federal Reserve System
 - Federal home loan banks
+- Flood insurance
+- Foreign banking
 - Freedom of information
 - Government contracts
 - Government employees
 - Government securities
+- Holding companies
 - Housing
+- Insurance
 - Intergovernmental relations
 - Investments
 - Minority businesses
 - Mortgages
+- National banks
 - Nonprofit organizations
 - Organization and functions (Government agencies)
 - Penalties
 - Privacy
 - Reporting and recordkeeping requirements
+- Savings associations
 - Seals and insignia
 - Securities
 - Sunshine Act
 - Trade practices
+- Truth in lending
 - Wages
 name: Federal Housing Finance Agency
+request_time_stats:
+  '2009':
+    Complex-Average No. of Days: '8'
+    Complex-Highest No. of Days: '33'
+    Complex-Lowest No. of Days: '139'
+    Complex-Median No. of Days: '40'
+    Expedited Processing-Average No. of Days: '4'
+    Expedited Processing-Lowest No. of Days: '52'
+    Expedited Processing-Median No. of Days: '31'
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '34'
+    Simple-Lowest No. of Days: '48'
+    Simple-Median No. of Days: '33'
+  '2010':
+    Complex-Average No. of Days: '174'
+    Complex-Highest No. of Days: '356'
+    Complex-Lowest No. of Days: '33'
+    Complex-Median No. of Days: '170'
+    Expedited Processing-Average No. of Days: '2'
+    Expedited Processing-Median No. of Days: '2'
+    Simple-Average No. of Days: '48'
+    Simple-Highest No. of Days: '178'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '29'
+  '2011':
+    Complex-Average No. of Days: '81'
+    Complex-Highest No. of Days: '228'
+    Complex-Lowest No. of Days: '10'
+    Complex-Median No. of Days: '52.5'
+    Simple-Average No. of Days: '10.57'
+    Simple-Highest No. of Days: '63'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2012':
+    Complex-Average No. of Days: '271'
+    Complex-Median No. of Days: '39.25'
+    Simple-Average No. of Days: '11.03'
+    Simple-Highest No. of Days: '21'
+    Simple-Lowest No. of Days: '165'
+    Simple-Median No. of Days: '6'
+  '2013':
+    Complex-Average No. of Days: '158'
+    Complex-Median No. of Days: '45.84'
+    Simple-Average No. of Days: '15.4'
+    Simple-Highest No. of Days: '33'
+    Simple-Lowest No. of Days: '109'
+    Simple-Median No. of Days: '10'
 usa_id: '52611'

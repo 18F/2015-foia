@@ -26,4 +26,25 @@ keywords:
 - Freedom of information
 - Monuments and memorials
 name: American Battle Monuments Commission
+request_time_stats:
+  '2010':
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '3'
+    Simple-Median No. of Days: '11'
+  '2011':
+    Simple-Average No. of Days: '10'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '8'
+  '2012':
+    Simple-Average No. of Days: '13'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '14'
+  '2013':
+    Simple-Average No. of Days: '72'
+    Simple-Highest No. of Days: '193'
+    Simple-Lowest No. of Days: '10'
+    Simple-Median No. of Days: '11'
 usa_id: '52584'

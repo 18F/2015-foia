@@ -23,3 +23,35 @@ description: The Surface Transportation Board (STB) was created in the ICC Termi
   rate and service disputes and reviewing proposed railroad mergers. The STB is decisionally
   independent, although it is administratively affiliated with the Department of Transportation.
 name: Surface Transportation Board
+request_time_stats:
+  '2008':
+    Simple-Average No. of Days: '10.5'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2009':
+    Simple-Average No. of Days: '6.75'
+    Simple-Highest No. of Days: '15'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '5.5'
+  '2010':
+    Simple-Average No. of Days: '7.3'
+    Simple-Highest No. of Days: '14'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '7'
+  '2011':
+    Simple-Average No. of Days: '9.1'
+    Simple-Highest No. of Days: '31'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '8'
+  '2012':
+    Simple-Average No. of Days: '5.9'
+    Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '3'
+  '2013':
+    Simple-Average No. of Days: '6'
+    Simple-Highest No. of Days: '19'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '4'
+usa_id: '49691'
