@@ -13,8 +13,7 @@ departments:
   phone: 703-883-4431
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4108'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.fca.gov/home/FOIA_index.html
   request_form: ''
   service_center: 'Phone: (703) 883-4020'
@@ -81,6 +80,7 @@ keywords:
 - Technical assistance
 - Wages
 name: Farm Credit Administration
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '9'

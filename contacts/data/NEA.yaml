@@ -14,8 +14,7 @@ departments:
   phone: 202-682-5418
   public_liaison: 'Phone: (202) 682-5418'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room, Frequently Requested Records
+  - - FOIA Reading Room, Frequently Requested Records
     - http://arts.gov/foia/reading-room
   service_center: 'Phone: (202) 682-5418'
   top_level: false
@@ -27,6 +26,7 @@ description: The National Endowment for the Arts was established by Congress in 
   partnerships with state arts agencies, local leaders, other federal agencies, and
   the philanthropic sector.
 name: National Endowment for the Arts
+reading_rooms: []
 request_time_stats:
   '2010':
     Complex-Average No. of Days: '12'

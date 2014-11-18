@@ -17,8 +17,7 @@ departments:
   phone: 202-712-0960
   public_liaison: 'Lynn P. Winston, Phone: (202) 712-0960'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.usaid.gov/foia-requests/foia-library
   request_form: https://foiarequest.usaid.gov/index.aspx
   service_center: 'Phone: (202) 712-0960'
@@ -91,4 +90,5 @@ keywords:
 - Veterans
 - Women
 name: U.S. Agency for International Development
+reading_rooms: []
 usa_id: '52583'

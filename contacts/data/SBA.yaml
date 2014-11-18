@@ -16,8 +16,7 @@ departments:
   phone: 202-401-8203
   public_liaison: 'Lisa Babcock, Phone: (202) 401-8203'
   reading_rooms:
-  - !!python/tuple
-    - Online Reading Room
+  - - Online Reading Room
     - http://archive.sba.gov/aboutsba/sbaprograms/foia/FOIA_ONLINE_READING_ROOM_INDEX.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 401-8203'
@@ -100,4 +99,5 @@ keywords:
 - Wages
 - Women
 name: Small Business Administration
+reading_rooms: []
 usa_id: '48139'

@@ -14,8 +14,7 @@ departments:
   phone: 202-653-4630
   public_liaison: 'Mae Ridges, Phone: (202) 653-4642'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.imls.gov/about/foia_electronic_reading_room.aspx
   request_form: http://www.imls.gov/about/foia_request_form.aspx
   service_center: 'Mae Ridges, Phone: (202) 653-4642'
@@ -26,6 +25,7 @@ description: The Institute of Museum and Library Services is the primary source 
   mission is to create strong libraries and museums that connect people to information
   and ideas.
 name: Institute of Museum and Library Services
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '1'

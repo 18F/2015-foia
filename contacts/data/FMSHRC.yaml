@@ -14,8 +14,7 @@ departments:
   phone: 202-434-9935
   public_liaison: 'Emogene Johnson, Phone: (202) 434-9935'
   reading_rooms:
-  - !!python/tuple
-    - E-Reading Room
+  - - E-Reading Room
     - http://www.fmshrc.gov/foia/e-reading-room
   service_center: 'Phone: (202) 434-9935'
   top_level: false
@@ -40,6 +39,7 @@ keywords:
 - Sunshine Act
 - Whistleblowing
 name: Federal Mine Safety and Health Review Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '8'

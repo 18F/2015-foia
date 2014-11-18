@@ -13,6 +13,7 @@ departments:
   name: Office of Government Ethics
   phone: 202-482-9203
   public_liaison: 'Phone: (202) 482-9203'
+  reading_rooms: []
   service_center: 'Phone: (202) 482-9267'
   top_level: false
   website: http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/
@@ -36,4 +37,5 @@ keywords:
 - Reporting and recordkeeping requirements
 - Trusts and trustees
 name: Office of Government Ethics
+reading_rooms: []
 usa_id: '52646'

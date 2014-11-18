@@ -10,11 +10,9 @@ departments:
   phone: 202-395-3419
   public_liaison: 'Jacqueline B. Caldwell, Phone: (202) 395-3419'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.ustr.gov/about-us/reading-room/freedom-information-act-foia/electronic-reading-room
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.ustr.gov/about-us/reading-room
   service_center: 'Phone: (202) 395-3419'
   top_level: false
@@ -28,4 +26,5 @@ keywords:
 - Foreign trade
 - Imports
 name: Office of the United States Trade Representative
+reading_rooms: []
 usa_id: '49724'

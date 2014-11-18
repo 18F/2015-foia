@@ -8,6 +8,7 @@ departments:
   name: Office of National Drug Control Policy
   phone: 202-395-6622
   public_liaison: 'Daniel Petersen, Phone: (202) 395-6745'
+  reading_rooms: []
   service_center: 'Daniel Petersen, Phone: (202) 395-6622'
   top_level: false
   website: http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests
@@ -28,6 +29,7 @@ keywords:
 - Lebanon
 - Loan programs
 name: Office of National Drug Control Policy
+reading_rooms: []
 request_time_stats:
   '2008': {}
   '2009':

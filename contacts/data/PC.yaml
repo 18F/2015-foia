@@ -14,8 +14,7 @@ departments:
   phone: 202-692-1236
   public_liaison: 'Denora Miller, Phone: (202) 692-1236'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
   service_center: 'Phone: (202) 692-1236'
   top_level: false
@@ -33,8 +32,7 @@ departments:
   phone: 202-692-2922
   public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
   service_center: 'Phone: (202) 692-2922'
   top_level: false
@@ -63,6 +61,7 @@ keywords:
 - Reporting and recordkeeping requirements
 - Technical assistance
 name: Peace Corps
+reading_rooms: []
 request_form: https://cwppc.secureprtportal.com/
 request_time_stats:
   '2008':

@@ -14,8 +14,7 @@ departments:
   phone: 202-683-7118
   public_liaison: 'Jake Sgambati, Phone: (202) 688-3047'
   reading_rooms:
-  - !!python/tuple
-    - FOIA E-reading Room
+  - - FOIA E-reading Room
     - http://www.iaf.gov/index.aspx?page=2170
   service_center: 'Phone: (202) 683-7117'
   top_level: false
@@ -37,6 +36,7 @@ keywords:
 - Lebanon
 - Loan programs
 name: Inter-American Foundation
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '12.2'

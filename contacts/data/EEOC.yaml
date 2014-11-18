@@ -22,8 +22,7 @@ departments:
   phone: 202-663-4634
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
   reading_rooms:
-  - !!python/tuple
-    - EEOC's Reading Room
+  - - EEOC's Reading Room
     - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
@@ -42,6 +41,7 @@ departments:
   name: Atlanta District Office (Savanna Local Office)
   phone: 404-562-6840
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/atlanta/foia.cfm
@@ -60,6 +60,7 @@ departments:
   name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
   phone: 205-212-2074
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
@@ -79,6 +80,7 @@ departments:
     Offices; Raleigh Area Office
   phone: 704-954-6488
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/charlotte/foia.cfm
@@ -99,6 +101,7 @@ departments:
   name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   phone: 312-353-8783
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/chicago/foia.cfm
@@ -118,6 +121,7 @@ departments:
   name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
   phone: 214-253-2732
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/dallas/foia.cfm
@@ -137,6 +141,7 @@ departments:
   name: Houston District Office (New Orleans Field Office)
   phone: 713-209-3416
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/houston/foia.cfm
@@ -157,6 +162,7 @@ departments:
     Area Offices)
   phone: 317-226-6654
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
@@ -175,6 +181,7 @@ departments:
     Offices)
   phone: 213-894-1712
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
@@ -192,6 +199,7 @@ departments:
   name: Memphis District Office (Little Rock and Nashville Area Offices)
   phone: 901-544-0163
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/memphis/foia.cfm
@@ -211,6 +219,7 @@ departments:
   name: Miami District Office (Tampa Field Office and San Juan Local Office)
   phone: 305-808-1796
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/miami/foia.cfm
@@ -229,6 +238,7 @@ departments:
   name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
   phone: 212-336-3644
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/newyork/foia.cfm
@@ -248,6 +258,7 @@ departments:
     Area Office)
   phone: 215-440-2681
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
@@ -266,6 +277,7 @@ departments:
   name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
   phone: 602-640-5012
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/phoenix/foia.cfm
@@ -285,6 +297,7 @@ departments:
     Local Offices)
   phone: 415-625-5632
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
@@ -303,6 +316,7 @@ departments:
   name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
   phone: 314-539-7846
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
@@ -320,6 +334,7 @@ departments:
   name: Washington Field Office
   phone: 202-419-0705
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms: []
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '11.8473'
@@ -375,8 +390,7 @@ name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
 reading_rooms:
-- !!python/tuple
-  - EEOC's Reading Room
+- - EEOC's Reading Room
   - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
 request_time_stats:
   '2010':

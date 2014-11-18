@@ -11,8 +11,7 @@ departments:
   phone: 202-606-5700
   public_liaison: 'Lyndsey Frushour, Phone: (202) 606-5700'
   reading_rooms:
-  - !!python/tuple
-    - OSHRC e-FOIA Reading Room
+  - - OSHRC e-FOIA Reading Room
     - http://www.oshrc.gov/foia/foia_reading_room.html
   service_center: 'Phone: (202) 606-5700'
   top_level: false
@@ -35,6 +34,7 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Occupational Safety and Health Review Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '28'

@@ -13,6 +13,7 @@ departments:
   name: Export-Import Bank of the U.S.
   phone: 202-565-3248
   public_liaison: 'Dawn R. Kral, Phone: (202) 565-3248'
+  reading_rooms: []
   request_form: http://www.exim.gov/about/library/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 565-3248'
   top_level: false
@@ -36,4 +37,5 @@ keywords:
 - Reporting and recordkeeping requirements
 - Sunshine Act
 name: Export-Import Bank of the U.S.
+reading_rooms: []
 usa_id: '52603'

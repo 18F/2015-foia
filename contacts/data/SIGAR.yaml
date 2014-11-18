@@ -14,8 +14,7 @@ departments:
   phone: 703-545-5993
   public_liaison: 'Phone: (703) 545-5993'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading
       Room
   request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
@@ -34,6 +33,7 @@ keywords:
 - Government employees
 - Privacy
 name: Special Inspector General for Afghanistan Reconstruction
+reading_rooms: []
 request_time_stats:
   '2010': {}
   '2011':

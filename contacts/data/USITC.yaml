@@ -14,8 +14,7 @@ departments:
   phone: 202-205-2000
   public_liaison: 'Jacqueline N. Gross, Phone: (202) 205-1816'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.usitc.gov/secretary/foia/foia_ereadingroom.htm
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   service_center: 'Phone: (202) 205-2595'
@@ -27,6 +26,7 @@ description: The mission of the Commission is to (1) administer U.S. trade remed
   of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
   Harmonized Tariff Schedule of the United States (HTS).
 name: United States International Trade Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Expedited Processing-Average No. of Days: '10.5'

@@ -14,8 +14,7 @@ departments:
   phone: 703-883-4431
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4020'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.fcsic.gov/FCSIC FOIA Reading Room.html
   service_center: 'Phone: (703) 883-4020'
   top_level: false
@@ -32,6 +31,7 @@ keywords:
 - Penalties
 - Reporting and recordkeeping requirements
 name: Farm Credit System Insurance Corporation
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '10'

@@ -15,8 +15,7 @@ departments:
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - https://www.ignet.gov/content/foia-reading-room-1
   service_center: 'Phone: (202) 708-1613'
   top_level: false
@@ -31,6 +30,7 @@ description: 'The Council of the Inspectors General on Integrity and Efficiency 
   standards, and approaches to aid in the establishment of a well-trained and highly
   skilled workforce in the offices of the Inspectors General.'
 name: Council of the Inspectors General on Integrity and Efficiency
+reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '22'

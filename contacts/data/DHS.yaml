@@ -18,6 +18,7 @@ departments:
   name: Headquarters & Privacy Office
   phone: 202-343-1743
   public_liaison: 'Angela Washington, Acting, Phone: (202) 343-1743, (866) 431-0486'
+  reading_rooms: []
   request_form: http://www.dhs.gov/make-foia-request
   service_center: 'Phone: (202) 343-1743, (866) 431-0486'
   top_level: false
@@ -56,8 +57,7 @@ departments:
   phone: 800-375-5283
   public_liaison: 'Jill Eggleston, Phone: (816) 350-5521'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.uscis.gov/about-us/electronic-reading-room
   service_center: 'Phone: (816) 350-5521 (USCIS National Customer Service Unit)'
   top_level: true
@@ -76,6 +76,7 @@ departments:
   name: Office for Civil Rights and Civil Liberties
   phone: 202-357-1218
   public_liaison: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
+  reading_rooms: []
   service_center: 'Phone: (202) 357-1218'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
@@ -206,8 +207,7 @@ departments:
   phone: 202-475-3522
   public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.uscg.mil/foia/FOIA_Library.asp
   service_center: 'Amanda Ackerson, Phone: (202) 475-3522'
   top_level: true
@@ -323,6 +323,7 @@ departments:
   name: U.S. Customs & Border Protection
   phone: 202-325-0150
   public_liaison: 'Sabrina Burroughs, Phone: (202) 325-0150'
+  reading_rooms: []
   request_form: https://foia.cbp.gov/palMain.aspx
   service_center: 'Phone: (202) 325-0150'
   top_level: true
@@ -413,6 +414,7 @@ departments:
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison: 'Terry Cochran, Phone: (202) 646-3323'
+  reading_rooms: []
   request_form: https://faq.fema.gov/ci/documents/submit
   request_time_stats:
     '2008':
@@ -509,11 +511,9 @@ departments:
   phone: 912-267-3103
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - https://www.fletc.gov/foia-library
-  - !!python/tuple
-    - Freedom of Information Library
+  - - Freedom of Information Library
     - https://www.fletc.gov/freedom-information-library
   request_form: http://www.fletc.gov/about/freedom-information-act-request
   request_time_stats:
@@ -582,8 +582,7 @@ departments:
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.ice.gov/foia/library
   request_form: http://www.ice.gov/webform/foia-request-form
   service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
@@ -638,8 +637,7 @@ departments:
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.dhs.gov/office-inspector-general-foia-documents
   request_time_stats:
     '2008':
@@ -708,7 +706,6 @@ departments:
       Simple-Highest No. of Days: '119'
       Simple-Lowest No. of Days: '1'
       Simple-Median No. of Days: '22'
->>>>>>> 6742c88ea68b76a4f0913ef4e3ac30818e958927
   service_center: 'Phone: (202) 254-4001'
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0788.shtm
@@ -724,8 +721,7 @@ departments:
   phone: 202-447-4883
   public_liaison: 'Priscilla Waters, Phone: (202) 447-4190'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.dhs.gov/foia-library
   service_center: 'Phone: (202) 282-8191'
   top_level: false
@@ -741,6 +737,7 @@ departments:
   name: Directorate for National Protection and Programs
   phone: 703-235-2211
   public_liaison: 'Sandy Ford Page, Phone: (703) 235-2211'
+  reading_rooms: []
   service_center: 'Phone: (703) 235-2211'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
@@ -755,6 +752,7 @@ departments:
   name: Office of Operations Coordination and Planning
   phone: 202-447-4156
   public_liaison: 'Michael Page, Phone: (202) 447-4156'
+  reading_rooms: []
   service_center: 'Phone: (202) 447-4156'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0797.shtm
@@ -771,6 +769,7 @@ departments:
   name: Science & Technology Directorate
   phone: 202-254-6342
   public_liaison: 'Katrina Hagan, Phone: (202) 254-6342'
+  reading_rooms: []
   service_center: 'Phone: (202) 254-6342'
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
@@ -793,12 +792,9 @@ departments:
   name: United States Secret Service
   phone: 202-406-6370
   public_liaison: 'Latita Payne, Phone: (202) 406-6370'
-<<<<<<< HEAD
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.secretservice.gov/foia_reading.shtml
-=======
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '309.44'
@@ -862,7 +858,6 @@ departments:
       Simple-Highest No. of Days: '20'
       Simple-Lowest No. of Days: '1'
       Simple-Median No. of Days: '11'
->>>>>>> 6742c88ea68b76a4f0913ef4e3ac30818e958927
   service_center: 'Phone: (202) 406-6370'
   top_level: true
   usa_id: '49660'
@@ -932,12 +927,9 @@ departments:
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
-<<<<<<< HEAD
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.tsa.gov/research-center/electronic-reading-room
-=======
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '55.42'
@@ -1001,7 +993,6 @@ departments:
       Simple-Highest No. of Days: '20'
       Simple-Lowest No. of Days: '1'
       Simple-Median No. of Days: '6'
->>>>>>> 6742c88ea68b76a4f0913ef4e3ac30818e958927
   service_center: 'Phone: (866) 364-2872, (571) 227-2300'
   top_level: true
   website: http://www.tsa.gov/research-center/freedom-information-act-foia
@@ -1017,6 +1008,7 @@ departments:
   name: Office of Biometric Identity Management
   phone: 202-295-5454
   public_liaison: 'Michael Johnson, Phone: (202) 295-5454'
+  reading_rooms: []
   service_center: 'Phone: (202) 295-5454'
   top_level: false
   website: http://www.dhs.gov/files/programs/usv.shtm
@@ -1235,6 +1227,7 @@ keywords:
 name: Department of Homeland Security
 phone: 202-343-1743
 public_liaison: 'Phone: (202) 343-1743, (866) 431-0486'
+reading_rooms: []
 request_form: http://www.dhs.gov/make-foia-request
 request_time_stats:
   '2008':

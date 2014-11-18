@@ -11,6 +11,7 @@ departments:
   name: Office of Special Counsel
   phone: 202-254-3716
   public_liaison: 'Kenneth Hendricks, Phone: (202) 254-3733'
+  reading_rooms: []
   service_center: 'Phone: (202) 254-3716'
   top_level: false
   website: http://www.osc.gov/Pages/FOIA-Resources.aspx
@@ -27,4 +28,5 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: Office of Special Counsel
+reading_rooms: []
 usa_id: '49593'

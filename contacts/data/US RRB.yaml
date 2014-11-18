@@ -11,8 +11,7 @@ departments:
   phone: 312-751-4936
   public_liaison: 'Marguerite P. Dadabo, Phone: (312) 751-4936'
   reading_rooms:
-  - !!python/tuple
-    - RRB Reading Room
+  - - RRB Reading Room
     - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   service_center: 'Phone: (312) 751-4948'
@@ -29,8 +28,7 @@ departments:
   phone: 312-751-4350
   public_liaison: 'Phone: (312) 751-4350'
   reading_rooms:
-  - !!python/tuple
-    - RRB Reading Room
+  - - RRB Reading Room
     - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   service_center: 'Phone: (312) 751-4350'
@@ -91,6 +89,7 @@ keywords:
 - Vocational rehabilitation
 - Wages
 name: Railroad Retirement Board
+reading_rooms: []
 request_form: https://secure.rrb.gov/efoia/
 request_time_stats:
   '2008':

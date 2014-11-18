@@ -14,8 +14,7 @@ departments:
   phone: 202-523-5725
   public_liaison: 'Rachel Dickon, Phone: (202) 523-5725'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.fmc.gov/electronic_reading_room/default1.aspx
   service_center: 'Phone: (202) 523-5707'
   top_level: false
@@ -23,6 +22,7 @@ departments:
 description: The Commission is responsible for the regulation of ocean-borne transportation
   in the foreign commerce of the U.S.
 name: Federal Maritime Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '24'

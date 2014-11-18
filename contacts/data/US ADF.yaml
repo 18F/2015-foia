@@ -11,6 +11,7 @@ departments:
   name: United States African Development Foundation
   phone: 202-673-3916
   public_liaison: 'Phone: (202) 673-3916'
+  reading_rooms: []
   service_center: 'Phone: (202) 673-3916'
   top_level: false
   website: http://www.adf.gov/OpenGovernment.html
@@ -29,6 +30,7 @@ keywords:
 - Lebanon
 - Loan programs
 name: United States African Development Foundation
+reading_rooms: []
 request_time_stats:
   '2010':
     Simple-Average No. of Days: '9'

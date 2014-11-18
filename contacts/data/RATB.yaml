@@ -11,6 +11,7 @@ departments:
   name: Recovery Accountablity and Transparency Board
   phone: 202-254-7900
   public_liaison: 'Scott Britt, Phone: (202) 254-7900'
+  reading_rooms: []
   service_center: 'Phone: (202) 254-7900'
   top_level: false
   website: http://www.recovery.gov/Pages/foia.aspx
@@ -24,6 +25,7 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: Recovery Accountability and Transparency Board
+reading_rooms: []
 request_time_stats:
   '2011':
     Complex-Average No. of Days: '11'

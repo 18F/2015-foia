@@ -14,8 +14,7 @@ departments:
   phone: 202-273-3840
   public_liaison: 'Diane Bridge, Phone: (202) 273-3851'
   reading_rooms:
-  - !!python/tuple
-    - E-Reading Room
+  - - E-Reading Room
     - http://www.nlrb.gov/news-outreach/foia/e-reading-room
   request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
   service_center: 'Phone: (202) 273-3843'
@@ -32,6 +31,7 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: National Labor Relations Board
+reading_rooms: []
 request_time_stats:
   '2010':
     Complex-Average No. of Days: '2'

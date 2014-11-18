@@ -19,8 +19,7 @@ departments:
   phone: 202-219-3078
   public_liaison: 'Audrey Corbett Brooks, Phone: (202) 205-5912'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.gsa.gov/portal/content/103776
   service_center: 'Phone: (855) 675-3642'
   top_level: false
@@ -169,5 +168,6 @@ keywords:
 - government forms
 - purchase cards
 name: General Services Administration
+reading_rooms: []
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 usa_id: '49048'

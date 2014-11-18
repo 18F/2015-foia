@@ -15,8 +15,7 @@ departments:
   phone: 202-295-1500
   public_liaison: 'Cheryl DuHart, Phone: (202) 295-1500'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Public Reading Room
+  - - FOIA Electronic Public Reading Room
     - http://www.lsc.gov/about/foia/electronic-public-reading-room
   request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
   service_center: 'Phone: (202) 295-1500'
@@ -39,4 +38,5 @@ keywords:
 - Migrant labor
 - Reporting and recordkeeping requirements
 name: Legal Services Corporation
+reading_rooms: []
 usa_id: '49442'

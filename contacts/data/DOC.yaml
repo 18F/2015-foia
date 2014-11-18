@@ -34,8 +34,7 @@ departments:
   phone: 301-763-2127
   public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.census.gov/foia/foia_library/
   request_form: http://www.census.gov/foia/foia_request.php
   service_center: 'Phone: (301) 763-2127'
@@ -56,6 +55,7 @@ departments:
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
   public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  reading_rooms: []
   service_center: 'Phone: (202) 482-5997'
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
@@ -95,6 +95,7 @@ departments:
   name: Economic Development Administration
   phone: 202-482-3085
   public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '19'
@@ -204,6 +205,7 @@ departments:
   name: Bureau of Industry and Security
   phone: 202-482-0953
   public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  reading_rooms: []
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
@@ -252,6 +254,7 @@ departments:
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '16'
@@ -314,8 +317,7 @@ departments:
   phone: 202-481-5045
   public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
   request_time_stats:
     '2008':
@@ -393,6 +395,7 @@ departments:
   name: National Institute of Standards and Technology
   phone: 301-975-4074
   public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '22'
@@ -452,8 +455,7 @@ departments:
   phone: 703-605-6710
   public_liaison: 'Steve Needle, Phone: (703) 605-6404'
   reading_rooms:
-  - !!python/tuple
-    - NTIS FOIA Electronic Reading Room
+  - - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
   request_time_stats:
     '2008':
@@ -538,6 +540,7 @@ departments:
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
   public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '18'
@@ -690,8 +693,7 @@ departments:
   phone: 301-713-3540
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.noaa.gov/foia/reading_room/index.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
@@ -797,6 +799,7 @@ departments:
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
   public_liaison: 'Dahlia George, Phone: (571) 272-3000'
+  reading_rooms: []
   service_center: 'Phone: (571) 272-3000'
   top_level: true
   usa_id: '48151'
@@ -815,8 +818,7 @@ departments:
   phone: 202-482-3470
   public_liaison: 'Laura Bell, Phone: (202) 482-3470'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   request_time_stats:
@@ -1142,8 +1144,7 @@ departments:
   phone: 202-482-3257
   public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Electronic Library (Formerly E-Reading Room)
+  - - FOIA Electronic Library (Formerly E-Reading Room)
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_time_stats:
     '2008':
@@ -1391,8 +1392,7 @@ name: Department of Commerce
 phone: 202-482-3258
 public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
 reading_rooms:
-- !!python/tuple
-  - FOIA Electronic Library (Formerly E-Reading Room)
+- - FOIA Electronic Library (Formerly E-Reading Room)
   - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
 service_center: 'Phone: (202) 482-3258'
 top_level: false

@@ -12,8 +12,7 @@ departments:
   phone: 202-456-6224
   public_liaison: 'Brooke Dorner, Phone: (202)456-6224'
   reading_rooms:
-  - !!python/tuple
-    - Proactive Disclosure Reading Room
+  - - Proactive Disclosure Reading Room
     - http://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
   service_center: 'Phone: (202)456-6224'
   top_level: false
@@ -29,6 +28,7 @@ keywords:
 - Freedom of information
 - Government employees
 name: Council on Environmental Quality
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '81'

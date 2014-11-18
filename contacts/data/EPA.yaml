@@ -20,8 +20,7 @@ departments:
   phone: 202-566-1667
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Reading Rooms
+  - - Reading Rooms
     - http://www.epa.gov/foia/reading_rooms.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 566-1667'
@@ -42,8 +41,7 @@ departments:
   phone: 617-918-1102
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.epa.gov/foia/reading.html
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (617) 918-1102'
@@ -63,8 +61,7 @@ departments:
   phone: 212-637-3668
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.epa.gov/region02/foia/reading_room.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (212) 637-3668'
@@ -84,8 +81,7 @@ departments:
   phone: 215-814-3424
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.epa.gov/region03/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (215) 814-3424'
@@ -105,11 +101,9 @@ departments:
   phone: 404-562-9891
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.epa.gov/region4/readingroom/index.htm
-  - !!python/tuple
-    - Reading Rooms
+  - - Reading Rooms
     - http://www.epa.gov/foia/reading_rooms.html
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (404) 562-9891'
@@ -129,11 +123,9 @@ departments:
   phone: 312-886-6686
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - EPA Electronic Reading Room
+  - - EPA Electronic Reading Room
     - http://www.epa.gov/foia/reading.html
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.epa.gov/region5/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (312) 886-6686'
@@ -152,6 +144,7 @@ departments:
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (214) 665-7202'
   top_level: false
@@ -169,8 +162,7 @@ departments:
   phone: 913-551-7860
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.epa.gov/region07/citizens/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (913) 551-7860'
@@ -188,6 +180,7 @@ departments:
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (303) 312-6856'
   top_level: false
@@ -205,6 +198,7 @@ departments:
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (415) 947-4251'
   top_level: false
@@ -222,6 +216,7 @@ departments:
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms: []
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (206) 553-8665'
   top_level: false
@@ -446,8 +441,7 @@ name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
 reading_rooms:
-- !!python/tuple
-  - Reading Rooms
+- - Reading Rooms
   - http://www.epa.gov/foia/reading_rooms.html
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:

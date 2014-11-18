@@ -12,6 +12,7 @@ departments:
   name: AMTRAK (National Railroad Passenger Corporation)
   phone: 202-906-3741
   public_liaison: 'Sharron H. Hawkins, Phone: (202) 906-3740'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '228'
@@ -92,4 +93,5 @@ description: The National Railroad Passenger Corporation, Amtrak is a government
   corporation striving to deliver a high quality, safe, on-time rail passenger service
   that exceeds customer expectations. Learn all about Amtrak here from every angle.
 name: AMTRAK
+reading_rooms: []
 usa_id: '49084'

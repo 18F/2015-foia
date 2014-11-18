@@ -21,8 +21,7 @@ departments:
   phone: 202-632-7465
   public_liaison: 'Phone: (202) 632-7465'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 632-7465'
   top_level: false
@@ -42,8 +41,7 @@ departments:
   phone: 202-632-7728
   public_liaison: 'Raynell Lazier, Phone: (202) 461-6214'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -75,8 +73,7 @@ departments:
   phone: 202-491-9439
   public_liaison: 'Sean Burns, Phone: (202) 491-9439'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -150,8 +147,7 @@ departments:
   phone: 215-823-4146
   public_liaison: 'Timothy Graham, Phone: (215) 823-4146'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -225,8 +221,7 @@ departments:
   phone: 202-461-7442
   public_liaison: 'Inez Sidbury, Phone: (202) 461-7442'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-7442'
   top_level: false
@@ -244,8 +239,7 @@ departments:
   phone: 202-461-7430
   public_liaison: 'Nathan Naylor, Phone: (202) 461-7430'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-7430'
   top_level: false
@@ -263,8 +257,7 @@ departments:
   phone: 202-461-7379
   public_liaison: 'Fran Heimrich, Phone: (202) 461-7379'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008': {}
@@ -284,8 +277,7 @@ departments:
   phone: 202-461-6677
   public_liaison: 'Miriam Smith, Phone: (202) 461-6677'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-6677'
   top_level: false
@@ -303,8 +295,7 @@ departments:
   phone: 202-590-8793
   public_liaison: 'Kelli Emery, Phone: (202) 590-8793'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 590-8793'
   top_level: false
@@ -322,8 +313,7 @@ departments:
   phone: 202-461-5170
   public_liaison: 'Cynthia Manurs, Phone: (202)461-5170'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202)461-5170'
   top_level: false
@@ -341,8 +331,7 @@ departments:
   phone: 202-461-6432
   public_liaison: 'Karen Barber, Phone: (202) 461-6432'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-6432'
   top_level: false
@@ -362,8 +351,7 @@ departments:
   phone: 215-842-2000
   public_liaison: 'Timothy Clifton, Phone: (215) 842-2000 ext 4503'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (215) 842-2000 ext 4503'
   top_level: false
@@ -383,8 +371,7 @@ departments:
   phone: 202-632-7465
   public_liaison: 'James Horan, Phone: (877) 750-3642'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (877) 750-3642'
   top_level: false
@@ -402,8 +389,7 @@ departments:
   phone: 202-632-7310
   public_liaison: 'Yolanda Johnson, Phone: (202) 632-7310'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 632-7310'
   top_level: false
@@ -421,8 +407,7 @@ departments:
   phone: 202-461-7863
   public_liaison: 'Jean Hayes, Phone: (202) 461-7863'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-7863'
   top_level: false
@@ -440,8 +425,7 @@ departments:
   phone: 202-461-4010
   public_liaison: 'Betty Cook, Phone: (202) 461-4010'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-4010'
   top_level: false
@@ -459,8 +443,7 @@ departments:
   phone: 202-501-2827
   public_liaison: 'Nigel Collie, Phone: (202) 501-2827'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -514,8 +497,7 @@ departments:
   phone: 202-461-5046
   public_liaison: 'Shelia Gaskins, Phone: (202) 461-5046'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-5046'
   top_level: false
@@ -533,8 +515,7 @@ departments:
   phone: 202-461-6587
   public_liaison: 'Tanya Al-Khateeb, Phone: (202) 461-6587'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-6587'
   top_level: false
@@ -552,8 +533,7 @@ departments:
   phone: 202-461-5918
   public_liaison: 'Stephanie Way, Phone: (202) 461-5198'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
@@ -609,8 +589,7 @@ departments:
   phone: 202-461-6619
   public_liaison: 'Pamela Balsley, Phone: (202) 461-6619'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-6619'
   top_level: false
@@ -630,8 +609,7 @@ departments:
   phone: 202-461-8212
   public_liaison: 'Lynn Buell, Phone: (202) 461-8212'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -656,8 +634,7 @@ departments:
   phone: 202-632-5286
   public_liaison: 'Richard Ha, Phone: (202) 632-5286'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 632-5286'
   top_level: false
@@ -675,8 +652,7 @@ departments:
   phone: 202-461-8111
   public_liaison: 'Margaret L. Peak, Phone: (202) 461-8111'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
@@ -702,8 +678,7 @@ departments:
   phone: 202-461-7717
   public_liaison: 'J. Thomas Burch, Jr., Phone: (202) 461-7717'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-7717'
   top_level: false
@@ -723,8 +698,7 @@ departments:
   phone: 202-461-4591
   public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   service_center: 'Phone: (202) 461-4591'
   top_level: false
@@ -744,8 +718,7 @@ departments:
   phone: 202-303-3260
   public_liaison: 'Karen Zhussanbay, Phone: (202) 303-3260 ext 5429'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009': {}
@@ -928,6 +901,9 @@ keywords:
 name: Department of Veterans Affairs
 phone: 202-632-7465
 public_liaison: 'Phone: (202) 632-7600'
+reading_rooms:
+- - FOIA Library
+  - http://www.oprm.va.gov/foia
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '2104'

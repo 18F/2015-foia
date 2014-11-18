@@ -12,8 +12,7 @@ departments:
   phone: 202-690-7453
   public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
   reading_rooms:
-  - !!python/tuple
-    - Electronic  FOIA Reading Room
+  - - Electronic  FOIA Reading Room
     - http://www.hhs.gov/foia/reading/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
@@ -65,8 +64,7 @@ departments:
   phone: 202-619-2541
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://oig.hhs.gov/foia/efoia.asp
   request_form: http://oig.hhs.gov/foia/submit.asp
   service_center: 'Phone: (202) 619-2541'
@@ -88,8 +86,7 @@ departments:
   phone: 202-401-4634
   public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
   request_time_stats:
     '2012':
@@ -146,6 +143,7 @@ departments:
   name: Administration for Children and Families
   phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
+  reading_rooms: []
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   request_time_stats:
     '2008':
@@ -236,8 +234,7 @@ departments:
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
@@ -327,8 +324,7 @@ departments:
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.cdc.gov/od/foia/reading.htm
   request_form: http://www.cdc.gov/od/foia/request/
   request_time_stats:
@@ -413,8 +409,7 @@ departments:
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.cdc.gov/od/foia/reading.htm
   service_center: 'Phone: (770) 488-6399'
   top_level: false
@@ -507,6 +502,9 @@ departments:
     visiting its website.
   phone: 410-786-5353
   public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
   service_center: 'Phone: (410) 786-5353'
   top_level: true
   usa_id: '49134'
@@ -619,8 +617,7 @@ departments:
   phone: 301-796-3900
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   request_time_stats:
@@ -740,6 +737,7 @@ departments:
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '18'
@@ -806,8 +804,7 @@ departments:
   phone: 301-443-1116
   public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
   reading_rooms:
-  - !!python/tuple
-    - EFOIA Reading Room
+  - - EFOIA Reading Room
     - http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_elec_read_room
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   request_time_stats:
@@ -903,8 +900,7 @@ departments:
   phone: 301-496-5633
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
   reading_rooms:
-  - !!python/tuple
-    - NIH FOIA Library
+  - - NIH FOIA Library
     - http://www.nih.gov/icd/od/foia/index.htm#foialibrary
   request_time_stats:
     '2008':
@@ -961,8 +957,7 @@ departments:
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
@@ -1003,6 +998,7 @@ departments:
   name: Substance Abuse and Mental Health Services Administration
   phone: 240-276-2137
   public_liaison: 'Jeanette Hite, Phone: (240) 276-2137'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '75'
@@ -1263,4 +1259,5 @@ keywords:
 - Yogurt
 - Youth
 name: Department of Health and Human Services
+reading_rooms: []
 usa_id: '49021'

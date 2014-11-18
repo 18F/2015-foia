@@ -21,8 +21,7 @@ departments:
   phone: 202-708-3866
   public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
@@ -93,8 +92,7 @@ departments:
   phone: 617-994-8218
   public_liaison: 'Kristine G. Foye, Phone: (617) 994-8218'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (617) 994-8218'
@@ -114,8 +112,7 @@ departments:
   phone: 212-542-7109
   public_liaison: 'Mirza Morales, Phone: (212) 542-7109'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (212) 542-7109'
@@ -135,8 +132,7 @@ departments:
   phone: 215-656-0600
   public_liaison: 'Brenda Laroche, Phone: (215) 656-0600'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (215) 656-0600'
@@ -157,8 +153,7 @@ departments:
   phone: 404-331-5001
   public_liaison: 'Thomacina Brown, Phone: (404) 331-5001, ext. 2380'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (404) 331-5001, ext. 2380'
@@ -179,8 +174,7 @@ departments:
   phone: 312-353-5680
   public_liaison: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (312) 353-5680, ext. 2139'
@@ -201,8 +195,7 @@ departments:
   phone: 817-978-5974
   public_liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (817) 978-5974, ext. 1010'
@@ -221,8 +214,7 @@ departments:
   phone: 913-551-5476
   public_liaison: 'Eugene (Gene) Lipscomb, Phone: (913) 551-5476'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (913) 551-5476'
@@ -241,8 +233,7 @@ departments:
   phone: 303-672-5440
   public_liaison: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (303) 672-5440, ext. 1442'
@@ -262,8 +253,7 @@ departments:
   phone: 916-498-7381
   public_liaison: 'Suzie Hernandez, Phone: (916) 498-7381'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (916) 498-7381'
@@ -283,8 +273,7 @@ departments:
   phone: 206-220-5101
   public_liaison: 'Patty Huster, Phone: (206) 220-5101'
   reading_rooms:
-  - !!python/tuple
-    - E-FOIA Reading Room
+  - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   service_center: 'Phone: (206) 220-5101'
@@ -424,8 +413,7 @@ notes: This office has additional FOIA contact information that can be found by 
 phone: 202-708-3866
 public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
 reading_rooms:
-- !!python/tuple
-  - E-FOIA Reading Room
+- - E-FOIA Reading Room
   - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
 request_form: https://hudpal.efoia-host.com/palMain.aspx
 request_time_stats:

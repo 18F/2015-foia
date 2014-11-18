@@ -16,8 +16,7 @@ departments:
   public_liaison: 'Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert
     Wehausen, or Christie Swafford, Phone: (202) 401-8365'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www2.ed.gov/policy/gen/leg/foia/readingroom.html
   request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
   service_center: 'Phone: (202) 401-8365'
@@ -102,6 +101,7 @@ keywords:
 - Wages
 - Women
 name: Department of Education
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '39'

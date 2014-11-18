@@ -14,6 +14,7 @@ departments:
   name: Commission on Civil Rights
   phone: 202-376-8351
   public_liaison: 'Lenore Ostrowsky, Phone: (202) 376-8591'
+  reading_rooms: []
   service_center: 'Phone: (202) 376-8351'
   top_level: false
   website: http://www.usccr.gov/foia/index.php
@@ -36,4 +37,5 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Commission on Civil Rights
+reading_rooms: []
 usa_id: '48018'

@@ -59,8 +59,7 @@ departments:
   phone: 202-208-4174
   public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.bia.gov/FOIA/ReadingRoom/index.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -187,8 +186,7 @@ departments:
   phone: 202-912-7650
   public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -303,11 +301,9 @@ departments:
   phone: 703-787-1315
   public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
   reading_rooms:
-  - !!python/tuple
-    - Deepwater Horizon Library and Reading Room
+  - - Deepwater Horizon Library and Reading Room
     - http://www.boem.gov/Deepwater-Reading-Room/
-  - !!python/tuple
-    - Library and Reading Room
+  - - Library and Reading Room
     - http://www.boem.gov/BOEM-Newsroom/Library/Library.aspx
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -373,8 +369,7 @@ departments:
   phone: 303-445-2056
   public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.usbr.gov/foia/readroom.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -488,8 +483,7 @@ departments:
   phone: 703-787-1689
   public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
   reading_rooms:
-  - !!python/tuple
-    - BSEE FOIA Reading Room    (Frequently Requested Documents)
+  - - BSEE FOIA Reading Room    (Frequently Requested Documents)
     - /About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -598,8 +592,7 @@ departments:
   phone: 703-358-2470
   public_liaison: 'Johnny Hunt, Phone: (703) 358-2504'
   reading_rooms:
-  - !!python/tuple
-    - FWS FOIA Library
+  - - FWS FOIA Library
     - http://www.fws.gov/irm/bpim/foiaread.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 358-2504'
@@ -622,6 +615,7 @@ departments:
     visiting its website.
   phone: 703-648-7196
   public_liaison: 'Joye Durant, Phone: (703) 648-7196'
+  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 648-7196'
   top_level: false
@@ -678,8 +672,7 @@ departments:
   phone: 303-969-2959
   public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
   reading_rooms:
-  - !!python/tuple
-    - NPS FOIA Library
+  - - NPS FOIA Library
     - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -761,8 +754,7 @@ departments:
   phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
   reading_rooms:
-  - !!python/tuple
-    - OIG FOIA Library
+  - - OIG FOIA Library
     - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-0954'
@@ -821,8 +813,7 @@ departments:
   phone: 303-231-3078
   public_liaison: 'Richard Lopez, Phone: (303) 231-3078'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room (EFOIA)
+  - - Electronic Reading Room (EFOIA)
     - http://www.onrr.gov/FOIA/EFOIA/default.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (303) 231-3078'
@@ -842,6 +833,7 @@ departments:
   name: Office of the Secretary
   phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
+  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -915,11 +907,9 @@ departments:
   phone: 202-208-5817
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
   reading_rooms:
-  - !!python/tuple
-    - DOI FOIA Library
+  - - DOI FOIA Library
     - http://www.doi.gov/foia/doi-foia-library.cfm
-  - !!python/tuple
-    - OS FOIA Library
+  - - OS FOIA Library
     - http://www.doi.gov/foia/os/index.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -968,6 +958,7 @@ departments:
     visiting its website.
   phone: 202-208-5840
   public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
+  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1018,6 +1009,7 @@ departments:
     visiting its website.
   phone: 505-816-1645
   public_liaison: Veronica Herkshan
+  reading_rooms: []
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (505) 816-1645'
   top_level: false
@@ -1223,4 +1215,5 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Interior
+reading_rooms: []
 usa_id: '49033'

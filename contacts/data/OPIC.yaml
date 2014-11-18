@@ -13,8 +13,7 @@ departments:
   phone: 202-336-8400
   public_liaison: 'Nichole Cadiente, Phone: (202) 336-8400'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading Room
+  - - FOIA Reading Room
     - http://www.opic.gov/content/foia-reading-room
   service_center: 'Phone: (202) 336-8400'
   top_level: false
@@ -30,6 +29,7 @@ keywords:
 - Government employees
 - Privacy
 name: Overseas Private Investment Corporation
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '26'

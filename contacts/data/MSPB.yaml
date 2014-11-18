@@ -16,6 +16,7 @@ departments:
   name: Headquarters
   phone: 202-254-4475
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -34,6 +35,7 @@ departments:
   name: Atlanta Regional Office
   phone: 404-730-2755
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -52,6 +54,7 @@ departments:
   name: Central Regional Office
   phone: 312-353-2924
   public_liaison: 'Betty Caplis, Phone: (312) 353-2924 ext. 3113'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -70,6 +73,7 @@ departments:
   name: Washington DC Regional Office
   phone: 703-756-7104
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -88,6 +92,7 @@ departments:
   name: Northeastern Regional Office
   phone: 215-597-9960
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -106,6 +111,7 @@ departments:
   name: Dallas Regional Office
   phone: 214-767-0810
   public_liaison: 'Crystal Wilson, Phone: (214) 767-0810 ext. 5100'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -124,6 +130,7 @@ departments:
   name: Western Regional Office
   phone: 415-904-6772
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -142,6 +149,7 @@ departments:
   name: New York Field Office
   phone: 212-264-6183
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -160,6 +168,7 @@ departments:
   name: Denver Field Office
   phone: 303-969-5101
   public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Bernard Parker, Phone: (202) 254-4475'
   top_level: false
@@ -183,6 +192,7 @@ keywords:
 name: Merit Systems Protection Board
 phone: 202-653-7200
 public_liaison: 'Bernard Parker, Phone: (202) 254-4475'
+reading_rooms: []
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 service_center: 'Bernard Parker, Phone: (202) 254-4475'
 top_level: false

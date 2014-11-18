@@ -13,8 +13,7 @@ departments:
   phone: 202-694-7088
   public_liaison: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Reading RoomMake a FOIA Request, browse our FOIA Annual Reports and view
+  - - FOIA Reading RoomMake a FOIA Request, browse our FOIA Annual Reports and view
       frequently requested information from the public
     - http://www.dnfsb.gov/foia-reading-room
   service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
@@ -30,6 +29,7 @@ keywords:
 - Courts
 - Government employees
 name: Defense Nuclear Facilities Safety Board
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '6.3'

@@ -16,8 +16,7 @@ departments:
   phone: 202-606-8322
   public_liaison: 'Lisette Voyatzis, Phone: (202) 606-8322'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library
+  - - FOIA Library
     - http://www.neh.gov/about/foia/library
   request_form: http://www.neh.gov/about/foia/submit-request-online
   service_center: 'Phone: (202) 606-8322'
@@ -27,6 +26,7 @@ description: NEH is an independent grant-making agency of the United States gove
   dedicated to supporting research, education, preservation, and public programs in
   the humanities.
 name: National Endowment for the Humanities
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '67'

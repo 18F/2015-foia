@@ -15,8 +15,7 @@ departments:
   phone: 202-314-6540
   public_liaison: 'Melba D. Moye, Phone: (202) 314-6540'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.ntsb.gov/foia/foia_err.html
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   service_center: 'Phone: (202) 314-6540'
@@ -50,6 +49,7 @@ keywords:
 - Railroad safety
 - Reporting and recordkeeping requirements
 name: National Transportation Safety Board
+reading_rooms: []
 request_time_stats:
   '2010':
     Complex-Average No. of Days: '241'

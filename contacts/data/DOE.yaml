@@ -14,8 +14,7 @@ departments:
   phone: 202-586-3159
   public_liaison: 'Kevin Hagerty, Phone: (202) 586-5955'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://energy.gov/management/management/office-management/operational-management/freedom-information-act/reading-room
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   request_time_stats:
@@ -93,11 +92,9 @@ departments:
   phone: 630-252-2041
   public_liaison: 'Brian Quirke, Phone: (630) 252-2423'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://science.energy.gov/isc/foia/electronic-reading-room/
-  - !!python/tuple
-    - ISC Conventional Reading Rooms
+  - - ISC Conventional Reading Rooms
     - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   service_center: 'Phone: (630) 252-2041'
@@ -116,11 +113,9 @@ departments:
   phone: 208-526-5190
   public_liaison: 'Clayton Ogilvie, Phone: (208) 526-5190'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room Documents
+  - - Electronic Reading Room Documents
     - http://www.id.doe.gov/foia/archive.htm
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.id.doe.gov/foia/read.htm
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   request_time_stats:
@@ -186,11 +181,9 @@ departments:
   phone: 865-576-1216
   public_liaison: 'DiAnn Fields, Phone: (865) 576-0885'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://science.energy.gov/isc/foia/electronic-reading-room/
-  - !!python/tuple
-    - ISC Conventional Reading Rooms
+  - - ISC Conventional Reading Rooms
     - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   request_time_stats:
@@ -272,6 +265,7 @@ departments:
   name: Office of Scientific and Technical Information
   phone: 865-576-8408
   public_liaison: 'David Gottholm, Phone: (865) 576-2623'
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '16'
@@ -321,8 +315,7 @@ departments:
   phone: 509-376-6288
   public_liaison: 'Richard Buel, Phone: (509) 376-3375'
   reading_rooms:
-  - !!python/tuple
-    - Electronic FOIA Reading Room
+  - - Electronic FOIA Reading Room
     - http://www.hanford.gov/?page=69
   request_form: http://www.hanford.gov/c.cfm/foia/
   request_time_stats:
@@ -372,6 +365,7 @@ departments:
   name: Savannah River Operations Office
   phone: 803-952-8134
   public_liaison: 'Lucy Knowles, Phone: (803) 952-7618'
+  reading_rooms: []
   request_form: http://sro.srs.gov/foiarequest.htm
   request_time_stats:
     '2008':
@@ -396,11 +390,9 @@ departments:
   phone: 505-845-6265
   public_liaison: 'Cynthia Brown, Phone: (866) 747-5994'
   reading_rooms:
-  - !!python/tuple
-    - Virtual Reading Room after to 2000
+  - - Virtual Reading Room after to 2000
     - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000
-  - !!python/tuple
-    - Virtual Reading Room prior to 2000
+  - - Virtual Reading Room prior to 2000
     - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   service_center: 'Phone: (866) 747-5994'
@@ -416,6 +408,7 @@ departments:
   name: National Nuclear Security Administration Office of Naval Reactors
   phone: 412-476-7202
   public_liaison: 'Jeffrey Avery, Phone: (202) 781-6236'
+  reading_rooms: []
   service_center: 'Phone: (202) 781-6172'
   top_level: false
   website: ''
@@ -433,8 +426,7 @@ departments:
   phone: 720-356-1427
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
   reading_rooms:
-  - !!python/tuple
-    - Golden Field Office Reading Room
+  - - Golden Field Office Reading Room
     - http://energy.gov/node/28747/
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   request_time_stats:
@@ -480,6 +472,7 @@ departments:
   name: Environmental Management Consolidated Business Center (EMCBC)
   phone: 513-246-0497
   public_liaison: 'Lynnette Chafin, Phone: (513) 246-0461'
+  reading_rooms: []
   request_form: https://www.emcbc.doe.gov/foia/foia_form.php
   service_center: 'Phone: (513) 246-0489'
   top_level: false
@@ -498,8 +491,7 @@ departments:
   phone: 503-230-7303
   public_liaison: 'Kim Winn, Phone: (503) 230-5273'
   reading_rooms:
-  - !!python/tuple
-    - FOIA Library and Resources
+  - - FOIA Library and Resources
     - http://www.bpa.gov/news/FOIA/library/Pages/default.aspx
   request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
   request_time_stats:
@@ -558,6 +550,7 @@ departments:
   name: Southeastern Power Administration
   phone: 706-213-3810
   public_liaison: 'Joel Seymour, Phone: (706) 213-3810'
+  reading_rooms: []
   request_form: http://www.sepa.doe.gov/request2.htm
   service_center: 'Phone: (706) 213-3810'
   top_level: false
@@ -576,11 +569,9 @@ departments:
   phone: 918-595-6609
   public_liaison: 'Larry Yadon, Phone: (918) 595-6607'
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.swpa.gov/viewfoiarequests.aspx
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.swpa.gov/viewfoiarequests.aspx#status
   request_form: http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm
   request_time_stats:
@@ -634,6 +625,7 @@ departments:
   name: Western Area Power Administration
   phone: 720-962-7010
   public_liaison: 'John D. Bremer, Phone: (720) 962-7010'
+  reading_rooms: []
   request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
   request_time_stats:
     '2008':
@@ -681,8 +673,7 @@ departments:
   phone: 504-734-4316
   public_liaison: 'Deanna Harvey, Phone: (504) 734-4316'
   reading_rooms:
-  - !!python/tuple
-    - Public Reading Room
+  - - Public Reading Room
     - http://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html
   request_form: http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm
   service_center: 'Phone: (504) 734-4316'
@@ -701,6 +692,7 @@ departments:
   name: National Energy Technology Laboratory
   phone: 412-386-6167
   public_liaison: 'Ann Dunlap, Phone: (412) 386-6167'
+  reading_rooms: []
   request_form: http://www.netl.doe.gov/home/foai-request-form
   request_time_stats:
     '2008':
@@ -885,6 +877,7 @@ keywords:
 - Women
 - Workers' compensation
 name: Department of Energy
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '86'

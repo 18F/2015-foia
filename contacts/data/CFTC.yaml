@@ -13,8 +13,7 @@ departments:
   phone: 202-418-5497
   public_liaison: 'Linda Mauldin, Phone: (202) 418-5497'
   reading_rooms:
-  - !!python/tuple
-    - Conventional and Electronic Reading Rooms
+  - - Conventional and Electronic Reading Rooms
     - /FOI/foiareadingrooms
   request_form: https://www.cftc.gov/FOI/request/index.htm
   service_center: 'Phone: (202) 418-5497'
@@ -73,6 +72,7 @@ keywords:
 - Trusts and trustees
 - Whistleblowing
 name: Commodity Futures Trading Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Simple-Average No. of Days: '23.7'

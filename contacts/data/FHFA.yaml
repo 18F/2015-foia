@@ -14,8 +14,7 @@ departments:
   phone: 202-649-3803
   public_liaison: 'Stacy J. Easter, Phone: (202) 649-3803'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room
+  - - Reading Room
     - http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
   request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
   service_center: 'Phone: (202) 649-3803'
@@ -74,6 +73,7 @@ keywords:
 - Truth in lending
 - Wages
 name: Federal Housing Finance Agency
+reading_rooms: []
 request_time_stats:
   '2009':
     Complex-Average No. of Days: '8'

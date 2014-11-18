@@ -12,6 +12,7 @@ departments:
   name: Main Office
   phone: 703-518-6540
   public_liaison: 'Linda Dent, Phone: (703) 518-6540'
+  reading_rooms: []
   service_center: 'Regina Metz, Phone: (703) 518-6540'
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
@@ -27,6 +28,7 @@ departments:
   name: Office of the Inspector General
   phone: 703-518-6540
   public_liaison: 'Phone: (703) 518-6540'
+  reading_rooms: []
   service_center: 'Phone: (703) 518-6540'
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
@@ -105,6 +107,7 @@ keywords:
 - Truth in savings
 - Wages
 name: National Credit Union Administration
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '30.5'

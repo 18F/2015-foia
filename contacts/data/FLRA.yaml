@@ -19,8 +19,7 @@ departments:
   phone: 202-218-7770
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   service_center: 'Phone: (202) 218-7770'
   top_level: false
@@ -38,8 +37,7 @@ departments:
   phone: 202-218-7910
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -88,8 +86,7 @@ departments:
   phone: 404-331-5300
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -139,8 +136,7 @@ departments:
   phone: 617-565-5100
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -190,8 +186,7 @@ departments:
   phone: 312-886-3465
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -241,8 +236,7 @@ departments:
   phone: 214-767-6266
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -292,8 +286,7 @@ departments:
   phone: 303-844-5226
   public_liaison: ''
   reading_rooms:
-  - !!python/tuple
-    - Electronic Reading Room
+  - - Electronic Reading Room
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
@@ -332,6 +325,7 @@ departments:
   name: San Francisco Regional Office
   phone: 415-356-5000
   public_liaison: ''
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '7'
@@ -378,6 +372,7 @@ departments:
   name: Washington Regional Office
   phone: 202-482-6700
   public_liaison: ''
+  reading_rooms: []
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '8'
@@ -420,6 +415,7 @@ departments:
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
   public_liaison: ''
+  reading_rooms: []
   service_center: 'Phone: (202) 218-7790'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -435,6 +431,7 @@ departments:
   name: Office of the Inspector General
   phone: 202-218-7770
   public_liaison: ''
+  reading_rooms: []
   service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -452,8 +449,7 @@ name: Federal Labor Relations Authority
 phone: 202-218-7770
 public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
 reading_rooms:
-- !!python/tuple
-  - Electronic Reading Room
+- - Electronic Reading Room
   - http://www.flra.gov/elibrary
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:

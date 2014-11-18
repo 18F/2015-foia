@@ -13,8 +13,7 @@ departments:
   phone: 202-502-6088
   public_liaison: 'Toyia Johnson, Phone: (202) 502-6088'
   reading_rooms:
-  - !!python/tuple
-    - Reading Room Material
+  - - Reading Room Material
     - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
   request_form: http://www.ferc.gov/legal/ceii-foia/foia/efoia.asp
   service_center: 'Phone: (202) 502-6088'
@@ -67,6 +66,7 @@ keywords:
 - Water pollution control
 - Water resources
 name: Federal Energy Regulatory Commission
+reading_rooms: []
 request_time_stats:
   '2008':
     Complex-Average No. of Days: '25'
