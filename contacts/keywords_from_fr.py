@@ -92,7 +92,7 @@ def normalize_and_map(keywords):
     for key in keywords.keys():
         normal_key = normalize_name(key)
         new_dictionary[normal_key] = \
-            keywords.get(key,[]) | set(new_dictionary.get(normal_key,[]))
+            keywords.get(key, []) | set(new_dictionary.get(normal_key, []))
     return new_dictionary
 
 
@@ -130,9 +130,9 @@ def build_keywords():
     dictionary of agency-name mapped to the set of applicable topics."""
     keywords = {}
     today = date.today()
-    this_year, this_month = today.year, today.month
+    # this_year, this_month = today.year, today.month
     # Do not cache this month as it'll change with each run
-    #for agency, topic in results_from_month(this_year, this_month):
+    # for agency, topic in results_from_month(this_year, this_month):
     #    if agency not in keywords:
     #        keywords[agency] = set()
     #    keywords[agency].add(topic)
