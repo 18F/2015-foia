@@ -12,8 +12,9 @@ import logging
 
 ACRONYM_FINDER = re.compile('\((.*?)\)')
 
+
 def float_to_int_str(number):
-    """converts input to ints and then to strings to clean xls data"""
+    """Converts input to ints and then to strings to clean xls data."""
     try:
         return str(int(float(number)))
     except:
@@ -21,7 +22,7 @@ def float_to_int_str(number):
 
 
 def extract_acronym(usa_name):
-    """extracts acronyms from a string if there is one"""
+    """Extracts acronyms from a string if there is one."""
     acronym_list = ACRONYM_FINDER.findall(usa_name)
     if len(acronym_list) == 1:
         return acronym_list[0]
@@ -32,7 +33,7 @@ def extract_acronym(usa_name):
 
 
 def load_all_usa_data():
-    """loads data from all_usa_data.json file """
+    """Loads data from all_usa_data.json file."""
     with open('usagov-data/all_usa_data.json', 'r') as f:
         all_usa_data = json.loads(f.read())
     data = {}
@@ -59,7 +60,7 @@ def load_usacontacts():
             for i in range(sheet.ncols)}
         row['usa_id'] = float_to_int_str(row['usa_id'])
 
-        if row.get('description',"No Description") == "":
+        if row.get('description', "No Description") == "":
             row['description'] = "No Description"
         data[row['fh_name']] = row
     return data
@@ -86,9 +87,11 @@ def merge_data():
                     break
     return usacontacts
 
-def update_dict(old_dict,new_dict):
-    """merge the data in the yaml files with the merged data
-    overwrites ids, acronyms, but not descriptions"""
+
+def update_dict(old_dict, new_dict):
+    """Merge the data in the yaml files with the merged data
+    overwrites ids, acronyms, but not descriptions."""
+
     if new_dict[old_dict['name']]['usa_id'] != '':
         old_dict['usa_id'] = new_dict[old_dict['name']]['usa_id']
 
@@ -105,19 +108,20 @@ def update_dict(old_dict,new_dict):
 
 
 def patch_yaml():
-    """patches yaml files with usa_id, correct acronyms,
-    and descriptions if there is none"""
+    """Patches yaml files with usa_id, correct acronyms,
+    and descriptions if there is none."""
+
     data = merge_data()
     for filename in glob("data" + os.sep + "*.yaml"):
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
             if yaml_data['name'] in data.keys():
-                yaml_data,data = update_dict(yaml_data,data)
+                yaml_data, data = update_dict(yaml_data, data)
                 del data[yaml_data['name']]
 
         for internal_data in yaml_data['departments']:
             if internal_data['name'] in data:
-                internal_data,data = update_dict(internal_data,data)
+                internal_data, data = update_dict(internal_data, data)
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
