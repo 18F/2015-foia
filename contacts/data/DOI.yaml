@@ -58,6 +58,9 @@ departments:
     visiting its website.
   phone: 202-208-4174
   public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
+  reading_rooms:
+  - - Reading Room
+    - http://www.bia.gov/FOIA/ReadingRoom/index.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -182,6 +185,9 @@ departments:
     visiting its website.
   phone: 202-912-7650
   public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
+  reading_rooms:
+  - - Reading Room
+    - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -294,6 +300,11 @@ departments:
     visiting its website.
   phone: 703-787-1315
   public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
+  reading_rooms:
+  - - Deepwater Horizon Library and Reading Room
+    - http://www.boem.gov/Deepwater-Reading-Room/
+  - - Library and Reading Room
+    - http://www.boem.gov/BOEM-Newsroom/Library/Library.aspx
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -357,6 +368,9 @@ departments:
     visiting its website.
   phone: 303-445-2056
   public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.usbr.gov/foia/readroom.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -468,6 +482,9 @@ departments:
     visiting its website.
   phone: 703-787-1689
   public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
+  reading_rooms:
+  - - BSEE FOIA Reading Room    (Frequently Requested Documents)
+    - /About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -574,6 +591,9 @@ departments:
     visiting its website.
   phone: 703-358-2470
   public_liaison: 'Johnny Hunt, Phone: (703) 358-2504'
+  reading_rooms:
+  - - FWS FOIA Library
+    - http://www.fws.gov/irm/bpim/foiaread.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (703) 358-2504'
   top_level: true
@@ -650,6 +670,9 @@ departments:
     visiting its website.
   phone: 303-969-2959
   public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
+  reading_rooms:
+  - - NPS FOIA Library
+    - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -729,6 +752,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
+  reading_rooms:
+  - - OIG FOIA Library
+    - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (202) 208-0954'
   top_level: false
@@ -785,6 +811,9 @@ departments:
     visiting its website.
   phone: 303-231-3078
   public_liaison: 'Richard Lopez, Phone: (303) 231-3078'
+  reading_rooms:
+  - - Electronic Reading Room (EFOIA)
+    - http://www.onrr.gov/FOIA/EFOIA/default.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center: 'Phone: (303) 231-3078'
   top_level: false
@@ -875,6 +904,11 @@ departments:
   name: Office of the Solicitor
   phone: 202-208-5817
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
+  reading_rooms:
+  - - DOI FOIA Library
+    - http://www.doi.gov/foia/doi-foia-library.cfm
+  - - OS FOIA Library
+    - http://www.doi.gov/foia/os/index.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':

@@ -11,6 +11,9 @@ departments:
   name: Office of the Secretary
   phone: 202-690-7453
   public_liaison: 'Michael J. Robinson, Phone: (202) 690-6885'
+  reading_rooms:
+  - - Electronic  FOIA Reading Room
+    - http://www.hhs.gov/foia/reading/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008':
@@ -60,6 +63,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-619-2541
   public_liaison: 'Robin Brooks, Phone: (202) 619-2541'
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://oig.hhs.gov/foia/efoia.asp
   request_form: http://oig.hhs.gov/foia/submit.asp
   service_center: 'Phone: (202) 619-2541'
   top_level: false
@@ -79,6 +85,9 @@ departments:
   name: Administration for Community Living
   phone: 202-401-4634
   public_liaison: 'Jason Bennett, Phone: (202) 401-4634'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
   request_time_stats:
     '2012':
       Simple-Average No. of Days: '5'
@@ -223,6 +232,9 @@ departments:
   name: Agency for Healthcare Research and Quality
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008':
@@ -310,6 +322,9 @@ departments:
   name: Centers for Disease Control and Prevention
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.cdc.gov/od/foia/reading.htm
   request_form: http://www.cdc.gov/od/foia/request/
   request_time_stats:
     '2008':
@@ -392,6 +407,9 @@ departments:
   name: Agency for Toxic Substances and Disease Registry
   phone: 770-488-6399
   public_liaison: 'Katherine Norris, Bruno Viana, Phone: (770) 488-6399'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.cdc.gov/od/foia/reading.htm
   service_center: 'Phone: (770) 488-6399'
   top_level: false
   website: http://www.cdc.gov/od/foia/index.htm
@@ -483,6 +501,9 @@ departments:
     visiting its website.
   phone: 410-786-5353
   public_liaison: 'Joseph Tripline, Phone: (410) 786-5353'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
   service_center: 'Phone: (410) 786-5353'
   top_level: true
   usa_id: '49134'
@@ -594,6 +615,9 @@ departments:
     visiting its website.
   phone: 301-796-3900
   public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   request_time_stats:
     '2008':
@@ -777,6 +801,9 @@ departments:
     visiting its website.
   phone: 301-443-1116
   public_liaison: 'Janet Ingersoll, Phone: (301) 443-6177'
+  reading_rooms:
+  - - EFOIA Reading Room
+    - http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_elec_read_room
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   request_time_stats:
     '2008':
@@ -870,6 +897,9 @@ departments:
     visiting its website.
   phone: 301-496-5633
   public_liaison: 'Susan Cornell, Phone: (301) 496-5633'
+  reading_rooms:
+  - - NIH FOIA Library
+    - http://www.nih.gov/icd/od/foia/index.htm#foialibrary
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '40'
@@ -924,6 +954,9 @@ departments:
   name: Program Support Center
   phone: 301-492-4800
   public_liaison: 'Carol Maloney, Phone: (301) 492-4800'
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008': {}

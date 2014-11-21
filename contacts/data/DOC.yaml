@@ -33,6 +33,9 @@ departments:
   name: Census Bureau
   phone: 301-763-2127
   public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.census.gov/foia/foia_library/
   request_form: http://www.census.gov/foia/foia_request.php
   service_center: 'Phone: (301) 763-2127'
   top_level: true
@@ -309,6 +312,9 @@ departments:
   name: Minority Business Development Agency
   phone: 202-481-5045
   public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.mbda.gov/freedom-information-act-reading-room
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '14'
@@ -443,6 +449,9 @@ departments:
   name: National Technical Information Service
   phone: 703-605-6710
   public_liaison: 'Steve Needle, Phone: (703) 605-6404'
+  reading_rooms:
+  - - NTIS FOIA Electronic Reading Room
+    - http://www.ntis.gov/about/foia/
   request_time_stats:
     '2008':
       Expedited Processing-Average No. of Days: '1'
@@ -677,6 +686,9 @@ departments:
   name: National Oceanic and Atmospheric Administration
   phone: 301-713-3540
   public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
+  reading_rooms:
+  - - Reading Room
+    - http://www.noaa.gov/foia/reading_room/index.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -798,6 +810,9 @@ departments:
   name: Office of Inspector General
   phone: 202-482-3470
   public_liaison: 'Laura Bell, Phone: (202) 482-3470'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   request_time_stats:
     '2008':
@@ -1121,6 +1136,9 @@ departments:
   name: Office of the Secretary
   phone: 202-482-3257
   public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
+  reading_rooms:
+  - - FOIA Electronic Library (Formerly E-Reading Room)
+    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '151'
@@ -1366,6 +1384,9 @@ keywords:
 name: Department of Commerce
 phone: 202-482-3258
 public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
+reading_rooms:
+- - FOIA Electronic Library (Formerly E-Reading Room)
+  - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
 service_center: 'Phone: (202) 482-3258'
 top_level: false
 usa_id: '52668'

@@ -23,6 +23,11 @@ departments:
     which was disestablished on August 31, 2011.
   phone: 866-574-4970
   public_liaison: 'Paul Jacobsmeyer, Phone: (571) 372-0462'
+  reading_rooms:
+  - - OSD/JS FOIA Library
+    - http://www.dod.gov/pubs/foi/foiaLibrary.html
+  - - Reading Room
+    - http://www.dod.gov/pubs/foi/rdroom.html
   request_form: http://www.dod.gov/pubs/foi/
   service_center: 'Phone: (866) 574-4970'
   top_level: true
@@ -70,6 +75,9 @@ departments:
     visiting its website.
   phone: 703-696-2735
   public_liaison: 'Anh Trinh, Phone: (703) 614-8500'
+  reading_rooms:
+  - - FOIA LIBRARY
+    - http://www.foia.af.mil/foialibrary/index.asp
   request_form: https://www.efoia.af.mil/palMain.aspx
   service_center: 'Phone: (703) 696-2735'
   top_level: false
@@ -136,6 +144,9 @@ departments:
     visiting its website.
   phone: 703-428-7128
   public_liaison: 'Bruno Leuyer, Phone: (703) 428-6462'
+  reading_rooms:
+  - - Reading Room
+    - https://www.rmda.army.mil/foia/FOIA_ReadingRoom/index.aspx
   service_center: 'Phone: (703) 428-6238'
   top_level: false
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
@@ -206,6 +217,11 @@ departments:
     visiting its website.
   phone: 703-614-4008
   public_liaison: 'Sally A. Hughes, Phone: (703) 614-4008'
+  reading_rooms:
+  - - HQMC FOIA Reading Room
+    - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAreadingroom.aspx
+  - - USMC FOIA Reading Room
+    - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAReadingRoom.aspx
   request_form: https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate
   service_center: 'Phone: (703) 614-4008'
   top_level: false
@@ -240,6 +256,9 @@ departments:
   name: Defense Commissary Agency
   phone: 804-734-8116
   public_liaison: 'William E. Sherman, Phone: (804) 734-8116'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.commissaries.com/foia/foia_err.cfm
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '28'
@@ -307,6 +326,9 @@ departments:
   name: Defense Contract Management Agency
   phone: 804-734-1488
   public_liaison: 'Melissa Walker, Phone: (804) 734-1487'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.dcma.mil/DCMAHQ/FOIA/reading_room.cfm
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '71'
@@ -385,6 +407,9 @@ departments:
     visiting its website.
   phone: 317-212-4591
   public_liaison: 'Gregory Outlaw, Phone: (317) 212-4591'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.dfas.mil/foia/foiareadingroom.html
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '39'
@@ -464,6 +489,9 @@ departments:
   name: Defense Information Systems Agency
   phone: 301-225-6104
   public_liaison: 'Robert S. Gorman, Phone: (301) 225-6116'
+  reading_rooms:
+  - - Reading Room
+    - http://www.disa.mil/About/Legal-and-Regulatory/Accessibility/FOIA-Reading-Room
   service_center: 'Phone: (301) 225-6104'
   top_level: false
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
@@ -481,6 +509,9 @@ departments:
   name: Defense Intelligence Agency
   phone: 301-394-5587
   public_liaison: 'Margaret A. Bestrain, Alesia Y. Williams, Phone: (301) 394-5587'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.dia.mil/FOIA/FOIAElectronicReadingRoom.aspx
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '516'
@@ -558,6 +589,9 @@ departments:
     visiting its website.
   phone: 703-767-5247
   public_liaison: 'Lewis Oleinick, Phone: (703) 767-6194'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.dla.mil/foia-privacy/Pages/FOIAReading.aspx
   service_center: 'Phone: (703) 767-5247, (703) 767-6183'
   top_level: false
   website: http://www.dla.mil/foia-privacy/
@@ -576,6 +610,9 @@ departments:
     visiting its website.
   phone: 571-305-6740
   public_liaison: 'Jay Fraude, Phone: (703) 325-5337'
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://www.dss.mil/about_dss/publications.html
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '25'
@@ -624,6 +661,9 @@ departments:
   name: Defense Threat Reduction Agency
   phone: 703-767-1771
   public_liaison: 'Richard M. Cole, Phone: (703) 767-5859'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.dtra.mil/Info/FOIA/ElectronicReadingRoom.aspx
   service_center: 'Phone: (703) 767-1792'
   top_level: false
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
@@ -641,6 +681,9 @@ departments:
   name: Defense Technical Information Center
   phone: 703-767-9204
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - ELECTRONIC                 READING ROOM
+    - http://www.dtic.mil/dtic/foiareadingroom.html
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '12'
@@ -801,6 +844,9 @@ departments:
   name: National Reconnaissance Office
   phone: 703-227-9326
   public_liaison: 'Patricia B. Cameresi, Phone: (703) 227-9128'
+  reading_rooms:
+  - - NRO Electronic Reading Room
+    - http://www.nro.gov/foia/reading-room.html
   request_form: http://www.nro.gov/foia/RequestInput.aspx
   request_time_stats:
     '2008':
@@ -977,6 +1023,11 @@ departments:
   name: Office of Inspector General
   phone: 866-993-7005
   public_liaison: 'Jeanne Miller, Phone: (703) 604-9785'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.dodig.mil/foia/readingroom.html
+  - - Reading Room
+    - http://www.dodig.mil/FOIA/readingroom.html
   request_form: http://www.dodig.mil/FOIA/submit.html
   service_center: 'Phone: (703) 604-9775'
   top_level: false
@@ -994,6 +1045,9 @@ departments:
   name: TRICARE Management Activity
   phone: 303-676-3418
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.tricare.mil/tma/privacy/FOIAeletric.aspx
   request_form: http://www.tricare.mil/tma/privacy/FOIARequestForm.aspx
   service_center: 'Phone: (303) 676-3674'
   top_level: false
@@ -1046,6 +1100,9 @@ departments:
   name: U.S. European Command
   phone: +49011 711-680-7161
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center/foia-reading-room
   service_center: 'Phone: 49 011 711 680-7161'
   top_level: false
   website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
@@ -1065,6 +1122,11 @@ departments:
     Joint Staff, whose contact information is located above.
   phone: 866-574-4970
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - OSD/JS FOIA Library
+    - http://www.dod.gov/pubs/foi/foiaLibrary.html
+  - - Reading Room
+    - http://www.dod.gov/pubs/foi/rdroom.html
   request_form: http://www.dod.gov/pubs/foi/
   service_center: 'Phone: (866) 574-4970'
   top_level: false
@@ -1083,6 +1145,11 @@ departments:
   name: U.S. Northern Command
   phone: 719-554-1785
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct/ReadingRoom/FOIALibrary.aspx
+  - - Reading Room
+    - http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct/ReadingRoom.aspx
   service_center: 'Phone: (719) 554-1785'
   top_level: false
   website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
@@ -1099,6 +1166,9 @@ departments:
   name: U.S. Pacific Command
   phone: 808-477-0995
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - Reading Room
+    - http://www.pacom.mil/Media/FreedomofInformationAct/FOIAReadingRoom.aspx
   service_center: 'Phone: (808) 477-0995'
   top_level: false
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
@@ -1149,6 +1219,9 @@ departments:
   name: U.S. Strategic Command
   phone: 402-294-6321
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - Reading Room
+    - http://www.stratcom.mil/foia/reading_room/
   service_center: 'Phone: (402) 294-6321'
   top_level: false
   website: http://www.stratcom.mil/foia/
@@ -1165,6 +1238,9 @@ departments:
   name: U.S. Transportation Command
   phone: 618-220-4100
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - Reading Room
+    - http://www.transcom.mil/foia/reading_room.cfm
   top_level: false
   website: http://www.transcom.mil/foia/
 description: The mission of the Department of Defense is to provide the military forces

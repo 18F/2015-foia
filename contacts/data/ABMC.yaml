@@ -11,6 +11,9 @@ departments:
   name: American Battle Monuments Commission
   phone: 703-696-6897
   public_liaison: 'Michael G. Conley, Phone: (703) 696-6778'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.abmc.gov/node/1005/foia-reading-room
   service_center: 'Phone: (703) 696-6897'
   top_level: false
   website: http://www.abmc.gov/foia

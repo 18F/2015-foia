@@ -13,6 +13,9 @@ departments:
   name: Court Services and Offender Supervision Agency
   phone: 202-220-5300
   public_liaison: 'Renee Barley, Phone: (202) 220-5300'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.csosa.gov/about/foia/reading-room.aspx
   request_form: http://www.csosa.gov/about/foia/foia-request-form.aspx
   service_center: 'Phone: (202) 220-5300'
   top_level: false

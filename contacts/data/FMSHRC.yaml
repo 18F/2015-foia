@@ -13,6 +13,9 @@ departments:
   name: Federal Mine Safety and Health Review Commission
   phone: 202-434-9935
   public_liaison: 'Emogene Johnson, Phone: (202) 434-9935'
+  reading_rooms:
+  - - E-Reading Room
+    - http://www.fmshrc.gov/foia/e-reading-room
   service_center: 'Phone: (202) 434-9935'
   top_level: false
   website: http://www.fmshrc.gov/foia

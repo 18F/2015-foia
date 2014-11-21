@@ -19,6 +19,9 @@ departments:
   name: National Headquarters
   phone: 202-566-1667
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Reading Rooms
+    - http://www.epa.gov/foia/reading_rooms.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 566-1667'
   top_level: false
@@ -37,6 +40,9 @@ departments:
   name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Reading Room
+    - http://www.epa.gov/foia/reading.html
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (617) 918-1102'
   top_level: false
@@ -54,6 +60,9 @@ departments:
   name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Reading Room
+    - http://www.epa.gov/region02/foia/reading_room.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (212) 637-3668'
   top_level: false
@@ -71,6 +80,9 @@ departments:
   name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Reading Room
+    - http://www.epa.gov/region03/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (215) 814-3424'
   top_level: false
@@ -88,6 +100,11 @@ departments:
   name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.epa.gov/region4/readingroom/index.htm
+  - - Reading Rooms
+    - http://www.epa.gov/foia/reading_rooms.html
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (404) 562-9891'
   top_level: false
@@ -105,6 +122,11 @@ departments:
   name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - EPA Electronic Reading Room
+    - http://www.epa.gov/foia/reading.html
+  - - Reading Room
+    - http://www.epa.gov/region5/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (312) 886-6686'
   top_level: false
@@ -138,6 +160,9 @@ departments:
   name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.epa.gov/region07/citizens/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   service_center: 'Phone: (913) 551-7860'
   top_level: false
@@ -411,6 +436,9 @@ keywords:
 name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+reading_rooms:
+- - Reading Rooms
+  - http://www.epa.gov/foia/reading_rooms.html
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':

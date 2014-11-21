@@ -14,6 +14,9 @@ departments:
   name: Federal Communications Commission
   phone: 202-418-0440
   public_liaison: 'Stephanie Kost, Phone: (202) 418-1379'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
   request_form: http://transition.fcc.gov/foia/#reqform
   service_center: 'Phone: (202) 418-0440, (202) 418-0212'
   top_level: false

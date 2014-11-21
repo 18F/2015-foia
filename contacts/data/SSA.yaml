@@ -14,6 +14,9 @@ departments:
   name: Social Security Administration
   phone: 410-965-1727
   public_liaison: 'Dawn S. Wiggins, Phone: (410) 965-1727'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.ssa.gov/foia/readingroom.html
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
   service_center: 'Rhonda Smith, Phone: (410) 966-4034'
   top_level: false

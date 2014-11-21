@@ -16,6 +16,9 @@ departments:
   name: Departmental Offices
   phone: 202-622-0930
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.treasury.gov/FOIA/Pages/reading_room.aspx
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (202) 622-0930'
   top_level: false
@@ -251,6 +254,9 @@ departments:
   name: Financial Crimes Enforcement Network
   phone: 703-905-3537
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  reading_rooms:
+  - - Reading Room Records
+    - http://www.fincen.gov/foia/foia_readingroom.html
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center: 'Phone: (703) 905-5034'
   top_level: true
@@ -411,6 +417,9 @@ departments:
     visiting its website.
   phone: (202) 317-3475
   public_liaison: 'Phone: (202) 317-3475'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.irs.gov/uac/Electronic-Reading-Room
   service_center: 'Phone: (202) 317-3475'
   top_level: false
   website: http://www.irs.gov/uac/IRS-Freedom-of-Information
@@ -429,6 +438,9 @@ departments:
   name: United States Mint
   phone: 202-354-4600
   public_liaison: 'Ryan Law, Phone: (202) 622-8098'
+  reading_rooms:
+  - - The Electronic Reading Room
+    - http://www.usmint.gov/FOIA/?action=room
   service_center: 'Phone: (202) 354-6788'
   top_level: true
   usa_id: '48150'
@@ -448,6 +460,9 @@ departments:
   name: Treasury Inspector General for Tax Administration
   phone: 202-622-4068
   public_liaison: 'Amy P. Jones, Phone: (202) 622-4068'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.treasury.gov/tigta/important_foia_err.shtml
   service_center: 'Phone: (202) 622-4068'
   top_level: false
   website: http://www.treasury.gov/tigta/important_foia.shtml

@@ -13,6 +13,9 @@ departments:
   name: United States International Boundary and Water Commission
   phone: 915-832-4729
   public_liaison: 'Rebecca Rizzuti, Phone: (915) 832-4729'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.ibwc.gov/Organization/FOIA_RR.html
   request_form: http://www.ibwc.gov/Organization/FOIA.html#How
   service_center: 'Rebecca Rizzuti, Phone: (915) 832-4729'
   top_level: false

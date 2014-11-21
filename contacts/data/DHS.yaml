@@ -55,6 +55,9 @@ departments:
     visiting its website.
   phone: 800-375-5283
   public_liaison: 'Jill Eggleston, Phone: (816) 350-5521'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.uscis.gov/about-us/electronic-reading-room
   service_center: 'Phone: (816) 350-5521 (USCIS National Customer Service Unit)'
   top_level: true
   usa_id: '49112'
@@ -201,6 +204,9 @@ departments:
   name: U.S. Coast Guard
   phone: 202-475-3522
   public_liaison: 'Gaston Brewer, Phone: (202) 475-3522'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.uscg.mil/foia/FOIA_Library.asp
   service_center: 'Amanda Ackerson, Phone: (202) 475-3522'
   top_level: true
   usa_id: '49149'
@@ -500,6 +506,11 @@ departments:
   name: Federal Law Enforcement Training Center
   phone: 912-267-3103
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
+  reading_rooms:
+  - - FOIA Library
+    - https://www.fletc.gov/foia-library
+  - - Freedom of Information Library
+    - https://www.fletc.gov/freedom-information-library
   request_form: http://www.fletc.gov/about/freedom-information-act-request
   request_time_stats:
     '2008':
@@ -566,6 +577,9 @@ departments:
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison: 'Fernando Pineiro, Phone: (202) 732-4265'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.ice.gov/foia/library
   request_form: http://www.ice.gov/webform/foia-request-form
   service_center: 'Louis Todd Fuss, Phone: (202) 732-4265'
   top_level: true
@@ -618,6 +632,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison: 'Aneet Thind, Phone: (202) 254-4001'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.dhs.gov/office-inspector-general-foia-documents
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '203.89'
@@ -699,6 +716,9 @@ departments:
   name: Office of Intelligence & Analysis
   phone: 202-447-4883
   public_liaison: 'Priscilla Waters, Phone: (202) 447-4190'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.dhs.gov/foia-library
   service_center: 'Phone: (202) 282-8191'
   top_level: false
   website: http://www.dhs.gov/xfoia/gc_1294073392661.shtm
@@ -765,6 +785,9 @@ departments:
   name: United States Secret Service
   phone: 202-406-6370
   public_liaison: 'Latita Payne, Phone: (202) 406-6370'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.secretservice.gov/foia_reading.shtml
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '309.44'
@@ -897,6 +920,9 @@ departments:
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison: 'Yvonne Coates, Phone: (866) 364-2872'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.tsa.gov/research-center/electronic-reading-room
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '55.42'

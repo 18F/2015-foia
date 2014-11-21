@@ -21,6 +21,9 @@ departments:
   name: Headquarters
   phone: 202-663-4634
   public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  reading_rooms:
+  - - EEOC's Reading Room
+    - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
   service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
@@ -370,6 +373,9 @@ keywords:
 name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+reading_rooms:
+- - EEOC's Reading Room
+  - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
 request_time_stats:
   '2010':
     Expedited Processing-Average No. of Days: '1'

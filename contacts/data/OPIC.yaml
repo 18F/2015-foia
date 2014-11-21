@@ -12,6 +12,9 @@ departments:
   name: Overseas Private Investment Corporation
   phone: 202-336-8400
   public_liaison: 'Nichole Cadiente, Phone: (202) 336-8400'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.opic.gov/content/foia-reading-room
   service_center: 'Phone: (202) 336-8400'
   top_level: false
   website: http://www.opic.gov/publications/foia

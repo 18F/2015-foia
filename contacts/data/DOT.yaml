@@ -19,6 +19,9 @@ departments:
   name: Office of the Secretary
   phone: 202-366-5546
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
+  reading_rooms:
+  - - OST Electronic Reading Room
+    - http://www.dot.gov/foia/ost-electronic-reading-room
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '1531'
@@ -87,6 +90,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-366-6131
   public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
+  reading_rooms:
+  - - OIG FOIA Electronic Reading Room
+    - https://www.oig.dot.gov/foia-electronic-reading-room
   request_form: https://www.oig.dot.gov/freedom-information-act
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
@@ -186,6 +192,9 @@ departments:
     visiting its website.
   phone: 202-267-9165
   public_liaison: 'Melanie Yohe, Phone: (202) 267-7799'
+  reading_rooms:
+  - - Visit the FOIA Library
+    - http://www.faa.gov/foia/electronic_reading_room/
   request_form: http://www.faa.gov/foia/foia_request/
   request_time_stats:
     '2008':
@@ -317,6 +326,9 @@ departments:
   name: Federal Highway Administration
   phone: 202-366-9048
   public_liaison: 'Alla Shaw, Phone: (202) 366-1042'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fhwa.dot.gov/foia/err.htm
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '5'
@@ -439,6 +451,9 @@ departments:
   name: Federal Railroad Administration
   phone: 202-493-6039
   public_liaison: 'Warren Flatau, Phone: (202) 493-6019'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fra.dot.gov/Page/P0388
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '113'
@@ -525,6 +540,9 @@ departments:
   name: Federal Transit Administration
   phone: 202-366-4022
   public_liaison: 'David Longo, Phone: (202) 366-0608'
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.fta.dot.gov/legislation_law/12316_8574.html
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '24'
@@ -625,6 +643,9 @@ departments:
   name: Federal Motor Carrier Safety Administration
   phone: 202-366-2960
   public_liaison: 'Duane DeBruyne, Phone: (202) 366-9999'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '92'
@@ -760,6 +781,9 @@ departments:
   name: National Highway Traffic Safety Administration
   phone: 202-366-1834
   public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
+  reading_rooms:
+  - - NHTSA Electronic Reading Room (ERR)
+    - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '15'
@@ -873,6 +897,9 @@ departments:
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
+  reading_rooms:
+  - - Maritime Administration Electronic Reading Room
+    - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '160'
@@ -987,6 +1014,9 @@ departments:
   name: Pipeline and Hazardous Materials Safety Administration
   phone: 202-366-6119
   public_liaison: 'Patricia Klinger, Phone: (202) 366-4831'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.phmsa.dot.gov/foia/e-reading-room
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '15'

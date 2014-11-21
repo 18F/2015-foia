@@ -13,6 +13,9 @@ departments:
     visiting its website.
   phone: 202-273-3840
   public_liaison: 'Diane Bridge, Phone: (202) 273-3851'
+  reading_rooms:
+  - - E-Reading Room
+    - http://www.nlrb.gov/news-outreach/foia/e-reading-room
   request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
   service_center: 'Phone: (202) 273-3843'
   top_level: false

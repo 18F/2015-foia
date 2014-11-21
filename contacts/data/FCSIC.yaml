@@ -13,6 +13,9 @@ departments:
   name: Farm Credit System Insurance Corporation
   phone: 703-883-4431
   public_liaison: 'Christine D. Quinn, Phone: (703) 883-4020'
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.fcsic.gov/FCSIC FOIA Reading Room.html
   service_center: 'Phone: (703) 883-4020'
   top_level: false
   website: http://www.fcsic.gov/FCSIC%20FOIA.html

@@ -11,6 +11,9 @@ departments:
   name: Council on Environmental Quality
   phone: 202-456-6224
   public_liaison: 'Brooke Dorner, Phone: (202)456-6224'
+  reading_rooms:
+  - - Proactive Disclosure Reading Room
+    - http://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
   service_center: 'Phone: (202)456-6224'
   top_level: false
   website: http://www.whitehouse.gov/administration/eop/ceq/foia/

@@ -15,6 +15,9 @@ departments:
   name: National Endowment for the Humanities
   phone: 202-606-8322
   public_liaison: 'Lisette Voyatzis, Phone: (202) 606-8322'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.neh.gov/about/foia/library
   request_form: http://www.neh.gov/about/foia/submit-request-online
   service_center: 'Phone: (202) 606-8322'
   top_level: false

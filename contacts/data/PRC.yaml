@@ -12,6 +12,9 @@ departments:
   name: Postal Regulatory Commission
   phone: 202-789-6800
   public_liaison: 'Jennie Jbara, Phone: (202) 789-6800'
+  reading_rooms:
+  - - FOIA Library
+    - http://www.prc.gov/prc-pages/misc/foia/travellog.pdf
   request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
   service_center: 'Phone: (202) 789-6800'
   top_level: false

@@ -13,6 +13,9 @@ departments:
   name: Main Office
   phone: 202-692-1236
   public_liaison: 'Denora Miller, Phone: (202) 692-1236'
+  reading_rooms:
+  - - Reading Room
+    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   service_center: 'Phone: (202) 692-1236'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
@@ -28,6 +31,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-692-2922
   public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
+  reading_rooms:
+  - - Reading Room
+    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   service_center: 'Phone: (202) 692-2922'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia

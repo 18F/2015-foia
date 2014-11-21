@@ -14,6 +14,9 @@ departments:
   name: National Transportation Safety Board
   phone: 202-314-6540
   public_liaison: 'Melba D. Moye, Phone: (202) 314-6540'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.ntsb.gov/foia/foia_err.html
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   service_center: 'Phone: (202) 314-6540'
   top_level: false

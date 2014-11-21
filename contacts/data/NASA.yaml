@@ -67,6 +67,9 @@ departments:
   name: Ames Research Center
   phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
+  reading_rooms:
+  - - '> Electronic Reading Room'
+    - http://www.nasa.gov/centers/ames/business/foia/elec.html
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '30'
@@ -136,6 +139,9 @@ departments:
   name: Dryden Flight Research Center
   phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '35'
@@ -558,6 +564,9 @@ departments:
   name: Marshall Space Flight Center
   phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
+  reading_rooms:
+  - - + FOIA Library
+    - http://foia.msfc.nasa.gov/reading.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -694,6 +703,9 @@ departments:
   name: Stennis Space Center
   phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '220'
