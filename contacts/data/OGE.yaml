@@ -36,4 +36,42 @@ keywords:
 - Reporting and recordkeeping requirements
 - Trusts and trustees
 name: Office of Government Ethics
+request_time_stats:
+  '2008':
+    simple_average_days: '11'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '12.5'
+  '2009':
+    expedited_processing_average_days: '9'
+    expedited_processing_highest_days: '9'
+    expedited_processing_lowest_days: '9'
+    expedited_processing_median_days: '9'
+    simple_average_days: '12.4'
+    simple_highest_days: '30'
+    simple_median_days: '13'
+  '2010':
+    simple_average_days: '13.02'
+    simple_highest_days: '173'
+    simple_lowest_days: '1'
+    simple_median_days: '13.5'
+  '2011':
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '8'
+    expedited_processing_lowest_days: '8'
+    expedited_processing_median_days: '8'
+    simple_average_days: '12.097'
+    simple_highest_days: '54'
+    simple_lowest_days: '1'
+    simple_median_days: '9.5'
+  '2012':
+    simple_average_days: '10.959'
+    simple_highest_days: '43'
+    simple_lowest_days: '1'
+    simple_median_days: '9'
+  '2013':
+    simple_average_days: '8.6'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
 usa_id: '52646'

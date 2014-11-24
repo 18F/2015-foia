@@ -21,6 +21,43 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
+  request_time_stats:
+    '2008':
+      simple_average_days: '79'
+      simple_highest_days: '325'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2009':
+      simple_average_days: '146'
+      simple_highest_days: '1061'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2010':
+      simple_average_days: '27'
+      simple_highest_days: '250'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2011':
+      simple_average_days: '13'
+      simple_highest_days: '32'
+      simple_median_days: '13'
+    '2012':
+      complex_average_days: '66'
+      complex_highest_days: '156'
+      complex_lowest_days: '21'
+      complex_median_days: '12'
+      simple_average_days: '12'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '37.33'
+      complex_highest_days: '56'
+      complex_lowest_days: '18'
+      complex_median_days: '38'
+      simple_average_days: '10.64'
+      simple_highest_days: '49'
+      simple_median_days: '10'
   service_center: 'Phone: (202) 218-7770'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -41,34 +78,34 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '39'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '13'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
     '2009':
-      Simple-Average No. of Days: '3'
-      Simple-Highest No. of Days: '3'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '3'
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '2'
+      simple_median_days: '3'
     '2010':
-      Simple-Average No. of Days: '3'
-      Simple-Highest No. of Days: '8'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '2'
+      simple_average_days: '3'
+      simple_highest_days: '8'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
     '2011':
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '69'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '5'
+      simple_average_days: '13'
+      simple_highest_days: '69'
+      simple_lowest_days: '2'
+      simple_median_days: '5'
     '2012':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '8'
-      Simple-Lowest No. of Days: '8'
-      Simple-Median No. of Days: '8'
+      simple_average_days: '8'
+      simple_highest_days: '8'
+      simple_lowest_days: '8'
+      simple_median_days: '8'
     '2013':
-      Simple-Average No. of Days: '22'
-      Simple-Lowest No. of Days: '51'
-      Simple-Median No. of Days: '18'
+      simple_average_days: '22'
+      simple_highest_days: '51'
+      simple_median_days: '18'
   service_center: 'Phone: (202) 218-7910'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -90,35 +127,35 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '10'
-      Simple-Highest No. of Days: '19'
-      Simple-Lowest No. of Days: '5'
-      Simple-Median No. of Days: '8'
+      simple_average_days: '10'
+      simple_highest_days: '19'
+      simple_lowest_days: '5'
+      simple_median_days: '8'
     '2009':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '10'
-      Simple-Lowest No. of Days: '6'
-      Simple-Median No. of Days: '7'
+      simple_average_days: '8'
+      simple_highest_days: '10'
+      simple_lowest_days: '6'
+      simple_median_days: '7'
     '2010':
-      Simple-Average No. of Days: '3'
-      Simple-Highest No. of Days: '13'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '10'
+      simple_average_days: '3'
+      simple_highest_days: '13'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
     '2011':
-      Simple-Average No. of Days: '11'
-      Simple-Highest No. of Days: '16'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '14'
+      simple_average_days: '11'
+      simple_highest_days: '16'
+      simple_lowest_days: '4'
+      simple_median_days: '14'
     '2012':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '12'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '10'
+      simple_average_days: '8'
+      simple_highest_days: '12'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
     '2013':
-      Simple-Average No. of Days: '12'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '10'
+      simple_average_days: '12'
+      simple_highest_days: '20'
+      simple_lowest_days: '4'
+      simple_median_days: '10'
   service_center: 'Phone: (404) 331-5300'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -140,35 +177,35 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '9'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '8'
+      simple_highest_days: '9'
+      simple_lowest_days: '2'
+      simple_median_days: '9'
     '2009':
-      Simple-Average No. of Days: '7'
-      Simple-Highest No. of Days: '19'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '5'
+      simple_average_days: '7'
+      simple_highest_days: '19'
+      simple_lowest_days: '2'
+      simple_median_days: '5'
     '2010':
-      Simple-Average No. of Days: '12'
-      Simple-Highest No. of Days: '18'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '12'
+      simple_highest_days: '18'
+      simple_lowest_days: '4'
+      simple_median_days: '9'
     '2011':
-      Simple-Average No. of Days: '11'
-      Simple-Highest No. of Days: '17'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '11'
+      simple_average_days: '11'
+      simple_highest_days: '17'
+      simple_lowest_days: '4'
+      simple_median_days: '11'
     '2012':
-      Simple-Average No. of Days: '2'
-      Simple-Highest No. of Days: '3'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '2'
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
     '2013':
-      Simple-Average No. of Days: '3'
-      Simple-Highest No. of Days: '3'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '3'
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '3'
+      simple_median_days: '3'
   service_center: 'Phone: (617) 565-5100'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -190,35 +227,35 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '4'
-      Simple-Highest No. of Days: '9'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '3'
+      simple_average_days: '4'
+      simple_highest_days: '9'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
     '2009':
-      Simple-Average No. of Days: '1'
-      Simple-Highest No. of Days: '1'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '1'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
     '2010':
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '39'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '6'
+      simple_average_days: '13'
+      simple_highest_days: '39'
+      simple_lowest_days: '4'
+      simple_median_days: '6'
     '2011':
-      Simple-Average No. of Days: '3'
-      Simple-Highest No. of Days: '3'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '3'
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '3'
+      simple_median_days: '3'
     '2012':
-      Simple-Average No. of Days: '4'
-      Simple-Highest No. of Days: '7'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '3'
+      simple_average_days: '4'
+      simple_highest_days: '7'
+      simple_lowest_days: '2'
+      simple_median_days: '3'
     '2013':
-      Simple-Average No. of Days: '9.5'
-      Simple-Highest No. of Days: '10'
-      Simple-Lowest No. of Days: '9'
-      Simple-Median No. of Days: '9.5'
+      simple_average_days: '9.5'
+      simple_highest_days: '10'
+      simple_lowest_days: '9'
+      simple_median_days: '9.5'
   service_center: 'Phone: (312) 886-3465'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -240,35 +277,35 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '7'
-      Simple-Highest No. of Days: '7'
-      Simple-Lowest No. of Days: '7'
-      Simple-Median No. of Days: '7'
+      simple_average_days: '7'
+      simple_highest_days: '7'
+      simple_lowest_days: '7'
+      simple_median_days: '7'
     '2009':
-      Simple-Average No. of Days: '6'
-      Simple-Highest No. of Days: '6'
-      Simple-Lowest No. of Days: '6'
-      Simple-Median No. of Days: '6'
+      simple_average_days: '6'
+      simple_highest_days: '6'
+      simple_lowest_days: '6'
+      simple_median_days: '6'
     '2010':
-      Simple-Average No. of Days: '15'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '20'
+      simple_average_days: '15'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
     '2011':
-      Simple-Average No. of Days: '18'
-      Simple-Highest No. of Days: '18'
-      Simple-Lowest No. of Days: '18'
-      Simple-Median No. of Days: '18'
+      simple_average_days: '18'
+      simple_highest_days: '18'
+      simple_lowest_days: '18'
+      simple_median_days: '18'
     '2012':
-      Simple-Average No. of Days: '14'
-      Simple-Highest No. of Days: '17'
-      Simple-Lowest No. of Days: '12'
-      Simple-Median No. of Days: '14'
+      simple_average_days: '14'
+      simple_highest_days: '17'
+      simple_lowest_days: '12'
+      simple_median_days: '14'
     '2013':
-      Simple-Average No. of Days: '15'
-      Simple-Highest No. of Days: '18'
-      Simple-Lowest No. of Days: '13'
-      Simple-Median No. of Days: '14'
+      simple_average_days: '15'
+      simple_highest_days: '18'
+      simple_lowest_days: '13'
+      simple_median_days: '14'
   service_center: 'Phone: (214) 767-6266'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -290,25 +327,25 @@ departments:
     - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '9'
-      Simple-Highest No. of Days: '13'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '9'
+      simple_highest_days: '13'
+      simple_lowest_days: '4'
+      simple_median_days: '9'
     '2009':
-      Simple-Average No. of Days: '9'
-      Simple-Highest No. of Days: '9'
-      Simple-Lowest No. of Days: '9'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '9'
+      simple_highest_days: '9'
+      simple_lowest_days: '9'
+      simple_median_days: '9'
     '2010':
-      Simple-Average No. of Days: '12'
-      Simple-Highest No. of Days: '19'
-      Simple-Lowest No. of Days: '9'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '12'
+      simple_highest_days: '19'
+      simple_lowest_days: '9'
+      simple_median_days: '9'
     '2011': {}
     '2012': {}
     '2013':
-      Simple-Average No. of Days: '1'
-      Simple-Median No. of Days: '1'
+      simple_average_days: '1'
+      simple_median_days: '1'
   service_center: 'Phone: (303) 844-5226'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -327,34 +364,34 @@ departments:
   public_liaison: ''
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '7'
-      Simple-Highest No. of Days: '7'
-      Simple-Lowest No. of Days: '7'
-      Simple-Median No. of Days: '7'
+      simple_average_days: '7'
+      simple_highest_days: '7'
+      simple_lowest_days: '7'
+      simple_median_days: '7'
     '2009':
-      Simple-Average No. of Days: '11'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '9'
+      simple_average_days: '11'
+      simple_highest_days: '20'
+      simple_lowest_days: '3'
+      simple_median_days: '9'
     '2010':
-      Simple-Average No. of Days: '14'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '9'
-      Simple-Median No. of Days: '17'
+      simple_average_days: '14'
+      simple_highest_days: '20'
+      simple_lowest_days: '9'
+      simple_median_days: '17'
     '2011':
-      Simple-Average No. of Days: '20'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '20'
-      Simple-Median No. of Days: '20'
+      simple_average_days: '20'
+      simple_highest_days: '20'
+      simple_lowest_days: '20'
+      simple_median_days: '20'
     '2012':
-      Simple-Average No. of Days: '18'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '15'
-      Simple-Median No. of Days: '18'
+      simple_average_days: '18'
+      simple_highest_days: '20'
+      simple_lowest_days: '15'
+      simple_median_days: '18'
     '2013':
-      Simple-Average No. of Days: '4.17'
-      Simple-Lowest No. of Days: '8'
-      Simple-Median No. of Days: '3.5'
+      simple_average_days: '4.17'
+      simple_highest_days: '8'
+      simple_median_days: '3.5'
   service_center: 'Phone: (415) 356-5000'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -373,30 +410,30 @@ departments:
   public_liaison: ''
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '13'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '8'
+      simple_average_days: '8'
+      simple_highest_days: '13'
+      simple_lowest_days: '2'
+      simple_median_days: '8'
     '2009':
-      Simple-Average No. of Days: '1'
-      Simple-Highest No. of Days: '1'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '1'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
     '2010':
-      Simple-Average No. of Days: '14'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '20'
+      simple_average_days: '14'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
     '2011':
-      Simple-Average No. of Days: '1'
-      Simple-Highest No. of Days: '1'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '1'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
     '2012':
-      Simple-Average No. of Days: '1'
-      Simple-Highest No. of Days: '2'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '1'
+      simple_average_days: '1'
+      simple_highest_days: '2'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
     '2013': {}
   service_center: 'Phone: (202) 482-6700'
   top_level: false
@@ -413,6 +450,31 @@ departments:
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      simple_average_days: '1'
+      simple_highest_days: '2'
+      simple_median_days: '1'
+    '2009':
+      simple_average_days: '6'
+      simple_highest_days: '29'
+      simple_median_days: '1'
+    '2010':
+      simple_average_days: '2'
+      simple_highest_days: '7'
+      simple_median_days: '1'
+    '2011':
+      simple_average_days: '1'
+      simple_highest_days: '5'
+      simple_median_days: '1'
+    '2012':
+      simple_average_days: '4'
+      simple_highest_days: '20'
+      simple_median_days: '1'
+    '2013':
+      simple_average_days: '9.31'
+      simple_highest_days: '45'
+      simple_median_days: '3'
   service_center: 'Phone: (202) 218-7790'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -450,37 +512,37 @@ reading_rooms:
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
-    Simple-Average No. of Days: '28'
-    Simple-Highest No. of Days: '325'
-    Simple-Median No. of Days: '9'
+    simple_average_days: '28'
+    simple_highest_days: '325'
+    simple_median_days: '9'
   '2009':
-    Simple-Average No. of Days: '80'
-    Simple-Lowest No. of Days: '1061'
-    Simple-Median No. of Days: '10'
+    simple_average_days: '80'
+    simple_highest_days: '1061'
+    simple_median_days: '10'
   '2010':
-    Simple-Average No. of Days: '15'
-    Simple-Lowest No. of Days: '250'
-    Simple-Median No. of Days: '9'
+    simple_average_days: '15'
+    simple_highest_days: '250'
+    simple_median_days: '9'
   '2011':
-    Simple-Average No. of Days: '11'
-    Simple-Highest No. of Days: '69'
-    Simple-Median No. of Days: '12'
+    simple_average_days: '11'
+    simple_highest_days: '69'
+    simple_median_days: '12'
   '2012':
-    Complex-Average No. of Days: '21'
-    Complex-Lowest No. of Days: '156'
-    Complex-Median No. of Days: '66'
-    Simple-Average No. of Days: '11'
-    Simple-Highest No. of Days: '21'
-    Simple-Lowest No. of Days: '28'
-    Simple-Median No. of Days: '8'
+    complex_average_days: '66'
+    complex_highest_days: '156'
+    complex_lowest_days: '21'
+    complex_median_days: '21'
+    simple_average_days: '11'
+    simple_highest_days: '28'
+    simple_median_days: '8'
   '2013':
-    Complex-Average No. of Days: '18'
-    Complex-Lowest No. of Days: '56'
-    Complex-Median No. of Days: '37.33'
-    Simple-Average No. of Days: '10.71'
-    Simple-Highest No. of Days: '38'
-    Simple-Lowest No. of Days: '51'
-    Simple-Median No. of Days: '9'
+    complex_average_days: '37.33'
+    complex_highest_days: '56'
+    complex_lowest_days: '18'
+    complex_median_days: '38'
+    simple_average_days: '10.71'
+    simple_highest_days: '51'
+    simple_median_days: '9'
 service_center: 'Phone: (202) 218-7770'
 top_level: false
 usa_id: '52613'

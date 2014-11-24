@@ -99,4 +99,40 @@ keywords:
 - Wages
 - Women
 name: Small Business Administration
+request_time_stats:
+  '2008':
+    simple_average_days: '13.7'
+    simple_highest_days: '318'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2009':
+    expedited_processing_average_days: '4.5'
+    expedited_processing_highest_days: '7'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '4.5'
+    simple_average_days: '11.67'
+    simple_highest_days: '427'
+    simple_median_days: '8'
+  '2010':
+    simple_average_days: '12'
+    simple_highest_days: '297'
+    simple_median_days: '7'
+  '2011':
+    complex_average_days: '35.5'
+    complex_highest_days: '47'
+    complex_median_days: '47'
+    expedited_processing_average_days: '10.83'
+    expedited_processing_highest_days: '15'
+    expedited_processing_median_days: '12.5'
+    simple_average_days: '5.61'
+    simple_highest_days: '424'
+    simple_median_days: '2'
+  '2012':
+    simple_average_days: '4.2'
+    simple_highest_days: '222'
+    simple_median_days: '2'
+  '2013':
+    simple_average_days: '6.5'
+    simple_highest_days: '97'
+    simple_median_days: '5'
 usa_id: '48139'

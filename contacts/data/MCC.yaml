@@ -24,21 +24,21 @@ keywords:
 name: Millennium Challenge Corporation
 request_time_stats:
   '2010':
-    Simple-Average No. of Days: '17'
-    Simple-Lowest No. of Days: '259'
-    Simple-Median No. of Days: '6'
+    simple_average_days: '17'
+    simple_highest_days: '259'
+    simple_median_days: '6'
   '2011':
-    Simple-Average No. of Days: '14'
-    Simple-Highest No. of Days: '21'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '16'
+    simple_average_days: '14'
+    simple_highest_days: '21'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
   '2012':
-    Simple-Average No. of Days: '15'
-    Simple-Highest No. of Days: '21'
-    Simple-Lowest No. of Days: '3'
-    Simple-Median No. of Days: '17'
+    simple_average_days: '15'
+    simple_highest_days: '21'
+    simple_lowest_days: '3'
+    simple_median_days: '17'
   '2013':
-    Simple-Average No. of Days: '17'
-    Simple-Lowest No. of Days: '55'
-    Simple-Median No. of Days: '18'
+    simple_average_days: '17'
+    simple_highest_days: '55'
+    simple_median_days: '18'
 usa_id: '49460'

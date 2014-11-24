@@ -77,4 +77,12 @@ keywords:
 - credit cards
 - mortgage
 name: Consumer Financial Protection Bureau
+request_time_stats:
+  '2013':
+    complex_average_days: '31.07'
+    complex_highest_days: '128'
+    complex_median_days: '28'
+    simple_average_days: '8.36'
+    simple_highest_days: '41'
+    simple_median_days: '6.5'
 usa_id: '49113'

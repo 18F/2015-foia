@@ -36,4 +36,31 @@ keywords:
 - Privacy
 - Sunshine Act
 name: Commission on Civil Rights
+request_time_stats:
+  '2010':
+    simple_average_days: '15'
+    simple_highest_days: '161'
+    simple_lowest_days: '1'
+    simple_median_days: '7.5'
+  '2011':
+    complex_average_days: '40'
+    complex_highest_days: '742'
+    complex_median_days: '14'
+  '2012':
+    complex_average_days: '22'
+    complex_highest_days: '63'
+    complex_lowest_days: '3'
+    complex_median_days: '10'
+    simple_average_days: '7'
+    simple_highest_days: '6'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2013':
+    complex_average_days: '14'
+    complex_highest_days: '14'
+    complex_lowest_days: '14'
+    complex_median_days: '14'
+    simple_average_days: '3'
+    simple_highest_days: '21'
+    simple_median_days: '1'
 usa_id: '48018'

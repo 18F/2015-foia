@@ -45,14 +45,40 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '14'
-      Complex-Highest No. of Days: '43'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '13.5'
-      Expedited Processing-Average No. of Days: '2'
-      Expedited Processing-Highest No. of Days: '2'
-      Expedited Processing-Lowest No. of Days: '2'
-      Expedited Processing-Median No. of Days: '2'
+      complex_average_days: '14'
+      complex_highest_days: '43'
+      complex_lowest_days: '1'
+      complex_median_days: '13.5'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+    '2009':
+      complex_average_days: '16'
+      complex_highest_days: '90'
+      complex_median_days: '10.5'
+    '2010':
+      complex_average_days: '21.2'
+      complex_highest_days: '318'
+      complex_median_days: '15'
+    '2011':
+      complex_average_days: '30.57'
+      complex_highest_days: '193'
+      complex_lowest_days: '1'
+      complex_median_days: '26'
+    '2012':
+      complex_average_days: '15.68'
+      complex_highest_days: '120'
+      complex_median_days: '12'
+    '2013':
+      complex_average_days: '38.19'
+      complex_highest_days: '324'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      simple_average_days: '23.75'
+      simple_highest_days: '46'
+      simple_lowest_days: '7'
+      simple_median_days: '20'
   service_center: 'Phone: (202) 461-6214'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -77,56 +103,56 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '29'
-      Complex-Highest No. of Days: '2104'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '10.5'
-      Expedited Processing-Average No. of Days: '1'
-      Expedited Processing-Highest No. of Days: '72'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '1'
+      complex_average_days: '29'
+      complex_highest_days: '2104'
+      complex_lowest_days: '1'
+      complex_median_days: '10.5'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '72'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
     '2009':
-      Complex-Average No. of Days: '5'
-      Complex-Highest No. of Days: '18'
-      Complex-Lowest No. of Days: '3'
-      Complex-Median No. of Days: '5'
-      Simple-Average No. of Days: '30'
-      Simple-Highest No. of Days: '793'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '397'
+      complex_average_days: '30'
+      complex_highest_days: '793'
+      complex_lowest_days: '1'
+      complex_median_days: '397'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '5'
     '2010':
-      Complex-Average No. of Days: '121'
-      Complex-Median No. of Days: '36.88'
-      Simple-Average No. of Days: '19.96'
-      Simple-Highest No. of Days: '13.5'
-      Simple-Lowest No. of Days: '397'
-      Simple-Median No. of Days: '7'
+      complex_average_days: '19.96'
+      complex_highest_days: '397'
+      complex_median_days: '7'
+      expedited_processing_average_days: '36.88'
+      expedited_processing_highest_days: '121'
+      expedited_processing_median_days: '13.5'
     '2011':
-      Simple-Average No. of Days: '25.86'
-      Simple-Lowest No. of Days: '1748'
-      Simple-Median No. of Days: '7'
+      complex_average_days: '25.86'
+      complex_highest_days: '1748'
+      complex_median_days: '7'
     '2012':
-      Complex-Average No. of Days: '486'
-      Complex-Highest No. of Days: '246.33'
-      Complex-Lowest No. of Days: '345'
-      Complex-Median No. of Days: '41.32'
-      Expedited Processing-Average No. of Days: '393'
-      Expedited Processing-Median No. of Days: '1'
-      Simple-Average No. of Days: '34.71'
-      Simple-Highest No. of Days: '26'
-      Simple-Lowest No. of Days: '115'
-      Simple-Median No. of Days: '29'
+      complex_average_days: '41.32'
+      complex_highest_days: '486'
+      complex_median_days: '26'
+      expedited_processing_average_days: '246.33'
+      expedited_processing_highest_days: '393'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '345'
+      simple_average_days: '34.71'
+      simple_highest_days: '115'
+      simple_median_days: '29'
     '2013':
-      Complex-Average No. of Days: '778'
-      Complex-Highest No. of Days: '17.5'
-      Complex-Lowest No. of Days: '8.5'
-      Complex-Median No. of Days: '58.77'
-      Expedited Processing-Average No. of Days: '52'
-      Expedited Processing-Median No. of Days: '1'
-      Simple-Average No. of Days: '46.56'
-      Simple-Highest No. of Days: '33'
-      Simple-Lowest No. of Days: '254'
-      Simple-Median No. of Days: '22'
+      complex_average_days: '58.77'
+      complex_highest_days: '778'
+      complex_median_days: '33'
+      expedited_processing_average_days: '17.5'
+      expedited_processing_highest_days: '52'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '8.5'
+      simple_average_days: '46.56'
+      simple_highest_days: '254'
+      simple_median_days: '22'
   service_center: 'Phone: (202) 491-9439'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -151,60 +177,60 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '10'
-      Complex-Highest No. of Days: '1073'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '2'
-      Expedited Processing-Average No. of Days: '1'
-      Expedited Processing-Highest No. of Days: '107'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '1'
+      complex_average_days: '10'
+      complex_highest_days: '1073'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '107'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
     '2009':
-      Complex-Average No. of Days: '1'
-      Complex-Highest No. of Days: '136'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '1'
-      Simple-Average No. of Days: '10'
-      Simple-Highest No. of Days: '360'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '2'
+      complex_average_days: '10'
+      complex_highest_days: '360'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '136'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
     '2010':
-      Complex-Average No. of Days: '72'
-      Complex-Median No. of Days: '7.5'
-      Simple-Average No. of Days: '10.12'
-      Simple-Highest No. of Days: '1.5'
-      Simple-Lowest No. of Days: '379'
-      Simple-Median No. of Days: '2'
+      complex_average_days: '10.12'
+      complex_highest_days: '379'
+      complex_median_days: '2'
+      expedited_processing_average_days: '7.5'
+      expedited_processing_highest_days: '72'
+      expedited_processing_median_days: '1.5'
     '2011':
-      Complex-Average No. of Days: '682'
-      Complex-Highest No. of Days: '4.11'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '11.6'
-      Expedited Processing-Median No. of Days: '53'
-      Simple-Average No. of Days: '1.49'
-      Simple-Highest No. of Days: '4'
-      Simple-Lowest No. of Days: '8'
-      Simple-Median No. of Days: '0.5'
+      complex_average_days: '11.6'
+      complex_highest_days: '682'
+      complex_median_days: '4'
+      expedited_processing_average_days: '4.11'
+      expedited_processing_highest_days: '53'
+      expedited_processing_median_days: '1'
+      simple_average_days: '1.49'
+      simple_highest_days: '8'
+      simple_median_days: '0.5'
     '2012':
-      Complex-Average No. of Days: '733'
-      Complex-Highest No. of Days: '7.17'
-      Complex-Lowest No. of Days: '2'
-      Complex-Median No. of Days: '21.36'
-      Expedited Processing-Median No. of Days: '49'
-      Simple-Average No. of Days: '10.16'
-      Simple-Highest No. of Days: '8'
-      Simple-Lowest No. of Days: '444'
-      Simple-Median No. of Days: '4'
+      complex_average_days: '21.36'
+      complex_highest_days: '733'
+      complex_median_days: '8'
+      expedited_processing_average_days: '7.17'
+      expedited_processing_highest_days: '49'
+      expedited_processing_median_days: '2'
+      simple_average_days: '10.16'
+      simple_highest_days: '444'
+      simple_median_days: '4'
     '2013':
-      Complex-Average No. of Days: '1438'
-      Complex-Highest No. of Days: '36.39'
-      Complex-Lowest No. of Days: '12'
-      Complex-Median No. of Days: '25.96'
-      Expedited Processing-Median No. of Days: '176'
-      Simple-Average No. of Days: '15.88'
-      Simple-Highest No. of Days: '12'
-      Simple-Lowest No. of Days: '449'
-      Simple-Median No. of Days: '5'
+      complex_average_days: '25.96'
+      complex_highest_days: '1438'
+      complex_median_days: '12'
+      expedited_processing_average_days: '36.39'
+      expedited_processing_highest_days: '176'
+      expedited_processing_median_days: '12'
+      simple_average_days: '15.88'
+      simple_highest_days: '449'
+      simple_median_days: '5'
   service_center: 'Phone: (215) 823-4146'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -223,6 +249,16 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2009': {}
+    '2010': {}
+    '2011':
+      complex_average_days: '21.5'
+      complex_highest_days: '35'
+      complex_lowest_days: '8'
+      complex_median_days: '21.5'
+    '2012': {}
+    '2013': {}
   service_center: 'Phone: (202) 461-7442'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -261,6 +297,27 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008': {}
+    '2009': {}
+    '2010':
+      complex_average_days: '58'
+      complex_highest_days: '58'
+      complex_lowest_days: '58'
+      complex_median_days: '58'
+    '2011':
+      complex_average_days: '56'
+      complex_highest_days: '56'
+      complex_lowest_days: '56'
+      complex_median_days: '56'
+    '2012':
+      complex_average_days: '20'
+      complex_highest_days: '20'
+      complex_lowest_days: '20'
+      complex_median_days: '20'
+    '2013':
+      simple_average_days: '16'
+      simple_highest_days: '16'
+      simple_lowest_days: '16'
+      simple_median_days: '16'
   service_center: 'Phone: (202) 461-7379'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -315,6 +372,21 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2008': {}
+    '2009':
+      complex_average_days: '12'
+      complex_highest_days: '19'
+      complex_lowest_days: '5'
+      complex_median_days: '12'
+    '2010': {}
+    '2011': {}
+    '2012':
+      complex_average_days: '63'
+      complex_highest_days: '63'
+      complex_lowest_days: '63'
+      complex_median_days: '63'
+    '2013': {}
   service_center: 'Phone: (202)461-5170'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -373,6 +445,31 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2011':
+      complex_average_days: '20.66'
+      complex_highest_days: '328'
+      complex_median_days: '5'
+    '2012':
+      complex_average_days: '31.88'
+      complex_highest_days: '421'
+      complex_median_days: '9'
+      simple_average_days: '9.73'
+      simple_highest_days: '18'
+      simple_lowest_days: '2'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '23.9'
+      complex_highest_days: '281'
+      complex_median_days: '6'
+      expedited_processing_average_days: '104.5'
+      expedited_processing_highest_days: '115'
+      expedited_processing_lowest_days: '94'
+      expedited_processing_median_days: '104.5'
+      simple_average_days: '16.13'
+      simple_highest_days: '80'
+      simple_lowest_days: '1'
+      simple_median_days: '12.5'
   service_center: 'Phone: (877) 750-3642'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -391,6 +488,31 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '15.67'
+      complex_highest_days: '20'
+      complex_lowest_days: '10'
+      complex_median_days: '17'
+    '2011':
+      complex_average_days: '11.29'
+      complex_highest_days: '19'
+      complex_lowest_days: '4'
+      complex_median_days: '10'
+    '2012':
+      complex_average_days: '252.67'
+      complex_highest_days: '377'
+      complex_lowest_days: '4'
+      complex_median_days: '377'
+    '2013':
+      complex_average_days: '288'
+      complex_highest_days: '288'
+      complex_lowest_days: '288'
+      complex_median_days: '288'
+      simple_average_days: '61'
+      simple_highest_days: '61'
+      simple_lowest_days: '61'
+      simple_median_days: '61'
   service_center: 'Phone: (202) 632-7310'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -409,6 +531,45 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2008':
+      complex_average_days: '3'
+      complex_highest_days: '5'
+      complex_lowest_days: '2'
+      complex_median_days: '3'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+    '2009':
+      complex_average_days: '3'
+      complex_highest_days: '5'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+    '2010':
+      complex_average_days: '138.5'
+      complex_highest_days: '251'
+      complex_lowest_days: '26'
+      complex_median_days: '138.5'
+    '2011':
+      complex_average_days: '230.53'
+      complex_highest_days: '442'
+      complex_lowest_days: '15'
+      complex_median_days: '218'
+    '2012':
+      complex_average_days: '213'
+      complex_highest_days: '470'
+      complex_lowest_days: '5'
+      complex_median_days: '187'
+    '2013':
+      complex_average_days: '214'
+      complex_highest_days: '470'
+      complex_lowest_days: '85'
+      complex_median_days: '87'
+      simple_average_days: '279'
+      simple_highest_days: '279'
+      simple_lowest_days: '279'
+      simple_median_days: '279'
   service_center: 'Phone: (202) 461-7863'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -427,6 +588,20 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2009': {}
+    '2010': {}
+    '2011':
+      complex_average_days: '7'
+      complex_highest_days: '7'
+      complex_lowest_days: '7'
+      complex_median_days: '7'
+    '2012': {}
+    '2013':
+      complex_average_days: '28'
+      complex_highest_days: '28'
+      complex_lowest_days: '28'
+      complex_median_days: '28'
   service_center: 'Phone: (202) 461-4010'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -447,40 +622,40 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '5'
-      Complex-Highest No. of Days: '6'
-      Complex-Lowest No. of Days: '2'
-      Complex-Median No. of Days: '4'
+      complex_average_days: '5'
+      complex_highest_days: '6'
+      complex_lowest_days: '2'
+      complex_median_days: '4'
     '2009':
-      Simple-Average No. of Days: '17.25'
-      Simple-Highest No. of Days: '49'
-      Simple-Lowest No. of Days: '18'
-      Simple-Median No. of Days: '17'
+      complex_average_days: '17.25'
+      complex_highest_days: '49'
+      complex_lowest_days: '18'
+      complex_median_days: '17'
     '2010':
-      Simple-Average No. of Days: '19.75'
-      Simple-Lowest No. of Days: '77'
-      Simple-Median No. of Days: '14'
+      complex_average_days: '19.75'
+      complex_highest_days: '77'
+      complex_median_days: '14'
     '2011':
-      Simple-Average No. of Days: '13.53'
-      Simple-Lowest No. of Days: '38'
-      Simple-Median No. of Days: '13'
+      complex_average_days: '13.53'
+      complex_highest_days: '38'
+      complex_median_days: '13'
     '2012':
-      Complex-Average No. of Days: '10.18'
-      Complex-Lowest No. of Days: '22'
-      Complex-Median No. of Days: '9'
-      Simple-Average No. of Days: '10'
-      Simple-Highest No. of Days: '10'
-      Simple-Lowest No. of Days: '10'
-      Simple-Median No. of Days: '10'
+      complex_average_days: '10.18'
+      complex_highest_days: '22'
+      complex_median_days: '9'
+      simple_average_days: '10'
+      simple_highest_days: '10'
+      simple_lowest_days: '10'
+      simple_median_days: '10'
     '2013':
-      Complex-Average No. of Days: '17.5'
-      Complex-Highest No. of Days: '37'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '16'
-      Simple-Average No. of Days: '19.11'
-      Simple-Highest No. of Days: '40'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '14'
+      complex_average_days: '17.5'
+      complex_highest_days: '37'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      simple_average_days: '19.11'
+      simple_highest_days: '40'
+      simple_lowest_days: '2'
+      simple_median_days: '14'
   service_center: 'Phone: (202) 501-2827'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -517,6 +692,30 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2009':
+      complex_average_days: '12'
+      complex_highest_days: '25'
+      complex_lowest_days: '1'
+      complex_median_days: '12.5'
+    '2010':
+      complex_average_days: '13.71'
+      complex_highest_days: '24'
+      complex_median_days: '13'
+    '2011':
+      complex_average_days: '21.62'
+      complex_highest_days: '46'
+      complex_lowest_days: '10'
+      complex_median_days: '16'
+    '2012':
+      complex_average_days: '12.07'
+      complex_highest_days: '32'
+      complex_median_days: '14'
+    '2013':
+      complex_average_days: '16.14'
+      complex_highest_days: '39'
+      complex_lowest_days: '3'
+      complex_median_days: '4'
   service_center: 'Phone: (202) 461-6587'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -537,42 +736,42 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
-      Simple-Average No. of Days: '20'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '20'
-      Simple-Median No. of Days: '20'
+      complex_average_days: '20'
+      complex_highest_days: '20'
+      complex_lowest_days: '20'
+      complex_median_days: '20'
     '2010':
-      Simple-Average No. of Days: '160'
-      Simple-Highest No. of Days: '180'
-      Simple-Lowest No. of Days: '125'
-      Simple-Median No. of Days: '175'
+      complex_average_days: '160'
+      complex_highest_days: '180'
+      complex_lowest_days: '125'
+      complex_median_days: '175'
     '2011':
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '8'
-      Simple-Lowest No. of Days: '8'
-      Simple-Median No. of Days: '8'
+      complex_average_days: '8'
+      complex_highest_days: '8'
+      complex_lowest_days: '8'
+      complex_median_days: '8'
     '2012':
-      Complex-Average No. of Days: '77.5'
-      Complex-Highest No. of Days: '142'
-      Complex-Lowest No. of Days: '13'
-      Complex-Median No. of Days: '77.5'
-      Simple-Average No. of Days: '82.5'
-      Simple-Highest No. of Days: '135'
-      Simple-Lowest No. of Days: '30'
-      Simple-Median No. of Days: '82.5'
+      complex_average_days: '77.5'
+      complex_highest_days: '142'
+      complex_lowest_days: '13'
+      complex_median_days: '77.5'
+      simple_average_days: '82.5'
+      simple_highest_days: '135'
+      simple_lowest_days: '30'
+      simple_median_days: '82.5'
     '2013':
-      Complex-Average No. of Days: '74'
-      Complex-Highest No. of Days: '74'
-      Complex-Lowest No. of Days: '74'
-      Complex-Median No. of Days: '74'
-      Expedited Processing-Average No. of Days: '5'
-      Expedited Processing-Highest No. of Days: '5'
-      Expedited Processing-Lowest No. of Days: '5'
-      Expedited Processing-Median No. of Days: '5'
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '13'
-      Simple-Lowest No. of Days: '13'
-      Simple-Median No. of Days: '13'
+      complex_average_days: '74'
+      complex_highest_days: '74'
+      complex_lowest_days: '74'
+      complex_median_days: '74'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '13'
+      simple_highest_days: '13'
+      simple_lowest_days: '13'
+      simple_median_days: '13'
   service_center: 'Phone: (202) 461-5198'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -591,6 +790,38 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2009':
+      complex_average_days: '46'
+      complex_highest_days: '53'
+      complex_lowest_days: '39'
+      complex_median_days: '46'
+    '2010':
+      complex_average_days: '55'
+      complex_highest_days: '175'
+      complex_median_days: '20'
+    '2011':
+      complex_average_days: '23.47'
+      complex_highest_days: '56'
+      complex_lowest_days: '5'
+      complex_median_days: '24'
+    '2012':
+      complex_average_days: '27.4'
+      complex_highest_days: '71'
+      complex_lowest_days: '2'
+      complex_median_days: '24'
+      simple_average_days: '33.33'
+      simple_highest_days: '48'
+      simple_lowest_days: '22'
+      simple_median_days: '30'
+    '2013':
+      complex_average_days: '17.94'
+      complex_highest_days: '41'
+      complex_median_days: '18'
+      simple_average_days: '14.2'
+      simple_highest_days: '33'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center: 'Phone: (202) 461-6619'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -613,10 +844,40 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '14.4'
-      Complex-Highest No. of Days: '90'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '9'
+      complex_average_days: '14.4'
+      complex_highest_days: '90'
+      complex_lowest_days: '1'
+      complex_median_days: '9'
+    '2009':
+      complex_average_days: '27'
+      complex_highest_days: '142'
+      complex_lowest_days: '1'
+      complex_median_days: '16.5'
+    '2010':
+      complex_average_days: '47.52'
+      complex_highest_days: '306'
+      complex_lowest_days: '2'
+      complex_median_days: '31'
+    '2011':
+      complex_average_days: '62.72'
+      complex_highest_days: '218'
+      complex_median_days: '66'
+    '2012':
+      complex_average_days: '98.67'
+      complex_highest_days: '226'
+      complex_lowest_days: '1'
+      complex_median_days: '77'
+      simple_average_days: '93.02'
+      simple_highest_days: '217'
+      simple_median_days: '103'
+    '2013':
+      complex_average_days: '132.36'
+      complex_highest_days: '564'
+      complex_lowest_days: '1'
+      complex_median_days: '102'
+      simple_average_days: '188.38'
+      simple_highest_days: '397'
+      simple_median_days: '189.5'
   service_center: 'Phone: (202) 461-8212'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -636,6 +897,42 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
+  request_time_stats:
+    '2009':
+      complex_average_days: '354'
+      complex_highest_days: '1583'
+      complex_lowest_days: '1'
+      complex_median_days: '352'
+    '2010':
+      complex_average_days: '59.8'
+      complex_highest_days: '571'
+      complex_median_days: '12.5'
+      expedited_processing_average_days: '21'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: '21'
+      expedited_processing_median_days: '21'
+    '2011':
+      complex_average_days: '32.38'
+      complex_highest_days: '321'
+      complex_median_days: '11'
+    '2012':
+      complex_average_days: '15.91'
+      complex_highest_days: '133'
+      complex_median_days: '6'
+      simple_average_days: '18.57'
+      simple_highest_days: '77'
+      simple_median_days: '5'
+    '2013':
+      complex_average_days: '37.76'
+      complex_highest_days: '313'
+      complex_median_days: '14.5'
+      expedited_processing_average_days: '65'
+      expedited_processing_highest_days: '87'
+      expedited_processing_lowest_days: '43'
+      expedited_processing_median_days: '65'
+      simple_average_days: '35.73'
+      simple_highest_days: '210'
+      simple_median_days: '12'
   service_center: 'Phone: (202) 632-5286'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -656,10 +953,10 @@ departments:
     - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '10'
-      Complex-Highest No. of Days: '24'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '8.5'
+      complex_average_days: '10'
+      complex_highest_days: '24'
+      complex_lowest_days: '1'
+      complex_median_days: '8.5'
   service_center: 'Phone: (202) 461-8111'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -723,25 +1020,25 @@ departments:
   request_time_stats:
     '2009': {}
     '2010':
-      Simple-Average No. of Days: '36'
-      Simple-Highest No. of Days: '36'
-      Simple-Lowest No. of Days: '36'
-      Simple-Median No. of Days: '36'
+      complex_average_days: '36'
+      complex_highest_days: '36'
+      complex_lowest_days: '36'
+      complex_median_days: '36'
     '2011':
-      Simple-Average No. of Days: '86.54'
-      Simple-Highest No. of Days: '299'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '49'
+      complex_average_days: '86.54'
+      complex_highest_days: '299'
+      complex_lowest_days: '3'
+      complex_median_days: '49'
     '2012':
-      Simple-Average No. of Days: '152.12'
-      Simple-Highest No. of Days: '309'
-      Simple-Lowest No. of Days: '17'
-      Simple-Median No. of Days: '149'
+      complex_average_days: '152.12'
+      complex_highest_days: '309'
+      complex_lowest_days: '17'
+      complex_median_days: '149'
     '2013':
-      Simple-Average No. of Days: '28.73'
-      Simple-Highest No. of Days: '109'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '17'
+      complex_average_days: '28.73'
+      complex_highest_days: '109'
+      complex_lowest_days: '3'
+      complex_median_days: '17'
   service_center: 'Phone: (202) 303-3260 ext 5429'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -906,55 +1203,55 @@ reading_rooms:
   - http://www.oprm.va.gov/foia
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: '2104'
-    Complex-Highest No. of Days: '107'
-    Complex-Lowest No. of Days: '1'
-    Complex-Median No. of Days: '1'
+    complex_highest_days: '2104'
+    complex_lowest_days: '1'
+    expedited_processing_highest_days: '107'
+    expedited_processing_lowest_days: '1'
   '2009':
-    Complex-Average No. of Days: '3.5'
-    Complex-Highest No. of Days: '136'
-    Complex-Lowest No. of Days: '1'
-    Complex-Median No. of Days: '1'
-    Simple-Average No. of Days: '36'
-    Simple-Highest No. of Days: '1583'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '55'
+    complex_average_days: '36'
+    complex_highest_days: '1583'
+    complex_lowest_days: '1'
+    complex_median_days: '55'
+    expedited_processing_average_days: '3.5'
+    expedited_processing_highest_days: '136'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '1'
   '2010':
-    Complex-Average No. of Days: '121'
-    Complex-Median No. of Days: '15.52'
-    Simple-Average No. of Days: '14.23'
-    Simple-Highest No. of Days: '3'
-    Simple-Lowest No. of Days: '571'
-    Simple-Median No. of Days: '4'
+    complex_average_days: '14.23'
+    complex_highest_days: '571'
+    complex_median_days: '4'
+    expedited_processing_average_days: '15.52'
+    expedited_processing_highest_days: '121'
+    expedited_processing_median_days: '3'
   '2011':
-    Complex-Average No. of Days: '1'
-    Complex-Highest No. of Days: '53'
-    Complex-Lowest No. of Days: '4.07'
-    Complex-Median No. of Days: '1748'
-    Simple-Average No. of Days: '8'
-    Simple-Highest No. of Days: '16.29'
-    Simple-Lowest No. of Days: '5'
-    Simple-Median No. of Days: '1.48'
+    complex_average_days: '16.29'
+    complex_highest_days: '1748'
+    complex_median_days: '5'
+    expedited_processing_average_days: '4.07'
+    expedited_processing_highest_days: '53'
+    expedited_processing_median_days: '1'
+    simple_average_days: '1.48'
+    simple_highest_days: '8'
   '2012':
-    Complex-Average No. of Days: '733'
-    Complex-Highest No. of Days: '34.77'
-    Complex-Lowest No. of Days: '2.5'
-    Complex-Median No. of Days: '28.1'
-    Expedited Processing-Median No. of Days: '393'
-    Simple-Average No. of Days: '10.61'
-    Simple-Highest No. of Days: '12'
-    Simple-Lowest No. of Days: '444'
-    Simple-Median No. of Days: '4'
+    complex_average_days: '28.1'
+    complex_highest_days: '733'
+    complex_median_days: '12'
+    expedited_processing_average_days: '34.77'
+    expedited_processing_highest_days: '393'
+    expedited_processing_median_days: '2.5'
+    simple_average_days: '10.61'
+    simple_highest_days: '444'
+    simple_median_days: '4'
   '2013':
-    Complex-Average No. of Days: '1438'
-    Complex-Highest No. of Days: '37.96'
-    Complex-Lowest No. of Days: '14'
-    Complex-Median No. of Days: '35.53'
-    Expedited Processing-Median No. of Days: '176'
-    Simple-Average No. of Days: '16.71'
-    Simple-Highest No. of Days: '16'
-    Simple-Lowest No. of Days: '699'
-    Simple-Median No. of Days: '5'
+    complex_average_days: '35.53'
+    complex_highest_days: '1438'
+    complex_median_days: '16'
+    expedited_processing_average_days: '37.96'
+    expedited_processing_highest_days: '176'
+    expedited_processing_median_days: '14'
+    simple_average_days: '16.71'
+    simple_highest_days: '699'
+    simple_median_days: '5'
 service_center: 'Phone: (202) 632-7600'
 top_level: false
 usa_id: '48027'

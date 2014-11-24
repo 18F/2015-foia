@@ -32,22 +32,22 @@ keywords:
 name: National Capital Planning Commission
 request_time_stats:
   '2010':
-    Simple-Average No. of Days: '3.5'
-    Simple-Highest No. of Days: '7'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '4'
+    simple_average_days: '3.5'
+    simple_highest_days: '7'
+    simple_lowest_days: '1'
+    simple_median_days: '4'
   '2011':
-    Simple-Average No. of Days: '6'
-    Simple-Highest No. of Days: '10'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '7'
+    simple_average_days: '6'
+    simple_highest_days: '10'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
   '2012':
-    Simple-Average No. of Days: '3'
-    Simple-Highest No. of Days: '6'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '3'
+    simple_average_days: '3'
+    simple_highest_days: '6'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
   '2013':
-    Simple-Average No. of Days: '3.67'
-    Simple-Lowest No. of Days: '16'
-    Simple-Median No. of Days: '2'
+    simple_average_days: '3.67'
+    simple_highest_days: '16'
+    simple_median_days: '2'
 usa_id: '52633'
