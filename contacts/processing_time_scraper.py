@@ -14,7 +14,7 @@ def load_mapping():
 
     key = {}
     years = get_years()
-    with open('data_mapping_key.csv', 'r') as csvfile:
+    with open('layering_data/data_mapping_key.csv', 'r') as csvfile:
         datareader = csv.reader(csvfile)
         for row in datareader:
             for year in years:
@@ -164,14 +164,10 @@ def zero_to_na(element):
 
 def zip_and_clean(columns, row):
     '''Converts 0 and Nones to NAs and zips together a row and columns'''
-
-    return dict(zip(columns, map(zero_to_na, row)))
-
-
-def get_agency(value):
-    '''Returns modified agency names'''
-
-    return '_%s' % value['agency']
+    data = dict(zip(columns, map(zero_to_na, row)))
+    if data.get(''):
+        del data['']
+    return data
 
 
 def get_key_values(row_items, columns, year, title):

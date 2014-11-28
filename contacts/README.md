@@ -97,7 +97,7 @@ To run, execute
 python usagov.py
 ```
 
-The files below are located in the usagov-data directory:
+The files below are located in the layering_data directory:
 
 | File name      | Description   |
 | -------------  |:-------------:|
