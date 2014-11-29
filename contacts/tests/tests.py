@@ -695,16 +695,6 @@ class ProcessingTimeScaperTests(TestCase):
         data = processing_time_scraper.zero_to_na(None)
         self.assertEqual(data, expected_data)
 
-    def test_clean_names(self):
-        '''Should replace `-`, ` `, and `No. of` with underscores and
-        make all elements of an array lower case'''
-
-        test_array = [
-            'Simple-Median No. of Days', 'Complex-Median No. of Days']
-        expected_array = ['simple_median_days', 'complex_median_days']
-        returned_array = processing_time_scraper.clean_names(test_array)
-        self.assertEqual(returned_array, expected_array)
-
     def test_clean_html(self):
         '''Should replace `<1` with 1'''
 
