@@ -16,3 +16,15 @@ departments:
   top_level: true
 - name: U.S. Patent and Trademark Office
   top_level: true
+- name: Economics and Statistics Administration Bureau
+  request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest
+- name: Economic Development Administration
+  request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest
+- name: Bureau of Industry and Security
+  request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest
+- name: National Telecommunications and Information Administration
+  request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest
+- name: Office of the Secretary
+  request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest
+name: Department of Commerce
+request_form: https://foiaonline.regulations.gov/foia/action/public/request/createRequest

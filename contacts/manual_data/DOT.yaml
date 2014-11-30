@@ -2,6 +2,7 @@ departments:
 - name: Federal Aviation Administration
   top_level: true
 - name: National Highway Traffic Safety Administration
+  request_form: http://www.nhtsa.gov/nhtsa-dpmextn/jsp/email/email_nhtsa_foia.jsp
   top_level: true
 - name: Surface Transportation Board
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm

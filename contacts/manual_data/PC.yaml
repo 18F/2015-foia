@@ -1,2 +1,7 @@
+departments:
+- name: Main Office
+  request_form: https://cwppc.secureprtportal.com/
+- name: Office of the Inspector General
+  request_form: https://cwppc.secureprtportal.com/
 name: Peace Corps
 request_form: https://cwppc.secureprtportal.com/

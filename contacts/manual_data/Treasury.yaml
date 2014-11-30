@@ -7,8 +7,11 @@ departments:
 - name: Comptroller of the Currency
   request_form: https://foia-pal.occ.gov/palMain.aspx
   top_level: true
-- name: Financial Crimes Enforcement Network
-  description: "FinCEN’s mission is to safeguard the financial system from illicit use and combat money laundering and promote national security through the collection, analysis, and dissemination of financial intelligence and strategic use of financial authorities."
+- description: FinCEN’s mission is to safeguard the financial system from illicit
+    use and combat money laundering and promote national security through the collection,
+    analysis, and dissemination of financial intelligence and strategic use of financial
+    authorities.
+  name: Financial Crimes Enforcement Network
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Internal Revenue Service
