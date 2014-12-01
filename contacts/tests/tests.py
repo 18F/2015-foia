@@ -610,38 +610,40 @@ class USALayerTests(TestCase):
 
 
 class ProcessingTimeScaperTests(TestCase):
-    def test_parse_table(self):
+    def test_parse_html(self):
         """ Parses data tables from foia.gov and return data """
 
         expected_data = {
             'Federal Retirement Thrift Investment Board_2012_FRTIB': {
-                'Expedited Processing-Average No. of Days': 'NA',
-                'Complex-Average No. of Days': 'NA',
-                'Agency': 'FRTIB',
-                'Expedited Processing-Median No. of Days': 'NA',
-                'Complex-Highest No. of Days': 'NA',
+                '': '',
                 'Component': 'FRTIB',
-                'Expedited Processing-Highest No. of Days': 'NA',
-                'Expedited Processing-Lowest No. of Days': 'NA',
+                'Complex-Average No. of Days': '0',
                 'Simple-Highest No. of Days': '57',
+                'Agency': 'FRTIB',
+                'Expedited Processing-Median No. of Days': '0',
+                'Expedited Processing-Average No. of Days': '0',
+                'Expedited Processing-Highest No. of Days': '0',
                 'Year': '2012',
+                'Complex-Lowest No. of Days': '0',
                 'Simple-Lowest No. of Days': '1',
+                'Expedited Processing-Lowest No. of Days': '0',
                 'Simple-Average No. of Days': '27',
-                'Simple-Median No. of Days': '20',
-                'Complex-Median No. of Days': 'NA',
-                'Complex-Lowest No. of Days': 'NA'}}
+                'Complex-Median No. of Days': '0',
+                'Complex-Highest No. of Days': '0',
+                'Simple-Median No. of Days': '20'}}
 
         testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
         params = {"advanceSearch": "71001.gt.-999999"}
         params['requestYear'] = '2012'
         params['agencyName'] = 'FRTIB'
-        data = processing_time_scraper.parse_table(testurl, params, {})
+        data = processing_time_scraper.parse_html(testurl, params, {})
+        print(data)
         self.assertEqual(expected_data, data)
 
         # Won't break with empty tables
         params['requestYear'] = '2008'
         params['agencyName'] = 'RATB'
-        data = processing_time_scraper.parse_table(testurl, params, {})
+        data = processing_time_scraper.parse_html(testurl, params, {})
         self.assertEqual({}, data)
 
     def test_get_key_values(self):
@@ -658,7 +660,7 @@ class ProcessingTimeScaperTests(TestCase):
 
         test_header = ['header 1', 'header 2', 'header 3']
         test_row = ['2.23', '0', 'NA']
-        exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
+        exp_data = {'header 1': '2.23', 'header 2': '0', 'header 3': 'NA'}
         result = processing_time_scraper.zip_and_clean(test_header, test_row)
         self.assertEqual(exp_data, result)
 
@@ -690,4 +692,4 @@ class ProcessingTimeScaperTests(TestCase):
 
         test_data = '<span><1</span>'
         returned_data = processing_time_scraper.clean_html(test_data)
-        self.assertEqual(returned_data, '<span>1</span>')
+        self.assertEqual(returned_data, '<span>less than 1</span>')
