@@ -8,9 +8,12 @@ import re
 import requests
 import yaml
 
+""" This script scrapes processing times data from foia.gov and dumps
+    the data in both the yaml files and `request_time_data.csv`."""
+
 
 def load_mapping():
-    ''' loads mapping of yamls to foia.gov data'''
+    """ Loads mapping of yamls to foia.gov data """
 
     key = {}
     years = get_years()
@@ -24,7 +27,7 @@ def load_mapping():
 
 
 def apply_mapping(data):
-    '''applies mapping to make foia.gov data compatiable with yaml data'''
+    """ Applies mapping to make foia.gov data compatiable with yaml data """
 
     mapping = load_mapping()
     new_data = {}
@@ -37,7 +40,7 @@ def apply_mapping(data):
 
 
 def delete_empty_data(data):
-    '''Deletes the empty keys in a dictionary'''
+    """ Deletes the empty keys in a dictionary """
 
     keys = list(data.keys())
     for key in keys:
@@ -47,7 +50,7 @@ def delete_empty_data(data):
 
 
 def append_time_stats(yaml_data, data, year, short_filename):
-    '''Appends request time stats to list under key request_time_stats'''
+    """ Appends request time stats to list under key request_time_stats"""
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
@@ -60,7 +63,7 @@ def append_time_stats(yaml_data, data, year, short_filename):
 
 
 def patch_yamls(data):
-    """Patches yaml files with average times"""
+    """ Patches yaml files with average times """
 
     years = get_years()
     for filename in glob("data" + os.sep + "*.yaml"):
@@ -84,7 +87,7 @@ def patch_yamls(data):
 
 
 def make_column_names():
-    '''Generates column names'''
+    """ Generates column names """
 
     columns = ['Year', 'Agency']
     kinds = ['Simple', 'Complex', 'Expedited Processing']
@@ -98,8 +101,8 @@ def make_column_names():
 
 
 def get_row_data(key, row_data, column_names):
-    '''Collects row data using column names while cleaning up
-    anything after the _s'''
+    """ Collects row data using column names while cleaning up
+    anything after the _s"""
 
     data = [re.sub("_.*", "", key)]
     for column in column_names:
@@ -108,7 +111,7 @@ def get_row_data(key, row_data, column_names):
 
 
 def write_csv(data):
-    '''Writes data to csv'''
+    """ Writes data to csv """
 
     column_names = make_column_names()
     with open('request_time_data.csv', 'w', newline='') as csvfile:
@@ -119,13 +122,13 @@ def write_csv(data):
 
 
 def clean_html(html_text):
-    '''Converts <1 to 1 in html text'''
+    """ Converts <1 to 1 in html text"""
 
     return re.sub("><1<", ">1<", html_text)
 
 
 def get_html(url, params):
-    '''Pulls cached html if exists, else creates html file cache'''
+    """ Pulls cached html if exists, else creates html file cache """
 
     filename = "html/{0}_{1}_timedata.html"
     filename = filename.format(
@@ -141,7 +144,7 @@ def get_html(url, params):
 
 
 def zero_to_na(element):
-    '''Converts all zeros to string'''
+    """ Converts all zeros to string """
 
     if element == '0':
         return 'NA'
@@ -152,7 +155,7 @@ def zero_to_na(element):
 
 
 def zip_and_clean(columns, row):
-    '''Converts 0 and Nones to NAs and zips together a row and columns'''
+    """ Converts 0 and Nones to NAs and zips together a row and columns """
     data = dict(zip(columns, map(zero_to_na, row)))
     if data.get(''):
         del data['']
@@ -160,7 +163,7 @@ def zip_and_clean(columns, row):
 
 
 def get_key_values(row_items, columns, year, title):
-    '''Parses through each table row and returns a key-value pair'''
+    """ Parses through each table row and returns a key-value pair """
 
     row_array = []
     for item in row_items:
@@ -174,7 +177,7 @@ def get_key_values(row_items, columns, year, title):
 
 
 def parse_table(url, params, data):
-    '''Gets, caches, and parses url to extract the table data'''
+    """ Gets, caches, and parses url to extract the table data """
 
     soup = BeautifulSoup(get_html(url, params))
     year = params['requestYear']
@@ -191,7 +194,7 @@ def parse_table(url, params, data):
 
 
 def get_years():
-    '''Gets year data by scraping the data page '''
+    """ Gets year data by scraping the data page """
 
     r = requests.get('http://www.foia.gov/data.html')
     soup = BeautifulSoup(r.text)
@@ -203,7 +206,7 @@ def get_years():
 
 
 def all_years(url, params, data):
-    '''Loops through yearly data'''
+    """ Loops through yearly data """
 
     years = get_years()
     for year in years:
@@ -213,7 +216,7 @@ def all_years(url, params, data):
 
 
 def scrape_times():
-    '''Loops through foia.gov data for processing time'''
+    """ Loops through foia.gov data for processing time """
 
     url = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
     params = {"advanceSearch": "71001.gt.-999999"}

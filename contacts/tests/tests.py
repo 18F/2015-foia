@@ -585,8 +585,8 @@ class USALayerTests(TestCase):
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
 
     def test_update_dict(self):
-        '''Updates the new dictionary with ids, abbreviation, description
-        and forms, but will not overwrite any descriptions'''
+        """ Updates the new dictionary with ids, abbreviation, description
+        and forms, but will not overwrite any descriptions """
 
         new_data = {
             'Deparment A': {'usa_id': '1', 'acronym': 'A'},
@@ -611,7 +611,7 @@ class USALayerTests(TestCase):
 
 class ProcessingTimeScaperTests(TestCase):
     def test_parse_table(self):
-        '''Parses data tables from foia.gov and return data'''
+        """ Parses data tables from foia.gov and return data """
 
         expected_data = {
             'Federal Retirement Thrift Investment Board_2012_FRTIB': {
@@ -645,7 +645,7 @@ class ProcessingTimeScaperTests(TestCase):
         self.assertEqual({}, data)
 
     def test_get_key_values(self):
-        '''Should convert a row in header into a unique key'''
+        """ Should convert a row in header into a unique key """
 
         test_row = BeautifulSoup('<span>1</span><span>Agency</span>')
         test_row = test_row.findAll('span')
@@ -654,7 +654,7 @@ class ProcessingTimeScaperTests(TestCase):
         self.assertEqual(key, 'Name_Year_Agency')
 
     def test_zip_and_clean(self):
-        '''Returns a zipped dictionary with 0s coded as NAs'''
+        """ Returns a zipped dictionary with 0s coded as NAs """
 
         test_header = ['header 1', 'header 2', 'header 3']
         test_row = ['2.23', '0', 'NA']
@@ -663,7 +663,7 @@ class ProcessingTimeScaperTests(TestCase):
         self.assertEqual(exp_data, result)
 
     def test_append_time_stats(self):
-        '''Appends time stats data to dictionary'''
+        """ Appends time stats data to dictionary"""
 
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
@@ -679,14 +679,14 @@ class ProcessingTimeScaperTests(TestCase):
         self.assertEqual(expected_data, result)
 
     def test_get_years(self):
-        '''Verify that the correct years are retrieved.'''
+        """ Verify that the correct years are retrieved """
 
         years = processing_time_scraper. get_years()
         years = sorted(years)
         self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
 
     def test_zero_to_na(self):
-        '''Converts `None` and 0 to `NA`'''
+        """ Converts `None` and 0 to `NA` """
 
         data = processing_time_scraper.zero_to_na(0)
         expected_data = 'NA'
@@ -696,7 +696,7 @@ class ProcessingTimeScaperTests(TestCase):
         self.assertEqual(data, expected_data)
 
     def test_clean_html(self):
-        '''Should replace `<1` with 1'''
+        """ Should replace `<1` with 1 """
 
         test_data = '<span><1</span>'
         returned_data = processing_time_scraper.clean_html(test_data)
