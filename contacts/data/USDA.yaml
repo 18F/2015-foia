@@ -230,6 +230,7 @@ departments:
   reading_rooms:
   - - Freedom of Information Act (FOIA) Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (301) 734-8296'
   top_level: false
   website: http://www.aphis.usda.gov/foia/
@@ -493,6 +494,7 @@ departments:
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
   public_liaison: 'Joseph X. Tangredi, Phone: (703) 605-0773'
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (703) 605-0773'
   top_level: false
   website: http://www.fns.usda.gov/foia/
@@ -542,6 +544,7 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (202) 690-3882'
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
@@ -569,6 +572,7 @@ departments:
   reading_rooms:
   - - FAS eFOIA Reading Room
     - http://www.fas.usda.gov/foia-reading-room
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '24.2'
@@ -723,6 +727,7 @@ departments:
   reading_rooms:
   - - FOIA Reading Room
     - http://www.gipsa.usda.gov/foia.html
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Joanne Peterson, Phone: (202) 720-8087'
   top_level: false
   website: http://www.gipsa.usda.gov/foia.html
@@ -741,6 +746,7 @@ departments:
     visiting its website.
   phone: 703-305-1164
   public_liaison: 'Brenda V. Seegars, Phone: (703) 305-1164'
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '3'
@@ -778,6 +784,7 @@ departments:
   reading_rooms:
   - - Click here to access the NFC Electronic Reading Room
     - https://www.nfc.usda.gov/FOIA/foiaereading.html
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (504) 426-0162'
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
@@ -817,6 +824,7 @@ departments:
   name: Natural Resources Conservation Service
   phone: 202-690-4985
   public_liaison: 'Deryl Richardson, Phone: (202) 690-4985'
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '14'
@@ -872,6 +880,7 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (202) 720-1269'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -895,6 +904,7 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '19'
@@ -948,6 +958,7 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center: 'Phone: (301) 504-4154'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -968,6 +979,7 @@ departments:
   reading_rooms:
   - - E-FOIA Reading Room
     - http://www.ascr.usda.gov/efoia_cr.html
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Simple-Average No. of Days: '15'
@@ -1064,6 +1076,7 @@ departments:
   reading_rooms:
   - - RMA Electronic                              Reading Room
     - http://www.rma.usda.gov/aboutrma/foia/reading.html
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '32'
@@ -1144,6 +1157,7 @@ departments:
     visiting its website.
   phone: 202-692-0015
   public_liaison: 'Joseph Shunk, Phone: (202) 692-0032'
+  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
       Complex-Average No. of Days: '14'

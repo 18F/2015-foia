@@ -70,6 +70,7 @@ departments:
   reading_rooms:
   - - '> Electronic Reading Room'
     - http://www.nasa.gov/centers/ames/business/foia/elec.html
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '30'
@@ -142,6 +143,7 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '35'
@@ -213,6 +215,7 @@ departments:
   name: Glenn Research Center
   phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '23'
@@ -365,6 +368,7 @@ departments:
   name: Johnson Space Center
   phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '75'
@@ -502,6 +506,7 @@ departments:
   name: Langley Research Center
   phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '377'
@@ -689,6 +694,7 @@ departments:
   name: NASA Shared Service Center (NSSC)
   phone: 228-813-6490
   public_liaison: 'Jamie Mettler, Phone: (228) 813-6174'
+  request_form: http://socialforms.nasa.gov/foia
   service_center: 'Phone: (228) 813-6174'
   top_level: false
   website: http://www.nssc.nasa.gov/foia/
@@ -706,6 +712,7 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
+  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '220'

@@ -147,6 +147,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - https://www.rmda.army.mil/foia/FOIA_ReadingRoom/index.aspx
+  request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
   service_center: 'Phone: (703) 428-6238'
   top_level: false
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
@@ -1186,6 +1187,7 @@ departments:
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   top_level: false
   website: http://www.socom.mil/FOIA/Pages/default.aspx
 - address:
@@ -1203,6 +1205,7 @@ departments:
   name: U.S. Special Operations Command
   phone: 813-826-3212
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  request_form: http://www.socom.mil/FOIA/Pages/Request.aspx
   top_level: false
   website: http://www.socom.mil/foia/Pages/FOIARequesterServiceCenter.aspx
 - address:
@@ -1241,6 +1244,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - http://www.transcom.mil/foia/reading_room.cfm
+  request_form: http://www.transcom.mil/foia/requestform.cfm
   top_level: false
   website: http://www.transcom.mil/foia/
 description: The mission of the Department of Defense is to provide the military forces
