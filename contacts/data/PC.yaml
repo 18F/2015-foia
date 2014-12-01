@@ -16,6 +16,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
+  request_form: https://cwppc.secureprtportal.com/
   service_center: 'Phone: (202) 692-1236'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
@@ -34,6 +35,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
+  request_form: https://cwppc.secureprtportal.com/
   service_center: 'Phone: (202) 692-2922'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia

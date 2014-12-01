@@ -55,6 +55,7 @@ departments:
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
   public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 482-5997'
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
@@ -94,6 +95,7 @@ departments:
   name: Economic Development Administration
   phone: 202-482-3085
   public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '19'
@@ -203,6 +205,7 @@ departments:
   name: Bureau of Industry and Security
   phone: 202-482-0953
   public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
@@ -535,6 +538,7 @@ departments:
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
   public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
       Simple-Average No. of Days: '18'
@@ -1139,6 +1143,7 @@ departments:
   reading_rooms:
   - - FOIA Electronic Library (Formerly E-Reading Room)
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
       Complex-Average No. of Days: '151'

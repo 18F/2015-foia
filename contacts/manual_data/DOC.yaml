@@ -26,5 +26,6 @@ departments:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Office of the Secretary
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Department of Commerce
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
 name: Department of Commerce
-request_form: https://foiaonline.regulations.gov/foia/action/public/home
