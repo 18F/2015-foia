@@ -40,11 +40,11 @@ def apply_mapping(data):
 
 
 def delete_empty_data(data):
-    """ Deletes the empty keys in a dictionary """
+    """ Deletes any items with the value `NA` or '' a dictionary """
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == "NA":
+        if data[key] == "NA" or data[key] == '':
             del data[key]
     return data
 
@@ -101,8 +101,10 @@ def make_column_names():
 
 
 def get_row_data(key, row_data, column_names):
-    """ Collects row data using column names while cleaning up
-    anything after the _s"""
+    """
+    Collects row data using column names while cleaning up
+    anything after the _s
+    """
 
     data = [re.sub("_.*", "", key)]
     for column in column_names:
@@ -124,11 +126,14 @@ def write_csv(data):
 def clean_html(html_text):
     """ Converts <1 to 1 in html text"""
 
-    return re.sub("><1<", ">1<", html_text)
+    return html_text.replace("><1<", ">less than 1<")
 
 
-def get_html(url, params):
-    """ Pulls cached html if exists, else creates html file cache """
+def fetch_page(url, params):
+    """
+    Returns a cached agency processing time page if it exists,
+    otherwise the function creates a cache and returns the html.
+    """
 
     filename = "html/{0}_{1}_timedata.html"
     filename = filename.format(
@@ -143,20 +148,9 @@ def get_html(url, params):
         return response.text
 
 
-def zero_to_na(element):
-    """ Converts all zeros to string """
-
-    if element == '0':
-        return 'NA'
-    elif not element:
-        return "NA"
-    else:
-        return str(element)
-
-
 def zip_and_clean(columns, row):
     """ Converts 0 and Nones to NAs and zips together a row and columns """
-    data = dict(zip(columns, map(zero_to_na, row)))
+    data = dict(zip(columns, row))
     if data.get(''):
         del data['']
     return data
@@ -176,20 +170,19 @@ def get_key_values(row_items, columns, year, title):
     return key, value
 
 
-def parse_table(url, params, data):
-    """ Gets, caches, and parses url to extract the table data """
+def parse_html(url, params, data):
+    """ Gets, caches, and parses html from foia.gov """
 
-    soup = BeautifulSoup(get_html(url, params))
+    soup = BeautifulSoup(clean_html(fetch_page(url, params)))
     year = params['requestYear']
     table = soup.find("table", {"id": "agencyInfo0"})
     columns = [column.text for column in table.findAll("th")]
     for row in table.findAll("tr"):
         row_items = row.findAll("td")
-        if len(row_items) < 2:
-            continue
-        title = row.findAll('span')[1].attrs['title']
-        key, value = get_key_values(row_items, columns, year, title)
-        data[key] = value
+        if len(row_items) > 2:
+            title = row.findAll('span')[1].attrs['title']
+            key, value = get_key_values(row_items, columns, year, title)
+            data[key] = value
     return data
 
 
@@ -208,10 +201,9 @@ def get_years():
 def all_years(url, params, data):
     """ Loops through yearly data """
 
-    years = get_years()
-    for year in years:
+    for year in get_years():
         params["requestYear"] = year
-        data = parse_table(url, params, data)
+        data = parse_html(url, params, data)
     return data
 
 
@@ -234,5 +226,11 @@ def scrape_times():
 
 
 if __name__ == "__main__":
+
+    """
+    This script scrapes processing times data from foia.gov and dumps
+    the data in both the yaml files and `request_time_data.csv.
+    """
+
     logging.basicConfig(level=logging.INFO)
     scrape_times()

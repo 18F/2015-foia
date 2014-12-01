@@ -40,6 +40,10 @@ request_time_stats:
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '10'
   '2010':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
     Expedited Processing-Average No. of Days: '20'
     Expedited Processing-Highest No. of Days: '33'
     Expedited Processing-Lowest No. of Days: '7'
@@ -53,6 +57,10 @@ request_time_stats:
     Complex-Highest No. of Days: '1310'
     Complex-Lowest No. of Days: '188'
     Complex-Median No. of Days: '220.5'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '27.7'
     Simple-Highest No. of Days: '60'
     Simple-Lowest No. of Days: '4'
@@ -81,5 +89,6 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '113'
     Simple-Average No. of Days: '47'
     Simple-Highest No. of Days: '236'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '35'
 usa_id: '49181'

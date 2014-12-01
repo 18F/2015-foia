@@ -60,6 +60,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '450.76'
       Complex-Highest No. of Days: '1032'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '430'
       Expedited Processing-Average No. of Days: '302.56'
       Expedited Processing-Highest No. of Days: '931'
@@ -67,6 +68,7 @@ departments:
       Expedited Processing-Median No. of Days: '126'
       Simple-Average No. of Days: '85.53'
       Simple-Highest No. of Days: '488'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '31.5'
     '2011':
       Complex-Average No. of Days: '370.68'
@@ -92,10 +94,12 @@ departments:
       Expedited Processing-Median No. of Days: '264.5'
       Simple-Average No. of Days: '28.25'
       Simple-Highest No. of Days: '450'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '15.5'
     '2013':
       Complex-Average No. of Days: '366.4'
       Complex-Highest No. of Days: '1132'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '249'
       Expedited Processing-Average No. of Days: '420.93'
       Expedited Processing-Highest No. of Days: '997'
@@ -103,6 +107,7 @@ departments:
       Expedited Processing-Median No. of Days: '502'
       Simple-Average No. of Days: '29.05'
       Simple-Highest No. of Days: '197'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '18'
   service_center: 'Phone: (202) 616-5459'
   top_level: true
@@ -162,6 +167,7 @@ departments:
       Expedited Processing-Median No. of Days: '126'
       Simple-Average No. of Days: '142.66'
       Simple-Highest No. of Days: '933'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '91'
     '2011':
       Complex-Average No. of Days: '308.58'
@@ -187,6 +193,7 @@ departments:
       Expedited Processing-Median No. of Days: '270.5'
       Simple-Average No. of Days: '41.88'
       Simple-Highest No. of Days: '450'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
     '2013':
       Complex-Average No. of Days: '294.73'
@@ -199,6 +206,7 @@ departments:
       Expedited Processing-Median No. of Days: '517'
       Simple-Average No. of Days: '22.01'
       Simple-Highest No. of Days: '195'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -249,6 +257,7 @@ departments:
       Expedited Processing-Median No. of Days: '9'
       Simple-Average No. of Days: '79.29'
       Simple-Highest No. of Days: '369'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '31'
     '2011':
       Complex-Average No. of Days: '204.21'
@@ -274,6 +283,7 @@ departments:
       Expedited Processing-Median No. of Days: '234'
       Simple-Average No. of Days: '28.94'
       Simple-Highest No. of Days: '286'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
     '2013':
       Complex-Average No. of Days: '247.66'
@@ -343,16 +353,20 @@ departments:
       Complex-Median No. of Days: '105'
       Simple-Average No. of Days: '9.88'
       Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8'
     '2012':
       Complex-Average No. of Days: '233.63'
       Complex-Highest No. of Days: '1021'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '115'
       Expedited Processing-Average No. of Days: '33.5'
       Expedited Processing-Highest No. of Days: '66'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '33.5'
       Simple-Average No. of Days: '4.4'
       Simple-Highest No. of Days: '14'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
     '2013':
       Complex-Average No. of Days: '183.33'
@@ -361,6 +375,7 @@ departments:
       Complex-Median No. of Days: '45'
       Simple-Average No. of Days: '4.62'
       Simple-Highest No. of Days: '20'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
   service_center: 'Phone: (202) 514-2692'
   top_level: false
@@ -462,6 +477,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '22.11'
       Complex-Highest No. of Days: '386'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '12'
       Expedited Processing-Average No. of Days: '4'
       Expedited Processing-Highest No. of Days: '9'
@@ -470,6 +486,7 @@ departments:
     '2011':
       Complex-Average No. of Days: '19.64'
       Complex-Highest No. of Days: '440'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '12'
       Expedited Processing-Average No. of Days: '188'
       Expedited Processing-Highest No. of Days: '373'
@@ -478,10 +495,12 @@ departments:
     '2012':
       Complex-Average No. of Days: '19.01'
       Complex-Highest No. of Days: '266'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '14'
     '2013':
       Complex-Average No. of Days: '50.05'
       Complex-Highest No. of Days: '600'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '28'
       Expedited Processing-Average No. of Days: '95'
       Expedited Processing-Highest No. of Days: '95'
@@ -526,17 +545,21 @@ departments:
     '2010':
       Complex-Average No. of Days: '28.94'
       Complex-Highest No. of Days: '417'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '12'
     '2011':
       Complex-Average No. of Days: '42.89'
       Complex-Highest No. of Days: '235'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '27'
       Simple-Average No. of Days: '15.04'
       Simple-Highest No. of Days: '178'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2012':
       Complex-Average No. of Days: '31.11'
       Complex-Highest No. of Days: '653'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '7'
       Expedited Processing-Average No. of Days: '44'
       Expedited Processing-Highest No. of Days: '44'
@@ -545,6 +568,7 @@ departments:
     '2013':
       Complex-Average No. of Days: '108.38'
       Complex-Highest No. of Days: '1232'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '24'
       Expedited Processing-Average No. of Days: '164'
       Expedited Processing-Highest No. of Days: '164'
@@ -552,6 +576,7 @@ departments:
       Expedited Processing-Median No. of Days: '164'
       Simple-Average No. of Days: '4.07'
       Simple-Highest No. of Days: '114'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '1.5'
   service_center: 'Phone: 202) 514-2319'
   top_level: false
@@ -578,6 +603,7 @@ departments:
       Complex-Median No. of Days: '94'
       Simple-Average No. of Days: '11'
       Simple-Highest No. of Days: '49'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5'
     '2009':
       Complex-Average No. of Days: '138'
@@ -586,6 +612,7 @@ departments:
       Complex-Median No. of Days: '95'
       Simple-Average No. of Days: '9'
       Simple-Highest No. of Days: '49'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2010':
       Complex-Average No. of Days: '225.55'
@@ -594,10 +621,12 @@ departments:
       Complex-Median No. of Days: '162'
       Simple-Average No. of Days: '8.69'
       Simple-Highest No. of Days: '50'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5'
     '2011':
       Complex-Average No. of Days: '113'
       Complex-Highest No. of Days: '933'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '37.5'
       Expedited Processing-Average No. of Days: '22'
       Expedited Processing-Highest No. of Days: '22'
@@ -605,6 +634,7 @@ departments:
       Expedited Processing-Median No. of Days: '22'
       Simple-Average No. of Days: '5.8'
       Simple-Highest No. of Days: '50'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2012':
       Complex-Average No. of Days: '302'
@@ -617,13 +647,16 @@ departments:
       Expedited Processing-Median No. of Days: '102'
       Simple-Average No. of Days: '10.76'
       Simple-Highest No. of Days: '413'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4.5'
     '2013':
       Complex-Average No. of Days: '278.86'
       Complex-Highest No. of Days: '861'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '279'
       Simple-Average No. of Days: '9.03'
       Simple-Highest No. of Days: '135'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
   service_center: 'Phone: (202) 514-4210'
   top_level: false
@@ -655,7 +688,11 @@ departments:
       Simple-Highest No. of Days: '24'
       Simple-Lowest No. of Days: '14'
       Simple-Median No. of Days: '20'
-    '2010': {}
+    '2010':
+      Simple-Average No. of Days: less than 1
+      Simple-Highest No. of Days: less than 1
+      Simple-Lowest No. of Days: less than 1
+      Simple-Median No. of Days: less than 1
     '2011':
       Complex-Average No. of Days: '33'
       Complex-Highest No. of Days: '33'
@@ -663,6 +700,7 @@ departments:
       Complex-Median No. of Days: '33'
       Simple-Average No. of Days: '10.3'
       Simple-Highest No. of Days: '29'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8.5'
     '2012':
       Complex-Average No. of Days: '31'
@@ -680,6 +718,7 @@ departments:
       Complex-Median No. of Days: '16'
       Simple-Average No. of Days: '8.13'
       Simple-Highest No. of Days: '19'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8'
   service_center: 'Phone: (202) 305-2935'
   top_level: false
@@ -705,6 +744,7 @@ departments:
     '2008':
       Complex-Average No. of Days: '830'
       Complex-Highest No. of Days: '6659'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '107'
       Expedited Processing-Average No. of Days: '69'
       Expedited Processing-Highest No. of Days: '98'
@@ -713,6 +753,7 @@ departments:
     '2009':
       Complex-Average No. of Days: '87.7'
       Complex-Highest No. of Days: '350'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '61'
       Expedited Processing-Average No. of Days: '37.5'
       Expedited Processing-Highest No. of Days: '59'
@@ -733,6 +774,7 @@ departments:
       Expedited Processing-Median No. of Days: '46'
       Simple-Average No. of Days: '27.15'
       Simple-Highest No. of Days: '211'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
     '2011':
       Complex-Average No. of Days: '51.6'
@@ -745,6 +787,7 @@ departments:
       Expedited Processing-Median No. of Days: '39'
       Simple-Average No. of Days: '22.84'
       Simple-Highest No. of Days: '448'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '9'
     '2012':
       Complex-Average No. of Days: '70.15'
@@ -766,6 +809,7 @@ departments:
       Complex-Median No. of Days: '63'
       Simple-Average No. of Days: '23.62'
       Simple-Highest No. of Days: '306'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 616-0307'
   top_level: false
@@ -836,6 +880,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '125.46'
       Complex-Highest No. of Days: '1685'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '74'
       Expedited Processing-Average No. of Days: '46.9'
       Expedited Processing-Highest No. of Days: '239'
@@ -844,6 +889,7 @@ departments:
     '2011':
       Complex-Average No. of Days: '33.92'
       Complex-Highest No. of Days: '655'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '8'
       Expedited Processing-Average No. of Days: '31.4'
       Expedited Processing-Highest No. of Days: '176'
@@ -852,6 +898,7 @@ departments:
     '2012':
       Complex-Average No. of Days: '121.29'
       Complex-Highest No. of Days: '870'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '92'
       Expedited Processing-Average No. of Days: '150.63'
       Expedited Processing-Highest No. of Days: '391'
@@ -860,6 +907,7 @@ departments:
     '2013':
       Complex-Average No. of Days: '83.6'
       Complex-Highest No. of Days: '871'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '59'
       Expedited Processing-Average No. of Days: '202'
       Expedited Processing-Highest No. of Days: '355'
@@ -867,6 +915,7 @@ departments:
       Expedited Processing-Median No. of Days: '202'
       Simple-Average No. of Days: '10.24'
       Simple-Highest No. of Days: '198'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
   service_center: 'Phone: (202) 307-7596'
   top_level: true
@@ -925,6 +974,7 @@ departments:
       Expedited Processing-Median No. of Days: '7'
       Simple-Average No. of Days: '16.35'
       Simple-Highest No. of Days: '95'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '12'
     '2012':
       Complex-Average No. of Days: '58.88'
@@ -937,6 +987,7 @@ departments:
       Expedited Processing-Median No. of Days: '6'
       Simple-Average No. of Days: '16.08'
       Simple-Highest No. of Days: '60'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
     '2013':
       Complex-Average No. of Days: '112.33'
@@ -1020,13 +1071,16 @@ departments:
       Complex-Median No. of Days: '19'
       Expedited Processing-Average No. of Days: '31.28'
       Expedited Processing-Highest No. of Days: '102'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '16'
       Simple-Average No. of Days: '24.93'
       Simple-Highest No. of Days: '331'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '21'
     '2011':
       Complex-Average No. of Days: '26.87'
       Complex-Highest No. of Days: '252'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '23'
       Expedited Processing-Average No. of Days: '15.29'
       Expedited Processing-Highest No. of Days: '46'
@@ -1034,6 +1088,7 @@ departments:
       Expedited Processing-Median No. of Days: '8'
       Simple-Average No. of Days: '21.94'
       Simple-Highest No. of Days: '589'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
     '2012':
       Complex-Average No. of Days: '18.16'
@@ -1046,10 +1101,12 @@ departments:
       Expedited Processing-Median No. of Days: '16'
       Simple-Average No. of Days: '17.41'
       Simple-Highest No. of Days: '622'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '14'
     '2013':
       Complex-Average No. of Days: '11.17'
       Complex-Highest No. of Days: '16'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '12'
       Expedited Processing-Average No. of Days: '19.47'
       Expedited Processing-Highest No. of Days: '66'
@@ -1057,6 +1114,7 @@ departments:
       Expedited Processing-Median No. of Days: '13'
       Simple-Average No. of Days: '16.4'
       Simple-Highest No. of Days: '662'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '13'
   service_center: 'Phone: (703) 605-1297'
   top_level: false
@@ -1095,6 +1153,7 @@ departments:
       Complex-Median No. of Days: '73'
       Simple-Average No. of Days: '29.81'
       Simple-Highest No. of Days: '75'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '22.5'
     '2013':
       Complex-Average No. of Days: '30.75'
@@ -1133,6 +1192,7 @@ departments:
       Expedited Processing-Median No. of Days: '268'
       Simple-Average No. of Days: '208.69'
       Simple-Highest No. of Days: '2940'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '52'
     '2009':
       Expedited Processing-Average No. of Days: '439.9'
@@ -1141,10 +1201,12 @@ departments:
       Expedited Processing-Median No. of Days: '95'
       Simple-Average No. of Days: '152.1'
       Simple-Highest No. of Days: '3290'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '48'
     '2010':
       Complex-Average No. of Days: '150.63'
       Complex-Highest No. of Days: '2481'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '60'
       Expedited Processing-Average No. of Days: '117.44'
       Expedited Processing-Highest No. of Days: '1869'
@@ -1162,6 +1224,7 @@ departments:
     '2012':
       Complex-Average No. of Days: '91.22'
       Complex-Highest No. of Days: '1237'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '38'
       Expedited Processing-Average No. of Days: '324'
       Expedited Processing-Highest No. of Days: '639'
@@ -1338,6 +1401,7 @@ departments:
       Expedited Processing-Median No. of Days: '27.5'
       Simple-Average No. of Days: '36.59'
       Simple-Highest No. of Days: '664'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
     '2011':
       Complex-Average No. of Days: '212.31'
@@ -1350,6 +1414,7 @@ departments:
       Expedited Processing-Median No. of Days: '62'
       Simple-Average No. of Days: '34.17'
       Simple-Highest No. of Days: '594'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '12'
     '2012':
       Complex-Average No. of Days: '181.57'
@@ -1362,6 +1427,7 @@ departments:
       Expedited Processing-Median No. of Days: '235.5'
       Simple-Average No. of Days: '28.02'
       Simple-Highest No. of Days: '592'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8'
     '2013':
       Complex-Average No. of Days: '231.97'
@@ -1374,6 +1440,7 @@ departments:
       Expedited Processing-Median No. of Days: '82'
       Simple-Average No. of Days: '44.48'
       Simple-Highest No. of Days: '815'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '17'
   service_center: 'Phone: (540) 868-1535'
   top_level: true
@@ -1407,26 +1474,33 @@ departments:
     '2008':
       Complex-Average No. of Days: '40.37'
       Complex-Highest No. of Days: '246'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '27'
       Expedited Processing-Average No. of Days: '2.4'
       Expedited Processing-Highest No. of Days: '10'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '1'
       Simple-Average No. of Days: '15.87'
       Simple-Highest No. of Days: '247'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2009':
       Complex-Average No. of Days: '53'
       Complex-Highest No. of Days: '285'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '37'
       Expedited Processing-Average No. of Days: '4'
       Expedited Processing-Highest No. of Days: '12'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '3'
       Simple-Average No. of Days: '18'
       Simple-Highest No. of Days: '200'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2010':
       Complex-Average No. of Days: '67.79'
       Complex-Highest No. of Days: '394'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '40'
       Expedited Processing-Average No. of Days: '25.75'
       Expedited Processing-Highest No. of Days: '48'
@@ -1434,10 +1508,12 @@ departments:
       Expedited Processing-Median No. of Days: '21.5'
       Simple-Average No. of Days: '19.13'
       Simple-Highest No. of Days: '469'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
     '2011':
       Complex-Average No. of Days: '116.61'
       Complex-Highest No. of Days: '647'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '81'
       Expedited Processing-Average No. of Days: '20.5'
       Expedited Processing-Highest No. of Days: '65'
@@ -1445,26 +1521,33 @@ departments:
       Expedited Processing-Median No. of Days: '7'
       Simple-Average No. of Days: '26.99'
       Simple-Highest No. of Days: '694'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '10'
     '2012':
       Complex-Average No. of Days: '96.09'
       Complex-Highest No. of Days: '744'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '65'
       Expedited Processing-Average No. of Days: '37.38'
       Expedited Processing-Highest No. of Days: '125'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '19'
       Simple-Average No. of Days: '16.89'
       Simple-Highest No. of Days: '642'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '6'
     '2013':
       Complex-Average No. of Days: '108.48'
       Complex-Highest No. of Days: '784'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '67'
       Expedited Processing-Average No. of Days: '44.09'
       Expedited Processing-Highest No. of Days: '292'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '9'
       Simple-Average No. of Days: '17.07'
       Simple-Highest No. of Days: '545'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
   service_center: 'Phone: (202) 616-7750'
   top_level: true
@@ -1501,18 +1584,22 @@ departments:
     '2010':
       Complex-Average No. of Days: '15.37'
       Complex-Highest No. of Days: '78'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '6'
     '2011':
       Complex-Average No. of Days: '7.9'
       Complex-Highest No. of Days: '47'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '4'
     '2012':
       Complex-Average No. of Days: '17.2'
       Complex-Highest No. of Days: '62'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '12'
     '2013':
       Complex-Average No. of Days: '15.58'
       Complex-Highest No. of Days: '124'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '9'
   service_center: 'Phone: (202) 616-6975'
   top_level: false
@@ -1554,9 +1641,11 @@ departments:
       Complex-Median No. of Days: '9'
       Expedited Processing-Average No. of Days: '2'
       Expedited Processing-Highest No. of Days: '3'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '2'
       Simple-Average No. of Days: '4'
       Simple-Highest No. of Days: '30'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2010':
       Complex-Average No. of Days: '68.86'
@@ -1574,6 +1663,7 @@ departments:
       Complex-Median No. of Days: '113.5'
       Simple-Average No. of Days: '16.87'
       Simple-Highest No. of Days: '200'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7.5'
     '2012':
       Complex-Average No. of Days: '119.17'
@@ -1586,10 +1676,12 @@ departments:
       Expedited Processing-Median No. of Days: '11'
       Simple-Average No. of Days: '27.14'
       Simple-Highest No. of Days: '289'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '12'
     '2013':
       Complex-Average No. of Days: '30.78'
       Complex-Highest No. of Days: '220'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '5'
       Expedited Processing-Average No. of Days: '4.17'
       Expedited Processing-Highest No. of Days: '10'
@@ -1597,6 +1689,7 @@ departments:
       Expedited Processing-Median No. of Days: '3'
       Simple-Average No. of Days: '7.99'
       Simple-Highest No. of Days: '450'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
   service_center: 'Phone: (202) 616-0201'
   top_level: false
@@ -1677,6 +1770,7 @@ departments:
       Complex-Median No. of Days: '52'
       Simple-Average No. of Days: '55.77'
       Simple-Highest No. of Days: '325'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '18'
   service_center: 'Phone: (202) 514-3101'
   top_level: false
@@ -1720,10 +1814,12 @@ departments:
       Expedited Processing-Lowest No. of Days: '76'
       Simple-Average No. of Days: '36.5'
       Simple-Highest No. of Days: '283'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
     '2010':
       Complex-Average No. of Days: '178.26'
       Complex-Highest No. of Days: '789'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '139'
       Expedited Processing-Average No. of Days: '160.75'
       Expedited Processing-Highest No. of Days: '312'
@@ -1731,6 +1827,7 @@ departments:
       Expedited Processing-Median No. of Days: '148.5'
       Simple-Average No. of Days: '5.55'
       Simple-Highest No. of Days: '25'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2011':
       Complex-Average No. of Days: '283.68'
@@ -1743,6 +1840,7 @@ departments:
       Expedited Processing-Median No. of Days: '604'
       Simple-Average No. of Days: '5.6'
       Simple-Highest No. of Days: '56'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2012':
       Complex-Average No. of Days: '227.8'
@@ -1755,6 +1853,7 @@ departments:
       Expedited Processing-Median No. of Days: '223'
       Simple-Average No. of Days: '24.01'
       Simple-Highest No. of Days: '255'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2013':
       Complex-Average No. of Days: '126.71'
@@ -1763,6 +1862,7 @@ departments:
       Complex-Median No. of Days: '136'
       Simple-Average No. of Days: '16.65'
       Simple-Highest No. of Days: '249'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7.5'
   service_center: 'Phone: (202) 233-0754'
   top_level: false
@@ -1799,18 +1899,22 @@ departments:
     '2010':
       Complex-Average No. of Days: '3.82'
       Complex-Highest No. of Days: '18'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '1'
     '2011':
       Complex-Average No. of Days: '7.09'
       Complex-Highest No. of Days: '20'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '6'
     '2012':
       Complex-Average No. of Days: '4.7'
       Complex-Highest No. of Days: '21'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '3'
     '2013':
       Complex-Average No. of Days: '7.87'
       Complex-Highest No. of Days: '48'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '6'
   service_center: 'Phone: (202) 353-9864'
   top_level: true
@@ -1837,6 +1941,7 @@ departments:
       Complex-Median No. of Days: '686'
       Simple-Average No. of Days: '19'
       Simple-Highest No. of Days: '563'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '9'
     '2009':
       Complex-Average No. of Days: '490.5'
@@ -1844,6 +1949,7 @@ departments:
       Complex-Lowest No. of Days: '414'
       Simple-Average No. of Days: '21'
       Simple-Highest No. of Days: '665'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2010':
       Complex-Average No. of Days: '119.67'
@@ -1856,6 +1962,7 @@ departments:
       Expedited Processing-Median No. of Days: '317'
       Simple-Average No. of Days: '46.54'
       Simple-Highest No. of Days: '532'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '18'
     '2011':
       Complex-Average No. of Days: '255.84'
@@ -1868,6 +1975,7 @@ departments:
       Expedited Processing-Median No. of Days: '60'
       Simple-Average No. of Days: '53.9'
       Simple-Highest No. of Days: '282'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '19'
     '2012':
       Complex-Average No. of Days: '309.19'
@@ -1880,6 +1988,7 @@ departments:
       Expedited Processing-Median No. of Days: '18'
       Simple-Average No. of Days: '27.82'
       Simple-Highest No. of Days: '537'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '15'
     '2013':
       Complex-Average No. of Days: '213.68'
@@ -1888,6 +1997,7 @@ departments:
       Complex-Median No. of Days: '232'
       Simple-Average No. of Days: '26.16'
       Simple-Highest No. of Days: '602'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '13'
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -1965,30 +2075,38 @@ departments:
     '2010':
       Complex-Average No. of Days: '99.61'
       Complex-Highest No. of Days: '957'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '57.5'
       Simple-Average No. of Days: '28.6'
       Simple-Highest No. of Days: '171'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
     '2011':
       Complex-Average No. of Days: '139.39'
       Complex-Highest No. of Days: '863'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '77'
       Simple-Average No. of Days: '19.09'
       Simple-Highest No. of Days: '219'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2012':
       Complex-Average No. of Days: '69.17'
       Complex-Highest No. of Days: '721'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '32'
       Simple-Average No. of Days: '11.96'
       Simple-Highest No. of Days: '70'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8'
     '2013':
       Complex-Average No. of Days: '82.19'
       Complex-Highest No. of Days: '708'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '51.5'
       Simple-Average No. of Days: '18.45'
       Simple-Highest No. of Days: '135'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '11'
   service_center: 'Phone: (202) 307-6235'
   top_level: false
@@ -2037,6 +2155,7 @@ departments:
       Complex-Median No. of Days: '178'
       Simple-Average No. of Days: '73.68'
       Simple-Highest No. of Days: '375'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '15'
     '2011':
       Complex-Average No. of Days: '447.35'
@@ -2049,6 +2168,7 @@ departments:
       Expedited Processing-Median No. of Days: '211'
       Simple-Average No. of Days: '136.02'
       Simple-Highest No. of Days: '620'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '23.5'
     '2012':
       Complex-Average No. of Days: '305.15'
@@ -2061,6 +2181,7 @@ departments:
       Expedited Processing-Median No. of Days: '118'
       Simple-Average No. of Days: '17.47'
       Simple-Highest No. of Days: '442'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2013':
       Complex-Average No. of Days: '199.47'
@@ -2073,6 +2194,7 @@ departments:
       Expedited Processing-Median No. of Days: '92.5'
       Simple-Average No. of Days: '22.91'
       Simple-Highest No. of Days: '145'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '13'
   service_center: 'Phone: (202) 353-0258'
   top_level: false
@@ -2104,6 +2226,7 @@ departments:
       Expedited Processing-Lowest No. of Days: '80'
       Simple-Average No. of Days: '62'
       Simple-Highest No. of Days: '710'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '40'
     '2009':
       Complex-Average No. of Days: '672'
@@ -2129,6 +2252,7 @@ departments:
       Expedited Processing-Median No. of Days: '15'
       Simple-Average No. of Days: '47.99'
       Simple-Highest No. of Days: '488'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '15'
     '2011':
       Complex-Average No. of Days: '128.85'
@@ -2141,6 +2265,7 @@ departments:
       Expedited Processing-Median No. of Days: '28.5'
       Simple-Average No. of Days: '17.21'
       Simple-Highest No. of Days: '106'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '9'
     '2012':
       Complex-Average No. of Days: '74.63'
@@ -2153,6 +2278,7 @@ departments:
       Expedited Processing-Median No. of Days: '185.5'
       Simple-Average No. of Days: '13.24'
       Simple-Highest No. of Days: '49'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '9'
     '2013':
       Complex-Average No. of Days: '111.83'
@@ -2215,6 +2341,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '327.05'
       Complex-Highest No. of Days: '781'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '270'
       Expedited Processing-Average No. of Days: '65.09'
       Expedited Processing-Highest No. of Days: '182'
@@ -2222,6 +2349,7 @@ departments:
       Expedited Processing-Median No. of Days: '53'
       Simple-Average No. of Days: '195.13'
       Simple-Highest No. of Days: '491'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '233'
     '2011':
       Complex-Average No. of Days: '303.09'
@@ -2247,6 +2375,7 @@ departments:
       Expedited Processing-Median No. of Days: '229.5'
       Simple-Average No. of Days: '29.77'
       Simple-Highest No. of Days: '151'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '18'
     '2013':
       Complex-Average No. of Days: '238.63'
@@ -2259,6 +2388,7 @@ departments:
       Expedited Processing-Median No. of Days: '427'
       Simple-Average No. of Days: '37.87'
       Simple-Highest No. of Days: '196'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '21'
   service_center: 'Phone: (202) 616-5459'
   top_level: false
@@ -2299,6 +2429,7 @@ departments:
     '2010':
       Simple-Average No. of Days: '7.29'
       Simple-Highest No. of Days: '49'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5'
     '2011':
       Complex-Average No. of Days: '57'
@@ -2307,14 +2438,17 @@ departments:
       Complex-Median No. of Days: '57'
       Simple-Average No. of Days: '13.97'
       Simple-Highest No. of Days: '433'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5'
     '2012':
       Simple-Average No. of Days: '3.91'
       Simple-Highest No. of Days: '18'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2013':
       Simple-Average No. of Days: '3.46'
       Simple-Highest No. of Days: '16'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
   service_center: 'Phone: (202) 616-6070'
   top_level: false
@@ -2358,6 +2492,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '218.65'
       Complex-Highest No. of Days: '611'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '104'
       Expedited Processing-Average No. of Days: '8.5'
       Expedited Processing-Highest No. of Days: '9'
@@ -2400,6 +2535,7 @@ departments:
       Expedited Processing-Median No. of Days: '13'
       Simple-Average No. of Days: '32.08'
       Simple-Highest No. of Days: '323'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 514-3365'
   top_level: false
@@ -2453,6 +2589,7 @@ departments:
       Expedited Processing-Median No. of Days: '15'
       Simple-Average No. of Days: '116.41'
       Simple-Highest No. of Days: '377'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '56'
     '2011':
       Complex-Average No. of Days: '230.77'
@@ -2465,6 +2602,7 @@ departments:
       Expedited Processing-Median No. of Days: '60'
       Simple-Average No. of Days: '55.68'
       Simple-Highest No. of Days: '186'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '41'
     '2012':
       Complex-Average No. of Days: '171.36'
@@ -2532,6 +2670,7 @@ departments:
     '2010':
       Complex-Average No. of Days: '82.44'
       Complex-Highest No. of Days: '437'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '36'
     '2011':
       Complex-Average No. of Days: '74.73'
@@ -2540,6 +2679,7 @@ departments:
       Complex-Median No. of Days: '30'
       Simple-Average No. of Days: '14.03'
       Simple-Highest No. of Days: '76'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '13'
     '2012':
       Complex-Average No. of Days: '125.56'
@@ -2552,6 +2692,7 @@ departments:
       Expedited Processing-Median No. of Days: '470'
       Simple-Average No. of Days: '14.3'
       Simple-Highest No. of Days: '238'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '7'
     '2013':
       Complex-Average No. of Days: '465.5'
@@ -2623,18 +2764,22 @@ departments:
       Expedited Processing-Median No. of Days: '2.5'
       Simple-Average No. of Days: '10.25'
       Simple-Highest No. of Days: '35'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '8'
     '2011':
       Simple-Average No. of Days: '11.04'
       Simple-Highest No. of Days: '41'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '10'
     '2012':
       Simple-Average No. of Days: '13.79'
       Simple-Highest No. of Days: '36'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '15'
     '2013':
       Simple-Average No. of Days: '16.8'
       Simple-Highest No. of Days: '154'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '16'
   service_center: 'Phone: (202) 307-6026'
   top_level: false
@@ -2670,21 +2815,26 @@ departments:
     '2010':
       Simple-Average No. of Days: '7.71'
       Simple-Highest No. of Days: '24'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5.5'
     '2011':
       Simple-Average No. of Days: '30.56'
       Simple-Highest No. of Days: '533'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '9'
     '2012':
       Expedited Processing-Average No. of Days: '13'
       Expedited Processing-Highest No. of Days: '19'
+      Expedited Processing-Lowest No. of Days: less than 1
       Expedited Processing-Median No. of Days: '19'
       Simple-Average No. of Days: '14.38'
       Simple-Highest No. of Days: '58'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '13.5'
     '2013':
       Simple-Average No. of Days: '17.75'
       Simple-Highest No. of Days: '149'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '5'
   service_center: 'Phone: (202) 514-0458'
   top_level: false
@@ -2735,6 +2885,7 @@ departments:
       Complex-Median No. of Days: '97'
       Simple-Average No. of Days: '9.48'
       Simple-Highest No. of Days: '111'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
     '2011':
       Complex-Average No. of Days: '82.5'
@@ -2743,6 +2894,7 @@ departments:
       Complex-Median No. of Days: '61'
       Simple-Average No. of Days: '6.03'
       Simple-Highest No. of Days: '37'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
     '2012':
       Complex-Average No. of Days: '49.93'
@@ -2751,6 +2903,7 @@ departments:
       Complex-Median No. of Days: '29.5'
       Simple-Average No. of Days: '9.16'
       Simple-Highest No. of Days: '100'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2013':
       Complex-Average No. of Days: '58.81'
@@ -2759,6 +2912,7 @@ departments:
       Complex-Median No. of Days: '42'
       Simple-Average No. of Days: '8.74'
       Simple-Highest No. of Days: '77'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
   service_center: 'Phone: (202) 307-6320'
   top_level: false
@@ -2821,6 +2975,7 @@ departments:
       Expedited Processing-Median No. of Days: '3'
       Simple-Average No. of Days: '10.46'
       Simple-Highest No. of Days: '219'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2011':
       Complex-Average No. of Days: '66'
@@ -2833,6 +2988,7 @@ departments:
       Expedited Processing-Median No. of Days: '9.5'
       Simple-Average No. of Days: '9.75'
       Simple-Highest No. of Days: '288'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '1'
     '2012':
       Complex-Average No. of Days: '38.5'
@@ -2845,6 +3001,7 @@ departments:
       Expedited Processing-Median No. of Days: '120'
       Simple-Average No. of Days: '11.05'
       Simple-Highest No. of Days: '207'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2013':
       Complex-Average No. of Days: '123.25'
@@ -2857,6 +3014,7 @@ departments:
       Expedited Processing-Median No. of Days: '28.5'
       Simple-Average No. of Days: '77'
       Simple-Highest No. of Days: '688'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
   service_center: 'Phone: (202) 307-9054'
   top_level: true
@@ -2886,6 +3044,7 @@ departments:
     '2008':
       Complex-Average No. of Days: '24'
       Complex-Highest No. of Days: '1002'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '1'
     '2009':
       Complex-Average No. of Days: '186'
@@ -2899,30 +3058,38 @@ departments:
     '2010':
       Complex-Average No. of Days: '109.86'
       Complex-Highest No. of Days: '378'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '48'
       Simple-Average No. of Days: '14.76'
       Simple-Highest No. of Days: '316'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
     '2011':
       Complex-Average No. of Days: '72.28'
       Complex-Highest No. of Days: '349'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '39'
       Simple-Average No. of Days: '8.25'
       Simple-Highest No. of Days: '285'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '2'
     '2012':
       Complex-Average No. of Days: '38.92'
       Complex-Highest No. of Days: '434'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '13'
       Simple-Average No. of Days: '8.08'
       Simple-Highest No. of Days: '272'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '1.5'
     '2013':
       Complex-Average No. of Days: '39.06'
       Complex-Highest No. of Days: '393'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '25'
       Simple-Average No. of Days: '11.12'
       Simple-Highest No. of Days: '124'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '3'
   service_center: 'Phone: (202) 346-7030'
   top_level: false
@@ -3089,36 +3256,46 @@ request_time_stats:
   '2008':
     Complex-Average No. of Days: '272.69'
     Complex-Highest No. of Days: '6659'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '68'
     Expedited Processing-Average No. of Days: '110.1'
     Expedited Processing-Highest No. of Days: '2397'
+    Expedited Processing-Lowest No. of Days: less than 1
     Expedited Processing-Median No. of Days: '12'
     Simple-Average No. of Days: '42.88'
     Simple-Highest No. of Days: '2940'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '11'
   '2009':
     Complex-Average No. of Days: '103.34'
     Complex-Highest No. of Days: '1871'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '50'
     Expedited Processing-Average No. of Days: '151.42'
     Expedited Processing-Highest No. of Days: '2759'
+    Expedited Processing-Lowest No. of Days: less than 1
     Expedited Processing-Median No. of Days: '28'
     Simple-Average No. of Days: '32.17'
     Simple-Highest No. of Days: '3290'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '12'
   '2010':
     Complex-Average No. of Days: '113.48'
     Complex-Highest No. of Days: '2481'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '49'
     Expedited Processing-Average No. of Days: '86.08'
     Expedited Processing-Highest No. of Days: '1869'
+    Expedited Processing-Lowest No. of Days: less than 1
     Expedited Processing-Median No. of Days: '35'
     Simple-Average No. of Days: '26.35'
     Simple-Highest No. of Days: '933'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '13'
   '2011':
     Complex-Average No. of Days: '106.76'
     Complex-Highest No. of Days: '1886'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '41'
     Expedited Processing-Average No. of Days: '127.92'
     Expedited Processing-Highest No. of Days: '697'
@@ -3126,26 +3303,33 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '60'
     Simple-Average No. of Days: '24.94'
     Simple-Highest No. of Days: '694'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '14'
   '2012':
     Complex-Average No. of Days: '100.21'
     Complex-Highest No. of Days: '1237'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '43'
     Expedited Processing-Average No. of Days: '189.79'
     Expedited Processing-Highest No. of Days: '851'
+    Expedited Processing-Lowest No. of Days: less than 1
     Expedited Processing-Median No. of Days: '147.5'
     Simple-Average No. of Days: '18.93'
     Simple-Highest No. of Days: '642'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '12'
   '2013':
     Complex-Average No. of Days: '115.81'
     Complex-Highest No. of Days: '1232'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '64'
     Expedited Processing-Average No. of Days: '142.91'
     Expedited Processing-Highest No. of Days: '997'
+    Expedited Processing-Lowest No. of Days: less than 1
     Expedited Processing-Median No. of Days: '30.5'
     Simple-Average No. of Days: '21.75'
     Simple-Highest No. of Days: '815'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '12'
 service_center: 'Phone: (301) 583-7354'
 top_level: false

@@ -81,8 +81,10 @@ request_time_stats:
   '2013':
     Complex-Average No. of Days: '31.07'
     Complex-Highest No. of Days: '128'
+    Complex-Lowest No. of Days: less than 1
     Complex-Median No. of Days: '28'
     Simple-Average No. of Days: '8.36'
     Simple-Highest No. of Days: '41'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '6.5'
 usa_id: '49113'

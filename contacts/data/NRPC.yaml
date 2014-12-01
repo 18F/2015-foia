@@ -16,6 +16,7 @@ departments:
     '2008':
       Complex-Average No. of Days: '27'
       Complex-Highest No. of Days: '228'
+      Complex-Lowest No. of Days: less than 1
       Complex-Median No. of Days: '14'
       Expedited Processing-Average No. of Days: '10'
       Expedited Processing-Highest No. of Days: '17'
@@ -23,6 +24,7 @@ departments:
       Expedited Processing-Median No. of Days: '10'
       Simple-Average No. of Days: '10'
       Simple-Highest No. of Days: '26'
+      Simple-Lowest No. of Days: less than 1
       Simple-Median No. of Days: '4'
     '2009':
       Complex-Average No. of Days: '69'
@@ -42,6 +44,10 @@ departments:
       Complex-Highest No. of Days: '609'
       Complex-Lowest No. of Days: '10'
       Complex-Median No. of Days: '6'
+      Expedited Processing-Average No. of Days: '0'
+      Expedited Processing-Highest No. of Days: '0'
+      Expedited Processing-Lowest No. of Days: '0'
+      Expedited Processing-Median No. of Days: '0'
       Simple-Average No. of Days: '10'
       Simple-Highest No. of Days: '20'
       Simple-Lowest No. of Days: '1'

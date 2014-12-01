@@ -78,11 +78,27 @@ keywords:
 name: Corporation for National and Community Service
 request_time_stats:
   '2008':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '9'
     Simple-Highest No. of Days: '20'
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '7'
   '2009':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '9.72'
     Simple-Highest No. of Days: '40'
     Simple-Lowest No. of Days: '1'
@@ -98,6 +114,7 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '18'
     Simple-Average No. of Days: '20'
     Simple-Highest No. of Days: '82'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '17'
   '2011':
     Complex-Average No. of Days: '29'
@@ -136,5 +153,6 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '281'
     Simple-Average No. of Days: '45'
     Simple-Highest No. of Days: '280'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '22'
 usa_id: '52593'

@@ -32,6 +32,10 @@ request_time_stats:
     Complex-Highest No. of Days: '328'
     Complex-Lowest No. of Days: '19'
     Complex-Median No. of Days: '28'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '21'
     Simple-Highest No. of Days: '42'
     Simple-Lowest No. of Days: '10'
@@ -95,5 +99,6 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '5.5'
     Simple-Average No. of Days: '11.6'
     Simple-Highest No. of Days: '20'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '13'
 usa_id: '52636'

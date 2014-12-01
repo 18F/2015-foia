@@ -685,16 +685,6 @@ class ProcessingTimeScaperTests(TestCase):
         years = sorted(years)
         self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
 
-    def test_zero_to_na(self):
-        """ Converts `None` and 0 to `NA` """
-
-        data = processing_time_scraper.zero_to_na(0)
-        expected_data = 'NA'
-        self.assertEqual(data, expected_data)
-
-        data = processing_time_scraper.zero_to_na(None)
-        self.assertEqual(data, expected_data)
-
     def test_clean_html(self):
         """ Should replace `<1` with 1 """
 

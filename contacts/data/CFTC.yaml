@@ -84,6 +84,14 @@ request_time_stats:
     Simple-Lowest No. of Days: '1'
     Simple-Median No. of Days: '9.5'
   '2010':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '22.79'
     Simple-Highest No. of Days: '253'
     Simple-Lowest No. of Days: '1'
@@ -93,8 +101,13 @@ request_time_stats:
     Complex-Highest No. of Days: '473'
     Complex-Lowest No. of Days: '1'
     Complex-Median No. of Days: '79'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '28.39'
     Simple-Highest No. of Days: '145'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '13.5'
   '2012':
     Complex-Average No. of Days: '146.47'
@@ -103,6 +116,7 @@ request_time_stats:
     Complex-Median No. of Days: '108'
     Simple-Average No. of Days: '46.52'
     Simple-Highest No. of Days: '333'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '18'
   '2013':
     Complex-Average No. of Days: '239.27'
