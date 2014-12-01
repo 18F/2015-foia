@@ -615,21 +615,21 @@ class ProcessingTimeScaperTests(TestCase):
 
         expected_data = {
             'Federal Retirement Thrift Investment Board_2012_FRTIB': {
-                'simple_average_days': '27',
-                'complex_lowest_days': 'NA',
-                'expedited_processing_highest_days': 'NA',
-                'expedited_processing_lowest_days': 'NA',
-                'expedited_processing_average_days': 'NA',
-                'complex_highest_days': 'NA',
-                'complex_average_days': 'NA',
-                'complex_median_days': 'NA',
-                'simple_median_days': '20',
-                'expedited_processing_median_days': 'NA',
-                'component': 'FRTIB',
-                'agency': 'FRTIB',
-                'year': '2012',
-                'simple_lowest_days': '1',
-                'simple_highest_days': '57'}}
+                'Expedited Processing-Average No. of Days': 'NA',
+                'Complex-Average No. of Days': 'NA',
+                'Agency': 'FRTIB',
+                'Expedited Processing-Median No. of Days': 'NA',
+                'Complex-Highest No. of Days': 'NA',
+                'Component': 'FRTIB',
+                'Expedited Processing-Highest No. of Days': 'NA',
+                'Expedited Processing-Lowest No. of Days': 'NA',
+                'Simple-Highest No. of Days': '57',
+                'Year': '2012',
+                'Simple-Lowest No. of Days': '1',
+                'Simple-Average No. of Days': '27',
+                'Simple-Median No. of Days': '20',
+                'Complex-Median No. of Days': 'NA',
+                'Complex-Lowest No. of Days': 'NA'}}
 
         testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
         params = {"advanceSearch": "71001.gt.-999999"}
@@ -650,7 +650,7 @@ class ProcessingTimeScaperTests(TestCase):
         test_row = BeautifulSoup('<span>1</span><span>Agency</span>')
         test_row = test_row.findAll('span')
         key, value = processing_time_scraper.get_key_values(
-            test_row, ['A', 'agency'], 'Year', 'Name')
+            test_row, ['A', 'Agency'], 'Year', 'Name')
         self.assertEqual(key, 'Name_Year_Agency')
 
     def test_zip_and_clean(self):
@@ -668,8 +668,8 @@ class ProcessingTimeScaperTests(TestCase):
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
             'DOS_2013DOS': {
-                'simple_mean_days': '22', 'agency': 'DOS',
-                'year': '2013', 'component': 'DOS'}}
+                'simple_mean_days': '22', 'Agency': 'DOS',
+                'Year': '2013', 'Component': 'DOS'}}
         expected_data = {
             'name': "DOS", "other_data": "text blob",
             'request_time_stats': {
