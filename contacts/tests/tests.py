@@ -615,22 +615,22 @@ class ProcessingTimeScaperTests(TestCase):
 
         expected_data = {
             'Federal Retirement Thrift Investment Board_2012_FRTIB': {
+                'simple_median_days': '20',
                 '': '',
-                'Component': 'FRTIB',
-                'Complex-Average No. of Days': '0',
-                'Simple-Highest No. of Days': '57',
-                'Agency': 'FRTIB',
-                'Expedited Processing-Median No. of Days': '0',
-                'Expedited Processing-Average No. of Days': '0',
-                'Expedited Processing-Highest No. of Days': '0',
-                'Year': '2012',
-                'Complex-Lowest No. of Days': '0',
-                'Simple-Lowest No. of Days': '1',
-                'Expedited Processing-Lowest No. of Days': '0',
-                'Simple-Average No. of Days': '27',
-                'Complex-Median No. of Days': '0',
-                'Complex-Highest No. of Days': '0',
-                'Simple-Median No. of Days': '20'}}
+                'simple_average_days': '27',
+                'complex_lowest_days': '0',
+                'expedited_processing_median_days': '0',
+                'agency': 'FRTIB',
+                'expedited_processing_average_days': '0',
+                'complex_median_days': '0',
+                'component': 'FRTIB',
+                'year': '2012',
+                'simple_lowest_days': '1',
+                'simple_highest_days': '57',
+                'complex_average_days': '0',
+                'expedited_processing_highest_days': '0',
+                'complex_highest_days': '0',
+                'expedited_processing_lowest_days': '0'}}
 
         testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
         params = {"advanceSearch": "71001.gt.-999999"}
@@ -652,8 +652,8 @@ class ProcessingTimeScaperTests(TestCase):
         test_row = BeautifulSoup('<span>1</span><span>Agency</span>')
         test_row = test_row.findAll('span')
         key, value = processing_time_scraper.get_key_values(
-            test_row, ['A', 'Agency'], 'Year', 'Name')
-        self.assertEqual(key, 'Name_Year_Agency')
+            test_row, ['a', 'agency'], 'year', 'name')
+        self.assertEqual(key, 'name_year_Agency')
 
     def test_zip_and_clean(self):
         """ Returns a zipped dictionary with 0s coded as NAs """
@@ -670,8 +670,8 @@ class ProcessingTimeScaperTests(TestCase):
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
             'DOS_2013DOS': {
-                'simple_mean_days': '22', 'Agency': 'DOS',
-                'Year': '2013', 'Component': 'DOS'}}
+                'simple_mean_days': '22', 'agency': 'DOS',
+                'year': '2013', 'component': 'DOS'}}
         expected_data = {
             'name': "DOS", "other_data": "text blob",
             'request_time_stats': {
@@ -686,6 +686,16 @@ class ProcessingTimeScaperTests(TestCase):
         years = processing_time_scraper. get_years()
         years = sorted(years)
         self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
+
+    def test_clean_names(self):
+        '''Should replace `-`, ` `, and `No. of` with underscores and
+        make all elements of an array lower case'''
+
+        test_array = [
+            'Simple-Median No. of Days', 'Complex-Median No. of Days']
+        expected_array = ['simple_median_days', 'complex_median_days']
+        returned_array = processing_time_scraper.clean_names(test_array)
+        self.assertEqual(returned_array, expected_array)
 
     def test_clean_html(self):
         """ Should replace `<1` with 1 """
