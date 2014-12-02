@@ -184,6 +184,77 @@ name: Merit Systems Protection Board
 phone: 202-653-7200
 public_liaison: 'Bernard Parker, Phone: (202) 254-4475'
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '47.5'
+    Complex-Highest No. of Days: '180'
+    Complex-Lowest No. of Days: '30'
+    Complex-Median No. of Days: '40'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '9.2'
+    Simple-Highest No. of Days: '25'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '11'
+  '2009':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: '93'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '7'
+  '2010':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '17'
+    Simple-Highest No. of Days: '85'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '8'
+  '2011':
+    Complex-Average No. of Days: '42'
+    Complex-Highest No. of Days: '81'
+    Complex-Lowest No. of Days: '4'
+    Complex-Median No. of Days: '42'
+    Simple-Average No. of Days: '9'
+    Simple-Highest No. of Days: '35'
+    Simple-Lowest No. of Days: '0'
+    Simple-Median No. of Days: '17'
+  '2012':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '8'
+    Expedited Processing-Highest No. of Days: '8'
+    Expedited Processing-Lowest No. of Days: '8'
+    Expedited Processing-Median No. of Days: '8'
+    Simple-Average No. of Days: '10'
+    Simple-Highest No. of Days: '38'
+    Simple-Lowest No. of Days: '0'
+    Simple-Median No. of Days: '18'
+  '2013':
+    Complex-Average No. of Days: '67.92'
+    Complex-Highest No. of Days: '150'
+    Complex-Lowest No. of Days: '31'
+    Complex-Median No. of Days: '55'
+    Simple-Average No. of Days: '22.3'
+    Simple-Highest No. of Days: '440'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '13'
 service_center: 'Bernard Parker, Phone: (202) 254-4475'
 top_level: false
 usa_id: '52630'

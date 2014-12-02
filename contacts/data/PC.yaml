@@ -66,22 +66,40 @@ name: Peace Corps
 request_form: https://cwppc.secureprtportal.com/
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: '3'
-    Complex-Lowest No. of Days: '3'
-    Complex-Median No. of Days: '3'
+    Complex-Average No. of Days: less than 1
+    Complex-Highest No. of Days: less than 1
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: less than 1
+    Expedited Processing-Average No. of Days: '3'
+    Expedited Processing-Highest No. of Days: '3'
+    Expedited Processing-Lowest No. of Days: '3'
+    Expedited Processing-Median No. of Days: '3'
     Simple-Average No. of Days: '14'
-    Simple-Highest No. of Days: '3'
-    Simple-Lowest No. of Days: '129'
+    Simple-Highest No. of Days: '129'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '12'
   '2009':
+    Complex-Average No. of Days: less than 1
+    Complex-Highest No. of Days: less than 1
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: less than 1
+    Expedited Processing-Average No. of Days: less than 1
+    Expedited Processing-Highest No. of Days: less than 1
+    Expedited Processing-Lowest No. of Days: less than 1
+    Expedited Processing-Median No. of Days: less than 1
     Simple-Average No. of Days: '8'
-    Simple-Lowest No. of Days: '58'
+    Simple-Highest No. of Days: '58'
+    Simple-Lowest No. of Days: less than 1
     Simple-Median No. of Days: '10'
   '2010':
     Complex-Average No. of Days: '80'
     Complex-Highest No. of Days: '146'
     Complex-Lowest No. of Days: '22'
     Complex-Median No. of Days: '52'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '22'
     Simple-Highest No. of Days: '69'
     Simple-Lowest No. of Days: '1'

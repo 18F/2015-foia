@@ -101,4 +101,83 @@ keywords:
 - Whistleblowing
 - Women
 name: Nuclear Regulatory Commission
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '56'
+    Complex-Highest No. of Days: '178'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '49'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '15'
+    Simple-Highest No. of Days: '136'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '11'
+  '2009':
+    Complex-Average No. of Days: '45'
+    Complex-Highest No. of Days: '156'
+    Complex-Lowest No. of Days: '3'
+    Complex-Median No. of Days: '43'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '14'
+    Simple-Highest No. of Days: '113'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '11'
+  '2010':
+    Complex-Average No. of Days: '53'
+    Complex-Highest No. of Days: '219'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '43'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '70'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '9'
+  '2011':
+    Complex-Average No. of Days: '46'
+    Complex-Highest No. of Days: '290'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '32'
+    Expedited Processing-Average No. of Days: '6'
+    Expedited Processing-Highest No. of Days: '6'
+    Expedited Processing-Lowest No. of Days: '6'
+    Expedited Processing-Median No. of Days: '6'
+    Simple-Average No. of Days: '11'
+    Simple-Highest No. of Days: '63'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '9'
+  '2012':
+    Complex-Average No. of Days: '51'
+    Complex-Highest No. of Days: '437'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '20'
+    Expedited Processing-Average No. of Days: '135'
+    Expedited Processing-Highest No. of Days: '366'
+    Expedited Processing-Lowest No. of Days: '15'
+    Expedited Processing-Median No. of Days: '23'
+    Simple-Average No. of Days: '10'
+    Simple-Highest No. of Days: '129'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '7'
+  '2013':
+    Complex-Average No. of Days: '82'
+    Complex-Highest No. of Days: '617'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '21'
+    Expedited Processing-Average No. of Days: '391'
+    Expedited Processing-Highest No. of Days: '391'
+    Expedited Processing-Lowest No. of Days: '391'
+    Expedited Processing-Median No. of Days: '391'
+    Simple-Average No. of Days: '12'
+    Simple-Highest No. of Days: '93'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '9'
 usa_id: '52645'

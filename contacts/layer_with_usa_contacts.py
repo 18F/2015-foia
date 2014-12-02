@@ -34,7 +34,7 @@ def extract_acronym(usa_name):
 
 def load_all_usa_data():
     """Loads data from all_usa_data.json file."""
-    with open('usagov-data/all_usa_data.json', 'r') as f:
+    with open('layering_data/all_usa_data.json', 'r') as f:
         all_usa_data = json.loads(f.read())
     data = {}
     for office in all_usa_data:
@@ -50,7 +50,7 @@ def load_all_usa_data():
 def load_usacontacts():
     """Loads data from usacontacts.xls """
     data = {}
-    xls_path = "usagov-data/foiaHub-usaContacts-matches.xlsx"
+    xls_path = "layering_data/foiaHub-usaContacts-matches.xlsx"
     workbook = xlrd.open_workbook(xls_path)
     sheet = workbook.sheet_by_name(workbook.sheet_names()[0])
     header_names = [sheet.cell_value(0, i) for i in range(sheet.ncols)]

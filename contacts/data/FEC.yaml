@@ -45,6 +45,10 @@ keywords:
 name: Federal Election Commission
 request_time_stats:
   '2008':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
     Expedited Processing-Average No. of Days: '188.2'
     Expedited Processing-Highest No. of Days: '403'
     Expedited Processing-Lowest No. of Days: '25'
@@ -90,6 +94,7 @@ request_time_stats:
     Expedited Processing-Median No. of Days: '17'
     Simple-Average No. of Days: '44.4'
     Simple-Highest No. of Days: '330'
+    Simple-Lowest No. of Days: '0'
     Simple-Median No. of Days: '27'
   '2012':
     Complex-Average No. of Days: '132.6'
@@ -109,6 +114,10 @@ request_time_stats:
     Complex-Highest No. of Days: '88'
     Complex-Lowest No. of Days: '1'
     Complex-Median No. of Days: '20.5'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '16.3'
     Simple-Highest No. of Days: '35'
     Simple-Lowest No. of Days: '1'

@@ -99,4 +99,55 @@ keywords:
 - Wages
 - Women
 name: Small Business Administration
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
+    Simple-Average No. of Days: '13.7'
+    Simple-Highest No. of Days: '318'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '6'
+  '2009':
+    Expedited Processing-Average No. of Days: '4.5'
+    Expedited Processing-Highest No. of Days: '7'
+    Expedited Processing-Lowest No. of Days: '2'
+    Expedited Processing-Median No. of Days: '4.5'
+    Simple-Average No. of Days: '11.67'
+    Simple-Highest No. of Days: '427'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '8'
+  '2010':
+    Simple-Average No. of Days: '12'
+    Simple-Highest No. of Days: '297'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '7'
+  '2011':
+    Complex-Average No. of Days: '35.5'
+    Complex-Highest No. of Days: '47'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '47'
+    Expedited Processing-Average No. of Days: '10.83'
+    Expedited Processing-Highest No. of Days: '15'
+    Expedited Processing-Lowest No. of Days: less than 1
+    Expedited Processing-Median No. of Days: '12.5'
+    Simple-Average No. of Days: '5.61'
+    Simple-Highest No. of Days: '424'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '2'
+  '2012':
+    Simple-Average No. of Days: '4.2'
+    Simple-Highest No. of Days: '222'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '2'
+  '2013':
+    Simple-Average No. of Days: '6.5'
+    Simple-Highest No. of Days: '97'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '5'
 usa_id: '48139'
