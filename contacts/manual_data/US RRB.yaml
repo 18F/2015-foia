@@ -1,2 +1,4 @@
+departments:
+- name: Railroad Retirement Board
+  request_form: https://secure.rrb.gov/efoia/
 name: Railroad Retirement Board
-request_form: https://secure.rrb.gov/efoia/

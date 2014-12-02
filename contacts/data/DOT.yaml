@@ -838,6 +838,7 @@ departments:
   reading_rooms:
   - - NHTSA Electronic Reading Room (ERR)
     - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
+  request_form: http://www.nhtsa.gov/FOIA
   request_time_stats:
     '2008':
       simple_average_days: '15'

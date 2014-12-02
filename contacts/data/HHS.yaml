@@ -506,6 +506,7 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.cdc.gov/od/foia/reading.htm
+  request_form: http://www.cdc.gov/od/foia/request/index.htm
   service_center: 'Phone: (770) 488-6399'
   top_level: false
   website: http://www.cdc.gov/od/foia/index.htm

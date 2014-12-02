@@ -1,17 +1,34 @@
 departments:
-- name: Jet Propulsion Laboratory
-  description: "NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and our universe."
+- description: NASA Jet Propulsion Laboratory manages many of NASA's robotic missions
+    exploring Earth, the solar system and our universe.
+  name: Jet Propulsion Laboratory
   request_form: http://socialforms.nasa.gov/foia
-  website: http://www.jpl.nasa.gov/
   top_level: true
+  website: http://www.jpl.nasa.gov/
 - name: NASA Shared Services Center
   top_level: true
 - name: Marshall Space Flight Center
   request_form: http://socialforms.nasa.gov/foia
 - name: Dryden Flight Research Center
+  request_form: http://socialforms.nasa.gov/foia
   website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
 - name: Goddard Space Flight Center
   request_form: http://socialforms.nasa.gov/foia
 - name: Kennedy Space Center
-  website: http://www.nasa.gov/centers/kennedy/home/
   request_form: http://socialforms.nasa.gov/foia
+  website: http://www.nasa.gov/centers/kennedy/home/
+- name: Ames Research Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: Glenn Research Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: Johnson Space Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: Langley Research Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: NASA Shared Service Center (NSSC)
+  request_form: http://socialforms.nasa.gov/foia
+- name: Stennis Space Center
+  request_form: http://socialforms.nasa.gov/foia
+- name: National Aeronautics and Space Administration
+  request_form: http://socialforms.nasa.gov/foia
+name: National Aeronautics and Space Administration

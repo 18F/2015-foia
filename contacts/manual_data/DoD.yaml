@@ -1,6 +1,12 @@
 departments:
-- name: Office of the Secretary and Joint Staff
-  description: "This Requester Service Center (RSC) processes Freedom of Information Act (FOIA) requests for records related to the Office of the Secretary of Defense and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM), and other specific OSD components.* This RSC does not process FOIA requests for the entire Department of Defense (DoD). Please direct requests related to the Military Services, Combatant Commands, or other Defense Agencies, to the appropriate organization/component that maintains the record(s) of interest."
+- description: This Requester Service Center (RSC) processes Freedom of Information
+    Act (FOIA) requests for records related to the Office of the Secretary of Defense
+    and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
+    and other specific OSD components.* This RSC does not process FOIA requests for
+    the entire Department of Defense (DoD). Please direct requests related to the
+    Military Services, Combatant Commands, or other Defense Agencies, to the appropriate
+    organization/component that maintains the record(s) of interest.
+  name: Office of the Secretary and Joint Staff
   top_level: true
 - name: Department of the Air Force
   top_level: true
@@ -13,8 +19,8 @@ departments:
 - name: National Geographic Intelligence Agency
   top_level: true
 - name: National Guard Bureau
-  website: http://www.arng.army.mil/Pages/FOIA.aspx
   top_level: true
+  website: http://www.arng.army.mil/Pages/FOIA.aspx
 - name: National Reconnaissance Office
   top_level: true
 - name: National Security Agency
@@ -29,8 +35,14 @@ departments:
 - name: U.S. Pacific Command
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - name: U.S. Southern Command
+  request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   website: http://www.socom.mil/FOIA/Pages/default.aspx
 - name: U.S. Transportation Command
+  request_form: http://www.transcom.mil/foia/requestform.cfm
   website: http://www.transcom.mil/foia/
 - name: Armed Services Board of Contract Appeals
   website: http://www.asbca.mil
+- name: Department of the Army - Freedom of Information and Privacy Office
+  request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
+- name: U.S. Special Operations Command
+  request_form: http://www.socom.mil/FOIA/Pages/Request.aspx

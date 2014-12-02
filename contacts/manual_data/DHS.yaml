@@ -4,15 +4,15 @@ departments:
 - name: U.S. Coast Guard
   top_level: true
 - name: U.S. Customs & Border Protection
-  website: http://www.cbp.gov/site-policy-notices/foia
   top_level: true
+  website: http://www.cbp.gov/site-policy-notices/foia
 - name: Federal Emergency Management Agency
   top_level: true
   website: http://www.fema.gov/fema-freedom-information-act
 - name: Federal Law Enforcement Training Center
+  request_form: http://www.fletc.gov/about/freedom-information-act-request
   top_level: true
   website: http://www.fletc.gov/freedom-information-act-foia
-  request_form: http://www.fletc.gov/about/freedom-information-act-request
 - name: U.S. Immigration & Customs Enforcement
   request_form: http://www.ice.gov/webform/foia-request-form
   top_level: true
@@ -21,3 +21,20 @@ departments:
 - name: Transportation Security Administration
   top_level: true
   website: http://www.tsa.gov/research-center/freedom-information-act-foia
+- name: Office for Civil Rights and Civil Liberties
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of the Inspector General
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of Intelligence & Analysis
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Directorate for National Protection and Programs
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of Operations Coordination and Planning
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Science & Technology Directorate
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of Biometric Identity Management
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Department of Homeland Security
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+name: Department of Homeland Security

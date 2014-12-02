@@ -231,6 +231,7 @@ departments:
   name: Office for Civil Rights and Civil Liberties
   phone: 202-357-1218
   public_liaison: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '97'
@@ -1098,6 +1099,7 @@ departments:
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.dhs.gov/office-inspector-general-foia-documents
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '203.89'
@@ -1186,6 +1188,7 @@ departments:
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.dhs.gov/foia-library
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '43.41'
@@ -1263,6 +1266,7 @@ departments:
   name: Directorate for National Protection and Programs
   phone: 703-235-2211
   public_liaison: 'Sandy Ford Page, Phone: (703) 235-2211'
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '215.5'
@@ -1348,6 +1352,7 @@ departments:
   name: Office of Operations Coordination and Planning
   phone: 202-447-4156
   public_liaison: 'Michael Page, Phone: (202) 447-4156'
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '18.45'
@@ -1427,6 +1432,7 @@ departments:
   name: Science & Technology Directorate
   phone: 202-254-6342
   public_liaison: 'Katrina Hagan, Phone: (202) 254-6342'
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
       complex_average_days: '100'
@@ -1740,6 +1746,7 @@ departments:
   name: Office of Biometric Identity Management
   phone: 202-295-5454
   public_liaison: 'Michael Johnson, Phone: (202) 295-5454'
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   service_center: 'Phone: (202) 295-5454'
   top_level: false
   website: http://www.dhs.gov/files/programs/usv.shtm

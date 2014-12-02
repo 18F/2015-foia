@@ -295,6 +295,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - https://www.rmda.army.mil/foia/FOIA_ReadingRoom/index.aspx
+  request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
   request_time_stats:
     '2008':
       complex_average_days: '41'
@@ -2395,6 +2396,7 @@ departments:
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -2475,6 +2477,7 @@ departments:
   name: U.S. Special Operations Command
   phone: 813-826-3212
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  request_form: http://www.socom.mil/FOIA/Pages/Request.aspx
   request_time_stats:
     '2008':
       complex_average_days: '598'
@@ -2651,6 +2654,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - http://www.transcom.mil/foia/reading_room.cfm
+  request_form: http://www.transcom.mil/foia/requestform.cfm
   request_time_stats:
     '2008':
       complex_average_days: '51'

@@ -1,0 +1,40 @@
+departments:
+- name: Headquarters
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Atlanta District Office (Savanna Local Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
+    Offices; Raleigh Area Office
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Houston District Office (New Orleans Field Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
+    Area Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
+    Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Memphis District Office (Little Rock and Nashville Area Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Miami District Office (Tampa Field Office and San Juan Local Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
+    Area Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
+    Local Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
+- name: Washington Field Office
+  request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
