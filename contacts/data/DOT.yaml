@@ -24,67 +24,67 @@ departments:
     - http://www.dot.gov/foia/ost-electronic-reading-room
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '287'
-      Complex-Highest No. of Days: '1531'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '178'
-      Expedited Processing-Average No. of Days: '2'
-      Expedited Processing-Highest No. of Days: '2'
-      Expedited Processing-Lowest No. of Days: '2'
-      Expedited Processing-Median No. of Days: '2'
-      Simple-Average No. of Days: '46'
-      Simple-Highest No. of Days: '644'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '8'
+      complex_average_days: '287'
+      complex_highest_days: '1531'
+      complex_lowest_days: less than 1
+      complex_median_days: '178'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '46'
+      simple_highest_days: '644'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
     '2009':
-      Complex-Average No. of Days: '152'
-      Complex-Highest No. of Days: '784'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '43'
-      Expedited Processing-Average No. of Days: '3'
-      Expedited Processing-Highest No. of Days: '3'
-      Expedited Processing-Lowest No. of Days: '3'
-      Expedited Processing-Median No. of Days: '3'
-      Simple-Average No. of Days: '19'
-      Simple-Highest No. of Days: '581'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '3'
+      complex_average_days: '152'
+      complex_highest_days: '784'
+      complex_lowest_days: less than 1
+      complex_median_days: '43'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '19'
+      simple_highest_days: '581'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
     '2010':
-      Complex-Average No. of Days: '19'
-      Complex-Highest No. of Days: '58'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '18'
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '108'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '3'
+      complex_average_days: '19'
+      complex_highest_days: '58'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      simple_average_days: '8'
+      simple_highest_days: '108'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
     '2011':
-      Complex-Average No. of Days: '64'
-      Complex-Highest No. of Days: '674'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '33'
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '136'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '4'
+      complex_average_days: '64'
+      complex_highest_days: '674'
+      complex_lowest_days: less than 1
+      complex_median_days: '33'
+      simple_average_days: '13'
+      simple_highest_days: '136'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
     '2012':
-      Complex-Average No. of Days: '56'
-      Complex-Highest No. of Days: '582'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '23'
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '135'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '2'
+      complex_average_days: '56'
+      complex_highest_days: '582'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      simple_average_days: '8'
+      simple_highest_days: '135'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
     '2013':
-      Complex-Average No. of Days: '73'
-      Complex-Highest No. of Days: '910'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '28'
-      Simple-Average No. of Days: '9'
-      Simple-Highest No. of Days: '138'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '5'
+      complex_average_days: '73'
+      complex_highest_days: '910'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      simple_average_days: '9'
+      simple_highest_days: '138'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center: 'Darlene Wallace, Phone: (202) 366-4542'
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
@@ -209,83 +209,83 @@ departments:
   request_form: http://www.faa.gov/foia/foia_request/
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '71'
-      Complex-Highest No. of Days: '1060'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '28'
-      Expedited Processing-Average No. of Days: '111'
-      Expedited Processing-Highest No. of Days: '1646'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '19'
-      Simple-Average No. of Days: '27'
-      Simple-Highest No. of Days: '1393'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '6'
+      complex_average_days: '71'
+      complex_highest_days: '1060'
+      complex_lowest_days: less than 1
+      complex_median_days: '28'
+      expedited_processing_average_days: '111'
+      expedited_processing_highest_days: '1646'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '19'
+      simple_average_days: '27'
+      simple_highest_days: '1393'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
     '2009':
-      Complex-Average No. of Days: '48'
-      Complex-Highest No. of Days: '1086'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '23'
-      Expedited Processing-Average No. of Days: '23'
-      Expedited Processing-Highest No. of Days: '291'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '13.5'
-      Simple-Average No. of Days: '30'
-      Simple-Highest No. of Days: '1172'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '5'
+      complex_average_days: '48'
+      complex_highest_days: '1086'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      expedited_processing_average_days: '23'
+      expedited_processing_highest_days: '291'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '13.5'
+      simple_average_days: '30'
+      simple_highest_days: '1172'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
     '2010':
-      Complex-Average No. of Days: '56'
-      Complex-Highest No. of Days: '1502'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '26'
-      Expedited Processing-Average No. of Days: '32'
-      Expedited Processing-Highest No. of Days: '189'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '19'
-      Simple-Average No. of Days: '19'
-      Simple-Highest No. of Days: '1531'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '8'
+      complex_average_days: '56'
+      complex_highest_days: '1502'
+      complex_lowest_days: less than 1
+      complex_median_days: '26'
+      expedited_processing_average_days: '32'
+      expedited_processing_highest_days: '189'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '19'
+      simple_average_days: '19'
+      simple_highest_days: '1531'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
     '2011':
-      Complex-Average No. of Days: '74'
-      Complex-Highest No. of Days: '1121'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '30'
-      Expedited Processing-Average No. of Days: '26'
-      Expedited Processing-Highest No. of Days: '92'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '22.5'
-      Simple-Average No. of Days: '22'
-      Simple-Highest No. of Days: '1296'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '16'
+      complex_average_days: '74'
+      complex_highest_days: '1121'
+      complex_lowest_days: less than 1
+      complex_median_days: '30'
+      expedited_processing_average_days: '26'
+      expedited_processing_highest_days: '92'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '22.5'
+      simple_average_days: '22'
+      simple_highest_days: '1296'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
     '2012':
-      Complex-Average No. of Days: '61'
-      Complex-Highest No. of Days: '1472'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '30'
-      Expedited Processing-Average No. of Days: '25'
-      Expedited Processing-Highest No. of Days: '164'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '17'
-      Simple-Average No. of Days: '15'
-      Simple-Highest No. of Days: '1323'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '10'
+      complex_average_days: '61'
+      complex_highest_days: '1472'
+      complex_lowest_days: less than 1
+      complex_median_days: '30'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '164'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '17'
+      simple_average_days: '15'
+      simple_highest_days: '1323'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
     '2013':
-      Complex-Average No. of Days: '51'
-      Complex-Highest No. of Days: '1074'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '29'
-      Expedited Processing-Average No. of Days: '42'
-      Expedited Processing-Highest No. of Days: '445'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '15'
-      Simple-Average No. of Days: '17'
-      Simple-Highest No. of Days: '1491'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '12'
+      complex_average_days: '51'
+      complex_highest_days: '1074'
+      complex_lowest_days: less than 1
+      complex_median_days: '29'
+      expedited_processing_average_days: '42'
+      expedited_processing_highest_days: '445'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '15'
+      simple_average_days: '17'
+      simple_highest_days: '1491'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center: 'Phone: (202) 267-9165'
   top_level: true
   usa_id: '48033'
@@ -360,83 +360,83 @@ departments:
     - http://www.fhwa.dot.gov/foia/err.htm
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '90'
-      Complex-Highest No. of Days: '252'
-      Complex-Lowest No. of Days: '5'
-      Complex-Median No. of Days: '80'
-      Expedited Processing-Average No. of Days: '72'
-      Expedited Processing-Highest No. of Days: '142'
-      Expedited Processing-Lowest No. of Days: '2'
-      Expedited Processing-Median No. of Days: '72'
-      Simple-Average No. of Days: '28'
-      Simple-Highest No. of Days: '422'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '13'
+      complex_average_days: '90'
+      complex_highest_days: '252'
+      complex_lowest_days: '5'
+      complex_median_days: '80'
+      expedited_processing_average_days: '72'
+      expedited_processing_highest_days: '142'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '72'
+      simple_average_days: '28'
+      simple_highest_days: '422'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
     '2009':
-      Complex-Average No. of Days: '147'
-      Complex-Highest No. of Days: '366'
-      Complex-Lowest No. of Days: '18'
-      Complex-Median No. of Days: '103'
-      Expedited Processing-Average No. of Days: '6'
-      Expedited Processing-Highest No. of Days: '11'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '5'
-      Simple-Average No. of Days: '28'
-      Simple-Highest No. of Days: '434'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '16'
+      complex_average_days: '147'
+      complex_highest_days: '366'
+      complex_lowest_days: '18'
+      complex_median_days: '103'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '28'
+      simple_highest_days: '434'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
     '2010':
-      Complex-Average No. of Days: '190'
-      Complex-Highest No. of Days: '1012'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '13'
-      Expedited Processing-Average No. of Days: '28'
-      Expedited Processing-Highest No. of Days: '31'
-      Expedited Processing-Lowest No. of Days: '25'
-      Expedited Processing-Median No. of Days: '28'
-      Simple-Average No. of Days: '31'
-      Simple-Highest No. of Days: '738'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '12'
+      complex_average_days: '190'
+      complex_highest_days: '1012'
+      complex_lowest_days: less than 1
+      complex_median_days: '13'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '31'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '28'
+      simple_average_days: '31'
+      simple_highest_days: '738'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
     '2011':
-      Complex-Average No. of Days: '31'
-      Complex-Highest No. of Days: '345'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '13'
-      Expedited Processing-Average No. of Days: '17'
-      Expedited Processing-Highest No. of Days: '58'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '8'
-      Simple-Average No. of Days: '43'
-      Simple-Highest No. of Days: '500'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '12'
+      complex_average_days: '31'
+      complex_highest_days: '345'
+      complex_lowest_days: less than 1
+      complex_median_days: '13'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '58'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '8'
+      simple_average_days: '43'
+      simple_highest_days: '500'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
     '2012':
-      Complex-Average No. of Days: '52'
-      Complex-Highest No. of Days: '575'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '23'
-      Expedited Processing-Average No. of Days: '17'
-      Expedited Processing-Highest No. of Days: '51'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '12'
-      Simple-Average No. of Days: '27'
-      Simple-Highest No. of Days: '531'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '13'
+      complex_average_days: '52'
+      complex_highest_days: '575'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '51'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '12'
+      simple_average_days: '27'
+      simple_highest_days: '531'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
     '2013':
-      Complex-Average No. of Days: '27'
-      Complex-Highest No. of Days: '261'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '6'
-      Expedited Processing-Average No. of Days: '21'
-      Expedited Processing-Highest No. of Days: '101'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '15'
-      Simple-Average No. of Days: '25'
-      Simple-Highest No. of Days: '574'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '15'
+      complex_average_days: '27'
+      complex_highest_days: '261'
+      complex_lowest_days: less than 1
+      complex_median_days: '6'
+      expedited_processing_average_days: '21'
+      expedited_processing_highest_days: '101'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '15'
+      simple_average_days: '25'
+      simple_highest_days: '574'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center: 'Phone: (202) 366-0948'
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
@@ -497,43 +497,43 @@ departments:
     - http://www.fra.dot.gov/Page/P0388
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '113'
-      Complex-Highest No. of Days: '557'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '41'
+      complex_average_days: '113'
+      complex_highest_days: '557'
+      complex_lowest_days: '1'
+      complex_median_days: '41'
     '2009':
-      Simple-Average No. of Days: '86'
-      Simple-Highest No. of Days: '657'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '31'
+      simple_average_days: '86'
+      simple_highest_days: '657'
+      simple_lowest_days: '1'
+      simple_median_days: '31'
     '2010':
-      Simple-Average No. of Days: '124'
-      Simple-Highest No. of Days: '580'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '53'
+      simple_average_days: '124'
+      simple_highest_days: '580'
+      simple_lowest_days: less than 1
+      simple_median_days: '53'
     '2011':
-      Expedited Processing-Average No. of Days: '11.5'
-      Expedited Processing-Highest No. of Days: '22'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '11.5'
-      Simple-Average No. of Days: '82'
-      Simple-Highest No. of Days: '626'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '31'
+      expedited_processing_average_days: '11.5'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11.5'
+      simple_average_days: '82'
+      simple_highest_days: '626'
+      simple_lowest_days: '1'
+      simple_median_days: '31'
     '2012':
-      Complex-Average No. of Days: '76'
-      Complex-Highest No. of Days: '565'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '39'
+      complex_average_days: '76'
+      complex_highest_days: '565'
+      complex_lowest_days: '1'
+      complex_median_days: '39'
     '2013':
-      Complex-Average No. of Days: '51'
-      Complex-Highest No. of Days: '524'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '31'
-      Expedited Processing-Average No. of Days: '7'
-      Expedited Processing-Highest No. of Days: '7'
-      Expedited Processing-Lowest No. of Days: '7'
-      Expedited Processing-Median No. of Days: '7'
+      complex_average_days: '51'
+      complex_highest_days: '524'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7'
   service_center: 'Phone: (202) 493-6065'
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
@@ -587,47 +587,47 @@ departments:
     - http://www.fta.dot.gov/legislation_law/12316_8574.html
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '24'
-      Simple-Highest No. of Days: '282'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '17'
+      simple_average_days: '24'
+      simple_highest_days: '282'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
     '2009':
-      Simple-Average No. of Days: '25'
-      Simple-Highest No. of Days: '233'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '18'
+      simple_average_days: '25'
+      simple_highest_days: '233'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
     '2010':
-      Simple-Average No. of Days: '23'
-      Simple-Highest No. of Days: '110'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '19'
+      simple_average_days: '23'
+      simple_highest_days: '110'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
     '2011':
-      Complex-Average No. of Days: '12'
-      Complex-Highest No. of Days: '12'
-      Complex-Lowest No. of Days: '12'
-      Complex-Median No. of Days: '12'
-      Simple-Average No. of Days: '20'
-      Simple-Highest No. of Days: '123'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '17'
+      complex_average_days: '12'
+      complex_highest_days: '12'
+      complex_lowest_days: '12'
+      complex_median_days: '12'
+      simple_average_days: '20'
+      simple_highest_days: '123'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
     '2012':
-      Complex-Average No. of Days: '61'
-      Complex-Highest No. of Days: '145'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '50'
-      Expedited Processing-Average No. of Days: '28'
-      Expedited Processing-Highest No. of Days: '28'
-      Expedited Processing-Lowest No. of Days: '27'
-      Expedited Processing-Median No. of Days: '28'
-      Simple-Average No. of Days: '19'
-      Simple-Highest No. of Days: '193'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '17'
+      complex_average_days: '61'
+      complex_highest_days: '145'
+      complex_lowest_days: '1'
+      complex_median_days: '50'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '27'
+      expedited_processing_median_days: '28'
+      simple_average_days: '19'
+      simple_highest_days: '193'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
     '2013':
-      Simple-Average No. of Days: '23'
-      Simple-Highest No. of Days: '214'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '20'
+      simple_average_days: '23'
+      simple_highest_days: '214'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center: 'Phone: (202) 366-2494'
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
@@ -695,83 +695,83 @@ departments:
     - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '92'
-      Complex-Highest No. of Days: '637'
-      Complex-Lowest No. of Days: '14'
-      Complex-Median No. of Days: '49'
-      Expedited Processing-Average No. of Days: '150'
-      Expedited Processing-Highest No. of Days: '522'
-      Expedited Processing-Lowest No. of Days: '4'
-      Expedited Processing-Median No. of Days: '50'
-      Simple-Average No. of Days: '47'
-      Simple-Highest No. of Days: '722'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '39'
+      complex_average_days: '92'
+      complex_highest_days: '637'
+      complex_lowest_days: '14'
+      complex_median_days: '49'
+      expedited_processing_average_days: '150'
+      expedited_processing_highest_days: '522'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '50'
+      simple_average_days: '47'
+      simple_highest_days: '722'
+      simple_lowest_days: '2'
+      simple_median_days: '39'
     '2009':
-      Complex-Average No. of Days: '52'
-      Complex-Highest No. of Days: '354'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '42'
-      Expedited Processing-Average No. of Days: '34'
-      Expedited Processing-Highest No. of Days: '124'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '17'
-      Simple-Average No. of Days: '39'
-      Simple-Highest No. of Days: '324'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '34'
+      complex_average_days: '52'
+      complex_highest_days: '354'
+      complex_lowest_days: less than 1
+      complex_median_days: '42'
+      expedited_processing_average_days: '34'
+      expedited_processing_highest_days: '124'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '17'
+      simple_average_days: '39'
+      simple_highest_days: '324'
+      simple_lowest_days: less than 1
+      simple_median_days: '34'
     '2010':
-      Complex-Average No. of Days: '39'
-      Complex-Highest No. of Days: '749'
-      Complex-Lowest No. of Days: '2'
-      Complex-Median No. of Days: '34'
-      Expedited Processing-Average No. of Days: '61'
-      Expedited Processing-Highest No. of Days: '259'
-      Expedited Processing-Lowest No. of Days: '3'
-      Expedited Processing-Median No. of Days: '24'
-      Simple-Average No. of Days: '36'
-      Simple-Highest No. of Days: '192'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '35'
+      complex_average_days: '39'
+      complex_highest_days: '749'
+      complex_lowest_days: '2'
+      complex_median_days: '34'
+      expedited_processing_average_days: '61'
+      expedited_processing_highest_days: '259'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '24'
+      simple_average_days: '36'
+      simple_highest_days: '192'
+      simple_lowest_days: less than 1
+      simple_median_days: '35'
     '2011':
-      Complex-Average No. of Days: '39'
-      Complex-Highest No. of Days: '366'
-      Complex-Lowest No. of Days: '4'
-      Complex-Median No. of Days: '39'
-      Expedited Processing-Average No. of Days: '35'
-      Expedited Processing-Highest No. of Days: '100'
-      Expedited Processing-Lowest No. of Days: '10'
-      Expedited Processing-Median No. of Days: '16'
-      Simple-Average No. of Days: '36'
-      Simple-Highest No. of Days: '150'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '39'
+      complex_average_days: '39'
+      complex_highest_days: '366'
+      complex_lowest_days: '4'
+      complex_median_days: '39'
+      expedited_processing_average_days: '35'
+      expedited_processing_highest_days: '100'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '16'
+      simple_average_days: '36'
+      simple_highest_days: '150'
+      simple_lowest_days: '1'
+      simple_median_days: '39'
     '2012':
-      Complex-Average No. of Days: '53'
-      Complex-Highest No. of Days: '307'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '50'
-      Expedited Processing-Average No. of Days: '16'
-      Expedited Processing-Highest No. of Days: '81'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '9'
-      Simple-Average No. of Days: '41'
-      Simple-Highest No. of Days: '108'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '42'
+      complex_average_days: '53'
+      complex_highest_days: '307'
+      complex_lowest_days: '1'
+      complex_median_days: '50'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '81'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '9'
+      simple_average_days: '41'
+      simple_highest_days: '108'
+      simple_lowest_days: less than 1
+      simple_median_days: '42'
     '2013':
-      Complex-Average No. of Days: '59'
-      Complex-Highest No. of Days: '299'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '57'
-      Expedited Processing-Average No. of Days: '42'
-      Expedited Processing-Highest No. of Days: '130'
-      Expedited Processing-Lowest No. of Days: '3'
-      Expedited Processing-Median No. of Days: '15'
-      Simple-Average No. of Days: '48'
-      Simple-Highest No. of Days: '158'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '51'
+      complex_average_days: '59'
+      complex_highest_days: '299'
+      complex_lowest_days: less than 1
+      complex_median_days: '57'
+      expedited_processing_average_days: '42'
+      expedited_processing_highest_days: '130'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '15'
+      simple_average_days: '48'
+      simple_highest_days: '158'
+      simple_lowest_days: less than 1
+      simple_median_days: '51'
   service_center: 'Phone: (202) 366-2960'
   top_level: false
   website: http://www.fmcsa.dot.gov/foia
@@ -840,60 +840,60 @@ departments:
     - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '15'
-      Simple-Highest No. of Days: '30'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '22'
+      simple_average_days: '15'
+      simple_highest_days: '30'
+      simple_lowest_days: '2'
+      simple_median_days: '22'
     '2009':
-      Complex-Average No. of Days: '30'
-      Complex-Highest No. of Days: '39'
-      Complex-Lowest No. of Days: '21'
-      Complex-Median No. of Days: '30'
-      Expedited Processing-Average No. of Days: '8'
-      Expedited Processing-Highest No. of Days: '17'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '7'
-      Simple-Average No. of Days: '23'
-      Simple-Highest No. of Days: '168'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '20'
+      complex_average_days: '30'
+      complex_highest_days: '39'
+      complex_lowest_days: '21'
+      complex_median_days: '30'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '7'
+      simple_average_days: '23'
+      simple_highest_days: '168'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
     '2010':
-      Complex-Average No. of Days: '28'
-      Complex-Highest No. of Days: '253'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '21'
+      complex_average_days: '28'
+      complex_highest_days: '253'
+      complex_lowest_days: less than 1
+      complex_median_days: '21'
     '2011':
-      Complex-Average No. of Days: '72'
-      Complex-Highest No. of Days: '357'
-      Complex-Lowest No. of Days: '8'
-      Complex-Median No. of Days: '29'
-      Expedited Processing-Highest No. of Days: '6'
-      Simple-Average No. of Days: '32'
-      Simple-Highest No. of Days: '316'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '18'
+      complex_average_days: '72'
+      complex_highest_days: '357'
+      complex_lowest_days: '8'
+      complex_median_days: '29'
+      expedited_processing_highest_days: '6'
+      simple_average_days: '32'
+      simple_highest_days: '316'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
     '2012':
-      Complex-Average No. of Days: '51'
-      Complex-Highest No. of Days: '296'
-      Complex-Lowest No. of Days: '2'
-      Complex-Median No. of Days: '30'
-      Expedited Processing-Average No. of Days: '10'
-      Expedited Processing-Highest No. of Days: '10'
-      Expedited Processing-Lowest No. of Days: '10'
-      Expedited Processing-Median No. of Days: '10'
-      Simple-Average No. of Days: '19'
-      Simple-Highest No. of Days: '170'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '17'
+      complex_average_days: '51'
+      complex_highest_days: '296'
+      complex_lowest_days: '2'
+      complex_median_days: '30'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '19'
+      simple_highest_days: '170'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
     '2013':
-      Complex-Average No. of Days: '102'
-      Complex-Highest No. of Days: '310'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '43'
-      Simple-Average No. of Days: '20'
-      Simple-Highest No. of Days: '289'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '18'
+      complex_average_days: '102'
+      complex_highest_days: '310'
+      complex_lowest_days: '1'
+      complex_median_days: '43'
+      simple_average_days: '20'
+      simple_highest_days: '289'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
   service_center: 'Phone: (202) 366-1834'
   top_level: true
   usa_id: '48081'
@@ -961,59 +961,59 @@ departments:
     - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '160'
-      Simple-Highest No. of Days: '805'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '21'
+      simple_average_days: '160'
+      simple_highest_days: '805'
+      simple_lowest_days: '1'
+      simple_median_days: '21'
     '2009':
-      Complex-Average No. of Days: '137'
-      Complex-Highest No. of Days: '261'
-      Complex-Lowest No. of Days: '47'
-      Complex-Median No. of Days: '77'
-      Simple-Average No. of Days: '137'
-      Simple-Highest No. of Days: '146'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '6'
+      complex_average_days: '137'
+      complex_highest_days: '261'
+      complex_lowest_days: '47'
+      complex_median_days: '77'
+      simple_average_days: '137'
+      simple_highest_days: '146'
+      simple_lowest_days: '3'
+      simple_median_days: '6'
     '2010':
-      Complex-Average No. of Days: '137'
-      Complex-Highest No. of Days: '261'
-      Complex-Lowest No. of Days: '47'
-      Complex-Median No. of Days: '77'
-      Simple-Average No. of Days: '137'
-      Simple-Highest No. of Days: '146'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '6'
+      complex_average_days: '137'
+      complex_highest_days: '261'
+      complex_lowest_days: '47'
+      complex_median_days: '77'
+      simple_average_days: '137'
+      simple_highest_days: '146'
+      simple_lowest_days: '3'
+      simple_median_days: '6'
     '2011':
-      Complex-Average No. of Days: '450'
-      Complex-Highest No. of Days: '895'
-      Complex-Lowest No. of Days: '13'
-      Complex-Median No. of Days: '529'
-      Expedited Processing-Average No. of Days: '20'
-      Expedited Processing-Highest No. of Days: '20'
-      Expedited Processing-Lowest No. of Days: '20'
-      Expedited Processing-Median No. of Days: '20'
-      Simple-Average No. of Days: '239'
-      Simple-Highest No. of Days: '849'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '146'
+      complex_average_days: '450'
+      complex_highest_days: '895'
+      complex_lowest_days: '13'
+      complex_median_days: '529'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '20'
+      simple_average_days: '239'
+      simple_highest_days: '849'
+      simple_lowest_days: '1'
+      simple_median_days: '146'
     '2012':
-      Complex-Average No. of Days: '149'
-      Complex-Highest No. of Days: '360'
-      Complex-Lowest No. of Days: '38'
-      Complex-Median No. of Days: '49'
-      Simple-Average No. of Days: '242'
-      Simple-Highest No. of Days: '878'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '160'
+      complex_average_days: '149'
+      complex_highest_days: '360'
+      complex_lowest_days: '38'
+      complex_median_days: '49'
+      simple_average_days: '242'
+      simple_highest_days: '878'
+      simple_lowest_days: less than 1
+      simple_median_days: '160'
     '2013':
-      Complex-Average No. of Days: '129.5'
-      Complex-Highest No. of Days: '159'
-      Complex-Lowest No. of Days: '100'
-      Complex-Median No. of Days: '129.5'
-      Simple-Average No. of Days: '127.9'
-      Simple-Highest No. of Days: '965'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '23.5'
+      complex_average_days: '129.5'
+      complex_highest_days: '159'
+      complex_lowest_days: '100'
+      complex_median_days: '129.5'
+      simple_average_days: '127.9'
+      simple_highest_days: '965'
+      simple_lowest_days: '1'
+      simple_median_days: '23.5'
   service_center: 'Phone: (202) 366-2666'
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
@@ -1079,83 +1079,83 @@ departments:
     - http://www.phmsa.dot.gov/foia/e-reading-room
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '88'
-      Complex-Highest No. of Days: '158'
-      Complex-Lowest No. of Days: '15'
-      Complex-Median No. of Days: '89'
-      Expedited Processing-Average No. of Days: '168'
-      Expedited Processing-Highest No. of Days: '403'
-      Expedited Processing-Lowest No. of Days: '10'
-      Expedited Processing-Median No. of Days: '153'
-      Simple-Average No. of Days: '205'
-      Simple-Highest No. of Days: '1513'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '78'
+      complex_average_days: '88'
+      complex_highest_days: '158'
+      complex_lowest_days: '15'
+      complex_median_days: '89'
+      expedited_processing_average_days: '168'
+      expedited_processing_highest_days: '403'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '153'
+      simple_average_days: '205'
+      simple_highest_days: '1513'
+      simple_lowest_days: less than 1
+      simple_median_days: '78'
     '2009':
-      Complex-Average No. of Days: '438'
-      Complex-Highest No. of Days: '438'
-      Complex-Lowest No. of Days: '438'
-      Complex-Median No. of Days: '438'
-      Expedited Processing-Average No. of Days: '2'
-      Expedited Processing-Highest No. of Days: '1'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '1'
-      Simple-Average No. of Days: '131'
-      Simple-Highest No. of Days: '3543'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '13'
+      complex_average_days: '438'
+      complex_highest_days: '438'
+      complex_lowest_days: '438'
+      complex_median_days: '438'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '1'
+      simple_average_days: '131'
+      simple_highest_days: '3543'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
     '2010':
-      Complex-Average No. of Days: '44'
-      Complex-Highest No. of Days: '159'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '22'
-      Expedited Processing-Average No. of Days: '6'
-      Expedited Processing-Highest No. of Days: '6'
-      Expedited Processing-Lowest No. of Days: '5'
-      Expedited Processing-Median No. of Days: '6'
-      Simple-Average No. of Days: '32'
-      Simple-Highest No. of Days: '434'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '14'
+      complex_average_days: '44'
+      complex_highest_days: '159'
+      complex_lowest_days: less than 1
+      complex_median_days: '22'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '6'
+      simple_average_days: '32'
+      simple_highest_days: '434'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
     '2011':
-      Complex-Average No. of Days: '54'
-      Complex-Highest No. of Days: '540'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '19'
-      Expedited Processing-Average No. of Days: '28'
-      Expedited Processing-Highest No. of Days: '118'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '23'
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '74'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '5'
+      complex_average_days: '54'
+      complex_highest_days: '540'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '118'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '23'
+      simple_average_days: '8'
+      simple_highest_days: '74'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
     '2012':
-      Complex-Average No. of Days: '93'
-      Complex-Highest No. of Days: '569'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '13'
-      Expedited Processing-Average No. of Days: '44'
-      Expedited Processing-Highest No. of Days: '252'
-      Expedited Processing-Lowest No. of Days: less than 1
-      Expedited Processing-Median No. of Days: '7'
-      Simple-Average No. of Days: '11'
-      Simple-Highest No. of Days: '107'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '4'
+      complex_average_days: '93'
+      complex_highest_days: '569'
+      complex_lowest_days: less than 1
+      complex_median_days: '13'
+      expedited_processing_average_days: '44'
+      expedited_processing_highest_days: '252'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '7'
+      simple_average_days: '11'
+      simple_highest_days: '107'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
     '2013':
-      Complex-Average No. of Days: '51'
-      Complex-Highest No. of Days: '639'
-      Complex-Lowest No. of Days: less than 1
-      Complex-Median No. of Days: '11'
-      Expedited Processing-Average No. of Days: '132'
-      Expedited Processing-Highest No. of Days: '601'
-      Expedited Processing-Lowest No. of Days: '1'
-      Expedited Processing-Median No. of Days: '16'
-      Simple-Average No. of Days: '19'
-      Simple-Highest No. of Days: '162'
-      Simple-Lowest No. of Days: less than 1
-      Simple-Median No. of Days: '6'
+      complex_average_days: '51'
+      complex_highest_days: '639'
+      complex_lowest_days: less than 1
+      complex_median_days: '11'
+      expedited_processing_average_days: '132'
+      expedited_processing_highest_days: '601'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '16'
+      simple_average_days: '19'
+      simple_highest_days: '162'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center: 'Phone: (202) 366-4400'
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html
@@ -1182,47 +1182,47 @@ departments:
   public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
   request_time_stats:
     '2008':
-      Simple-Average No. of Days: '25'
-      Simple-Highest No. of Days: '155'
-      Simple-Lowest No. of Days: '7'
-      Simple-Median No. of Days: '14'
+      simple_average_days: '25'
+      simple_highest_days: '155'
+      simple_lowest_days: '7'
+      simple_median_days: '14'
     '2009':
-      Simple-Average No. of Days: '46'
-      Simple-Highest No. of Days: '179'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '19'
+      simple_average_days: '46'
+      simple_highest_days: '179'
+      simple_lowest_days: '4'
+      simple_median_days: '19'
     '2010':
-      Expedited Processing-Average No. of Days: '4'
-      Expedited Processing-Highest No. of Days: '5'
-      Expedited Processing-Lowest No. of Days: '2'
-      Expedited Processing-Median No. of Days: '4'
-      Simple-Average No. of Days: '8'
-      Simple-Highest No. of Days: '14'
-      Simple-Lowest No. of Days: '4'
-      Simple-Median No. of Days: '8'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '4'
+      simple_average_days: '8'
+      simple_highest_days: '14'
+      simple_lowest_days: '4'
+      simple_median_days: '8'
     '2011':
-      Complex-Average No. of Days: '63'
-      Complex-Highest No. of Days: '100'
-      Complex-Lowest No. of Days: '29'
-      Complex-Median No. of Days: '61'
-      Simple-Average No. of Days: '12'
-      Simple-Highest No. of Days: '21'
-      Simple-Lowest No. of Days: '3'
-      Simple-Median No. of Days: '12'
+      complex_average_days: '63'
+      complex_highest_days: '100'
+      complex_lowest_days: '29'
+      complex_median_days: '61'
+      simple_average_days: '12'
+      simple_highest_days: '21'
+      simple_lowest_days: '3'
+      simple_median_days: '12'
     '2012':
-      Complex-Average No. of Days: '113'
-      Complex-Highest No. of Days: '113'
-      Complex-Lowest No. of Days: '113'
-      Complex-Median No. of Days: '113'
-      Simple-Average No. of Days: '11'
-      Simple-Highest No. of Days: '20'
-      Simple-Lowest No. of Days: '2'
-      Simple-Median No. of Days: '12'
+      complex_average_days: '113'
+      complex_highest_days: '113'
+      complex_lowest_days: '113'
+      complex_median_days: '113'
+      simple_average_days: '11'
+      simple_highest_days: '20'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
     '2013':
-      Simple-Average No. of Days: '14'
-      Simple-Highest No. of Days: '26'
-      Simple-Lowest No. of Days: '9'
-      Simple-Median No. of Days: '12'
+      simple_average_days: '14'
+      simple_highest_days: '26'
+      simple_lowest_days: '9'
+      simple_median_days: '12'
   service_center: 'Phone: (315) 764-3275'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
@@ -1535,83 +1535,83 @@ phone: 202-366-4542
 public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: '101'
-    Complex-Highest No. of Days: '1531'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '36'
-    Expedited Processing-Average No. of Days: '126'
-    Expedited Processing-Highest No. of Days: '1646'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '31'
-    Simple-Average No. of Days: '37'
-    Simple-Highest No. of Days: '1513'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '16'
+    complex_average_days: '101'
+    complex_highest_days: '1531'
+    complex_lowest_days: less than 1
+    complex_median_days: '36'
+    expedited_processing_average_days: '126'
+    expedited_processing_highest_days: '1646'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '31'
+    simple_average_days: '37'
+    simple_highest_days: '1513'
+    simple_lowest_days: less than 1
+    simple_median_days: '16'
   '2009':
-    Complex-Average No. of Days: '58'
-    Complex-Highest No. of Days: '1086'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '27'
-    Expedited Processing-Average No. of Days: '22'
-    Expedited Processing-Highest No. of Days: '291'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '12.5'
-    Simple-Average No. of Days: '37'
-    Simple-Highest No. of Days: '3543'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '11'
+    complex_average_days: '58'
+    complex_highest_days: '1086'
+    complex_lowest_days: less than 1
+    complex_median_days: '27'
+    expedited_processing_average_days: '22'
+    expedited_processing_highest_days: '291'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '12.5'
+    simple_average_days: '37'
+    simple_highest_days: '3543'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'
   '2010':
-    Complex-Average No. of Days: '53.75'
-    Complex-Highest No. of Days: '1502'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '29'
-    Expedited Processing-Average No. of Days: '35.56'
-    Expedited Processing-Highest No. of Days: '259'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '19'
-    Simple-Average No. of Days: '20.98'
-    Simple-Highest No. of Days: '1531'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '9'
+    complex_average_days: '53.75'
+    complex_highest_days: '1502'
+    complex_lowest_days: less than 1
+    complex_median_days: '29'
+    expedited_processing_average_days: '35.56'
+    expedited_processing_highest_days: '259'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '19'
+    simple_average_days: '20.98'
+    simple_highest_days: '1531'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'
   '2011':
-    Complex-Average No. of Days: '62.55'
-    Complex-Highest No. of Days: '1121'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '33'
-    Expedited Processing-Average No. of Days: '28.67'
-    Expedited Processing-Highest No. of Days: '193'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '22.5'
-    Simple-Average No. of Days: '26.73'
-    Simple-Highest No. of Days: '1296'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '16'
+    complex_average_days: '62.55'
+    complex_highest_days: '1121'
+    complex_lowest_days: less than 1
+    complex_median_days: '33'
+    expedited_processing_average_days: '28.67'
+    expedited_processing_highest_days: '193'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '22.5'
+    simple_average_days: '26.73'
+    simple_highest_days: '1296'
+    simple_lowest_days: less than 1
+    simple_median_days: '16'
   '2012':
-    Complex-Average No. of Days: '61.912'
-    Complex-Highest No. of Days: '1472'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '37'
-    Expedited Processing-Average No. of Days: '23.69'
-    Expedited Processing-Highest No. of Days: '252'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '10'
-    Simple-Average No. of Days: '20.714'
-    Simple-Highest No. of Days: '1323'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '13'
+    complex_average_days: '61.912'
+    complex_highest_days: '1472'
+    complex_lowest_days: less than 1
+    complex_median_days: '37'
+    expedited_processing_average_days: '23.69'
+    expedited_processing_highest_days: '252'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '10'
+    simple_average_days: '20.714'
+    simple_highest_days: '1323'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
   '2013':
-    Complex-Average No. of Days: '55.825'
-    Complex-Highest No. of Days: '1074'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '34'
-    Expedited Processing-Average No. of Days: '55.75'
-    Expedited Processing-Highest No. of Days: '601'
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: '14.5'
-    Simple-Average No. of Days: '24.88'
-    Simple-Highest No. of Days: '1491'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '14'
+    complex_average_days: '55.825'
+    complex_highest_days: '1074'
+    complex_lowest_days: less than 1
+    complex_median_days: '34'
+    expedited_processing_average_days: '55.75'
+    expedited_processing_highest_days: '601'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '14.5'
+    simple_average_days: '24.88'
+    simple_highest_days: '1491'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'
 service_center: 'Phone: (202) 366-4542'
 top_level: false
 usa_id: '49035'

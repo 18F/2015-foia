@@ -64,77 +64,77 @@ name: Peace Corps
 request_form: https://cwppc.secureprtportal.com/
 request_time_stats:
   '2008':
-    Complex-Average No. of Days: less than 1
-    Complex-Highest No. of Days: less than 1
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: less than 1
-    Expedited Processing-Average No. of Days: '3'
-    Expedited Processing-Highest No. of Days: '3'
-    Expedited Processing-Lowest No. of Days: '3'
-    Expedited Processing-Median No. of Days: '3'
-    Simple-Average No. of Days: '14'
-    Simple-Highest No. of Days: '129'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '12'
+    complex_average_days: less than 1
+    complex_highest_days: less than 1
+    complex_lowest_days: less than 1
+    complex_median_days: less than 1
+    expedited_processing_average_days: '3'
+    expedited_processing_highest_days: '3'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '3'
+    simple_average_days: '14'
+    simple_highest_days: '129'
+    simple_lowest_days: less than 1
+    simple_median_days: '12'
   '2009':
-    Complex-Average No. of Days: less than 1
-    Complex-Highest No. of Days: less than 1
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: less than 1
-    Expedited Processing-Average No. of Days: less than 1
-    Expedited Processing-Highest No. of Days: less than 1
-    Expedited Processing-Lowest No. of Days: less than 1
-    Expedited Processing-Median No. of Days: less than 1
-    Simple-Average No. of Days: '8'
-    Simple-Highest No. of Days: '58'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '10'
+    complex_average_days: less than 1
+    complex_highest_days: less than 1
+    complex_lowest_days: less than 1
+    complex_median_days: less than 1
+    expedited_processing_average_days: less than 1
+    expedited_processing_highest_days: less than 1
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: less than 1
+    simple_average_days: '8'
+    simple_highest_days: '58'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'
   '2010':
-    Complex-Average No. of Days: '80'
-    Complex-Highest No. of Days: '146'
-    Complex-Lowest No. of Days: '22'
-    Complex-Median No. of Days: '52'
-    Expedited Processing-Average No. of Days: '0'
-    Expedited Processing-Highest No. of Days: '0'
-    Expedited Processing-Lowest No. of Days: '0'
-    Expedited Processing-Median No. of Days: '0'
-    Simple-Average No. of Days: '22'
-    Simple-Highest No. of Days: '69'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '20'
+    complex_average_days: '80'
+    complex_highest_days: '146'
+    complex_lowest_days: '22'
+    complex_median_days: '52'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '22'
+    simple_highest_days: '69'
+    simple_lowest_days: '1'
+    simple_median_days: '20'
   '2011':
-    Complex-Average No. of Days: '101'
-    Complex-Highest No. of Days: '150'
-    Complex-Lowest No. of Days: '47'
-    Complex-Median No. of Days: '93'
-    Expedited Processing-Average No. of Days: '11'
-    Expedited Processing-Highest No. of Days: '11'
-    Expedited Processing-Lowest No. of Days: '11'
-    Expedited Processing-Median No. of Days: '11'
-    Simple-Average No. of Days: '31'
-    Simple-Highest No. of Days: '161'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '23'
+    complex_average_days: '101'
+    complex_highest_days: '150'
+    complex_lowest_days: '47'
+    complex_median_days: '93'
+    expedited_processing_average_days: '11'
+    expedited_processing_highest_days: '11'
+    expedited_processing_lowest_days: '11'
+    expedited_processing_median_days: '11'
+    simple_average_days: '31'
+    simple_highest_days: '161'
+    simple_lowest_days: '1'
+    simple_median_days: '23'
   '2012':
-    Complex-Average No. of Days: '184'
-    Complex-Highest No. of Days: '354'
-    Complex-Lowest No. of Days: '37'
-    Complex-Median No. of Days: '185'
-    Expedited Processing-Average No. of Days: '27'
-    Expedited Processing-Highest No. of Days: '51'
-    Expedited Processing-Lowest No. of Days: '10'
-    Expedited Processing-Median No. of Days: '24'
-    Simple-Average No. of Days: '25'
-    Simple-Highest No. of Days: '201'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '17'
+    complex_average_days: '184'
+    complex_highest_days: '354'
+    complex_lowest_days: '37'
+    complex_median_days: '185'
+    expedited_processing_average_days: '27'
+    expedited_processing_highest_days: '51'
+    expedited_processing_lowest_days: '10'
+    expedited_processing_median_days: '24'
+    simple_average_days: '25'
+    simple_highest_days: '201'
+    simple_lowest_days: '1'
+    simple_median_days: '17'
   '2013':
-    Complex-Average No. of Days: '183'
-    Complex-Highest No. of Days: '518'
-    Complex-Lowest No. of Days: '85'
-    Complex-Median No. of Days: '152'
-    Simple-Average No. of Days: '32'
-    Simple-Highest No. of Days: '105'
-    Simple-Lowest No. of Days: '1'
-    Simple-Median No. of Days: '26'
+    complex_average_days: '183'
+    complex_highest_days: '518'
+    complex_lowest_days: '85'
+    complex_median_days: '152'
+    simple_average_days: '32'
+    simple_highest_days: '105'
+    simple_lowest_days: '1'
+    simple_median_days: '26'
 usa_id: '52652'

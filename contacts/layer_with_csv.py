@@ -78,9 +78,7 @@ def contacts_from_xls():
     Look in local directories before pulling down the data."""
     contacts = {}
 
-    if not os.path.isdir("xls"):
-        os.mkdir("xls")
-    xls_path = "xls" + os.sep + "full-foia-contacts.xls"
+    xls_path = "layering_data" + os.sep + "full-foia-contacts.xls"
     if not os.path.isfile(xls_path):
         with open(xls_path, 'wb') as f:
             data = urlopen("http://www.foia.gov/full-foia-contacts.xls")
