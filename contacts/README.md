@@ -24,7 +24,7 @@ Then run the three relevant scripts, in this order:
 python scraper.py
 python layer_with_csv.py
 python layer_with_usa_contacts.py
-python average_time_scraper.py
+python processing_time_scraper.py
 python keywords_from_fr.py
 ```
 
@@ -42,9 +42,9 @@ abbreviation as a parameter, and it will only process the data for that agency.
 Agency abbreviations are currently listed
 [here.](https://github.com/18F/foia/blob/master/contacts/scraper.py#L21)
 
-### average_time_scraper.py
+### processing_time_scraper.py
 
-average_time_scraper.py crawls through request processing time reports
+processing_time_scraper.py crawls through request processing time reports
 on foia.gov and updates the yaml files. Additionally, it creates
 "request_time_data.csv", which contains all data available on request
 processing times on foia.gov
@@ -97,7 +97,7 @@ To run, execute
 python usagov.py
 ```
 
-The files below are located in the usagov-data directory:
+The files below are located in the layering_data directory:
 
 | File name      | Description   |
 | -------------  |:-------------:|

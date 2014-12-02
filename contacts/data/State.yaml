@@ -41,10 +41,10 @@ departments:
   request_form: http://foia.state.gov/foiareq/foialetter.asp
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '1'
-      Complex-Highest No. of Days: '1'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '1'
+      Expedited Processing-Average No. of Days: '1'
+      Expedited Processing-Highest No. of Days: '1'
+      Expedited Processing-Lowest No. of Days: '1'
+      Expedited Processing-Median No. of Days: '1'
       Simple-Average No. of Days: '37'
       Simple-Highest No. of Days: '213'
       Simple-Lowest No. of Days: '1'
@@ -60,6 +60,14 @@ departments:
       Simple-Lowest No. of Days: '1'
       Simple-Median No. of Days: '10'
     '2011':
+      Complex-Average No. of Days: '0'
+      Complex-Highest No. of Days: '0'
+      Complex-Lowest No. of Days: '0'
+      Complex-Median No. of Days: '0'
+      Expedited Processing-Average No. of Days: '0'
+      Expedited Processing-Highest No. of Days: '0'
+      Expedited Processing-Lowest No. of Days: '0'
+      Expedited Processing-Median No. of Days: '0'
       Simple-Average No. of Days: '22'
       Simple-Highest No. of Days: '49'
       Simple-Lowest No. of Days: '5'
@@ -161,4 +169,83 @@ keywords:
 - Wages
 - Women
 name: Department of State
+request_time_stats:
+  '2008':
+    Complex-Average No. of Days: '275'
+    Complex-Highest No. of Days: '1900'
+    Complex-Lowest No. of Days: '5'
+    Complex-Median No. of Days: '196'
+    Expedited Processing-Average No. of Days: '201'
+    Expedited Processing-Highest No. of Days: '1509'
+    Expedited Processing-Lowest No. of Days: '3'
+    Expedited Processing-Median No. of Days: '41'
+    Simple-Average No. of Days: '118'
+    Simple-Highest No. of Days: '736'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '70'
+  '2009':
+    Complex-Average No. of Days: '384'
+    Complex-Highest No. of Days: '2383'
+    Complex-Lowest No. of Days: '2'
+    Complex-Median No. of Days: '307'
+    Expedited Processing-Average No. of Days: '164'
+    Expedited Processing-Highest No. of Days: '720'
+    Expedited Processing-Lowest No. of Days: '21'
+    Expedited Processing-Median No. of Days: '25'
+    Simple-Average No. of Days: '104'
+    Simple-Highest No. of Days: '1556'
+    Simple-Lowest No. of Days: '2'
+    Simple-Median No. of Days: '88'
+  '2010':
+    Complex-Average No. of Days: '284'
+    Complex-Highest No. of Days: '2162'
+    Complex-Lowest No. of Days: '21'
+    Complex-Median No. of Days: '228'
+    Expedited Processing-Average No. of Days: '435'
+    Expedited Processing-Highest No. of Days: '1276'
+    Expedited Processing-Lowest No. of Days: less than 1
+    Expedited Processing-Median No. of Days: '280'
+    Simple-Average No. of Days: '144'
+    Simple-Highest No. of Days: '1723'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '142'
+  '2011':
+    Complex-Average No. of Days: '342'
+    Complex-Highest No. of Days: '2460'
+    Complex-Lowest No. of Days: '6'
+    Complex-Median No. of Days: '279'
+    Expedited Processing-Average No. of Days: '926'
+    Expedited Processing-Highest No. of Days: '1802'
+    Expedited Processing-Lowest No. of Days: '49'
+    Expedited Processing-Median No. of Days: '49'
+    Simple-Average No. of Days: '156'
+    Simple-Highest No. of Days: '1603'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '150'
+  '2012':
+    Complex-Average No. of Days: '559.9'
+    Complex-Highest No. of Days: '3035'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '450'
+    Expedited Processing-Average No. of Days: '760.44'
+    Expedited Processing-Highest No. of Days: '1559'
+    Expedited Processing-Lowest No. of Days: '46'
+    Expedited Processing-Median No. of Days: '921.43'
+    Simple-Average No. of Days: '88.51'
+    Simple-Highest No. of Days: '1589'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '66.43'
+  '2013':
+    Complex-Average No. of Days: '532.8'
+    Complex-Highest No. of Days: '2070'
+    Complex-Lowest No. of Days: less than 1
+    Complex-Median No. of Days: '373.5'
+    Expedited Processing-Average No. of Days: '405'
+    Expedited Processing-Highest No. of Days: '1841'
+    Expedited Processing-Lowest No. of Days: '4'
+    Expedited Processing-Median No. of Days: '202'
+    Simple-Average No. of Days: '106'
+    Simple-Highest No. of Days: '1631'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '90'
 usa_id: '49030'

@@ -36,6 +36,14 @@ name: Special Inspector General for Afghanistan Reconstruction
 request_time_stats:
   '2010': {}
   '2011':
+    Complex-Average No. of Days: '0'
+    Complex-Highest No. of Days: '0'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '0'
+    Expedited Processing-Average No. of Days: '0'
+    Expedited Processing-Highest No. of Days: '0'
+    Expedited Processing-Lowest No. of Days: '0'
+    Expedited Processing-Median No. of Days: '0'
     Simple-Average No. of Days: '5'
     Simple-Highest No. of Days: '5'
     Simple-Lowest No. of Days: '5'

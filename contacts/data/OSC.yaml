@@ -27,4 +27,53 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 name: Office of Special Counsel
+request_time_stats:
+  '2010':
+    Expedited Processing-Average No. of Days: '7'
+    Expedited Processing-Highest No. of Days: '12'
+    Expedited Processing-Lowest No. of Days: '2'
+    Expedited Processing-Median No. of Days: '6'
+    Simple-Average No. of Days: '10'
+    Simple-Highest No. of Days: '147'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '1'
+  '2011':
+    Complex-Average No. of Days: '42'
+    Complex-Highest No. of Days: '288'
+    Complex-Lowest No. of Days: '0'
+    Complex-Median No. of Days: '17'
+    Expedited Processing-Average No. of Days: '12'
+    Expedited Processing-Highest No. of Days: '21'
+    Expedited Processing-Lowest No. of Days: '3'
+    Expedited Processing-Median No. of Days: '12'
+    Simple-Average No. of Days: '3'
+    Simple-Highest No. of Days: '27'
+    Simple-Lowest No. of Days: '0'
+    Simple-Median No. of Days: '2'
+  '2012':
+    Complex-Average No. of Days: '271'
+    Complex-Highest No. of Days: '747'
+    Complex-Lowest No. of Days: '1'
+    Complex-Median No. of Days: '134'
+    Expedited Processing-Average No. of Days: '83'
+    Expedited Processing-Highest No. of Days: '381'
+    Expedited Processing-Lowest No. of Days: '9'
+    Expedited Processing-Median No. of Days: '20'
+    Simple-Average No. of Days: '29'
+    Simple-Highest No. of Days: '211'
+    Simple-Lowest No. of Days: '1'
+    Simple-Median No. of Days: '10'
+  '2013':
+    Complex-Average No. of Days: '291.62'
+    Complex-Highest No. of Days: '715'
+    Complex-Lowest No. of Days: '28'
+    Complex-Median No. of Days: '259'
+    Expedited Processing-Average No. of Days: '204.33'
+    Expedited Processing-Highest No. of Days: '377'
+    Expedited Processing-Lowest No. of Days: '1'
+    Expedited Processing-Median No. of Days: '266.5'
+    Simple-Average No. of Days: '31.54'
+    Simple-Highest No. of Days: '301'
+    Simple-Lowest No. of Days: less than 1
+    Simple-Median No. of Days: '14'
 usa_id: '49593'
