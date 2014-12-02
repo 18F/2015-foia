@@ -79,12 +79,12 @@ keywords:
 name: Consumer Financial Protection Bureau
 request_time_stats:
   '2013':
-    Complex-Average No. of Days: '31.07'
-    Complex-Highest No. of Days: '128'
-    Complex-Lowest No. of Days: less than 1
-    Complex-Median No. of Days: '28'
-    Simple-Average No. of Days: '8.36'
-    Simple-Highest No. of Days: '41'
-    Simple-Lowest No. of Days: less than 1
-    Simple-Median No. of Days: '6.5'
+    complex_average_days: '31.07'
+    complex_highest_days: '128'
+    complex_lowest_days: less than 1
+    complex_median_days: '28'
+    simple_average_days: '8.36'
+    simple_highest_days: '41'
+    simple_lowest_days: less than 1
+    simple_median_days: '6.5'
 usa_id: '49113'
