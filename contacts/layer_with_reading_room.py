@@ -132,7 +132,6 @@ def update_links(agency_data, links):
     unique_links = uniquefy(all_links)
     sorted_uniques = sorted(unique_links, key=lambda x: x[0])
 
-
     agency_data['reading_rooms'] = sorted_uniques
     return agency_data
 
