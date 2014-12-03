@@ -1184,6 +1184,10 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foialibrary/
+  - - FOIA Library
+    - http://www.justice.gov/usao/foia-library
+  - - FOIA Library
+    - http://www.justice.gov/usao/resources/foialibrary
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -2726,6 +2730,10 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foialibrary/
+  - - FOIA Library
+    - http://www.justice.gov/usao/foia-library
+  - - FOIA Library
+    - http://www.justice.gov/usao/resources/foiarequests/../foialibrary
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/

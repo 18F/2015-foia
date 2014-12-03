@@ -67,6 +67,9 @@ def unique_links(links):
         except requests.exceptions.ConnectionError:
             # Ignore the link, as it clearly doesn't work.
             pass
+        except requests.exceptions.TooManyRedirects:
+            # Ignore the link, as it clearly doesn't work.
+            pass
 
     seen = set()
     uniques = [l for l in redirected
