@@ -1,5 +1,10 @@
 from unittest import TestCase
+from unittest.mock import patch
+
+import requests
+
 import layer_with_reading_room as reading
+
 
 class ReadingRoomTests(TestCase):
 
@@ -18,7 +23,7 @@ class ReadingRoomTests(TestCase):
 
     def test_clean_link_text(self):
         link = """Here is a link to\n a reading room.   """
-        
+
         self.assertEqual(
             'Here is a link to a reading room.',
             reading.clean_link_text(link))
@@ -27,6 +32,7 @@ class ReadingRoomTests(TestCase):
         class Link(object):
             def __init__(self):
                 self.link = {}
+
             def get(self, name):
                 return self.link[name]
 
@@ -40,7 +46,7 @@ class ReadingRoomTests(TestCase):
         l.link['href'] = '/reading-room-2000/'
         l.text = "Reading Room"
         self.assertEqual(
-            ['Reading Room', 'http://fbi.gov/reading-room-2000/'], 
+            ['Reading Room', 'http://fbi.gov/reading-room-2000/'],
             reading.get_absolute_url(l, 'http://fbi.gov/foia/'))
 
         l = Link()
@@ -54,7 +60,7 @@ class ReadingRoomTests(TestCase):
         l.text = "FOIA"
 
         self.assertEqual(
-            None, 
+            None,
             reading.get_absolute_url(l, 'http://fbi.gov/rr'))
 
     def test_update_links(self):
@@ -73,8 +79,8 @@ class ReadingRoomTests(TestCase):
         print(updated_agency)
 
         self.assertEqual([
-                ['FOIA library', 'http://www.amtrak.com/library/'],
-                ['reading', 'http://www.amtrak.com/foia/']],
+            ['FOIA library', 'http://www.amtrak.com/library/'],
+            ['reading', 'http://www.amtrak.com/foia/']],
             updated_agency['reading_rooms'])
 
         self.assertEqual([
@@ -86,7 +92,7 @@ class ReadingRoomTests(TestCase):
             <p>
                 <a href="http://gsa.gov/foia/reading-room">Reading Room</a>
             </p>
-            <p> 
+            <p>
                 <a href="http://gsa.gov/foia/library">FOIA Library</a>
             </p>
         """
@@ -110,3 +116,18 @@ class ReadingRoomTests(TestCase):
             ['text two', 'http://testone.gov/resources/foialibrary']]
         uniques = reading.uniquefy(links)
         self.assertEqual(len(uniques), 1)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_redirect_exception_handling(self, req):
+        req.side_effect = requests.exceptions.TooManyRedirects()
+
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([], uniques)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_connection_error(self, req):
+        req.side_effect = requests.exceptions.ConnectionError
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([], uniques)
