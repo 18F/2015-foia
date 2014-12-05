@@ -17,12 +17,13 @@ departments:
 - name: U.S. Patent and Trademark Office
   top_level: true
 - name: Economics and Statistics Administration Bureau
+  emails: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Economic Development Administration
-  emails:
+  emails: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Economic Development Administration
-  emails:
+  emails: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Bureau of Industry and Security
   request_form: https://foiaonline.regulations.gov/foia/action/public/home

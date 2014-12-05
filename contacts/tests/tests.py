@@ -136,9 +136,10 @@ class ScraperTests(TestCase):
 
         applied = scraper.actual_apply(agency_data, manual_data)
 
+        #new keywords added, but emails overwritten
         self.assertEqual(
             applied['emails'],
-            ['foia@agency.gov', 'public.liaison@agency.gov'])
+            ['public.liaison@agency.gov'])
         self.assertEqual(
             applied['keywords'],
             [
@@ -161,7 +162,7 @@ class ScraperTests(TestCase):
             if d['name'] == 'department one':
                 self.assertEqual(
                     d['emails'],
-                    ['department.one@agency.gov', 'onefoia@agency.gov'])
+                    ['onefoia@agency.gov'])
 
                 self.assertEqual(
                     d['keywords'],
