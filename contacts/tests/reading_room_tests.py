@@ -97,3 +97,16 @@ class ReadingRoomTests(TestCase):
                 ['Reading Room', 'http://gsa.gov/foia/reading-room'],
                 ['FOIA Library', 'http://gsa.gov/foia/library']],
             links)
+
+    def test_remove_same_urls(self):
+        links = [
+            ['text one', 'http://testone.gov'],
+            ['text two', 'http://testone.gov']]
+        uniques = reading.uniquefy(links)
+        self.assertEqual(len(uniques), 1)
+
+        links = [
+            ['text one', 'http://testone.gov/resources/foialibrary/'],
+            ['text two', 'http://testone.gov/resources/foialibrary']]
+        uniques = reading.uniquefy(links)
+        self.assertEqual(len(uniques), 1)
