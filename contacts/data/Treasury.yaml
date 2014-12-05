@@ -421,7 +421,7 @@ departments:
   - - Electronic Reading Room
     - http://www.irs.gov/uac/Electronic-Reading-Room
   service_center: 'Phone: (202) 317-3475'
-  top_level: false
+  top_level: true
   website: http://www.irs.gov/uac/IRS-Freedom-of-Information
 - abbreviation: ''
   address:

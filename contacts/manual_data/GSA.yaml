@@ -3,7 +3,7 @@ common_requests:
 - Purchase card use
 - Government forms
 departments:
-- name: General Services Administration
+- name: Headquarters
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 keywords:
 - purchase cards

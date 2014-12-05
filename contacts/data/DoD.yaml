@@ -228,7 +228,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '8'
   service_center: 'Phone: (703) 696-2735'
-  top_level: false
+  top_level: true
   website: http://www.foia.af.mil/
 - address:
   - Alecia Bolling
@@ -489,7 +489,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '5'
   service_center: 'Phone: (202) 685-0412'
-  top_level: false
+  top_level: true
   website: https://foia.navy.mil
 - address:
   - Sally A. Hughes
@@ -512,7 +512,7 @@ departments:
     - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAReadingRoom.aspx
   request_form: https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate
   service_center: 'Phone: (703) 614-4008'
-  top_level: false
+  top_level: true
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
   - Catherine A. Stanton
@@ -1548,7 +1548,7 @@ departments:
       complex_lowest_days: less than 1
       complex_median_days: '155'
   service_center: 'Phone: (571) 557-4141'
-  top_level: false
+  top_level: true
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - abbreviation: ''
   address:

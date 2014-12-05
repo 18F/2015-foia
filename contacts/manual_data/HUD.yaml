@@ -1,2 +1,3 @@
-name: Department of Housing and Urban Development
+departments:
+- name: Headquarters
 request_form: https://hudpal.efoia-host.com/palMain.aspx

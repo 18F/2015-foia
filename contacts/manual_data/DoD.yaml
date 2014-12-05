@@ -8,15 +8,15 @@ departments:
     organization/component that maintains the record(s) of interest.
   name: Office of the Secretary and Joint Staff
   top_level: true
-- name: Department of the Air Force
+- name: Department of the Air Force - Headquarters/ICIO (FOIA)
   top_level: true
-- name: Department of the Army
+- name: Department of the Army - Freedom of Information and Privacy Office
   top_level: true
-- name: Department of the Navy
+- name: Department of the Navy - Main Office
   top_level: true
-- name: Marine Corps
+- name: Marine Corps - FOIA Program Office (ARSF)
   top_level: true
-- name: National Geographic Intelligence Agency
+- name: National Geospatial-Intelligence Agency
   top_level: true
 - name: National Guard Bureau
   top_level: true

@@ -14,7 +14,7 @@ departments:
   name: Financial Crimes Enforcement Network
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
-- name: Internal Revenue Service
+- name: Internal Revenue Service - Headquarters Office
   top_level: true
 - name: United States Mint
   top_level: true
