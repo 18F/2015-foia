@@ -19,6 +19,10 @@ departments:
 - name: Economics and Statistics Administration Bureau
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Economic Development Administration
+  emails:
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+- name: Economic Development Administration
+  emails:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Bureau of Industry and Security
   request_form: https://foiaonline.regulations.gov/foia/action/public/home

@@ -114,8 +114,7 @@ departments:
   - SAF/AAII (FOIA)
   - 1000 Air Force Pentagon
   - Washington, DC 20330-1000
-  emails:
-  - haffoia.workflow@pentagon.af.mil
+  emails: null
   fax: 703-696-7273
   keywords:
   - Administrative practice and procedure
@@ -520,8 +519,7 @@ departments:
   - Skyline 6, Suite 700
   - 5109 Leesburg Pike
   - Falls Church, VA 22041-3208
-  emails:
-  - asbca.recorder@mail.mil
+  emails: null
   fax: 703-681-8535
   misc:
     General Counsel: 'Catherine A. Stanton, Phone: (703) 681-8501'
@@ -1560,7 +1558,7 @@ departments:
   description: The National Guard assists in times of local emergency and can also
     be called into federal service.
   emails:
-  - ng.ncr.arng.mbx.ngb-foia@mail.mil
+  - NGB.FOIA@mail.mil
   fax: 703-607-3684
   foia_officer: 'Jennifer Nikolaisen, Phone: (571) 256-7838'
   name: National Guard Bureau
@@ -1942,8 +1940,7 @@ departments:
   - FOIA Requester Service Center
   - Unit 29951
   - APO, AE 09751
-  emails:
-  - foia@africom.mil
+  emails: null
   fax: +490 711-729-4732
   misc:
     HQ U.S. Africa Command: 'FOIA Contact, Phone: +49 (0)711 729-4287'
@@ -2101,8 +2098,7 @@ departments:
   - FOIA Requester Service Center
   - Unit 30400
   - APO, AE 09131
-  emails:
-  - foiarequest@eucom.mil
+  emails: null
   fax: +49011 711-680-8092
   misc:
     HQ USEUCOM: 'FOIA Contact, Phone: 49 011 711 680-7161'
@@ -2388,8 +2384,7 @@ departments:
   - 'ATTN: SCJ224 (FOIA)'
   - 9301 NW 33rd Street
   - Doral, FL 33172
-  emails:
-  - Marco.Villalobos@hq.southcom.mil
+  emails: null
   foia_officer: 'Phone: (305) 437-1108'
   misc:
     FOIA Contact: 'Marco T. Villalobos, Phone: (305) 437-1108'

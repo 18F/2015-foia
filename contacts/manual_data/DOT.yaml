@@ -2,9 +2,18 @@ departments:
 - name: Federal Aviation Administration
   top_level: true
 - name: National Highway Traffic Safety Administration
+  emails:
   request_form: http://www.nhtsa.gov/FOIA
   top_level: true
 - name: Surface Transportation Board
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
 - name: Federal Motor Carrier Safety Administration
   website: http://www.fmcsa.dot.gov/foia
+- name: Saint Lawrence Seaway Development Corporation
+  emails:
+- name: Office of the Inspector General
+  emails:
+- name: Federal Transit Administration
+  emails:
+- name: Pipeline and Hazardous Materials Safety Administration
+  emails:
