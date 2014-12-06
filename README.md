@@ -2,10 +2,7 @@
 
 This repo is for project-wide [discussion](https://github.com/18f/foia/issues) for 18F's FOIA modernization team. It also provides some scratch space for miscellaneous research, data, scrapers, etc.
 
-Also see:
-
-* [foia-hub](https://github.com/18F/foia-hub) - Core interaction between FOIA requestor and FOIA office. Includes what was previously contained in FOIA core and FOIA design. (Static website + Python 3 / Flask)
-* [foia-search](https://github.com/18F/foia-search) - A search/similarity/discovery API over information from FOIA responses. (Node / Elasticsearch)
+For the vast majority of our public-facing work, see the [foia-hub](https://github.com/18F/foia-hub) repository. It's a starting place for filing a Freedom of Information Act request with the US federal government. It's built in Django, using a Postgres backend.
 
 ## Public domain
 
