@@ -11,8 +11,12 @@ departments:
 - name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
 - name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
+  emails:
+  - dallasfoia@eeoc.gov
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
 - name: Houston District Office (New Orleans Field Office)
+  emails:
+  - HOUSFOIA@eeoc.gov
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
 - name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
     Area Offices)

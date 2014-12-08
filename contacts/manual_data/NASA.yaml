@@ -20,6 +20,7 @@ departments:
 - name: Ames Research Center
   request_form: http://socialforms.nasa.gov/foia
 - name: Glenn Research Center
+  emails: []
   request_form: http://socialforms.nasa.gov/foia
 - name: Johnson Space Center
   request_form: http://socialforms.nasa.gov/foia
@@ -28,6 +29,7 @@ departments:
 - name: NASA Shared Service Center (NSSC)
   request_form: http://socialforms.nasa.gov/foia
 - name: Stennis Space Center
+  emails: []
   request_form: http://socialforms.nasa.gov/foia
 - name: National Aeronautics and Space Administration
   request_form: http://socialforms.nasa.gov/foia

@@ -152,8 +152,7 @@ departments:
   - Suite 318
   - 165 South Union Boulevard
   - Lakewood, CO 80228-2211
-  emails:
-  - FOIADE@mspb.gov
+  emails: []
   fax: 303-969-5109
   misc:
     FOIA Liaison: 'Nicole Remmich, Phone: (303) 969-5101 ext. 6104'
@@ -167,8 +166,7 @@ departments:
 description: The Merit Systems Protection Board is an independent, quasi-judicial
   agency whose mission is to protect the Merit Systems Principles and promote an effective
   Federal workforce free of Prohibited Personnel Practices.
-emails:
-- FOIAHQ@msrb.gov
+emails: []
 fax: 202-653-7130
 keywords:
 - Administrative practice and procedure
