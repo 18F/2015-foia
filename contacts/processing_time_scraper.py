@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
+from copy import deepcopy
 import logging
 from glob import glob
 import os
@@ -46,7 +47,7 @@ def delete_empty_data(data):
     for key in keys:
         if data[key] == "NA" or data[key] == '':
             del data[key]
-    return data
+    return deepcopy(data)
 
 
 def append_time_stats(yaml_data, data, year, short_filename):
@@ -54,9 +55,10 @@ def append_time_stats(yaml_data, data, year, short_filename):
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['agency']
-    del data[yaml_data['name'] + year + short_filename]['year']
-    del data[yaml_data['name'] + year + short_filename]['component']
+    if data[yaml_data['name'] + year + short_filename].get('agency'):
+        del data[yaml_data['name'] + year + short_filename]['agency']
+        del data[yaml_data['name'] + year + short_filename]['year']
+        del data[yaml_data['name'] + year + short_filename]['component']
     yaml_data['request_time_stats'][year.strip("_")] = \
         delete_empty_data(data[yaml_data['name'] + year + short_filename])
     return yaml_data
@@ -70,17 +72,22 @@ def patch_yamls(data):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
+            dept_name = yaml_data['name']
+        if yaml_data.get('request_time_stats'):
+            del yaml_data['request_time_stats']
         for year in years:
             year = "_%s" % year
-            if yaml_data['name'] + year + short_filename in data.keys():
-                yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
-                del data[yaml_data['name'] + year + short_filename]
             for internal_data in yaml_data['departments']:
-                key = internal_data['name'] + year + short_filename
+                office_name = internal_data['name']
+                key = office_name + year + short_filename
                 if key in data.keys():
                     internal_data = append_time_stats(
                         internal_data, data, year, short_filename)
+                    if office_name != dept_name:
+                        del data[key]
+            if dept_name + year + short_filename in data.keys():
+                yaml_data = append_time_stats(
+                    yaml_data, data, year, short_filename)
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
@@ -98,7 +105,6 @@ def make_column_names():
             names.append('{0}_{1}_days'.format(kind, measure))
     columns.extend(names)
     return columns
-
 
 
 def get_row_data(key, row_data, column_names):

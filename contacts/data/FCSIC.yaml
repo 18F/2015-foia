@@ -16,6 +16,53 @@ departments:
   reading_rooms:
   - - FOIA Reading Room
     - http://www.fcsic.gov/FCSIC FOIA Reading Room.html
+  request_time_stats:
+    '2008':
+      simple_average_days: '10'
+      simple_highest_days: '18'
+      simple_lowest_days: '6'
+      simple_median_days: '8'
+    '2009':
+      simple_average_days: '13'
+      simple_highest_days: '18'
+      simple_lowest_days: '5'
+      simple_median_days: '15'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12.625'
+      simple_highest_days: '20'
+      simple_lowest_days: '5'
+      simple_median_days: '13'
+    '2011':
+      simple_average_days: '14.6'
+      simple_highest_days: '20'
+      simple_lowest_days: '9'
+      simple_median_days: '14.5'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '9.33'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '13.8'
+      simple_highest_days: '17'
+      simple_lowest_days: '10'
+      simple_median_days: '13'
+    '2013':
+      simple_average_days: '13.25'
+      simple_highest_days: '20'
+      simple_lowest_days: '4'
+      simple_median_days: '14'
   service_center: 'Phone: (703) 883-4020'
   top_level: false
   website: http://www.fcsic.gov/FCSIC%20FOIA.html

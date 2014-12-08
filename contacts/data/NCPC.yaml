@@ -14,6 +14,43 @@ departments:
   name: National Capital Planning Commission
   phone: 202-482-7228
   public_liaison: 'Deborah Young, Phone: (202)-482-7228'
+  request_time_stats:
+    '2010':
+      simple_average_days: '3.5'
+      simple_highest_days: '7'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '6'
+      simple_highest_days: '10'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '3'
+      simple_highest_days: '6'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2013':
+      simple_average_days: '3.67'
+      simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center: 'Marcella Brown, Phone: (202)-482-7227'
   top_level: false
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
