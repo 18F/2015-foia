@@ -530,8 +530,7 @@ departments:
   - Suite 220
   - 901 Market Street
   - San Francisco, CA 94103-1791
-  emails:
-  - daromail@flra.gov
+  emails: []
   fax: 415-356-5017
   misc:
     FOIA Contact: 'Phone: (415) 356-5000'
