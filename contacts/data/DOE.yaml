@@ -587,6 +587,32 @@ departments:
     - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '59'
+      simple_highest_days: '950'
+      simple_lowest_days: '1'
+      simple_median_days: '35'
+    '2009':
+      complex_average_days: '120'
+      complex_highest_days: '935'
+      complex_lowest_days: less than 1
+      complex_median_days: '48'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '20'
+      simple_highest_days: '74'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
     '2010':
       complex_average_days: '163.88'
       complex_highest_days: '2305'

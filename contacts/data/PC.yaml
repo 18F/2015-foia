@@ -36,6 +36,77 @@ departments:
   - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
+  request_time_stats:
+    '2008':
+      complex_average_days: less than 1
+      complex_highest_days: less than 1
+      complex_lowest_days: less than 1
+      complex_median_days: less than 1
+      expedited_processing_average_days: less than 1
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: less than 1
+      simple_average_days: '6'
+      simple_highest_days: '18'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2009':
+      complex_average_days: less than 1
+      complex_highest_days: less than 1
+      complex_lowest_days: less than 1
+      complex_median_days: less than 1
+      expedited_processing_average_days: less than 1
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: less than 1
+      simple_average_days: '5'
+      simple_highest_days: '22'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '19'
+      simple_highest_days: '45'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '24'
+      simple_highest_days: '78'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '15'
+      simple_highest_days: '50'
+      simple_lowest_days: '2'
+      simple_median_days: '13'
+    '2013':
+      simple_average_days: '19'
+      simple_highest_days: '43'
+      simple_lowest_days: '3'
+      simple_median_days: '20'
   service_center: 'Phone: (202) 692-2922'
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia

@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
+from copy import deepcopy
 import logging
 from glob import glob
 import os
@@ -13,7 +14,7 @@ import yaml
 
 
 def load_mapping():
-    """ Loads mapping of yamls to foia.gov data """
+    """ Loads mapping of foia.gov/data names to yaml files"""
 
     key = {}
     years = get_years()
@@ -21,8 +22,8 @@ def load_mapping():
         datareader = csv.reader(csvfile)
         for row in datareader:
             for year in years:
-                key["{0}_{1}_{2}".format(row[0], year, row[1])] = \
-                    "{0}_{1}_{2}".format(row[2], year, row[1])
+                key["{0}_{1}".format(row[3], year)] = \
+                    "{0}_{1}".format(row[2], year)
     return key
 
 
@@ -46,7 +47,7 @@ def delete_empty_data(data):
     for key in keys:
         if data[key] == "NA" or data[key] == '':
             del data[key]
-    return data
+    return deepcopy(data)
 
 
 def append_time_stats(yaml_data, data, year, short_filename):
@@ -54,11 +55,12 @@ def append_time_stats(yaml_data, data, year, short_filename):
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['agency']
-    del data[yaml_data['name'] + year + short_filename]['year']
-    del data[yaml_data['name'] + year + short_filename]['component']
+    if data[yaml_data['name'] + short_filename + year].get('agency'):
+        del data[yaml_data['name'] + short_filename + year]['agency']
+        del data[yaml_data['name'] + short_filename + year]['year']
+        del data[yaml_data['name'] + short_filename + year]['component']
     yaml_data['request_time_stats'][year.strip("_")] = \
-        delete_empty_data(data[yaml_data['name'] + year + short_filename])
+        delete_empty_data(data[yaml_data['name'] + short_filename + year])
     return yaml_data
 
 
@@ -70,17 +72,22 @@ def patch_yamls(data):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
+            dept_name = yaml_data['name']
+        if yaml_data.get('request_time_stats'):
+            del yaml_data['request_time_stats']
         for year in years:
             year = "_%s" % year
-            if yaml_data['name'] + year + short_filename in data.keys():
-                yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
-                del data[yaml_data['name'] + year + short_filename]
             for internal_data in yaml_data['departments']:
-                key = internal_data['name'] + year + short_filename
+                office_name = internal_data['name']
+                key = office_name + short_filename + year
                 if key in data.keys():
                     internal_data = append_time_stats(
                         internal_data, data, year, short_filename)
+                    if office_name != dept_name:
+                        del data[key]
+            if dept_name + short_filename + year in data.keys():
+                yaml_data = append_time_stats(
+                    yaml_data, data, year, short_filename)
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
@@ -98,7 +105,6 @@ def make_column_names():
             names.append('{0}_{1}_days'.format(kind, measure))
     columns.extend(names)
     return columns
-
 
 
 def get_row_data(key, row_data, column_names):
@@ -178,7 +184,7 @@ def get_key_values(row_items, columns, year, title):
         else:
             row_array.append(item.text)
     value = zip_and_clean(columns, row_array)
-    key = title + "_%s" % year + "_%s" % value['agency']
+    key = title + "_%s" % value['agency'] + "_%s" % year
     return key, value
 
 
@@ -232,8 +238,8 @@ def scrape_times():
         params["agencyName"] = agency
         data = all_years(url, params, data)
         logging.info("compelete: %s", params.get('agencyName', "all"))
-    data = apply_mapping(data)
     write_csv(data)
+    data = apply_mapping(data)
     patch_yamls(data)
 
 

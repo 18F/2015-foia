@@ -615,7 +615,7 @@ class ProcessingTimeScaperTests(TestCase):
         """ Parses data tables from foia.gov and return data """
 
         expected_data = {
-            'Federal Retirement Thrift Investment Board_2012_FRTIB': {
+            'Federal Retirement Thrift Investment Board_FRTIB_2012': {
                 'simple_median_days': '20',
                 '': '',
                 'simple_average_days': '27',
@@ -654,7 +654,7 @@ class ProcessingTimeScaperTests(TestCase):
         test_row = test_row.findAll('span')
         key, value = processing_time_scraper.get_key_values(
             test_row, ['a', 'agency'], 'year', 'name')
-        self.assertEqual(key, 'name_year_Agency')
+        self.assertEqual(key, 'name_Agency_year')
 
     def test_zip_and_clean(self):
         """ Returns a zipped dictionary with 0s coded as NAs """
@@ -670,7 +670,7 @@ class ProcessingTimeScaperTests(TestCase):
 
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
-            'DOS_2013DOS': {
+            'DOSDOS_2013': {
                 'simple_mean_days': '22', 'agency': 'DOS',
                 'year': '2013', 'component': 'DOS'}}
         expected_data = {

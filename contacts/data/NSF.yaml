@@ -13,6 +13,61 @@ departments:
   name: National Science Foundation
   phone: 703-292-8060
   public_liaison: 'Sandra Evans, Phone: (703) 292-8060'
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '20.26'
+      simple_highest_days: '229'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '21'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '8'
+      simple_average_days: '20'
+      simple_highest_days: '1825'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2010':
+      simple_average_days: '19'
+      simple_highest_days: '138'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2011':
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '25'
+      simple_average_days: '23'
+      simple_highest_days: '254'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2012':
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '29'
+      simple_highest_days: '511'
+      simple_lowest_days: '1'
+      simple_median_days: '23'
+    '2013':
+      simple_average_days: '32'
+      simple_highest_days: '209'
+      simple_lowest_days: '1'
+      simple_median_days: '21'
   service_center: 'Phone: (703) 292-8060'
   top_level: false
   website: http://www.nsf.gov/policies/foia.jsp
