@@ -5,7 +5,7 @@ departments:
   request_form: http://socialforms.nasa.gov/foia
   top_level: true
   website: http://www.jpl.nasa.gov/
-- name: NASA Shared Services Center
+- name: NASA Shared Service Center (NSSC)
   top_level: true
 - name: Marshall Space Flight Center
   request_form: http://socialforms.nasa.gov/foia

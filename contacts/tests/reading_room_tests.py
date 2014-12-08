@@ -18,7 +18,7 @@ class ReadingRoomTests(TestCase):
 
     def test_clean_link_text(self):
         link = """Here is a link to\n a reading room.   """
-        
+
         self.assertEqual(
             'Here is a link to a reading room.',
             reading.clean_link_text(link))
@@ -40,7 +40,7 @@ class ReadingRoomTests(TestCase):
         l.link['href'] = '/reading-room-2000/'
         l.text = "Reading Room"
         self.assertEqual(
-            ['Reading Room', 'http://fbi.gov/reading-room-2000/'], 
+            ['Reading Room', 'http://fbi.gov/reading-room-2000/'],
             reading.get_absolute_url(l, 'http://fbi.gov/foia/'))
 
         l = Link()
@@ -54,7 +54,7 @@ class ReadingRoomTests(TestCase):
         l.text = "FOIA"
 
         self.assertEqual(
-            None, 
+            None,
             reading.get_absolute_url(l, 'http://fbi.gov/rr'))
 
     def test_update_links(self):
@@ -86,7 +86,7 @@ class ReadingRoomTests(TestCase):
             <p>
                 <a href="http://gsa.gov/foia/reading-room">Reading Room</a>
             </p>
-            <p> 
+            <p>
                 <a href="http://gsa.gov/foia/library">FOIA Library</a>
             </p>
         """
