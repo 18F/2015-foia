@@ -1184,6 +1184,8 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foialibrary/
+  - - FOIA Library
+    - http://www.justice.gov/usao/foia-library
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -2298,8 +2300,7 @@ departments:
   - Suite 11050
   - 1425 New York Avenue, NW
   - Washington, DC 20530-0001
-  emails:
-  - DOJ.OIP.Initial.Requests@usdoj.gov
+  emails: []
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
@@ -2726,6 +2727,10 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foialibrary/
+  - - FOIA Library
+    - http://www.justice.gov/usao/foia-library
+  - - FOIA Library
+    - http://www.justice.gov/usao/resources/foiarequests/../foialibrary
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/

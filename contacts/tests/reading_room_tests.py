@@ -1,5 +1,10 @@
 from unittest import TestCase
+from unittest.mock import patch
+
+import requests
+
 import layer_with_reading_room as reading
+
 
 class ReadingRoomTests(TestCase):
 
@@ -27,6 +32,7 @@ class ReadingRoomTests(TestCase):
         class Link(object):
             def __init__(self):
                 self.link = {}
+
             def get(self, name):
                 return self.link[name]
 
@@ -73,8 +79,8 @@ class ReadingRoomTests(TestCase):
         print(updated_agency)
 
         self.assertEqual([
-                ['FOIA library', 'http://www.amtrak.com/library/'],
-                ['reading', 'http://www.amtrak.com/foia/']],
+            ['FOIA library', 'http://www.amtrak.com/library/'],
+            ['reading', 'http://www.amtrak.com/foia/']],
             updated_agency['reading_rooms'])
 
         self.assertEqual([
@@ -97,3 +103,31 @@ class ReadingRoomTests(TestCase):
                 ['Reading Room', 'http://gsa.gov/foia/reading-room'],
                 ['FOIA Library', 'http://gsa.gov/foia/library']],
             links)
+
+    def test_remove_same_urls(self):
+        links = [
+            ['text one', 'http://testone.gov'],
+            ['text two', 'http://testone.gov']]
+        uniques = reading.uniquefy(links)
+        self.assertEqual(len(uniques), 1)
+
+        links = [
+            ['text one', 'http://testone.gov/resources/foialibrary/'],
+            ['text two', 'http://testone.gov/resources/foialibrary']]
+        uniques = reading.uniquefy(links)
+        self.assertEqual(len(uniques), 1)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_redirect_exception_handling(self, req):
+        req.side_effect = requests.exceptions.TooManyRedirects()
+
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([], uniques)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_connection_error(self, req):
+        req.side_effect = requests.exceptions.ConnectionError
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([], uniques)

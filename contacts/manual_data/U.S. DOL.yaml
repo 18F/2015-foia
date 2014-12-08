@@ -1,5 +1,6 @@
 departments:
 - name: Bureau of International Labor Affairs
+  emails: []
   top_level: true
 - name: Bureau of Labor Statistics
   top_level: true

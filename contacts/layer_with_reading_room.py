@@ -49,7 +49,6 @@ def get_absolute_url(link, url):
         if domains_match(url, href):
             return [clean_link_text(link.text), href]
 
-
 def unique_links(links):
     """ We sometimes get the same URI with different link texts. Squash those.
     """
@@ -67,10 +66,11 @@ def unique_links(links):
         except requests.exceptions.ConnectionError:
             # Ignore the link, as it clearly doesn't work.
             pass
+        except requests.exceptions.TooManyRedirects:
+            # Ignore the link, as it clearly doesn't work.
+            pass
 
-    seen = set()
-    uniques = [l for l in redirected
-               if l[1] not in seen and not seen.add(l[1])]
+    uniques = uniquefy(redirected)
     return uniques
 
 
@@ -114,8 +114,12 @@ def process(data):
 
 def uniquefy(links):
     seen = set()
-    uniques = [l for l in links
-               if l[1] not in seen and not seen.add(l[1])]
+    uniques = []
+    for link in links:
+        l = link[1].rstrip('/')
+        if l not in seen:
+            seen.add(l)
+            uniques.append(link)
     return uniques
 
 
@@ -128,7 +132,6 @@ def update_links(agency_data, links):
     all_links = original_links + links
     unique_links = uniquefy(all_links)
     sorted_uniques = sorted(unique_links, key=lambda x: x[0])
-
 
     agency_data['reading_rooms'] = sorted_uniques
     return agency_data

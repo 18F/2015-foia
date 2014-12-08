@@ -1,11 +1,29 @@
-## Project FOIA
+## FOIA Modernization
 
-This repo is for project-wide [discussion](https://github.com/18f/foia/issues) for 18F's FOIA modernization team. It also provides some scratch space for miscellaneous research, data, scrapers, etc.
+This is the main repository for [18F's](https://18f.gsa.gov) FOIA modernization
+effort. 
 
-Also see:
+The Freedom of Information Act (FOIA) grants the public the right to access
+records from the federal government. 
 
-* [foia-hub](https://github.com/18F/foia-hub) - Core interaction between FOIA requestor and FOIA office. Includes what was previously contained in FOIA core and FOIA design. (Static website + Python 3 / Flask)
-* [foia-search](https://github.com/18F/foia-search) - A search/similarity/discovery API over information from FOIA responses. (Node / Elasticsearch)
+Our work is one of number of
+[commitments](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf)
+towards the modernization of FOIA. 
+
+We use the [issues](https://github.com/18f/foia/issues) for project-wide
+discussions. 
+
+Additional news can be found on 18F's website:
+[18f.gsa.gov/tags/foia](http://18f.gsa.gov/tags/foia).
+
+Our primary focus right now is working on
+[foia-hub](https://github.com/18F/foia-hub). FOIA Hub is an online tool to
+guide users to up-to-date FOIA contact and request information across the
+federal government. 
+
+This repository also contains the [bulk
+data](https://github.com/18F/foia/tree/master/contacts/data)  that powers FOIA
+Hub. 
 
 ## Public domain
 

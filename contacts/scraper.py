@@ -249,7 +249,7 @@ def update_non_departments(agency_data, manual_data):
 
     agency_data = dict(agency_data)
 
-    list_fields = ['emails', 'common_requests', 'keywords']
+    list_fields = ['common_requests', 'keywords']
 
     for field in manual_data.keys():
         if field not in list_fields + ['departments']:
