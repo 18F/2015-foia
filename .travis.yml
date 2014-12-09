@@ -4,7 +4,11 @@ python:
 install:
   - cd contacts
   - pip install -r requirements.txt --use-mirrors
+  - pip install coveralls
   - cd ..
 script:
   - cd contacts
-  - nosetests
+  - nosetests --with-coverage
+after_success:
+  - cd contacts
+  - coveralls
