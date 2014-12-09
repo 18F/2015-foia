@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/18F/foia/badge.png)](https://coveralls.io/r/18F/foia)
+
 ## Agency FOIA contact info
 
 Downloading agency contact information for FOIA, from FOIA.gov.
