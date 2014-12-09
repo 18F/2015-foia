@@ -18,4 +18,5 @@ departments:
 - name: Office of the Secretary
   emails: []
 - name: Office of Natural Resources Revenue
-  emails: []
+  emails:
+  - os_foia@ios.doi.gov
