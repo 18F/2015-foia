@@ -1,5 +1,7 @@
 departments:
 - name: Foreign Agricultural Service
+  emails:
+  - Rochelle.Foster@fas.usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   website: http://www.fas.usda.gov/freedom-information-act-foia
 - name: Research, Education & Economics
@@ -29,6 +31,8 @@ departments:
 - name: Office of the Chief Information Officer
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Office of Civil Rights
+  emails:
+  - ascrfoia@ascr.usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Risk Management Agency
   request_form: https://efoia-pal.usda.gov/palMain.aspx

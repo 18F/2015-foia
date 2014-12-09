@@ -1,3 +1,5 @@
 departments:
 - name: Federal Reserve System
+  emails:
+  - foirequests@frb.gov
   request_form: http://www.federalreserve.gov/forms/efoiaform.aspx
