@@ -34,9 +34,9 @@ def apply_mapping(data):
     new_data = {}
     for key in data.keys():
         if key in mapping.keys():
-            new_data[mapping[key]] = data[key]
+            new_data[mapping[key].lower()] = data[key]
         else:
-            new_data[key] = data[key]
+            new_data[key.lower()] = data[key]
     return new_data
 
 
@@ -45,22 +45,33 @@ def delete_empty_data(data):
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == "NA" or data[key] == '':
+        if data[key] == '':
             del data[key]
-    return deepcopy(data)
+    return data
 
 
-def append_time_stats(yaml_data, data, year, short_filename):
+def clean_data(data):
+    """
+    Deletes agency, year, and component attributes, which are not
+    added to the yamls and also any attributs with empty values
+    """
+    if data.get('agency'):
+        del data['agency']
+        del data['year']
+        del data['component']
+        del data['']
+    return delete_empty_data(data)
+
+
+def append_time_stats(yaml_data, data, yaml_key, year):
     """ Appends request time stats to list under key request_time_stats"""
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    if data[yaml_data['name'] + short_filename + year].get('agency'):
-        del data[yaml_data['name'] + short_filename + year]['agency']
-        del data[yaml_data['name'] + short_filename + year]['year']
-        del data[yaml_data['name'] + short_filename + year]['component']
-    yaml_data['request_time_stats'][year.strip("_")] = \
-        delete_empty_data(data[yaml_data['name'] + short_filename + year])
+    cleaned_data = clean_data(data[yaml_key])
+    if cleaned_data:
+        yaml_data['request_time_stats'][year.strip("_")] = \
+            deepcopy(cleaned_data)
     return yaml_data
 
 
@@ -69,32 +80,29 @@ def patch_yamls(data):
 
     years = get_years()
     for filename in glob("data" + os.sep + "*.yaml"):
-        short_filename = '_%s' % filename.strip('.yaml').strip('/data')
+        short_filename = '_%s' % filename.strip('.yaml').strip('/data').lower()
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-            dept_name = yaml_data['name']
-        if yaml_data.get('request_time_stats'):
-            del yaml_data['request_time_stats']
+            dept_name = yaml_data['name'].lower()
         for year in years:
             year = "_%s" % year
             for internal_data in yaml_data['departments']:
-                office_name = internal_data['name']
-                key = office_name + short_filename + year
-                if key in data.keys():
+                office_name = internal_data['name'].lower()
+                office_key = office_name + short_filename + year
+                if office_key in data.keys():
                     internal_data = append_time_stats(
-                        internal_data, data, year, short_filename)
-                    if office_name != dept_name:
-                        del data[key]
-            if dept_name + short_filename + year in data.keys():
-                yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
+                        internal_data, data, office_key, year)
+            dept_key = dept_name + short_filename + year
+            if dept_key in data.keys():
+                yaml_data = append_time_stats(yaml_data, data, dept_key, year)
+
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
 
 
 def make_column_names():
-    '''Generates column names'''
+    """ Generates column names """
 
     columns = ['year', 'agency']
     kinds = ['simple', 'complex', 'expedited_processing']

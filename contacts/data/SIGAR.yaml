@@ -19,7 +19,6 @@ departments:
       Room
   request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
   request_time_stats:
-    '2010': {}
     '2011':
       complex_average_days: '0'
       complex_highest_days: '0'
@@ -59,7 +58,6 @@ keywords:
 - Privacy
 name: Special Inspector General for Afghanistan Reconstruction
 request_time_stats:
-  '2010': {}
   '2011':
     complex_average_days: '0'
     complex_highest_days: '0'

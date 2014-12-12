@@ -1963,10 +1963,7 @@ public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
 reading_rooms:
 - - DOL-Wide FOIA Reading Room
   - http://www.dol.gov/dol/foia/readroom.htm
-request_time_stats:
-  '2008': {}
-  '2009': {}
-  '2010': {}
+request_time_stats: {}
 service_center: 'Phone: (202) 693-5391'
 top_level: false
 usa_id: '49028'

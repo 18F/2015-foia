@@ -21,8 +21,6 @@ departments:
     - http://www.usaid.gov/foia-requests/foia-library
   request_form: https://foiarequest.usaid.gov/index.aspx
   request_time_stats:
-    '2008': {}
-    '2009': {}
     '2010':
       complex_average_days: '354.98'
       complex_highest_days: '2084'
@@ -146,8 +144,6 @@ keywords:
 - Women
 name: U.S. Agency for International Development
 request_time_stats:
-  '2008': {}
-  '2009': {}
   '2010':
     complex_average_days: '354.98'
     complex_highest_days: '2084'

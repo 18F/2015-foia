@@ -672,7 +672,7 @@ class ProcessingTimeScaperTests(TestCase):
         test_data = {
             'DOSDOS_2013': {
                 'simple_mean_days': '22', 'agency': 'DOS',
-                'year': '2013', 'component': 'DOS'}}
+                'year': '2013', 'component': 'DOS', '': ''}}
         expected_data = {
             'name': "DOS", "other_data": "text blob",
             'request_time_stats': {
@@ -704,3 +704,21 @@ class ProcessingTimeScaperTests(TestCase):
         test_data = '<span><1</span>'
         returned_data = processing_time_scraper.clean_html(test_data)
         self.assertEqual(returned_data, '<span>less than 1</span>')
+
+    def test_delete_empty_data(self):
+        """ Should delete any items with a value of '' """
+
+        test_data = {'A': '', 'B': 'value B'}
+        returned_data = processing_time_scraper.delete_empty_data(test_data)
+        self.assertEqual(returned_data, {'B': 'value B'})
+
+    def test_clean_data(self):
+        """
+        Should deletes agency, year, and component attributes, which are not
+        added to the yamls and also any attributs with empty values
+        """
+        test_data = {'simple_mean_days': '22', 'agency': 'DOS',
+            'year': '2013', 'component': 'DOS', '': ''}
+        expected_data = {'simple_mean_days': '22'}
+        returned_data = processing_time_scraper.clean_data(test_data)
+        self.assertEqual(returned_data, expected_data)
