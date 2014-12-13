@@ -615,7 +615,7 @@ class ProcessingTimeScaperTests(TestCase):
         """ Parses data tables from foia.gov and return data """
 
         expected_data = {
-            'Federal Retirement Thrift Investment Board_2012_FRTIB': {
+            'federal retirement thrift investment board_frtib_2012': {
                 'simple_median_days': '20',
                 '': '',
                 'simple_average_days': '27',
@@ -654,7 +654,7 @@ class ProcessingTimeScaperTests(TestCase):
         test_row = test_row.findAll('span')
         key, value = processing_time_scraper.get_key_values(
             test_row, ['a', 'agency'], 'year', 'name')
-        self.assertEqual(key, 'name_year_Agency')
+        self.assertEqual(key, 'name_agency_year')
 
     def test_zip_and_clean(self):
         """ Returns a zipped dictionary with 0s coded as NAs """
@@ -670,15 +670,15 @@ class ProcessingTimeScaperTests(TestCase):
 
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
-            'DOS_2013DOS': {
+            'DOSDOS_2013': {
                 'simple_mean_days': '22', 'agency': 'DOS',
-                'year': '2013', 'component': 'DOS'}}
+                'year': '2013', 'component': 'DOS', '': ''}}
         expected_data = {
             'name': "DOS", "other_data": "text blob",
             'request_time_stats': {
                 '2013': {'simple_mean_days': '22'}}}
         result = processing_time_scraper.append_time_stats(
-            test_yaml, test_data, "_2013", "DOS")
+            test_yaml, test_data, "DOSDOS_2013", "_2013")
         self.assertEqual(expected_data, result)
 
     def test_get_years(self):
@@ -704,3 +704,21 @@ class ProcessingTimeScaperTests(TestCase):
         test_data = '<span><1</span>'
         returned_data = processing_time_scraper.clean_html(test_data)
         self.assertEqual(returned_data, '<span>less than 1</span>')
+
+    def test_delete_empty_data(self):
+        """ Should delete any items with a value of '' """
+
+        test_data = {'A': '', 'B': 'value B'}
+        returned_data = processing_time_scraper.delete_empty_data(test_data)
+        self.assertEqual(returned_data, {'B': 'value B'})
+
+    def test_clean_data(self):
+        """
+        Should deletes agency, year, and component attributes, which are not
+        added to the yamls and also any attributs with empty values
+        """
+        test_data = {'simple_mean_days': '22', 'agency': 'DOS',
+            'year': '2013', 'component': 'DOS', '': ''}
+        expected_data = {'simple_mean_days': '22'}
+        returned_data = processing_time_scraper.clean_data(test_data)
+        self.assertEqual(returned_data, expected_data)

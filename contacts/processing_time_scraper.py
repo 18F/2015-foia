@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
+from copy import deepcopy
 import logging
 from glob import glob
 import os
@@ -13,7 +14,7 @@ import yaml
 
 
 def load_mapping():
-    """ Loads mapping of yamls to foia.gov data """
+    """ Loads mapping of foia.gov/data names to yaml files"""
 
     key = {}
     years = get_years()
@@ -21,8 +22,8 @@ def load_mapping():
         datareader = csv.reader(csvfile)
         for row in datareader:
             for year in years:
-                key["{0}_{1}_{2}".format(row[0], year, row[1])] = \
-                    "{0}_{1}_{2}".format(row[2], year, row[1])
+                key["{0}_{1}".format(row[2], year).lower()] = \
+                    "{0}_{1}".format(row[3], year).lower()
     return key
 
 
@@ -31,11 +32,11 @@ def apply_mapping(data):
 
     mapping = load_mapping()
     new_data = {}
-    for key in data.keys():
-        if key in mapping.keys():
-            new_data[mapping[key]] = data[key]
-        else:
-            new_data[key] = data[key]
+    for yaml_key in mapping.keys():
+        if mapping[yaml_key] in data.keys():
+            new_data[yaml_key] = deepcopy(data[mapping[yaml_key]])
+        #else:
+        #    new_data[key] = deepcopy(data[key])
     return new_data
 
 
@@ -44,22 +45,34 @@ def delete_empty_data(data):
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == "NA" or data[key] == '':
+        if data[key] == '':
             del data[key]
     return data
 
 
-def append_time_stats(yaml_data, data, year, short_filename):
+def clean_data(data):
+    """
+    Deletes agency, year, and component attributes, which are not
+    added to the yamls and also any attributs with empty values
+    """
+    if data.get('agency'):
+        del data['agency']
+        del data['year']
+        del data['component']
+    return delete_empty_data(data)
+
+
+def append_time_stats(yaml_data, data, yaml_key, year):
     """ Appends request time stats to list under key request_time_stats"""
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['agency']
-    del data[yaml_data['name'] + year + short_filename]['year']
-    del data[yaml_data['name'] + year + short_filename]['component']
-    yaml_data['request_time_stats'][year.strip("_")] = \
-        delete_empty_data(data[yaml_data['name'] + year + short_filename])
+    cleaned_data = clean_data(data[yaml_key])
+    if cleaned_data:
+        yaml_data['request_time_stats'][year.strip("_")] = \
+            deepcopy(cleaned_data)
     return yaml_data
+
 
 
 def patch_yamls(data):
@@ -72,15 +85,20 @@ def patch_yamls(data):
             yaml_data = yaml.load(f.read())
         for year in years:
             year = "_%s" % year
-            if yaml_data['name'] + year + short_filename in data.keys():
+            agency_key = yaml_data['name'] + short_filename + year
+            agency_key = agency_key.lower()
+            if agency_key in data.keys():
                 yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
-                del data[yaml_data['name'] + year + short_filename]
+                    yaml_data, data, agency_key, year)
+                del data[agency_key]
             for internal_data in yaml_data['departments']:
-                key = internal_data['name'] + year + short_filename
-                if key in data.keys():
+                office_key = internal_data['name'] + short_filename + year
+                office_key = office_key.lower()
+                if office_key in data.keys():
                     internal_data = append_time_stats(
-                        internal_data, data, year, short_filename)
+                        internal_data, data, office_key, year)
+                    del data[office_key]
+
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
@@ -178,7 +196,8 @@ def get_key_values(row_items, columns, year, title):
         else:
             row_array.append(item.text)
     value = zip_and_clean(columns, row_array)
-    key = title + "_%s" % year + "_%s" % value['agency']
+    key = title + "_%s" % value['agency'] + "_%s" % year
+    key = key.lower()
     return key, value
 
 
