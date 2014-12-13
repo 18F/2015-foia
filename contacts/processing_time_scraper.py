@@ -90,14 +90,12 @@ def patch_yamls(data):
             if agency_key in data.keys():
                 yaml_data = append_time_stats(
                     yaml_data, data, agency_key, year)
-                del data[agency_key]
             for internal_data in yaml_data['departments']:
                 office_key = internal_data['name'] + short_filename + year
                 office_key = office_key.lower()
                 if office_key in data.keys():
                     internal_data = append_time_stats(
                         internal_data, data, office_key, year)
-                    del data[office_key]
 
         with open(filename, 'w') as f:
             f.write(yaml.dump(

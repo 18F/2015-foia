@@ -17,6 +17,62 @@ departments:
   - - Reading Room
     - http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
   request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
+  request_time_stats:
+    '2009':
+      complex_average_days: '40'
+      complex_highest_days: '139'
+      complex_lowest_days: '8'
+      complex_median_days: '34'
+      expedited_processing_average_days: '31'
+      expedited_processing_highest_days: '52'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '33'
+      simple_average_days: '14'
+      simple_highest_days: '48'
+      simple_lowest_days: less than 1
+      simple_median_days: '33'
+    '2010':
+      complex_average_days: '174'
+      complex_highest_days: '356'
+      complex_lowest_days: '33'
+      complex_median_days: '170'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      simple_average_days: '48'
+      simple_highest_days: '178'
+      simple_lowest_days: '1'
+      simple_median_days: '29'
+    '2011':
+      complex_average_days: '81'
+      complex_highest_days: '228'
+      complex_lowest_days: '10'
+      complex_median_days: '52.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10.57'
+      simple_highest_days: '63'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2012':
+      complex_average_days: '39.25'
+      complex_highest_days: '271'
+      complex_lowest_days: less than 1
+      complex_median_days: '21'
+      simple_average_days: '11.03'
+      simple_highest_days: '165'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '45.84'
+      complex_highest_days: '158'
+      complex_lowest_days: less than 1
+      complex_median_days: '33'
+      simple_average_days: '15.4'
+      simple_highest_days: '109'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center: 'Phone: (202) 649-3803'
   top_level: false
   website: http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/FOIA.aspx
