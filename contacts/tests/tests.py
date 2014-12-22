@@ -524,8 +524,8 @@ class FRTests(TestCase):
                 'CHILDREN FAMILIES'),
             ('Export-Import Bank of the U.S.', 'EXPORTIMPORT BANK'),
             ('Department of the Army - Main Office', 'ARMY'),
-            ('Centers for Disease Control', 'CENTER DISEASE CONTROL'),
-                ):
+            ('Centers for Disease Control', 'CENTER DISEASE CONTROL')
+        ):
             self.assertEqual(fr.normalize_name(old), new)
 
     def test_fetch_page_dates(self):
@@ -715,10 +715,84 @@ class ProcessingTimeScaperTests(TestCase):
     def test_clean_data(self):
         """
         Should deletes agency, year, and component attributes, which are not
-        added to the yamls and also any attributs with empty values
+        added to the yamls and also any attributes with empty values
         """
-        test_data = {'simple_mean_days': '22', 'agency': 'DOS',
-            'year': '2013', 'component': 'DOS', '': ''}
+        test_data = {
+            'simple_mean_days': '22', 'agency': 'DOS',
+            'year': '2013',
+            'component': 'DOS',
+            '': ''}
         expected_data = {'simple_mean_days': '22'}
         returned_data = processing_time_scraper.clean_data(test_data)
         self.assertEqual(returned_data, expected_data)
+
+    def test_load_mapping(self):
+        """
+        Test if mapping data is loaded properly
+        """
+
+        mapping = processing_time_scraper.load_mapping()
+
+        # Check simple mapping (spelling error on foia.gov data)
+        foia_data_key = 'bureau of alcohal, tobacco, ' + \
+            'firearms and explosives_doj_2013'
+        self.assertEqual(
+            mapping[foia_data_key][0],
+            'bureau of alcohol, tobacco, firearms, and explosives_doj_2013')
+
+        # Check complex mapping instance (multiple names on foia.gov data)
+        self.assertEqual(
+            mapping['office of information and technology (005)_va_2013'],
+            mapping['office of information and technology_va_2013'])
+
+        # Check complex mapping instance (multiple names on foia_hub)
+        yaml_key_1 = "surface transportation board_dot_2013"
+        yaml_key_2 = "surface transportation board_stb_2013"
+        foia_data_key = "surface transportation board_stb_2013"
+        self.assertEqual(
+            [yaml_key_1, yaml_key_2],
+            sorted(mapping[foia_data_key]))
+
+    def test_apply_mapping(self):
+        """
+        Verify that foia.gov/data keys are changed to keys compatiable with
+        yaml keys
+        """
+
+        # Test simple transformations (spelling error on foia.gov data)
+        foia_data_key = 'bureau of alcohal, tobacco, ' + \
+            'firearms and explosives_doj_2013'
+        yaml_key = 'bureau of alcohol, tobacco, firearms,' + \
+            ' and explosives_doj_2013'
+        test_data = {foia_data_key: {'simple_median_days': 3}}
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+        self.assertEqual(
+            mapped_test_data[yaml_key], test_data[foia_data_key])
+
+        # Test complex transformations (multiple names on foia.gov data)
+        foia_data_key_1 = 'office of information and technology (005)_va_2013'
+        foia_data_key_2 = 'office of information and technology_va_2008'
+        yaml_key_1 = 'office of assistant secretary for ' + \
+            'information and technology_va_2013'
+        yaml_key_2 = 'office of assistant secretary for ' + \
+            'information and technology_va_2008'
+        test_data_1 = {foia_data_key_1: {'simple_median_days': 10}}
+        test_data_2 = {foia_data_key_2: {'simple_median_days': 50}}
+        mapped_test_data_1 = processing_time_scraper.apply_mapping(test_data_1)
+        mapped_test_data_2 = processing_time_scraper.apply_mapping(test_data_2)
+
+        self.assertEqual(
+            mapped_test_data_1[yaml_key_1], test_data_1[foia_data_key_1])
+        self.assertEqual(
+            mapped_test_data_2[yaml_key_2], test_data_2[foia_data_key_2])
+
+        # Test complex transformations (multiple names on foia.gov data)
+        foia_data_key = 'surface transportation board_stb_2013'
+        yaml_key_1 = 'surface transportation board_dot_2013'
+        yaml_key_2 = 'surface transportation board_stb_2013'
+        test_data = {foia_data_key: {'simple_median_days': 10}}
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+
+        self.assertEqual(
+            mapped_test_data[yaml_key_1],
+            mapped_test_data[yaml_key_2])

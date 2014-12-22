@@ -11,16 +11,6 @@ departments:
   name: Consumer Financial Protection Bureau
   phone: 855-444-3642
   public_liaison: 'Mark Vugrinovich, Phone: (202) 435-9499'
-  request_time_stats:
-    '2013':
-      complex_average_days: '31.07'
-      complex_highest_days: '128'
-      complex_lowest_days: less than 1
-      complex_median_days: '28'
-      simple_average_days: '8.36'
-      simple_highest_days: '41'
-      simple_lowest_days: less than 1
-      simple_median_days: '6.5'
   service_center: 'Phone: (855) 444-3642'
   top_level: false
   website: http://www.consumerfinance.gov/foia/

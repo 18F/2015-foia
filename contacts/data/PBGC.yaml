@@ -18,47 +18,6 @@ departments:
   - - Electronic Reading Room
     - http://www.pbgc.gov/about/news/other/res/electronic-reading-room.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  request_time_stats:
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '6'
-      expedited_processing_highest_days: '12'
-      expedited_processing_lowest_days: '1'
-      expedited_processing_median_days: '6'
-      simple_average_days: '6'
-      simple_highest_days: '43'
-      simple_lowest_days: '0'
-      simple_median_days: '6'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '10'
-      simple_highest_days: '176'
-      simple_lowest_days: '1'
-      simple_median_days: '9'
-    '2012':
-      simple_average_days: '7'
-      simple_highest_days: '57'
-      simple_lowest_days: '1'
-      simple_median_days: '7'
-    '2013':
-      complex_average_days: '10'
-      complex_highest_days: '198'
-      complex_lowest_days: '1'
-      complex_median_days: '9'
-      simple_average_days: '0'
-      simple_highest_days: '0'
-      simple_lowest_days: '0'
-      simple_median_days: '0'
   service_center: 'Phone: (202) 326-4040'
   top_level: false
   website: http://www.pbgc.gov/about/foia.html

@@ -14,43 +14,6 @@ departments:
   reading_rooms:
   - - FOIA Reading Room
     - http://www.abmc.gov/node/1005/foia-reading-room
-  request_time_stats:
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '11'
-      simple_highest_days: '20'
-      simple_lowest_days: '3'
-      simple_median_days: '11'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '10'
-      simple_highest_days: '20'
-      simple_lowest_days: '1'
-      simple_median_days: '8'
-    '2012':
-      simple_average_days: '13'
-      simple_highest_days: '20'
-      simple_lowest_days: '1'
-      simple_median_days: '14'
-    '2013':
-      simple_average_days: '72'
-      simple_highest_days: '193'
-      simple_lowest_days: '10'
-      simple_median_days: '11'
   service_center: 'Phone: (703) 696-6897'
   top_level: false
   website: http://www.abmc.gov/foia

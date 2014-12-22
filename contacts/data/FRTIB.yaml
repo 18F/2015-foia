@@ -11,51 +11,6 @@ departments:
   name: Federal Retirement Thrift Investment Board
   phone: 202-942-1660
   public_liaison: 'Amanda Haas, Phone: (202) 942-1660'
-  request_time_stats:
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '16.5'
-      simple_highest_days: '38'
-      simple_lowest_days: '6'
-      simple_median_days: '17'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '16'
-      simple_highest_days: '23'
-      simple_lowest_days: '3'
-      simple_median_days: '20'
-    '2012':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '27'
-      simple_highest_days: '57'
-      simple_lowest_days: '1'
-      simple_median_days: '20'
-    '2013':
-      simple_average_days: '27'
-      simple_highest_days: '112'
-      simple_lowest_days: '11'
-      simple_median_days: '22'
   service_center: 'Phone: (202) 942-1660'
   top_level: false
   website: http://frtib.gov/ReadingRoom/FOIA/e-read_guide.pdf
