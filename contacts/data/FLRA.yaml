@@ -21,69 +21,6 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
-  request_time_stats:
-    '2008':
-      simple_average_days: '79'
-      simple_highest_days: '325'
-      simple_lowest_days: '1'
-      simple_median_days: '20'
-    '2009':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '146'
-      simple_highest_days: '1061'
-      simple_lowest_days: '1'
-      simple_median_days: '18'
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '27'
-      simple_highest_days: '250'
-      simple_lowest_days: '1'
-      simple_median_days: '17'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '13'
-      simple_highest_days: '32'
-      simple_lowest_days: '0'
-      simple_median_days: '13'
-    '2012':
-      complex_average_days: '66'
-      complex_highest_days: '156'
-      complex_lowest_days: '21'
-      complex_median_days: '12'
-      simple_average_days: '12'
-      simple_highest_days: '28'
-      simple_lowest_days: '1'
-      simple_median_days: '11'
-    '2013':
-      complex_average_days: '37.33'
-      complex_highest_days: '56'
-      complex_lowest_days: '18'
-      complex_median_days: '38'
-      simple_average_days: '10.64'
-      simple_highest_days: '49'
-      simple_lowest_days: less than 1
-      simple_median_days: '10'
   service_center: 'Phone: (202) 218-7770'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -658,7 +595,6 @@ departments:
       simple_highest_days: '2'
       simple_lowest_days: '1'
       simple_median_days: '1'
-    '2013': {}
   service_center: 'Phone: (202) 482-6700'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -744,6 +680,61 @@ departments:
   name: Office of the Inspector General
   phone: 202-218-7770
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '3'
+      simple_median_days: '3'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '10'
+      simple_lowest_days: '2'
+      simple_median_days: '2'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10'
+      simple_highest_days: '15'
+      simple_lowest_days: '3'
+      simple_median_days: '13'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10'
+      simple_highest_days: '15'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
+    '2012':
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2013':
+      simple_average_days: '16.75'
+      simple_highest_days: '33'
+      simple_lowest_days: '2'
+      simple_median_days: '16'
   service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
   top_level: false
   website: http://www.flra.gov/foia_contact

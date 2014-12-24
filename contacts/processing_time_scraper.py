@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
+from copy import deepcopy
 import logging
 from glob import glob
 import os
@@ -13,16 +14,25 @@ import yaml
 
 
 def load_mapping():
-    """ Loads mapping of yamls to foia.gov data """
+    """
+    Opens yaml mapping file and creates a mapping key to translate from
+    foia.gov/data names to yaml data names for each year. Both key and
+    value are formatted as `name_filename_year`.
+    """
 
     key = {}
     years = get_years()
-    with open('layering_data/data_mapping_key.csv', 'r') as csvfile:
-        datareader = csv.reader(csvfile)
-        for row in datareader:
-            for year in years:
-                key["{0}_{1}_{2}".format(row[0], year, row[1])] = \
-                    "{0}_{1}_{2}".format(row[2], year, row[1])
+    with open('layering_data/foiadata_to_yaml_mapping.yaml', 'r') as f:
+        mapping = yaml.load(f.read())
+    for element in mapping:
+        for year in years:
+            yaml_name = "{0}_{1}".format(element, year).lower()
+            for name in mapping[element]:
+                foia_name = "{0}_{1}".format(name, year)
+                if not key.get(foia_name):
+                    key[foia_name] = [yaml_name]
+                else:
+                    key[foia_name].append(yaml_name)
     return key
 
 
@@ -30,13 +40,11 @@ def apply_mapping(data):
     """ Applies mapping to make foia.gov data compatiable with yaml data """
 
     mapping = load_mapping()
-    new_data = {}
-    for key in data.keys():
-        if key in mapping.keys():
-            new_data[mapping[key]] = data[key]
-        else:
-            new_data[key] = data[key]
-    return new_data
+    for foia_data_name in mapping.keys():
+        if foia_data_name in data.keys():
+            for yaml_name in mapping[foia_data_name]:
+                data[yaml_name] = deepcopy(data[foia_data_name])
+    return data
 
 
 def delete_empty_data(data):
@@ -44,21 +52,30 @@ def delete_empty_data(data):
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == "NA" or data[key] == '':
+        if data[key] == '':
             del data[key]
     return data
 
 
-def append_time_stats(yaml_data, data, year, short_filename):
+def clean_data(data):
+    """
+    Deletes agency, year, and component attributes, which are not
+    added to the yamls and also any attributes with empty values
+    """
+    if data.get('agency'):
+        del data['agency'], data['year'], data['component']
+    return delete_empty_data(data)
+
+
+def append_time_stats(yaml_data, data, yaml_key, year):
     """ Appends request time stats to list under key request_time_stats"""
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['agency']
-    del data[yaml_data['name'] + year + short_filename]['year']
-    del data[yaml_data['name'] + year + short_filename]['component']
-    yaml_data['request_time_stats'][year.strip("_")] = \
-        delete_empty_data(data[yaml_data['name'] + year + short_filename])
+    cleaned_data = clean_data(data[yaml_key])
+    if cleaned_data:
+        yaml_data['request_time_stats'][year.strip("_")] = \
+            deepcopy(cleaned_data)
     return yaml_data
 
 
@@ -72,15 +89,20 @@ def patch_yamls(data):
             yaml_data = yaml.load(f.read())
         for year in years:
             year = "_%s" % year
-            if yaml_data['name'] + year + short_filename in data.keys():
+            agency_key = yaml_data['name'] + short_filename + year
+            agency_key = agency_key.lower()
+            if agency_key in data.keys():
                 yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
-                del data[yaml_data['name'] + year + short_filename]
+                    yaml_data, data, agency_key, year)
+                del data[agency_key]
             for internal_data in yaml_data['departments']:
-                key = internal_data['name'] + year + short_filename
-                if key in data.keys():
+                office_key = internal_data['name'] + short_filename + year
+                office_key = office_key.lower()
+                if office_key in data.keys():
                     internal_data = append_time_stats(
-                        internal_data, data, year, short_filename)
+                        internal_data, data, office_key, year)
+                    del data[office_key]
+
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
@@ -98,7 +120,6 @@ def make_column_names():
             names.append('{0}_{1}_days'.format(kind, measure))
     columns.extend(names)
     return columns
-
 
 
 def get_row_data(key, row_data, column_names):
@@ -178,7 +199,8 @@ def get_key_values(row_items, columns, year, title):
         else:
             row_array.append(item.text)
     value = zip_and_clean(columns, row_array)
-    key = title + "_%s" % year + "_%s" % value['agency']
+    key = title + "_%s" % value['agency'] + "_%s" % year
+    key = key.lower()
     return key, value
 
 
@@ -238,11 +260,6 @@ def scrape_times():
 
 
 if __name__ == "__main__":
-
-    """
-    This script scrapes processing times data from foia.gov and dumps
-    the data in both the yaml files and `request_time_data.csv.
-    """
 
     logging.basicConfig(level=logging.INFO)
     scrape_times()

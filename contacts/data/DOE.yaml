@@ -545,26 +545,6 @@ departments:
       simple_highest_days: '0'
       simple_lowest_days: '0'
       simple_median_days: '0'
-    '2010':
-      simple_average_days: '15.06'
-      simple_highest_days: '136'
-      simple_lowest_days: less than 1
-      simple_median_days: '11'
-    '2011':
-      simple_average_days: '17.76'
-      simple_highest_days: '366'
-      simple_lowest_days: less than 1
-      simple_median_days: '12'
-    '2012':
-      simple_average_days: '12.41'
-      simple_highest_days: '65'
-      simple_lowest_days: less than 1
-      simple_median_days: '11'
-    '2013':
-      simple_average_days: '16.5'
-      simple_highest_days: '76'
-      simple_lowest_days: less than 1
-      simple_median_days: '13.5'
   service_center: 'Phone: (803) 952-8134'
   top_level: false
   website: http://sro.srs.gov/foia.htm
@@ -587,54 +567,32 @@ departments:
     - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   request_time_stats:
-    '2010':
-      complex_average_days: '163.88'
-      complex_highest_days: '2305'
-      complex_lowest_days: less than 1
-      complex_median_days: '53'
-      expedited_processing_average_days: '9'
-      expedited_processing_highest_days: '9'
-      expedited_processing_lowest_days: '9'
-      expedited_processing_median_days: '9'
-      simple_average_days: '24.4'
-      simple_highest_days: '157'
-      simple_lowest_days: less than 1
-      simple_median_days: '13'
-    '2011':
-      complex_average_days: '134.19'
-      complex_highest_days: '1092'
-      complex_lowest_days: '1'
-      complex_median_days: '58'
-      expedited_processing_average_days: '268'
-      expedited_processing_highest_days: '268'
-      expedited_processing_lowest_days: '268'
-      expedited_processing_median_days: '268'
-      simple_average_days: '21.24'
-      simple_highest_days: '146'
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '59'
+      simple_highest_days: '950'
       simple_lowest_days: '1'
-      simple_median_days: '12'
-    '2012':
-      complex_average_days: '110.52'
-      complex_highest_days: '1016'
-      complex_lowest_days: '1'
-      complex_median_days: '48'
-      expedited_processing_average_days: '70.33'
-      expedited_processing_highest_days: '193'
-      expedited_processing_lowest_days: '2'
-      expedited_processing_median_days: '16'
-      simple_average_days: '32.26'
-      simple_highest_days: '411'
-      simple_lowest_days: less than 1
-      simple_median_days: '6'
-    '2013':
-      complex_average_days: '121.78'
-      complex_highest_days: '1556'
+      simple_median_days: '35'
+    '2009':
+      complex_average_days: '120'
+      complex_highest_days: '935'
       complex_lowest_days: less than 1
-      complex_median_days: '38'
-      simple_average_days: '4.89'
-      simple_highest_days: '14'
+      complex_median_days: '48'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '20'
+      simple_highest_days: '74'
       simple_lowest_days: less than 1
-      simple_median_days: '5'
+      simple_median_days: '15'
   service_center: 'Phone: (866) 747-5994'
   top_level: false
   website: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia
@@ -675,10 +633,6 @@ departments:
       simple_highest_days: '65'
       simple_lowest_days: '1'
       simple_median_days: '19'
-    '2010': {}
-    '2011': {}
-    '2012': {}
-    '2013': {}
   service_center: 'Phone: (202) 781-6172'
   top_level: false
   website: ''
@@ -928,49 +882,6 @@ departments:
   phone: 706-213-3810
   public_liaison: 'Joel Seymour, Phone: (706) 213-3810'
   request_form: http://www.sepa.doe.gov/request2.htm
-  request_time_stats:
-    '2008':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '5'
-      simple_highest_days: '7'
-      simple_lowest_days: '2'
-      simple_median_days: '5'
-    '2009':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '12'
-      simple_highest_days: '31'
-      simple_lowest_days: '1'
-      simple_median_days: '12'
-    '2010': {}
-    '2011':
-      simple_average_days: '11.4'
-      simple_highest_days: '23'
-      simple_lowest_days: less than 1
-      simple_median_days: '13'
-    '2012':
-      simple_average_days: '4.33'
-      simple_highest_days: '10'
-      simple_lowest_days: '1'
-      simple_median_days: '3'
-    '2013':
-      simple_average_days: '2.2'
-      simple_highest_days: '5'
-      simple_lowest_days: less than 1
-      simple_median_days: '2'
   service_center: 'Phone: (706) 213-3810'
   top_level: false
   website: http://www.sepa.doe.gov/overview/?c=8

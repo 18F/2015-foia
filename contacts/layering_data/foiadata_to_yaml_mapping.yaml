@@ -1,0 +1,322 @@
+# This file maps foia.gov/data names to foia.gov/report-makerequest
+# names, which are currently used as the standard for the foia_hub project.
+AMTRAK_NRPC:
+- amtrak (national railroad passenger corporation)_nrpc
+Animal & Plant Health Inspection_USDA:
+- animal and plant health inspection service_usda
+Armed Services Board of Contract Appeals_DoD:
+- armed service board of contract appeals_dod
+Atlanta District Office (Savanna Local Office)_EEOC:
+- atlanta district office_eeoc
+Birmingham District Office (Mobile Local Office, Jackson Area Office)_EEOC:
+- birmingham district office_eeoc
+Bureau of Alcohol, Tobacco, Firearms, and Explosives_DOJ:
+- bureau of alcohal, tobacco, firearms and explosives_doj
+Bureau of Industry and Security_DOC:
+- bureau of industrty and security_doc
+Census Bureau_DOC:
+- bureau of the census_doc
+Center for Medicare and Medicaid Services_HHS:
+- centers for medicare & medicaid services_hhs
+Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office_EEOC:
+- charlotte district office_eeoc
+Chicago District Office (Milwaukee and Minneapolis Area Offices)_EEOC:
+- chicago district office_eeoc
+Chicago Office_DOE:
+- chicago operations office_doe
+Commission on Civil Rights_USCCR:
+- united states commission on civil rights_usccr
+Comptroller of the Currency_Treasury:
+- office of the comptroller of the currency_treasury
+Consumer Financial Protection Bureau_CFPB:
+- consumer protection financial board_cfpb
+Consumer Product Safety Commission_U.S. CPSC:
+- united states consumer product safety commission_u.s. cpsc
+Dallas District Office (San Antonio Field Office, El Paso Area Office)_EEOC:
+- dallas district office_eeoc
+Defense Contract Audit Agency - Headquarters_DoD:
+- defense contract audit agency_dod
+Defense Logistics Agency - Headquarters_DoD:
+- defense logistic agency_dod
+Department of Agriculture_USDA:
+- united states department of agriculture_usda
+Department of Commerce_DOC:
+- united states department of commerce_doc
+Department of Defense Education Activity_DoD:
+- department of defense education agency_dod
+Department of Health and Human Services_HHS:
+- united sates department of health and human services_hhs
+Department of Interior_DOI:
+- department of the interior_doi
+Department of State_State:
+- united states department of state_state
+Department of the Air Force - Headquarters/ICIO (FOIA)_DoD:
+- united states department of the air force_dod
+Department of the Army - Freedom of Information and Privacy Office_DoD:
+- united states department of the army_dod
+Department of the Navy - Main Office_DoD:
+- united states department of the navy_dod
+Directorate for National Protection and Programs_DHS:
+- national protection and programs directorate_dhs
+Economics and Statistics Administration Bureau_DOC:
+- economic and statistics administration/bureau of economic analysis_doc
+Employment & Training Administration_U.S. DOL:
+- employment and training administration_u.s. dol
+Environmental Management Consolidated Business Center (EMCBC)_DOE:
+- environmental management consolidated business center_doe
+Export-Import Bank of the U.S._Ex-Im Bank:
+- export-import bank of the united states_ex-im bank
+Federal Bureau of Prisons_DOJ:
+- bureau of prisons_doj
+Federal Reserve System_FRB:
+- board of governors of the federal reserve system_frb
+Food Safety & Inspection Service_USDA:
+- food safety and inspection service_usda
+Food, Nutrition & Consumer Services_USDA:
+- food and nutrition consumer service_usda
+Forest Service - Headquarters_USDA:
+- forest service_usda
+General Services Administration_GSA:
+- u. s. general services  administration_gsa
+Grain Inspection, Packers & Stockyards Administration_USDA:
+- grain inspection, packers and stockyards administration_usda
+Houston District Office (New Orleans Field Office)_EEOC:
+- houston district office_eeoc
+INTERPOL-United States National Central Bureau_DOJ:
+- united states national central bureau -- interpol_doj
+Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)_EEOC:
+- indianapolis district office_eeoc
+Internal Revenue Service - Headquarters Office_Treasury:
+- internal revenue service_treasury
+Jet Propulsion Laboratory_NASA:
+- nasa management office - jet propulsion laboratory_nasa
+Jobs Corps_U.S. DOL:
+- job corps_u.s. dol
+Legal Services Corporation_LSC:
+- legal services corporation _lsc
+Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)_EEOC:
+- los angeles district office_eeoc
+Memphis District Office (Little Rock and Nashville Area Offices)_EEOC:
+- memphis district office_eeoc
+Merit Systems Protection Board_MSPB:
+- united states merit systems protection board_mspb
+Miami District Office (Tampa Field Office and San Juan Local Office)_EEOC:
+- miami district office_eeoc
+Mine Safety & Health Administration_U.S. DOL:
+- mine safety and health administration_u.s. dol
+NASA Shared Service Center (NSSC)_NASA:
+- nasa shared services center_nasa
+National Cemetery Administration_VA:
+- national cemetary administration_va
+National Geospatial-Intelligence Agency_DoD:
+- national geospatial command_dod
+National Headquarters_EPA:
+- headquarters_epa
+National Indian Gaming Commission_NIGC:
+- national indian gaming commision_nigc
+National Nuclear Security Administration Office of Naval Reactors_DOE:
+- naval reactors_doe
+National Nuclear Security Administration Service Center_DOE:
+- national nuclear security administration service center albuquerque_doe
+New York District Office (Boston and Newark Area Offices, Buffalo Local Office)_EEOC:
+- new york district office_eeoc
+Nuclear Regulatory Commission_USNRC:
+- united states nuclear regulatory commission_usnrc
+Occupational Safety & Health Administration_U.S. DOL:
+- occupational safety and health administration_u.s. dol
+Office for Civil Rights and Civil Liberties_DHS:
+- office of civil rights & civil liberties_dhs
+Office of Acquisition & Logistics_VA:
+- office of acquisition, logistics, and construction (formerly a&mm - acquisition
+  & material management)_va
+Office of Assistant Secretary for Congressional and Legislative Affairs_VA:
+- office of congressional and legislative affairs_va
+Office of Assistant Secretary for Human Resources and Administration_VA:
+- office of assistant secretary for human resources and administration (006)_va
+- office of the assistant secretary for human resources & administration_va
+Office of Assistant Secretary for Information and Technology_VA:
+- office of information and technology (005)_va
+- office of information and technology_va
+Office of Assistant Secretary for Policy and Intergovernmental Affairs_VA:
+- office of the assistant secretary for public & intergovernmental affairs_va
+Office of Budget & Program Analysis_USDA:
+- office of budget and program analysis_usda
+Office of Construction & Facilities Management_VA:
+- office of construction and facilities management_va
+Office of Deputy Assistant Secretary for Administration_VA:
+- office of the assistant secretary for administration and management_u.s. dol
+Office of Deputy Assistant Secretary for Budget_VA:
+- office of the deputy assistant secretary for budget_va
+Office of Deputy Assistant Secretary for Diversity and Inclusion_VA:
+- office of diversity and inclusion (formerly dm&eeo - office of diversity management
+  and equal employment opportunity)_va
+Office of Deputy Assistant Secretary for Finance_VA:
+- office of finance_va
+Office of Deputy Assistant Secretary for Human Resources Management_VA:
+- office of human resources management_va
+Office of Deputy Assistant Secretary for Public Affairs_VA:
+- office of public affairs_va
+Office of Federal Contract Compliance Programs_U.S. DOL:
+- office of federal contractor compliance programs_u.s. dol
+Office of Government Ethics_OGE:
+- united states office of government ethics_oge
+Office of Inspector General_DoD:
+- department of defense inspector general_dod
+Office of Inspector General_VA:
+- inspector general_va
+Office of Intelligence & Analysis_DHS:
+- office of intelligence and analysis_dhs
+Office of Labor-Management Standards_U.S. DOL:
+- office of labor management standards_u.s. dol
+Office of Operations Coordination and Planning_DHS:
+- office of operations coordination_dhs
+Office of Personnel Management_OPM:
+- united states office of personnel management_opm
+Office of Special Counsel_OSC:
+- u.s. office of special counsel_osc
+Office of Workers' Compensation Programs_U.S. DOL:
+- office of workers compensation programs_u.s. dol
+Office of the Administrative Law Judges_U.S. DOL:
+- administrative law judges_u.s. dol
+Office of the Assistant Secretary for Operations, Security, and Preparedness_VA:
+- office of operations, security, and preparedness (formerly s&le - security & law
+  enforcement)_va
+Office of the Chief Information Officer_USDA:
+- office of the secretary / office of the chief information officer_usda
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs_VA:
+- office of the deputy assistant secretary for intergovernmenal affairs_va
+Office of the General Counsel_USDA:
+- office of general council_usda
+Office of the General Counsel_VA:
+- general counsel_va
+Office of the Inspector General_DOI:
+- office of inspector general_doi
+Office of the Inspector General_DOT:
+- office of inspector general_dot
+Office of the Inspector General_FLRA:
+- inspector general_flra
+Office of the Inspector General_HHS:
+- office of inspector general_hhs
+Office of the Inspector General_PC:
+- office of inspector general_pc
+Office of the Inspector General_US RRB:
+- office of inspector general_us rrb
+Office of the Inspector General_USPS:
+- office of inspector general for the usps_usps
+Office of the Secretary and Joint Staff_DoD:
+- office of the secretary of defense/joint staff_dod
+Office of the United States Trade Representative_USTR:
+- office of the u.s. trade representative_ustr
+Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)_EEOC:
+- philadelphia district office_eeoc
+Phoenix District Office (Denver Field Office, Albuquerque Area Office)_EEOC:
+- phoenix district office_eeoc
+Recovery Accountablity and Transparency Board_RATB:
+- recovery accountability and transparency board_ratb
+'Region 1 (States: CT, ME, MA, NH, RI, VT)_EPA':
+- region 1_epa
+'Region 10 (States: AK, ID, OR, WA)_EPA':
+- region 10_epa
+'Region 2 (States: NJ, NY, PR VI)_EPA':
+- region 2_epa
+'Region 3 (States: DE, DC, MD, PA, VA, WV)_EPA':
+- region 3_epa
+'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)_EPA':
+- region 4_epa
+'Region 5 (States: IL, IN, MI, MN, OH, WI)_EPA':
+- region 5_epa
+'Region 6 (States: AR, LA, NM, OK, TX)_EPA':
+- region 6_epa
+'Region 7 (States: IA, KS, MO, NE)_EPA':
+- region 7_epa
+'Region 8 (States: CO, MT, ND, SD, UT, WY)_EPA':
+- region 8_epa
+'Region 9 (States: AZ, CA, HI, NV, AS, GU)_EPA':
+- region 9_epa
+Region I (Boston, Hartford, Manchester, Providence)_HUD:
+- region 1 - boston_hud
+Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)_HUD:
+- region 2 - new york_hud
+Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C., Charleston, Wilmington)_HUD:
+- region 3 - philadelphia_hud
+? Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson, Jacksonville,
+  Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)_HUD
+: - region 4 - atlanta_hud
+Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)_HUD:
+- region 9 - san fracisco_hud
+Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee, Minneapolis-St. Paul)_HUD:
+- region 5 - chicago_hud
+Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma, San Antonio)_HUD:
+- region 6 - fort worth_hud
+Region VII (Kansas City, Des Moines, Omaha, St. Louis)_HUD:
+- region 7 - kansas_hud
+Region VIII (Denver)_HUD:
+- region 8 - denver_hud
+Region X (Seattle, Anchorage, Portland)_HUD:
+- region 10 -seattle_hud
+Research, Education & Economics_USDA:
+- research, education, and economics_usda
+San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)_EEOC:
+- san francisco district office_eeoc
+Science & Technology Directorate_DHS:
+- science and technology directorate_dhs
+Securities and Exchange Commission_SEC:
+- united states securities and exchange commission_sec
+Small Business Administration_SBA:
+- united states small business administration_sba
+St. Louis District Office (Kansas City and Oklahoma Area Offices)_EEOC:
+- st. louis district office_eeoc
+Strategic Petroleum Reserve Project_DOE:
+- strategic petroleum reserve_doe
+Surface Transportation Board_DOT:
+- surface transportation board_stb
+Surface Transportation Board_STB:
+- surface transportation board_stb
+TRICARE Management Activity_DoD:
+- tricare management agency, dod health care system_dod
+The Authority_FLRA:
+- Authority Member
+The Federal Service Impasses Panel_FLRA:
+- federal service impasses panel_flra
+U.S. Africa Command_DoD:
+- united states africa command_dod
+U.S. Agency for International Development_USAID:
+- united states agency for international development_usaid
+U.S. Central Command_DoD:
+- united states central command_dod
+U.S. Citizenship & Immigration Services_DHS:
+- united states citizenship and immigration services_dhs
+U.S. Coast Guard_DHS:
+- united states coast guard_dhs
+U.S. Customs & Border Protection_DHS:
+- united states customs and border protection_dhs
+U.S. European Command_DoD:
+- united states european command_dod
+U.S. Fish and Wildlife Service_DOI:
+- fish & wildlife service_doi
+U.S. Geological Survey_DOI:
+- united states geological survey_doi
+U.S. Immigration & Customs Enforcement_DHS:
+- immigration and customs enforcement_dhs
+U.S. Joint Forces Command_DoD:
+- united states joint forces command_dod
+U.S. Northern Command_DoD:
+- united states northern command_dod
+U.S. Pacific Command_DoD:
+- united states pacific command_dod
+U.S. Patent and Trademark Office_DOC:
+- united states patent and trademark office_doc
+U.S. Southern Command_DoD:
+- united states southern command_dod
+U.S. Special Operations Command_DoD:
+- united states special operations command_dod
+U.S. Strategic Command_DoD:
+- united states strategic command_dod
+U.S. Transportation Command_DoD:
+- united states transportation command_dod
+United States International Boundary and Water Commission_USIBWC:
+- united states section, international boundary and water commission_usibwc
+United States Trade and Development Agency_USTDA:
+- u.s. trade and development agency_ustda
+Veterans' Employment & Training Service_U.S. DOL:
+- veterans' employment and training service_u.s. dol

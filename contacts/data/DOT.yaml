@@ -104,6 +104,65 @@ departments:
   - - OIG FOIA Electronic Reading Room
     - https://www.oig.dot.gov/foia-electronic-reading-room
   request_form: https://www.oig.dot.gov/freedom-information-act
+  request_time_stats:
+    '2008':
+      complex_average_days: '443'
+      complex_highest_days: '723'
+      complex_lowest_days: '100'
+      complex_median_days: '479'
+      simple_average_days: '247'
+      simple_highest_days: '723'
+      simple_lowest_days: less than 1
+      simple_median_days: '261'
+    '2009':
+      complex_average_days: '346'
+      complex_highest_days: '473'
+      complex_lowest_days: '121'
+      complex_median_days: '411'
+      simple_average_days: '136'
+      simple_highest_days: '553'
+      simple_lowest_days: less than 1
+      simple_median_days: '84'
+    '2010':
+      complex_average_days: '334'
+      complex_highest_days: '1131'
+      complex_lowest_days: '1'
+      complex_median_days: '229'
+      simple_average_days: '46'
+      simple_highest_days: '282'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
+    '2011':
+      complex_average_days: '159'
+      complex_highest_days: '340'
+      complex_lowest_days: '8'
+      complex_median_days: '194'
+      simple_average_days: '56'
+      simple_highest_days: '239'
+      simple_lowest_days: less than 1
+      simple_median_days: '27'
+    '2012':
+      complex_average_days: '143'
+      complex_highest_days: '305'
+      complex_lowest_days: '1'
+      complex_median_days: '122'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '4'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '4'
+      simple_average_days: '46'
+      simple_highest_days: '178'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
+    '2013':
+      complex_average_days: '106'
+      complex_highest_days: '210'
+      complex_lowest_days: '12'
+      complex_median_days: '122'
+      simple_average_days: '40'
+      simple_highest_days: '132'
+      simple_lowest_days: less than 1
+      simple_median_days: '26'
   service_center: 'Angel Simmons, Phone: (202) 366-6131'
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
@@ -1258,6 +1317,53 @@ departments:
   phone: 202-245-0269
   public_liaison: 'Craig Keats, Phone: (202) 245-0264'
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
+  request_time_stats:
+    '2008':
+      simple_average_days: '10.5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2009':
+      simple_average_days: '6.75'
+      simple_highest_days: '15'
+      simple_lowest_days: '1'
+      simple_median_days: '5.5'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '7.3'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '9.1'
+      simple_highest_days: '31'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2012':
+      simple_average_days: '5.9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2013':
+      simple_average_days: '6'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   top_level: false
   usa_id: '49691'

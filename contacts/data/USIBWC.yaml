@@ -42,7 +42,6 @@ request_time_stats:
     simple_highest_days: '27'
     simple_lowest_days: '2'
     simple_median_days: '18.5'
-  '2009': {}
   '2010':
     complex_average_days: '0'
     complex_highest_days: '0'
