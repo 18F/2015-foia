@@ -759,6 +759,13 @@ class ProcessingTimeScaperTests(TestCase):
         yaml keys
         """
 
+        # Check if items without mapping pass through without change
+        foia_data_key = 'non_mapped_office_2013'
+        test_data = {foia_data_key: {'simple_median_days': 3}}
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+        self.assertEqual(
+            mapped_test_data[foia_data_key], test_data[foia_data_key])
+
         # Test simple transformations (spelling error on foia.gov data)
         foia_data_key = 'bureau of alcohal, tobacco, ' + \
             'firearms and explosives_doj_2013'

@@ -22,13 +22,12 @@ def load_mapping():
 
     key = {}
     years = get_years()
-    with open('layering_data/mapping_file.yaml', 'r') as f:
+    with open('layering_data/foiadata_to_yaml_mapping.yaml', 'r') as f:
         mapping = yaml.load(f.read())
     for element in mapping:
         for year in years:
-            yaml_name = "{0}_{1}".format(
-                mapping[element]['foiayamls'][0], year)
-            for name in mapping[element]['foiadata']:
+            yaml_name = "{0}_{1}".format(element, year).lower()
+            for name in mapping[element]:
                 foia_name = "{0}_{1}".format(name, year)
                 if not key.get(foia_name):
                     key[foia_name] = [yaml_name]
@@ -41,12 +40,11 @@ def apply_mapping(data):
     """ Applies mapping to make foia.gov data compatiable with yaml data """
 
     mapping = load_mapping()
-    new_data = {}
     for foia_data_name in mapping.keys():
         if foia_data_name in data.keys():
             for yaml_name in mapping[foia_data_name]:
-                new_data[yaml_name] = deepcopy(data[foia_data_name])
-    return new_data
+                data[yaml_name] = deepcopy(data[foia_data_name])
+    return data
 
 
 def delete_empty_data(data):

@@ -1,4 +1,11 @@
 name,year,agency,simple_average_days,simple_median_days,simple_lowest_days,simple_highest_days,complex_average_days,complex_median_days,complex_lowest_days,complex_highest_days,expedited_processing_average_days,expedited_processing_median_days,expedited_processing_lowest_days,expedited_processing_highest_days
+acquisition & material management,2008,VA,0,0,0,0,141,6,1,988,,,,
+"adjudicatory boards (arb, brb, ecab)",2008,U.S. DOL,8.9,6,2,35,0,0,0,0,13,13,13,13
+"adjudicatory boards (arb, brb, ecab)",2009,U.S. DOL,7,5,1,33,0,0,0,0,0,0,0,0
+"adjudicatory boards (arb, brb, ecab)",2010,U.S. DOL,6,4,1,15,0,0,0,0,0,0,0,0
+"adjudicatory boards (arb, brb, ecab)",2011,U.S. DOL,17.2,12.5,2,50,368,368,368,368,26,26,7,45
+"adjudicatory boards (arb, brb, ecab)",2012,U.S. DOL,27,9,3,277,13,13,13,13,1,1,1,1
+"adjudicatory boards (arb, brb, ecab)",2013,U.S. DOL,18.6,10,3,267,0,0,0,0,17,17,17,17
 administration for children and families,2008,HHS,96,186,1,429,108,193,1,403,10,15,3,43
 administration for children and families,2009,HHS,145,108,1,310,278,261,1,566,0,0,0,0
 administration for children and families,2010,HHS,149,7,1,925,238,106,12,776,0,0,0,0
@@ -7,16 +14,30 @@ administration for children and families,2012,HHS,227,87,1,1039,71,33,1,750,0,4,
 administration for children and families,2013,HHS,536,488,1,1260,119,60,1,992,182,182,156,207
 administration for community living,2012,HHS,5,0,7,0,0,0,0,0,0,0,0,0
 administration for community living,2013,HHS,13,14,1,60,,,,,,,,
+administration on aging,2008,HHS,0,0,0,0,6,6,2,15,0,0,0,0
+administration on aging,2009,HHS,0,0,0,0,5,4,1,15,0,0,0,0
+administration on aging,2010,HHS,0,0,1,8,4,0,0,0,0,0,0,0
+administration on aging,2011,HHS,5,2,1,11,0,0,0,0,0,0,0,0
+administration,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 administrative conference of the united states,2010,ACUS,20,20,20,20,20,20,20,20,0,0,0,0
 administrative conference of the united states,2011,ACUS,1.6,1,1,4,0,0,0,0,0,0,0,0
 administrative conference of the united states,2012,ACUS,2,3,1,5,0,0,0,0,3,3,3,3
 administrative conference of the united states,2013,ACUS,1.2,1,less than 1,3,,,,,,,,
+administrative law judges,2008,U.S. DOL,0,0,0,0,11.7,2,1,342,0,0,0,0
+administrative law judges,2009,U.S. DOL,0,0,0,0,9.6,3,1,175,2.8,2,1,20
+administrative law judges,2010,U.S. DOL,0,0,0,0,9.7,4,1,326,6.8,2,1,29
+administrative law judges,2011,U.S. DOL,0,0,0,0,4.3,2,1,34,6.4,2,1,43
+administrative law judges,2012,U.S. DOL,0,0,0,0,7.2,3,1,171,6,2,1,19
+administrative law judges,2013,U.S. DOL,4,4,4,4,10.3,2,1,408,1.8,1.5,1,3
 agency for healthcare research and quality,2008,HHS,10,0,1,35,15,0,11,35,10,0,10,10
 agency for healthcare research and quality,2009,HHS,12,0,1,30,13,0,10,35,25,25,25,25
 agency for healthcare research and quality,2010,HHS,18.95,14,0,143,60.38,46.5,0,221,0,0,0,0
 agency for healthcare research and quality,2011,HHS,13,9,1,79,47,35,1,207,0,0,0,0
 agency for healthcare research and quality,2012,HHS,8,6,less than 1,20,40,35,7,80,0,0,0,0
 agency for healthcare research and quality,2013,HHS,,,,,,,,,,,,
+agency overall,2008,HUD,,,,,,,,,,,,
+agency overall,2009,HUD,,,,,,,,,,,,
+agency overall,2010,HUD,,,,,,,,,,,,
 agricultural marketing service,2010,USDA,35,32,1,206,0,0,0,0,0,0,0,0
 agricultural marketing service,2011,USDA,17,18,1,83,50,39,10,304,0,0,0,0
 agricultural marketing service,2012,USDA,17,15,1,68,87,58,1,509,22,10,1,57
@@ -53,36 +74,82 @@ animal & plant health inspection,2010,USDA,112,46,1,1106,368,322,12,1042,383,161
 animal & plant health inspection,2011,USDA,49.16,20,less than 1,729,350.06,320,less than 1,1027,38.67,19,3,94
 animal & plant health inspection,2012,USDA,51.79,26,1,843,200.56,146,1,534,119,36,8,313
 animal & plant health inspection,2013,USDA,46.66,22,1,629,160.3,76,15,1162,43,43,25,61
+animal and plant health inspection service,2010,USDA,112,46,1,1106,368,322,12,1042,383,161,3,1189
+animal and plant health inspection service,2011,USDA,49.16,20,less than 1,729,350.06,320,less than 1,1027,38.67,19,3,94
+animal and plant health inspection service,2012,USDA,51.79,26,1,843,200.56,146,1,534,119,36,8,313
+animal and plant health inspection service,2013,USDA,46.66,22,1,629,160.3,76,15,1162,43,43,25,61
 antitrust division,2008,DOJ,17,10,1,94,458,328,2,2341,,,,
 antitrust division,2009,DOJ,9,5,1,71,404,102,1,1871,,,,
 antitrust division,2010,DOJ,10.03,7,1,28,402.41,253,1,1600,,,,
 antitrust division,2011,DOJ,9.88,8,less than 1,30,331.68,105,1,1284,,,,
 antitrust division,2012,DOJ,4.4,3,less than 1,14,233.63,115,less than 1,1021,33.5,33.5,less than 1,66
 antitrust division,2013,DOJ,4.62,3,less than 1,20,183.33,45,3,940,,,,
+appeals,2008,DOI,,,,,,,,,,,,
+appeals,2009,DOI,,,,,,,,,,,,
+appeals,2010,DOI,,,,,,,,,,,,
+appeals,2011,DOI,,,,,,,,,,,,
+appeals,2008,VA,,,,,,,,,,,,
 armed forces retirement home,2011,AFRH,32,32,25,39,49,49,47,51,0,0,0,0
 armed forces retirement home,2012,AFRH,111,14.5,4,656,0,0,0,0,0,0,0,0
 armed forces retirement home,2013,AFRH,14,16,1,21,,,,,,,,
+armed service board of contract appeals,2008,DoD,2,2,1,3,13,8,2,37,0,0,0,0
+armed service board of contract appeals,2009,DoD,5,5,3,15,5,5,3,15,0,0,0,0
+armed service board of contract appeals,2010,DoD,1,1,1,1,,,,,,,,
+armed service board of contract appeals,2011,DoD,1,1,1,1,,,,,,,,
+armed service board of contract appeals,2012,DoD,21,18,2,46,0,0,0,0,0,0,0,0
+armed service board of contract appeals,2013,DoD,5,3,1,10,,,,,,,,
 armed services board of contract appeals,2008,DoD,2,2,1,3,13,8,2,37,0,0,0,0
 armed services board of contract appeals,2009,DoD,5,5,3,15,5,5,3,15,0,0,0,0
 armed services board of contract appeals,2010,DoD,1,1,1,1,,,,,,,,
 armed services board of contract appeals,2011,DoD,1,1,1,1,,,,,,,,
 armed services board of contract appeals,2012,DoD,21,18,2,46,0,0,0,0,0,0,0,0
 armed services board of contract appeals,2013,DoD,5,3,1,10,,,,,,,,
+assistant general counsel for administration,2008,DOC,,,,,,,,,,,,
+assistant general counsel for administration,2009,DOC,,,,,,,,,,,,
+assistant general counsel for administration,2010,DOC,,,,,,,,,,,,
+assistant general counsel for administration,2011,DOC,,,,,,,,,,,,
+assistant general counsel for administration,2012,DOC,,,,,,,,,,,,
+assistant general counsel for administration,2013,DOC,,,,,,,,,,,,
 atlanta district office (savanna local office),2010,EEOC,5.4618,1,1,23,0,0,0,0,0,0,0,0
 atlanta district office (savanna local office),2011,EEOC,13.4248,15,1,33,0,0,0,0,0,0,0,0
 atlanta district office (savanna local office),2012,EEOC,30.04,21,1,517,0,0,0,0,0,0,0,0
 atlanta district office (savanna local office),2013,EEOC,21.6,16,1,164,,,,,,,,
+atlanta district office,2010,EEOC,5.4618,1,1,23,0,0,0,0,0,0,0,0
+atlanta district office,2011,EEOC,13.4248,15,1,33,0,0,0,0,0,0,0,0
+atlanta district office,2012,EEOC,30.04,21,1,517,0,0,0,0,0,0,0,0
+atlanta district office,2013,EEOC,21.6,16,1,164,,,,,,,,
 atlanta regional office,2008,FLRA,10,8,5,19,,,,,,,,
 atlanta regional office,2009,FLRA,8,7,6,10,0,0,0,0,0,0,0,0
 atlanta regional office,2010,FLRA,3,10,1,13,0,0,0,0,0,0,0,0
 atlanta regional office,2011,FLRA,11,14,4,16,0,0,0,0,0,0,0,0
 atlanta regional office,2012,FLRA,8,10,2,12,,,,,,,,
 atlanta regional office,2013,FLRA,12,10,4,20,,,,,,,,
+"authority member, administrative law judges & solicitor",2008,FLRA,79,20,1,325,,,,,,,,
+"authority member, administrative law judges & solicitor",2009,FLRA,146,18,1,1061,0,0,0,0,0,0,0,0
+"authority member, administrative law judges & solicitor",2010,FLRA,27,17,1,250,0,0,0,0,0,0,0,0
+"authority member, administrative law judges & solicitor",2011,FLRA,13,13,0,32,0,0,0,0,0,0,0,0
+"authority member, administrative law judges & solicitor",2012,FLRA,12,11,1,28,66,12,21,156,,,,
+"authority member, administrative law judges & solicitor",2013,FLRA,10.64,10,less than 1,49,37.33,38,18,56,,,,
 "birmingham district office (mobile local office, jackson area office)",2010,EEOC,16.3047,17,1,69,0,0,0,0,0,0,0,0
 "birmingham district office (mobile local office, jackson area office)",2011,EEOC,18.6876,19,1,78,0,0,0,0,0,0,0,0
 "birmingham district office (mobile local office, jackson area office)",2012,EEOC,19.63,19,1,72,0,0,0,0,0,0,0,0
 "birmingham district office (mobile local office, jackson area office)",2013,EEOC,22.95,22,1,109,,,,,14,14,1,27
+birmingham district office,2010,EEOC,16.3047,17,1,69,0,0,0,0,0,0,0,0
+birmingham district office,2011,EEOC,18.6876,19,1,78,0,0,0,0,0,0,0,0
+birmingham district office,2012,EEOC,19.63,19,1,72,0,0,0,0,0,0,0,0
+birmingham district office,2013,EEOC,22.95,22,1,109,,,,,14,14,1,27
+board of governors of the federal reserve system,2008,FRB,3,2,less than 1,32,19,11,less than 1,138,136,136,134,138
+board of governors of the federal reserve system,2009,FRB,4,2,less than 1,39,33,29,less than 1,344,28,30,2,87
+board of governors of the federal reserve system,2010,FRB,5,2,1,120,105,55,1,487,12,24,1,24
+board of governors of the federal reserve system,2011,FRB,3,1,less than 1,33,47,21,less than 1,516,0,0,0,0
+board of governors of the federal reserve system,2012,FRB,3,2,1,30,62,31,1,765,28,28,26,31
+board of governors of the federal reserve system,2013,FRB,5,2,less than 1,164,60,30,1,1027,355,358,350,358
 board of veterans appeals,2008,VA,0,0,0,0,10,8.5,1,24,,,,
+board of veterans' appeals,2009,VA,,,,,11.5,8,1,32,,,,
+board of veterans' appeals,2010,VA,,,,,39.2,25,less than 1,191,,,,
+board of veterans' appeals,2011,VA,,,,,20.08,11.5,1,108,,,,
+board of veterans' appeals,2012,VA,,,,,26.38,21,4,77,,,,
+board of veterans' appeals,2013,VA,3,3,3,3,17.27,15,less than 1,69,,,,
 bonneville power administration,2008,DOE,22,15,1,164,0,0,0,0,0,0,0,0
 bonneville power administration,2009,DOE,23,16,1,156,0,0,0,0,0,0,0,0
 bonneville power administration,2010,DOE,20.33,15,less than 1,82,46.77,37.5,20,141,,,,
@@ -99,6 +166,12 @@ broadcasting board of governors,2010,BBG,22,19,1,69,79,70,17,223,0,0,0,0
 broadcasting board of governors,2011,BBG,0,0,0,0,31,28,1,117,52,52,52,52
 broadcasting board of governors,2012,BBG,,,,,32,26,3,118,36,30,37,49
 broadcasting board of governors,2013,BBG,,,,,44,38,6,99,,,,
+"bureau of alcohal, tobacco, firearms and explosives",2008,DOJ,13,11,1,209,,,,,,,,
+"bureau of alcohal, tobacco, firearms and explosives",2009,DOJ,13,7,1,250,,,,,,,,
+"bureau of alcohal, tobacco, firearms and explosives",2010,DOJ,,,,,22.11,12,less than 1,386,4,2,1,9
+"bureau of alcohal, tobacco, firearms and explosives",2011,DOJ,,,,,19.64,12,less than 1,440,188,188,3,373
+"bureau of alcohal, tobacco, firearms and explosives",2012,DOJ,,,,,19.01,14,less than 1,266,,,,
+"bureau of alcohal, tobacco, firearms and explosives",2013,DOJ,,,,,50.05,28,less than 1,600,95,95,95,95
 "bureau of alcohol, tobacco, firearms, and explosives",2008,DOJ,13,11,1,209,,,,,,,,
 "bureau of alcohol, tobacco, firearms, and explosives",2009,DOJ,13,7,1,250,,,,,,,,
 "bureau of alcohol, tobacco, firearms, and explosives",2010,DOJ,,,,,22.11,12,less than 1,386,4,2,1,9
@@ -117,6 +190,12 @@ bureau of indian affairs,2010,DOI,3,2,less than 1,48,33,20,less than 1,785,,,,
 bureau of indian affairs,2011,DOI,2,2,less than 1,23,32,19,less than 1,671,,,,
 bureau of indian affairs,2012,DOI,1,1,less than 1,23,27,17,less than 1,736,,,,
 bureau of indian affairs,2013,DOI,2,1,less than 1,22,23,14,less than 1,620,13,12,8,20
+bureau of industrty and security,2008,DOC,11,9,1,31,46,46,19,73,14,14,14,14
+bureau of industrty and security,2009,DOC,15,6,1,112,74,51,10,214,0,0,0,0
+bureau of industrty and security,2010,DOC,25,15,1,181,225,225,225,225,3,1,3,7
+bureau of industrty and security,2011,DOC,19,16,1,31,101,101,101,102,0,0,0,0
+bureau of industrty and security,2012,DOC,15,10,4,66,0,0,0,0,7,7,7,7
+bureau of industrty and security,2013,DOC,8,7,1,20,28,25,8,61,16,16,16,16
 bureau of industry and security,2008,DOC,11,9,1,31,46,46,19,73,14,14,14,14
 bureau of industry and security,2009,DOC,15,6,1,112,74,51,10,214,0,0,0,0
 bureau of industry and security,2010,DOC,25,15,1,181,225,225,225,225,3,1,3,7
@@ -141,8 +220,22 @@ bureau of land management,2010,DOI,5,3,less than 1,45,32,19,less than 1,476,,,,
 bureau of land management,2011,DOI,5,3,less than 1,41,38,20,less than 1,672,2,2,2,2
 bureau of land management,2012,DOI,4,4,less than 1,20,52,21,less than 1,776,15,15,15,15
 bureau of land management,2013,DOI,4,3,less than 1,17,45,21,less than 1,653,106,106,106,106
+"bureau of ocean energy management, regulation and enforcement",2010,DOI,1,less than 1,less than 1,2,21,12,less than 1,199,,,,
+"bureau of ocean energy management, regulation and enforcement",2011,DOI,less than 1,less than 1,less than 1,less than 1,65,20,less than 1,322,191,204,less than 1,265
 bureau of ocean energy management,2012,DOI,11,8,less than 1,27,45,27,less than 1,269,28,28,15,41
 bureau of ocean energy management,2013,DOI,4,2,1,10,95,30,less than 1,361,99,99,less than 1,99
+bureau of prisons,2008,DOJ,15.87,4,less than 1,247,40.37,27,less than 1,246,2.4,1,less than 1,10
+bureau of prisons,2009,DOJ,18,7,less than 1,200,53,37,less than 1,285,4,3,less than 1,12
+bureau of prisons,2010,DOJ,19.13,3,less than 1,469,67.79,40,less than 1,394,25.75,21.5,12,48
+bureau of prisons,2011,DOJ,26.99,10,less than 1,694,116.61,81,less than 1,647,20.5,7,3,65
+bureau of prisons,2012,DOJ,16.89,6,less than 1,642,96.09,65,less than 1,744,37.38,19,less than 1,125
+bureau of prisons,2013,DOJ,17.07,4,less than 1,545,108.48,67,less than 1,784,44.09,9,less than 1,292
+bureau of public debt,2008,Treasury,0,0,0,0,6.2,4,1,26,0,0,0,0
+bureau of public debt,2009,Treasury,0,0,0,0,5.2,3,1,37,0,0,0,0
+bureau of public debt,2010,Treasury,,,,,8.2,6,1,71,,,,
+bureau of public debt,2011,Treasury,7.4,6,1,30,,,,,,,,
+bureau of public debt,2012,Treasury,0,0,0,0,6,4,1,34,10.3,13,1,20
+bureau of public debt,2013,Treasury,0,0,0,0,8.5,66,1,69,0,0,0,0
 bureau of reclamation,2008,DOI,5,3,1,12,20.88,,1,476,5,6,2,6
 bureau of reclamation,2009,DOI,9,7,1,20,33.94,,less than 1,413,7,4,1,29
 bureau of reclamation,2010,DOI,18,9,4,75,24,17,less than 1,280,11,11,11,11
@@ -151,6 +244,18 @@ bureau of reclamation,2012,DOI,9,9,1,17,29,16,less than 1,381,,,,
 bureau of reclamation,2013,DOI,4,3,less than 1,13,17,16,less than 1,94,25,25,25,25
 bureau of safety and environmental enforcement,2012,DOI,11,11,8,13,65,22,less than 1,538,,,,
 bureau of safety and environmental enforcement,2013,DOI,3,3,1,7,86,29,less than 1,617,224,48,46,579
+bureau of the census,2008,DOC,16,16,1,97,0,0,0,0,14,14,4,24
+bureau of the census,2009,DOC,11,9,1,66,0,0,0,0,24,24,20,30
+bureau of the census,2010,DOC,18,18,1,125,0,0,0,0,39,33,30,60
+bureau of the census,2011,DOC,23,19,1,206,0,0,0,0,26,10,2,100
+bureau of the census,2012,DOC,18,19,1,39,23,18,1,239,18,20,8,29
+bureau of the census,2013,DOC,4,4,0,19,6,1,0,167,10,11,8,28
+carlsbad field office,2008,DOE,5,3,1,15,18,23,6,24,7,7,6,7
+carlsbad field office,2009,DOE,9,9,7,10,12,7,1,23,0,0,0,0
+carlsbad field office,2010,DOE,7.38,5,less than 1,33,,,,,,,,
+carlsbad field office,2011,DOE,10.83,10,1,27,,,,,,,,
+carlsbad field office,2012,DOE,17.36,5.5,less than 1,163,,,,,,,,
+carlsbad field office,2013,DOE,,,,,,,,,,,,
 census bureau,2008,DOC,16,16,1,97,0,0,0,0,14,14,4,24
 census bureau,2009,DOC,11,9,1,66,0,0,0,0,24,24,20,30
 census bureau,2010,DOC,18,18,1,125,0,0,0,0,39,33,30,60
@@ -169,6 +274,12 @@ centers for disease control and prevention,2010,HHS,90.18,18,1,848,95.26,35,1,92
 centers for disease control and prevention,2011,HHS,44.32,26.5,less than 1,292,73.37,32,less than 1,1000,0,0,0,0
 centers for disease control and prevention,2012,HHS,74,18,6,536,102,62,1,1119,0,0,0,0
 centers for disease control and prevention,2013,HHS,90.21,21,1,1041,150,52,1,1541,97,97,97,97
+centers for medicare & medicaid services,2008,HHS,25.9,18,1,952,297.6,98.7,1,3211.6,239.3,137,1,807
+centers for medicare & medicaid services,2009,HHS,17,10,1,1431,415,250,1,2273,243,262,48,573
+centers for medicare & medicaid services,2010,HHS,37,27,1,1262,364,308,1,3926,169,145,3,416
+centers for medicare & medicaid services,2011,HHS,19,8,1,535,218,16,1,1702,188,100,3,556
+centers for medicare & medicaid services,2012,HHS,14,11,1,842,108,14,2,598,139,117,24,400
+centers for medicare & medicaid services,2013,HHS,18,11,1,634,36,2,1,717,102,37,1,512
 central intelligence agency,2009,CIA,37,15,0,1775,146,51,0,5005,117,61,6,338
 central intelligence agency,2010,CIA,19,10,0,1711,109,32,0,2917,5,5,5,5
 central intelligence agency,2011,CIA,23.95,10,0,1242,113.76,32,0,3104,33.17,11,2,209
@@ -178,6 +289,10 @@ central intelligence agency,2013,CIA,35.18,13,1,2411,186.02,62,1,3055,1032,1032,
 "charlotte district office (greensboro; greenville, norfolk, richmond local offices; raleigh area office",2011,EEOC,20.7727,19,1,261,0,0,0,0,1,1,1,1
 "charlotte district office (greensboro; greenville, norfolk, richmond local offices; raleigh area office",2012,EEOC,18.52,19,1,30,0,0,0,0,0,0,0,0
 "charlotte district office (greensboro; greenville, norfolk, richmond local offices; raleigh area office",2013,EEOC,17.87,19,1,30,,,,,6.4,2.5,1,19
+charlotte district office,2010,EEOC,18.5764,19,1,57,0,0,0,0,0,0,0,0
+charlotte district office,2011,EEOC,20.7727,19,1,261,0,0,0,0,1,1,1,1
+charlotte district office,2012,EEOC,18.52,19,1,30,0,0,0,0,0,0,0,0
+charlotte district office,2013,EEOC,17.87,19,1,30,,,,,6.4,2.5,1,19
 chemical safety and hazard investigation board,2008,CSB,18,20,1,33,437,459,59,721,0,0,0,0
 chemical safety and hazard investigation board,2009,CSB,19,20,1,20,360,268,8,1053,0,0,0,0
 chemical safety and hazard investigation board,2010,CSB,16,20,2,20,669,725,283,917,27,27,27,27
@@ -188,12 +303,22 @@ chicago district office (milwaukee and minneapolis area offices),2010,EEOC,13.69
 chicago district office (milwaukee and minneapolis area offices),2011,EEOC,14.3398,17,1,95,0,0,0,0,0,0,0,0
 chicago district office (milwaukee and minneapolis area offices),2012,EEOC,16.38,18,1,39,0,0,0,0,0,0,0,0
 chicago district office (milwaukee and minneapolis area offices),2013,EEOC,15.72,18,1,55,,,,,,,,
+chicago district office,2010,EEOC,13.6918,16,1,157,0,0,0,0,0,0,0,0
+chicago district office,2011,EEOC,14.3398,17,1,95,0,0,0,0,0,0,0,0
+chicago district office,2012,EEOC,16.38,18,1,39,0,0,0,0,0,0,0,0
+chicago district office,2013,EEOC,15.72,18,1,55,,,,,,,,
 chicago office,2008,DOE,6,3,1,24,31,28,16,55,16,16,16,16
 chicago office,2009,DOE,5,2,1,19,16,16,1,31,0,0,0,0
 chicago office,2010,DOE,5.64,3,less than 1,20,23.79,19,7,112,,,,
 chicago office,2011,DOE,5.6,4,less than 1,20,19.5,19,less than 1,41,,,,
 chicago office,2012,DOE,4.12,3,less than 1,26,16,17,less than 1,34,,,,
 chicago office,2013,DOE,5.98,3,less than 1,65,41.08,20,less than 1,321,,,,
+chicago operations office,2008,DOE,6,3,1,24,31,28,16,55,16,16,16,16
+chicago operations office,2009,DOE,5,2,1,19,16,16,1,31,0,0,0,0
+chicago operations office,2010,DOE,5.64,3,less than 1,20,23.79,19,7,112,,,,
+chicago operations office,2011,DOE,5.6,4,less than 1,20,19.5,19,less than 1,41,,,,
+chicago operations office,2012,DOE,4.12,3,less than 1,26,16,17,less than 1,34,,,,
+chicago operations office,2013,DOE,5.98,3,less than 1,65,41.08,20,less than 1,321,,,,
 chicago regional office,2008,FLRA,4,3,1,9,,,,,,,,
 chicago regional office,2009,FLRA,1,1,1,1,0,0,0,0,0,0,0,0
 chicago regional office,2010,FLRA,13,6,4,39,0,0,0,0,0,0,0,0
@@ -247,6 +372,9 @@ consumer product safety commission,2010,U.S. CPSC,40,19,1,350,87,65,1,617,0,0,0,
 consumer product safety commission,2011,U.S. CPSC,51,9,1,580,97,64,1,632,0,0,0,0
 consumer product safety commission,2012,U.S. CPSC,35,8,1,615,102,77,1,644,99,99,99,99
 consumer product safety commission,2013,U.S. CPSC,27,11,1,402,96,53,1,1159,,,,
+consumer protection financial board,2013,CFPB,8.36,6.5,less than 1,41,31.07,28,less than 1,128,,,,
+consumer protection financial board,2011,Treasury,11,13,6,13,13,13,6,91,,,,
+consumer protection financial board,2012,Treasury,8.5,8,1,39,48.5,48,1,180,0,0,0,0
 corporation for national and community service,2008,CNCS,9,7,1,20,0,0,0,0,0,0,0,0
 corporation for national and community service,2009,CNCS,9.72,6,1,40,0,0,0,0,0,0,0,0
 corporation for national and community service,2010,CNCS,20,17,less than 1,82,40.3,17,17,147,18,18,18,18
@@ -277,6 +405,10 @@ criminal division,2013,DOJ,23.62,16,less than 1,306,101.03,63,7,787,,,,
 "dallas district office (san antonio field office, el paso area office)",2011,EEOC,12.7161,9,1,86,0,0,0,0,0,0,0,0
 "dallas district office (san antonio field office, el paso area office)",2012,EEOC,14.84,9,1,127,0,0,0,0,0,0,0,0
 "dallas district office (san antonio field office, el paso area office)",2013,EEOC,16.25,9,1,110,,,,,12,15,5,15
+dallas district office,2010,EEOC,7.71501,4,1,76,0,0,0,0,1,1,1,1
+dallas district office,2011,EEOC,12.7161,9,1,86,0,0,0,0,0,0,0,0
+dallas district office,2012,EEOC,14.84,9,1,127,0,0,0,0,0,0,0,0
+dallas district office,2013,EEOC,16.25,9,1,110,,,,,12,15,5,15
 dallas regional office,2008,FLRA,7,7,7,7,,,,,,,,
 dallas regional office,2009,FLRA,6,6,6,6,0,0,0,0,0,0,0,0
 dallas regional office,2010,FLRA,15,20,1,20,0,0,0,0,0,0,0,0
@@ -295,6 +427,12 @@ defense contract audit agency - headquarters,2010,DoD,23,6,1,365,81,77,20,225,,,
 defense contract audit agency - headquarters,2011,DoD,5,14,1,28,15,21,1,42,,,,
 defense contract audit agency - headquarters,2012,DoD,6,4,1,31,19,12,3,57,0,0,0,0
 defense contract audit agency - headquarters,2013,DoD,4,11,1,22,22,47,5,95,,,,
+defense contract audit agency,2008,DoD,7,7,1,22,24,13,1,249,7,7,7,7
+defense contract audit agency,2009,DoD,8,7,1,79,25,20,13,43,0,0,0,0
+defense contract audit agency,2010,DoD,23,6,1,365,81,77,20,225,,,,
+defense contract audit agency,2011,DoD,5,14,1,28,15,21,1,42,,,,
+defense contract audit agency,2012,DoD,6,4,1,31,19,12,3,57,0,0,0,0
+defense contract audit agency,2013,DoD,4,11,1,22,22,47,5,95,,,,
 defense contract management agency,2008,DoD,8,5,1,31,71,66,20,371,0,0,0,0
 defense contract management agency,2009,DoD,20,11,1,153,133,65,12,506,0,0,0,0
 defense contract management agency,2010,DoD,30,21,less than 1,193,125,91,32,408,,,,
@@ -307,12 +445,24 @@ defense finance and accounting service,2010,DoD,11,4,1,59,23,18,1,133,6,7,4,9
 defense finance and accounting service,2011,DoD,16,18,less than 1,39,26,26,2,47,,,,
 defense finance and accounting service,2012,DoD,10,6,1,63,38,21,4,156,0,0,0,0
 defense finance and accounting service,2013,DoD,12,10,less than 1,79,42,21,1,288,9,9,9,9
+defense information service agency,2008,DoD,110,36,1,625,94,276,1,316,0,0,0,0
+defense information service agency,2009,DoD,66,14,1,562,109,40,1,445,0,0,0,0
+defense information service agency,2010,DoD,295,47,1,2306,84,96,1,226,,,,
+defense information service agency,2011,DoD,65,34,1,581,29,27,1,115,1,1,1,1
+defense information service agency,2012,DoD,94,76,1,820,9,5,0,29,0,0,0,0
+defense information service agency,2013,DoD,116,107,1,667,17,18,less than 1,53,,,,
 defense intelligence agency,2008,DoD,10,10,1,20,516,277,21,3200,0,0,0,0
 defense intelligence agency,2009,DoD,9,9,1,20,963,811,21,3714,0,0,0,0
 defense intelligence agency,2010,DoD,11,11,1,20,1060,938,21,3418,,,,
 defense intelligence agency,2011,DoD,9,9,1,20,924,801,23,3567,,,,
 defense intelligence agency,2012,DoD,7,6,1,20,786,469,21,3713,0,0,0,0
 defense intelligence agency,2013,DoD,6,5,1,20,855,553,21,3517,,,,
+defense logistic agency,2008,DoD,15,0,1,573,30,0,1,603,0,0,0,0
+defense logistic agency,2009,DoD,11,3,1,420,22,8,1,570,75,75,1,149
+defense logistic agency,2010,DoD,12,1,less than 1,257,30,1,less than 1,314,10,,,46
+defense logistic agency,2011,DoD,12,1,1,179,34,15,1,314,16,16,16,16
+defense logistic agency,2012,DoD,9,5,1,104,32,12,1,273,33,33,33,33
+defense logistic agency,2013,DoD,9,5,less than 1,121,32,12,1,274,,,,
 defense logistics agency - headquarters,2008,DoD,15,0,1,573,30,0,1,603,0,0,0,0
 defense logistics agency - headquarters,2009,DoD,11,3,1,420,22,8,1,570,75,75,1,149
 defense logistics agency - headquarters,2010,DoD,12,1,less than 1,257,30,1,less than 1,314,10,,,46
@@ -337,6 +487,12 @@ defense technical information center,2010,DoD,35,16,1,233,,,,,,,,
 defense technical information center,2011,DoD,22,20,3,129,,,,,,,,
 defense technical information center,2012,DoD,9,9,0,20,42,26,22,111,0,0,0,0
 defense technical information center,2013,DoD,13,13,1,20,25,24,21,54,,,,
+defense technology and research agency,2008,DoD,7,6,1,24,50,24,1,1017,0,0,0,0
+defense technology and research agency,2009,DoD,7,3,1,29,37,18,1,775,0,0,0,0
+defense technology and research agency,2010,DoD,4,2,less than 1,18,35,20,less than 1,266,,,,
+defense technology and research agency,2011,DoD,17,9,1,135,58,35,less than 1,298,,,,
+defense technology and research agency,2012,DoD,12,5,1,145,58,35,1,326,0,0,0,0
+defense technology and research agency,2013,DoD,13,9,less than 1,65,119,72,less than 1,459,,,,
 denver regional office,2008,FLRA,9,9,4,13,,,,,,,,
 denver regional office,2009,FLRA,9,9,9,9,0,0,0,0,0,0,0,0
 denver regional office,2010,FLRA,12,9,9,19,0,0,0,0,0,0,0,0
@@ -359,6 +515,18 @@ department of defense education activity,2010,DoD,20,17,1,54,53,69,47,310,,,,
 department of defense education activity,2011,DoD,27,20,1,112,53,52,2,113,,,,
 department of defense education activity,2012,DoD,24,22,1,81,55,55,55,55,0,0,0,0
 department of defense education activity,2013,DoD,18,18,1,47,48,40,20,110,,,,
+department of defense education agency,2008,DoD,24,24,3,59,90,82,57,166,0,0,0,0
+department of defense education agency,2009,DoD,20,18,1,58,83,59,53,226,0,0,0,0
+department of defense education agency,2010,DoD,20,17,1,54,53,69,47,310,,,,
+department of defense education agency,2011,DoD,27,20,1,112,53,52,2,113,,,,
+department of defense education agency,2012,DoD,24,22,1,81,55,55,55,55,0,0,0,0
+department of defense education agency,2013,DoD,18,18,1,47,48,40,20,110,,,,
+department of defense inspector general,2008,DoD,18,15,5,46,0,0,0,0,0,0,0,0
+department of defense inspector general,2009,DoD,0,0,0,0,117,43,1,1530,0,0,0,0
+department of defense inspector general,2010,DoD,6,2,1,76,32,12,1,698,,,,
+department of defense inspector general,2011,DoD,5,4,less than 1,17,38,17,less than 1,326,50,10,6,133
+department of defense inspector general,2012,DoD,7,5,1,103,145,61,1,1604,22,22,22,22
+department of defense inspector general,2013,DoD,6,4,1,19,126,33,10,1665,25,26,5,62
 department of defense,2008,DoD,30.2508,,1,2361,190,,1,4277,22.8939,,1,687
 department of defense,2009,DoD,43,,1,2918,187,0,1,4117,13,,1,1507
 department of defense,2010,DoD,24,,less than 1,2306,127,,less than 1,4314,8,,less than 1,970
@@ -428,6 +596,12 @@ department of the army - freedom of information and privacy office,2010,DoD,28,,
 department of the army - freedom of information and privacy office,2011,DoD,14,,less than 1,1551,34,,less than 1,1313,14,,less than 1,524
 department of the army - freedom of information and privacy office,2012,DoD,8,,0,572,48,,0,1641,13,,0,148
 department of the army - freedom of information and privacy office,2013,DoD,6,,less than 1,443,34,,less than 1,1456,13,,less than 1,30
+department of the interior,2008,DOI,2,1,0,642,25.64,,0,2674,8,6,0,217
+department of the interior,2009,DOI,3,2,less than 1,189,31.35,,less than 1,2850,6,4,less than 1,29
+department of the interior,2010,DOI,4,2,less than 1,75,32,16,less than 1,1185,28,16,2,124
+department of the interior,2011,DOI,3,2,less than 1,55,44,16,less than 1,2235,138,175,less than 1,265
+department of the interior,2012,DOI,2,1,less than 1,29,44,17,less than 1,1497,48,12,less than 1,369
+department of the interior,2013,DOI,3,1,less than 1,120,43,17,less than 1,1492,63,19,less than 1,579
 department of the navy - main office,2008,DoD,33,15,1,868,133,26,1,2477,8,2,1,37
 department of the navy - main office,2009,DoD,111,275,1,2918,74,40,1,2331,8,6,1,37
 department of the navy - main office,2010,DoD,11,10,less than 1,70,137,322,67,560,,,,
@@ -479,6 +653,12 @@ dryden flight research center,2010,NASA,28.48,15,less than 1,169,244,244,244,244
 dryden flight research center,2011,NASA,21.33,12,1,93,30,30,30,30,,,,
 dryden flight research center,2012,NASA,25.58,15.5,less than 1,103,85.88,45,26,288,,,,
 dryden flight research center,2013,NASA,1,0.5,less than 1,3,34.86,17,3,150,,,,
+economic and statistics administration/bureau of economic analysis,2008,DOC,17,7,1,35,0,0,0,0,0,0,0,0
+economic and statistics administration/bureau of economic analysis,2009,DOC,10,9,1,25,0,0,0,0,0,0,0,0
+economic and statistics administration/bureau of economic analysis,2010,DOC,7,6,1,19,0,0,0,0,0,0,0,0
+economic and statistics administration/bureau of economic analysis,2011,DOC,6,3,1,22,0,0,0,0,0,0,0,0
+economic and statistics administration/bureau of economic analysis,2012,DOC,3,1,1,6,38,17,29,46,0,0,0,0
+economic and statistics administration/bureau of economic analysis,2013,DOC,8,6,2,19,0,0,0,0,,,,
 economic development administration,2008,DOC,4,6,1,15,19,16,12,58,0,0,0,0
 economic development administration,2009,DOC,4,1,1,9,27,20,11,57,8,8,8,8
 economic development administration,2010,DOC,4,5,1,10,32,31,15,71,2,2,2,2
@@ -503,6 +683,14 @@ employment & training administration,2010,U.S. DOL,19.4,10,0,300,25.7,17,0,425,2
 employment & training administration,2011,U.S. DOL,26.9,16.5,0,1280,32.1,23,0,452,25.4,26,2,38
 employment & training administration,2012,U.S. DOL,14.1,8,0,249,16.7,9,0,279,8.6,6,0,20
 employment & training administration,2013,U.S. DOL,12.6,9,1,272,14.7,10,0,335,213,213,211,215
+employment and training administration,2008,U.S. DOL,31.6,6,1,224,35.5,18,1,282,25,25,25,25
+employment and training administration,2009,U.S. DOL,83.5,49,1,368,92.9,77,1,359,64.8,32.5,1,248
+employment and training administration,2010,U.S. DOL,19.4,10,0,300,25.7,17,0,425,29.4,19,4,160
+employment and training administration,2011,U.S. DOL,26.9,16.5,0,1280,32.1,23,0,452,25.4,26,2,38
+employment and training administration,2012,U.S. DOL,14.1,8,0,249,16.7,9,0,279,8.6,6,0,20
+employment and training administration,2013,U.S. DOL,12.6,9,1,272,14.7,10,0,335,213,213,211,215
+employment standards administration,2008,U.S. DOL,11.9,6,1,307,26.6,9,1,237,5.5,3,1,3
+employment standards administration,2009,U.S. DOL,,,,,,,,,,,,
 environment and natural resources division,2008,DOJ,52.49,28,4,483,,,95,218,,,,
 environment and natural resources division,2009,DOJ,34.8,29,6,112,192.7,201,61,316,,,,
 environment and natural resources division,2010,DOJ,,,,,30.31,17,2,264,7,7,7,7
@@ -515,6 +703,12 @@ environmental management consolidated business center (emcbc),2010,DOE,50.38,22.
 environmental management consolidated business center (emcbc),2011,DOE,52.11,32,less than 1,318,63.33,48,16,126,,,,
 environmental management consolidated business center (emcbc),2012,DOE,41.95,23,less than 1,290,78.75,45.5,13,211,,,,
 environmental management consolidated business center (emcbc),2013,DOE,35.02,16,less than 1,188,26.4,4,less than 1,89,46,46,46,46
+environmental management consolidated business center,2008,DOE,42,23,1,196,0,0,0,0,0,0,0,0
+environmental management consolidated business center,2009,DOE,35,27,2,97,0,0,0,0,0,0,0,0
+environmental management consolidated business center,2010,DOE,50.38,22.5,less than 1,319,48.71,33,less than 1,127,,,,
+environmental management consolidated business center,2011,DOE,52.11,32,less than 1,318,63.33,48,16,126,,,,
+environmental management consolidated business center,2012,DOE,41.95,23,less than 1,290,78.75,45.5,13,211,,,,
+environmental management consolidated business center,2013,DOE,35.02,16,less than 1,188,26.4,4,less than 1,89,46,46,46,46
 environmental protection agency,2008,EPA,42.95,20,0,1364,60.91,37,7,1329,51,46,20,92
 environmental protection agency,2009,EPA,37.15,20,1,1419,75.32,39,5,902,8,10,4,11
 environmental protection agency,2010,EPA,36.41,19,less than 1,1436,93.74,51,less than 1,959,13.08,9,less than 1,66
@@ -547,12 +741,21 @@ executive office for united states trustees,2010,DOJ,8.75,7,2,18,96.37,32.5,1,93
 executive office for united states trustees,2011,DOJ,11.19,7,1,56,28.17,23.5,2,84,,,,
 executive office for united states trustees,2012,DOJ,7.4,5,1,22,40.1,28,4,186,5,5,5,5
 executive office for united states trustees,2013,DOJ,11.22,7,1,49,31.68,18,1,209,6.5,4.5,2,15
+executive secretariat,2011,U.S. DOL,0,0,0,0,17.8,17.5,1,35,0,0,0,0
+executive secretariat,2012,U.S. DOL,937.9,1163,1,1909,966.5,794,194,1891,0,0,0,0
+executive secretariat,2013,U.S. DOL,95.5,95,16,176,158,158,158,158,0,0,0,0
 export-import bank of the u.s.,2008,Ex-Im Bank,16,15,4,30,118,72,31,574,45,7,3,125
 export-import bank of the u.s.,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,0,0,0,0
 export-import bank of the u.s.,2010,Ex-Im Bank,31.98,28,less than 1,68,115.1,85,1,333,,,,
 export-import bank of the u.s.,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
 export-import bank of the u.s.,2012,Ex-Im Bank,49.68,22,less than 1,235,223.58,241,28,427,,,,
 export-import bank of the u.s.,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,,,,
+export-import bank of the united states,2008,Ex-Im Bank,16,15,4,30,118,72,31,574,45,7,3,125
+export-import bank of the united states,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,0,0,0,0
+export-import bank of the united states,2010,Ex-Im Bank,31.98,28,less than 1,68,115.1,85,1,333,,,,
+export-import bank of the united states,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
+export-import bank of the united states,2012,Ex-Im Bank,49.68,22,less than 1,235,223.58,241,28,427,,,,
+export-import bank of the united states,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,,,,
 farm credit administration,2008,FCA,9,9,1,19,,,,,,,,
 farm credit administration,2009,FCA,8,7,1,20,,,,,,,,
 farm credit administration,2010,FCA,9.375,8,0,20,0,0,0,0,0,0,0,0
@@ -617,17 +820,29 @@ federal energy regulatory commission,2010,FERC,34,23,6,254,41,29,1,272,0,0,0,0
 federal energy regulatory commission,2011,FERC,20,20,2,35,39,30,7,289,20,20,20,20
 federal energy regulatory commission,2012,FERC,23,24,4,80,99,28,1,1632,0,0,0,0
 federal energy regulatory commission,2013,FERC,23,20,2,87,45,22,2,268,,,,
+federal financial institutions council,2008,FFIEC,,,,,,,,,,,,
+federal financial institutions council,2009,FFIEC,3,3,3,3,22,22,22,22,,,,
+federal financial institutions council,2010,FFIEC,4.15,4,1,11,20,20,16,24,,,,
+federal financial institutions council,2011,FFIEC,7.45,7.5,0,14,17,17,17,17,1,1,1,1
+federal financial institutions council,2012,FFIEC,9.95,11,1,18,19,19,19,19,,,,
+federal financial institutions council,2013,FFIEC,12.2,12.5,1,26,,,,,,,,
 federal highway administration,2008,DOT,28,13,less than 1,422,90,80,5,252,72,72,2,142
 federal highway administration,2009,DOT,28,16,1,434,147,103,18,366,6,5,1,11
 federal highway administration,2010,DOT,31,12,less than 1,738,190,13,less than 1,1012,28,28,25,31
 federal highway administration,2011,DOT,43,12,less than 1,500,31,13,less than 1,345,17,8,less than 1,58
 federal highway administration,2012,DOT,27,13,less than 1,531,52,23,less than 1,575,17,12,less than 1,51
 federal highway administration,2013,DOT,25,15,less than 1,574,27,6,less than 1,261,21,15,less than 1,101
+federal housing finance agency - office of the inspector general,2011,FHFA,7.75,7.5,7,9,0,0,0,0,0,0,0,0
+federal housing finance agency - office of the inspector general,2012,FHFA,9.08,10,less than 1,20,12.5,12.5,6,19,,,,
+federal housing finance agency - office of the inspector general,2013,FHFA,10.94,11,less than 1,29,4,4,4,4,,,,
+federal housing finance agency foia,2011,FHFA,10.74,7,1,63,81,52.5,10,228,0,0,0,0
+federal housing finance agency foia,2012,FHFA,11.48,6,less than 1,165,40.41,22,less than 1,271,,,,
 federal housing finance agency,2009,FHFA,14,33,less than 1,48,40,34,8,139,31,33,4,52
 federal housing finance agency,2010,FHFA,48,29,1,178,174,170,33,356,,,2,2
 federal housing finance agency,2011,FHFA,10.57,7,1,63,81,52.5,10,228,0,0,0,0
 federal housing finance agency,2012,FHFA,11.03,6,less than 1,165,39.25,21,less than 1,271,,,,
 federal housing finance agency,2013,FHFA,15.4,10,less than 1,109,45.84,33,less than 1,158,,,,
+federal housing finance board,2008,FHFB,5.2,2.5,0,20,21,21,21,21,,,,
 federal labor relations authority,2008,FLRA,28,9,0,325,,,,,,,,
 federal labor relations authority,2009,FLRA,80,10,less than 1,1061,0,0,0,0,0,0,0,0
 federal labor relations authority,2010,FLRA,15,9,less than 1,250,0,0,0,0,0,0,0,0
@@ -686,6 +901,18 @@ federal retirement thrift investment board,2010,FRTIB,16.5,17,6,38,0,0,0,0,0,0,0
 federal retirement thrift investment board,2011,FRTIB,16,20,3,23,0,0,0,0,0,0,0,0
 federal retirement thrift investment board,2012,FRTIB,27,20,1,57,0,0,0,0,0,0,0,0
 federal retirement thrift investment board,2013,FRTIB,27,22,11,112,,,,,,,,
+federal service impasses panel,2008,FLRA,1,1,0,2,,,,,,,,
+federal service impasses panel,2009,FLRA,6,1,less than 1,29,0,0,0,0,0,0,0,0
+federal service impasses panel,2010,FLRA,2,1,0,7,0,0,0,0,0,0,0,0
+federal service impasses panel,2011,FLRA,1,1,0,5,0,0,0,0,0,0,0,0
+federal service impasses panel,2012,FLRA,4,1,less than 1,20,,,,,,,,
+federal service impasses panel,2013,FLRA,9.31,3,less than 1,45,,,,,,,,
+federal student aid,2008,ED,127,33,1,781,57,30,1,537,0,0,0,0
+federal student aid,2009,ED,81,25,0,851,59,42,0,401,0,0,0,0
+federal student aid,2010,ED,98,59,1,393,60,28,3,344,,,,
+federal student aid,2011,ED,38.9,27,0,349,119.89,95,12,613,0,0,0,0
+federal student aid,2012,ED,38.7,32,1,343,84.84,39.5,1,424,32,32,32,32
+federal student aid,2013,ED,51.69,53,1,207,72.17,55.5,less than 1,273,104,104,104,104
 federal trade commission,2008,FTC,8.29,5,1,218,33.02,21,1,146,0,0,0,0
 federal trade commission,2009,FTC,6.59,3,1,74,24.55,14,1,230,,,0,0
 federal trade commission,2010,FTC,8.23,4,1,157,54.76,22,1,595,,,,
@@ -698,22 +925,57 @@ federal transit administration,2010,DOT,23,19,less than 1,110,,,,,,,,
 federal transit administration,2011,DOT,20,17,less than 1,123,12,12,12,12,,,,
 federal transit administration,2012,DOT,19,17,1,193,61,50,1,145,28,28,27,28
 federal transit administration,2013,DOT,23,20,less than 1,214,,,,,,,,
+fhfa headquarters,2013,FHFA,17.09,8.5,less than 1,109,46.97,33,less than 1,158,,,,
+field office,2008,HUD,,,,,,,,,,,,
+field office,2009,HUD,,,,,,,,,,,,
 financial crimes enforcement network,2008,Treasury,6,3,1,52,15,11,1,119,0,0,0,0
 financial crimes enforcement network,2009,Treasury,2.3,2,1,5,10.2,7,1,50,0,0,0,0
 financial crimes enforcement network,2010,Treasury,1.4,2,1,6,6.5,5,2,22,1,1,1,1
 financial crimes enforcement network,2011,Treasury,1,1,0,6,5,4,0,20,,,,
 financial crimes enforcement network,2012,Treasury,1,1,0,6,6,5,0,64,0,0,0,0
 financial crimes enforcement network,2013,Treasury,1,1,less than 1,5,9,6,less than 1,24,,,,
+financial management service,2008,Treasury,0,0,0,0,0,0,0,0,0,0,0,0
+financial management service,2009,Treasury,0,0,0,0,7,5,1,31,0,0,0,0
+financial management service,2010,Treasury,,,,,7,5,1,32,,,,
+financial management service,2011,Treasury,9,9,1,20,26,25,23,30,15,14,14,16
+financial management service,2012,Treasury,12,12,1,118,12,9,1,46,0,0,0,0
+financial management service,2013,Treasury,12,10,1,160,32,22,1,177,,,,
+fish & wildlife service,2008,DOI,16.5,5,12,39,276.86,,73,1300,1,1,1,1
+fish & wildlife service,2009,DOI,9,6,less than 1,36,32.5,,less than 1,624,4,3,1,9
+fish & wildlife service,2010,DOI,6,3,1,19,27,15,less than 1,667,12,12,7,17
+fish & wildlife service,2011,DOI,3,2,less than 1,12,43,15,less than 1,1278,17,18,5,28
+fish & wildlife service,2012,DOI,13,13,less than 1,29,39,18,less than 1,713,13,7,4,27
+fish & wildlife service,2013,DOI,5,3,less than 1,43,41,17,less than 1,894,11,3,3,46
+foia office,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,0,0,0,0
+"foia policy, office of executive secretariat and regulatory affairs",2011,DOI,,,,,,,,,,,,
+"foia policy, office of executive secretariat and regulatory affairs",2012,DOI,,,,,,,,,,,,
+"foia policy, office of executive secretariat and regulatory affairs",2013,DOI,,,,,,,,,,,,
+foia/privacy act appeals office,2012,DOI,,,,,,,,,,,,
+foia/privacy act appeals office,2013,DOI,,,,,,,,,,,,
+foia/privacy act office,2008,PC,15,13,less than 1,129,less than 1,less than 1,less than 1,less than 1,3,3,3,3
+foia/privacy act office,2009,PC,12,10,less than 1,58,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1
+foia/privacy act office,2010,PC,24,20,1,69,80,52,22,146,0,0,0,0
+foia/privacy act office,2011,PC,37,27,1,161,101,93,47,150,11,11,11,11
+foia/privacy act office,2012,PC,34,20,1,201,184,185,37,354,27,24,10,51
+foia/privacy act office,2013,PC,44,32,1,105,183,152,85,518,,,,
 food and drug administration,2008,HHS,285.9,206,1,1643,500.8,481,1,1951,309.5,173,2,1108
 food and drug administration,2009,HHS,95,10,1,1250,316,293,1,1420,254,171,40,635
 food and drug administration,2010,HHS,53.1,8,1,1401,248.6,122,1,1446,40,40,15,65
 food and drug administration,2011,HHS,48.6,9,1,1305,248.1,162,1,1760,64.3,53,31,109
 food and drug administration,2012,HHS,29,8,1,1198,203,105,1,1757,0,0,0,0
 food and drug administration,2013,HHS,27.6,9,1,1220,168.8,78,1,1465,173.7,22,1,495
+food and nutrition consumer service,2010,USDA,19,12,1,178,0,0,0,0,0,0,0,0
+food and nutrition consumer service,2011,USDA,25.88,17,1,361,33.5,28.5,6,86,,,65,65
+food and nutrition consumer service,2012,USDA,26.18,16,1,226,28.68,20,1,262,14,14,14,14
+food and nutrition consumer service,2013,USDA,17.43,17,1,62,28.67,16,1,180,15.5,8.5,1,45
 food safety & inspection service,2010,USDA,44,21,less than 1,445,119,43,less than 1,643,0,0,0,0
 food safety & inspection service,2011,USDA,60,30,1,543,229.96,167,0,848,0,0,0,0
 food safety & inspection service,2012,USDA,56.54,27,1,488,300.66,260,5,863,,,,
 food safety & inspection service,2013,USDA,29.39,14,1,473,61,71,9,90,,,,
+food safety and inspection service,2010,USDA,44,21,less than 1,445,119,43,less than 1,643,0,0,0,0
+food safety and inspection service,2011,USDA,60,30,1,543,229.96,167,0,848,0,0,0,0
+food safety and inspection service,2012,USDA,56.54,27,1,488,300.66,260,5,863,,,,
+food safety and inspection service,2013,USDA,29.39,14,1,473,61,71,9,90,,,,
 "food, nutrition & consumer services",2010,USDA,19,12,1,178,0,0,0,0,0,0,0,0
 "food, nutrition & consumer services",2011,USDA,25.88,17,1,361,33.5,28.5,6,86,,,65,65
 "food, nutrition & consumer services",2012,USDA,26.18,16,1,226,28.68,20,1,262,14,14,14,14
@@ -732,6 +994,16 @@ forest service - headquarters,2010,USDA,16.42,13,0,262,38.5,29,0,328,0,0,0,0
 forest service - headquarters,2011,USDA,23.92,15,0,590,45.25,25.5,0,352,6.14,3,1,24
 forest service - headquarters,2012,USDA,21.92,13,1,617,43.27,25,1,421,23.12,16,6,81
 forest service - headquarters,2013,USDA,21.71,14,1,615,47.36,29,1,575,9.8,11,3,17
+forest service,2010,USDA,16.42,13,0,262,38.5,29,0,328,0,0,0,0
+forest service,2011,USDA,23.92,15,0,590,45.25,25.5,0,352,6.14,3,1,24
+forest service,2012,USDA,21.92,13,1,617,43.27,25,1,421,23.12,16,6,81
+forest service,2013,USDA,21.71,14,1,615,47.36,29,1,575,9.8,11,3,17
+general counsel,2008,VA,0,0,0,0,10,44,1,87,,,,
+general counsel,2009,VA,,,,,26.5,30.5,1,83,,,,
+general counsel,2010,VA,,,,,68.44,55,less than 1,285,,,,
+general counsel,2011,VA,,,,,50.16,51,1,146,7,7,7,7
+general counsel,2012,VA,56,56,56,56,24.8,19,less than 1,118,,,,
+general counsel,2013,VA,62,62,62,62,50.43,39.5,2,168,2,2,2,2
 general services administration,2008,GSA,14.6,21,2,70,0,0,0,0,0,0,0,0
 general services administration,2009,GSA,21,20,3,438,0,0,0,0,0,0,0,0
 general services administration,2010,GSA,33,28,0,411,0,0,0,0,0,0,0,0
@@ -760,12 +1032,31 @@ golden field office,2013,DOE,6.57,less than 1,less than 1,103,,,,,,,,
 "grain inspection, packers & stockyards administration",2011,USDA,12,8,1,52,60,74,14,91,0,0,0,0
 "grain inspection, packers & stockyards administration",2012,USDA,8.13,4,1,33,40.94,32.5,1,113,1,1,1,1
 "grain inspection, packers & stockyards administration",2013,USDA,4.46,3,1,32,61.27,33,3,244,,,,
+"grain inspection, packers and stockyards administration",2010,USDA,7.4,5,1,36,76,44,37,133,0,0,0,0
+"grain inspection, packers and stockyards administration",2011,USDA,12,8,1,52,60,74,14,91,0,0,0,0
+"grain inspection, packers and stockyards administration",2012,USDA,8.13,4,1,33,40.94,32.5,1,113,1,1,1,1
+"grain inspection, packers and stockyards administration",2013,USDA,4.46,3,1,32,61.27,33,3,244,,,,
+head quarters,2010,NTSB,10.1,6,less than 1,42,39.39,18,less than 1,241,,,,
+head quarters,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
+head quarters,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
+head quarters,2010,SEC,18.38,7,0,411,553.33,563.5,3,1015,49,49,15,83
+headquarters,2010,CSOSA,42.1,23,2,62,0,0,0,0,0,0,0,0
 headquarters,2008,DOE,113,29,1,3239,0,0,0,0,0,0,0,0
 headquarters,2009,DOE,83,16,less than 1,2066,0,0,0,0,51,50,27,77
 headquarters,2010,DOE,66.65,27,less than 1,1732,88.21,59,less than 1,452,222,222,222,222
 headquarters,2011,DOE,53.8,17,less than 1,2674,128.6,67,less than 1,699,221,221,221,221
 headquarters,2012,DOE,69.02,27,less than 1,2379,155.12,78,less than 1,1574,588.5,588.5,410,767
 headquarters,2013,DOE,33.04,14,less than 1,336,248.95,110,2,2043,62.67,30,11,195
+headquarters,2008,EPA,46.88,18,0,1364,296.56,72,11,1329,0,0,0,0
+headquarters,2009,EPA,55.44,19,1,1419,222.43,142,10,443,10.5,10.5,10,11
+headquarters,2010,EPA,63.34,20,less than 1,1436,245.67,111,less than 1,959,14.36,12,less than 1,44
+headquarters,2011,EPA,74.92,21,less than 1,1448,586.71,427,14,1326,29.07,20,6,116
+headquarters,2012,EPA,14.23,15,less than 1,19,44.28,40,less than 1,236,152,120,31,346
+headquarters,2013,EPA,73.69,16,less than 1,2044,99.96,54,1,1344,261.75,254.5,14,524
+headquarters,2010,Ex-Im Bank,31.98,28,less than 1,68,115.1,85,1,333,,,,
+headquarters,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
+headquarters,2012,Ex-Im Bank,49.68,22,less than 1,235,223.58,241,28,427,,,,
+headquarters,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,,,,
 headquarters,2008,HUD,,,,,,,,,,,,
 headquarters,2009,HUD,,,,,,,,,,,,
 headquarters,2010,HUD,75,534,1,698,117,644,2,1568,37,43,2,61
@@ -786,12 +1077,22 @@ houston district office (new orleans field office),2010,EEOC,12.9878,16,1,30,0,0
 houston district office (new orleans field office),2011,EEOC,11.3001,12,1,30,0,0,0,0,0,0,0,0
 houston district office (new orleans field office),2012,EEOC,9.61,10,1,25,0,0,0,0,0,0,0,0
 houston district office (new orleans field office),2013,EEOC,9.18,8,1,41,,,,,1,1,1,1
+houston district office,2010,EEOC,12.9878,16,1,30,0,0,0,0,0,0,0,0
+houston district office,2011,EEOC,11.3001,12,1,30,0,0,0,0,0,0,0,0
+houston district office,2012,EEOC,9.61,10,1,25,0,0,0,0,0,0,0,0
+houston district office,2013,EEOC,9.18,8,1,41,,,,,1,1,1,1
 idaho operations office,2008,DOE,10,1,1,26,40,23,11,85,0,0,0,0
 idaho operations office,2009,DOE,9,9,1,20,34,28,22,58,0,0,0,0
 idaho operations office,2010,DOE,9.36,8,less than 1,53,41.67,18,5,102,,,,
 idaho operations office,2011,DOE,14.22,13,less than 1,45,,,,,,,,
 idaho operations office,2012,DOE,8.95,7,less than 1,35,13,13,13,13,,,,
 idaho operations office,2013,DOE,9.11,8,less than 1,23,,,,,4,4,4,4
+immigration and customs enforcement,2008,DHS,17,1,1,807,39.9,10,1,1023,44,15,2,180
+immigration and customs enforcement,2009,DHS,12.46,8,1,152,38.48,23,1,313,58,58,7,109
+immigration and customs enforcement,2010,DHS,10,7,1,281,26,13,1,352,37,21,2,105
+immigration and customs enforcement,2011,DHS,14.05,7,1,347,34.08,20,1,357,18.5,17.5,1,45
+immigration and customs enforcement,2012,DHS,24.34,19,1,180,42.83,26,1,373,12.29,8,8,23
+immigration and customs enforcement,2013,DHS,52.79,45,1,273,63.01,37,2,590,28.76,19,1,149
 indian health service,2008,HHS,20,16,12,24,36,44,42,66,20,14,3,25
 indian health service,2009,HHS,14,12,3,24,90,52,34,141,10,13,5,32
 indian health service,2010,HHS,14,16,3,26,90,80,60,120,0,0,0,1
@@ -802,6 +1103,33 @@ indian health service,2013,HHS,15,10,1,30,61,44,15,107,,,,
 "indianapolis district office (detroit field office, cincinnati and louisville area offices)",2011,EEOC,9.06876,9,1,41,0,0,0,0,0,0,0,0
 "indianapolis district office (detroit field office, cincinnati and louisville area offices)",2012,EEOC,10.08,10,1,28,0,0,0,0,0,0,0,0
 "indianapolis district office (detroit field office, cincinnati and louisville area offices)",2013,EEOC,10.18,9,1,38,,,,,21,21,21,21
+indianapolis district office,2010,EEOC,5.76913,5,1,39,0,0,0,0,0,0,0,0
+indianapolis district office,2011,EEOC,9.06876,9,1,41,0,0,0,0,0,0,0,0
+indianapolis district office,2012,EEOC,10.08,10,1,28,0,0,0,0,0,0,0,0
+indianapolis district office,2013,EEOC,10.18,9,1,38,,,,,21,21,21,21
+inspector general,2008,FLRA,3,3,3,3,,,,,,,,
+inspector general,2009,FLRA,5,2,2,10,0,0,0,0,0,0,0,0
+inspector general,2010,FLRA,10,13,3,15,0,0,0,0,0,0,0,0
+inspector general,2011,FLRA,10,12,2,15,0,0,0,0,0,0,0,0
+inspector general,2012,FLRA,2,3,1,3,,,,,,,,
+inspector general,2013,FLRA,16.75,16,2,33,,,,,,,,
+inspector general,2008,VA,0,0,0,0,7,6,1,20,,,,
+inspector general,2009,VA,,,,,7,5.5,0,20,5,5,5,5
+inspector general,2010,VA,,,,,13.18,15,less than 1,24,,,,
+inspector general,2011,VA,,,,,15.23,15,less than 1,168,,,,
+inspector general,2012,VA,14.36,19,less than 1,43,20.28,20,less than 1,123,4,4,4,4
+inspector general,2013,VA,less than 1,less than 1,less than 1,less than 1,,,,,,,,
+institute of education sciences - national assessment governing board,2009,ED,0,0,0,0,0,0,0,0,0,0,0,0
+institute of education sciences - national assessment governing board,2010,ED,294,328,96,365,53,53,53,53,,,,
+institute of education sciences - national assessment governing board,2011,ED,37,37,37,37,105,105,70,140,0,0,0,0
+institute of education sciences - national assessment governing board,2012,ED,0,0,0,0,0,0,0,0,0,0,0,0
+institute of education sciences - national assessment governing board,2013,ED,,,,,60,60,60,60,,,,
+institute of education scinces,2008,ED,163,128,6,499,56,38,2,201,0,0,0,0
+institute of education scinces,2009,ED,29,17,0,318,57,46,0,153,0,0,0,0
+institute of education scinces,2010,ED,43,32,4,152,31,29,4,84,,,,
+institute of education scinces,2011,ED,36.73,36,2,93,66.69,71,0,123,0,0,0,0
+institute of education scinces,2012,ED,38.87,29,0,160,98.71,44,26,267,0,0,0,0
+institute of education scinces,2013,ED,9,9.5,1,48,21.68,20,less than 1,60,,,,
 institute of museum and library services,2008,IMLS,11,9,1,25,,,,,1,1,1,1
 institute of museum and library services,2009,IMLS,12.7,11,1,38,64.5,65,44,85,0,0,0,0
 institute of museum and library services,2010,IMLS,9.6,9,1,26,55.3,55.5,36,74,0,0,0,0
@@ -820,6 +1148,12 @@ internal revenue service - headquarters office,2010,Treasury,,,,,17.5,13,less th
 internal revenue service - headquarters office,2011,Treasury,,,,,19,14,0,604,21,18,0,42
 internal revenue service - headquarters office,2012,Treasury,0,0,0,0,21.87,17,0,757,10,8,11,22
 internal revenue service - headquarters office,2013,Treasury,,,,,20.04,16,less than 1,557,41.6,19,5,88
+internal revenue service,2008,Treasury,0,0,0,0,24,15,0,1774,4,4,3,5
+internal revenue service,2009,Treasury,0,0,0,0,24.8,15,less than 1,988,27.1,14,5,66
+internal revenue service,2010,Treasury,,,,,17.5,13,less than 1,949,8,7,0,1
+internal revenue service,2011,Treasury,,,,,19,14,0,604,21,18,0,42
+internal revenue service,2012,Treasury,0,0,0,0,21.87,17,0,757,10,8,11,22
+internal revenue service,2013,Treasury,,,,,20.04,16,less than 1,557,41.6,19,5,88
 international trade administration,2008,DOC,16,42,1,64,0,0,0,0,0,0,0,0
 international trade administration,2009,DOC,21,11,1,152,0,0,0,0,0,0,0,0
 international trade administration,2010,DOC,12,20,1,233,0,0,0,0,0,0,0,0
@@ -838,6 +1172,8 @@ jet propulsion laboratory,2010,NASA,4.38,2.5,less than 1,29,24.33,25,19,29,,,,
 jet propulsion laboratory,2011,NASA,6.59,4,less than 1,37,12.55,9.5,less than 1,77,,,,
 jet propulsion laboratory,2012,NASA,2.65,2,less than 1,6,6.86,7,less than 1,20,,,,
 jet propulsion laboratory,2013,NASA,4.33,4,less than 1,16,20.88,7.5,2,126,,,,
+job corps,2008,U.S. DOL,5,3,2,7,0,0,0,0,0,0,0,0
+job corps,2009,U.S. DOL,2,2,1,3,0,0,0,0,1,1,1,1
 jobs corps,2008,U.S. DOL,5,3,2,7,0,0,0,0,0,0,0,0
 jobs corps,2009,U.S. DOL,2,2,1,3,0,0,0,0,1,1,1,1
 johnson space center,2008,NASA,7,7,1,20,75,75,21,260,30,30,4,110
@@ -846,6 +1182,7 @@ johnson space center,2010,NASA,8.54,5,less than 1,64,19.93,12,less than 1,237,12
 johnson space center,2011,NASA,17,less than 1,less than 1,80,19.04,10,less than 1,351,,,,
 johnson space center,2012,NASA,5.97,3,less than 1,35,22.53,14,less than 1,115,,,,
 johnson space center,2013,NASA,1.86,1,less than 1,7,12.99,8,less than 1,80,,,,
+joint personnel recovery agency,2013,DoD,15,17,4,23,25,25,25,25,,,,
 justice management division,2008,DOJ,16.2,11,1,93,73.2,42,2,430,,,,
 justice management division,2009,DOJ,23.9,15,1,208,65.8,42,7,292,,,,
 justice management division,2010,DOJ,48.74,21.5,1,418,91.45,71,5,475,,,,
@@ -864,14 +1201,28 @@ langley research center,2010,NASA,13.89,8,less than 1,102,308.35,202,less than 1
 langley research center,2011,NASA,6.22,less than 1,less than 1,35,97.25,20,less than 1,841,,,,
 langley research center,2012,NASA,2.77,2,less than 1,10,18.61,11.5,less than 1,79,,,,
 langley research center,2013,NASA,3.37,2,less than 1,15,19.75,12,less than 1,120,,,,
+law department appeals only,2010,USPS,,,,,,,,,,,,
 legal services corporation,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41
 legal services corporation,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31
 legal services corporation,2012,LSC,8.11,6,1,30,22,21,17,29,9,6,1,19
 legal services corporation,2013,LSC,9.94,7,1,53,,,,,,,,
+legal services corporation ,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41
+legal services corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31
+legal services corporation ,2012,LSC,8.11,6,1,30,22,21,17,29,9,6,1,19
+legal services corporation ,2013,LSC,9.94,7,1,53,,,,,,,,
 "los angeles district office (fresno, honolulu, las vegas, and san diego local offices)",2010,EEOC,1.97154,1,1,35,0,0,0,0,0,0,0,0
 "los angeles district office (fresno, honolulu, las vegas, and san diego local offices)",2011,EEOC,8.3125,8,1,20,0,0,0,0,0,0,0,0
 "los angeles district office (fresno, honolulu, las vegas, and san diego local offices)",2012,EEOC,9.85,9,1,20,0,0,0,0,0,0,0,0
 "los angeles district office (fresno, honolulu, las vegas, and san diego local offices)",2013,EEOC,2.7,1,1,19,,,,,14,14,14,14
+los angeles district office,2010,EEOC,1.97154,1,1,35,0,0,0,0,0,0,0,0
+los angeles district office,2011,EEOC,8.3125,8,1,20,0,0,0,0,0,0,0,0
+los angeles district office,2012,EEOC,9.85,9,1,20,0,0,0,0,0,0,0,0
+los angeles district office,2013,EEOC,2.7,1,1,19,,,,,14,14,14,14
+management directorate,2008,DHS,7.9,4,1,37,31.4,29,2,101,0,0,0,0
+management directorate,2009,DHS,9.4,9,1,62,30.63,24.5,2,186,0,0,0,0
+management directorate,2010,DHS,9.41,9,1,33,42.85,36,12,157,,,,
+management directorate,2011,DHS,10.79,8,1,62,34.76,33,5,121,,,,
+management directorate,2012,DHS,13.67,9.5,1,40,35.61,30,1,162,50,50,30,70
 maritime administration,2008,DOT,160,21,1,805,,,,,,,,
 maritime administration,2009,DOT,137,6,3,146,137,77,47,261,,,,
 maritime administration,2010,DOT,137,6,3,146,137,77,47,261,,,,
@@ -888,6 +1239,10 @@ memphis district office (little rock and nashville area offices),2010,EEOC,14.94
 memphis district office (little rock and nashville area offices),2011,EEOC,17.0733,18,1,54,0,0,0,0,0,0,0,0
 memphis district office (little rock and nashville area offices),2012,EEOC,21.74,19,1,73,0,0,0,0,0,0,0,0
 memphis district office (little rock and nashville area offices),2013,EEOC,19.76,19,1,48,,,,,,,,
+memphis district office,2010,EEOC,14.9498,17,1,31,0,0,0,0,0,0,0,0
+memphis district office,2011,EEOC,17.0733,18,1,54,0,0,0,0,0,0,0,0
+memphis district office,2012,EEOC,21.74,19,1,73,0,0,0,0,0,0,0,0
+memphis district office,2013,EEOC,19.76,19,1,48,,,,,,,,
 merit systems protection board,2008,MSPB,9.2,11,less than 1,25,47.5,40,30,180,0,0,0,0
 merit systems protection board,2009,MSPB,15,7,less than 1,93,0,0,0,0,0,0,0,0
 merit systems protection board,2010,MSPB,17,8,less than 1,85,0,0,0,0,0,0,0,0
@@ -898,6 +1253,10 @@ miami district office (tampa field office and san juan local office),2010,EEOC,1
 miami district office (tampa field office and san juan local office),2011,EEOC,18.1431,18,1,84,0,0,0,0,0,0,0,0
 miami district office (tampa field office and san juan local office),2012,EEOC,18.62,19,1,88,0,0,0,0,0,0,0,0
 miami district office (tampa field office and san juan local office),2013,EEOC,15.37,15,1,105,,,,,11.33,11,11,12
+miami district office,2010,EEOC,13.479,1,1,240,0,0,0,0,0,0,0,0
+miami district office,2011,EEOC,18.1431,18,1,84,0,0,0,0,0,0,0,0
+miami district office,2012,EEOC,18.62,19,1,88,0,0,0,0,0,0,0,0
+miami district office,2013,EEOC,15.37,15,1,105,,,,,11.33,11,11,12
 millennium challenge corporation,2010,MCC,17,6,less than 1,259,0,0,0,0,0,0,0,0
 millennium challenge corporation,2011,MCC,14,16,1,21,0,0,0,0,0,0,0,0
 millennium challenge corporation,2012,MCC,15,17,3,21,0,0,0,0,0,0,0,0
@@ -908,18 +1267,42 @@ mine safety & health administration,2010,U.S. DOL,0,0,0,0,17.3,10,0,519,51.2,31,
 mine safety & health administration,2011,U.S. DOL,0,0,0,0,24,13,0,492,160.4,151.5,2,345
 mine safety & health administration,2012,U.S. DOL,0,0,0,0,38.6,11,0,1936,174.4,51,5,1302
 mine safety & health administration,2013,U.S. DOL,0,0,0,0,16.2,9,0,1285,188.6,124,40,519
+mine safety and health administration,2008,U.S. DOL,0,0,0,0,15,34,1,601,236.6,250,110,350
+mine safety and health administration,2009,U.S. DOL,0,0,0,0,14.8,9,0,329,48.6,3,2,180
+mine safety and health administration,2010,U.S. DOL,0,0,0,0,17.3,10,0,519,51.2,31,2,438
+mine safety and health administration,2011,U.S. DOL,0,0,0,0,24,13,0,492,160.4,151.5,2,345
+mine safety and health administration,2012,U.S. DOL,0,0,0,0,38.6,11,0,1936,174.4,51,5,1302
+mine safety and health administration,2013,U.S. DOL,0,0,0,0,16.2,9,0,1285,188.6,124,40,519
+minerals management service,2008,DOI,1,1,1,1,26.13,,0,333,0,0,0,0
+minerals management service,2009,DOI,2,2,1,3,26.41,,less than 1,284,,,,
 minority business development agency,2008,DOC,14,13,8,20,0,0,0,0,0,0,0,0
 minority business development agency,2009,DOC,19,12,7,76,0,0,0,0,0,0,0,0
 minority business development agency,2010,DOC,16,16,14,19,0,0,0,0,0,0,0,0
 minority business development agency,2011,DOC,0,0,0,0,40,30,7,103,0,0,0,0
 minority business development agency,2012,DOC,10,9,8,16,59,59,59,59,0,0,0,0
 minority business development agency,2013,DOC,20,20,20,20,118,118,116,120,,,,
+multiple offices assigned,2012,ED,114.93,39,0,730,151.52,107.5,4,23,119.5,85.5,44,263
+multiple offices assigned,2013,ED,27.17,20,1,178,95.36,64,5,817,,,,
+nasa headquarters,2008,NASA,19,8,1,119,123,84,1,1208,0,0,0,0
+nasa headquarters,2009,NASA,19,8,1,119,123,84,1,1208,0,0,0,0
+nasa management office - jet propulsion laboratory,2008,NASA,28,14,1,110,0,0,0,0,0,0,0,0
+nasa management office - jet propulsion laboratory,2009,NASA,28,14,1,110,0,0,0,0,0,0,0,0
+nasa management office - jet propulsion laboratory,2010,NASA,4.38,2.5,less than 1,29,24.33,25,19,29,,,,
+nasa management office - jet propulsion laboratory,2011,NASA,6.59,4,less than 1,37,12.55,9.5,less than 1,77,,,,
+nasa management office - jet propulsion laboratory,2012,NASA,2.65,2,less than 1,6,6.86,7,less than 1,20,,,,
+nasa management office - jet propulsion laboratory,2013,NASA,4.33,4,less than 1,16,20.88,7.5,2,126,,,,
 nasa shared service center (nssc),2008,NASA,14,7,1,25,0,0,0,0,0,0,0,0
 nasa shared service center (nssc),2009,NASA,14,7,1,25,0,0,0,0,0,0,0,0
 nasa shared service center (nssc),2010,NASA,17.35,14,less than 1,51,25.5,18,2,64,,,,
 nasa shared service center (nssc),2011,NASA,23.46,18,9,86,109.67,42,16,452,,,,
 nasa shared service center (nssc),2012,NASA,9.75,9,3,18,20.18,13,4,78,,,,
 nasa shared service center (nssc),2013,NASA,11.33,8,6,20,56.14,25,10,252,,,,
+nasa shared services center,2008,NASA,14,7,1,25,0,0,0,0,0,0,0,0
+nasa shared services center,2009,NASA,14,7,1,25,0,0,0,0,0,0,0,0
+nasa shared services center,2010,NASA,17.35,14,less than 1,51,25.5,18,2,64,,,,
+nasa shared services center,2011,NASA,23.46,18,9,86,109.67,42,16,452,,,,
+nasa shared services center,2012,NASA,9.75,9,3,18,20.18,13,4,78,,,,
+nasa shared services center,2013,NASA,11.33,8,6,20,56.14,25,10,252,,,,
 national aeronautics and space administration,2008,NASA,34,11,1,415,83,35,1,1142,36,36,4,110
 national aeronautics and space administration,2009,NASA,34,11,1,415,83,35,1,1142,36,36,4,110
 national aeronautics and space administration,2010,NASA,54.25,13,less than 1,1097,181.68,71,less than 1,1329,22.57,12,less than 1,172
@@ -940,6 +1323,12 @@ national capital planning commission,2010,NCPC,3.5,4,1,7,,,,,,,,
 national capital planning commission,2011,NCPC,6,7,1,10,0,0,0,0,0,0,0,0
 national capital planning commission,2012,NCPC,3,3,1,6,0,0,0,0,0,0,0,0
 national capital planning commission,2013,NCPC,3.67,2,less than 1,16,,,,,,,,
+national cemetary administration,2009,VA,,,,,16,10.5,0,90,,,,
+national cemetary administration,2010,VA,,,,,21.2,15,less than 1,318,,,,
+national cemetary administration,2011,VA,,,,,30.57,26,1,193,,,,
+national cemetary administration,2012,VA,,,,,15.68,12,less than 1,120,,,,
+national cemetary administration,2013,VA,23.75,20,7,46,38.19,31,1,324,,,,
+national cemetery administration,2008,VA,0,0,0,0,14,13.5,1,43,2,2,2,2
 national cemetery administration,2009,VA,,,,,16,10.5,0,90,,,,
 national cemetery administration,2010,VA,,,,,21.2,15,less than 1,318,,,,
 national cemetery administration,2011,VA,,,,,30.57,26,1,193,,,,
@@ -951,6 +1340,10 @@ national credit union administration,2010,NCUA,15,14,less than 1,134,43,39,13,12
 national credit union administration,2011,NCUA,13.56,11,0,88,39.65,34,2,127,48,50,3,91
 national credit union administration,2012,NCUA,18.52,13,0,129,159.54,150,13,345,11,11,11,11
 national credit union administration,2013,NCUA,11.08,8,less than 1,61,59.55,35.5,less than 1,346,163,163,163,163
+national drug intelligence center,2008,DOJ,28,18,5,227,,,,,,,,
+national drug intelligence center,2009,DOJ,15,12,6,63,,,,,,,,
+national drug intelligence center,2010,DOJ,21.55,14,2,224,,,,,,,,
+national drug intelligence center,2011,DOJ,26.62,18.5,8,176,76.17,61.5,41,265,,,,
 national endowment for the arts,2010,NEA,18.4,5,less than 1,655,34.9,24.5,12,120,2.7,3,2,3
 national endowment for the arts,2011,NEA,30.2,6,less than 1,815,130.4,36,3,368,19.9,10.5,6,79
 national endowment for the arts,2012,NEA,14,12,less than 1,43,148,68,48,331,14,9,less than 1,71
@@ -967,6 +1360,12 @@ national energy technology laboratory,2010,DOE,17.51,12,less than 1,80,,,,,,,,
 national energy technology laboratory,2011,DOE,16.68,13,less than 1,53,,,,,,,,
 national energy technology laboratory,2012,DOE,19.86,16.5,less than 1,85,,,,,,,,
 national energy technology laboratory,2013,DOE,18.86,4,less than 1,217,,,,,,,,
+national geospatial command,2008,DoD,194,149,118,655,370,362,88,845,0,0,0,0
+national geospatial command,2009,DoD,120,19,1,543,350,346,1,922,0,0,0,0
+national geospatial command,2010,DoD,221,26,less than 1,845,417,608,5,1074,,,,
+national geospatial command,2011,DoD,less than 1,less than 1,less than 1,less than 1,288,281,less than 1,870,,,,
+national geospatial command,2012,DoD,287,296,244,321,306,266,0,1022,132,132,132,132
+national geospatial command,2013,DoD,,,,,255,155,less than 1,819,,,,
 national geospatial-intelligence agency,2008,DoD,194,149,118,655,370,362,88,845,0,0,0,0
 national geospatial-intelligence agency,2009,DoD,120,19,1,543,350,346,1,922,0,0,0,0
 national geospatial-intelligence agency,2010,DoD,221,26,less than 1,845,417,608,5,1074,,,,
@@ -990,6 +1389,12 @@ national highway traffic safety administration,2010,DOT,,,,,28,21,less than 1,25
 national highway traffic safety administration,2011,DOT,32,18,less than 1,316,72,29,8,357,,,,6
 national highway traffic safety administration,2012,DOT,19,17,less than 1,170,51,30,2,296,10,10,10,10
 national highway traffic safety administration,2013,DOT,20,18,1,289,102,43,1,310,,,,
+national indian gaming commision,2008,NIGC,10,15.7,1,80,26,28.2,5,63,12,9,1,29
+national indian gaming commision,2009,NIGC,15.1,12,1,49,48.7,43.5,14,110,6,6,5,7
+national indian gaming commision,2010,NIGC,25.3,10,1,188,87,102,2,166,2,2,1,3
+national indian gaming commision,2011,NIGC,30.15,156,1,121,64,128,15,270,25,25,25,25
+national indian gaming commision,2012,NIGC,53.95,31,1,226,143,97,94,238,,,,
+national indian gaming commision,2013,NIGC,109,68.5,5,478,504,588,336,588,,,,
 national indian gaming commission,2008,NIGC,10,15.7,1,80,26,28.2,5,63,12,9,1,29
 national indian gaming commission,2009,NIGC,15.1,12,1,49,48.7,43.5,14,110,6,6,5,7
 national indian gaming commission,2010,NIGC,25.3,10,1,188,87,102,2,166,2,2,1,3
@@ -1024,8 +1429,14 @@ national nuclear security administration office of naval reactors,2010,DOE,,,,,,
 national nuclear security administration office of naval reactors,2011,DOE,,,,,,,,,,,,
 national nuclear security administration office of naval reactors,2012,DOE,,,,,,,,,,,,
 national nuclear security administration office of naval reactors,2013,DOE,,,,,,,,,,,,
+national nuclear security administration service center albuquerque,2008,DOE,59,35,1,950,0,0,0,0,0,0,0,0
+national nuclear security administration service center albuquerque,2009,DOE,20,15,less than 1,74,120,48,less than 1,935,0,0,0,0
 national nuclear security administration service center,2008,DOE,59,35,1,950,0,0,0,0,0,0,0,0
 national nuclear security administration service center,2009,DOE,20,15,less than 1,74,120,48,less than 1,935,0,0,0,0
+national nuclear security administration,2010,DOE,24.4,13,less than 1,157,163.88,53,less than 1,2305,9,9,9,9
+national nuclear security administration,2011,DOE,21.24,12,1,146,134.19,58,1,1092,268,268,268,268
+national nuclear security administration,2012,DOE,32.26,6,less than 1,411,110.52,48,1,1016,70.33,16,2,193
+national nuclear security administration,2013,DOE,4.89,5,less than 1,14,121.78,38,less than 1,1556,,,,
 national oceanic and atmospheric administration,2008,DOC,10,9,1,20,55,57,21,684,10,8,5,22
 national oceanic and atmospheric administration,2009,DOC,9,9,1,20,113,50,21,762,10,6,5,40
 national oceanic and atmospheric administration,2010,DOC,9,9,1,20,67,42,21,456,80,35,25,105
@@ -1038,6 +1449,12 @@ national park service,2010,DOI,5,less than 1,less than 1,43,16,6,less than 1,424
 national park service,2011,DOI,15,3,1,55,16,7,less than 1,444,21,21,less than 1,42
 national park service,2012,DOI,,,,,27,9,less than 1,1438,18,9,less than 1,103
 national park service,2013,DOI,13,14,less than 1,27,28,13,less than 1,545,22,16,2,64
+national protection and programs directorate,2008,DHS,42.52,19,1,175,215.5,154,40,650,0,0,0,0
+national protection and programs directorate,2009,DHS,55.6,32.5,1,352,280.55,212,116,684,0,0,0,0
+national protection and programs directorate,2010,DHS,29.69,24,1,100,195.71,171,107,359,,,,
+national protection and programs directorate,2011,DHS,49.9,27,1,28,127.26,121.5,3,483,,,,
+national protection and programs directorate,2012,DHS,27.37,33,1,159,100.35,61,1,387,39,39,39,39
+national protection and programs directorate,2013,DHS,44.22,35,1,243,37.26,25,1,362,13.5,13.5,11,16
 national reconnaissance office,2008,DoD,13,9,1,47,219,96,41,1011,0,0,0,0
 national reconnaissance office,2009,DoD,13,13,1,77,218,136,22,1161,0,0,0,0
 national reconnaissance office,2010,DoD,10,7,less than 1,39,177,133,41,1364,5,5,5,5
@@ -1082,10 +1499,26 @@ natural resources conservation service,2010,USDA,5,5,1,23,14,14,1,26,0,0,0,0
 natural resources conservation service,2011,USDA,12,15,1,20,22,20,1,55,0,0,0,0
 natural resources conservation service,2012,USDA,17.38,10,1,177,49.3,44,1,109,,,,
 natural resources conservation service,2013,USDA,19.39,10.5,1,274,33,16,1,107,,,,
+naval reactors laboratory field office,2010,DOE,18.22,12,less than 1,79,,,,,,,,
+naval reactors laboratory field office,2011,DOE,31.79,14.5,4,189,,,,,,,,
+naval reactors laboratory field office,2012,DOE,63.14,23,1,318,,,,,,,,
+naval reactors laboratory field office,2013,DOE,39.12,23.5,11,140,,,,,,,,
+naval reactors,2008,DOE,45,20,7,120,0,0,0,0,0,0,0,0
+naval reactors,2009,DOE,20,19,1,65,77,77,77,77,0,0,0,0
+naval reactors,2010,DOE,,,,,,,,,,,,
+naval reactors,2011,DOE,,,,,,,,,,,,
+naval reactors,2012,DOE,,,,,,,,,,,,
+naval reactors,2013,DOE,,,,,,,,,,,,
 "new york district office (boston and newark area offices, buffalo local office)",2010,EEOC,15.1007,13,1,128,0,0,0,0,0,0,0,0
 "new york district office (boston and newark area offices, buffalo local office)",2011,EEOC,48.8708,29,1,290,0,0,0,0,0,0,0,0
 "new york district office (boston and newark area offices, buffalo local office)",2012,EEOC,40.58,28,1,284,0,0,0,0,0,0,0,0
 "new york district office (boston and newark area offices, buffalo local office)",2013,EEOC,37.82,23,1,253,,,,,20.5,20.5,20,21
+new york district office,2010,EEOC,15.1007,13,1,128,0,0,0,0,0,0,0,0
+new york district office,2011,EEOC,48.8708,29,1,290,0,0,0,0,0,0,0,0
+new york district office,2012,EEOC,40.58,28,1,284,0,0,0,0,0,0,0,0
+new york district office,2013,EEOC,37.82,23,1,253,,,,,20.5,20.5,20,21
+nsf foundation,2008,NSF,21.12,17.5,1,229,0,0,0,0,0,0,0,0
+nsf foundation,2009,NSF,22,16,1,1825,0,0,0,0,21,8,6,41
 nuclear regulatory commission,2008,USNRC,15,11,less than 1,136,56,49,less than 1,178,0,0,0,0
 nuclear regulatory commission,2009,USNRC,14,11,less than 1,113,45,43,3,156,0,0,0,0
 nuclear regulatory commission,2010,USNRC,11,9,less than 1,70,53,43,less than 1,219,0,0,0,0
@@ -1104,12 +1537,96 @@ occupational safety & health administration,2010,U.S. DOL,16,5,0,474,19.7,8,0,47
 occupational safety & health administration,2011,U.S. DOL,12.9,5,0,502,18.4,7,0,488,9.4,5,1,119
 occupational safety & health administration,2012,U.S. DOL,27.6,6,0,999,29.4,9,0,2796,15.2,7,1,193
 occupational safety & health administration,2013,U.S. DOL,15.3,4,1,1211,27.4,9,0,1735,20.8,6,1,149
+occupational safety and health administration,2008,U.S. DOL,12.7,9,1,65,18.5,16,1,65,6.5,6,1,26
+occupational safety and health administration,2009,U.S. DOL,22.4,5,1,494,91,8,1,550,36,11,1,138
+occupational safety and health administration,2010,U.S. DOL,16,5,0,474,19.7,8,0,475,13.7,4,0,244
+occupational safety and health administration,2011,U.S. DOL,12.9,5,0,502,18.4,7,0,488,9.4,5,1,119
+occupational safety and health administration,2012,U.S. DOL,27.6,6,0,999,29.4,9,0,2796,15.2,7,1,193
+occupational safety and health administration,2013,U.S. DOL,15.3,4,1,1211,27.4,9,0,1735,20.8,6,1,149
 occupational safety and health review commission,2008,OSHRC,8.5,7,1,20,28,28,28,28,0,0,0,0
 occupational safety and health review commission,2009,OSHRC,9,8,less than 1,20,28,28,28,28,5,5,5,5
 occupational safety and health review commission,2010,OSHRC,10.7,10.5,less than 1,20,26,26.5,21,30,0,0,0,0
 occupational safety and health review commission,2011,OSHRC,12,11.5,1,20,0,0,0,0,0,0,0,0
 occupational safety and health review commission,2012,OSHRC,11.2,10,1,20,30,30,30,30,0,0,0,0
 occupational safety and health review commission,2013,OSHRC,9.8,7.5,less than 1,24,55,55,55,55,,,,
+ocr district of columbia,2010,ED,41,16,1,192,64,32,10,159,,,,
+ocr district of columbia,2011,ED,25,11,0,163,47.5,46,0,136,0,0,0,0
+ocr district of columbia,2012,ED,18.27,10.5,1,98,110.13,74.5,5,325,0,0,0,0
+ocr district of columbia,2013,ED,25.19,19.5,less than 1,183,86.69,46,4,372,,,,
+ocr region i - boston,2010,ED,35,29,1,131,89,75,4,187,,,,
+ocr region i - boston,2011,ED,18.72,16,0,80,161,77,27,568,0,0,0,0
+ocr region i - boston,2012,ED,64.27,29.5,1,674,197.3,107,44,634,0,0,0,0
+ocr region i - boston,2013,ED,12.57,11,less than 1,66,57.41,26,1,223,,,,
+ocr region ii - new york,2010,ED,36,23,1,286,61,20,18,144,,,,
+ocr region ii - new york,2011,ED,20.94,3.5,0,250,63.82,49,20,151,0,0,0,0
+ocr region ii - new york,2012,ED,52.83,19,0,438,200.67,182,17,663,0,0,0,0
+ocr region ii - new york,2013,ED,42.45,22.5,less than 1,354,84.06,74,12,371,,,,
+ocr region iii - philadelphia,2010,ED,65,44,3,211,51,51,51,51,,,,
+ocr region iii - philadelphia,2011,ED,10.28,8,0,53,24.38,28,3,35,3.5,3.5,1,6
+ocr region iii - philadelphia,2012,ED,9.9,9,0,30,64.22,30,14,264,10,10,0,20
+ocr region iii - philadelphia,2013,ED,6.49,4.5,less than 1,30,49.22,20,6,261,1.33,1,less than 1,4
+ocr region iv - atlanta,2010,ED,33,23,3,357,118,36,13,389,,,,
+ocr region iv - atlanta,2011,ED,17.07,10,0,178,52.6,47,10,127,0,0,0,0
+ocr region iv - atlanta,2012,ED,27.31,16.5,0,185,39,21,11,89,0,0,0,0
+ocr region iv - atlanta,2013,ED,54.44,32,less than 1,263,89.74,66,12,283,,,,
+ocr region ix - san francisco,2010,ED,4,3,1,15,15,13,2,34,,,,
+ocr region ix - san francisco,2011,ED,6.42,5,0,18,20,20,19,21,0,0,0,0
+ocr region ix - san francisco,2012,ED,6.54,3,0,26,11.63,9,3,30,0,0,0,0
+ocr region ix - san francisco,2013,ED,4.76,3,less than 1,23,11.39,9,1,29,,,,
+ocr region v - chicago,2010,ED,19,20,1,52,22,22,22,22,,,,
+ocr region v - chicago,2011,ED,15.32,19,0,28,24.25,14.5,0,68,0,0,0,0
+ocr region v - chicago,2012,ED,14.7,18,0,28,20,20,20,20,0,0,0,0
+ocr region v - chicago,2013,ED,13.96,16,less than 1,23,17.57,20,2,27,,,,
+ocr region vi - dallas,2010,ED,18,19,7,25,24,21,3,102,1,1,1,1
+ocr region vi - dallas,2011,ED,14.84,17,0,39,22.22,23,0,76,0,0,0,0
+ocr region vi - dallas,2012,ED,18.85,19,0,43,21.47,19,0,63,0,0,0,0
+ocr region vi - dallas,2013,ED,16.16,16,2,62,20.95,19,less than 1,97,,,,
+ocr region vii- kansas city,2010,ED,41,40,5,104,18,18,17,18,,,,
+ocr region vii- kansas city,2011,ED,21.16,6,0,290,144.5,75,5,386,0,0,0,0
+ocr region vii- kansas city,2012,ED,33.65,18,1,147,227,227,227,227,0,0,0,0
+ocr region vii- kansas city,2013,ED,101.27,71.5,1,423,58.33,25,23,127,,,,
+ocr region viii - denver,2010,ED,18,17,1,74,29,25,22,39,23,23,23,23
+ocr region viii - denver,2011,ED,13.34,13,0,58,20.75,24.5,0,34,0,0,0,0
+ocr region viii - denver,2012,ED,9.65,7,0,29,7,3,3,15,0,0,0,0
+ocr region viii - denver,2013,ED,8.77,7,less than 1,44,9,7,3,19,,,,
+ocr region x - seattle,2010,ED,6,4,1,22,12,10,1,30,,,,
+ocr region x - seattle,2011,ED,7.24,7,0,17,18.33,19,16,20,0,0,0,0
+ocr region x - seattle,2012,ED,7.91,6,0,26,13.8,14,3,53,0,0,0,0
+ocr region x - seattle,2013,ED,4.33,2.5,less than 1,14,10.76,11,less than 1,27,,,,
+ocr region xii - cleveland,2010,ED,23,22,2,59,,,,,,,,
+ocr region xii - cleveland,2011,ED,14.17,14,0,45,20.56,20,11,31,0,0,0,0
+ocr region xii - cleveland,2012,ED,15.39,17,1,39,66.75,25,18,199,0,0,0,0
+ocr region xii - cleveland,2013,ED,34.2,38,1,69,38.38,26,1,105,,,,
+ocr regional enforcement office - atlanta,2008,ED,45,33,3,330,0,0,0,0,27,27,27,27
+ocr regional enforcement office - atlanta,2009,ED,7,1,0,109,74,54,0,214,0,0,0,0
+ocr regional enforcement office - boston,2008,ED,20,11,1,109,42,41,3,89,14,14,14,14
+ocr regional enforcement office - boston,2009,ED,15,9,0,134,24,20,0,163,0,0,0,0
+ocr regional enforcement office - chicago,2008,ED,18,20,2,55,18,22,4,24,0,0,0,0
+ocr regional enforcement office - chicago,2009,ED,12,13,0,20,0,0,0,0,0,0,0,0
+ocr regional enforcement office - cleveland,2008,ED,17,19,1,49,23,23,21,25,0,0,0,0
+ocr regional enforcement office - cleveland,2009,ED,11,0,3,36,11,9,4,19,0,0,0,0
+ocr regional enforcement office - dallas,2008,ED,25,20,5,289,29,22,9,102,32,32,4,60
+ocr regional enforcement office - dallas,2009,ED,14,10,0,114,24,17,0,249,56,56,56,56
+ocr regional enforcement office - denver,2008,ED,19,15,1,85,50,49,6,139,0,0,0,0
+ocr regional enforcement office - denver,2009,ED,11,10,0,46,16,10,7,30,0,0,0,0
+ocr regional enforcement office - district of columbia,2008,ED,29,18,1,157,17,20,5,24,0,0,0,0
+ocr regional enforcement office - district of columbia,2009,ED,5,1,0,82,116,87,16,345,0,0,0,0
+ocr regional enforcement office - kansas city,2008,ED,47,27,13,163,0,0,0,0,0,0,0,0
+ocr regional enforcement office - kansas city,2009,ED,7,2,0,44,0,0,0,0,0,0,0,0
+ocr regional enforcement office - new york,2008,ED,64,27,1,311,62,29,1,275,3,3,1,4
+ocr regional enforcement office - new york,2009,ED,20,7,0,204,39,21,1,121,0,0,0,0
+ocr regional enforcement office - philadelphia,2008,ED,78,51,2,279,17,17,8,25,16,23,3,23
+ocr regional enforcement office - philadelphia,2009,ED,49,17,0,612,156,115,1,578,0,0,0,0
+ocr regional enforcement office - san francisco,2008,ED,8,6,1,30,10,6,2,25,0,0,0,0
+ocr regional enforcement office - san francisco,2009,ED,7,3,0,20,6,6,0,13,0,0,0,0
+ocr regional enforcement office - seattle,2008,ED,6,3,1,20,11,10,1,25,0,0,0,0
+ocr regional enforcement office - seattle,2009,ED,3,3,0,8,7,6,0,19,0,0,0,0
+office for civil rights (headquarters),2008,ED,105,92,6,445,52,35,3,234,0,0,0,0
+office for civil rights (headquarters),2009,ED,24,15,0,235,32,23,0,222,0,0,0,0
+office for civil rights (headquarters),2010,ED,39,33,1,376,106,44,10,395,,,,
+office for civil rights (headquarters),2011,ED,32.47,33.5,0,115,80,68.5,0,403,4,4,4,4
+office for civil rights (headquarters),2012,ED,25.42,25,0,102,66.78,53,0,240,0,0,0,0
+office for civil rights (headquarters),2013,ED,28.72,40.5,2,70,36.2,28,3,211,,,,
 office for civil rights and civil liberties,2008,DHS,41,23,8,165,97,72,11,283,0,0,0,0
 office for civil rights and civil liberties,2009,DHS,38.2,38,12,70,91.5,91.5,81,102,0,0,0,0
 office for civil rights and civil liberties,2010,DHS,36.33,22,1,112,465.67,509,38,791,,,,
@@ -1121,11 +1638,28 @@ office of acquisition & logistics,2010,VA,,,,,59.8,12.5,less than 1,571,21,21,21
 office of acquisition & logistics,2011,VA,,,,,32.38,11,less than 1,321,,,,
 office of acquisition & logistics,2012,VA,18.57,5,less than 1,77,15.91,6,less than 1,133,,,,
 office of acquisition & logistics,2013,VA,35.73,12,less than 1,210,37.76,14.5,less than 1,313,65,65,43,87
+"office of acquisition, logistics, and construction (formerly a&mm - acquisition & material management)",2009,VA,,,,,354,352,1,1583,,,,
+"office of acquisition, logistics, and construction (formerly a&mm - acquisition & material management)",2010,VA,,,,,59.8,12.5,less than 1,571,21,21,21,21
+"office of acquisition, logistics, and construction (formerly a&mm - acquisition & material management)",2011,VA,,,,,32.38,11,less than 1,321,,,,
+"office of acquisition, logistics, and construction (formerly a&mm - acquisition & material management)",2012,VA,18.57,5,less than 1,77,15.91,6,less than 1,133,,,,
+"office of acquisition, logistics, and construction (formerly a&mm - acquisition & material management)",2013,VA,35.73,12,less than 1,210,37.76,14.5,less than 1,313,65,65,43,87
+office of administration,2009,VA,,,,,0,0,0,0,0,0,0,0
+office of administration,2010,VA,,,,,143,143,143,143,,,,
+office of administration,2011,VA,,,,,47.67,47.5,1,98,,,,
+office of administration,2012,VA,34.5,34.5,19,50,167.75,163.5,68,276,,,,
+office of administration,2013,VA,19.5,16,15,31,112.94,47,less than 1,428,,,,
 office of assistant secretary for congressional and legislative affairs,2009,VA,,,,,46,46,39,53,,,,
 office of assistant secretary for congressional and legislative affairs,2010,VA,,,,,55,20,less than 1,175,,,,
 office of assistant secretary for congressional and legislative affairs,2011,VA,,,,,23.47,24,5,56,,,,
 office of assistant secretary for congressional and legislative affairs,2012,VA,33.33,30,22,48,27.4,24,2,71,,,,
 office of assistant secretary for congressional and legislative affairs,2013,VA,14.2,11,1,33,17.94,18,less than 1,41,,,,
+office of assistant secretary for health,2011,HHS,26,13,1,349,263,174,6,925,0,0,0,0
+office of assistant secretary for health,2012,HHS,16,7,1,153,166,100,7,999,0,0,0,0
+office of assistant secretary for health,2013,HHS,8,6,1,20,220,108,21,886,30,30,30,30
+office of assistant secretary for human resources and administration (006),2010,VA,,,,,15.67,17,10,20,,,,
+office of assistant secretary for human resources and administration (006),2011,VA,,,,,11.29,10,4,19,,,,
+office of assistant secretary for human resources and administration (006),2012,VA,,,,,252.67,377,4,377,,,,
+office of assistant secretary for human resources and administration (006),2013,VA,61,61,61,61,288,288,288,288,,,,
 office of assistant secretary for human resources and administration,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 office of assistant secretary for human resources and administration,2010,VA,,,,,15.67,17,10,20,,,,
 office of assistant secretary for human resources and administration,2011,VA,,,,,11.29,10,4,19,,,,
@@ -1145,21 +1679,55 @@ office of budget & program analysis,2010,USDA,6,6,0,21,0,0,0,0,0,0,0,0
 office of budget & program analysis,2011,USDA,0.83,1,0,5,0.332,7,7,15,,,,
 office of budget & program analysis,2012,USDA,6.4,5,0,19,,,,,,,,
 office of budget & program analysis,2013,USDA,8.45,9,1,18,34.5,28,9,73,,,,
+office of budget and program analysis,2010,USDA,6,6,0,21,0,0,0,0,0,0,0,0
+office of budget and program analysis,2011,USDA,0.83,1,0,5,0.332,7,7,15,,,,
+office of budget and program analysis,2012,USDA,6.4,5,0,19,,,,,,,,
+office of budget and program analysis,2013,USDA,8.45,9,1,18,34.5,28,9,73,,,,
+office of civil rights & civil liberties,2008,DHS,41,23,8,165,97,72,11,283,0,0,0,0
+office of civil rights & civil liberties,2009,DHS,38.2,38,12,70,91.5,91.5,81,102,0,0,0,0
+office of civil rights & civil liberties,2010,DHS,36.33,22,1,112,465.67,509,38,791,,,,
+office of civil rights & civil liberties,2011,DHS,8.9,7,1,25,117.76,63,3,434,,,,
+office of civil rights & civil liberties,2012,DHS,5.86,6,2,16,23.54,13,3,132,4,4,4,4
+office of civil rights & civil liberties,2013,DHS,6.07,6,1,12,15.8,12,1,81,,,,
 office of civil rights,2010,USDA,15,15,1,30,0,0,0,0,0,0,0,0
 office of civil rights,2011,USDA,11.68,9.5,less than 1,37,32,32,32,32,0,0,0,0
 office of civil rights,2012,USDA,18.65,18.5,1,55,119,119,119,119,,,,
 office of civil rights,2013,USDA,11.91,12,1,22,0,0,0,0,1,1,1,1
+office of communications and outreach,2008,ED,309,309,309,309,0,0,0,0,0,0,0,0
+office of communications and outreach,2009,ED,345,345,345,345,100,69,32,200,0,0,0,0
+office of communications and outreach,2010,ED,,,,,,,,,,,,
+office of communications and outreach,2011,ED,86.5,86.5,26,147,298,340,41,471,0,0,0,0
+office of communications and outreach,2012,ED,75,75,75,75,219.4,206,37,583,0,0,0,0
+office of communications and outreach,2013,ED,15,20,20,20,119,119,119,119,,,,
 office of community oriented policing services,2008,DOJ,3.6,1,1,27,,,,,,,,
 office of community oriented policing services,2009,DOJ,3,2,1,14,,,,,,,,
 office of community oriented policing services,2010,DOJ,,,,,3.82,1,less than 1,18,,,,
 office of community oriented policing services,2011,DOJ,,,,,7.09,6,less than 1,20,,,,
 office of community oriented policing services,2012,DOJ,,,,,4.7,3,less than 1,21,,,,
 office of community oriented policing services,2013,DOJ,,,,,7.87,6,less than 1,48,,,,
+office of congressional & legislative affairs,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
+office of congressional and intergovernmental affairs,2008,U.S. DOL,165,340,30,360,0,0,0,0,0,0,0,0
+office of congressional and intergovernmental affairs,2009,U.S. DOL,0,0,0,0,0,0,0,0,0,0,0,0
+office of congressional and intergovernmental affairs,2010,U.S. DOL,1,1,1,1,0,0,0,0,0,0,0,0
+office of congressional and intergovernmental affairs,2011,U.S. DOL,0,0,0,0,39.1,36,7,126,30,30,30,30
+office of congressional and intergovernmental affairs,2012,U.S. DOL,705.8,20.5,12,1899,503.3,39,1,1928,21,21,20,22
+office of congressional and intergovernmental affairs,2013,U.S. DOL,30.4,7.5,3,209,83.2,81,5,204,0,0,0,0
+office of congressional and legislative affairs,2009,VA,,,,,46,46,39,53,,,,
+office of congressional and legislative affairs,2010,VA,,,,,55,20,less than 1,175,,,,
+office of congressional and legislative affairs,2011,VA,,,,,23.47,24,5,56,,,,
+office of congressional and legislative affairs,2012,VA,33.33,30,22,48,27.4,24,2,71,,,,
+office of congressional and legislative affairs,2013,VA,14.2,11,1,33,17.94,18,less than 1,41,,,,
+office of construction & facilities management,2008,VA,0,0,0,0,14.4,9,1,90,,,,
 office of construction & facilities management,2009,VA,,,,,27,16.5,1,142,,,,
 office of construction & facilities management,2010,VA,,,,,47.52,31,2,306,,,,
 office of construction & facilities management,2011,VA,,,,,62.72,66,less than 1,218,,,,
 office of construction & facilities management,2012,VA,93.02,103,less than 1,217,98.67,77,1,226,,,,
 office of construction & facilities management,2013,VA,188.38,189.5,less than 1,397,132.36,102,1,564,,,,
+office of construction and facilities management,2009,VA,,,,,27,16.5,1,142,,,,
+office of construction and facilities management,2010,VA,,,,,47.52,31,2,306,,,,
+office of construction and facilities management,2011,VA,,,,,62.72,66,less than 1,218,,,,
+office of construction and facilities management,2012,VA,93.02,103,less than 1,217,98.67,77,1,226,,,,
+office of construction and facilities management,2013,VA,188.38,189.5,less than 1,397,132.36,102,1,564,,,,
 office of deputy assistant secretary for administration,2008,U.S. DOL,0,0,0,0,30,23,1,160,6,6,6,6
 office of deputy assistant secretary for administration,2009,U.S. DOL,0,0,0,0,30.4,23,0,162,27,20,0,37
 office of deputy assistant secretary for administration,2010,U.S. DOL,0,0,0,0,32,20,1,301,92,92,92,92
@@ -1194,23 +1762,101 @@ office of deputy assistant secretary for public affairs,2010,VA,,,,,less than 1,
 office of deputy assistant secretary for public affairs,2011,VA,,,,,,,,,,,,
 office of deputy assistant secretary for public affairs,2012,VA,,,,,,,,,,,,
 office of deputy assistant secretary for public affairs,2013,VA,,,,,,,,,,,,
+office of disability employment policy,2008,U.S. DOL,0,0,0,0,0,0,0,0,0,0,0,0
+office of disability employment policy,2009,U.S. DOL,0,0,0,0,0,0,0,0,0,0,0,0
+office of disability employment policy,2010,U.S. DOL,2,4,2,4,0,0,0,0,0,0,0,0
+office of disability employment policy,2011,U.S. DOL,0,0,0,0,126,126,126,126,0,0,0,0
+office of disability employment policy,2012,U.S. DOL,1875,1875,1875,1875,1259.2,1503.5,1,1929,0,0,0,0
+office of disability employment policy,2013,U.S. DOL,0,0,0,0,0,0,0,0,0,0,0,0
+office of dispute resolution,2008,DOJ,11,10,1,18,,,,,,,,
+office of dispute resolution,2009,DOJ,3,1.5,1,14,,,,,,,,
+office of dispute resolution,2010,DOJ,,,,,21.44,23,1,49,,,,
+office of dispute resolution,2011,DOJ,6.82,6,less than 1,16,,,,,,,,
+office of diversity and inclusion (formerly dm&eeo - office of diversity management and equal employment opportunity),2009,VA,,,,,0,0,0,0,0,0,0,0
+office of diversity and inclusion (formerly dm&eeo - office of diversity management and equal employment opportunity),2010,VA,,,,,,,,,,,,
+office of diversity and inclusion (formerly dm&eeo - office of diversity management and equal employment opportunity),2011,VA,,,,,7,7,7,7,,,,
+office of diversity and inclusion (formerly dm&eeo - office of diversity management and equal employment opportunity),2012,VA,,,,,,,,,,,,
+office of diversity and inclusion (formerly dm&eeo - office of diversity management and equal employment opportunity),2013,VA,,,,,28,28,28,28,,,,
+office of diversity management & equal employment opportunity,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
+office of elementary and secondary education,2008,ED,289,240,13,836,108,64,6,572,0,0,0,0
+office of elementary and secondary education,2009,ED,62,16,0,282,47,37,0,245,0,0,0,0
+office of elementary and secondary education,2010,ED,91,75,1,376,106,44,10,395,,,,
+office of elementary and secondary education,2011,ED,50.98,33,0,204,105.97,82,0,401,0,0,0,0
+office of elementary and secondary education,2012,ED,35.6,29.5,3,130,119.63,61,18,684,0,0,0,0
+office of elementary and secondary education,2013,ED,21.27,14,1,78,49.68,39,3,366,,,,
+office of english language acquisition,2008,ED,310,318,73,505,158,25,35,392,0,0,0,0
+office of english language acquisition,2009,ED,8,8,8,8,128,130,24,254,0,0,0,0
+office of english language acquisition,2010,ED,55,33,2,20,165,165,165,165,,,,
+office of english language acquisition,2011,ED,100.62,38.5,0,274,171,171,87,255,0,0,0,0
+office of english language acquisition,2012,ED,19.2,24,6,27,279,279,279,279,0,0,0,0
+office of english language acquisition,2013,ED,,,,,,,,,,,,
 office of federal contract compliance programs,2009,U.S. DOL,10.2,7,1,82,29.8,15,1,279,32,29.5,5,54
 office of federal contract compliance programs,2010,U.S. DOL,9.2,3.5,1,93,33.1,21,1,271,13.5,13,2,25
 office of federal contract compliance programs,2011,U.S. DOL,10.4,2,1,116,33.7,23.5,0,462,3,3,3,3
 office of federal contract compliance programs,2012,U.S. DOL,4.3,3,0,28,26.1,13,0,223,0,0,0,0
 office of federal contract compliance programs,2013,U.S. DOL,9.8,5,1,301,40.9,24,0,947,2,2,2,2
+office of federal contractor compliance programs,2009,U.S. DOL,10.2,7,1,82,29.8,15,1,279,32,29.5,5,54
+office of federal contractor compliance programs,2010,U.S. DOL,9.2,3.5,1,93,33.1,21,1,271,13.5,13,2,25
+office of federal contractor compliance programs,2011,U.S. DOL,10.4,2,1,116,33.7,23.5,0,462,3,3,3,3
+office of federal contractor compliance programs,2012,U.S. DOL,4.3,3,0,28,26.1,13,0,223,0,0,0,0
+office of federal contractor compliance programs,2013,U.S. DOL,9.8,5,1,301,40.9,24,0,947,2,2,2,2
+office of federal housing enterprise oversight,2008,OFHEO,11,15,0,20,0,0,0,0,12,12,8,16
+office of finance,2008,VA,0,0,0,0,31.2,4,1,101,,,,
+office of finance,2009,VA,,,,,25.5,31,19,43,,,,
+office of finance,2010,VA,,,,,18.28,9,less than 1,105,,,,
+office of finance,2011,VA,,,,,27.08,15,1,273,,,,
+office of finance,2012,VA,66,66,66,66,31.45,20.5,less than 1,112,,,,
+office of finance,2013,VA,99,35,8,254,24.18,18,5,98,,,,
+office of general council,2010,USDA,75,28,3,581,0,0,0,0,0,0,0,0
+office of general council,2011,USDA,64,6,0,969,,,,,,,,
+office of general council,2012,USDA,157,23,0,954,,,,,,,,
+office of general council,2013,USDA,58,36,1,262,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2008,NASA,,,,,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2009,NASA,,,,,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2010,NASA,20,20,20,20,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2011,NASA,,,,,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2012,NASA,,,,,,,,,,,,
+office of general counsel (international law division):  (appeals and litigation only),2013,NASA,,,,,,,,,,,,
+office of general counsel,2009,CNCS,,,,,,,,,,,,
+office of general counsel,2010,NSF,20,20,1,138,,,,,,,,
+office of general counsel,2011,NSF,25,20,1,254,,,,,25,25,25,25
+office of general counsel,2012,NSF,31,27,1,511,,,,,0,0,0,0
+office of general counsel,2013,NSF,33,23,1,209,,,,,,,,
 office of government ethics,2008,OGE,11,12.5,1,30,,,,,,,,
 office of government ethics,2009,OGE,12.4,13,less than 1,30,,,,,9,9,9,9
 office of government ethics,2010,OGE,13.02,13.5,1,173,0,0,0,0,0,0,0,0
 office of government ethics,2011,OGE,12.097,9.5,1,54,0,0,0,0,8,8,8,8
 office of government ethics,2012,OGE,10.959,9,1,43,0,0,0,0,0,0,0,0
 office of government ethics,2013,OGE,8.6,7,1,30,0,0,0,0,0,0,0,0
+office of human resources management,2008,VA,0,0,0,0,3,3,2,5,2,2,2,2
+office of human resources management,2009,VA,,,,,3,3,1,5,,,,
+office of human resources management,2010,VA,,,,,138.5,138.5,26,251,,,,
+office of human resources management,2011,VA,,,,,230.53,218,15,442,,,,
+office of human resources management,2012,VA,,,,,213,187,5,470,,,,
+office of human resources management,2013,VA,279,279,279,279,214,87,85,470,,,,
+office of information & technology,2009,VA,,,,,9.25,6,0,62,,,,
+office of information & technology,2010,VA,,,,,11.13,4,less than 1,158,,,,
+office of information and technology (005),2011,VA,,,,,20.66,5,less than 1,328,,,,
+office of information and technology (005),2012,VA,9.73,11,2,18,31.88,9,less than 1,421,,,,
+office of information and technology (005),2013,VA,16.13,12.5,1,80,23.9,6,less than 1,281,104.5,104.5,94,115
+office of information and technology,2008,VA,0,0,0,0,16,2,1,240,5,5,5,5
 office of information policy,2008,DOJ,19,9,less than 1,563,686,686,143,1229,,,,
 office of information policy,2009,DOJ,21,7,less than 1,665,490.5,,414,567,,,,
 office of information policy,2010,DOJ,46.54,18,less than 1,532,119.67,149,31,179,317,317,317,317
 office of information policy,2011,DOJ,53.9,19,less than 1,282,255.84,241,34,477,60,60,60,60
 office of information policy,2012,DOJ,27.82,15,less than 1,537,309.19,251.5,2,641,18,18,18,18
 office of information policy,2013,DOJ,26.16,13,less than 1,602,213.68,232,2,674,,,,
+office of innovation and improvement,2008,ED,253,219,6,683,85,53,1,529,0,0,0,0
+office of innovation and improvement,2009,ED,139,26,0,489,56,48,12,149,0,0,0,0
+office of innovation and improvement,2010,ED,78,42,3,375,89,28,1,387,,,,
+office of innovation and improvement,2011,ED,46.08,32,2,250,134.25,89.5,29,413,0,0,0,0
+office of innovation and improvement,2012,ED,18.4,27.5,3,58,125.61,52,6,297,0,0,0,0
+office of innovation and improvement,2013,ED,39,45,1,71,41.62,23,3,324,,,,
+office of inspector general appeals only,2010,USPS,,,,,,,,,,,,
+office of inspector general for the usps,2010,USPS,8,8,less than 1,74,31,20,less than 1,61,6.25,6.5,4,8
+office of inspector general for the usps,2011,USPS,6.11,2,0,28,12.75,14,3,20,1,1,1,1
+office of inspector general for the usps,2012,USPS,6.74,3,0,30,30.7,21,2,74,1,1,1,1
+office of inspector general for the usps,2013,USPS,7.57,6,less than 1,59,44.39,32,less than 1,128,4,4,1,7
 office of inspector general,2008,DOC,43,9,1,571,0,0,0,0,0,0,0,0
 office of inspector general,2009,DOC,23,20,1,190,0,0,0,0,0,0,0,0
 office of inspector general,2010,DOC,3,17,1,139,0,0,0,0,0,0,0,0
@@ -1223,12 +1869,58 @@ office of inspector general,2010,DoD,6,2,1,76,32,12,1,698,,,,
 office of inspector general,2011,DoD,5,4,less than 1,17,38,17,less than 1,326,50,10,6,133
 office of inspector general,2012,DoD,7,5,1,103,145,61,1,1604,22,22,22,22
 office of inspector general,2013,DoD,6,4,1,19,126,33,10,1665,25,26,5,62
+office of inspector general,2008,DOI,24.8,19.5,4,98,998.05,,3,2674,217,217,217,217
+office of inspector general,2009,DOI,63,51,3,189,1006.32,,1,2850,,,,
+office of inspector general,2010,DOI,6,2,1,20,142,99,1,457,,,,
+office of inspector general,2011,DOI,13,5,1,44,1056,1131,20,2235,43,40,3,127
+office of inspector general,2012,DOI,10,3,1,81,534,127,1,1870,25,14,4,70
+office of inspector general,2013,DOI,18,4,less than 1,120,354,81,less than 1,1492,102,50,1,353
+office of inspector general,2008,DOT,247,261,less than 1,723,443,479,100,723,,,,
+office of inspector general,2009,DOT,136,84,less than 1,553,346,411,121,473,,,,
+office of inspector general,2010,DOT,46,16,less than 1,282,334,229,1,1131,,,,
+office of inspector general,2011,DOT,56,27,less than 1,239,159,194,8,340,,,,
+office of inspector general,2012,DOT,46,20,less than 1,178,143,122,1,305,4,4,3,4
+office of inspector general,2013,DOT,40,26,less than 1,132,106,122,12,210,,,,
+office of inspector general,2008,ED,142,17,1,534,30,21,11,55,10,10,10,10
+office of inspector general,2009,ED,22,20,0,65,69,96,12,108,0,0,0,0
+office of inspector general,2010,ED,30,14,2,124,37,20,3,147,,,,
+office of inspector general,2011,ED,18.71,11,0,287,15.5,19.5,2,21,0,0,0,0
+office of inspector general,2012,ED,18.15,13,0,261,145.83,161,10,300,0,0,0,0
+office of inspector general,2013,ED,20.61,12,less than 1,208,38.71,22,2,173,,,,
+office of inspector general,2008,HHS,0,0,0,0,9.3,4,1,82,0,0,0,0
+office of inspector general,2009,HHS,4,1,1,21,51,41,1,190,1,1,1,1
+office of inspector general,2010,HHS,3,1,1,22,95,65,21,539,0,0,0,0
+office of inspector general,2011,HHS,3,1,1,23,24,14,1,170,0,0,0,0
+office of inspector general,2012,HHS,3,1,1,27,27,9,1,257,0,0,0,0
+office of inspector general,2013,HHS,4,2,1,20,23,9,1,277,,,,
+office of inspector general,2008,HUD,,,,,,,,,,,,
+office of inspector general,2009,HUD,,,,,,,,,,,,
+office of inspector general,2012,LSC,10.5,11,1,22,21,21,21,21,0,0,0,0
+office of inspector general,2013,LSC,5,3,1,15,,,,,,,,
+office of inspector general,2008,NSF,12.3,13,1,33,0,0,0,0,0,0,0,0
+office of inspector general,2009,NSF,13,14,1,20,0,0,0,0,0,0,0,0
+office of inspector general,2010,NSF,13,14,2,21,,,,,,,,
+office of inspector general,2011,NSF,15,16,1,30,,,,,0,0,0,0
+office of inspector general,2012,NSF,16,16,2,81,,,,,0,0,0,0
+office of inspector general,2013,NSF,21,17,1,105,,,,,,,,
+office of inspector general,2008,PC,6,6,1,18,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1
+office of inspector general,2009,PC,5,6,less than 1,22,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1
+office of inspector general,2010,PC,19,20,1,45,0,0,0,0,0,0,0,0
+office of inspector general,2011,PC,24,19,1,78,0,0,0,0,0,0,0,0
+office of inspector general,2012,PC,15,13,2,50,0,0,0,0,0,0,0,0
+office of inspector general,2013,PC,19,20,3,43,,,,,,,,
 office of inspector general,2008,State,37,10,1,213,,,,,1,1,1,1
 office of inspector general,2009,State,24,11,1,206,,,,,,,,
 office of inspector general,2010,State,13,10,1,44,,,,,,,,
 office of inspector general,2011,State,22,24,5,49,0,0,0,0,0,0,0,0
 office of inspector general,2012,State,9.49,6,1,75,,,,,,,,
 office of inspector general,2013,State,15,17,1,155,,,,,,,,
+office of inspector general,2008,US RRB,11,13,3,17,0,0,0,0,0,0,0,0
+office of inspector general,2009,US RRB,306,38,1,997,0,0,0,0,0,0,0,0
+office of inspector general,2010,US RRB,0,0,0,0,0,0,0,0,0,0,0,0
+office of inspector general,2011,US RRB,6.2,5,1,18,0,0,0,0,0,0,0,0
+office of inspector general,2012,US RRB,11.6,10,6,19,0,0,0,0,0,0,0,0
+office of inspector general,2013,US RRB,11.33,7,1,26,,,,,,,,
 office of inspector general,2008,VA,0,0,0,0,7,6,1,20,,,,
 office of inspector general,2009,VA,,,,,7,5.5,0,20,5,5,5,5
 office of inspector general,2010,VA,,,,,13.18,15,less than 1,24,,,,
@@ -1241,41 +1933,89 @@ office of intelligence & analysis,2010,DHS,18.74,15,2,56,55.52,18,1,346,,,,
 office of intelligence & analysis,2011,DHS,22.56,23,4,44,28.39,15.5,1,105,,,,
 office of intelligence & analysis,2012,DHS,9,8,6,14,60.82,23,1,348,,,,
 office of intelligence & analysis,2013,DHS,30.93,32,7,49,50.86,35.5,1,290,,,,
+office of intelligence and analysis,2008,DHS,14.59,14.5,1,35,43.41,42,1,109,0,0,0,0
+office of intelligence and analysis,2009,DHS,14.5,13,2,25,18.36,17.5,3,40,0,0,0,0
+office of intelligence and analysis,2010,DHS,18.74,15,2,56,55.52,18,1,346,,,,
+office of intelligence and analysis,2011,DHS,22.56,23,4,44,28.39,15.5,1,105,,,,
+office of intelligence and analysis,2012,DHS,9,8,6,14,60.82,23,1,348,,,,
+office of intelligence and analysis,2013,DHS,30.93,32,7,49,50.86,35.5,1,290,,,,
+office of intergovermental and public liaison,2008,DOJ,55,39,16,174,344,344,47,640,,,,
+office of intergovermental and public liaison,2009,DOJ,86,38,17,310,330,,127,533,,,,
+office of intergovermental and public liaison,2010,DOJ,132.63,97,7,377,283.33,362,32,456,53,53,53,53
+office of intergovermental and public liaison,2011,DOJ,33,27,1,80,94.68,79.5,20,238,46.33,52.5,15,60
+office of intergovermental and public liaison,2012,DOJ,19,19,18,20,77.95,62,6,252,74,74,74,74
+office of intergovermental and public liaison,2013,DOJ,,,,,,,,,,,,
 office of justice programs,2008,DOJ,12.99,8,1,133,60.8,40.5,1,451,,,,
 office of justice programs,2009,DOJ,14.5,9,1,104,65.4,61,1,205,,,,
 office of justice programs,2010,DOJ,28.6,16,less than 1,171,99.61,57.5,less than 1,957,,,,
 office of justice programs,2011,DOJ,19.09,7,less than 1,219,139.39,77,less than 1,863,,,,
 office of justice programs,2012,DOJ,11.96,8,less than 1,70,69.17,32,less than 1,721,,,,
 office of justice programs,2013,DOJ,18.45,11,less than 1,135,82.19,51.5,less than 1,708,,,,
+office of labor management standards,2009,U.S. DOL,21.2,11,1,105,22.5,13,0,219,0,0,0,0
+office of labor management standards,2010,U.S. DOL,8.7,9,0,37,27.9,12,0,223,6.5,6,1,12
+office of labor management standards,2011,U.S. DOL,8.5,5,0,44,20,10.5,0,139,7.5,7.5,5,10
+office of labor management standards,2012,U.S. DOL,19.4,13,1,77,25.6,10,0,266,89,89,89,89
+office of labor management standards,2013,U.S. DOL,12,12,7,17,20.6,14,0,391,0,0,0,0
 office of labor-management standards,2009,U.S. DOL,21.2,11,1,105,22.5,13,0,219,0,0,0,0
 office of labor-management standards,2010,U.S. DOL,8.7,9,0,37,27.9,12,0,223,6.5,6,1,12
 office of labor-management standards,2011,U.S. DOL,8.5,5,0,44,20,10.5,0,139,7.5,7.5,5,10
 office of labor-management standards,2012,U.S. DOL,19.4,13,1,77,25.6,10,0,266,89,89,89,89
 office of labor-management standards,2013,U.S. DOL,12,12,7,17,20.6,14,0,391,0,0,0,0
+office of legal affairs,2012,LSC,7.4,5,1,30,23,21,17,29,9,6,1,19
+office of legal affairs,2013,LSC,12.625,9,1,53,,,,,,,,
+office of legal counsel/headquarters,2010,EEOC,18.7553,17,1,150,0,0,0,0,0,0,0,0
+office of legal counsel/headquarters,2011,EEOC,22.219,19,1,81,0,0,0,0,5,5,5,5
+office of legal counsel/headquarters,2012,EEOC,21.56,18,1,447,0,0,0,0,7.77,5,4,19
+office of legal counsel/headquarters,2013,EEOC,15.72,16,1,108,,,,,12.36,11,3,27
 office of legal counsel,2008,DOJ,46.8,35,1,191,253.5,134,53,572,,,,
 office of legal counsel,2009,DOJ,146.5,38,1,765,119.7,75,42,665,,,12,12
 office of legal counsel,2010,DOJ,73.68,15,less than 1,375,178.5,178,15,388,,,,
 office of legal counsel,2011,DOJ,136.02,23.5,less than 1,620,447.35,376,2,1551,239.25,211,60,523
 office of legal counsel,2012,DOJ,17.47,7,less than 1,442,305.15,195,5,828,124.67,118,9,347
 office of legal counsel,2013,DOJ,22.91,13,less than 1,145,199.47,173,6,805,239,92.5,11,760
+office of legal counsel,2008,ONDCP,0,0,0,0,0,0,0,0,0,0,0,0
+office of legal counsel,2009,ONDCP,11,10,1,20,0,0,0,0,0,0,0,0
+office of legal counsel,2010,ONDCP,11,10,1,20,0,0,0,0,0,0,0,0
 office of legal policy,2008,DOJ,62,40,less than 1,710,834,848,143,1254,,,80,80
 office of legal policy,2009,DOJ,54,24,3,515,672,725,357,882,507,601,117,802
 office of legal policy,2010,DOJ,47.99,15,less than 1,488,378,382,296,456,15,15,15,15
 office of legal policy,2011,DOJ,17.21,9,less than 1,106,128.85,90,24,570,92.5,28.5,16,410
 office of legal policy,2012,DOJ,13.24,9,less than 1,49,74.63,30,1,374,173.75,185.5,47,277
 office of legal policy,2013,DOJ,20.32,19,3,70,111.83,36,4,431,,,,
+office of legislation and congressional affairs,2008,ED,227,227,80,373,248,248,248,248,0,0,0,0
+office of legislation and congressional affairs,2009,ED,322,322,317,327,35,17,3,101,0,0,0,0
+office of legislation and congressional affairs,2010,ED,123,107,67,211,,,,,,,,
+office of legislation and congressional affairs,2011,ED,26,26,26,26,0,0,0,0,0,0,0,0
+office of legislation and congressional affairs,2012,ED,33,33,33,33,112.33,123,36,152,0,0,0,0
+office of legislation and congressional affairs,2013,ED,,,,,,,,,,,,
 office of legislative affairs,2008,DOJ,138,70,1,796,560,340,214,1465,207,216,64,458
 office of legislative affairs,2009,DOJ,121,59,3,785,489,573,191,881,452,562,20,843
 office of legislative affairs,2010,DOJ,195.13,233,less than 1,491,327.05,270,less than 1,781,65.09,53,53,182
 office of legislative affairs,2011,DOJ,79.49,52,1,341,303.09,282,14,774,205.5,88,57,589
 office of legislative affairs,2012,DOJ,29.77,18,less than 1,151,236.32,165,7,879,201.38,229.5,8,456
 office of legislative affairs,2013,DOJ,37.87,21,less than 1,196,238.63,211.5,14,680,427,427,256,598
+office of management - regulatory information management services,2008,ED,93,34,1,824,123,76,3,758,0,0,0,0
+office of management - regulatory information management services,2009,ED,11,6,1,86,32,9,1,179,0,0,0,0
+office of management - regulatory information management services,2010,ED,66,41,1,422,41,21,3,268,314,314,314,314
+office of management and administrative programs,2009,U.S. DOL,0,0,0,0,19.7,18,8,33,0,0,0,0
 office of management and budget,2008,OMB,26,20,5,105,0,0,0,0,0,0,0,0
 office of management and budget,2009,OMB,23,18,3,83,0,0,0,0,0,0,0,0
 office of management and budget,2010,OMB,52,33,2,236,0,0,0,0,0,0,0,0
 office of management and budget,2011,OMB,82,66,5,284,,,,,,,,
 office of management and budget,2012,OMB,69,44,1,648,0,0,0,0,0,0,0,0
 office of management and budget,2013,OMB,31,18,1,233,,,,,,,,
+office of management,2008,ED,76,36,4,433,40,28,6,121,0,0,0,0
+office of management,2009,ED,31,20,0,209,28,27,0,97,0,0,0,0
+office of management,2010,ED,51,48,4,152,32,33,25,39,,,,
+office of management,2011,ED,36.58,33.5,1,175,161.55,97,9,548,0,0,0,0
+office of management,2012,ED,24.48,21,0,150,80.63,66,5,334,0,0,0,0
+office of management,2013,ED,31.67,13,3,187,44.04,25,7,211,,,,
+office of management,2008,VA,0,0,0,0,1,1,1,1,,,,
+office of management,2009,VA,,,,,14,15,13,40,3,3,3,3
+office of management,2010,VA,,,,,29.78,22,2,131,,,,
+office of management,2011,VA,,,,,16.5,11,4,40,,,,
+office of management,2012,VA,5,5,5,5,2,2,2,2,,,,
+office of management,2013,VA,222,222,222,222,182.14,182,less than 1,386,,,,
 office of national drug control policy,2008,ONDCP,0,0,0,0,0,0,0,0,0,0,0,0
 office of national drug control policy,2009,ONDCP,11,10,1,20,0,0,0,0,0,0,0,0
 office of national drug control policy,2010,ONDCP,11,10,1,20,0,0,0,0,0,0,0,0
@@ -1292,17 +2032,45 @@ office of operations coordination and planning,2010,DHS,3,1,1,14,7.61,6,1,19,,,,
 office of operations coordination and planning,2011,DHS,3.11,1,1,15,9.17,10,1,23,,,,
 office of operations coordination and planning,2012,DHS,2.5,2,1,7,8.77,6.5,3,33,,,,
 office of operations coordination and planning,2013,DHS,2.75,2,1,13,5.86,4,1,19,,,,
+office of operations coordination,2008,DHS,6,1,1,31,18.45,14,4,78,0,0,0,0
+office of operations coordination,2009,DHS,4.79,4,1,11,4.74,7,4,25,0,0,0,0
+office of operations coordination,2010,DHS,3,1,1,14,7.61,6,1,19,,,,
+office of operations coordination,2011,DHS,3.11,1,1,15,9.17,10,1,23,,,,
+office of operations coordination,2012,DHS,2.5,2,1,7,8.77,6.5,3,33,,,,
+office of operations coordination,2013,DHS,2.75,2,1,13,5.86,4,1,19,,,,
+"office of operations, security, and preparedness (formerly s&le - security & law enforcement)",2009,VA,,,,,12,12.5,1,25,,,,
+"office of operations, security, and preparedness (formerly s&le - security & law enforcement)",2010,VA,,,,,13.71,13,less than 1,24,,,,
+"office of operations, security, and preparedness (formerly s&le - security & law enforcement)",2011,VA,,,,,21.62,16,10,46,,,,
+"office of operations, security, and preparedness (formerly s&le - security & law enforcement)",2012,VA,,,,,12.07,14,less than 1,32,,,,
+"office of operations, security, and preparedness (formerly s&le - security & law enforcement)",2013,VA,,,,,16.14,4,3,39,,,,
 office of personnel management,2008,OPM,0,0,0,0,51,1,1,3510,0,0,0,0
 office of personnel management,2009,OPM,,,,,37,64,1,2666,51,60,24,60
 office of personnel management,2010,OPM,,,,,72,618,1,388,5,6,1,9
 office of personnel management,2011,OPM,,,,,44,34,1,435,41,42,1,133
 office of personnel management,2012,OPM,16,7,1,1359,102,121,1,867,81,27,1,479
 office of personnel management,2013,OPM,22,2,1,406,41,35,1,791,37,17,3,398
+"office of planning, evaluation, and policy development",2008,ED,398,389,64,751,0,0,0,0,0,0,0,0
+"office of planning, evaluation, and policy development",2009,ED,174,8,1,777,54,38,2,229,0,0,0,0
+"office of planning, evaluation, and policy development",2010,ED,132,113,1,302,88,51,33,357,,,,
+"office of planning, evaluation, and policy development",2011,ED,37,24,2,166,199.7,94.5,67,495,0,0,0,0
+"office of planning, evaluation, and policy development",2012,ED,52,52,52,52,392,349,273,556,0,0,0,0
+"office of planning, evaluation, and policy development",2013,ED,13.75,17,13,20,60,60,60,60,,,,
 office of policy and planning,2009,VA,,,,,20,20,20,20,,,,
 office of policy and planning,2010,VA,,,,,160,175,125,180,,,,
 office of policy and planning,2011,VA,,,,,8,8,8,8,,,,
 office of policy and planning,2012,VA,82.5,82.5,30,135,77.5,77.5,13,142,,,,
 office of policy and planning,2013,VA,13,13,13,13,74,74,74,74,5,5,5,5
+office of policy,2008,DHS,18,21.5,1,30,124.5,91,42,314,0,0,0,0
+office of policy,2009,DHS,10.83,7,6,29,107.8,96,20,260,0,0,0,0
+office of policy,2010,DHS,12.8,13,10,15,96.29,104.5,29,216,,,,
+office of policy,2011,DHS,4.22,4,1,8,8.4,7,1,20,,,,
+office of policy,2012,DHS,4.8,2,1,12,12.1,10,1,37,,,,
+office of postsecondary education,2008,ED,135,75,3,801,109,55,3,826,0,0,0,0
+office of postsecondary education,2009,ED,33,17,0,404,75,56,0,434,0,0,0,0
+office of postsecondary education,2010,ED,78,68,7,303,52,50,5,228,,,,
+office of postsecondary education,2011,ED,39.34,37,0,287,108.9,84.5,10,498,0,0,0,0
+office of postsecondary education,2012,ED,35.07,28,3,150,86.23,58,12,347,0,0,0,0
+office of postsecondary education,2013,ED,28.78,19,7,97,37.09,27,3,187,,,,
 office of professional responsibility,2008,DOJ,45,18,1,418,141,141,17,436,,,,
 office of professional responsibility,2009,DOJ,40,28,1,191,297,261,68,704,,,,
 office of professional responsibility,2010,DOJ,21.96,18,2,151,218.65,104,less than 1,611,8.5,8.5,8,9
@@ -1315,12 +2083,32 @@ office of public affairs,2010,DOJ,116.41,56,less than 1,377,325.5,325.5,269,382,
 office of public affairs,2011,DOJ,55.68,41,less than 1,186,230.77,197,32,489,69.33,60,41,107
 office of public affairs,2012,DOJ,29,19,4,108,171.36,157.5,16,498,258,359,46,369
 office of public affairs,2013,DOJ,21.86,19,15,44,212.74,228,20,551,250,250,244,256
+office of public affairs,2008,U.S. DOL,5,5,3,7,0,0,0,0,0,0,0,0
+office of public affairs,2009,U.S. DOL,5,8,3,10,0,0,0,0,0,0,0,0
+office of public affairs,2010,U.S. DOL,6,6,3,8,0,0,0,0,0,0,0,0
+office of public affairs,2011,U.S. DOL,0,0,0,0,895,895,895,895,458.5,458.5,16,901
+office of public affairs,2012,U.S. DOL,973,973,5,1941,692.7,75,4,1940,9.7,6,6,17
+office of public affairs,2013,U.S. DOL,0,0,0,0,15.1,13,7,28,0,0,0,0
+office of public affairs,2009,VA,,,,,0,0,0,0,0,0,0,0
+office of public affairs,2010,VA,,,,,less than 1,less than 1,less than 1,less than 1,,,,
+office of public affairs,2011,VA,,,,,,,,,,,,
+office of public affairs,2012,VA,,,,,,,,,,,,
+office of public affairs,2013,VA,,,,,,,,,,,,
+office of public health and science,2008,HHS,0,0,0,0,98,53,0,718,3.5,0,1,6
+office of public health and science,2009,HHS,100,24,0,751,220,153,18,862,7,8,0,13
+office of public health and science,2010,HHS,24,10,1,463,255,176,1,856,0,0,0,0
 office of resolution management,2008,VA,0,0,0,0,5,4,2,6,,,,
 office of resolution management,2009,VA,,,,,17.25,17,18,49,,,,
 office of resolution management,2010,VA,,,,,19.75,14,less than 1,77,,,,
 office of resolution management,2011,VA,,,,,13.53,13,less than 1,38,,,,
 office of resolution management,2012,VA,10,10,10,10,10.18,9,less than 1,22,,,,
 office of resolution management,2013,VA,19.11,14,2,40,17.5,16,1,37,,,,
+office of safe and drug-free schools,2008,ED,309,266,6,766,131,122,15,384,0,0,0,0
+office of safe and drug-free schools,2009,ED,99,53,4,298,119,105,0,429,0,0,0,0
+office of safe and drug-free schools,2010,ED,73,59,4,239,36,15,4,92,,,,
+office of safe and drug-free schools,2011,ED,117.76,154.5,0,314,112.57,110,37,199,0,0,0,0
+office of safe and drug-free schools,2012,ED,31.5,20.5,8,93,135.5,135.5,131,140,0,0,0,0
+office of safe and drug-free schools,2013,ED,,,,,,,,,,,,
 office of science and technology policy,2008,OSTP,51,18,1,296,359,81.5,30,1243,25,25.5,30,21
 office of science and technology policy,2009,OSTP,44.8,2.5,1,597,173.6,76,6,885,230.5,230.5,94,367
 office of science and technology policy,2010,OSTP,11.26,2,1,123,21.3,20,7,52,37,20,2,123
@@ -1333,11 +2121,14 @@ office of scientific and technical information,2010,DOE,11,11,9,13,,,,,,,,
 office of scientific and technical information,2011,DOE,23.2,23,9,46,,,,,,,,
 office of scientific and technical information,2012,DOE,11.08,10.5,less than 1,51,,,,,3,3,3,3
 office of scientific and technical information,2013,DOE,11,10.5,less than 1,23,,,,,,,,
+office of small & disadvantaged business utilization,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 office of small and disadvantaged business utilization,2009,VA,,,,,0,0,0,0,0,0,0,0
 office of small and disadvantaged business utilization,2010,VA,,,,,36,36,36,36,,,,
 office of small and disadvantaged business utilization,2011,VA,,,,,86.54,49,3,299,,,,
 office of small and disadvantaged business utilization,2012,VA,,,,,152.12,149,17,309,,,,
 office of small and disadvantaged business utilization,2013,VA,,,,,28.73,17,3,109,,,,
+office of small business programs,2008,U.S. DOL,19,12,8,37,23.2,19,3,64,0,0,0,0
+office of small business programs,2009,U.S. DOL,0,0,0,0,29.5,29.5,13,46,0,0,0,0
 office of special counsel,2010,OSC,10,1,1,147,,,,,7,6,2,12
 office of special counsel,2011,OSC,3,2,0,27,42,17,0,288,12,12,3,21
 office of special counsel,2012,OSC,29,10,1,211,271,134,1,747,83,20,9,381
@@ -1360,11 +2151,24 @@ office of the assistant secretary for administration and management,2010,U.S. DO
 office of the assistant secretary for administration and management,2011,U.S. DOL,21.7,23,2,195,50,35,0,324,0,0,0,0
 office of the assistant secretary for administration and management,2012,U.S. DOL,19,6,2,109,35.2,26.5,0,257,35.5,35.5,22,49
 office of the assistant secretary for administration and management,2013,U.S. DOL,18.8,7.5,1,93,51.8,29,1,925,0,0,0,0
+office of the assistant secretary for human resources & administration,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 "office of the assistant secretary for operations, security, and preparedness",2009,VA,,,,,12,12.5,1,25,,,,
 "office of the assistant secretary for operations, security, and preparedness",2010,VA,,,,,13.71,13,less than 1,24,,,,
 "office of the assistant secretary for operations, security, and preparedness",2011,VA,,,,,21.62,16,10,46,,,,
 "office of the assistant secretary for operations, security, and preparedness",2012,VA,,,,,12.07,14,less than 1,32,,,,
 "office of the assistant secretary for operations, security, and preparedness",2013,VA,,,,,16.14,4,3,39,,,,
+office of the assistant secretary for policy,2008,U.S. DOL,2.7,1,1,6,9,9,9,9,0,0,0,0
+office of the assistant secretary for policy,2009,U.S. DOL,0,0,0,0,90,21,16,233,0,0,0,0
+office of the assistant secretary for policy,2010,U.S. DOL,3,2,3,5,1,2,3,5,0,0,0,0
+office of the assistant secretary for policy,2011,U.S. DOL,214.1,43,11,599,424.4,507,13,976,0,0,0,0
+office of the assistant secretary for policy,2012,U.S. DOL,369.9,262,9,1645,806.4,781,18,1825,0,0,0,0
+office of the assistant secretary for policy,2013,U.S. DOL,28.7,35,16,35,136.3,91,24,486,0,0,0,0
+office of the assistant secretary for public & intergovernmental affairs,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
+office of the assistant secretary for public & intergovernmental affairs,2009,VA,,,,,0,0,0,0,0,0,0,0
+office of the assistant secretary for public & intergovernmental affairs,2010,VA,,,,,58,58,58,58,,,,
+office of the assistant secretary for public & intergovernmental affairs,2011,VA,,,,,56,56,56,56,,,,
+office of the assistant secretary for public & intergovernmental affairs,2012,VA,,,,,20,20,20,20,,,,
+office of the assistant secretary for public & intergovernmental affairs,2013,VA,16,16,16,16,,,,,,,,
 office of the associate attorney general,2008,DOJ,82,48,5,353,,,47,47,,,,
 office of the associate attorney general,2009,DOJ,79,32,3,613,,,850,850,116,,96,136
 office of the associate attorney general,2010,DOJ,79.29,31,less than 1,369,237.5,237.5,99,376,28.5,9,9,204
@@ -1377,12 +2181,61 @@ office of the attorney general,2010,DOJ,85.53,31.5,less than 1,488,450.76,430,le
 office of the attorney general,2011,DOJ,51.51,21,1,253,370.68,268,32,1105,196.75,93.5,45,566
 office of the attorney general,2012,DOJ,28.25,15.5,less than 1,450,248.97,147,3,950,277.55,264.5,17,837
 office of the attorney general,2013,DOJ,29.05,18,less than 1,197,366.4,249,less than 1,1132,420.93,502,7,997
+office of the chief financial officer - contracts & acquisitions mgmt,2008,ED,229,181,12,770,104,94,13,331,0,0,0,0
+office of the chief financial officer - contracts & acquisitions mgmt,2009,ED,129,22,0,789,103,96,18,248,0,0,0,0
+office of the chief financial officer - contracts & acquisitions mgmt,2010,ED,75,61,2,235,70,51,15,193,,,,
+office of the chief financial officer - contracts & acquisitions mgmt,2011,ED,49.29,40.5,0,191,97.33,93,59,132,0,0,0,0
+office of the chief financial officer - contracts & acquisitions mgmt,2012,ED,45,30.5,5,205,140.2,116.5,37,422,0,0,0,0
+office of the chief financial officer - contracts & acquisitions mgmt,2013,ED,15.5,16.5,6,70,67.51,50.75,4,373,,,,
+office of the chief financial officer - financial systems services,2008,ED,182,182,182,182,0,0,0,0,0,0,0,0
+office of the chief financial officer - financial systems services,2009,ED,331,331,328,333,117,117,105,125,0,0,0,0
+office of the chief financial officer - financial systems services,2010,ED,,,,,382,382,382,382,,,,
+office of the chief financial officer,2008,ED,224,315,1,412,34,34,9,59,0,0,0,0
+office of the chief financial officer,2009,ED,1,1,0,2,234,145,20,734,0,0,0,0
+office of the chief financial officer,2010,ED,192,161,109,355,409,409,409,409,,,,
+office of the chief financial officer,2011,ED,190.5,190.5,22,359,136.75,111,67,273,0,0,0,0
+office of the chief financial officer,2012,ED,39.33,31,15,72,141.5,131,10,299,0,0,0,0
+office of the chief financial officer,2013,ED,,,,,65,64,49,83,,,,
+office of the chief financial officer,2008,U.S. DOL,0,0,0,0,10.2,9,1,20,0,0,0,0
+office of the chief financial officer,2009,U.S. DOL,0,0,0,0,45.7,18,6,198,0,0,0,0
+office of the chief financial officer,2010,U.S. DOL,0,0,0,0,31.2,15,3,100,0,0,0,0
+office of the chief financial officer,2011,U.S. DOL,0,0,0,0,57.3,17.5,3,415,0,0,0,0
+office of the chief financial officer,2012,U.S. DOL,1235.6,1579.5,291,1923,429.1,30,1,1916,1871.9,1865,1845,1928
+office of the chief financial officer,2013,U.S. DOL,0,0,0,0,73.6,4,3,354,0,0,0,0
 office of the chief financial officer,2010,USDA,6,4,1,20,19,19,0,19,0,0,0,0
 office of the chief financial officer,2011,USDA,7,6,1,27,31,31,31,31,,,,
 office of the chief financial officer,2012,USDA,19.04,15,3,73,17.17,20,1,24,,,,
 office of the chief financial officer,2013,USDA,7.33,8,1,17,21.5,21.5,20,23,,,,
+office of the chief information officer,2008,DOI,,,,,,,,,,,,
+office of the chief information officer,2009,DOI,,,,,,,,,,,,
+office of the chief information officer,2010,DOI,,,,,,,,,,,,
+office of the chief information officer,2008,ED,39,28,20,81,22,24,2,39,0,0,0,0
+office of the chief information officer,2009,ED,100,11,8,282,11,11,11,11,0,0,0,0
+office of the chief information officer,2010,ED,98,92,78,123,,,,,,,,
+office of the chief information officer,2011,ED,155,145,38,292,128,137.5,26,211,0,0,0,0
+office of the chief information officer,2012,ED,0,0,0,0,52.33,52,30,75,0,0,0,0
+office of the chief information officer,2013,ED,31,31,27,35,17.4,22,5,27,,,,
 office of the chief information officer,2011,USDA,11.5,10,1,28,50.6,29,4,242,8.3,8,2,15
 office of the chief information officer,2012,USDA,142.36,28,1,774,168.4,102,1,642,71,71,45,97
+office of the clerk of the board,2010,MSPB,17,8,less than 1,85,0,0,0,0,0,0,0,0
+office of the comptroller of the currency,2008,Treasury,10,5,1,20,15,10,1,20,0,0,0,0
+office of the comptroller of the currency,2009,Treasury,9,4,1,10,13,6,1,20,3,2,1,5
+office of the comptroller of the currency,2010,Treasury,11.46,6,less than 1,131,27.23,26,less than 1,185,6.92,5,less than 1,33
+office of the comptroller of the currency,2011,Treasury,8.8,3,1,130,47.7,33,7,126,15.1,8,1,116
+office of the comptroller of the currency,2012,Treasury,9,3,0,254,39,26,0,187,26,21,0,139
+office of the comptroller of the currency,2013,Treasury,10.51,7,less than 1,648,31.5,27.5,less than 1,108,19.8,18,less than 1,71
+office of the deputy assistant secretary for budget,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
+office of the deputy assistant secretary for budget,2009,VA,,,,,12,12,5,19,,,,
+office of the deputy assistant secretary for budget,2010,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for budget,2011,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for budget,2012,VA,,,,,63,63,63,63,,,,
+office of the deputy assistant secretary for budget,2013,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for intergovernmenal affairs,2009,VA,,,,,0,0,0,0,0,0,0,0
+office of the deputy assistant secretary for intergovernmenal affairs,2010,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for intergovernmenal affairs,2011,VA,,,,,21.5,21.5,8,35,,,,
+office of the deputy assistant secretary for intergovernmenal affairs,2012,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for intergovernmenal affairs,2013,VA,,,,,,,,,,,,
+office of the deputy assistant secretary for intergovernmental affairs,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 office of the deputy assistant secretary for intergovernmental affairs,2009,VA,,,,,0,0,0,0,0,0,0,0
 office of the deputy assistant secretary for intergovernmental affairs,2010,VA,,,,,,,,,,,,
 office of the deputy assistant secretary for intergovernmental affairs,2011,VA,,,,,21.5,21.5,8,35,,,,
@@ -1394,10 +2247,35 @@ office of the deputy attorney general,2010,DOJ,142.66,91,less than 1,933,492.23,
 office of the deputy attorney general,2011,DOJ,60.07,36,1,234,308.58,208,8,1043,246.73,116,48,677
 office of the deputy attorney general,2012,DOJ,41.88,17,less than 1,450,283.12,202,7,972,288.13,270.5,60,675
 office of the deputy attorney general,2013,DOJ,22.01,17,less than 1,195,294.73,202,9,1048,440.78,517,27,887
+office of the deputy secretary,2012,ED,122.6,26,2,547,240.66,294,14,414,0,0,0,0
+office of the deputy secretary,2013,ED,29,19,5,63,31.6,24,16,76,,,,
 office of the director of national intelligence,2010,ODNI,134.99,88,0,847,305.53,122,2,991,0,0,0,0
 office of the director of national intelligence,2011,ODNI,41.87,4,0,1029,94,26.5,0,823,,,,
 office of the director of national intelligence,2012,ODNI,16.54,4,0,772,190.28,42.5,0,1163,208,23,22,579
 office of the director of national intelligence,2013,ODNI,86.12,16,less than 1,1407,167.91,64.5,less than 1,1145,,,,
+office of the federal detention trustee,2008,DOJ,13.33,5.5,2,132,65.33,64,56,76,17.5,14.5,3,34
+office of the federal detention trustee,2009,DOJ,14,8,2,64,43,15,3,239,15,8,3,46
+office of the federal detention trustee,2010,DOJ,19.45,4,1,167,92.13,102,3,178,69.29,33,1,255
+office of the federal detention trustee,2011,DOJ,11.75,8.5,3,29,28,11,less than 1,72,24,21,21,30
+office of the federal detention trustee,2012,DOJ,23.24,13,1,129,31.5,27.5,2,90,,,,
+office of the federal detention trustee,2013,DOJ,,,,,,,,,,,,
+office of the general counsel,2008,DHS,21.57,17,2,64,142,147,91,213,0,0,0,0
+office of the general counsel,2009,DHS,40.5,24.5,6,107,186,175.5,59,322,0,0,0,0
+office of the general counsel,2010,DHS,87.6,29.5,1,363,474.57,405,367,693,,,,
+office of the general counsel,2011,DHS,17.5,10.5,1,94,296.69,240,10,851,,,,
+office of the general counsel,2012,DHS,4.8,4.5,2,9,129,21,2,380,,,,
+office of the general counsel,2013,DHS,,,,,,,,,,,,
+office of the general counsel,2008,DNFSB,8.8,7,1,19,0,0,0,0,0,0,0,0
+office of the general counsel,2009,DNFSB,13,4,1,35,0,0,0,0,0,0,0,0
+office of the general counsel,2010,DNFSB,11,11,4,16,0,0,0,0,0,0,0,0
+office of the general counsel,2011,DNFSB,22,15,6,19,62,62,62,62,0,0,0,0
+office of the general counsel,2012,DNFSB,18,18,14,22,0,0,0,0,0,0,0,0
+office of the general counsel,2008,ED,480,443,60,897,681,837,119,930,0,0,0,0
+office of the general counsel,2009,ED,217,249,0,634,92,64,0,238,0,0,0,0
+office of the general counsel,2010,ED,83,83,83,83,,,,,,,,
+office of the general counsel,2011,ED,75.75,24.5,0,254,318.8,384,9,527,0,0,0,0
+office of the general counsel,2012,ED,76.66,72,49,100,274.44,277,15,850,0,0,0,0
+office of the general counsel,2013,ED,56,56,56,56,17.5,17.5,13,22,,,,
 office of the general counsel,2008,FLRA,13,9,1,39,,,,,,,,
 office of the general counsel,2009,FLRA,3,3,2,3,0,0,0,0,0,0,0,0
 office of the general counsel,2010,FLRA,3,2,1,8,0,0,0,0,0,0,0,0
@@ -1414,6 +2292,11 @@ office of the general counsel,2010,VA,,,,,68.44,55,less than 1,285,,,,
 office of the general counsel,2011,VA,,,,,50.16,51,1,146,7,7,7,7
 office of the general counsel,2012,VA,56,56,56,56,24.8,19,less than 1,118,,,,
 office of the general counsel,2013,VA,62,62,62,62,50.43,39.5,2,168,2,2,2,2
+office of the general manager,2008,DNFSB,4.6,2,1,19,0,0,0,0,0,0,0,0
+office of the general manager,2009,DNFSB,8,6,1,19,0,0,0,0,2,2,2,2
+office of the general manager,2010,DNFSB,6,2,less than 1,29,47,47,47,47,0,0,0,0
+office of the general manager,2011,DNFSB,12,13,3,20,0,0,0,0,0,0,0,0
+office of the general manager,2012,DNFSB,8.6,8,1,20,0,0,0,0,0,0,0,0
 office of the inspector general,2008,DHS,81.34,35.5,1,412,203.89,155,1,574,5,5,5,5
 office of the inspector general,2009,DHS,21.47,15,1,132,56.7,31,3,359,0,0,0,0
 office of the inspector general,2010,DHS,11.05,9,1,53,54.63,23,2,373,,,,
@@ -1450,6 +2333,10 @@ office of the inspector general,2010,HHS,3,1,1,22,95,65,21,539,0,0,0,0
 office of the inspector general,2011,HHS,3,1,1,23,24,14,1,170,0,0,0,0
 office of the inspector general,2012,HHS,3,1,1,27,27,9,1,257,0,0,0,0
 office of the inspector general,2013,HHS,4,2,1,20,23,9,1,277,,,,
+office of the inspector general,2010,HUD,0,0,0,0,0,0,0,0,0,0,0,0
+office of the inspector general,2011,HUD,28,17,1,282,98,98,25,172,83,83,83,83
+office of the inspector general,2012,HUD,19.3,12,1,285,32.75,22,8,79,0,0,0,0
+office of the inspector general,2013,HUD,9.98,9,1,93,28,28,15,41,18,18,18,18
 office of the inspector general,2008,NASA,10,18,2,14,0,0,0,0,0,0,0,0
 office of the inspector general,2009,NASA,10,18,2,14,0,0,0,0,0,0,0,0
 office of the inspector general,2010,NASA,49.46,24,1,261,,,,,,,,
@@ -1474,6 +2361,10 @@ office of the inspector general,2010,US RRB,0,0,0,0,0,0,0,0,0,0,0,0
 office of the inspector general,2011,US RRB,6.2,5,1,18,0,0,0,0,0,0,0,0
 office of the inspector general,2012,US RRB,11.6,10,6,19,0,0,0,0,0,0,0,0
 office of the inspector general,2013,US RRB,11.33,7,1,26,,,,,,,,
+office of the inspector general,2010,USDA,14,8,2,34,156,100,41,778,0,0,0,0
+office of the inspector general,2011,USDA,22,16,2,305,47,20,1,489,0,0,0,0
+office of the inspector general,2012,USDA,13,13,1,30,68,64,31,133,,,,
+office of the inspector general,2013,USDA,25,22,6,79,46,42,33,283,,,,
 office of the inspector general,2010,USPS,8,8,less than 1,74,31,20,less than 1,61,6.25,6.5,4,8
 office of the inspector general,2011,USPS,6.11,2,0,28,12.75,14,3,20,1,1,1,1
 office of the inspector general,2012,USPS,6.74,3,0,30,30.7,21,2,74,1,1,1,1
@@ -1484,12 +2375,21 @@ office of the pardon attorney,2010,DOJ,7.29,5,less than 1,49,,,,,,,,
 office of the pardon attorney,2011,DOJ,13.97,5,less than 1,433,57,57,57,57,,,,
 office of the pardon attorney,2012,DOJ,3.91,2,less than 1,18,,,,,,,,
 office of the pardon attorney,2013,DOJ,3.46,2,less than 1,16,,,,,,,,
+office of the secretary / office of the chief information officer,2011,USDA,11.5,10,1,28,50.6,29,4,242,8.3,8,2,15
+office of the secretary / office of the chief information officer,2012,USDA,142.36,28,1,774,168.4,102,1,642,71,71,45,97
 office of the secretary and joint staff,2008,DoD,11,3,1,669,486,237,1,4213,687,687,687,687
 office of the secretary and joint staff,2009,DoD,18,5,1,738,492,258,1,3850,299,55,28,815
 office of the secretary and joint staff,2010,DoD,15,4,less than 1,836,467,118,less than 1,4314,921,921,921,921
 office of the secretary and joint staff,2011,DoD,17,6,less than 1,877,504,107,1,4475,266,266,266,266
 office of the secretary and joint staff,2012,DoD,9.75,5,less than 1,430,447,101,less than 1,4097,0,0,0,0
 office of the secretary and joint staff,2013,DoD,8,5,less than 1,173,336,83,less than 1,3208,,,,
+office of the secretary of defense/joint staff,2008,DoD,11,3,1,669,486,237,1,4213,687,687,687,687
+office of the secretary of defense/joint staff,2009,DoD,18,5,1,738,492,258,1,3850,299,55,28,815
+office of the secretary of defense/joint staff,2010,DoD,15,4,less than 1,836,467,118,less than 1,4314,921,921,921,921
+office of the secretary of defense/joint staff,2011,DoD,17,6,less than 1,877,504,107,1,4475,266,266,266,266
+office of the secretary of defense/joint staff,2012,DoD,9.75,5,less than 1,430,447,101,less than 1,4097,0,0,0,0
+office of the secretary of defense/joint staff,2013,DoD,8,5,less than 1,173,336,83,less than 1,3208,,,,
+office of the secretary/office of the chief information officer/departmental management,2013,USDA,37.03,16,1,647,135.57,55.5,1,700,,,,
 office of the secretary,2008,DOC,12,10,1,48,151,136,50,366,0,0,0,0
 office of the secretary,2009,DOC,13,13,1,46,134,82,52,573,0,0,0,0
 office of the secretary,2010,DOC,18,17,1,47,164,127,50,709,0,0,0,0
@@ -1508,13 +2408,28 @@ office of the secretary,2010,DOT,8,3,less than 1,108,19,18,less than 1,58,,,,
 office of the secretary,2011,DOT,13,4,less than 1,136,64,33,less than 1,674,,,,
 office of the secretary,2012,DOT,8,2,less than 1,135,56,23,less than 1,582,,,,
 office of the secretary,2013,DOT,9,5,less than 1,138,73,28,1,910,,,,
+office of the secretary,2008,ED,465,119,119,810,202,87,9,510,0,0,0,0
+office of the secretary,2009,ED,101,58,10,279,254,184,1,1002,0,0,0,0
+office of the secretary,2010,ED,213,213,213,213,127,127,42,211,,,,
+office of the secretary,2011,ED,315,315,315,315,247.75,240,110,392,0,0,0,0
+office of the secretary,2012,ED,395,602,9,724,183.8,151,49,635,122.33,123,108,136
+office of the secretary,2013,ED,8,13,13,13,411.6,458,40,771,,,,
 office of the secretary,2008,HHS,0,0,0,0,259,222,1,1395,0,0,0,0
 office of the secretary,2009,HHS,0,0,0,0,247,217,1,1754,0,0,0,0
 office of the secretary,2010,HHS,0,0,0,0,79,220,1,2155,0,0,0,0
 office of the secretary,2011,HHS,0,0,0,0,185,600,1,1619,0,0,0,0
 office of the secretary,2012,HHS,0,0,0,0,91,189,1,2648,0,0,0,0
 office of the secretary,2013,HHS,,,,,71,1,less than 1,1453,46,1,1,303
+office of the secretary,2011,U.S. DOL,0,0,0,0,83.9,84,6,319,230,230,186,274
+office of the secretary,2012,U.S. DOL,8,8,8,8,57.2,39.2,5,186,0,0,0,0
+office of the secretary,2013,U.S. DOL,0,0,0,0,64.9,25.5,4,462,7,7,7,7
 office of the secretary,2010,USDA,21,20,1,93,43,39,4,106,0,0,0,0
+office of the secretary,2008,VA,0,0,0,0,2,1,2,4,,,,
+office of the secretary,2009,VA,,,,,2,2,1,3,,,,
+office of the secretary,2010,VA,,,,,47.09,44,3,186,,,,
+office of the secretary,2011,VA,,,,,62.19,22,less than 1,300,,,,
+office of the secretary,2012,VA,75,75,75,75,66.18,19,less than 1,833,,,,
+office of the secretary,2013,VA,162.56,33,3,699,155.21,57,9,1052,45.5,45.5,26,65
 office of the solicitor general,2008,DOJ,15,30,2,60,,,,,5,10,2,10
 office of the solicitor general,2009,DOJ,15,30,1,40,,,,,3,10,1,15
 office of the solicitor general,2010,DOJ,,,,,82.44,36,less than 1,437,,,,
@@ -1527,10 +2442,41 @@ office of the solicitor,2010,DOI,,,,,170,45,less than 1,1051,,,,
 office of the solicitor,2011,DOI,,,,,209,78,5,929,,,,
 office of the solicitor,2012,DOI,,,,,313,114,less than 1,1497,,,,
 office of the solicitor,2013,DOI,,,,,139,44,less than 1,1140,,,,
+office of the solicitor,2008,U.S. DOL,161,113,21,329,0,0,0,0,0,0,0,0
+office of the solicitor,2009,U.S. DOL,13.5,14,1,31,38,38,38,38,59,59,59,59
+office of the solicitor,2010,U.S. DOL,38,38,38,38,103.4,27,1,792,34.3,24,2,77
+office of the solicitor,2011,U.S. DOL,0,0,0,0,142.4,63.5,3,759,0,0,0,0
+office of the solicitor,2012,U.S. DOL,88.4,18,1,494,132.3,46,0,1182,0,0,0,0
+office of the solicitor,2013,U.S. DOL,35.6,13,1,157,76.8,31,0,714,188,188,188,188
+office of the u.s. trade representative,2010,USTR,46,45,30,85,269,186,47,1213,13,11,3,32
+office of the u.s. trade representative,2011,USTR,17,9,1,46,305,374,3,805,10,7,1,40
+office of the u.s. trade representative,2012,USTR,22,10,3,88,151,31,1,905,38,51,2,51
+office of the u.s. trade representative,2013,USTR,19,16,1,41,141,39,7,789,,,,
+office of the under secretary,2008,ED,618,618,618,618,0,0,0,0,0,0,0,0
+office of the under secretary,2009,ED,28,20,19,44,20,20,20,20,0,0,0,0
+office of the under secretary,2010,ED,,,,,,,,,,,,
+office of the under secretary,2011,ED,169,169,169,169,161.5,134.5,52,325,0,0,0,0
+office of the under secretary,2012,ED,46,46,43,48,151,46.5,45,466,0,0,0,0
+office of the under secretary,2013,ED,,,,,,,,,312,312,312,312
 office of the united states trade representative,2010,USTR,46,45,30,85,269,186,47,1213,13,11,3,32
 office of the united states trade representative,2011,USTR,17,9,1,46,305,374,3,805,10,7,1,40
 office of the united states trade representative,2012,USTR,22,10,3,88,151,31,1,905,38,51,2,51
 office of the united states trade representative,2013,USTR,19,16,1,41,141,39,7,789,,,,
+office of thrift supervision,2008,Treasury,0,0,0,0,36,7,0,893,0,0,0,0
+office of thrift supervision,2009,Treasury,0,0,0,0,30,9,less than 1,583,0,0,0,0
+office of thrift supervision,2010,Treasury,21,8,less than 1,654,,,,,13,13,13,13
+office of thrift supervision,2011,Treasury,15,7,0,519,23,11,0,233,,,,
+office of vocational and adult education,2008,ED,125,90,2,432,95,95,95,95,0,0,0,0
+office of vocational and adult education,2009,ED,8,8,8,8,71,58,5,151,0,0,0,0
+office of vocational and adult education,2010,ED,46,49,1,87,,,,,,,,
+office of vocational and adult education,2011,ED,28.11,34,6,58,67.33,44,30,128,0,0,0,0
+office of vocational and adult education,2012,ED,21.8,18,14,33,0,0,0,0,0,0,0,0
+office of vocational and adult education,2013,ED,,,,,31,31,17,45,,,,
+office of workers compensation programs,2009,U.S. DOL,12.14,10,1,251,25,26,18.5,41,10,10,10,10
+office of workers compensation programs,2010,U.S. DOL,41.5,12,1,281,27,11,0,278,34,24,2,77
+office of workers compensation programs,2011,U.S. DOL,46.4,10,2,2025,38,19,0,501,13,13,13,13
+office of workers compensation programs,2012,U.S. DOL,71.2,12,1,1306,89.4,15,0,1753,5,5,5,5
+office of workers compensation programs,2013,U.S. DOL,104,12,2,820,27,12,0,1704,0,0,0,0
 office of workers' compensation programs,2009,U.S. DOL,12.14,10,1,251,25,26,18.5,41,10,10,10,10
 office of workers' compensation programs,2010,U.S. DOL,41.5,12,1,281,27,11,0,278,34,24,2,77
 office of workers' compensation programs,2011,U.S. DOL,46.4,10,2,2025,38,19,0,501,13,13,13,13
@@ -1542,12 +2488,23 @@ office on violence against women,2010,DOJ,10.25,8,less than 1,35,25.75,30.5,8,34
 office on violence against women,2011,DOJ,11.04,10,less than 1,41,,,,,,,,
 office on violence against women,2012,DOJ,13.79,15,less than 1,36,,,,,,,,
 office on violence against women,2013,DOJ,16.8,16,less than 1,154,,,,,,,,
+officer of special education and rehabilitative services,2008,ED,157,145,4,631,80,63,3,211,0,0,0,0
+officer of special education and rehabilitative services,2009,ED,53,19,0,291,59,53,0,209,0,0,0,0
+officer of special education and rehabilitative services,2010,ED,70,37,12,357,47,47,3,95,,,,
+officer of special education and rehabilitative services,2011,ED,88.25,45,1,381,128.82,102,32,482,0,0,0,0
+officer of special education and rehabilitative services,2012,ED,26.1,28.5,7,51,67.61,49,21,228,0,0,0,0
+officer of special education and rehabilitative services,2013,ED,14.24,9,4,79,38,27,1,114,,,,
+"om - privacy, information, record management services",2011,ED,35.82,16,0,496,105.21,89,0,494,19,19,19,19
+"om - privacy, information, record management services",2012,ED,33.56,9,8,366,186.83,161,8,376,0,0,0,0
+"om - privacy, information, record management services",2013,ED,9.37,1,less than 1,279,45.75,6,less than 1,745,,,,
 overseas private investment corporation,2008,OPIC,26,89,1,177,0,0,0,0,0,0,0,0
 overseas private investment corporation,2009,OPIC,12,10,less than 1,36,0,0,0,0,27.5,7.5,less than 1,94
 overseas private investment corporation,2010,OPIC,17.95,9,less than 1,92,0,0,0,0,0,0,0,0
 overseas private investment corporation,2011,OPIC,,,,,18.82,12,less than 1,114,13.5,13.5,less than 1,21
 overseas private investment corporation,2012,OPIC,18.37,10,less than 1,125,,,,,0,0,0,0
 overseas private investment corporation,2013,OPIC,21.68,5,less than 1,322,,,,,10,10,10,10
+pacific northwest site office,2008,DOE,14,16,3,36,0,0,0,0,0,0,0,0
+pacific northwest site office,2009,DOE,12,12,1,25,0,0,0,0,0,0,0,0
 peace corps,2008,PC,14,12,less than 1,129,less than 1,less than 1,less than 1,less than 1,3,3,3,3
 peace corps,2009,PC,8,10,less than 1,58,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1,less than 1
 peace corps,2010,PC,22,20,1,69,80,52,22,146,0,0,0,0
@@ -1562,16 +2519,25 @@ pension benefit guaranty corporation,2013,PBGC,0,0,0,0,10,9,1,198,,,,
 "philadelphia district office (baltimore and cleveland field offices, pittsburgh area office)",2011,EEOC,24.791,23,1,165,0,0,0,0,0,0,0,0
 "philadelphia district office (baltimore and cleveland field offices, pittsburgh area office)",2012,EEOC,25.73,27,1,201,0,0,0,0,0,0,0,0
 "philadelphia district office (baltimore and cleveland field offices, pittsburgh area office)",2013,EEOC,28.67,29,1,112,,,,,,,,
+philadelphia district office,2010,EEOC,13.5979,9,1,110,0,0,0,0,0,0,0,0
+philadelphia district office,2011,EEOC,24.791,23,1,165,0,0,0,0,0,0,0,0
+philadelphia district office,2012,EEOC,25.73,27,1,201,0,0,0,0,0,0,0,0
+philadelphia district office,2013,EEOC,28.67,29,1,112,,,,,,,,
 "phoenix district office (denver field office, albuquerque area office)",2010,EEOC,8.36937,8,1,36,0,0,0,0,0,0,0,0
 "phoenix district office (denver field office, albuquerque area office)",2011,EEOC,13.2801,15,1,30,0,0,0,0,0,0,0,0
 "phoenix district office (denver field office, albuquerque area office)",2012,EEOC,11.49,14,1,28,0,0,0,0,0,0,0,0
 "phoenix district office (denver field office, albuquerque area office)",2013,EEOC,15.19,17,1,30,,,,,,,,
+phoenix district office,2010,EEOC,8.36937,8,1,36,0,0,0,0,0,0,0,0
+phoenix district office,2011,EEOC,13.2801,15,1,30,0,0,0,0,0,0,0,0
+phoenix district office,2012,EEOC,11.49,14,1,28,0,0,0,0,0,0,0,0
+phoenix district office,2013,EEOC,15.19,17,1,30,,,,,,,,
 pipeline and hazardous materials safety administration,2008,DOT,205,78,less than 1,1513,88,89,15,158,168,153,10,403
 pipeline and hazardous materials safety administration,2009,DOT,131,13,less than 1,3543,438,438,438,438,2,1,less than 1,1
 pipeline and hazardous materials safety administration,2010,DOT,32,14,less than 1,434,44,22,less than 1,159,6,6,5,6
 pipeline and hazardous materials safety administration,2011,DOT,8,5,less than 1,74,54,19,less than 1,540,28,23,less than 1,118
 pipeline and hazardous materials safety administration,2012,DOT,11,4,less than 1,107,93,13,less than 1,569,44,7,less than 1,252
 pipeline and hazardous materials safety administration,2013,DOT,19,6,less than 1,162,51,11,less than 1,639,132,16,1,601
+policy and planning,2008,VA,0,0,0,0,10,10,10,10,,,,
 postal inspection service,2010,USPS,9,7,less than 1,126,69,82,19,87,,,,
 postal inspection service,2011,USPS,11.67,7,0,888,23.5,23.5,10,37,0,0,0,0
 postal inspection service,2012,USPS,7.75,6,0,106,30,30,30,30,0,0,0,0
@@ -1582,6 +2548,17 @@ postal regulatory commission,2010,PRC,6,3,1,20,0,0,0,0,0,0,0,0
 postal regulatory commission,2011,PRC,11,15,0,57,0,0,0,0,10,10,8,12
 postal regulatory commission,2012,PRC,5,3,0,15,27,27,27,27,0,0,0,0
 postal regulatory commission,2013,PRC,7,6,1,20,29,29,29,29,5,5,5,5
+postal service and postal inspection service,2010,USPS,,,,,,,,,,,,
+postal service,2010,USPS,21,7,less than 1,524,45,24,less than 1,495,,,,
+postal service,2011,USPS,13.06,5,0,261,44.18,22,0,573,17,12,0,34
+postal service,2012,USPS,20.28,8,0,335,45.2,24,1,476,0,0,0,0
+postal service,2013,USPS,18.15,7,less than 1,504,50.09,22,less than 1,1059,12,12,less than 1,24
+privacy office,2008,DHS,8.85,8,2,39,62.4,34,1,484,0,0,0,0
+privacy office,2009,DHS,7.92,7,1,108,62.33,35.5,1,528,83.5,83.5,28,139
+privacy office,2010,DHS,7.09,7,1,44,113.8,79,2,769,25.39,9,1,375
+privacy office,2011,DHS,6.72,6,1,19,74.71,41,3,476,391,391,391,391
+privacy office,2012,DHS,9.6,7,1,53,70.18,55,7,412,189,189,189,189
+privacy office,2013,DHS,16.47,7,1,149,62.89,38,1,441,21.3,16.5,9,58
 professional responsibility advisory office,2008,DOJ,12.1,6.5,1,72,,,,,,,,
 professional responsibility advisory office,2009,DOJ,11.7,14,1,26,,,,,,,,
 professional responsibility advisory office,2010,DOJ,7.71,5.5,less than 1,24,,,,,,,,
@@ -1590,6 +2567,7 @@ professional responsibility advisory office,2012,DOJ,14.38,13.5,less than 1,58,,
 professional responsibility advisory office,2013,DOJ,17.75,5,less than 1,149,,,,,,,,
 program support center,2008,HHS,,,,,,,,,,,,
 program support center,2009,HHS,,,,,,,,,,,,
+public affairs,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
 railroad retirement board,2008,US RRB,13,16.5,1,25,0,0,0,0,0,0,0,0
 railroad retirement board,2009,US RRB,14.35,14,1,28,0,0,0,0,0,0,0,0
 railroad retirement board,2010,US RRB,12.14,12,1,24,0,0,0,0,0,0,0,0
@@ -1608,60 +2586,160 @@ recovery accountablity and transparency board,2013,RATB,11.5,6.5,2,29,,,,,,,,
 "region 1 (states: ct, me, ma, nh, ri, vt)",2011,EPA,19.27,16,less than 1,191,3,3,3,3,0,0,0,0
 "region 1 (states: ct, me, ma, nh, ri, vt)",2012,EPA,13.64,8.5,less than 1,16,38.8,34,1,851,,,,
 "region 1 (states: ct, me, ma, nh, ri, vt)",2013,EPA,13.54,11,less than 1,74,45.65,27,21,482,,,,
+region 1 - boston,2010,HUD,49,93,3,186,296,350,181,411,0,0,0,0
+region 1 - boston,2011,HUD,20,22,1,62,46,43,22,78,0,0,0,0
+region 1 - boston,2012,HUD,14.18,15,1,45,20.63,20,1,70,10.83,7,1,24
+region 1 - boston,2013,HUD,12.73,14,1,31,18.1,16,1,58,18,18,18,18
 "region 10 (states: ak, id, or, wa)",2008,EPA,23.99,16.5,0,412,65.81,59,7,157,0,0,0,0
 "region 10 (states: ak, id, or, wa)",2009,EPA,29.74,18,less than 1,441,76,33.5,8,611,less than 1,less than 1,less than 1,less than 1
 "region 10 (states: ak, id, or, wa)",2010,EPA,31.13,17,less than 1,1165,62.35,39,less than 1,326,8.67,12,1,13
 "region 10 (states: ak, id, or, wa)",2011,EPA,29.06,18,less than 1,298,57.2,64,35,73,31,31,31,31
 "region 10 (states: ak, id, or, wa)",2012,EPA,14.93,11,less than 1,17,47.43,42,9,337,,,,
 "region 10 (states: ak, id, or, wa)",2013,EPA,19.67,10,less than 1,666,72.7,51.5,8,327,,,,
+region 10 -seattle,2010,HUD,14,25,1,40,27,54,4,99,8,6,3,12
+region 10 -seattle,2011,HUD,15,17,2,69,27,23,1,54,4,4,4,5
+region 10 -seattle,2012,HUD,16.01,17,2,91,22.78,19,3,55,39,39,39,39
+region 10 -seattle,2013,HUD,15.74,14,1,81,46,28.5,11,115,0,0,0,0
+region 10,2008,EPA,23.99,16.5,0,412,65.81,59,7,157,0,0,0,0
+region 10,2009,EPA,29.74,18,less than 1,441,76,33.5,8,611,less than 1,less than 1,less than 1,less than 1
+region 10,2010,EPA,31.13,17,less than 1,1165,62.35,39,less than 1,326,8.67,12,1,13
+region 10,2011,EPA,29.06,18,less than 1,298,57.2,64,35,73,31,31,31,31
+region 10,2012,EPA,14.93,11,less than 1,17,47.43,42,9,337,,,,
+region 10,2013,EPA,19.67,10,less than 1,666,72.7,51.5,8,327,,,,
+region 1,2008,EPA,17.72,16,0,219,47.91,37,19,184,0,0,0,0
+region 1,2009,EPA,13.54,12,less than 1,167,58.94,51,22,274,less than 1,less than 1,less than 1,less than 1
+region 1,2010,EPA,19.82,15,less than 1,298,187,55,32,474,5,5,5,5
+region 1,2011,EPA,19.27,16,less than 1,191,3,3,3,3,0,0,0,0
+region 1,2012,EPA,13.64,8.5,less than 1,16,38.8,34,1,851,,,,
+region 1,2013,EPA,13.54,11,less than 1,74,45.65,27,21,482,,,,
 "region 2 (states: nj, ny, pr vi)",2008,EPA,99.7,88,1,725,92.25,52.5,32,242,64.5,64.5,37,92
 "region 2 (states: nj, ny, pr vi)",2009,EPA,57.45,53,2,842,73.94,42,17,375,less than 1,less than 1,less than 1,less than 1
 "region 2 (states: nj, ny, pr vi)",2010,EPA,69.24,55,less than 1,435,82.55,75,less than 1,151,13,12,3,25
 "region 2 (states: nj, ny, pr vi)",2011,EPA,104.88,96,less than 1,354,74.43,48.5,20,214,0,0,0,0
 "region 2 (states: nj, ny, pr vi)",2012,EPA,18.88,16,less than 1,19,70.34,77,4,217,71,71,71,71
 "region 2 (states: nj, ny, pr vi)",2013,EPA,10.42,11,less than 1,88,43,32,21,213,,,,
+region 2 - new york,2010,HUD,20,60,1,89,39,65,3,106,21,30,2,57
+region 2 - new york,2011,HUD,16,16,1,75,30,20,2,262,2,2,2,2
+region 2 - new york,2012,HUD,17.94,19.5,1,56,25.12,20,1,76,4,4,1,8
+region 2 - new york,2013,HUD,18.11,19,1,79,22.36,23.5,2,58,4.5,3,2,10
+region 2,2008,EPA,99.7,88,1,725,92.25,52.5,32,242,64.5,64.5,37,92
+region 2,2009,EPA,57.45,53,2,842,73.94,42,17,375,less than 1,less than 1,less than 1,less than 1
+region 2,2010,EPA,69.24,55,less than 1,435,82.55,75,less than 1,151,13,12,3,25
+region 2,2011,EPA,104.88,96,less than 1,354,74.43,48.5,20,214,0,0,0,0
+region 2,2012,EPA,18.88,16,less than 1,19,70.34,77,4,217,71,71,71,71
+region 2,2013,EPA,10.42,11,less than 1,88,43,32,21,213,,,,
 "region 3 (states: de, dc, md, pa, va, wv)",2008,EPA,20.11,21,0,96,40.56,34,12,138,0,0,0,0
 "region 3 (states: de, dc, md, pa, va, wv)",2009,EPA,20.24,21,less than 1,137,49.97,38,12,290,less than 1,less than 1,less than 1,less than 1
 "region 3 (states: de, dc, md, pa, va, wv)",2010,EPA,20.58,21,less than 1,123,68.24,43.5,less than 1,721,24,24,24,24
 "region 3 (states: de, dc, md, pa, va, wv)",2011,EPA,20.88,21,less than 1,138,60.25,44.5,21,321,0,0,0,0
 "region 3 (states: de, dc, md, pa, va, wv)",2012,EPA,18.06,16,less than 1,19,33.56,35,5,525,32,32,32,32
 "region 3 (states: de, dc, md, pa, va, wv)",2013,EPA,29.94,20,less than 1,97,43.03,36,21,397,35,35,35,35
+region 3 - philadelphia,2010,HUD,26,150,1,260,36,65,5,115,19,19,19,191
+region 3 - philadelphia,2011,HUD,17,15,1,132,35,31,3,111,0,0,0,0
+region 3 - philadelphia,2012,HUD,14.7,13,1,65,17.71,14.5,1,54,0,0,0,0
+region 3 - philadelphia,2013,HUD,12.9,10,1,54,21.19,14,1,64,23,23,23,23
+region 3,2008,EPA,20.11,21,0,96,40.56,34,12,138,0,0,0,0
+region 3,2009,EPA,20.24,21,less than 1,137,49.97,38,12,290,less than 1,less than 1,less than 1,less than 1
+region 3,2010,EPA,20.58,21,less than 1,123,68.24,43.5,less than 1,721,24,24,24,24
+region 3,2011,EPA,20.88,21,less than 1,138,60.25,44.5,21,321,0,0,0,0
+region 3,2012,EPA,18.06,16,less than 1,19,33.56,35,5,525,32,32,32,32
+region 3,2013,EPA,29.94,20,less than 1,97,43.03,36,21,397,35,35,35,35
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2008,EPA,14.34,14,0,79,32.01,30,7,116,20,20,20,20
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2009,EPA,15.09,15,less than 1,103,38.65,29.5,5,169,less than 1,less than 1,less than 1,less than 1
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2010,EPA,20.57,18,less than 1,224,74.73,53,4,256,7.5,7.5,4,11
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2011,EPA,23.73,19,less than 1,558,64.3,48,4,252,11,11,11,11
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2012,EPA,18.83,14,less than 1,19,39.33,37,7,503,,,,
 "region 4 (states: al, fl, ga, ky, ms, nc, sc, tn)",2013,EPA,12.06,13,less than 1,20,39.54,28,11,438,,,,
+region 4 - atlanta,2010,HUD,15,150,1,215,23,135,1,170,16,15,2,29
+region 4 - atlanta,2011,HUD,12,10,1,112,25,21,1,154,11,7,1,25
+region 4 - atlanta,2012,HUD,18.13,16,1,80,19.32,16,1,68,21,21,21,21
+region 4 - atlanta,2013,HUD,15.09,15,1,96,21.44,19,1,96,3,3,3,3
+region 4,2008,EPA,14.34,14,0,79,32.01,30,7,116,20,20,20,20
+region 4,2009,EPA,15.09,15,less than 1,103,38.65,29.5,5,169,less than 1,less than 1,less than 1,less than 1
+region 4,2010,EPA,20.57,18,less than 1,224,74.73,53,4,256,7.5,7.5,4,11
+region 4,2011,EPA,23.73,19,less than 1,558,64.3,48,4,252,11,11,11,11
+region 4,2012,EPA,18.83,14,less than 1,19,39.33,37,7,503,,,,
+region 4,2013,EPA,12.06,13,less than 1,20,39.54,28,11,438,,,,
 "region 5 (states: il, in, mi, mn, oh, wi)",2008,EPA,17.12,17,0,107,78.8,62.5,29,244,55,55,55,55
 "region 5 (states: il, in, mi, mn, oh, wi)",2009,EPA,17.27,16,1,327,92.06,68,18,392,4,4,4,4
 "region 5 (states: il, in, mi, mn, oh, wi)",2010,EPA,15.7,15,less than 1,130,105.47,56,less than 1,558,10,9,1,18
 "region 5 (states: il, in, mi, mn, oh, wi)",2011,EPA,17.67,16,less than 1,260,79.27,69,21,207,0,0,0,0
 "region 5 (states: il, in, mi, mn, oh, wi)",2012,EPA,14.55,14,less than 1,17,35.01,33,less than 1,567,24,24,24,24
 "region 5 (states: il, in, mi, mn, oh, wi)",2013,EPA,17.26,16,less than 1,365,37.8,27,12,634,56,56,30,82
+region 5 - chicago,2010,HUD,18,175,1,304,29,35,6,60,0,0,0,0
+region 5 - chicago,2011,HUD,15,13,1,111,22,17,13,36,0,0,0,0
+region 5 - chicago,2012,HUD,15.49,17,1,50,12.75,12,2,27,0,0,0,0
+region 5 - chicago,2013,HUD,19.49,19,5,17,13.71,17,1,35,0,0,0,0
+region 5,2008,EPA,17.12,17,0,107,78.8,62.5,29,244,55,55,55,55
+region 5,2009,EPA,17.27,16,1,327,92.06,68,18,392,4,4,4,4
+region 5,2010,EPA,15.7,15,less than 1,130,105.47,56,less than 1,558,10,9,1,18
+region 5,2011,EPA,17.67,16,less than 1,260,79.27,69,21,207,0,0,0,0
+region 5,2012,EPA,14.55,14,less than 1,17,35.01,33,less than 1,567,24,24,24,24
+region 5,2013,EPA,17.26,16,less than 1,365,37.8,27,12,634,56,56,30,82
 "region 6 (states: ar, la, nm, ok, tx)",2008,EPA,32.44,22,0,283,114.96,72,23,823,0,0,0,0
 "region 6 (states: ar, la, nm, ok, tx)",2009,EPA,80.61,44,less than 1,554,474.71,397,342,902,less than 1,less than 1,less than 1,less than 1
 "region 6 (states: ar, la, nm, ok, tx)",2010,EPA,44.01,26,less than 1,783,359,315.5,17,788,22.25,8,7,66
 "region 6 (states: ar, la, nm, ok, tx)",2011,EPA,33.3,25,less than 1,474,455.67,152,76,1139,0,0,0,0
 "region 6 (states: ar, la, nm, ok, tx)",2012,EPA,18.61,19,less than 1,19,44.49,41,less than 1,1186,,,,
 "region 6 (states: ar, la, nm, ok, tx)",2013,EPA,245.79,220,less than 1,779,53.03,34,less than 1,695,36,28,28,52
+region 6 - fort worth,2010,HUD,18,75,1,101,30,47,3,88,15,11,10,20
+region 6 - fort worth,2011,HUD,15,15,1,71,39,41,9,71,16,16,10,22
+region 6 - fort worth,2012,HUD,15.67,13.5,1,94,19.56,17.5,1,66,17,17,17,17
+region 6 - fort worth,2013,HUD,14.79,13,1,72,12.88,6,1,50,0,0,0,0
+region 6,2008,EPA,32.44,22,0,283,114.96,72,23,823,0,0,0,0
+region 6,2009,EPA,80.61,44,less than 1,554,474.71,397,342,902,less than 1,less than 1,less than 1,less than 1
+region 6,2010,EPA,44.01,26,less than 1,783,359,315.5,17,788,22.25,8,7,66
+region 6,2011,EPA,33.3,25,less than 1,474,455.67,152,76,1139,0,0,0,0
+region 6,2012,EPA,18.61,19,less than 1,19,44.49,41,less than 1,1186,,,,
+region 6,2013,EPA,245.79,220,less than 1,779,53.03,34,less than 1,695,36,28,28,52
 "region 7 (states: ia, ks, mo, ne)",2008,EPA,20.64,15,0,840,114,77,32,233,0,0,0,0
 "region 7 (states: ia, ks, mo, ne)",2009,EPA,24.8,16,less than 1,1222,265.33,229,32,535,less than 1,less than 1,less than 1,less than 1
 "region 7 (states: ia, ks, mo, ne)",2010,EPA,18.68,18,less than 1,92,60.75,36.5,6,164,6,6,6,6
 "region 7 (states: ia, ks, mo, ne)",2011,EPA,16.86,16,less than 1,127,483,483,483,483,18.5,18.5,18,19
 "region 7 (states: ia, ks, mo, ne)",2012,EPA,14.2,15,less than 1,17,37.91,36,2,327,,,,
 "region 7 (states: ia, ks, mo, ne)",2013,EPA,18.4,19,less than 1,148,37.55,24,less than 1,181,4,4,4,4
+region 7 - kansas,2010,HUD,22,27,1,59,30,25,20,51,0,0,0,0
+region 7 - kansas,2011,HUD,29,24,1,107,76,64,38,138,0,0,0,0
+region 7 - kansas,2012,HUD,29.14,22,1,120,46,26.5,1,119,0,0,0,0
+region 7 - kansas,2013,HUD,13.74,11.5,1,54,11,11,8,14,0,0,0,0
+region 7,2008,EPA,20.64,15,0,840,114,77,32,233,0,0,0,0
+region 7,2009,EPA,24.8,16,less than 1,1222,265.33,229,32,535,less than 1,less than 1,less than 1,less than 1
+region 7,2010,EPA,18.68,18,less than 1,92,60.75,36.5,6,164,6,6,6,6
+region 7,2011,EPA,16.86,16,less than 1,127,483,483,483,483,18.5,18.5,18,19
+region 7,2012,EPA,14.2,15,less than 1,17,37.91,36,2,327,,,,
+region 7,2013,EPA,18.4,19,less than 1,148,37.55,24,less than 1,181,4,4,4,4
 "region 8 (states: co, mt, nd, sd, ut, wy)",2008,EPA,18.05,11,0,883,144.11,55,30,404,0,0,0,0
 "region 8 (states: co, mt, nd, sd, ut, wy)",2009,EPA,11.29,9,1,76,67.18,30,12,378,less than 1,less than 1,less than 1,less than 1
 "region 8 (states: co, mt, nd, sd, ut, wy)",2010,EPA,11.9,9,less than 1,130,74.83,70,20,148,3.5,3.5,less than 1,9
 "region 8 (states: co, mt, nd, sd, ut, wy)",2011,EPA,16.23,14,less than 1,377,92.09,42,7,400,0,0,0,0
 "region 8 (states: co, mt, nd, sd, ut, wy)",2012,EPA,10.94,9,less than 1,14,33.02,34,less than 1,339,,,,
 "region 8 (states: co, mt, nd, sd, ut, wy)",2013,EPA,25.52,16,less than 1,390,47.79,29,14,449,,,,
+region 8 - denver,2010,HUD,25,45,1,109,19,21,4,56,0,0,0,0
+region 8 - denver,2011,HUD,19,18,1,80,52,52,24,81,0,0,0,0
+region 8 - denver,2012,HUD,18.48,14,1,295,1,17.52,46,0,0,0,0,0
+region 8 - denver,2013,HUD,20.27,20,24,92,0.5,0.5,1,1,0,0,0,0
+region 8,2008,EPA,18.05,11,0,883,144.11,55,30,404,0,0,0,0
+region 8,2009,EPA,11.29,9,1,76,67.18,30,12,378,less than 1,less than 1,less than 1,less than 1
+region 8,2010,EPA,11.9,9,less than 1,130,74.83,70,20,148,3.5,3.5,less than 1,9
+region 8,2011,EPA,16.23,14,less than 1,377,92.09,42,7,400,0,0,0,0
+region 8,2012,EPA,10.94,9,less than 1,14,33.02,34,less than 1,339,,,,
+region 8,2013,EPA,25.52,16,less than 1,390,47.79,29,14,449,,,,
 "region 9 (states: az, ca, hi, nv, as, gu)",2008,EPA,21.93,21,0,110,50.86,51,26,84,0,0,0,0
 "region 9 (states: az, ca, hi, nv, as, gu)",2009,EPA,18.55,18,less than 1,80,192.9,179.5,26,666,less than 1,less than 1,less than 1,less than 1
 "region 9 (states: az, ca, hi, nv, as, gu)",2010,EPA,22.68,20,less than 1,207,171.67,89,2,730,22,22,22,22
 "region 9 (states: az, ca, hi, nv, as, gu)",2011,EPA,16.65,14,less than 1,309,204.6,120,59,593,0,0,0,0
 "region 9 (states: az, ca, hi, nv, as, gu)",2012,EPA,10.56,8.5,less than 1,11,28.87,34,less than 1,99,29,29,29,29
 "region 9 (states: az, ca, hi, nv, as, gu)",2013,EPA,12.71,14,less than 1,20,55.42,36,less than 1,455,,,,
+region 9 - san fracisco,2010,HUD,30,175,1,356,63,275,3,411,15,17,5,20
+region 9 - san fracisco,2011,HUD,20,18,1,151,39,23,6,203,45,45,45,45
+region 9 - san fracisco,2012,HUD,17.35,13,1,21,25.26,21,1,82,9,9,9,9
+region 9 - san fracisco,2013,HUD,18.86,14,1,72,14.39,15,1,49,0,0,0,0
+region 9,2008,EPA,21.93,21,0,110,50.86,51,26,84,0,0,0,0
+region 9,2009,EPA,18.55,18,less than 1,80,192.9,179.5,26,666,less than 1,less than 1,less than 1,less than 1
+region 9,2010,EPA,22.68,20,less than 1,207,171.67,89,2,730,22,22,22,22
+region 9,2011,EPA,16.65,14,less than 1,309,204.6,120,59,593,0,0,0,0
+region 9,2012,EPA,10.56,8.5,less than 1,11,28.87,34,less than 1,99,29,29,29,29
+region 9,2013,EPA,12.71,14,less than 1,20,55.42,36,less than 1,455,,,,
 "region i (boston, hartford, manchester, providence)",2010,HUD,49,93,3,186,296,350,181,411,0,0,0,0
 "region i (boston, hartford, manchester, providence)",2011,HUD,20,22,1,62,46,43,22,78,0,0,0,0
 "region i (boston, hartford, manchester, providence)",2012,HUD,14.18,15,1,45,20.63,20,1,70,10.83,7,1,24
@@ -1702,10 +2780,20 @@ region viii (denver),2013,HUD,20.27,20,24,92,0.5,0.5,1,1,0,0,0,0
 "region x (seattle, anchorage, portland)",2011,HUD,15,17,2,69,27,23,1,54,4,4,4,5
 "region x (seattle, anchorage, portland)",2012,HUD,16.01,17,2,91,22.78,19,3,55,39,39,39,39
 "region x (seattle, anchorage, portland)",2013,HUD,15.74,14,1,81,46,28.5,11,115,0,0,0,0
+research and innovative technology administration,2008,DOT,20,12,less than 1,79,160,160,160,160,,,,
+research and innovative technology administration,2009,DOT,12,10,less than 1,48,14,14,14,14,19,19,16,21
+research and innovative technology administration,2010,DOT,11,8,less than 1,68,49,49,49,49,9,9,5,19
+research and innovative technology administration,2011,DOT,16,9,less than 1,94,,,,,193,193,193,193
+research and innovative technology administration,2012,DOT,12,6,1,111,21,17,4,46,6,5,1,16
+research and innovative technology administration,2013,DOT,9,7,2,22,20,20,20,20,9,9,less than 1,24
 "research, education & economics",2010,USDA,0,0,0,0,13,12,1,32,0,0,0,0
 "research, education & economics",2011,USDA,0,0,0,0,13,13,1,45,17.5,17,17,18
 "research, education & economics",2012,USDA,7.8,7,1,20,18,18,1,80,20,20,20,20
 "research, education & economics",2013,USDA,9.53,10,1,21,18.63,19,1,89,,,,
+"research, education, and economics",2010,USDA,0,0,0,0,13,12,1,32,0,0,0,0
+"research, education, and economics",2011,USDA,0,0,0,0,13,13,1,45,17.5,17,17,18
+"research, education, and economics",2012,USDA,7.8,7,1,20,18,18,1,80,20,20,20,20
+"research, education, and economics",2013,USDA,9.53,10,1,21,18.63,19,1,89,,,,
 richland operations office,2008,DOE,15,18,1,64,0,0,0,0,0,0,0,0
 richland operations office,2009,DOE,12,10,less than 1,58,0,0,0,0,0,0,0,0
 richland operations office,2010,DOE,11.36,7,less than 1,229,,,,,,,,
@@ -1730,12 +2818,20 @@ saint lawrence seaway development corporation,2013,DOT,14,12,9,26,,,,,,,,
 "san francisco district office (seattle field office, oakland and san jose local offices)",2011,EEOC,9.03789,7,1,100,0,0,0,0,0,0,0,0
 "san francisco district office (seattle field office, oakland and san jose local offices)",2012,EEOC,18.25,18,1,53,0,0,0,0,0,0,0,0
 "san francisco district office (seattle field office, oakland and san jose local offices)",2013,EEOC,27.82,23,1,228,,,,,,,,
+san francisco district office,2010,EEOC,11.8959,13,1,49,0,0,0,0,0,0,0,0
+san francisco district office,2011,EEOC,9.03789,7,1,100,0,0,0,0,0,0,0,0
+san francisco district office,2012,EEOC,18.25,18,1,53,0,0,0,0,0,0,0,0
+san francisco district office,2013,EEOC,27.82,23,1,228,,,,,,,,
 san francisco regional office,2008,FLRA,7,7,7,7,,,,,,,,
 san francisco regional office,2009,FLRA,11,9,3,20,0,0,0,0,0,0,0,0
 san francisco regional office,2010,FLRA,14,17,9,20,0,0,0,0,0,0,0,0
 san francisco regional office,2011,FLRA,20,20,20,20,0,0,0,0,0,0,0,0
 san francisco regional office,2012,FLRA,18,18,15,20,,,,,,,,
 san francisco regional office,2013,FLRA,4.17,3.5,less than 1,8,,,,,,,,
+savannah river office,2010,DOE,15.06,11,less than 1,136,,,,,,,,
+savannah river office,2011,DOE,17.76,12,less than 1,366,,,,,,,,
+savannah river office,2012,DOE,12.41,11,less than 1,65,,,,,,,,
+savannah river office,2013,DOE,16.5,13.5,less than 1,76,,,,,,,,
 savannah river operations office,2008,DOE,156,21,1,867,0,0,0,0,0,0,0,0
 savannah river operations office,2009,DOE,0,0,0,0,0,0,0,0,0,0,0,0
 science & technology directorate,2008,DHS,14.79,11,1,74,100,93,74,494,0,0,0,0
@@ -1744,12 +2840,19 @@ science & technology directorate,2010,DHS,11,13,1,48,,,,,,,,
 science & technology directorate,2011,DHS,12.14,8,1,55,62.4,47,32,131,,,,
 science & technology directorate,2012,DHS,11,12,1,50,81,58,35,228,,,,
 science & technology directorate,2013,DHS,6.75,5,1,18,110.17,94,67,184,93,93,93,93
+science and technology directorate,2008,DHS,14.79,11,1,74,100,93,74,494,0,0,0,0
+science and technology directorate,2009,DHS,22.66,14,1,97,796,1013,247,1128,0,0,0,0
+science and technology directorate,2010,DHS,11,13,1,48,,,,,,,,
+science and technology directorate,2011,DHS,12.14,8,1,55,62.4,47,32,131,,,,
+science and technology directorate,2012,DHS,11,12,1,50,81,58,35,228,,,,
+science and technology directorate,2013,DHS,6.75,5,1,18,110.17,94,67,184,93,93,93,93
 securities and exchange commission,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
 securities and exchange commission,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
 securities and exchange commission,2010,SEC,18.38,7,0,411,553.33,563.5,3,1015,49,49,15,83
 securities and exchange commission,2011,SEC,11,4,less than 1,427,164,1,less than 1,1242,36,8,4,138
 securities and exchange commission,2012,SEC,14,6,less than 1,399,325,147,1,776,13,6,1,81
 securities and exchange commission,2013,SEC,14.51,5,less than 1,786,514,645,less than 1,803,58.15,40,2,344
+security & law enforcement,2008,VA,0,0,0,0,5,20.5,1,41,,,,
 selective service system,2008,SSS,4,8,1,27,0,0,0,0,0,0,0,0
 selective service system,2009,SSS,4,6,1,23,0,0,0,0,0,0,0,0
 selective service system,2010,SSS,3,6,1,12,0,0,0,0,0,0,0,0
@@ -1768,6 +2871,12 @@ social security administration,2010,SSA,18,10,2,118,50,42,1,234,,,,
 social security administration,2011,SSA,22,17,3,159,56,47,3,248,,,,
 social security administration,2012,SSA,19,12,3,257,57,41,1,298,,,,
 social security administration,2013,SSA,17,18,1,45,64,45,1,331,,,,
+south eastern power administration,2008,DOE,5,5,2,7,0,0,0,0,0,0,0,0
+south eastern power administration,2009,DOE,12,12,1,31,0,0,0,0,0,0,0,0
+south eastern power administration,2010,DOE,,,,,,,,,,,,
+south eastern power administration,2011,DOE,11.4,13,less than 1,23,,,,,,,,
+south eastern power administration,2012,DOE,4.33,3,1,10,,,,,,,,
+south eastern power administration,2013,DOE,2.2,2,less than 1,5,,,,,,,,
 southwestern power administration,2008,DOE,11,1,1,20,0,0,0,0,0,0,0,0
 southwestern power administration,2009,DOE,10,11,2,16,0,0,0,0,0,0,0,0
 southwestern power administration,2010,DOE,17.83,19,3,30,,,,,,,,
@@ -1778,10 +2887,18 @@ special inspector general for afghanistan reconstruction,2010,SIGAR,,,,,,,,,,,,
 special inspector general for afghanistan reconstruction,2011,SIGAR,5,5,5,5,0,0,0,0,0,0,0,0
 special inspector general for afghanistan reconstruction,2012,SIGAR,61,13,1,381,,,,,,,,
 special inspector general for afghanistan reconstruction,2013,SIGAR,20,20,2,53,,,,,,,,
+special inspector general for iraq reconstruction,2009,SIGIR,15,14,4,39,,,,,,,,
+special inspector general for iraq reconstruction,2010,SIGIR,12,12,1,23,43,43,32,53,0,0,0,0
+special inspector general for iraq reconstruction,2011,SIGIR,12,12,4,21,,,,,,,,
+special inspector general for iraq reconstruction,2012,SIGIR,12,12,1,20,,,,,,,,
 st. louis district office (kansas city and oklahoma area offices),2010,EEOC,14.2394,17,1,30,0,0,0,0,0,0,0,0
 st. louis district office (kansas city and oklahoma area offices),2011,EEOC,15.0617,17,1,30,0,0,0,0,0,0,0,0
 st. louis district office (kansas city and oklahoma area offices),2012,EEOC,18.25,19,1,35,0,0,0,0,0,0,0,0
 st. louis district office (kansas city and oklahoma area offices),2013,EEOC,11.34,5,1,306,,,,,,,,
+st. louis district office,2010,EEOC,14.2394,17,1,30,0,0,0,0,0,0,0,0
+st. louis district office,2011,EEOC,15.0617,17,1,30,0,0,0,0,0,0,0,0
+st. louis district office,2012,EEOC,18.25,19,1,35,0,0,0,0,0,0,0,0
+st. louis district office,2013,EEOC,11.34,5,1,306,,,,,,,,
 stennis space center,2008,NASA,28,7,2,146,220,10,14,28,0,0,0,0
 stennis space center,2009,NASA,28,7,2,146,220,10,14,28,0,0,0,0
 stennis space center,2010,NASA,4.59,2,less than 1,22,38.8,6,less than 1,164,2,2,2,2
@@ -1794,6 +2911,12 @@ strategic petroleum reserve project,2010,DOE,14,15,6,21,,,,,,,,
 strategic petroleum reserve project,2011,DOE,14.93,15.5,less than 1,35,,,,,,,,
 strategic petroleum reserve project,2012,DOE,11.67,10.5,5,19,,,,,,,,
 strategic petroleum reserve project,2013,DOE,3,3,3,3,,,,,8,8,8,8
+strategic petroleum reserve,2008,DOE,12,25,3,35,0,0,0,0,0,0,0,0
+strategic petroleum reserve,2009,DOE,5,7,1,8,47,12,6,122,0,0,0,0
+strategic petroleum reserve,2010,DOE,14,15,6,21,,,,,,,,
+strategic petroleum reserve,2011,DOE,14.93,15.5,less than 1,35,,,,,,,,
+strategic petroleum reserve,2012,DOE,11.67,10.5,5,19,,,,,,,,
+strategic petroleum reserve,2013,DOE,3,3,3,3,,,,,8,8,8,8
 substance abuse and mental health services administration,2008,HHS,0,0,0,0,75,70,8,138,0,0,0,0
 substance abuse and mental health services administration,2009,HHS,20,12,0,30,75,68,12,180,0,0,0,0
 substance abuse and mental health services administration,2010,HHS,12,5,2,17,273,190,53,280,0,0,0,0
@@ -1848,6 +2971,18 @@ tricare management activity,2010,DoD,2,2,less than 1,3,65,30,less than 1,432,,,,
 tricare management activity,2011,DoD,16,12,less than 1,83,127,95,less than 1,412,,,,
 tricare management activity,2012,DoD,19,11,0,161,59,41,0,253,0,0,0,0
 tricare management activity,2013,DoD,21,12,less than 1,369,59,40,16,298,18,18,18,18
+"tricare management agency, dod health care system",2008,DoD,22,8,1,164,89,47,21,382,0,0,0,0
+"tricare management agency, dod health care system",2009,DoD,13,10,1,20,67,40,23,156,0,0,0,0
+"tricare management agency, dod health care system",2010,DoD,2,2,less than 1,3,65,30,less than 1,432,,,,
+"tricare management agency, dod health care system",2011,DoD,16,12,less than 1,83,127,95,less than 1,412,,,,
+"tricare management agency, dod health care system",2012,DoD,19,11,0,161,59,41,0,253,0,0,0,0
+"tricare management agency, dod health care system",2013,DoD,21,12,less than 1,369,59,40,16,298,18,18,18,18
+u. s. general services  administration,2008,GSA,14.6,21,2,70,0,0,0,0,0,0,0,0
+u. s. general services  administration,2009,GSA,21,20,3,438,0,0,0,0,0,0,0,0
+u. s. general services  administration,2010,GSA,33,28,0,411,0,0,0,0,0,0,0,0
+u. s. general services  administration,2011,GSA,36,29,1,455,0,0,0,0,0,0,0,0
+u. s. general services  administration,2012,GSA,49.73,35,0,1507,0,0,0,0,0,0,0,0
+u. s. general services  administration,2013,GSA,20.06,21,less than 1,40,63.45,48,less than 1,400,1,1,less than 1,2
 u.s. africa command,2009,DoD,11,6,1,42,35,35,35,35,0,0,0,0
 u.s. africa command,2010,DoD,,,,,34,34,34,34,,,,
 u.s. africa command,2011,DoD,17,25,1,50,28,28,27,29,,,,
@@ -1917,6 +3052,10 @@ u.s. northern command,2010,DoD,12,17,1,39,,,,,,,,
 u.s. northern command,2011,DoD,20,17,3,120,,,,,,,,
 u.s. northern command,2012,DoD,30,26,1,167,0,0,0,0,0,0,0,0
 u.s. northern command,2013,DoD,8,19,1,21,218,89,23,973,,,,
+u.s. office of special counsel,2010,OSC,10,1,1,147,,,,,7,6,2,12
+u.s. office of special counsel,2011,OSC,3,2,0,27,42,17,0,288,12,12,3,21
+u.s. office of special counsel,2012,OSC,29,10,1,211,271,134,1,747,83,20,9,381
+u.s. office of special counsel,2013,OSC,31.54,14,less than 1,301,291.62,259,28,715,204.33,266.5,1,377
 u.s. pacific command,2008,DoD,138,0,1,1724,489,0,2,2694,11,0,11,12
 u.s. pacific command,2009,DoD,15,64,1,100,365,92,1,3665,1,1,1,1
 u.s. pacific command,2010,DoD,3,2,less than 1,7,422,88,1,3757,184,81,16,346
@@ -1947,22 +3086,129 @@ u.s. strategic command,2010,DoD,14,9,1,63,71,54,38,147,,,,
 u.s. strategic command,2011,DoD,38,13,less than 1,496,566,202,47,3816,,,,
 u.s. strategic command,2012,DoD,10,8,0,37,31,56,7,144,0,0,0,0
 u.s. strategic command,2013,DoD,5,3,less than 1,16,68,48,26,135,,,,
+u.s. trade and development agency,2010,USTDA,0,0,0,0,105,60,2,303,0,0,0,0
+u.s. trade and development agency,2011,USTDA,0,0,0,0,155.3,48,1,539,62.5,62.5,16,109
+u.s. trade and development agency,2012,USTDA,0,0,0,0,20.6,13,7,84,0,0,0,0
+u.s. trade and development agency,2013,USTDA,,,,,15.75,10,5,44,,,,
 u.s. transportation command,2008,DoD,8,7,1,24,51,43,29,138,0,0,0,0
 u.s. transportation command,2009,DoD,16,2,1,32,102,55,39,144,0,0,0,0
 u.s. transportation command,2010,DoD,8,12,1,118,258,132,121,398,1,1,1,4
 u.s. transportation command,2011,DoD,17,3,1,114,187,86,49,742,,,,
 u.s. transportation command,2012,DoD,6,14,1,19,105,57,21,543,8,8,8,8
 u.s. transportation command,2013,DoD,7,12,1,20,60,33,23,163,,,,
+united sates department of health and human services,2008,HHS,60,18,1,1643,300,98,1,3211.6,110,15,1,1108
+united sates department of health and human services,2009,HHS,46,19,0,1431,141,107,0,2272,54,37,0,635
+united sates department of health and human services,2010,HHS,32.94,14,0,1401,139.79,122,0,3926,27.25,121,0,416
+united sates department of health and human services,2011,HHS,35,15,less than 1,1305,112,174,less than 1,1760,70,60,3,556
+united sates department of health and human services,2012,HHS,35,8,0,1198,80,42,0,2648,11,60,0,400
+united sates department of health and human services,2013,HHS,29,10,,1260,99,63,,1541,98,30,,512
+united states africa command,2009,DoD,11,6,1,42,35,35,35,35,0,0,0,0
+united states africa command,2010,DoD,,,,,34,34,34,34,,,,
+united states africa command,2011,DoD,17,25,1,50,28,28,27,29,,,,
+united states africa command,2012,DoD,21,16,1,44,103,76,36,427,44,44,44,44
+united states africa command,2013,DoD,35,39,1,68,445,128,29,861,,,,
 united states african development foundation,2010,US ADF,9,8,6,14,0,0,0,0,0,0,0,0
 united states african development foundation,2011,US ADF,4,3,1,9,0,0,0,0,7,7,7,7
 united states african development foundation,2012,US ADF,10,10,7,13,0,0,0,0,3,3,3,3
 united states african development foundation,2013,US ADF,7,6.5,4,11,0,0,0,0,0,0,0,0
+united states agency for international development,2008,USAID,,,,,,,,,,,,
+united states agency for international development,2009,USAID,,,,,,,,,,,,
+united states agency for international development,2010,USAID,84.57,46,less than 1,739,354.98,213.5,3,2084,163.17,134.5,1,344
+united states agency for international development,2011,USAID,147.66,83,less than 1,731,307.42,226,less than 1,1399,139.4,64,12,302
+united states agency for international development,2012,USAID,163.02,73,2,759,280.2,145,less than 1,1500,154.12,59,12,487
+united states agency for international development,2013,USAID,74.83,17,less than 1,789,205.8,101,less than 1,1330,288,295,19,543
+united states central command,2008,DoD,34,19,1,135,138,23,1,819,0,0,0,0
+united states central command,2009,DoD,79,6,1,961,428,394,1,1420,0,0,0,0
+united states central command,2010,DoD,60,43,1,442,365,300,1,828,185,185,1,364
+united states central command,2011,DoD,130,31,1,784,452,351,17,1659,,,,
+united states central command,2012,DoD,97,33,1,1103,152,74,1,1457,0,0,0,0
+united states central command,2013,DoD,5,5,1,18,159,87,1,1418,52,57,13,58
+united states citizenship and immigration services,2008,DHS,230.4,238,1,977,291.8,,1,747,63,27,2,439
+united states citizenship and immigration services,2009,DHS,215.09,198.24,1,1396,319.15,,1,967,67.2,26.46,4,309
+united states citizenship and immigration services,2010,DHS,42.86,35.62,1,886,61.45,62.34,1,640,74.21,22.61,6,497
+united states citizenship and immigration services,2011,DHS,61.41,55,1,737,74.32,69,1,873,44.59,17,6,187
+united states citizenship and immigration services,2012,DHS,86.41,103,1,480,98.5,101,1,579,49.64,23,3,285
+united states citizenship and immigration services,2013,DHS,19.76,15.76,1,397,28.08,25.35,1,531,39.09,23.98,5,219
+united states coast guard,2008,DHS,17,5,1,1064,343,139,1,2860,8,8,1,14
+united states coast guard,2009,DHS,15.23,6,1,411,378.93,195,1,3265,1.78,1,1,8
+united states coast guard,2010,DHS,17.37,9,1,379,76.75,56,1,594,4,4,2,3
+united states coast guard,2011,DHS,11.5,5,1,520,43.8,45,1,695,,,,
+united states coast guard,2012,DHS,10.09,7,1,494,65.31,39,3,491,,,,
+united states coast guard,2013,DHS,10.83,11,1,20,97.29,35,2,983,,,,
+united states commission on civil rights,2010,USCCR,15,7.5,1,161,,,,,,,,
+united states commission on civil rights,2011,USCCR,,,,,40,14,0,742,,,,
+united states commission on civil rights,2012,USCCR,7,1,1,6,22,10,3,63,,,,
+united states commission on civil rights,2013,USCCR,3,1,less than 1,21,14,14,14,14,0,0,0,0
+united states consumer product safety commission,2008,U.S. CPSC,12,10,1,50,85,60,5,780,0,0,0,0
+united states consumer product safety commission,2009,U.S. CPSC,33,17,0,332,68,68,1,368,0,0,0,0
+united states consumer product safety commission,2010,U.S. CPSC,40,19,1,350,87,65,1,617,0,0,0,0
+united states consumer product safety commission,2011,U.S. CPSC,51,9,1,580,97,64,1,632,0,0,0,0
+united states consumer product safety commission,2012,U.S. CPSC,35,8,1,615,102,77,1,644,99,99,99,99
+united states consumer product safety commission,2013,U.S. CPSC,27,11,1,402,96,53,1,1159,,,,
 united states copyright office,2008,CO,14,4,1,194,0,0,0,0,0,0,0,0
 united states copyright office,2009,CO,106,19,2,376,0,0,0,0,0,0,0,0
 united states copyright office,2010,CO,30.3,14,1,243,0,0,0,0,0,0,0,0
 united states copyright office,2011,CO,19.8,20,1,50,0,0,0,0,0,0,0,0
 united states copyright office,2012,CO,18.6,7.5,0,153,0,0,0,0,0,0,0,0
 united states copyright office,2013,CO,13.4,10,1,94,,,,,,,,
+united states customs and border protection,2008,DHS,23.31,9,0,254,101,50,0,832,0,0,0,0
+united states customs and border protection,2009,DHS,38.46,18.57,1,369,91.09,60,1,990,0,0,0,0
+united states customs and border protection,2010,DHS,30.27,24,1,413,41.54,39,1,587,,,,
+united states customs and border protection,2011,DHS,36.49,4,1,261,65.85,60,1,213,2.75,1.5,1,7
+united states customs and border protection,2012,DHS,106.83,118,1,462,84.25,87.5,1,324,1,1,1,1
+united states customs and border protection,2013,DHS,142.02,129,1,544,94.86,66.5,1,509,38.44,23,1,119
+united states department of agriculture,2010,USDA,26.05,23,0,1106,50.43,161,0,1042,19.2,80.5,0,1189
+united states department of agriculture,2011,USDA,19.2235,10.5,0,969,56.8951,22.75,0,1027,3.6305,0,0,94
+united states department of agriculture,2012,USDA,33.12,16,0,954,76.4,25,0,863,34.7,13,1,313
+united states department of agriculture,2013,USDA,15.52,14,1,647,43.29,19,0,1162,16.08,11,1,61
+united states department of commerce,2008,DOC,13,10,1,571,109,69,12,684,7,9,1,24
+united states department of commerce,2009,DOC,15,12,1,256,115,51,10,762,18,20,5,40
+united states department of commerce,2010,DOC,16,20,1,920,30,50,1,709,17,20,2,105
+united states department of commerce,2011,DOC,34,22,1,1142,62,41,7,423,16,20,1,100
+united states department of commerce,2012,DOC,18,13,1,511,76,32,1,628,10,8,1,29
+united states department of commerce,2013,DOC,9,8,1,20,90,43,1,1114,40,14,2,208
+united states department of labor,2008,U.S. DOL,23.25,9,0,360,16.37,13,1,601,16.5,6,0,350
+united states department of labor,2009,U.S. DOL,16.83,8,1,494,42.57,18,1,550,20.08,10,less than 1,248
+united states department of labor,2010,U.S. DOL,11.6,4.5,0,523,27.4,12,0,792,15.1,5.5,0,438
+united states department of labor,2011,U.S. DOL,37.7,5,0,1280,214.9,24.8,0,976,83.2,6.25,0,901
+united states department of labor,2012,U.S. DOL,48,8,0,1970,54.6,12,0,2796,139.9,9,1,1928
+united states department of labor,2013,U.S. DOL,20.4,8,0,1211,28.5,11,0,1735,39.5,7,1,519
+united states department of state,2008,State,118,70,1,736,275,196,5,1900,201,41,3,1509
+united states department of state,2009,State,104,88,2,1556,384,307,2,2383,164,25,21,720
+united states department of state,2010,State,144,142,less than 1,1723,284,228,21,2162,435,280,less than 1,1276
+united states department of state,2011,State,156,150,1,1603,342,279,6,2460,926,49,49,1802
+united states department of state,2012,State,88.51,66.43,less than 1,1589,559.9,450,less than 1,3035,760.44,921.43,46,1559
+united states department of state,2013,State,106,90,less than 1,1631,532.8,373.5,less than 1,2070,405,202,4,1841
+united states department of the air force,2008,DoD,13,12,,,86,17,,,20,44,,
+united states department of the air force,2009,DoD,11,6,1,739,97,35,1,2354,15,12,1,56
+united states department of the air force,2010,DoD,23,11,10,1044,87,36,1,1022,17,11,1,88
+united states department of the air force,2011,DoD,26,10,1,3664,81,36,1,3608,53,8,1,1023
+united states department of the air force,2012,DoD,15,10,1,3022,85,39,1,1398,14,13,1,57
+united states department of the air force,2013,DoD,14,8,1,1031,82,40,1,887,22,11,1,111
+united states department of the army,2008,DoD,36,6,1,1725,41,30,1,1579,21,5,1,290
+united states department of the army,2009,DoD,28,,1,1262,62,,1,1920,13,,1,154
+united states department of the army,2010,DoD,28,,less than 1,1984,54,,less than 1,1633,7,,less than 1,273
+united states department of the army,2011,DoD,14,,less than 1,1551,34,,less than 1,1313,14,,less than 1,524
+united states department of the army,2012,DoD,8,,0,572,48,,0,1641,13,,0,148
+united states department of the army,2013,DoD,6,,less than 1,443,34,,less than 1,1456,13,,less than 1,30
+united states department of the navy,2008,DoD,33,15,1,868,133,26,1,2477,8,2,1,37
+united states department of the navy,2009,DoD,111,275,1,2918,74,40,1,2331,8,6,1,37
+united states department of the navy,2010,DoD,11,10,less than 1,70,137,322,67,560,,,,
+united states department of the navy,2011,DoD,23,11,less than 1,3760,73,23,less than 1,1410,9,10,less than 1,63
+united states department of the navy,2012,DoD,7,7,0,20,60,40,1,1908,2,3,0,90
+united states department of the navy,2013,DoD,7,5,1,20,43,20,1,3089,2,less than 1,less than 1,21
+united states european command,2008,DoD,71,65,3,247,266,254,245,300,0,0,0,0
+united states european command,2009,DoD,91,46,2,406,189,175,65,342,0,0,0,0
+united states european command,2010,DoD,106,56,1,511,442,555,28,839,109,1,less than 1,109
+united states european command,2011,DoD,101,19,1,1271,402,277,4,1074,,,,
+united states european command,2012,DoD,15,7,1,72,314,607,16,812,0,0,0,0
+united states european command,2013,DoD,10,5,1,76,385,168,11,1752,,,,
+united states geological survey,2008,DOI,0,0,0,2,6.38,,0,76,0,0,0,0
+united states geological survey,2009,DOI,1,less than 1,less than 1,2,15.12,,less than 1,166,,,,
+united states geological survey,2010,DOI,,,,,18,15,less than 1,179,,,,
+united states geological survey,2011,DOI,,,,,15,12,less than 1,300,1,1,less than 1,1
+united states geological survey,2012,DOI,1,1,less than 1,1,13,14,less than 1,46,,,,
+united states geological survey,2013,DOI,2,2,less than 1,3,15,8,less than 1,585,,,,
 united states international boundary and water commission,2008,USIBWC,17.38,18.5,2,27,0,0,0,0,0,0,0,0
 united states international boundary and water commission,2009,USIBWC,,,,,,,,,,,,
 united states international boundary and water commission,2010,USIBWC,15.6,17,2,34,0,0,0,0,0,0,0,0
@@ -1975,44 +3221,153 @@ united states international trade commission,2010,USITC,1,17,1,37,0,0,0,0,4,4,4,
 united states international trade commission,2011,USITC,16,15,1,34,0,0,0,0,6,6,6,6
 united states international trade commission,2012,USITC,12,11,1,33,0,0,0,0,3,14,1,30
 united states international trade commission,2013,USITC,10,8,1,20,30,30,30,30,0,0,0,0
+united states joint forces command,2008,DoD,184,108,8,608,31,31,28,41,0,0,0,0
+united states joint forces command,2009,DoD,26,7,1,70,43,42,28,68,0,0,0,0
+united states joint forces command,2010,DoD,181,87,1,607,444,437,10,1119,,,,
+united states joint forces command,2011,DoD,21,12,1,78,372,58,7,3572,,,,
 united states marshals service,2008,DOJ,13.6,3,1,316,84.7,78.5,17,187,,,3,3
 united states marshals service,2009,DOJ,14,5,1,321,110.7,89.5,14,426,9,8,3,15
 united states marshals service,2010,DOJ,10.46,2,less than 1,219,23.27,22,1,59,3.67,3,1,8
 united states marshals service,2011,DOJ,9.75,1,less than 1,288,66,90,2,106,9.5,9.5,9,10
 united states marshals service,2012,DOJ,11.05,2,less than 1,207,38.5,38.5,24,53,120,120,120,120
 united states marshals service,2013,DOJ,77,3,less than 1,688,123.25,85.5,16,374,28.5,28.5,16,41
+united states merit systems protection board,2008,MSPB,9.2,11,less than 1,25,47.5,40,30,180,0,0,0,0
+united states merit systems protection board,2009,MSPB,15,7,less than 1,93,0,0,0,0,0,0,0,0
+united states merit systems protection board,2010,MSPB,17,8,less than 1,85,0,0,0,0,0,0,0,0
+united states merit systems protection board,2011,MSPB,9,17,0,35,42,42,4,81,,,,
+united states merit systems protection board,2012,MSPB,10,18,0,38,0,0,0,0,8,8,8,8
+united states merit systems protection board,2013,MSPB,22.3,13,less than 1,440,67.92,55,31,150,,,,
 united states mint,2008,Treasury,0,0,0,0,13.3,11,1,60,0,0,0,0
 united states mint,2009,Treasury,0,0,0,0,12.9,35,1,71,29,29,5,53
 united states mint,2010,Treasury,,,,,10,8,1,20,3,3,1,5
 united states mint,2011,Treasury,10,8,1,10,,,,,,,,
 united states mint,2012,Treasury,10,8,1,20,0,0,0,0,0,0,0,0
 united states mint,2013,Treasury,9.3,6,less than 1,20,,,,,5,5,5,5
+united states national central bureau -- interpol,2008,DOJ,2.27,2,1,13,23.16,23,23,24,9.79,12,1,23
+united states national central bureau -- interpol,2009,DOJ,4,2,less than 1,30,14,9,5,33,2,2,less than 1,3
+united states national central bureau -- interpol,2010,DOJ,20.48,5,1,118,68.86,46.5,1,207,,,,
+united states national central bureau -- interpol,2011,DOJ,16.87,7.5,less than 1,200,137.57,113.5,5,390,,,,
+united states national central bureau -- interpol,2012,DOJ,27.14,12,less than 1,289,119.17,100.5,54,299,11,11,4,18
+united states national central bureau -- interpol,2013,DOJ,7.99,2,less than 1,450,30.78,5,less than 1,220,4.17,3,2,10
+united states northern command,2008,DoD,11,13,1,24,0,0,0,0,0,0,0,0
+united states northern command,2009,DoD,8,8,1,19,6,6,5,8,0,0,0,0
+united states northern command,2010,DoD,12,17,1,39,,,,,,,,
+united states northern command,2011,DoD,20,17,3,120,,,,,,,,
+united states northern command,2012,DoD,30,26,1,167,0,0,0,0,0,0,0,0
+united states northern command,2013,DoD,8,19,1,21,218,89,23,973,,,,
+united states nuclear regulatory commission,2008,USNRC,15,11,less than 1,136,56,49,less than 1,178,0,0,0,0
+united states nuclear regulatory commission,2009,USNRC,14,11,less than 1,113,45,43,3,156,0,0,0,0
+united states nuclear regulatory commission,2010,USNRC,11,9,less than 1,70,53,43,less than 1,219,0,0,0,0
+united states nuclear regulatory commission,2011,USNRC,11,9,less than 1,63,46,32,1,290,6,6,6,6
+united states nuclear regulatory commission,2012,USNRC,10,7,less than 1,129,51,20,less than 1,437,135,23,15,366
+united states nuclear regulatory commission,2013,USNRC,12,9,less than 1,93,82,21,less than 1,617,391,391,391,391
+united states office of government ethics,2008,OGE,11,12.5,1,30,,,,,,,,
+united states office of government ethics,2009,OGE,12.4,13,less than 1,30,,,,,9,9,9,9
+united states office of government ethics,2010,OGE,13.02,13.5,1,173,0,0,0,0,0,0,0,0
+united states office of government ethics,2011,OGE,12.097,9.5,1,54,0,0,0,0,8,8,8,8
+united states office of government ethics,2012,OGE,10.959,9,1,43,0,0,0,0,0,0,0,0
+united states office of government ethics,2013,OGE,8.6,7,1,30,0,0,0,0,0,0,0,0
+united states office of personnel management,2008,OPM,0,0,0,0,51,1,1,3510,0,0,0,0
+united states office of personnel management,2009,OPM,,,,,37,64,1,2666,51,60,24,60
+united states office of personnel management,2010,OPM,,,,,72,618,1,388,5,6,1,9
+united states office of personnel management,2011,OPM,,,,,44,34,1,435,41,42,1,133
+united states office of personnel management,2012,OPM,16,7,1,1359,102,121,1,867,81,27,1,479
+united states office of personnel management,2013,OPM,22,2,1,406,41,35,1,791,37,17,3,398
+united states pacific command,2008,DoD,138,0,1,1724,489,0,2,2694,11,0,11,12
+united states pacific command,2009,DoD,15,64,1,100,365,92,1,3665,1,1,1,1
+united states pacific command,2010,DoD,3,2,less than 1,7,422,88,1,3757,184,81,16,346
+united states pacific command,2011,DoD,1,1,1,1,144,25,1,2035,,,,
+united states pacific command,2012,DoD,1,1,1,2,116,73,8,2151,0,0,0,0
+united states pacific command,2013,DoD,8,8,1,17,109,68,21,495,,,,
 united states parole commission,2008,DOJ,,,,,24,1,less than 1,1002,,,,
 united states parole commission,2009,DOJ,9,2,1,299,186,214,1,505,,,,
 united states parole commission,2010,DOJ,14.76,3,less than 1,316,109.86,48,less than 1,378,,,,
 united states parole commission,2011,DOJ,8.25,2,less than 1,285,72.28,39,less than 1,349,,,,
 united states parole commission,2012,DOJ,8.08,1.5,less than 1,272,38.92,13,less than 1,434,,,,
 united states parole commission,2013,DOJ,11.12,3,less than 1,124,39.06,25,less than 1,393,,,,
+united states patent and trademark office,2008,DOC,11,9,1,318,0,0,0,0,20,20,20,20
+united states patent and trademark office,2009,DOC,7,5,0,58,0,0,0,0,0,0,0,0
+united states patent and trademark office,2010,DOC,8,8,1,30,0,0,0,0,0,0,0,0
+united states patent and trademark office,2011,DOC,9.59,9,1,30,0,0,0,0,0,0,0,0
+united states patent and trademark office,2012,DOC,11,11,1,29,0,0,0,0,0,0,0,0
+united states patent and trademark office,2013,DOC,13,14,1,20,28,25,21,60,0,0,0,0
 united states postal service,2010,USPS,17,7,less than 1,524,46,25,less than 1,495,6.25,6.5,4,8
 united states postal service,2011,USPS,11.44,5,0,888,43.13,21,0,573,14.33,9.5,0,34
 united states postal service,2012,USPS,15.06,7,0,335,44.06,23.5,1,476,1,1,1,1
 united states postal service,2013,USPS,13.63,6,less than 1,504,49.62,23,less than 1,1059,8,4,1,24
+united states railroad retirement board,2008,US RRB,12.9,15,1,25,0,0,0,0,0,0,0,0
+united states railroad retirement board,2009,US RRB,160.18,26,1,997,0,0,0,0,0,0,0,0
+united states railroad retirement board,2010,US RRB,12.14,12,1,24,0,0,0,0,0,0,0,0
+united states railroad retirement board,2011,US RRB,22.06,18,1,215,0,0,0,0,0,0,0,0
+united states railroad retirement board,2012,US RRB,34.73,22,0,215,0,0,0,0,0,0,0,0
+united states railroad retirement board,2013,US RRB,13.63,18,1,26,,,,,,,,
 united states secret service,2008,DHS,31.16,33,2,60,309.44,162,61,1566,0,0,0,0
 united states secret service,2009,DHS,38.66,36,21,59,299.37,208,61,1204,0,0,0,0
 united states secret service,2010,DHS,13.95,14,3,20,196.9,47,21,1965,,,,
 united states secret service,2011,DHS,14.28,14,1,20,250.9,80,21,1529,76,76,76,76
 united states secret service,2012,DHS,17.75,19,3,20,129.87,44,21,1648,324.5,235.5,14,813
 united states secret service,2013,DHS,10.79,11,1,20,223.4,92,21,1510,,,,
+"united states section, international boundary and water commission",2008,USIBWC,17.38,18.5,2,27,0,0,0,0,0,0,0,0
+"united states section, international boundary and water commission",2009,USIBWC,,,,,,,,,,,,
+"united states section, international boundary and water commission",2010,USIBWC,15.6,17,2,34,0,0,0,0,0,0,0,0
+"united states section, international boundary and water commission",2011,USIBWC,0,0,0,0,27.3,29,12,71,4.4,4,1,7
+"united states section, international boundary and water commission",2012,USIBWC,5.6,5,1,12,31.9,30,14,62,0,0,0,0
+"united states section, international boundary and water commission",2013,USIBWC,14.6,19,1,27,64,54,42,110,,,,
+united states securities and exchange commission,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
+united states securities and exchange commission,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
+united states securities and exchange commission,2010,SEC,18.38,7,0,411,553.33,563.5,3,1015,49,49,15,83
+united states securities and exchange commission,2011,SEC,11,4,less than 1,427,164,1,less than 1,1242,36,8,4,138
+united states securities and exchange commission,2012,SEC,14,6,less than 1,399,325,147,1,776,13,6,1,81
+united states securities and exchange commission,2013,SEC,14.51,5,less than 1,786,514,645,less than 1,803,58.15,40,2,344
+united states small business administration,2008,SBA,13.7,6,1,318,0,0,0,0,0,0,0,0
+united states small business administration,2009,SBA,11.67,8,less than 1,427,,,,,4.5,4.5,2,7
+united states small business administration,2010,SBA,12,7,less than 1,297,,,,,,,,
+united states small business administration,2011,SBA,5.61,2,less than 1,424,35.5,47,less than 1,47,10.83,12.5,less than 1,15
+united states small business administration,2012,SBA,4.2,2,less than 1,222,,,,,,,,
+united states small business administration,2013,SBA,6.5,5,less than 1,97,,,,,,,,
+united states southern command,2008,DoD,163,140,15,420,0,0,0,0,0,0,0,0
+united states southern command,2009,DoD,7,6,2,15,339,115,37,981,0,0,0,0
+united states southern command,2010,DoD,13,9,4,17,,,,,,,,
+united states southern command,2011,DoD,15,11,6,19,102,93,31,409,,,,
+united states southern command,2012,DoD,3,9,1,15,167,104,45,643,0,0,0,0
+united states southern command,2013,DoD,10,21,4,28,202,145,53,695,,,,
+united states special operations command,2008,DoD,162,6,1,1553,598,305,2,2797,523,539,484,545
+united states special operations command,2009,DoD,293,14,1,1236,418,397,1,2342,1120,934,919,1507
+united states special operations command,2010,DoD,60,2,1,1054,438,82,1,2423,970,970,970,970
+united states special operations command,2011,DoD,134,7,1,1493,345,64,1,2088,,,,
+united states special operations command,2012,DoD,5,3,1,20,317,122,2,4099,0,0,0,0
+united states special operations command,2013,DoD,15,16,1,83,308,94,1,2517,,,,
+united states strategic command,2008,DoD,14,13,1,49,38,29,5,92,13,5,5,29
+united states strategic command,2009,DoD,9,7,1,25,27,30,5,49,0,0,0,0
+united states strategic command,2010,DoD,14,9,1,63,71,54,38,147,,,,
+united states strategic command,2011,DoD,38,13,less than 1,496,566,202,47,3816,,,,
+united states strategic command,2012,DoD,10,8,0,37,31,56,7,144,0,0,0,0
+united states strategic command,2013,DoD,5,3,less than 1,16,68,48,26,135,,,,
 united states trade and development agency,2010,USTDA,0,0,0,0,105,60,2,303,0,0,0,0
 united states trade and development agency,2011,USTDA,0,0,0,0,155.3,48,1,539,62.5,62.5,16,109
 united states trade and development agency,2012,USTDA,0,0,0,0,20.6,13,7,84,0,0,0,0
 united states trade and development agency,2013,USTDA,,,,,15.75,10,5,44,,,,
+united states transportation command,2008,DoD,8,7,1,24,51,43,29,138,0,0,0,0
+united states transportation command,2009,DoD,16,2,1,32,102,55,39,144,0,0,0,0
+united states transportation command,2010,DoD,8,12,1,118,258,132,121,398,1,1,1,4
+united states transportation command,2011,DoD,17,3,1,114,187,86,49,742,,,,
+united states transportation command,2012,DoD,6,14,1,19,105,57,21,543,8,8,8,8
+united states transportation command,2013,DoD,7,12,1,20,60,33,23,163,,,,
+united states visitor and immigrant status indicator technology,2008,DHS,11.12,10,1,103,32,17,1,96,0,0,0,0
+united states visitor and immigrant status indicator technology,2009,DHS,32.86,5,less than 1,224,19,11,11,35,0,0,0,0
+united states visitor and immigrant status indicator technology,2010,DHS,23.8,27,1,176,81.29,68,63,117,,,,
+united states visitor and immigrant status indicator technology,2011,DHS,10,9,1,293,76,29,11,251,,,,
+usps general counsel,2011,USPS,,,,,,,,,,,,
+veterans affairs central office,2008,VA,,,,,,,,,,,,
+veterans affairs central office,2009,VA,,,,,,,,,,,,
 veterans benefits administration,2008,VA,0,0,0,0,29,10.5,1,2104,1,1,1,72
 veterans benefits administration,2009,VA,,,,,30,397,1,793,5,5,3,18
 veterans benefits administration,2010,VA,,,,,19.96,7,less than 1,397,36.88,13.5,less than 1,121
 veterans benefits administration,2011,VA,less than 1,less than 1,less than 1,less than 1,25.86,7,less than 1,1748,less than 1,less than 1,less than 1,less than 1
 veterans benefits administration,2012,VA,34.71,29,less than 1,115,41.32,26,less than 1,486,246.33,345,1,393
 veterans benefits administration,2013,VA,46.56,22,less than 1,254,58.77,33,less than 1,778,17.5,8.5,1,52
+veterans canteen service vaco,2008,VA,0,0,0,0,0,0,0,0,0,0,0,0
+veterans canteen service vaco,2009,VA,,,,,0,0,0,0,0,0,0,0
 veterans health administration,2008,VA,0,0,0,0,10,2,1,1073,1,1,1,107
 veterans health administration,2009,VA,,,,,10,2,1,360,1,1,1,136
 veterans health administration,2010,VA,,,,,10.12,2,less than 1,379,7.5,1.5,less than 1,72
@@ -2025,6 +3380,12 @@ veterans' employment & training service,2010,U.S. DOL,13.1,14,1,28,26.34,12,1,25
 veterans' employment & training service,2011,U.S. DOL,12.3,12,1,28,53.7,13,1,495,8,8,4,12
 veterans' employment & training service,2012,U.S. DOL,811.9,793,2,1970,60.3,26,1,1888,7.5,7.5,7,8
 veterans' employment & training service,2013,U.S. DOL,65.2,48,1,276,62.1,28,1,359,59.3,5,1,226
+veterans' employment and training service,2008,U.S. DOL,11.06,10,1,32,28.7,40,2,127,10.2,5.5,1,15
+veterans' employment and training service,2009,U.S. DOL,10.9,10,1,63,14,10,7,23,6,5,1,20
+veterans' employment and training service,2010,U.S. DOL,13.1,14,1,28,26.34,12,1,252,4.4,5,1,45
+veterans' employment and training service,2011,U.S. DOL,12.3,12,1,28,53.7,13,1,495,8,8,4,12
+veterans' employment and training service,2012,U.S. DOL,811.9,793,2,1970,60.3,26,1,1888,7.5,7.5,7,8
+veterans' employment and training service,2013,U.S. DOL,65.2,48,1,276,62.1,28,1,359,59.3,5,1,226
 wage and hour division,2009,U.S. DOL,19,8,1,50,53,24,1,213,4,2,1,11
 wage and hour division,2010,U.S. DOL,17.7,10,1,523,37.6,27,0,273,8.6,6,1,41
 wage and hour division,2011,U.S. DOL,25.4,15,0,230,42.7,26,1,491,14,12,1,47
