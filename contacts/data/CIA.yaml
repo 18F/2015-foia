@@ -9,6 +9,9 @@ departments:
   name: Central Intelligence Agency
   phone: 703-613-1287
   public_liaison: 'Scott Koch, Michele Meeks, Phone: (703) 613-1287'
+  reading_rooms:
+  - - Freedom of Information Act Electronic Reading Room
+    - http://www.foia.cia.gov/
   request_form: http://www.foia.cia.gov/foia_request/form
   request_time_stats:
     '2009':
