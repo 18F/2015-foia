@@ -26,10 +26,18 @@ def get_base_url(url):
     return domain
 
 
+def get_second_level_domain(link):
+    """ Given a URL, return the second level domain.  """
+    return '.'.join(link.split('.')[-2:])
+
+
 def domains_match(website_url, reading_room_url):
-    website_parsed = urlparse(website_url)
-    reading_room_parsed = urlparse(reading_room_url)
-    return website_parsed.netloc == reading_room_parsed.netloc
+    website_url = urlparse(website_url).netloc
+    reading_room_url = urlparse(reading_room_url).netloc
+
+    website_second_level = get_second_level_domain(website_url)
+    reading_room_second_level = get_second_level_domain(reading_room_url)
+    return website_second_level == reading_room_second_level
 
 
 def clean_link_text(link_text):
@@ -49,6 +57,16 @@ def get_absolute_url(link, url):
         if domains_match(url, href):
             return [clean_link_text(link.text), href]
 
+
+def get_redirect_location(response):
+    """ If the response from requests indicates a redirect, return the
+    destination URL"""
+
+    if len(response.history) > 0:
+        if response.history[0].status_code in [301, 302]:
+            return response.history[0].headers['Location']
+
+
 def unique_links(links):
     """ We sometimes get the same URI with different link texts. Squash those.
     """
@@ -57,10 +75,9 @@ def unique_links(links):
     for l in links:
         try:
             response = requests.get(l[1], verify=False)
-            if len(response.history) > 0:
-                if response.history[0].status_code == 301:
-                    redirected.append(
-                        [l[0], response.history[0].headers['Location']])
+            redirect_location = get_redirect_location(response)
+            if redirect_location:
+                redirected.append([l[0], redirect_location])
             else:
                 redirected.append(l)
         except requests.exceptions.ConnectionError:
@@ -171,6 +188,7 @@ if __name__ == "__main__":
         agency_abbr = sys.argv[1]
 
     if agency_abbr:
-        reading_room(agency_abbr)
+        agency_data = reading_room(agency_abbr)
+        save_agency_data(agency_abbr, agency_data)
     else:
         all_reading_rooms()
