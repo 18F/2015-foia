@@ -17,6 +17,85 @@ departments:
   - - Virtual Reading Room Search
     - http://foia.state.gov/Search/Search.aspx
   request_form: http://foia.state.gov/Request/Submit.aspx
+  request_time_stats:
+    '2008':
+      complex_average_days: '275'
+      complex_highest_days: '1900'
+      complex_lowest_days: '5'
+      complex_median_days: '196'
+      expedited_processing_average_days: '201'
+      expedited_processing_highest_days: '1509'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '41'
+      simple_average_days: '118'
+      simple_highest_days: '736'
+      simple_lowest_days: '1'
+      simple_median_days: '70'
+    '2009':
+      complex_average_days: '384'
+      complex_highest_days: '2383'
+      complex_lowest_days: '2'
+      complex_median_days: '307'
+      expedited_processing_average_days: '164'
+      expedited_processing_highest_days: '720'
+      expedited_processing_lowest_days: '21'
+      expedited_processing_median_days: '25'
+      simple_average_days: '104'
+      simple_highest_days: '1556'
+      simple_lowest_days: '2'
+      simple_median_days: '88'
+    '2010':
+      complex_average_days: '284'
+      complex_highest_days: '2162'
+      complex_lowest_days: '21'
+      complex_median_days: '228'
+      expedited_processing_average_days: '435'
+      expedited_processing_highest_days: '1276'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '280'
+      simple_average_days: '144'
+      simple_highest_days: '1723'
+      simple_lowest_days: less than 1
+      simple_median_days: '142'
+    '2011':
+      complex_average_days: '342'
+      complex_highest_days: '2460'
+      complex_lowest_days: '6'
+      complex_median_days: '279'
+      expedited_processing_average_days: '926'
+      expedited_processing_highest_days: '1802'
+      expedited_processing_lowest_days: '49'
+      expedited_processing_median_days: '49'
+      simple_average_days: '156'
+      simple_highest_days: '1603'
+      simple_lowest_days: '1'
+      simple_median_days: '150'
+    '2012':
+      complex_average_days: '559.9'
+      complex_highest_days: '3035'
+      complex_lowest_days: less than 1
+      complex_median_days: '450'
+      expedited_processing_average_days: '760.44'
+      expedited_processing_highest_days: '1559'
+      expedited_processing_lowest_days: '46'
+      expedited_processing_median_days: '921.43'
+      simple_average_days: '88.51'
+      simple_highest_days: '1589'
+      simple_lowest_days: less than 1
+      simple_median_days: '66.43'
+    '2013':
+      complex_average_days: '532.8'
+      complex_highest_days: '2070'
+      complex_lowest_days: less than 1
+      complex_median_days: '373.5'
+      expedited_processing_average_days: '405'
+      expedited_processing_highest_days: '1841'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '202'
+      simple_average_days: '106'
+      simple_highest_days: '1631'
+      simple_lowest_days: less than 1
+      simple_median_days: '90'
   service_center: 'Phone: (202) 261-8484'
   top_level: false
   website: http://foia.state.gov/
@@ -173,16 +252,16 @@ request_time_stats:
   '2008':
     complex_average_days: '275'
     complex_highest_days: '1900'
-    complex_lowest_days: '5'
+    complex_lowest_days: '0'
     complex_median_days: '196'
     expedited_processing_average_days: '201'
     expedited_processing_highest_days: '1509'
-    expedited_processing_lowest_days: '3'
+    expedited_processing_lowest_days: '1'
     expedited_processing_median_days: '41'
-    simple_average_days: '118'
+    simple_average_days: '115'
     simple_highest_days: '736'
     simple_lowest_days: '1'
-    simple_median_days: '70'
+    simple_median_days: '68'
   '2009':
     complex_average_days: '384'
     complex_highest_days: '2383'
@@ -192,10 +271,10 @@ request_time_stats:
     expedited_processing_highest_days: '720'
     expedited_processing_lowest_days: '21'
     expedited_processing_median_days: '25'
-    simple_average_days: '104'
+    simple_average_days: '103'
     simple_highest_days: '1556'
-    simple_lowest_days: '2'
-    simple_median_days: '88'
+    simple_lowest_days: '1'
+    simple_median_days: '87'
   '2010':
     complex_average_days: '284'
     complex_highest_days: '2162'
@@ -218,7 +297,7 @@ request_time_stats:
     expedited_processing_highest_days: '1802'
     expedited_processing_lowest_days: '49'
     expedited_processing_median_days: '49'
-    simple_average_days: '156'
+    simple_average_days: '155'
     simple_highest_days: '1603'
     simple_lowest_days: '1'
     simple_median_days: '150'
@@ -231,10 +310,10 @@ request_time_stats:
     expedited_processing_highest_days: '1559'
     expedited_processing_lowest_days: '46'
     expedited_processing_median_days: '921.43'
-    simple_average_days: '88.51'
+    simple_average_days: '88'
     simple_highest_days: '1589'
     simple_lowest_days: less than 1
-    simple_median_days: '66.43'
+    simple_median_days: '66'
   '2013':
     complex_average_days: '532.8'
     complex_highest_days: '2070'

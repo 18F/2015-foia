@@ -16,6 +16,59 @@ departments:
   reading_rooms:
   - - FOIA Reading Room, Frequently Requested Records
     - http://arts.gov/foia/reading-room
+  request_time_stats:
+    '2010':
+      complex_average_days: '34.9'
+      complex_highest_days: '120'
+      complex_lowest_days: '12'
+      complex_median_days: '24.5'
+      expedited_processing_average_days: '2.7'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '18.4'
+      simple_highest_days: '655'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2011':
+      complex_average_days: '130.4'
+      complex_highest_days: '368'
+      complex_lowest_days: '3'
+      complex_median_days: '36'
+      expedited_processing_average_days: '19.9'
+      expedited_processing_highest_days: '79'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '10.5'
+      simple_average_days: '30.2'
+      simple_highest_days: '815'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2012':
+      complex_average_days: '148'
+      complex_highest_days: '331'
+      complex_lowest_days: '48'
+      complex_median_days: '68'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '71'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '9'
+      simple_average_days: '14'
+      simple_highest_days: '43'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+    '2013':
+      complex_average_days: '25'
+      complex_highest_days: '466'
+      complex_lowest_days: '17'
+      complex_median_days: '253'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11.5'
+      simple_average_days: '27'
+      simple_highest_days: '301'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
   service_center: 'Phone: (202) 682-5418'
   top_level: false
   website: http://www.arts.gov/about/FOIA/index.html

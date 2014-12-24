@@ -79,7 +79,7 @@ def append_time_stats(yaml_data, data, yaml_key, year):
     return yaml_data
 
 
-def patch_yamls(data):
+def patch_yamls(data, fill_top_level=True):
     """ Patches yaml files with average times """
 
     years = get_years()
@@ -91,17 +91,17 @@ def patch_yamls(data):
             year = "_%s" % year
             agency_key = yaml_data['name'] + short_filename + year
             agency_key = agency_key.lower()
-            if agency_key in data.keys():
-                yaml_data = append_time_stats(
-                    yaml_data, data, agency_key, year)
-                del data[agency_key]
-            for internal_data in yaml_data['departments']:
-                office_key = internal_data['name'] + short_filename + year
-                office_key = office_key.lower()
-                if office_key in data.keys():
-                    internal_data = append_time_stats(
-                        internal_data, data, office_key, year)
-                    del data[office_key]
+            if fill_top_level:
+                if agency_key in data.keys():
+                    yaml_data = append_time_stats(
+                        yaml_data, data, agency_key, year)
+            if not fill_top_level:
+                for internal_data in yaml_data['departments']:
+                    office_key = internal_data['name'] + short_filename + year
+                    office_key = office_key.lower()
+                    if office_key in data.keys():
+                        internal_data = append_time_stats(
+                            internal_data, data, office_key, year)
 
         with open(filename, 'w') as f:
             f.write(yaml.dump(
@@ -134,15 +134,24 @@ def get_row_data(key, row_data, column_names):
     return data
 
 
-def write_csv(data):
+def write_csv(data, top_level=False):
     """ Writes data to csv """
 
+    if top_level:
+        status = 'w'
+        level = 'agency'
+    else:
+        status = 'a'
+        level = 'office'
+
     column_names = make_column_names()
-    with open('request_time_data.csv', 'w', newline='') as csvfile:
+    with open('request_time_data.csv', status, newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['name'] + column_names)
+        writer.writerow(['name'] + column_names + ['level'])
         for key in sorted(data.keys()):
-            writer.writerow(get_row_data(key, data[key], column_names))
+            writing_data = get_row_data(key, data[key], column_names)
+            writing_data.append(level)
+            writer.writerow(writing_data)
 
 
 def clean_html(html_text):
@@ -246,17 +255,23 @@ def scrape_times():
 
     url = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
     params = {"advanceSearch": "71001.gt.-999999"}
-    data = {}
-    data = all_years(url, params, data)
+    top_level_data = {}
+    top_level_data = all_years(url, params, top_level_data)
+    agencies = set([value['agency'] for value in top_level_data.values()])
     logging.info("compelete: %s", params.get('agencyName', "all"))
-    agencies = set([value['agency'] for value in data.values()])
+
+    dept_level_data = {}
     for agency in agencies:
         params["agencyName"] = agency
-        data = all_years(url, params, data)
+        dept_level_data = all_years(url, params, dept_level_data)
         logging.info("compelete: %s", params.get('agencyName', "all"))
-    data = apply_mapping(data)
-    write_csv(data)
-    patch_yamls(data)
+
+    write_csv(top_level_data, top_level=True)
+    write_csv(dept_level_data, top_level=False)
+    top_level_data = apply_mapping(top_level_data)
+    patch_yamls(top_level_data, fill_top_level=True)
+    dept_level_data = apply_mapping(dept_level_data)
+    patch_yamls(dept_level_data, fill_top_level=False)
 
 
 if __name__ == "__main__":

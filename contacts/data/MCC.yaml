@@ -11,6 +11,51 @@ departments:
   name: Millennium Challenge Corporation
   phone: 202-521-3863
   public_liaison: 'John Mantini, Phone: (202) 521-3863'
+  request_time_stats:
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '17'
+      simple_highest_days: '259'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '15'
+      simple_highest_days: '21'
+      simple_lowest_days: '3'
+      simple_median_days: '17'
+    '2013':
+      simple_average_days: '17'
+      simple_highest_days: '55'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
   service_center: 'John Mantini, Phone: (202) 521-3863'
   top_level: false
   website: http://www.mcc.gov/pages/foia
