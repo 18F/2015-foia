@@ -13,6 +13,7 @@ import yaml
     the data in both the yaml files and `request_time_data.csv`."""
 
 PROCESSING_TIMES_URL = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
+YEARS_URL = 'http://www.foia.gov/data.html'
 
 def load_mapping():
     """
@@ -221,11 +222,14 @@ def parse_html(html, params, data):
     return data
 
 
-def get_years():
+def get_years(html=None):
     """ Gets year data by scraping the data page """
 
-    r = requests.get('http://www.foia.gov/data.html')
-    soup = BeautifulSoup(r.text)
+    if html is None:
+        r = requests.get(YEARS_URL)
+        html = r.text
+
+    soup = BeautifulSoup(html)
     boxes = soup.findAll("input", {"type": "checkbox"})
     years = []
     for box in boxes:

@@ -15,10 +15,8 @@ import processing_time_scraper
 # HTTP requests are mocked out with vcrpy and requests
 import vcr
 import requests
-
 my_vcr = vcr.VCR(
-    cassette_library_dir = 'tests/fixtures/cassettes',
-    record_mode = 'once'
+    cassette_library_dir = 'tests/fixtures/cassettes'
 )
 
 
@@ -650,7 +648,7 @@ class ProcessingTimeScaperTests(TestCase):
         params['requestYear'] = '2012'
         params['agencyName'] = 'FRTIB'
 
-        with vcr.use_cassette('tests/fixtures/cassettes/foia-gov-2012-FRTIB.yaml'):
+        with my_vcr.use_cassette('foia-gov-2012-FRTIB.yaml'):
             response = requests.get(processing_time_scraper.PROCESSING_TIMES_URL, params=params)
             html = response.text
             data = processing_time_scraper.parse_html(html, params, {})
@@ -660,7 +658,7 @@ class ProcessingTimeScaperTests(TestCase):
         params['requestYear'] = '2008'
         params['agencyName'] = 'RATB'
 
-        with vcr.use_cassette('tests/fixtures/cassettes/foia-gov-2008-RATB.yaml'):
+        with my_vcr.use_cassette('foia-gov-2008-RATB.yaml'):
             response = requests.get(processing_time_scraper.PROCESSING_TIMES_URL, params=params)
             html = response.text
             data = processing_time_scraper.parse_html(html, params, {})
@@ -703,9 +701,12 @@ class ProcessingTimeScaperTests(TestCase):
     def test_get_years(self):
         """ Verify that the correct years are retrieved """
 
-        years = processing_time_scraper.get_years()
-        years = sorted(years)
-        self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
+        with my_vcr.use_cassette("foia-gov-years.yaml"):
+            response = requests.get(processing_time_scraper.YEARS_URL)
+            html = response.text
+            years = processing_time_scraper.get_years(html)
+            years = sorted(years)
+            self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
 
     def test_clean_names(self):
         '''Should replace `-`, ` `, and `No. of` with underscores and
