@@ -12,6 +12,15 @@ import layer_with_usa_contacts as usa_layer
 
 import processing_time_scraper
 
+# HTTP requests are mocked out with vcrpy and requests
+import vcr
+import requests
+
+my_vcr = vcr.VCR(
+    cassette_library_dir = 'tests/fixtures/cassettes',
+    record_mode = 'once'
+)
+
 
 class ScraperTests(TestCase):
 
@@ -189,7 +198,9 @@ class ScraperTests(TestCase):
         scraper.save_agency_data(
             'TEST', {'name': 'Test Agency'}, data_directory='/tmp/test/')
         self.assertTrue(os.path.isfile('/tmp/test/TEST.yaml'))
-        test_data = yaml.load(open('/tmp/test/TEST.yaml', 'r'))
+        f = open('/tmp/test/TEST.yaml', 'r')
+        test_data = yaml.load(f)
+        f.close()
         self.assertEqual({'name': 'Test Agency'}, test_data)
 
     def test_agency_description(self):
@@ -611,6 +622,7 @@ class USALayerTests(TestCase):
 
 
 class ProcessingTimeScaperTests(TestCase):
+
     def test_parse_html(self):
         """ Parses data tables from foia.gov and return data """
 
@@ -637,15 +649,22 @@ class ProcessingTimeScaperTests(TestCase):
         params = {"advanceSearch": "71001.gt.-999999"}
         params['requestYear'] = '2012'
         params['agencyName'] = 'FRTIB'
-        data = processing_time_scraper.parse_html(testurl, params, {})
-        print(data)
-        self.assertEqual(expected_data, data)
+
+        with vcr.use_cassette('tests/fixtures/cassettes/foia-gov-2012-FRTIB.yaml'):
+            response = requests.get(processing_time_scraper.PROCESSING_TIMES_URL, params=params)
+            html = response.text
+            data = processing_time_scraper.parse_html(html, params, {})
+            self.assertEqual(expected_data, data)
 
         # Won't break with empty tables
         params['requestYear'] = '2008'
         params['agencyName'] = 'RATB'
-        data = processing_time_scraper.parse_html(testurl, params, {})
-        self.assertEqual({}, data)
+
+        with vcr.use_cassette('tests/fixtures/cassettes/foia-gov-2008-RATB.yaml'):
+            response = requests.get(processing_time_scraper.PROCESSING_TIMES_URL, params=params)
+            html = response.text
+            data = processing_time_scraper.parse_html(html, params, {})
+            self.assertEqual({}, data)
 
     def test_get_key_values(self):
         """ Should convert a row in header into a unique key """
