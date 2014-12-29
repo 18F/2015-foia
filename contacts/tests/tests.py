@@ -751,7 +751,12 @@ class ProcessingTimeScaperTests(TestCase):
         Test if mapping data is loaded properly
         """
 
-        mapping = processing_time_scraper.load_mapping()
+        with my_vcr.use_cassette("foia-gov-years.yaml"):
+            response = requests.get(processing_time_scraper.YEARS_URL)
+            html = response.text
+            years = processing_time_scraper.get_years(html)
+
+        mapping = processing_time_scraper.load_mapping(years)
 
         # Check simple mapping (spelling error on foia.gov data)
         foia_data_key = 'bureau of alcohal, tobacco, ' + \
@@ -779,10 +784,17 @@ class ProcessingTimeScaperTests(TestCase):
         yaml keys
         """
 
+        with my_vcr.use_cassette("foia-gov-years.yaml"):
+            response = requests.get(processing_time_scraper.YEARS_URL)
+            html = response.text
+            years = processing_time_scraper.get_years(html)
+
+        mapping = processing_time_scraper.load_mapping(years)
+
         # Check if items without mapping pass through without change
         foia_data_key = 'non_mapped_office_2013'
         test_data = {foia_data_key: {'simple_median_days': 3}}
-        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data, mapping)
         self.assertEqual(
             mapped_test_data[foia_data_key], test_data[foia_data_key])
 
@@ -792,7 +804,7 @@ class ProcessingTimeScaperTests(TestCase):
         yaml_key = 'bureau of alcohol, tobacco, firearms,' + \
             ' and explosives_doj_2013'
         test_data = {foia_data_key: {'simple_median_days': 3}}
-        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data, mapping)
         self.assertEqual(
             mapped_test_data[yaml_key], test_data[foia_data_key])
 
@@ -805,8 +817,8 @@ class ProcessingTimeScaperTests(TestCase):
             'information and technology_va_2008'
         test_data_1 = {foia_data_key_1: {'simple_median_days': 10}}
         test_data_2 = {foia_data_key_2: {'simple_median_days': 50}}
-        mapped_test_data_1 = processing_time_scraper.apply_mapping(test_data_1)
-        mapped_test_data_2 = processing_time_scraper.apply_mapping(test_data_2)
+        mapped_test_data_1 = processing_time_scraper.apply_mapping(test_data_1, mapping)
+        mapped_test_data_2 = processing_time_scraper.apply_mapping(test_data_2, mapping)
 
         self.assertEqual(
             mapped_test_data_1[yaml_key_1], test_data_1[foia_data_key_1])
@@ -818,7 +830,7 @@ class ProcessingTimeScaperTests(TestCase):
         yaml_key_1 = 'surface transportation board_dot_2013'
         yaml_key_2 = 'surface transportation board_stb_2013'
         test_data = {foia_data_key: {'simple_median_days': 10}}
-        mapped_test_data = processing_time_scraper.apply_mapping(test_data)
+        mapped_test_data = processing_time_scraper.apply_mapping(test_data, mapping)
 
         self.assertEqual(
             mapped_test_data[yaml_key_1],

@@ -15,7 +15,7 @@ import yaml
 PROCESSING_TIMES_URL = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
 YEARS_URL = 'http://www.foia.gov/data.html'
 
-def load_mapping():
+def load_mapping(years=None):
     """
     Opens yaml mapping file and creates a mapping key to translate from
     foia.gov/data names to yaml data names for each year. Both key and
@@ -23,7 +23,10 @@ def load_mapping():
     """
 
     key = {}
-    years = get_years()
+
+    if years is None:
+        years = get_years()
+
     with open('layering_data/foiadata_to_yaml_mapping.yaml', 'r') as f:
         mapping = yaml.load(f.read())
     for element in mapping:
@@ -38,10 +41,12 @@ def load_mapping():
     return key
 
 
-def apply_mapping(data):
+def apply_mapping(data, mapping=None):
     """ Applies mapping to make foia.gov data compatiable with yaml data """
 
-    mapping = load_mapping()
+    if mapping is None:
+        mapping = load_mapping()
+
     for foia_data_name in mapping.keys():
         if foia_data_name in data.keys():
             for yaml_name in mapping[foia_data_name]:
