@@ -1,4 +1,9 @@
 departments:
 - name: Pacific Alaska Region (Anchorage)
   emails: []
-
+  name: Office of the Inspector General
+  emails:
+  - john.simms@nara.gov
+  name: Northeast Region (Boston)
+  emails:
+  - boston.archives@nara.gov

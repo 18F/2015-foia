@@ -13,7 +13,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-5389
   name: Main Office
   phone: 202-693-5391
@@ -226,7 +226,7 @@ departments:
   description: The EBSA provides information and assistance on private sector, employer-sponsored
     retirement benefit and health benefit plans.
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   keywords:
   - Accountants
   - Accounting
@@ -519,7 +519,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-2844
   name: Jobs Corps
   phone: 202-693-3676
@@ -552,7 +552,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '2'
   service_center: 'Phone: (202) 693-5500'
-  top_level: false
+  top_level: true
   website: http://www.jobcorps.gov/foia.aspx
 - abbreviation: MSHA
   address:
@@ -564,7 +564,7 @@ departments:
     deaths, injuries, and illnesses through mine regulations, inspections, and training
     programs.
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-963-9441
   keywords:
   - Administrative practice and procedure
@@ -709,7 +709,7 @@ departments:
   - 800 K Street
   - N.W. Washington, DC 20001-8002
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-7365
   name: Office of the Administrative Law Judges
   phone: 202-693-7348
@@ -802,7 +802,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-7954
   name: Office of the Assistant Secretary for Administration and Management
   notes: This office has additional FOIA contact information that can be found by
@@ -897,7 +897,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-5538
   keywords:
   - Administrative practice and procedure
@@ -1675,7 +1675,7 @@ departments:
   - 200 Constitution Avenue, NW
   - Washington, DC 20210
   emails:
-  - foiarequest@dol.gov
+  - foiarequests@dol.gov
   fax: 202-693-6746
   name: Women's Bureau
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
@@ -1766,7 +1766,7 @@ description: The Department's mission is to foster, promote, and develop the wel
   conditions; advance opportunities for profitable employment; and assure work-related
   benefits and rights.
 emails:
-- foiarequest@dol.gov
+- foiarequests@dol.gov
 fax: 202-693-5389
 keywords:
 - Accountants
