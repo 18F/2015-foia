@@ -79,7 +79,7 @@ def append_time_stats(yaml_data, data, yaml_key, year):
     return yaml_data
 
 
-def patch_yamls(data, fill_top_level=True):
+def patch_yamls(top_level_data, dept_level_data):
     """ Patches yaml files with average times """
 
     years = get_years()
@@ -91,17 +91,15 @@ def patch_yamls(data, fill_top_level=True):
             year = "_%s" % year
             agency_key = yaml_data['name'] + short_filename + year
             agency_key = agency_key.lower()
-            if fill_top_level:
-                if agency_key in data.keys():
-                    yaml_data = append_time_stats(
-                        yaml_data, data, agency_key, year)
-            if not fill_top_level:
-                for internal_data in yaml_data['departments']:
-                    office_key = internal_data['name'] + short_filename + year
-                    office_key = office_key.lower()
-                    if office_key in data.keys():
-                        internal_data = append_time_stats(
-                            internal_data, data, office_key, year)
+            if agency_key in top_level_data.keys():
+                yaml_data = append_time_stats(
+                    yaml_data, top_level_data, agency_key, year)
+            for internal_data in yaml_data['departments']:
+                office_key = internal_data['name'] + short_filename + year
+                office_key = office_key.lower()
+                if office_key in dept_level_data.keys():
+                    internal_data = append_time_stats(
+                        internal_data, dept_level_data, office_key, year)
 
         with open(filename, 'w') as f:
             f.write(yaml.dump(
@@ -268,10 +266,11 @@ def scrape_times():
 
     write_csv(top_level_data, top_level=True)
     write_csv(dept_level_data, top_level=False)
+
     top_level_data = apply_mapping(top_level_data)
-    patch_yamls(top_level_data, fill_top_level=True)
     dept_level_data = apply_mapping(dept_level_data)
-    patch_yamls(dept_level_data, fill_top_level=False)
+
+    patch_yamls(top_level_data, dept_level_data,)
 
 
 if __name__ == "__main__":
