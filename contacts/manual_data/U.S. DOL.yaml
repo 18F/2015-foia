@@ -1,16 +1,39 @@
 departments:
+- name: Main Office
+  emails:
+  - foiarequests@dol.gov
 - name: Bureau of International Labor Affairs
   emails: []
   top_level: true
 - name: Bureau of Labor Statistics
   top_level: true
 - name: Employee Benefits Security Administration
+  emails:
+  - foiarequests@dol.gov
   top_level: true
 - name: Employment & Training Administration
   top_level: true
 - name: Jobs Corps
+  emails:
+  - foiarequests@dol.gov
   top_level: true
 - name: Mine Safety & Health Administration
   top_level: true
+  emails:
+  - foiarequests@dol.gov
 - name: Occupational Safety & Health Administration
   top_level: true
+- name: Office of the Administrative Law Judges
+  emails:
+  - foiarequests@dol.gov
+- name: Office of the Assistant Secretary for Administration and Management
+  emails:
+  - foiarequests@dol.gov
+- name: Office of Federal Contract Compliance Programs
+  emails:
+  - foiarequests@dol.gov
+- name: Women's Bureau
+  emails:
+  - foiarequests@dol.gov
+emails:
+- foiarequests@dol.gov
