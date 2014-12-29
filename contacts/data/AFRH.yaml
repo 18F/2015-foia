@@ -12,6 +12,38 @@ departments:
   name: Armed Forces Retirement Home
   phone: 202-541-7716
   public_liaison: 'Sheila Abarr, Phone: (202) 541-7550'
+  request_time_stats:
+    '2011':
+      complex_average_days: '49'
+      complex_highest_days: '51'
+      complex_lowest_days: '47'
+      complex_median_days: '49'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '32'
+      simple_highest_days: '39'
+      simple_lowest_days: '25'
+      simple_median_days: '32'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '111'
+      simple_highest_days: '656'
+      simple_lowest_days: '4'
+      simple_median_days: '14.5'
+    '2013':
+      simple_average_days: '14'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
   service_center: 'Phone: (202) 541-7566'
   top_level: false
   website: https://www.afrh.gov/afrh/foia.htm

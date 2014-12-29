@@ -16,6 +16,61 @@ departments:
   - - Conventional and Electronic Reading Rooms
     - /FOI/foiareadingrooms
   request_form: https://www.cftc.gov/FOI/request/index.htm
+  request_time_stats:
+    '2008':
+      simple_average_days: '23.7'
+      simple_highest_days: '315'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2009':
+      simple_average_days: '15.26'
+      simple_highest_days: '119'
+      simple_lowest_days: '1'
+      simple_median_days: '9.5'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '22.79'
+      simple_highest_days: '253'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2011':
+      complex_average_days: '119.26'
+      complex_highest_days: '473'
+      complex_lowest_days: '1'
+      complex_median_days: '79'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '28.39'
+      simple_highest_days: '145'
+      simple_lowest_days: less than 1
+      simple_median_days: '13.5'
+    '2012':
+      complex_average_days: '146.47'
+      complex_highest_days: '471'
+      complex_lowest_days: '3'
+      complex_median_days: '108'
+      simple_average_days: '46.52'
+      simple_highest_days: '333'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
+    '2013':
+      complex_average_days: '239.27'
+      complex_highest_days: '838'
+      complex_lowest_days: '26'
+      complex_median_days: '216'
+      simple_average_days: '65'
+      simple_highest_days: '401'
+      simple_lowest_days: '1'
+      simple_median_days: '40'
   service_center: 'Phone: (202) 418-5497'
   top_level: false
   website: http://www.cftc.gov/FOI/index.htm

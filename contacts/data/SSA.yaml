@@ -18,6 +18,65 @@ departments:
   - - FOIA Library
     - http://www.ssa.gov/foia/readingroom.html
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
+  request_time_stats:
+    '2008':
+      complex_average_days: '60'
+      complex_highest_days: '246'
+      complex_lowest_days: '1'
+      complex_median_days: '44'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '30'
+      simple_highest_days: '78'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2009':
+      complex_average_days: '77'
+      complex_highest_days: '387'
+      complex_lowest_days: '2'
+      complex_median_days: '61'
+      simple_average_days: '17'
+      simple_highest_days: '256'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2010':
+      complex_average_days: '50'
+      complex_highest_days: '234'
+      complex_lowest_days: '1'
+      complex_median_days: '42'
+      simple_average_days: '18'
+      simple_highest_days: '118'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
+    '2011':
+      complex_average_days: '56'
+      complex_highest_days: '248'
+      complex_lowest_days: '3'
+      complex_median_days: '47'
+      simple_average_days: '22'
+      simple_highest_days: '159'
+      simple_lowest_days: '3'
+      simple_median_days: '17'
+    '2012':
+      complex_average_days: '57'
+      complex_highest_days: '298'
+      complex_lowest_days: '1'
+      complex_median_days: '41'
+      simple_average_days: '19'
+      simple_highest_days: '257'
+      simple_lowest_days: '3'
+      simple_median_days: '12'
+    '2013':
+      complex_average_days: '64'
+      complex_highest_days: '331'
+      complex_lowest_days: '1'
+      complex_median_days: '45'
+      simple_average_days: '17'
+      simple_highest_days: '45'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
   service_center: 'Rhonda Smith, Phone: (410) 966-4034'
   top_level: false
   website: http://www.ssa.gov/foia/

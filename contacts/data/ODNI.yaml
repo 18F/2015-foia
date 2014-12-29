@@ -15,6 +15,51 @@ departments:
   reading_rooms:
   - - ODNI's Electronic Reading Room
     - http://www.dni.gov/index.php/intelligence-community/ic-policies-reports
+  request_time_stats:
+    '2010':
+      complex_average_days: '305.53'
+      complex_highest_days: '991'
+      complex_lowest_days: '2'
+      complex_median_days: '122'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '134.99'
+      simple_highest_days: '847'
+      simple_lowest_days: '0'
+      simple_median_days: '88'
+    '2011':
+      complex_average_days: '94'
+      complex_highest_days: '823'
+      complex_lowest_days: '0'
+      complex_median_days: '26.5'
+      simple_average_days: '41.87'
+      simple_highest_days: '1029'
+      simple_lowest_days: '0'
+      simple_median_days: '4'
+    '2012':
+      complex_average_days: '190.28'
+      complex_highest_days: '1163'
+      complex_lowest_days: '0'
+      complex_median_days: '42.5'
+      expedited_processing_average_days: '208'
+      expedited_processing_highest_days: '579'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '23'
+      simple_average_days: '16.54'
+      simple_highest_days: '772'
+      simple_lowest_days: '0'
+      simple_median_days: '4'
+    '2013':
+      complex_average_days: '167.91'
+      complex_highest_days: '1145'
+      complex_lowest_days: less than 1
+      complex_median_days: '64.5'
+      simple_average_days: '86.12'
+      simple_highest_days: '1407'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center: 'Phone: (703) 874-8500'
   top_level: false
   website: http://www.dni.gov/foia.htm
