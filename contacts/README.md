@@ -183,3 +183,9 @@ with:
 ```bash
 nosetests
 ```
+
+To run an individual test file, e.g. `tests/tests.py`:
+
+```bash
+python -m unittest discover -s tests -p tests.py
+```

@@ -1,0 +1,594 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.5.1 CPython/3.4.2 Linux/3.16.0-4-amd64]
+    method: GET
+    uri: http://www.foia.gov/data.html
+  response:
+    body: {string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\"\
+        >\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\">\n<head>\n\
+        <meta http-equiv=\"cache-control\" content=\"no-cache\" />\n<meta http-equiv=\"\
+        PRAGMA\" content=\"NO-CACHE\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"\
+        IE=7\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"foia-style.css\"\
+        \ />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"reports.css\" />\n\
+        <style>\n/*Change class to Indicate Current Active Page*/\n#tabnav li a.data\
+        \ {background: url(images/tab-data_on.png) 0 0 no-repeat; color: #121b26;\
+        \ }\n/*qTip*/\n.qtip .qtip-content{\n   padding: 15px;\n   overflow: hidden;\n\
+        }\n.qtip .qtip-content .qtip-title,.qtip-cream .qtip-content .qtip-title{background-color:\
+        \ #f8f8f8;}\n</style>\n<script type=\"text/javascript\" src=\"qtip/jquery-1.3.2.min.js\"\
+        ></script>\n<!-- script type=\"text/javascript\" src=\"jquery-1.9.1.min.js\"\
+        ></script -->\n<script type=\"text/javascript\" src=\"qtip/jquery.qtip-1.0.0-rc3.min.js\"\
+        ></script>\n<!-- script type=\"text/javascript\" src=\"qtip/jquery.qtip.min.js\"\
+        ></script -->\n<script type=\"text/javascript\" src=\"foiaFunctions.js\"></script>\n\
+        <script type=\"text/javascript\" src=\"agencyWork.js\"></script>\n<script\
+        \ type=\"text/javascript\" src=\"foiareport.js\"></script>\n<script type=\"\
+        text/javascript\" src=\"FusionCharts.js\"></script>\n<script type=\"text/javascript\"\
+        \ src=\"foiaAjax.js\"></script>\n<script type=\"text/javascript\" src=\"tablehover.js\"\
+        ></script>\n<title>FOIA.gov - Freedom of Information Act: Data</title>\n</head>\n\
+        <body>\n\n<!-- Start FOIA Template -->\n<div id=\"background\">\n<div id=\"\
+        container\">\n<!-- Start Header -->\n<script type=\"text/javascript\" src=\"\
+        /scripts/federated-analytics.js\"></script>\r\n<script type=\"text/javascript\"\
+        \ src=\"/scripts/breakout.js\"></script>\r\n<div id=\"header\">\r\n  <div\
+        \ class=\"skip\"><a href=\"#mainContent\">Skip to Main Content</a>|<a href=\"\
+        #footerLinks\">Skip to Footer</a></div>\r\n  <div id=\"doj\"><img src=\"/images/doj-top-logo.jpg\"\
+        \ alt=\"United States Department of Justice\" width=\"360\" height=\"35\"\
+        \ class=\"headerDOJ\" /></div>\r\n  <div id=\"headNav\">\r\n    <div><a href=\"\
+        /index.html\"><img src=\"/images/foia-title-final.jpg\" alt=\"Foia.gov\" width=\"\
+        330\" height=\"80\" class=\"foiaTitle\" /></a></div>\r\n    <div class=\"\
+        right\">\r\n      <ul>\r\n        <li><a href=\"/news.html\">News</a></li>\r\
+        \n\t\t<li><a href=\"/glossary.html\">Glossary</a></li>\r\n\t\t<li><a href=\"\
+        /faq.html\">FAQs</a></li>\r\n\t\t<li><a href=\"/index-es.html\">en Espa&ntilde;ol</a></li>\r\
+        \n        <li><a href=\"/feedback.html\">Feedback</a></li>\r\n\t\t<li><a href=\"\
+        /report-makerequest.html\">FOIA Contacts</a></li>\r\n      </ul>\r\n    </div>\r\
+        \n  </div>\r\n  <div class=\"clear\"></div>\r\n  <div id=\"tabs\">\r\n   \
+        \ <div id=\"tabnav\">\r\n      <ul>\r\n       <li><a href=\"/index.html\"\
+        \ class=\"home\"><p>Home</p></a></li>\r\n       <li><a href=\"/data.html\"\
+        \ class=\"data\"><p>Data</p></a></li>\r\n       <li><a href=\"/reports.html\"\
+        \ class=\"reports\"><p>Reports</p></a></li>\r\n\t   <li><a href=\"http://search.usa.gov/search?affiliate=foia.gov\"\
+        \ class=\"find\"><p>Find</p></a></li>\r\n       <li><a href=\"/about.html\"\
+        \ class=\"about\"><p>Learn</p></a></li>\r\n      </ul>\r\n    </div>\r\n \
+        \   <!--<div id=\"requestbutton\"><a href=\"/make-request.html\"><span>How\
+        \ to Make a FOIA Request</span></a></div>-->\r\n\t<a href=\"mainContent\"\
+        \ id=\"mainContent\"></a>\r\n  </div>\r\n</div>\n<!-- End Header -->\n\n<!--\
+        \ Start Main Page -->\n<div id=\"main\">\n<!-- Start Content -->\n<div id=\"\
+        content\">\n  <div id=\"dataTable\">\n    <div class=\"topWindow\" >\n   \
+        \ <!-- Create Report Box -->\n    <div id=\"createReport\">\n\t<div id=\"\
+        basicSearch\" style=\"display:block;\">\n      <div style=\"margin: 0 0 30px\
+        \ 0; font: bold italic 11px Calibri, Arial, Helvetica, sans-serif;\">\n  \
+        \    <img src=\"images/create-report-title.gif\" style=\"margin: 0 45px 0\
+        \ 0;\" alt=\"Create Basic Report\" /><h1 style=\"display:none;\">Create A\
+        \ Basic Report</h1>\n      <div style=\"float:right; margin: 0;\"><!-- a href=\"\
+        #\" class=\"foiaBasicSearchText\" title=\"Learn how to make a Basic Report\
+        \ on FOIA.gov\" style=\"margin: 0 15px 0 0;\"><img src=\"images/question-icon.gif\"\
+        \ alt=\"Question Mark Icon\" style=\"margin: 0 5px 0 0;\" />Basic Report Information</a\
+        \ --><a href=\"javascript:toggleAdvanceSearch();\" class=\"swBasicSearch\"\
+        \ title=\"Toggle the Advanced Report\"><img src=\"images/gear-icon.gif\" style=\"\
+        margin: 0 5px 0 0;\" alt=\"Gear Icon\" />Create an Advanced Report</a></div>\n\
+        \      <div class=\"clear\"></div>\n      <div id=\"csvprint\" style=\"float:right;\
+        \ margin: 30px 0 0 0; display:none;\">\n      <div style=\"float: left; margin:\
+        \ -15px 10px 0 0;\">\n\t  <a title=\"Lorem ipsum dolor sit amet. Quis custodiet\
+        \ ipsos custodes?\" href=\"#\"><img style=\"float: left; margin: 12px 0pt\
+        \ 0pt 5px;\" src=\"images/question-icon.gif\" alt=\"question\"></a>\n\t  <a\
+        \ title=\"Click here to launch a FOIA.gov Help Video on this topic.\" href=\"\
+        #\"><img style=\"float: left; margin: 12px 0px 0pt 16px;\" src=\"images/video-icon.gif\"\
+        \ alt=\"video\"></a></div>\n      <div id=\"csvbutton\" class=\"csvbutton\"\
+        ><a href=\"foia/FoiaDownload\" class=\"csvbutton\"><span>CSV</span></a></div>\n\
+        \      <div id=\"printbutton\" class=\"printbutton\">&nbsp;&nbsp;&nbsp;&nbsp;<a\
+        \ href=\"javascript:openPop('foia/FoiaPrint.jsp','_blank');\"><img src=\"\
+        images/printer-friendly-icon.gif\" alt=\"Printer-Friendly Version\" /></a></div>\n\
+        \      </div>\n      </div>\n      <div class=\"reportText\">\n        <p><strong>Instructions:</strong>\
+        \ You can   explore the FOIA data that makes up an agency&rsquo;s annual FOIA\
+        \ report.   Search for data from a single agency or compare data from multiple\
+        \   agencies. Just follow these steps:</p>\n        <ol>\n          <li>At\
+        \   the &ldquo;Select Report&rdquo; column, click on a category, such as &ldquo;Requests&rdquo;\
+        \ or   &ldquo;Administration&rdquo;&nbsp; to select the type of report you\
+        \ would like to run.   Learn more about these categories in the<a href=\"\
+        glossary.html\">Glossary</a>. </li>\n          <li>Use   the (+) or (-) signs\
+        \ appearing next to the text box to select the   agency/agencies you want\
+        \ to look up, selecting up to four at a time. </li>\n          <li>Choose\
+        \ the year you would like to see data from. </li>\n          <li>Click &ldquo;Create\
+        \ Report.&rdquo;&nbsp; Scroll down to see your customized report. </li>\n\
+        \        </ol>\n        <p>For help interpreting a report, scroll over the\
+        \ <img src=\"images/question-icon.gif\" alt=\"Question Mark Icon\" style=\"\
+        margin: 0 3px;\" /> icon.</p>\n      </div>\n    <label for=\"selectReport\"\
+        >To begin your FOIA.gov report, please select a Report Category from the following\
+        \ list of categories in the \"Select Report\" menu.</label>\n    <div id=\"\
+        selectReport\">\n    <h2>1. Select Report</h2>\n    <label for=\"reportRequests\"\
+        >Select Report Category: Requests</label>\n    <ul>\n     <li><a href=\"javascript:resetReportSelect('reportRequests');\"\
+        \ id=\"reportRequests\" title=\"Select Report Category: Requests\">Requests</a>\n\
+        \     <div class=\"menu\">\n     <label for=\"requestDisposition\">Select\
+        \ Report Category: Requests - Disposition</label>\n     <label for=\"reportFeeWaiver\"\
+        >Select Report Category: Requests - Expedited Processing</label>\n     <ul>\n\
+        \     \t<li><a href=\"javascript:resetReportSelect('requestDisposition');\"\
+        \ id=\"requestDisposition\" title=\"Select Report Category: Requests - Disposition\"\
+        >Disposition</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('reportFeeWaiver');\"\
+        \ id=\"reportFeeWaiver\" title=\"Select Report Category: Requests - Expedited\
+        \ Processing\">Expedited Processing</a></li>\n     \t<!-- li><a href=\"javascript:resetReportSelect('requestDenial');\"\
+        \ id=\"requestDenial\">Denial</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('requestPending');\"\
+        \ id=\"requestPending\">Pending</a></li -->\n     </ul>\n     </div>\n   \
+        \  </li>\n     <label for=\"reportExemptions\">Select Report Category: Exemptions</label><li><a\
+        \ href=\"javascript:resetReportSelect('reportExemptions');\" id=\"reportExemptions\"\
+        \ title=\"Select Report Category: Exemptions\">Exemptions</a>\n     <div class=\"\
+        menu\">\n     <label for=\"Exemption3Statutes\">Select Report Category: Exemptions\
+        \ - Exemption 3 Statutes</label>\n     <ul>\n     \t<li><a href=\"javascript:resetReportSelect('Exemption3Statutes');\"\
+        \ id=\"Exemption3Statutes\" title=\"Select Report Category: Exemptions - Exemption\
+        \ 3 Statutes\">Exemption 3 Statutes</a></li>\n     </ul>\n     </div>\n  \
+        \   </li>\n     <label for=\"reportAppeals\">Select Report Category: Appeals</label><li><a\
+        \ href=\"javascript:resetReportSelect('reportAppeals');\" id=\"reportAppeals\"\
+        \ title=\"Select Report Category: Appeals\">Appeals</a>\n     <div class=\"\
+        menu\">\n     <label for=\"appealDisposition\">Select Report Category: Appeals\
+        \ - Disposition (Dis.)</label>\n     <label for=\"appealDenialEx\">Select\
+        \ Report Category: Appeals - Disposition - Use of Exemptions</label>\n   \
+        \  <label for=\"appealDenialOther\">Select Report Category: Appeals - Disposition\
+        \ - Other Than Exemptions</label>\n     <label for=\"appealDenialReason\"\
+        >Select Report Category: Appeals - Disposition - Other Reasons</label>\n \
+        \    <label for=\"appealResponseTime\">Select Report Category: Appeals - Response\
+        \ Time</label>\n     <label for=\"appeal10Pending\">Select Report Category:\
+        \ Appeals - Ten Oldest Pending</label>\n     <ul>\n     \t<li><a href=\"javascript:resetReportSelect('appealDisposition');\"\
+        \ id=\"appealDisposition\" title=\"Select Report Category: Appeals - Disposition\
+        \ (Dis.)\">Disposition (Dis.)</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('appealDenialEx');\"\
+        \ id=\"appealDenialEx\" title=\"Select Report Category: Appeals - Disposition\
+        \ - Use of Exemptions\">Dis. - Use of Exemptions</a></li>\n     \t<li><a href=\"\
+        javascript:resetReportSelect('appealDenialOther');\" id=\"appealDenialOther\"\
+        \ title=\"Select Report Category: Appeals - Disposition - Other Than Exemptions\"\
+        >Dis. - Other Than Exs.</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('appealDenialReason');\"\
+        \ id=\"appealDenialReason\" title=\"Select Report Category: Appeals - Disposition\
+        \ - Other Reasons\">Dis. - &quot;Other&quot; Reasons</a></li>\n     \t<li><a\
+        \ href=\"javascript:resetReportSelect('appealResponseTime');\" id=\"appealResponseTime\"\
+        \ title=\"Select Report Category: Appeals - Response Time\">Response Time</a></li>\n\
+        \     \t<li><a href=\"javascript:resetReportSelect('appeal10Pending');\" id=\"\
+        appeal10Pending\" title=\"Select Report Category: Appeals - Ten Oldest Pending\"\
+        >Ten Oldest Pending</a></li>\n     </ul>\n     </div>\n     </li>\n     <label\
+        \ for=\"reportProcessingTime\">Select Report Category: Processing Time</label><li><a\
+        \ href=\"javascript:resetReportSelect('reportProcessingTime');\" id=\"reportProcessingTime\"\
+        \ title=\"Select Report Category: Processing Time\">Processing Time</a>\n\
+        \     <div class=\"menu\">\n     <label for=\"processingGranted\">Select Report\
+        \ Category: Processing Time  - Requests Granted</label>\n     <label for=\"\
+        processingSimple\">Select Report Category: Processing Time - Simple Requests</label>\n\
+        \     <label for=\"processingComplex\">Select Report Category: Processing\
+        \ Time - Complex Requests</label>\n     <label for=\"processingExpedited\"\
+        >Select Report Category: Processing Time - Expedited Requests</label>\n  \
+        \   <label for=\"processingPending\">Select Report Category: Processing Time\
+        \ - Pending Requests</label>\n     <label for=\"processing10Request\">Select\
+        \ Report Category: Processing Time - Ten Oldest Requests</label>\n     <ul>\n\
+        \     \t<li><a href=\"javascript:resetReportSelect('processingGranted');\"\
+        \ id=\"processingGranted\" title=\"Select Report Category: Processing Time\
+        \ - Requests Granted\">Requests Granted</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('processingSimple');\"\
+        \ id=\"processingSimple\" title=\"Select Report Category: Processing Time\
+        \ - Simple Requests\">Simple Requests</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('processingComplex');\"\
+        \ id=\"processingComplex\" title=\"Select Report Category: Processing Time\
+        \ - Complex Requests\">Complex Requests</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('processingExpedited');\"\
+        \ id=\"processingExpedited\" title=\"Select Report Category: Processing Time\
+        \ - Expedited Requests\">Expedited Requests</a></li>\n     \t<li><a href=\"\
+        javascript:resetReportSelect('processingPending');\" id=\"processingPending\"\
+        \ title=\"Select Report Category: Processing Time - Pending Requests\">Pending\
+        \ Requests</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('processing10Request');\"\
+        \ id=\"processing10Request\" title=\"Select Report Category: Processing Time\
+        \ - Ten Oldest Requests\">Ten Oldest Requests</a></li>\n     </ul>\n     </div>\n\
+        \     </li>\n     <label for=\"feewaiverWaiver\">Select Report Category: Fee\
+        \ Waiver</label><li><a href=\"javascript:resetReportSelect('feewaiverWaiver');\"\
+        \ id=\"feewaiverWaiver\" title=\"Select Report Category: Fee Waiver\">Fee\
+        \ Waiver</a>\n     <div class=\"menu\">\n     <!-- ul>\n     \t<li><a href=\"\
+        javascript:resetReportSelect('feewaiverWaiver');\" id=\"feewaiverWaiver\"\
+        >Requests</a></li>\n     </ul -->\n     </div>\n     </li>\n     <label for=\"\
+        reportAdministration\">Select Report Category: Administration</label><li><a\
+        \ href=\"javascript:resetReportSelect('reportAdministration');\" id=\"reportAdministration\"\
+        \ title=\"Select Report Category: Administration\">Administration</a>\n  \
+        \   <div class=\"menu\">\n     <label for=\"reportPersonnel\">Select Report\
+        \ Category: Administration - FOIA Personnel</label>\n     <label for=\"personnelCost\"\
+        >Select Report Category: Administration - FOIA Costs</label>\n     <ul>\n\
+        \     \t<li><a href=\"javascript:resetReportSelect('reportPersonnel');\" id=\"\
+        reportPersonnel\" title=\"Select Report Category: Administration - FOIA Personnel\"\
+        >FOIA Personnel</a>\n     \t<li><a href=\"javascript:resetReportSelect('personnelCost');\"\
+        \ id=\"personnelCost\" title=\"Select Report Category: Administration - FOIA\
+        \ Costs\">FOIA Costs</a></li>\n     </ul>\n     </div>\n     </li>\n     <label\
+        \ for=\"reportBacklog\">Select Report Category: Backlog</label><li><a href=\"\
+        javascript:resetReportSelect('reportBacklog');\" id=\"reportBacklog\" title=\"\
+        Select Report Category: Backlog\">Backlog</a></li>\n     <label for=\"reportConsultations\"\
+        >Select Report Category: Consultations</label><li><a href=\"javascript:resetReportSelect('reportConsultations');\"\
+        \ id=\"reportConsultations\" title=\"Select Report Category: Consultations\"\
+        >Consultations</a>\n     <div class=\"menu\">\n     <label for=\"consultation10Oldest\"\
+        >Select Report Category: Consultations - Ten Oldest</label>\n     <ul>\n \
+        \    \t<li><a href=\"javascript:resetReportSelect('consultation10Oldest');\"\
+        \ id=\"consultation10Oldest\" title=\"Select Report Category: Consultations\
+        \ - Ten Oldest\">Ten Oldest</a></li>\n     </ul>\n     </div>\n     </li>\n\
+        \     <label for=\"requestCompare\">Select Report Category: Comparisons</label><li><a\
+        \ href=\"javascript:resetReportSelect('requestCompare');\" id=\"requestCompare\"\
+        \ title=\"Select Report Category: Comparisons\">Comparisons</a>\n     <div\
+        \ class=\"menu\">\n     <label for=\"requestBacklog\">Select Report Category:\
+        \ Comparisons - Requests Backlogged</label>\n     <label for=\"appealCompare\"\
+        >Select Report Category: Comparisons - Administrative Appeals</label>\n  \
+        \   <label for=\"appealBacklog\">Select Report Category: Comparisons - Appeals\
+        \ Backlogged</label>\n     <ul>\n     \t<li><a href=\"javascript:resetReportSelect('requestBacklog');\"\
+        \ id=\"requestBacklog\" title=\"Select Report Category: Comparisons - Requests\
+        \ Backlogged\">Requests Backlogged</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('appealCompare');\"\
+        \ id=\"appealCompare\" title=\"Select Report Category: Comparisons - Administrative\
+        \ Appeals\">Administrative Appeals</a></li>\n     \t<li><a href=\"javascript:resetReportSelect('appealBacklog');\"\
+        \ id=\"appealBacklog\" title=\"Select Report Category: Comparisons - Appeals\
+        \ Backlogged\">Appeals Backlogged</a></li>\n     </ul>\n     </div>\n    \
+        \ </li>\n     </ul>\n    </div>\n    <div id=\"selectAgency\">\n\t\t<h2>2.\
+        \ Select Agency</h2>\n\t\t<div id=\"agencydiv1\">\n          <label for=\"\
+        agency1\">After selecting a report type from the \"Select Report\" menu, please\
+        \ enter the agency you want to generate the report on in the following field.</label>\n\
+        \t\t  <input type=\"text\" class=\"agencyTextbox\" id=\"agency1\" placeholder=\"\
+        Enter Agency Name Here\" size=\"30\" readonly=\"readonly\" onclick=\"javascript:showAgency(1);\"\
+        \ />\n          <label for=\"addagency1\">Once you have chosen an agency in\
+        \ the previous field, you can add another agency to the report with the following\
+        \ button.</label>\n\t\t  <input type=\"button\" value=\"\" height=\"37\" width=\"\
+        36\" class=\"addAgency\" id=\"addagency1\" onclick=\"javascript:addAgencyBox(1);\"\
+        \ title=\"Add Another Agency to the Report\" />\n\t\t<ul>\n\t\t<li><a href=\"\
+        javascript:showAgency(1);\" title=\"Show the Selection List of Agencies\"\
+        >Show List of Agencies</a></li>\n\t\t<li><a href=\"javascript:resetAgencyComponent(1)\"\
+        \ title=\"Select All Components Within the Selected Agency\">All Components</a></li>\n\
+        \t\t<li><a href=\"javascript:getAgencyComponent(1)\" title=\"Select a Specific\
+        \ Component Within the Selected Agency\"><img src=\"images/select-comp-button.gif\"\
+        \ alt=\"Select Agency Components\" /></a></li>\n\t\t</ul>\n\t\t</div>\n\t\t\
+        <div id=\"agencydiv2\" style=\"display:none;\">\n        <label for=\"agency2\"\
+        >Enter the name of the Agency you wish to include in your selected report.</label>\n\
+        \t\t<input type=\"text\" class=\"agencyTextbox\" id=\"agency2\" placeholder=\"\
+        Enter Agency Name Here\" size=\"30\" readonly=\"readonly\" onclick=\"javascript:showAgency(2);\"\
+        \ />\n        <label for=\"addagency2\">Add or Remove another Agency to your\
+        \ selected report.</label>\n\t\t<input type=\"button\" value=\"\" class=\"\
+        addAgency\" id=\"addagency2\"  onclick=\"javascript:addAgencyBox(2);\" title=\"\
+        Add Another Agency to the Report\" />\n\t\t<ul>\n\t\t<li><a href=\"javascript:showAgency(2);\"\
+        \ title=\"Show the Selection List of Agencies\">Show List of Agencies</a></li>\n\
+        \t\t<li><a href=\"javascript:resetAgencyComponent(2)\" title=\"Select All\
+        \ Components Within the Selected Agency\">All Components</a></li>\n\t\t<li><a\
+        \ href=\"javascript:getAgencyComponent(2)\" title=\"Select a Specific Component\
+        \ Within the Selected Agency\"><img src=\"images/select-comp-button.gif\"\
+        \ alt=\"Select Agency Components\" /></a></li>\n\t\t</ul>\n\t\t</div>\n\t\t\
+        <div id=\"agencydiv3\" style=\"display:none;\">\n        <label for=\"agency3\"\
+        >Enter the name of the Agency you wish to include in your selected report.</label>\n\
+        \t\t<input type=\"text\" class=\"agencyTextbox\" id=\"agency3\" placeholder=\"\
+        Enter Agency Name Here\" size=\"30\" readonly=\"readonly\" onclick=\"javascript:showAgency(3);\"\
+        \ />\n        <label for=\"addagency3\">Add or Remove another Agency to your\
+        \ selected report.</label>\n\t\t<input type=\"button\" value=\"\" class=\"\
+        addAgency\" id=\"addagency3\"  onclick=\"javascript:addAgencyBox(3);\" title=\"\
+        Add Another Agency to the Report\" />\n\t\t<ul>\n\t\t<li><a href=\"javascript:showAgency(3);\"\
+        \ title=\"Show the Selection List of Agencies\">Show List of Agencies</a></li>\n\
+        \t\t<li><a href=\"javascript:resetAgencyComponent(3)\" title=\"Select All\
+        \ Components Within the Selected Agency\">All Components</a></li>\n\t\t<li><a\
+        \ href=\"javascript:getAgencyComponent(3)\" title=\"Select a Specific Component\
+        \ Within the Selected Agency\"><img src=\"images/select-comp-button.gif\"\
+        \ alt=\"Select Agency Components\" /></a></li>\n\t\t</ul>\n\t\t</div>\n\t\t\
+        <div id=\"agencydiv4\" style=\"display:none;\">\n          <label for=\"agency4\"\
+        >Enter the name of the Agency you wish to include in your selected report.</label>\n\
+        \t\t  <input type=\"text\" class=\"agencyTextbox\" id=\"agency4\" placeholder=\"\
+        Enter Agency Name Here\" size=\"30\" readonly=\"readonly\" onclick=\"javascript:showAgency(4);\"\
+        \ />\n\t\t  <!-- input type=\"button\" value=\"\" height=\"37\" width=\"36\"\
+        \ class=\"addAgency\" / -->\n\t\t<ul>\n\t\t<li><a href=\"javascript:showAgency(4);\"\
+        \ title=\"Show the Selection List of Agencies\">Show List of Agencies</a></li>\n\
+        \t\t<li><a href=\"javascript:resetAgencyComponent(4)\" title=\"Select All\
+        \ Components Within the Selected Agency\">All Components</a></li>\n\t\t<li><a\
+        \ href=\"javascript:getAgencyComponent(4)\" title=\"Select a Specific Component\
+        \ Within the Selected Agency\"><img src=\"images/select-comp-button.gif\"\
+        \ alt=\"Select Agency Components\" /></a></li>\n\t\t</ul>\n\t\t</div>\n\t\t\
+        <div id=\"agencydiv5\" style=\"display:none;\">\n        <label for=\"agency5\"\
+        >Enter the name of the Agency you wish to include in your selected report.</label>\n\
+        \t\t<input type=\"text\" class=\"agencyTextbox\" id=\"agency5\" title=\"Enter\
+        \ Agency Name Here\"  size=\"30\" readonly=\"readonly\" onclick=\"javascript:showAgency(5);\"\
+        \ />\n\t\t<!-- input type=\"button\" value=\"\" class=\"addAgency\" / -->\n\
+        \t\t<ul>\n\t\t<li>All Components</li>\n\t\t<li><a href=\"javascript:getAgencyComponent(5)\"\
+        ><img src=\"images/select-comp-button.gif\" alt=\"Select Agency Components\"\
+        \ /></a></li>\n\t\t<li><a href=\"javascript:showAgency(5);\">Show List of\
+        \ Agencies</a></li>\n\t\t</ul>\n\t\t</div>\n\t\t<div id=\"agencydiv6\" style=\"\
+        display:none;\">\n        <label for=\"agency6\">Enter the name of the Agency\
+        \ you wish to include in your selected report.</label>\n\t\t<input type=\"\
+        text\" class=\"agencyTextbox\" id=\"agency6\" title=\"Enter Agency Name Here\"\
+        \ size=\"30\" />\n\t\t<!-- input type=\"button\" value=\"\" class=\"addAgency\"\
+        \ / -->\n\t\t<ul>\n\t\t<li>All Components</li>\n\t\t<li><a href=\"javascript:getAgencyComponent(6)\"\
+        ><img src=\"images/select-comp-button.gif\" alt=\"Select Agency Components\"\
+        \ /></a></li>\n\t\t<li><a href=\"javascript:showAgency(6);\">Show List of\
+        \ Agencies</a></li>\n\t\t</ul>\n\t\t</div>\n    </div>\n    <div id=\"selectFY\"\
+        \ style=\"padding:0;\">\n    <h2>3. Select Fiscal Year</h2>\n    <p><input\
+        \ type=\"checkbox\" name=\"FY2013\" title=\"FY2013\" id=\"FY2013\" checked=\"\
+        true\" /> FY 2013 </p>\n    <p><input type=\"checkbox\" name=\"FY2012\" title=\"\
+        FY2012\" id=\"FY2012\"/> FY 2012 </p>\n    <p><input type=\"checkbox\" name=\"\
+        FY2011\" title=\"FY2011\" id=\"FY2011\"/> FY 2011 </p>\n    <p><input type=\"\
+        checkbox\" name=\"FY2010\" title=\"FY2010\" id=\"FY2010\"/> FY 2010 </p>\n\
+        \    <p><input type=\"checkbox\" name=\"FY2009\" title=\"FY2009\" id=\"FY2009\"\
+        \ /> FY 2009 </p>\n    <p><input type=\"checkbox\" name=\"FY2008\" title=\"\
+        FY2008\" id=\"FY2008\"/> FY 2008 </p>\n    <p><input type=\"checkbox\" name=\"\
+        fiscalYear\" onClick=\"toggleFYAllButton()\" title=\"All Available Years\"\
+        \ id=\"ALL\"/><span title=\"FY2008, FY2009, FY2010, FY2011 , FY2012 & FY2013\"\
+        > All Available Years </span></p>\n    </div>\n    <div id=\"generateReport\"\
+        >\n    <h2 style=\"font-size: 16px; margin: 0;\">4. CREATE REPORT</h2>\n \
+        \     <a href=\"javascript:startRequest();\" title=\"Create Report\"><span>Create\
+        \ Report</span></a>\n      <div class=\"reportText\" style=\"margin: 30px\
+        \ 0 0 0;\"><p>You can also export the data to a CSV file or print your report.</p></div>\n\
+        \    </div>\n    </div>\n\n  \t<div class=\"clear\"></div>\n\n\t<div id=\"\
+        searchAdvance\" style=\"display:none;\">\n      <!-- div class=\"lineshadow\"\
+        ></div -->\n      <div style=\"margin: 0 0 30px 0; font: bold italic 11px\
+        \ Calibri, Arial, Helvetica, sans-serif;\"><img src=\"images/advanced-report-title.gif\"\
+        \ style=\"margin: 0 35px 0 0;\" alt=\"Create An Advanced Report\" /><h1 style=\"\
+        display:none;\">Create An Advanced Report</h1>\n      <div style=\"float:right;\
+        \ margin: 0;\">\n       <a href=\"glossary.html\" class=\"advTips\" title=\"\
+        To get more information on any aspect of the FOIA.gov Advanced Report, mouse\
+        \ over the Question Mark Help Icons. The tooltips will guide you step-by-step\
+        \ through making your FOIA.gov report.<br /><br />Additionally, you can visit\
+        \ the Glossary page to learn about specific FOIA terms.\"><img src=\"images/question-icon.gif\"\
+        \ style=\"margin: 0 5px 0 0;\" alt=\"How do I use the Advanced Reports\"/>How\
+        \ do I use the Advanced Reports?</a><span style=\"display: inline; margin:\
+        \ 0 0 0 30px;\"><a href=\"javascript:toggleAdvanceSearch();\" class=\"advTips\"\
+        \ title=\"Click here to toggle the Basic Search functions for FOIA.gov.\"\
+        ><img src=\"images/gear-icon.gif\" style=\"margin: 0 5px 0 0;\" alt=\"Create\
+        \ a Basic Report\"/>Create a Basic Report</a></span>\n      </div>\n     \
+        \ <div class=\"clear\"></div>\n      <div id=\"csvprintadv\" style=\"float:right;\
+        \ margin: 30px 0 0 0; display:none;\">\n\t        <div id=\"csvbutton\" class=\"\
+        csvbutton\"><a href=\"foia/FoiaDownload\" class=\"csvbutton\"><span>CSV</span></a></div>\n\
+        \t        <div id=\"printbutton\" class=\"printbutton\">&nbsp;&nbsp;&nbsp;&nbsp;<a\
+        \ href=\"javascript:openPop('foia/FoiaPrint.jsp','_blank');\"><img src=\"\
+        images/printer-friendly-icon.gif\" alt=\"Printer-Friendly Version\" /></a></div>\n\
+        \      </div>\n      </div>\n      <div class=\"clear\"></div>\n\t\t<div id=\"\
+        generateReport\">\n        <a href=\"javascript:startRequest();\" style=\"\
+        margin: 15px 0 0 0;\"><span>Create Report</span></a>\n        </div>\n   \
+        \     <div style=\"width: 650px;\">\n        <h2>I'd like a report on:</h2>\n\
+        \        <div style=\"float:right; margin: -50px 0 0;\">\n        <label for=\"\
+        fullReportList\">To begin an Advanced FOIA.gov report, please select a Report\
+        \ Category from the following drop-down list of categories.</label>\n    \
+        \    <select class=\"agencyTextbox\" id=\"fullReportList\" title=\"I'd like\
+        \ a report on\" onchange=\"javascript:changeReportSelect();\">\n        <option\
+        \ value=\"\"  size=\"30\" disabled>Select a Report:</option>\n\t \t<option\
+        \ value=\"reportRequests\"  size=\"30\" >Requests</option>\n     \t<option\
+        \ value=\"requestDisposition\"  size=\"30\" >  - Disposition</option>\n  \
+        \   \t<option value=\"reportFeeWaiver\"  size=\"30\" >  - Expedited Processing</option>\n\
+        \     \t<!-- option value=\"requestDenial\"  size=\"30\" >  - Denial</option\
+        \ -->\n     \t<option value=\"reportExemptions\"  size=\"30\" >Exemptions</option>\n\
+        \     \t<!-- option value=\"Exemption3Statutes\"  size=\"30\" >  - Exemption\
+        \ 3 Statutes</option -->\n     \t<option value=\"reportAppeals\"  size=\"\
+        30\" >Appeals</option>\n     \t<option value=\"appealDisposition\"  size=\"\
+        30\" >  - Disposition (Dis.)</option>\n     \t<option value=\"appealDenialEx\"\
+        \  size=\"30\" >  - Dis. Use of Exemptions</option>\n     \t<option value=\"\
+        appealDenialOther\"  size=\"30\" >  - Dis. Other Than Exemptions</option>\n\
+        \     \t<!-- option value=\"appealDenialReason\"  size=\"30\" >  - Denials(Reasons)</option\
+        \ -->\n     \t<option value=\"appealResponseTime\"  size=\"30\" >  - Response\
+        \ Time</option>\n     \t<option value=\"appeal10Pending\"  size=\"30\" > \
+        \ - Ten Oldest Pending</option>\n     \t<option value=\"reportProcessingTime\"\
+        \  size=\"30\" >Processing Time</option>\n     \t<option value=\"processingGranted\"\
+        \  size=\"30\" >  - Requests Granted</option>\n     \t<option value=\"processingSimple\"\
+        \  size=\"30\" >  - Simple Requests</option>\n     \t<option value=\"processingComplex\"\
+        \  size=\"30\" >  - Complex Requests</option>\n     \t<option value=\"processingExpedited\"\
+        \  size=\"30\" >  - Expedited Requests</option>\n     \t<option value=\"processingPending\"\
+        \  size=\"30\" >  - Pending Requests</option>\n     \t<option value=\"processing10Request\"\
+        \  size=\"30\" >  - Ten Oldest Requests</option>\n     \t<option value=\"\
+        feewaiverWaiver\"  size=\"30\" >Fee Waiver</option>\n     \t<option value=\"\
+        reportPersonnel\"  size=\"30\" >Administration</option>\n     \t<option value=\"\
+        personnelCost\"  size=\"30\" >  - FOIA Costs</option>\n     \t<option value=\"\
+        reportBacklog\"  size=\"30\" >Backlog</option>\n     \t<option value=\"reportConsultations\"\
+        \  size=\"30\" >Consultations</option>\n     \t<!-- option value=\"consultation10Oldest\"\
+        \  size=\"30\" >  - Ten Oldest</option -->\n     \t<!-- option value=\"requestCompare\"\
+        \  size=\"30\" >  - Comparisons</option>\n     \t<option value=\"requestBacklog\"\
+        \  size=\"30\" >  - Backlogged</option>\n     \t<option value=\"appealCompare\"\
+        \  size=\"30\" >  - Administrative Appeals</option>\n     \t<option value=\"\
+        appealBacklog\"  size=\"30\" >  - Appeals Backlogged</option -->\n\n     \
+        \   </select><a href=\"#\" class=\"advTips\" title=\"To begin, select a type\
+        \ of FOIA Report you'd like to view. You may pick a basic report type - such\
+        \ as Reports - or a sub-category. The sub-categories follow their parent categories\
+        \ in the options list, and are prefaced by a dash (e.g. - Disposition).\"\
+        >\n        <img src=\"images/question-icon.gif\" style=\"margin: 0 0 5px 5px;\"\
+        \ alt=\"\" /></a>\n        </div>\n        <h2>Which features these agencies:</h2>\n\
+        \        <div style=\"float:right; margin: -50px 0 0;\">\n        <label for=\"\
+        agencyList\">Enter the name of an Agency to view their data for your chosen\
+        \ FOIA Report category.</label>\n        <select class=\"agencyTextlist\"\
+        \ id=\"agencyList\" title=\"Which features these agencies\">\n        <option\
+        \ value=\"\"  size=\"30\" disabled>Select an Agency:</option>\n        </select>\n\
+        \        <a href=\"#\" class=\"advTips\" title=\"Once you have picked a FOIA\
+        \ Report type, pick an Agency to view their data. You can view an agency and\
+        \ also pick to view specific components of an agency (like picking the FBI\
+        \ when looking at the Department of Justice), or you can choose to view data\
+        \ from all government agencies.\"><img src=\"images/question-icon.gif\" style=\"\
+        margin: 0 0 5px 5px;\" alt=\"\" /></a>\n\n        </div>\n    <div style=\"\
+        float:right; margin: -20px 0 0;\">\n\t<div id=\"selectAgency\">\n\t\t<ul>\n\
+        \t\t<li><a href=\"javascript:resetAgencyComponent()\">All Components</a></li>\n\
+        \t\t<li><a href=\"javascript:getAgencyComponent()\"><img src=\"images/select-comp-button.gif\"\
+        \ alt=\"Select Components\" /></a></li>\n\t\t</ul>\n\t</div>\n\t</div>\n\t\
+        <div class=\"clear\"></div>\n        <h2>During the year(s): </h2>\n     \
+        \   <div style=\"float:right; margin: -45px 0 0; width: 380px;\">\n      \
+        \  <input type=\"checkbox\" name=\"nFY2013\" id=\"aFY2013\" title=\"FY2013\"\
+        \ checked=\"true\"/>FY 2013&nbsp;\n        <input type=\"checkbox\" name=\"\
+        nFY2012\" id=\"aFY2012\" title=\"FY2012\" />FY 2012&nbsp;\n        <input\
+        \ type=\"checkbox\" name=\"nFY2011\" id=\"aFY2011\" title=\"FY2011\" />FY\
+        \ 2011&nbsp;\n        <input type=\"checkbox\" name=\"nFY2010\" id=\"aFY2010\"\
+        \ title=\"FY2010\"/>FY 2010&nbsp;\n        <input type=\"checkbox\" name=\"\
+        nFY2009\" id=\"aFY2009\" title=\"FY2009\"/>FY 2009&nbsp;\n        <input type=\"\
+        checkbox\" name=\"nFY2008\" id=\"aFY2008\" title=\"FY2008\"/>FY 2008&nbsp;\n\
+        \        <input type=\"checkbox\" name=\"afiscalYear\" id=\"aALL\" onClick=\"\
+        toggleFYAllButton()\" title=\"All Available Years\" /> All Available Years&nbsp;&nbsp;&nbsp;&nbsp;\n\
+        \        <a href=\"#\" class=\"advTips\" title=\"Now that you have selected\
+        \ a FOIA report type and an agency to search, select a Fiscal Year for the\
+        \ FOIA Report data. You can choose any year we have data for, or all available\
+        \ years.\"><img src=\"images/question-icon.gif\" alt=\"\"/></a>\n        </div>\n\
+        \        <h2>Would you like your report to include additional attributes?</h2>\n\
+        \        <div style=\"float:right; margin: -45px 0 0;\">\n        <input type=\"\
+        radio\" name=\"aAttribute\" id=\"aAttrYes\" title=\"AttrYes\" onclick=\"javascript:changeAttrSelect(1);\"\
+        />Yes&nbsp;&nbsp;&nbsp;&nbsp;\n        <input type=\"radio\" name=\"aAttribute\"\
+        \ id=\"aAttrNo\" title=\"AttrNo\" checked=\"true\" onclick=\"javascript:changeAttrSelect(0);\"\
+        />No&nbsp;&nbsp;&nbsp;&nbsp;\n        <a href=\"#\" class=\"advTips\" title=\"\
+        Choose Yes/No to toggle searching for specific attributes of your FOIA Report\
+        \ data. If you are interested in, for example, a very detailed report on the\
+        \ FOIA Reports for the Department of Justice in 2009, you can toggle the Yes\
+        \ button to specify the exact amount ranges you are interested in.\"><img\
+        \ src=\"images/question-icon.gif\" alt=\"\"/></a>\n        </div>\n      \
+        \  <div class=\"clear\"></div>\n        <div id=\"selectionAttributes\" style=\"\
+        display:none;\">\n        <div style=\"float: right; font-size: 18px; font-weight:\
+        \ bold; \">\n        <select id=\"requestField\" class=\"agencyTextbox\" title=\"\
+        Select a Report Attribute\">\n      \t<option value=\"\" disabled>Select a\
+        \ Report Attribute:</option>\n        </select>&nbsp;&nbsp;to&nbsp;be&nbsp;&nbsp;\n\
+        \        <select id=\"comparator\" class=\"agencyTextbox\" title=\"comparator\"\
+        >\n      \t<option value=\".gt.\">Greater Than&nbsp;&nbsp;</option>\n    \
+        \  \t<option value=\".lt.\">Less Than&nbsp;&nbsp;</option>\n      \t<option\
+        \ value=\".eq.\">Equal To&nbsp;&nbsp;</option>\n        </select><a href=\"\
+        #\" class=\"advTips\" title=\"Now that you've picked your FOIA Report type,\
+        \ the Federal Agencies, and your year, you can pick specific details of your\
+        \ report. For instance, if you're specifically interested in FOIA Requests\
+        \ for the Department of Justice in 2009, you can select all the Requests still\
+        \ Pending that are greater than, say, five. Try it out!\"><img src=\"images/question-icon.gif\"\
+        \ style=\"margin: 0 0 5px 5px;\" alt=\"\"/></a>\n        </div>\n        <div\
+        \ class=\"clear\"></div>\n        <h2>This Number:</h2>\n        <div style=\"\
+        float:right; margin: -50px 0 0; font-size: 18px; font-weight: bold; \">\n\
+        \        <input type=\"text\" id=\"compValue\" placeholder=\"Enter a Numeric\
+        \ Value\" class=\"agencyTextbox\" title=\"Value to compare\"/><a href=\"#\"\
+        \ class=\"advTips\" title=\"Enter a number in the field to the left. You can\
+        \ use this function in conjunction with the previous one (Select a Report\
+        \ Attribute) to quickly narrow your search down to very specific FOIA data.\"\
+        ><img src=\"images/question-icon.gif\" style=\"margin: 0 0 5px 5px;\" alt=\"\
+        \"/></a>\n        </div>\n        <div id=\"selectPsTime\" style=\"display:none;\"\
+        >\n          <select name=\"psReport\" class=\"agencyTextbox\" id=\"psReport\"\
+        \ onchange=\"javascript:setPSsearchField(); \" title=\"Report for Process\
+        \ Time\">\n\t\t    <option value=\"0\">VII.A. FOIA REQUESTS -- RESPONSE TIME\
+        \ FOR ALL PROCESSED PERFECT</option>\n\t\t    <option value=\"1\">VII.B. PROCESSED\
+        \ REQUESTS -- RESPONSE TIME FOR PERFECT REQUESTED IN WHICH INFORMATION WAS\
+        \ GRANTED</option>\n\t\t    <option value=\"2\">VII.C. PROCESSED REQUESTS\
+        \ -- RESPONSE TIME IN DAY INCREMENTS (SIMPLE REQUESTS)</option>\n\t\t    <option\
+        \ value=\"3\">VII.C. PROCESSED REQUESTS -- RESPONSE TIME IN DAY INCREMENTS\
+        \ (COMPLEX REQUESTS)</option>\n\t\t    <option value=\"4\">VII.C. PROCESSED\
+        \ REQUESTS -- RESPONSE TIME IN DAY INCREMENTS (REQUESTS GRANTED EXPEDITED\
+        \ PROCESSING)</option>\n\t\t    <option value=\"5\">VII.D. PENDING REQUESTS\
+        \ -- ALL PENDING PERFECTED REQUESTS</option>\n\t\t    <option value=\"6\"\
+        >VII.E. PENDING REQUESTS -- TEN OLDEST PERFECTED REQUESTS</option>\n\t\t \
+        \   </select>\n\t\t</div>\n\t\t</div>\n        <div class=\"clear\"></div>\n\
+        \      </div>\n\n    </div>\n    </div>\n    <div class=\"lineshadow\"></div>\n\
+        \    <div class=\"clear\">&nbsp;</div>\n    <!-- End Create Report Box -->\n\
+        \n    <!-- Table Container -->\n    <div id=\"tableContainer\">\n    <div\
+        \ id=\"foiaData\">\n    </div>\n  </div>\n  </div>\n  <!-- End Table Container\
+        \ -->\n  <div class=\"clear\"></div>\n  </div>\n</div>\n<!-- End Content -->\n\
+        </div>\n<!-- End Main Page -->\n\n<!-- Start Footer -->\n<div id=\"footer\"\
+        ><a href=\"footerLinks\" id=\"footerLinks\"></a> <a href=\"/index.html\"><img\
+        \ src=\"images/foia-footer.gif\" alt=\"Foia.gov\" /><span>Foia.gov</span></a>\r\
+        \n  <div id=\"footerNav\">\r\n  <ul>\r\n    <li><a href=\"sitemap.html\">Site\
+        \ Map</a></li>\r\n\t<li><a href=\"accessibility.html\">Accessibility</a></li>\r\
+        \n\t<li><a href=\"foia-info.html\">FOIA</a></li>\r\n\t<li><a href=\"privacy.html\"\
+        >Privacy Policy</a></li>\r\n\t<li><a href=\"legal.html\">Policies &amp; Disclaimers</a></li>\r\
+        \n\t<li><a href=\"quality.html\">Information Quality</a></li>\r\n\t<li><a\
+        \ href=\"developer.html\">Developer Resources</a></li>\r\n\t<li><a href=\"\
+        http://www.justice.gov\">Justice.gov</a></li>\r\n\t<li><a href=\"http://www.usa.gov\"\
+        >USA.gov</a></li>\r\n  </ul>\r\n  </div>\r\n  <div class=\"clear\">&nbsp;</div>\r\
+        \n  <div align=\"center\">\r\n    <a href=\"http://www.data.gov/\"><img src=\"\
+        images/datagov-footer.gif\" alt=\"Data.gov\" /><span>Data.gov</span></a>\r\
+        \n\t<a href=\"http://www.whitehouse.gov/open\"><img src=\"images/opengov-footer.gif\"\
+        \ alt=\"Open.gov\" /><span>Whitehouse.gov/open</span></a>\r\n\t<a href=\"\
+        http://www.usaspending.gov/\"><img src=\"images/usaspending-footer.gif\" alt=\"\
+        USASpending.gov\" /><span>USASpending.gov</span></a>\r\n    <a href=\"http://www.recovery.gov/\"\
+        ><img src=\"images/recoverygov-footer.gif\" alt=\"Recovery.gov\" /><span>Recovery.gov</span></a>\r\
+        \n  </div>\r\n</div>\n<!-- End Footer -->\n</div>\n</div>\n<!-- End FOIA Template\
+        \ -->\n<div id=\"shadowFilter\" class=\"blockout\" style=\"display:none;\"\
+        ></div>\n<!-- Start Popup Window -->\n<div id=\"popupMsg\" class=\"popupWindow\"\
+        \ style=\"display:none;\">\n\t<div class=\"popupClose\"><a href=\"javascript:popupWinClose();\"\
+        >close</a><a href=\"javascript:popupWinClose();\"><img src=\"images/popup-close.gif\"\
+        \ alt=\"Close Window\" /></a></div>\n\t<div class=\"clear\"></div>\n\t<div\
+        \ class=\"popupBody\" id=\"popupMsgBody\">\n\t\t<!-- Popup Body -->\n\t</div>\n\
+        </div>\n<!-- End Popup Window -->\n<!-- Start Popup Window -->\n<div id=\"\
+        componentSelection\" class=\"popupWindow\" style=\"display:none;\">\n\t<div\
+        \ class=\"popupClose\"><a href=\"javascript:popupWinClose();\">close</a><a\
+        \ href=\"javascript:popupWinClose();\"><img src=\"images/popup-close.gif\"\
+        \ alt=\"Close Window\" /></a></div>\n\t<div class=\"clear\"></div>\n\t<input\
+        \ type=\"hidden\" id=\"agencyName\" value=\"DOJ\" />\n\t<!--Redundant Link::<div\
+        \ style=\"float:right; margin: 30px 30px 0 0;\"><a href=\"javascript:setAgencyComponent();\"\
+        \ class=\"setButton\"><span>Set</span></a></div>-->\n\t<h1>SELECT COMPONENTS</h1>\n\
+        \t<div class=\"popupBody\" id=\"componentSelectionData\">\n\t\t<!-- Popup\
+        \ Body -->\n\t</div>\n\t<div style=\"float: right; margin: 0 30px 30px 30px;\"\
+        >\n    <a href='javascript:clearAgencyComponent();' class=\"clearButton\"\
+        \ style=\"font-size: 18px; margin: 0 90px 0 0;\"><span>Start a New Search</span></a>\n\
+        \    <a href=\"javascript:setAgencyComponent();\" class=\"setButton\" style=\"\
+        float: right; margin: -29px 0 0 0;\"><span>Set</span></a></div>\n\t<div class=\\\
+        \"clear\\\"></div>\n</div>\n<!-- Start Popup Window -->\n<div id=\"popupVideo\"\
+        \ class=\"popupVideo\" style=\"display:none;\">\n\n</div>\n<!-- End Popup\
+        \ Window -->\n\n<script type=\"text/javascript\">\n\nvar ajaxHost=\"foia/\"\
+        ;\nvar textbox;\nvar noAgency=4;\nvar listAgencyPage=0;\nvar openSelection;\n\
+        var lineAgencySelection=1;\nvar pageAgencySelection=15;\nvar dynaText=\"For\
+        \ Information on the terms used, consult the FOIA Glossary\";\n\nvar reportSelection=\"\
+        reportRequests\";\t//navigation point\nvar searchCriteria=\"\";\t//advance\
+        \ search criteria string\nvar advanceSearchEnable=false;\nvar selectionPs=0;\n\
+        var jumpLocation=\"\";\n\n//#### page initial works\ngetListAgencyinPage();\n\
+        setReportSelect(reportSelection);\n//setSearchFields(0);\nchangeReportSelect();\n\
+        setAgencyList();\ninitRequests();\n//####\n\n$('a.advTips').qtip({\n\tcontent:\
+        \ false,\n\thide: {\n            fixed: true,\n            delay: 240\n  \
+        \       },\n\tstyle: { width: 400, padding: 5, color: '#ffffff', background:\
+        \ '#577493', border:{width:7, radius: 5, color: '#577493'}, tip: 'topMiddle'},\n\
+        \tposition: {\n      corner: {\n         target: 'bottomMiddle',\n       \
+        \  tooltip: 'topMiddle'\n      }\n   }\n});\n\n$('a.foiaBasicSearchText').qtip({\n\
+        \tcontent: 'To create a Basic Report on FOIA.gov, you will need to follow\
+        \ some simple steps.<br /><br />First, select your Report type in the Select\
+        \ Report column. You can do this by clicking on any one of the available categories,\
+        \ such as Requests or Administration.<br /><br /> Next, you will select the\
+        \ agency you want your report on. Type the Agency name in the text field,\
+        \ or use the Show List of Agencies link below the text area to bring up a\
+        \ full list of agencies. You can also add more agencies to your search with\
+        \ the Plus or Minus button to the right of the text area.<br /><br />Lastly,\
+        \ pick the Fiscal Year(s) for your report, and hit the Generate Report button.\
+        \ Your FOIA.gov custom report will generate in the area below the search tools.',\n\
+        \thide: {\n            fixed: true,\n            delay: 240\n         },\n\
+        \tstyle: { width: 500, padding: 5, color: '#ffffff', background: '#577493',\
+        \ border:{width:7, radius: 5, color: '#577493'}, tip: 'topMiddle'},\n\tposition:\
+        \ {\n      corner: {\n         target: 'bottomMiddle',\n         tooltip:\
+        \ 'topMiddle'\n      }\n   }\n});\n$('a.swBasicSearch').qtip({\n\tcontent:\
+        \ 'Click here to toggle the Advanced Search features of FOIA.gov.<br /><br\
+        \ />On the Advanced Search page, you will be able to move step-by-step through\
+        \ the FOIA.gov Data.',\n\thide: {\n            fixed: true,\n            delay:\
+        \ 240\n         },\n\tstyle: { width: 300, padding: 5, color: '#ffffff', background:\
+        \ '#577493', border:{width:7, radius: 5, color: '#577493'}, tip: 'topMiddle'},\n\
+        \tposition: {\n      corner: {\n         target: 'bottomMiddle',\n       \
+        \  tooltip: 'topMiddle'\n      }\n   }\n});\n\nfunction initRequests(){\n\
+        var requestString=\"foia/FoiaInit.jsp?test\";\n\n\ttry{\n\t\t//alert(location.search);\n\
+        \t\tif(location.search != \"\"){\n\t\t\trequestString=location.search;\n\t\
+        \t\t//alert(\"1\"+location.search.charAt(0)+\"2\"+location.search.charAt(1)+\"\
+        3\"+location.search.charAt(2));\n\t\t\tif(location.search.charAt(0) == '?'){\n\
+        \t\t\t\t//alert(requestString);\n\t\t\t\trequestString=location.search.substr(1);\n\
+        \t\t\t\t//alert(requestString);\n\t\t\t}\n\t\t\tdivAjaxData=\"foiaData\";\n\
+        \t\t\tIEAjaxRequest(requestString);\n\t\t}else{\n\t\t\tdivAjaxData=\"foiaData\"\
+        ;\n\t\t\tIEAjaxRequest(requestString);\n\t\t}\n\t}catch(e){}\n}\n\n\n//construct\
+        \ agency for dropdown list\nfunction setAgencyList(){\n\tvar x;\n\tvar options;\n\
+        \n\n\tx=document.getElementById(\"agencyList\");\n\t//alert(agencies.length);\n\
+        \tfor(var i=0;i<agencies.length;++i){\t\t//include \"All Agencies\" option\n\
+        \t\tif(agenciesAb[i].length >1){\n\t\t\toptions=document.createElement('option');\n\
+        \t\t\toptions.value=agenciesAb[i];\n\t\t\toptions.text=agencies[i];\n\t\t\t\
+        try{\n\t\t\t\tx.add(options,null);\n\t\t\t}catch(ex){\n\t\t\t\tx.add(options);\n\
+        \t\t\t}\n\t\t}\n\t}\n}\n\n//construct different searching filters for report\
+        \ selected\nfunction setSearchFields(no){\n\tvar x;\n\tvar fields=aFieldCondition[no];\n\
+        \tvar nofields=aNoFieldCondition[no];\n\tvar options;\n\tvar ctlLength;\n\n\
+        \t//if(no == 3){\t//for Preccessing Time dropdown list\n\t//\tx=document.getElementById(\"\
+        selectPsTime\");\n\t//\tif(x != null) x.style.display='block';\n\t//}else{\n\
+        \t\tx=document.getElementById(\"selectPsTime\");\n\t\tif(x != null) x.style.display='none';\n\
+        \t//}\n\n\tx=document.getElementById(\"requestField\");\n\tctlLength=x.length;\n\
+        \tfor(var i=1;i<ctlLength;++i){\n\t\tif(x.length == 1) break;\n\t\tx.remove(1);\n\
+        \t}\n\n\tfor(var i=0;i<fields.length;++i){\n\t\toptions=document.createElement('option');\n\
+        \t\toptions.value=nofields[i];\n\t\tif(nofields[i] == 0){\n\t\t\toptions.text=(fields[i]);\n\
+        \t\t\toptions.disabled=\"disabled\";\n\t\t}else{\n\t\t\toptions.text=(\" \
+        \ \"+fields[i]);\n\t\t}\n\n\t\ttry{\n\t\t\tx.add(options,null);\n\t\t}catch(ex){\n\
+        \t\t\tx.add(options);\n\t\t}\n\t}\n\n\t//x=document.getElementById(\"comparator\"\
+        );\n}\n\n\nfunction setReportSelect(reportName){\n\tvar x=document.getElementById(reportName);\n\
+        \n\tif(x != null){\n\t\t//x.style.color=\"#fff\";\n\t\t//x.style.background=\"\
+        url(images/report-list-bg.jpg) top left repeat-x\";\n\t\ttry{\n\t\t\tx.className=\"\
+        reportSelected\";\n\t\t\tif(reportName == \"reportAdministration\"){\n\t\t\
+        \t\tx=document.getElementById(\"reportPersonnel\");\n\t\t\t\tx.className=\"\
+        reportSelected\";\n\t\t\t}\n\t\t\tif(reportName == \"reportPersonnel\"){\n\
+        \t\t\t\tx=document.getElementById(\"reportAdministration\");\n\t\t\t\tx.className=\"\
+        reportSelected\";\n\t\t\t}\n\t\t\treportSelection=reportName;\n\t\t}catch(ex){\n\
+        \t\t}\n\t}\n}\n\nfunction PageInit(){\n\tvar x=document.getElementById(\"\
+        foiaText\");\n\n\tif(x != null) dynaText=x.innerHTML;\n\n$('a.foiaHelpText').qtip({\n\
+        \tcontent: dynaText,\n\thide: {\n            fixed: true,\n            delay:\
+        \ 240\n         },\n\tstyle: { width: 500, padding: 5, color: '#ffffff', background:\
+        \ '#577493', border:{width:7, radius: 5, color: '#577493'}, tip: 'bottomRight'},\n\
+        \tposition: {\n      corner: {\n         target: 'topLeft',\n         tooltip:\
+        \ 'bottomRight'\n      }\n   }\n});\n\n}\n\nfunction toggleDiv(section){\n\
+        \tif($(\"#agencyInfo\"+section).css(\"display\")==\"none\"){\n\t\t$(\"#agencyInfo\"\
+        +section).show(800);\n\t}else{\n\t\t$(\"#agencyInfo\"+section).slideUp(800);\n\
+        \t}\n}\n</script>\n<noscript>\n<p>Javascript is either not enabled or not\
+        \ available.</p>\n</noscript>\n<noembed>\n<p>Javascript is either not enabled\
+        \ or not available.</p>\n</noembed>\n\n</body>\n</html>\n"}
+    headers:
+      Accept-Ranges: [bytes]
+      Connection: [Keep-Alive]
+      Content-Type: [text/html]
+      Date: ['Mon, 29 Dec 2014 18:51:13 GMT']
+      Keep-Alive: ['timeout=15, max=100']
+      P3P: [CP="NON IND"]
+      Set-Cookie: [TSd36f82=fc269f11c238fb659a89a2b474a647b9db113e302661f1b254a1a2a1;
+          Path=/]
+      Transfer-Encoding: [chunked]
+    status: {code: 200, message: OK}
+version: 1

@@ -6,3 +6,4 @@ xlrd
 flake8
 mock
 nose
+vcrpy
