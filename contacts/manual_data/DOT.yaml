@@ -8,6 +8,8 @@ departments:
 - name: Surface Transportation Board
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
 - name: Federal Motor Carrier Safety Administration
+  emails:
+  - foia@fmcsa.gov
   website: http://www.fmcsa.dot.gov/foia
 - name: Saint Lawrence Seaway Development Corporation
   emails: []
