@@ -15,6 +15,7 @@ import yaml
 PROCESSING_TIMES_URL = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
 YEARS_URL = 'http://www.foia.gov/data.html'
 
+
 def load_mapping(years=None):
     """
     Opens yaml mapping file and creates a mapping key to translate from
