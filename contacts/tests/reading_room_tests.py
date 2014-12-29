@@ -6,6 +6,23 @@ import requests
 import layer_with_reading_room as reading
 
 
+class MockHistory():
+    """ A mock 301 response. """
+
+    def __init__(self):
+        self.status_code = 301
+        self.headers = {'Location': 'http://newurl.gov'}
+
+
+class MockResponse():
+    """ A mock requests response object that has a history, and so simulates a
+    301 or 302 redirect """
+
+    def __init__(self):
+        f = MockHistory()
+        self.history = [f]
+
+
 class ReadingRoomTests(TestCase):
 
     def test_get_base_url(self):
@@ -19,6 +36,9 @@ class ReadingRoomTests(TestCase):
         self.assertFalse(reading.domains_match(website, reading_room))
 
         reading_room = 'http://www.fcc.gov/oip/foia/reading-room'
+        self.assertTrue(reading.domains_match(website, reading_room))
+
+        reading_room = 'http://foia.fcc.gov/'
         self.assertTrue(reading.domains_match(website, reading_room))
 
     def test_clean_link_text(self):
@@ -131,3 +151,19 @@ class ReadingRoomTests(TestCase):
         links = [['text one', 'http://testone.gov/resources/foialibrary/']]
         uniques = reading.unique_links(links)
         self.assertEqual([], uniques)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_redirect(self, req):
+        req.return_value = MockResponse()
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([['text one', 'http://newurl.gov']], uniques)
+
+    @patch('layer_with_reading_room.requests.get')
+    def test_unique_links_redirect_301(self, req):
+        fake_response = MockResponse()
+        fake_response.history[0].status_code = 302
+        req.return_value = fake_response
+        links = [['text one', 'http://testone.gov/resources/foialibrary/']]
+        uniques = reading.unique_links(links)
+        self.assertEqual([['text one', 'http://newurl.gov']], uniques)

@@ -136,7 +136,7 @@ class ScraperTests(TestCase):
 
         applied = scraper.actual_apply(agency_data, manual_data)
 
-        #new keywords added, but emails overwritten
+        # New keywords added, but emails overwritten.
         self.assertEqual(
             applied['emails'],
             ['public.liaison@agency.gov'])
@@ -684,7 +684,7 @@ class ProcessingTimeScaperTests(TestCase):
     def test_get_years(self):
         """ Verify that the correct years are retrieved """
 
-        years = processing_time_scraper. get_years()
+        years = processing_time_scraper.get_years()
         years = sorted(years)
         self.assertEqual(['2008', '2009', '2010', '2011'], years[0:4])
 
