@@ -108,6 +108,11 @@ def scrape_reading_room_links(content, website_url):
     return links
 
 
+def reading_room_links(response):
+    """ Call the scraper with the appropriate parts of the response. """
+    return scrape_reading_room_links(response.content, response.url)
+
+
 def process(data):
     """ Actually scrape and clean up the reading room or library links. """
 
@@ -121,8 +126,7 @@ def process(data):
             return None
 
         if response.status_code == 200:
-            links = scrape_reading_room_links(
-                response.content, data['website'])
+            links = reading_room_links(response)
             links = unique_links(links)
             if len(links) == 0:
                 return None

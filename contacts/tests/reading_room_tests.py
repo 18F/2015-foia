@@ -21,6 +21,8 @@ class MockResponse():
     def __init__(self):
         f = MockHistory()
         self.history = [f]
+        self.content = ''
+        self.url = 'http://newurl.gov'
 
 
 class ReadingRoomTests(TestCase):
@@ -167,3 +169,10 @@ class ReadingRoomTests(TestCase):
         links = [['text one', 'http://testone.gov/resources/foialibrary/']]
         uniques = reading.unique_links(links)
         self.assertEqual([['text one', 'http://newurl.gov']], uniques)
+
+    @patch('layer_with_reading_room.scrape_reading_room_links')
+    def test_reading_room_links(self, scraper):
+        scraper.return_value = None
+        fake_response = MockResponse()
+        reading.reading_room_links(fake_response)
+        scraper.assert_called_once_with('', 'http://newurl.gov')
