@@ -23,6 +23,8 @@ departments:
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2008': {}
@@ -949,6 +951,8 @@ public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
 reading_rooms:
 - - E-FOIA Reading Room
   - http://portal.hud.gov/hudportal/HUD/program_offices/administration/foia/readingroom
+- - E-FOIA Reading Room
+  - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
 request_form: https://hudpal.efoia-host.com/palMain.aspx
 request_time_stats:
   '2008': {}

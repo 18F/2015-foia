@@ -1134,6 +1134,8 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.dla.mil/foia-privacy/Pages/FOIAReading.aspx
+  - - Electronic Reading Room
+    - http://www.dla.mil/FOIA-PRIVACY/Pages/FOIAReading.aspx
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -1737,6 +1739,9 @@ departments:
   name: National Security Agency
   phone: 301-688-6527
   public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
+  reading_rooms:
+  - - Reading Room
+    - https://www.nsa.gov/public_info/foia/reading_room/index.shtml
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
   request_time_stats:
     '2008':
@@ -2012,6 +2017,9 @@ departments:
   name: U.S. Central Command
   phone: 813-827-1810
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - Reading Room
+    - https://www2.centcom.mil/sites/foia/rr/default.aspx
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
   request_time_stats:
     '2008':
@@ -2390,6 +2398,9 @@ departments:
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://pwww.socom.mil/FOIA/Pages/ElectronicReadingRoom.aspx
   request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   request_time_stats:
     '2008':

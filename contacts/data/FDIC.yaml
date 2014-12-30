@@ -13,6 +13,9 @@ departments:
   name: Federal Deposit Insurance Corporation
   phone: 202-898-7021
   public_liaison: 'Cottrell L. Webster, Phone: (703) 562-6040'
+  reading_rooms:
+  - - Reading Room
+    - https://www.fdic.gov/about/freedom/readingroom.html
   request_form: https://efoiarequest.fdic.gov/palMain.aspx?protocol=https
   service_center: 'Phone: (202) 898-7021'
   top_level: false

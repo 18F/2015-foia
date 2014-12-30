@@ -194,6 +194,9 @@ departments:
   name: Administration for Children and Families
   phone: 888-747-1861
   public_liaison: 'Kenneth Wolfe, Phone: (202) 401-9215'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.acf.hhs.gov/e-reading-room
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   request_time_stats:
     '2008':

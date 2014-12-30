@@ -17,6 +17,8 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.pbgc.gov/about/news/other/res/electronic-reading-room.html
+  - - Electronic Reading Room
+    - http://www.pbgc.gov:80/about/pg/footer/news/other/res/electronic-reading-room.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center: 'Phone: (202) 326-4040'
   top_level: false

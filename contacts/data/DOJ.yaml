@@ -1186,6 +1186,8 @@ departments:
     - http://www.justice.gov/usao/resources/foialibrary/
   - - FOIA Library
     - http://www.justice.gov/usao/foia-library
+  - - FOIA Library
+    - http://www.justice.gov/usao/resources/foia-library
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -1365,6 +1367,8 @@ departments:
   reading_rooms:
   - - FBI Headquarters Reading Room
     - http://www.fbi.gov/foia/fbi-headquarters-reading-room
+  - - Vault
+    - http://vault.fbi.gov/
   request_time_stats:
     '2008':
       complex_average_days: '374'
@@ -2055,6 +2059,9 @@ departments:
   name: Office of Justice Programs
   phone: 202-616-3267
   public_liaison: 'George Pruden, Phone: (202) 616-3267'
+  reading_rooms:
+  - - FOIA Library
+    - http://ojp.gov/about/foia/reading_room.htm
   request_time_stats:
     '2008':
       complex_average_days: '60.8'
@@ -2731,6 +2738,8 @@ departments:
     - http://www.justice.gov/usao/foia-library
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foiarequests/../foialibrary
+  - - FOIA Library
+    - http://www.justice.gov/usao/resources/foia-library
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/

@@ -240,8 +240,12 @@ departments:
   phone: 301-734-8296
   public_liaison: 'Tonya Woods, Phone: (301) 734-5267'
   reading_rooms:
+  - - FOIA Reading Room
+    - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   - - Freedom of Information Act (FOIA) Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
+  - - Freedom of Information Act (FOIA) Reading Room
+    - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
