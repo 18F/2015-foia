@@ -19,6 +19,8 @@ departments:
 - name: United States Secret Service
   top_level: true
 - name: Transportation Security Administration
+  emails:
+  - FOIA@tsa.dhs.gov
   top_level: true
   website: http://www.tsa.gov/research-center/freedom-information-act-foia
 - name: Office for Civil Rights and Civil Liberties

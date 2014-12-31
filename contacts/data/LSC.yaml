@@ -18,6 +18,32 @@ departments:
   - - FOIA Electronic Public Reading Room
     - http://www.lsc.gov/about/foia/electronic-public-reading-room
   request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
+  request_time_stats:
+    '2010':
+      complex_average_days: '101'
+      complex_highest_days: '222'
+      complex_lowest_days: '28'
+      complex_median_days: '77'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '41'
+      expedited_processing_median_days: '0'
+      simple_average_days: '156'
+      simple_highest_days: '482'
+      simple_lowest_days: '21'
+      simple_median_days: '77'
+    '2011':
+      complex_average_days: '256'
+      complex_highest_days: '881'
+      complex_lowest_days: '1'
+      complex_median_days: '222'
+      expedited_processing_average_days: '31'
+      expedited_processing_highest_days: '31'
+      expedited_processing_lowest_days: '31'
+      simple_average_days: '223'
+      simple_highest_days: '728'
+      simple_lowest_days: '1'
+      simple_median_days: '195'
   service_center: 'Phone: (202) 295-1500'
   top_level: false
   website: http://www.lsc.gov/foia2/
@@ -38,4 +64,48 @@ keywords:
 - Migrant labor
 - Reporting and recordkeeping requirements
 name: Legal Services Corporation
+request_time_stats:
+  '2010':
+    complex_average_days: '101'
+    complex_highest_days: '222'
+    complex_lowest_days: '28'
+    complex_median_days: '77'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '41'
+    expedited_processing_lowest_days: '41'
+    expedited_processing_median_days: '0'
+    simple_average_days: '156'
+    simple_highest_days: '482'
+    simple_lowest_days: '21'
+    simple_median_days: '77'
+  '2011':
+    complex_average_days: '256'
+    complex_highest_days: '881'
+    complex_lowest_days: '1'
+    complex_median_days: '222'
+    expedited_processing_average_days: '31'
+    expedited_processing_highest_days: '31'
+    expedited_processing_lowest_days: '31'
+    simple_average_days: '223'
+    simple_highest_days: '728'
+    simple_lowest_days: '1'
+    simple_median_days: '195'
+  '2012':
+    complex_average_days: '22'
+    complex_highest_days: '29'
+    complex_lowest_days: '17'
+    complex_median_days: '21'
+    expedited_processing_average_days: '9'
+    expedited_processing_highest_days: '19'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '6'
+    simple_average_days: '8.11'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2013':
+    simple_average_days: '9.94'
+    simple_highest_days: '53'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
 usa_id: '49442'

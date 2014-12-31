@@ -933,6 +933,75 @@ departments:
   - - OIG FOIA Library
     - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      complex_average_days: '998.05'
+      complex_highest_days: '2674'
+      complex_lowest_days: '3'
+      expedited_processing_average_days: '217'
+      expedited_processing_highest_days: '217'
+      expedited_processing_lowest_days: '217'
+      expedited_processing_median_days: '217'
+      simple_average_days: '24.8'
+      simple_highest_days: '98'
+      simple_lowest_days: '4'
+      simple_median_days: '19.5'
+    '2009':
+      complex_average_days: '1006.32'
+      complex_highest_days: '2850'
+      complex_lowest_days: '1'
+      simple_average_days: '63'
+      simple_highest_days: '189'
+      simple_lowest_days: '3'
+      simple_median_days: '51'
+    '2010':
+      complex_average_days: '142'
+      complex_highest_days: '457'
+      complex_lowest_days: '1'
+      complex_median_days: '99'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2011':
+      complex_average_days: '1056'
+      complex_highest_days: '2235'
+      complex_lowest_days: '20'
+      complex_median_days: '1131'
+      expedited_processing_average_days: '43'
+      expedited_processing_highest_days: '127'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '40'
+      simple_average_days: '13'
+      simple_highest_days: '44'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2012':
+      complex_average_days: '534'
+      complex_highest_days: '1870'
+      complex_lowest_days: '1'
+      complex_median_days: '127'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '70'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '14'
+      simple_average_days: '10'
+      simple_highest_days: '81'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2013':
+      complex_average_days: '354'
+      complex_highest_days: '1492'
+      complex_lowest_days: less than 1
+      complex_median_days: '81'
+      expedited_processing_average_days: '102'
+      expedited_processing_highest_days: '353'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '50'
+      simple_average_days: '18'
+      simple_highest_days: '120'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center: 'Phone: (202) 208-0954'
   top_level: false
   website: http://www.doi.gov/oig/foia/index.cfm
@@ -1420,4 +1489,81 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Interior
+request_time_stats:
+  '2008':
+    complex_average_days: '25.64'
+    complex_highest_days: '2674'
+    complex_lowest_days: '0'
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '217'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '6'
+    simple_average_days: '2'
+    simple_highest_days: '642'
+    simple_lowest_days: '0'
+    simple_median_days: '1'
+  '2009':
+    complex_average_days: '31.35'
+    complex_highest_days: '2850'
+    complex_lowest_days: less than 1
+    expedited_processing_average_days: '6'
+    expedited_processing_highest_days: '29'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '4'
+    simple_average_days: '3'
+    simple_highest_days: '189'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'
+  '2010':
+    complex_average_days: '32'
+    complex_highest_days: '1185'
+    complex_lowest_days: less than 1
+    complex_median_days: '16'
+    expedited_processing_average_days: '28'
+    expedited_processing_highest_days: '124'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '16'
+    simple_average_days: '4'
+    simple_highest_days: '75'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'
+  '2011':
+    complex_average_days: '44'
+    complex_highest_days: '2235'
+    complex_lowest_days: less than 1
+    complex_median_days: '16'
+    expedited_processing_average_days: '138'
+    expedited_processing_highest_days: '265'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '175'
+    simple_average_days: '3'
+    simple_highest_days: '55'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'
+  '2012':
+    complex_average_days: '44'
+    complex_highest_days: '1497'
+    complex_lowest_days: less than 1
+    complex_median_days: '17'
+    expedited_processing_average_days: '48'
+    expedited_processing_highest_days: '369'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '12'
+    simple_average_days: '2'
+    simple_highest_days: '29'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'
+  '2013':
+    complex_average_days: '43'
+    complex_highest_days: '1492'
+    complex_lowest_days: less than 1
+    complex_median_days: '17'
+    expedited_processing_average_days: '63'
+    expedited_processing_highest_days: '579'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '19'
+    simple_average_days: '3'
+    simple_highest_days: '120'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'
 usa_id: '49033'

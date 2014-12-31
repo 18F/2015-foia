@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
+from copy import deepcopy
 import logging
 from glob import glob
 import os
@@ -11,32 +12,47 @@ import yaml
 """ This script scrapes processing times data from foia.gov and dumps
     the data in both the yaml files and `request_time_data.csv`."""
 
+PROCESSING_TIMES_URL = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
+YEARS_URL = 'http://www.foia.gov/data.html'
 
-def load_mapping():
-    """ Loads mapping of yamls to foia.gov data """
+
+def load_mapping(years=None):
+    """
+    Opens yaml mapping file and creates a mapping key to translate from
+    foia.gov/data names to yaml data names for each year. Both key and
+    value are formatted as `name_filename_year`.
+    """
 
     key = {}
-    years = get_years()
-    with open('layering_data/data_mapping_key.csv', 'r') as csvfile:
-        datareader = csv.reader(csvfile)
-        for row in datareader:
-            for year in years:
-                key["{0}_{1}_{2}".format(row[0], year, row[1])] = \
-                    "{0}_{1}_{2}".format(row[2], year, row[1])
+
+    if years is None:
+        years = get_years()
+
+    with open('layering_data/foiadata_to_yaml_mapping.yaml', 'r') as f:
+        mapping = yaml.load(f.read())
+    for element in mapping:
+        for year in years:
+            yaml_name = "{0}_{1}".format(element, year).lower()
+            for name in mapping[element]:
+                foia_name = "{0}_{1}".format(name, year)
+                if not key.get(foia_name):
+                    key[foia_name] = [yaml_name]
+                else:
+                    key[foia_name].append(yaml_name)
     return key
 
 
-def apply_mapping(data):
+def apply_mapping(data, mapping=None):
     """ Applies mapping to make foia.gov data compatiable with yaml data """
 
-    mapping = load_mapping()
-    new_data = {}
-    for key in data.keys():
-        if key in mapping.keys():
-            new_data[mapping[key]] = data[key]
-        else:
-            new_data[key] = data[key]
-    return new_data
+    if mapping is None:
+        mapping = load_mapping()
+
+    for foia_data_name in mapping.keys():
+        if foia_data_name in data.keys():
+            for yaml_name in mapping[foia_data_name]:
+                data[yaml_name] = deepcopy(data[foia_data_name])
+    return data
 
 
 def delete_empty_data(data):
@@ -44,25 +60,34 @@ def delete_empty_data(data):
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == "NA" or data[key] == '':
+        if data[key] == '':
             del data[key]
     return data
 
 
-def append_time_stats(yaml_data, data, year, short_filename):
+def clean_data(data):
+    """
+    Deletes agency, year, and component attributes, which are not
+    added to the yamls and also any attributes with empty values
+    """
+    if data.get('agency'):
+        del data['agency'], data['year'], data['component']
+    return delete_empty_data(data)
+
+
+def append_time_stats(yaml_data, data, yaml_key, year):
     """ Appends request time stats to list under key request_time_stats"""
 
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['agency']
-    del data[yaml_data['name'] + year + short_filename]['year']
-    del data[yaml_data['name'] + year + short_filename]['component']
-    yaml_data['request_time_stats'][year.strip("_")] = \
-        delete_empty_data(data[yaml_data['name'] + year + short_filename])
+    cleaned_data = clean_data(data[yaml_key])
+    if cleaned_data:
+        yaml_data['request_time_stats'][year.strip("_")] = \
+            deepcopy(cleaned_data)
     return yaml_data
 
 
-def patch_yamls(data):
+def patch_yamls(top_level_data, dept_level_data):
     """ Patches yaml files with average times """
 
     years = get_years()
@@ -72,15 +97,18 @@ def patch_yamls(data):
             yaml_data = yaml.load(f.read())
         for year in years:
             year = "_%s" % year
-            if yaml_data['name'] + year + short_filename in data.keys():
+            agency_key = yaml_data['name'] + short_filename + year
+            agency_key = agency_key.lower()
+            if agency_key in top_level_data.keys():
                 yaml_data = append_time_stats(
-                    yaml_data, data, year, short_filename)
-                del data[yaml_data['name'] + year + short_filename]
+                    yaml_data, top_level_data, agency_key, year)
             for internal_data in yaml_data['departments']:
-                key = internal_data['name'] + year + short_filename
-                if key in data.keys():
+                office_key = internal_data['name'] + short_filename + year
+                office_key = office_key.lower()
+                if office_key in dept_level_data.keys():
                     internal_data = append_time_stats(
-                        internal_data, data, year, short_filename)
+                        internal_data, dept_level_data, office_key, year)
+
         with open(filename, 'w') as f:
             f.write(yaml.dump(
                 yaml_data, default_flow_style=False, allow_unicode=True))
@@ -100,7 +128,6 @@ def make_column_names():
     return columns
 
 
-
 def get_row_data(key, row_data, column_names):
     """
     Collects row data using column names while cleaning up
@@ -113,15 +140,24 @@ def get_row_data(key, row_data, column_names):
     return data
 
 
-def write_csv(data):
+def write_csv(data, top_level=False):
     """ Writes data to csv """
 
+    if top_level:
+        status = 'w'
+        level = 'agency'
+    else:
+        status = 'a'
+        level = 'office'
+
     column_names = make_column_names()
-    with open('request_time_data.csv', 'w', newline='') as csvfile:
+    with open('request_time_data.csv', status, newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['name'] + column_names)
+        writer.writerow(['name'] + column_names + ['level'])
         for key in sorted(data.keys()):
-            writer.writerow(get_row_data(key, data[key], column_names))
+            writing_data = get_row_data(key, data[key], column_names)
+            writing_data.append(level)
+            writer.writerow(writing_data)
 
 
 def clean_html(html_text):
@@ -178,14 +214,15 @@ def get_key_values(row_items, columns, year, title):
         else:
             row_array.append(item.text)
     value = zip_and_clean(columns, row_array)
-    key = title + "_%s" % year + "_%s" % value['agency']
+    key = title + "_%s" % value['agency'] + "_%s" % year
+    key = key.lower()
     return key, value
 
 
-def parse_html(url, params, data):
+def parse_html(html, params, data):
     """ Gets, caches, and parses html from foia.gov """
 
-    soup = BeautifulSoup(clean_html(fetch_page(url, params)))
+    soup = BeautifulSoup(clean_html(html))
     year = params['requestYear']
     table = soup.find("table", {"id": "agencyInfo0"})
     columns = clean_names([column.text for column in table.findAll("th")])
@@ -198,11 +235,14 @@ def parse_html(url, params, data):
     return data
 
 
-def get_years():
+def get_years(html=None):
     """ Gets year data by scraping the data page """
 
-    r = requests.get('http://www.foia.gov/data.html')
-    soup = BeautifulSoup(r.text)
+    if html is None:
+        r = requests.get(YEARS_URL)
+        html = r.text
+
+    soup = BeautifulSoup(html)
     boxes = soup.findAll("input", {"type": "checkbox"})
     years = []
     for box in boxes:
@@ -215,34 +255,37 @@ def all_years(url, params, data):
 
     for year in get_years():
         params["requestYear"] = year
-        data = parse_html(url, params, data)
+        html = fetch_page(url, params)
+        data = parse_html(html, params, data)
     return data
 
 
 def scrape_times():
     """ Loops through foia.gov data for processing time """
 
-    url = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
+    url = PROCESSING_TIMES_URL
     params = {"advanceSearch": "71001.gt.-999999"}
-    data = {}
-    data = all_years(url, params, data)
+    top_level_data = {}
+    top_level_data = all_years(url, params, top_level_data)
+    agencies = set([value['agency'] for value in top_level_data.values()])
     logging.info("compelete: %s", params.get('agencyName', "all"))
-    agencies = set([value['agency'] for value in data.values()])
+
+    dept_level_data = {}
     for agency in agencies:
         params["agencyName"] = agency
-        data = all_years(url, params, data)
+        dept_level_data = all_years(url, params, dept_level_data)
         logging.info("compelete: %s", params.get('agencyName', "all"))
-    data = apply_mapping(data)
-    write_csv(data)
-    patch_yamls(data)
+
+    write_csv(top_level_data, top_level=True)
+    write_csv(dept_level_data, top_level=False)
+
+    top_level_data = apply_mapping(top_level_data)
+    dept_level_data = apply_mapping(dept_level_data)
+
+    patch_yamls(top_level_data, dept_level_data,)
 
 
 if __name__ == "__main__":
-
-    """
-    This script scrapes processing times data from foia.gov and dumps
-    the data in both the yaml files and `request_time_data.csv.
-    """
 
     logging.basicConfig(level=logging.INFO)
     scrape_times()

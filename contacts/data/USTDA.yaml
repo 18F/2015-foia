@@ -15,6 +15,52 @@ departments:
   reading_rooms:
   - - USTDA FOIA Electronic Reading Room
     - http://www.ustda.gov/foia/foiareadingroom.asp
+  request_time_stats:
+    '2010':
+      complex_average_days: '105'
+      complex_highest_days: '303'
+      complex_lowest_days: '2'
+      complex_median_days: '60'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2011':
+      complex_average_days: '155.3'
+      complex_highest_days: '539'
+      complex_lowest_days: '1'
+      complex_median_days: '48'
+      expedited_processing_average_days: '62.5'
+      expedited_processing_highest_days: '109'
+      expedited_processing_lowest_days: '16'
+      expedited_processing_median_days: '62.5'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2012':
+      complex_average_days: '20.6'
+      complex_highest_days: '84'
+      complex_lowest_days: '7'
+      complex_median_days: '13'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2013':
+      complex_average_days: '15.75'
+      complex_highest_days: '44'
+      complex_lowest_days: '5'
+      complex_median_days: '10'
+>>>>>>> fa6904b36dccac22febbed9473a2874b8722a92f
   service_center: 'Phone: (703) 875-5578'
   top_level: false
   website: http://www.ustda.gov/pubs/foia/

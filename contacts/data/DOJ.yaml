@@ -2021,6 +2021,65 @@ departments:
   reading_rooms:
   - - 'Electronic Reading Room:'
     - http://www.justice.gov/oig/foia/eroom.htm
+  request_time_stats:
+    '2008':
+      simple_average_days: '23'
+      simple_highest_days: '317'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
+    '2009':
+      complex_average_days: '55'
+      complex_highest_days: '141'
+      complex_lowest_days: '22'
+      complex_median_days: '49'
+      expedited_processing_average_days: '52'
+      expedited_processing_highest_days: '105'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '51'
+      simple_average_days: '6'
+      simple_highest_days: '22'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2010':
+      complex_average_days: '99.37'
+      complex_highest_days: '813'
+      complex_lowest_days: '21'
+      complex_median_days: '37'
+      expedited_processing_average_days: '455'
+      expedited_processing_highest_days: '455'
+      expedited_processing_lowest_days: '455'
+      expedited_processing_median_days: '455'
+      simple_average_days: '5.95'
+      simple_highest_days: '23'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '86.1'
+      complex_highest_days: '163'
+      complex_lowest_days: '9'
+      complex_median_days: '92'
+      simple_average_days: '9.03'
+      simple_highest_days: '172'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2012':
+      complex_average_days: '59.27'
+      complex_highest_days: '306'
+      complex_lowest_days: '22'
+      complex_median_days: '50'
+      simple_average_days: '8.88'
+      simple_highest_days: '261'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2013':
+      complex_average_days: '72.51'
+      complex_highest_days: '497'
+      complex_lowest_days: '14'
+      complex_median_days: '65'
+      simple_average_days: '11.45'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
   service_center: 'Phone: (202) 616-0646'
   top_level: false
   website: http://www.justice.gov/oig/foia/

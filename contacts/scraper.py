@@ -234,7 +234,8 @@ def read_manual_data(agency_abbr, manual_data_dir='manual_data'):
     if os.path.isdir(manual_data_dir):
         filename = agency_yaml_filename(manual_data_dir, agency_abbr)
         if os.path.exists(filename):
-            manual_data = yaml.load(open(filename, 'r'))
+            with open(filename, 'r') as yaml_file:
+                manual_data = yaml.load(yaml_file)
             return manual_data
 
 

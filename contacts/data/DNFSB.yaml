@@ -16,6 +16,16 @@ departments:
   - - FOIA Reading RoomMake a FOIA Request, browse our FOIA Annual Reports and view
       frequently requested information from the public
     - http://www.dnfsb.gov/foia-reading-room
+  request_time_stats:
+    '2013':
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '7'
+      simple_average_days: '14.53'
+      simple_highest_days: '39'
+      simple_lowest_days: '6'
+      simple_median_days: '14'
   service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
   top_level: false
   website: http://www.dnfsb.gov/foia-reading-room
