@@ -402,9 +402,7 @@ departments:
   name: Office of Assistant Secretary for Management
   phone: 202-461-6677
   public_liaison: 'Miriam Smith, Phone: (202) 461-6677'
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+  reading_rooms: []
   service_center: 'Phone: (202) 461-6677'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -438,9 +436,7 @@ departments:
   name: Office of Deputy Assistant Secretary for Budget
   phone: 202-461-5170
   public_liaison: 'Cynthia Manurs, Phone: (202)461-5170'
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+  reading_rooms: []
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -792,9 +788,7 @@ departments:
   name: Office of the Assistant Secretary for Operations, Security, and Preparedness
   phone: 202-461-6587
   public_liaison: 'Tanya Al-Khateeb, Phone: (202) 461-6587'
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+  reading_rooms: []
   request_time_stats:
     '2009':
       complex_average_days: '12'
@@ -1118,9 +1112,7 @@ departments:
   name: Office of Inspector General
   phone: 202-461-4591
   public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+  reading_rooms: []
   service_center: 'Phone: (202) 461-4591'
   top_level: false
   website: http://oprm.va.gov/foia/
@@ -1330,9 +1322,7 @@ keywords:
 name: Department of Veterans Affairs
 phone: 202-632-7465
 public_liaison: 'Phone: (202) 632-7600'
-reading_rooms:
-- - FOIA Library
-  - http://www.oprm.va.gov/foia
+reading_rooms: []
 request_time_stats:
   '2008':
     complex_highest_days: '2104'

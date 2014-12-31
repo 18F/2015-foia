@@ -15,8 +15,7 @@ departments:
   public_liaison: 'Phone: (703) 545-5993'
   reading_rooms:
   - - Reading Room
-    - http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading
-      Room
+    - http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading%20Room
   request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
   service_center: 'Phone: (703) 545-5993'
   top_level: false

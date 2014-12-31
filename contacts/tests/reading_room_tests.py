@@ -22,6 +22,7 @@ class MockResponse():
         f = MockHistory()
         self.history = [f]
         self.content = ''
+        self.status_code = 200
         self.url = 'http://newurl.gov'
 
 
@@ -85,7 +86,11 @@ class ReadingRoomTests(TestCase):
             None,
             reading.get_absolute_url(l, 'http://fbi.gov/rr'))
 
-    def test_update_links(self):
+    @patch('layer_with_reading_room.requests.get')
+    def test_update_links(self, req):
+        mock_resp = MockResponse()
+        mock_resp.url = 'http://www.amtrak.com/foia/'
+        req.return_value = mock_resp
         agency_data = {
             'reading_rooms': [['reading', 'http://www.amtrak.com/foia/']]
         }
@@ -94,20 +99,6 @@ class ReadingRoomTests(TestCase):
         self.assertEqual([
             ['reading', 'http://www.amtrak.com/foia/']],
             updated_agency['reading_rooms'])
-
-        new_links = [['FOIA library', 'http://www.amtrak.com/library/']]
-        updated_agency = reading.update_links(agency_data, new_links)
-
-        print(updated_agency)
-
-        self.assertEqual([
-            ['FOIA library', 'http://www.amtrak.com/library/'],
-            ['reading', 'http://www.amtrak.com/foia/']],
-            updated_agency['reading_rooms'])
-
-        self.assertEqual([
-            ['reading', 'http://www.amtrak.com/foia/']],
-            agency_data['reading_rooms'])
 
     def test_scrape_reading_room_links(self):
         html = """

@@ -856,9 +856,7 @@ departments:
   name: Drug Enforcement Administration
   phone: 202-305-7596
   public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
-  reading_rooms:
-  - - FOIA Library
-    - http://www.dea.gov/FOIA/FOIA/FOIA_library.shtml
+  reading_rooms: []
   request_time_stats:
     '2008':
       complex_average_days: '126.39'
@@ -1183,11 +1181,9 @@ departments:
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/usao/resources/foialibrary/
+    - http://www.justice.gov/usao/resources/foia-library
   - - FOIA Library
     - http://www.justice.gov/usao/foia-library
-  - - FOIA Library
-    - http://www.justice.gov/usao/resources/foia-library
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -2733,13 +2729,9 @@ departments:
   public_liaison: 'Donna Preston, Phone: (202) 252-6020'
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/usao/resources/foialibrary/
+    - http://www.justice.gov/usao/resources/foia-library
   - - FOIA Library
     - http://www.justice.gov/usao/foia-library
-  - - FOIA Library
-    - http://www.justice.gov/usao/resources/foiarequests/../foialibrary
-  - - FOIA Library
-    - http://www.justice.gov/usao/resources/foia-library
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/

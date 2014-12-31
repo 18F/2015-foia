@@ -2019,7 +2019,7 @@ departments:
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   reading_rooms:
   - - Reading Room
-    - https://www2.centcom.mil/sites/foia/rr/default.aspx
+    - https://www2.centcom.mil/_Layouts/AcceptAgreement.aspx?src=/sites/foia/rr/default.aspx
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
   request_time_stats:
     '2008':
@@ -2398,9 +2398,7 @@ departments:
   name: U.S. Southern Command
   phone: 305-437-1108
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
-  reading_rooms:
-  - - Electronic Reading Room
-    - https://pwww.socom.mil/FOIA/Pages/ElectronicReadingRoom.aspx
+  reading_rooms: []
   request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   request_time_stats:
     '2008':
