@@ -58,35 +58,18 @@ def get_absolute_url(link, url):
             return [clean_link_text(link.text), href]
 
 
-def get_redirect_location(response):
-    """ If the response from requests indicates a redirect, return the
-    destination URL"""
-
-    if len(response.history) > 0:
-        if response.history[0].status_code in [301, 302]:
-            return response.history[0].headers['Location']
-
-
 def unique_links(links):
     """ We sometimes get the same URI with different link texts. Squash those.
     """
-
     redirected = []
     for l in links:
         try:
             response = requests.get(l[1], verify=False)
-            redirect_location = get_redirect_location(response)
-            if redirect_location:
-                redirected.append([l[0], redirect_location])
-            else:
-                redirected.append(l)
-        except requests.exceptions.ConnectionError:
-            # Ignore the link, as it clearly doesn't work.
+            if response.status_code < 400:
+                redirected.append([l[0], response.url])
+        # Ignore the link, as it clearly doesn't work.
+        except requests.exceptions.RequestException:
             pass
-        except requests.exceptions.TooManyRedirects:
-            # Ignore the link, as it clearly doesn't work.
-            pass
-
     uniques = uniquefy(redirected)
     return uniques
 
@@ -108,6 +91,11 @@ def scrape_reading_room_links(content, website_url):
     return links
 
 
+def reading_room_links(response):
+    """ Call the scraper with the appropriate parts of the response. """
+    return scrape_reading_room_links(response.content, response.url)
+
+
 def process(data):
     """ Actually scrape and clean up the reading room or library links. """
 
@@ -121,9 +109,7 @@ def process(data):
             return None
 
         if response.status_code == 200:
-            links = scrape_reading_room_links(
-                response.content, data['website'])
-            links = unique_links(links)
+            links = reading_room_links(response)
             if len(links) == 0:
                 return None
             return links
@@ -147,8 +133,8 @@ def update_links(agency_data, links):
 
     original_links = agency_data.get('reading_rooms', [])
     all_links = original_links + links
-    unique_links = uniquefy(all_links)
-    sorted_uniques = sorted(unique_links, key=lambda x: x[0])
+    uniques = unique_links(all_links)
+    sorted_uniques = sorted(uniques, key=lambda x: x[0])
 
     agency_data['reading_rooms'] = sorted_uniques
     return agency_data
@@ -178,6 +164,7 @@ def all_reading_rooms():
     """ Get reading room links for ALL agencies. """
 
     for agency in AGENCIES:
+        print(agency)
         agency_data = reading_room(agency)
         save_agency_data(agency, agency_data)
 

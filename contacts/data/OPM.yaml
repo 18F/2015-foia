@@ -12,6 +12,9 @@ departments:
   name: Office of Personnel Management
   phone: 202-606-4417
   public_liaison: 'Trina Porter, Phone: (202) 606-4417'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.opm.gov/information-management/freedom-of-information-act/#url=Electronic-Reading-Room
   request_time_stats:
     '2008':
       complex_average_days: '51'

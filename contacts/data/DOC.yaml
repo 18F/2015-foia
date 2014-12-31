@@ -36,6 +36,8 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
+  - - FOIA Library
+    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':
@@ -365,6 +367,9 @@ departments:
   name: Bureau of Industry and Security
   phone: 202-482-0953
   public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  reading_rooms:
+  - - BIS' Electronic Reading Room
+    - http://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -493,6 +498,9 @@ departments:
   name: International Trade Administration
   phone: 202-482-7937
   public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  reading_rooms:
+  - - DOC's Electronic Reading Room
+    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '0'

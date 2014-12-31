@@ -15,7 +15,7 @@ departments:
   public_liaison: 'Kevin Hagerty, Phone: (202) 586-5955'
   reading_rooms:
   - - Reading Room
-    - http://energy.gov/management/management/office-management/operational-management/freedom-information-act/reading-room
+    - http://energy.gov/management/office-management/operational-management/freedom-information-act/reading-room
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   request_time_stats:
     '2008':
@@ -650,7 +650,9 @@ departments:
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
   reading_rooms:
   - - Golden Field Office Reading Room
-    - http://energy.gov/node/28747/
+    - http://energy.gov/eere/office-energy-efficiency-renewable-energy
+  - - Golden Field Office Reading Room
+    - http://energy.gov/eere/golden-field-office-reading-room
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   request_time_stats:
     '2008':
@@ -971,6 +973,9 @@ departments:
   name: Western Area Power Administration
   phone: 720-962-7010
   public_liaison: 'John D. Bremer, Phone: (720) 962-7010'
+  reading_rooms:
+  - - Reading Room
+    - http://ww2.wapa.gov/sites/Western/foia/Pages/Reading.aspx
   request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
   request_time_stats:
     '2008':

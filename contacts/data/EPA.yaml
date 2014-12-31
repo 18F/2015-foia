@@ -406,7 +406,7 @@ departments:
   public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.epa.gov/region4/readingroom/index.htm
+    - http://www.epa.gov/region4/foiapgs/readingroom/index.htm
   - - Reading Rooms
     - http://www.epa.gov/foia/reading_rooms.html
   request_form: http://www.epa.gov/foia/requestform.html
@@ -501,7 +501,7 @@ departments:
   - - EPA Electronic Reading Room
     - http://www.epa.gov/foia/reading.html
   - - Reading Room
-    - http://www.epa.gov/region5/readingroom.htm
+    - http://www.epa.gov/region5/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
