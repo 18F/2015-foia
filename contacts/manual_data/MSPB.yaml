@@ -21,4 +21,5 @@ departments:
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 name: Merit Systems Protection Board
-emails: []
+emails:
+- foiahq@mspb.gov

@@ -3,7 +3,8 @@ departments:
   emails:
   - foiarequests@dol.gov
 - name: Bureau of International Labor Affairs
-  emails: []
+  emails:
+  - FOIARequest@dol.gov
   top_level: true
 - name: Bureau of Labor Statistics
   top_level: true

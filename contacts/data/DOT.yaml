@@ -601,7 +601,8 @@ departments:
   - E42-315
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
-  emails: []
+  emails:
+  - FTA.FOIA@dot.gov
   fax: 202-366-7164
   keywords:
   - Accounting
@@ -847,7 +848,8 @@ departments:
     investigates odometer fraud, establishes and enforces vehicle anti-theft regulations,
     conducts research on driver behavior and traffic safety, and provides consumer
     information on motor vehicle safety topics.
-  emails: []
+  emails:
+  - mary.sprague@dot.gov
   fax: 202-366-3820
   keywords:
   - Administrative practice and procedure
@@ -1079,7 +1081,8 @@ departments:
   - E23-306
   - 1200 New Jersey Avenue, SE
   - Washington, DC 20590
-  emails: []
+  emails:
+  - PHMSA.FOIA@dot.gov
   fax: 202-336-7041
   foia_officer: 'Vacant, Phone: (202) 366-6119'
   keywords:
@@ -1219,7 +1222,8 @@ departments:
   - FOIA/PA Contact
   - P.O. Box 520
   - Massena, NY 13662-0520
-  emails: []
+  emails:
+  - slsdc@dot.gov
   fax: 315-764-3235
   keywords:
   - Hazardous materials transportation
