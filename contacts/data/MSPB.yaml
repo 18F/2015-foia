@@ -166,7 +166,8 @@ departments:
 description: The Merit Systems Protection Board is an independent, quasi-judicial
   agency whose mission is to protect the Merit Systems Principles and promote an effective
   Federal workforce free of Prohibited Personnel Practices.
-emails: []
+emails:
+- foiahq@mspb.gov
 fax: 202-653-7130
 keywords:
 - Administrative practice and procedure

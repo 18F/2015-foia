@@ -1948,7 +1948,8 @@ departments:
   - FOIA Requester Service Center
   - Unit 29951
   - APO, AE 09751
-  emails: []
+  emails:
+  - africom.stuttgart.accc.list.foia-mba@mail.mil
   fax: +490 711-729-4732
   misc:
     HQ U.S. Africa Command: 'FOIA Contact, Phone: +49 (0)711 729-4287'
@@ -2109,7 +2110,8 @@ departments:
   - FOIA Requester Service Center
   - Unit 30400
   - APO, AE 09131
-  emails: []
+  emails:
+  - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: +49011 711-680-8092
   misc:
     HQ USEUCOM: 'FOIA Contact, Phone: 49 011 711 680-7161'
@@ -2440,7 +2442,8 @@ departments:
   - 'ATTN: SCJ224 (FOIA)'
   - 9301 NW 33rd Street
   - Doral, FL 33172
-  emails: []
+  emails:
+  - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   foia_officer: 'Phone: (305) 437-1108'
   misc:
     FOIA Contact: 'Marco T. Villalobos, Phone: (305) 437-1108'

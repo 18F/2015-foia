@@ -232,7 +232,8 @@ departments:
   - GRC FOIA Officer
   - Mail Code 21-14
   - Cleveland, OH 44135
-  emails: []
+  emails:
+  - grc-foia@mail.nasa.gov
   fax: 216-433-5489
   foia_officer: 'Angela Pierce, Phone: (216) 443-2813'
   name: Glenn Research Center
@@ -968,7 +969,8 @@ departments:
   - Sally Bilbo
   - SSC FOIA Officer
   - Stennis Space Center, MS 39529
-  emails: []
+  emails:
+  - ssc-foia@nasa.gov
   fax: 228-668-7499
   foia_officer: 'Sally Bilbo, Phone: (228) 688-3182'
   name: Stennis Space Center

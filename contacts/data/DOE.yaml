@@ -642,7 +642,8 @@ departments:
   - Mail Stop RSF DOE
   - 15013 Denver West Parkway
   - Golden, CO 80401
-  emails: []
+  emails:
+  - michele.altieri@go.doe.gov
   fax: 720-356-1780
   foia_officer: 'Michele Altieri, Phone: (720) 356-1427'
   name: Golden Field Office

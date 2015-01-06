@@ -16,7 +16,8 @@ departments:
 - name: Food, Nutrition & Consumer Services
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Food Safety & Inspection Service
-  emails: []
+  emails:
+  - fsis.foia@usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Grain Inspection, Packers & Stockyards Administration
   request_form: https://efoia-pal.usda.gov/palMain.aspx

@@ -17,10 +17,12 @@ departments:
 - name: U.S. Patent and Trademark Office
   top_level: true
 - name: Economics and Statistics Administration Bureau
-  emails: []
+  emails:
+  - pmoulder@doc.gov
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Economic Development Administration
-  emails: []
+  emails:
+  - SKong@eda.gov
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Economic Development Administration
   emails: []
