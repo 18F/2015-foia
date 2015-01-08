@@ -120,6 +120,7 @@ departments:
   - Administrative practice and procedure
   - Air carriers
   - Alimony
+  - Archives and records
   - Aviation safety
   - Child support
   - Civil defense
@@ -129,18 +130,22 @@ departments:
   - Credit
   - Disaster assistance
   - Environmental impact statements
+  - Environmental protection
   - Federal buildings and facilities
   - Foreign relations
+  - Government employees
   - Inventions and patents
   - Law enforcement
   - Military air transportation
   - Military law
   - Military personnel
+  - Motion pictures
   - Motor vehicles
   - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
   - Safety
+  - State and local governments
   - Wake Island
   misc:
     FOIA Contact: 'JoAnne Collins, Phone: (703) 696-2735'
@@ -227,7 +232,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '8'
   service_center: 'Phone: (703) 696-2735'
-  top_level: true
+  top_level: false
   website: http://www.foia.af.mil/
 - address:
   - Alecia Bolling
@@ -278,6 +283,7 @@ departments:
   - Penalties
   - Privacy
   - Radiation protection
+  - Reporting and recordkeeping requirements
   - Research
   - Safety
   - Traffic regulations
@@ -371,12 +377,16 @@ departments:
   fax: 202-685-6580
   keywords:
   - Administrative practice and procedure
+  - Aircraft
+  - Alimony
   - Archives and records
   - Armed forces
+  - Child support
   - Claims
   - Conflict of interests
   - Courts
   - Crime
+  - Educational research
   - Endangered and threatened species
   - Environmental impact statements
   - Federal buildings and facilities
@@ -386,6 +396,8 @@ departments:
   - Government property
   - Government property management
   - Health care
+  - Historic preservation
+  - Housing
   - Law
   - Law enforcement
   - Lawyers
@@ -399,6 +411,8 @@ departments:
   - Penalties
   - Privacy
   - Reporting and recordkeeping requirements
+  - Research
+  - Seals and insignia
   - Security measures
   - Surplus Government property
   - Trusts and trustees
@@ -949,7 +963,7 @@ departments:
   phone: 301-225-6104
   public_liaison: 'Robert S. Gorman, Phone: (301) 225-6116'
   reading_rooms:
-  - - Reading Room
+  - - Electronic Reading Room
     - http://www.disa.mil/About/Legal-and-Regulatory/Accessibility/FOIA-Reading-Room
   service_center: 'Phone: (301) 225-6104'
   top_level: false
@@ -1063,8 +1077,6 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.dla.mil/foia-privacy/Pages/FOIAReading.aspx
-  - - Electronic Reading Room
-    - http://www.dla.mil/FOIA-PRIVACY/Pages/FOIAReading.aspx
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -2360,7 +2372,7 @@ departments:
   phone: 808-477-0995
   public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
   reading_rooms:
-  - - Reading Room
+  - - FOIA - Reading Room
     - http://www.pacom.mil/Media/FreedomofInformationAct/FOIAReadingRoom.aspx
   request_time_stats:
     '2008':
@@ -2792,6 +2804,7 @@ keywords:
 - Advertising
 - Advisory committees
 - Aged
+- Agriculture
 - Air carriers
 - Air pollution control
 - Air traffic control
@@ -2801,6 +2814,7 @@ keywords:
 - Alcohol and alcoholic beverages
 - Alcoholism
 - Alimony
+- American Samoa
 - Archives and records
 - Armed forces
 - Armed forces reserves
@@ -2809,6 +2823,7 @@ keywords:
 - Biologics
 - Blind
 - Bridges
+- Broadband
 - Buildings and facilities
 - Business and industry
 - Cemeteries
@@ -2821,15 +2836,19 @@ keywords:
 - Classified information
 - Coastal zone
 - Colleges and universities
+- Communications
 - Community development
 - Concessions
 - Conflict of interests
 - Conscientious objectors
 - Consumer protection
 - Continental shelf
+- Copyright
 - Courts
 - Credit
+- Credit unions
 - Crime
+- Cultural exchange programs
 - Dams
 - Day care
 - Defense Department
@@ -2840,11 +2859,15 @@ keywords:
 - District of Columbia
 - Drug abuse
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
 - Elections
+- Electric power
+- Electric power rates
+- Electric utilities
 - Elementary and secondary education
 - Employment
 - Endangered and threatened species
@@ -2873,7 +2896,9 @@ keywords:
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
+- Grant programs-social programs
 - Grant programs-veterans
+- Guam
 - HIV/AIDS
 - Hazardous substances
 - Health
@@ -2884,6 +2909,7 @@ keywords:
 - Health records
 - Highway safety
 - Historic preservation
+- Home improvement
 - Homeless
 - Hospitals
 - Hostages
@@ -2891,8 +2917,10 @@ keywords:
 - Human research subjects
 - Income taxes
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
+- Insurance
 - Intergovernmental relations
 - International organizations
 - Inventions and patents
@@ -2909,7 +2937,11 @@ keywords:
 - Legal services
 - Life insurance
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
 - Loan programs-education
+- Loan programs-energy
+- Loan programs-housing and community development
 - Loan programs-veterans
 - Manpower training programs
 - Marine safety
@@ -2917,9 +2949,13 @@ keywords:
 - Medical devices
 - Medical research
 - Mental health programs
+- Migrant labor
 - Military air transportation
 - Military law
 - Military personnel
+- Mortgage insurance
+- Mortgages
+- Motion pictures
 - Motor vehicles
 - National defense
 - Natural resources
@@ -2927,13 +2963,16 @@ keywords:
 - Navigation (water)
 - Noise control
 - Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear energy
 - Nursing homes
 - Occupational safety and health
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Passports and visas
 - Penalties
 - Privacy
+- Private schools
 - Public lands
 - Radiation protection
 - Real property acquisition
@@ -2942,24 +2981,34 @@ keywords:
 - Research
 - Reservoirs
 - Rights-of-way
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
 - Schools
 - Science and technology
+- Seals and insignia
 - Seamen
+- Securities
 - Security measures
 - Sex discrimination
+- State and local governments
 - Statistics
 - Student aid
 - Surplus Government property
 - Taxes
 - Teachers
 - Technical assistance
+- Telecommunications
+- Telephone
 - Traffic regulations
 - Transportation
 - Travel and transportation expenses
 - Trusts and trustees
+- Urban areas
 - Vessels
 - Veterans
+- Virgin Islands
 - Vocational education
 - Vocational rehabilitation
 - Wages

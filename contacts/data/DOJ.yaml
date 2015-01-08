@@ -662,7 +662,7 @@ departments:
   top_level: false
   website: http://www.justice.gov/crt/foia/index.php
 - address:
-  - George Henderson
+  - Irene Kho
   - FOIA/PA Coordinator
   - Suite 6000
   - 600 E Street, NW
@@ -673,9 +673,9 @@ departments:
     FOIA/PA Coordinator: 'George Henderson, Phone: (202) 305-2935'
   name: Community Relations Service
   phone: 202-305-2935
-  public_liaison: 'George Henderson, Phone: (202) 305-2964'
+  public_liaison: 'Irene Kho, Phone: (202) 305-2964'
   reading_rooms:
-  - - Electronic Reading Room
+  - - FOIA Library
     - http://www.justice.gov/crs/crs-electronic-reading-room
   request_time_stats:
     '2008':
@@ -835,6 +835,7 @@ departments:
   - Copyright
   - Courts
   - Crime
+  - Drug abuse
   - Drug traffic control
   - Exports
   - Gambling
@@ -933,7 +934,7 @@ departments:
   phone: 202-514-0424
   public_liaison: 'Amber Blaha, Phone: (202) 616-5515'
   reading_rooms:
-  - - FOIA Library
+  - - 'FOIA Library:'
     - http://www.justice.gov/enrd/Current_topics.html
   request_time_stats:
     '2008':
@@ -1182,8 +1183,6 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foia-library
-  - - FOIA Library
-    - http://www.justice.gov/usao/foia-library
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -1871,7 +1870,7 @@ departments:
   website: http://www.justice.gov/nsd/foia/foia.htm
 - abbreviation: COPS
   address:
-  - Gary L. Baude
+  - Melissa Fieri-Fetrow
   - FOIA/PA Officer - Legal Division
   - 'Two Constitution Square, #11E 1405'
   - 145 N Street, NE
@@ -1885,8 +1884,8 @@ departments:
   misc:
     FOIA/PA Officer - Legal Division: 'Gary L. Baude, Phone: (202) 353-9864'
   name: Office of Community Oriented Policing Services
-  phone: 202-353-9864
-  public_liaison: 'Gary L. Baude, Phone: (202) 353-9864'
+  phone: 202-514-1873
+  public_liaison: 'Melissa Fieri-Fetrow, Phone: (202) 514-1873'
   request_time_stats:
     '2008':
       simple_average_days: '3.6'
@@ -1918,7 +1917,7 @@ departments:
       complex_highest_days: '48'
       complex_lowest_days: less than 1
       complex_median_days: '6'
-  service_center: 'Phone: (202) 353-9864'
+  service_center: 'Phone: 202-514-1873'
   top_level: true
   usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
@@ -2019,7 +2018,7 @@ departments:
   phone: 202-616-0646
   public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
   reading_rooms:
-  - - 'Electronic Reading Room:'
+  - - 'FOIA Library:'
     - http://www.justice.gov/oig/foia/eroom.htm
   request_time_stats:
     '2008':
@@ -2095,9 +2094,12 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Claims
+  - Colleges and universities
   - Crime
   - Disability benefits
   - Education
+  - Educational facilities
+  - Educational study programs
   - Emergency medical services
   - Firefighters
   - Grant programs
@@ -2107,6 +2109,8 @@ departments:
   - Motor vehicle safety
   - Motor vehicles
   - Reporting and recordkeeping requirements
+  - Schools
+  - Student aid
   - Transportation
   - Victim compensation
   misc:
@@ -2789,8 +2793,6 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foia-library
-  - - FOIA Library
-    - http://www.justice.gov/usao/foia-library
   service_center: 'Phone: (202) 252-6020'
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/
@@ -2915,10 +2917,10 @@ departments:
   misc:
     Division Counsel for FOIA and PA Matters: 'Carmen M. Banerjee, Phone: (202) 307-6320'
   name: Tax Division
-  phone: 202-307-6320
+  phone: 202-616-3399
   public_liaison: 'Billie Willis, Phone: (202) 307-0462'
   reading_rooms:
-  - - 'FOIA Library:'
+  - - FOIA Library
     - http://www.justice.gov/tax/readingroom/foia/tax.htm
   request_time_stats:
     '2008':
@@ -2979,7 +2981,7 @@ departments:
       simple_highest_days: '77'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 307-6320'
+  service_center: 'Phone: (202) 616-3399'
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
 - abbreviation: ''
@@ -3170,18 +3172,23 @@ fax: 301-341-0772
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Aged
+- Agriculture
 - Air carriers
 - Aircraft
 - Airmen
 - Airports
 - Alcoholism
 - Aliens
+- American Samoa
 - Antitrust
 - Archives and records
 - Arms and munitions
 - Authority delegations (Government agencies)
 - Bankruptcy
+- Blind
+- Broadband
 - Brokers
 - Buildings and facilities
 - Business and industry
@@ -3196,6 +3203,7 @@ keywords:
 - Colleges and universities
 - Communications
 - Communications equipment
+- Community development
 - Computer technology
 - Consumer protection
 - Copyright
@@ -3210,11 +3218,16 @@ keywords:
 - Drug abuse
 - Drug traffic control
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
 - Elections
+- Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
 - Emergency medical services
 - Employment
 - Environmental impact statements
@@ -3226,6 +3239,7 @@ keywords:
 - Explosives
 - Exports
 - Federal buildings and facilities
+- Federally affected areas
 - Firefighters
 - Foreign officials
 - Foreign relations
@@ -3238,8 +3252,10 @@ keywords:
 - Government property management
 - Grant programs
 - Grant programs-education
+- Grant programs-health
 - Grant programs-law
 - Grant programs-social programs
+- Guam
 - Hazardous substances
 - Health care
 - Health facilities
@@ -3247,29 +3263,46 @@ keywords:
 - Health professions
 - Highways and roads
 - Historic preservation
+- Home improvement
+- Homeless
+- Hospitals
 - Human research subjects
 - Immigration
 - Imports
 - Income taxes
 - Indians
+- Indians-education
 - Individuals with disabilities
+- Insurance
 - Intergovernmental relations
+- International organizations
+- Inventions and patents
 - Investigations
 - Justice Department
 - Juvenile delinquency
+- Labor
 - Law enforcement
 - Law enforcement officers
 - Lawyers
 - Legal services
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-housing and community development
+- Manpower training programs
 - Maritime carriers
 - Mass transportation
 - Migrant labor
 - Military personnel
+- Mortgage insurance
+- Mortgages
 - Motor vehicle safety
 - Motor vehicles
 - Nonprofit organizations
+- Northern Mariana Islands
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Packaging and containers
 - Passports and visas
 - Penalties
@@ -3278,16 +3311,23 @@ keywords:
 - Prisoners
 - Prisons
 - Privacy
+- Private schools
 - Probation and parole
 - Radioactive materials
 - Railroads
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Research
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
 - Scientific equipment
 - Seals and insignia
 - Search warrants
+- Securities
 - Security measures
 - Seizures and forfeitures
 - Sex discrimination
@@ -3297,8 +3337,10 @@ keywords:
 - Students
 - Sunshine Act
 - Surety bonds
+- Teachers
 - Technical assistance
 - Telecommunications
+- Telephone
 - Terrorism
 - Tobacco
 - Transportation
@@ -3306,11 +3348,20 @@ keywords:
 - Trusts and trustees
 - Underground mining
 - Uranium
+- Urban areas
 - Vessels
 - Veterans
 - Victim compensation
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
 - Wages
 - Warehouses
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
 - Whistleblowing
 - Wiretapping and electronic surveillance
 - Women

@@ -258,6 +258,7 @@ departments:
   - Citizenship and naturalization
   - Civil rights
   - Claims
+  - Coast Guard
   - Code of Federal Regulations
   - Colleges and universities
   - Communications equipment
@@ -335,6 +336,7 @@ departments:
   - Telephone
   - Terrorism
   - Transportation
+  - Travel
   - Travel and transportation expenses
   - Treaties
   - Vessels
@@ -628,25 +630,43 @@ departments:
   fax: 202-646-3347
   foia_officer: 'Terry Cochran, Phone: (202) 646-3323'
   keywords:
+  - Accounting
   - Administrative practice and procedure
+  - Adult education
   - Advisory committees
   - Aged
+  - Agriculture
   - Airports
   - Aliens
+  - American Samoa
+  - Blind
+  - Broadband
   - Buildings and facilities
+  - Business and industry
   - Civil rights
   - Claims
   - Classified information
   - Coastal zone
   - Colleges and universities
+  - Communications
+  - Community development
+  - Copyright
   - Courts
+  - Credit
+  - Cultural exchange programs
   - Disaster assistance
   - Drug abuse
   - Education
+  - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
   - Educational research
   - Educational study programs
+  - Electric power
+  - Electric power rates
+  - Electric utilities
+  - Elementary and secondary education
+  - Employment
   - Environmental impact statements
   - Equal educational opportunity
   - Equal employment opportunity
@@ -656,44 +676,84 @@ departments:
   - Flood insurance
   - Flood plains
   - Freedom of information
+  - Government contracts
   - Government employees
   - Government property management
   - Grant programs
   - Grant programs-education
+  - Grant programs-health
   - Grant programs-housing and community development
   - Grant programs-social programs
+  - Guam
   - Highways and roads
+  - Home improvement
+  - Homeless
+  - Hospitals
   - Hostages
   - Housing
+  - Human research subjects
   - Indians
+  - Indians-education
   - Indians-lands
   - Indians-tribal government
   - Individuals with disabilities
   - Insurance
   - Intergovernmental relations
+  - International organizations
+  - Inventions and patents
   - Investigations
   - Iraq
   - Kuwait
   - Lebanon
   - Loan programs
+  - Loan programs-agriculture
+  - Loan programs-communications
+  - Loan programs-energy
   - Loan programs-housing and community development
+  - Manpower training programs
   - Mass transportation
+  - Migrant labor
+  - Mortgage insurance
+  - Mortgages
   - Natural resources
+  - Nonprofit organizations
+  - Northern Mariana Islands
   - Nuclear power plants and reactors
   - Organization and functions (Government agencies)
+  - Pacific Islands Trust Territory
   - Penalties
+  - Privacy
+  - Private schools
   - Public lands
   - Radiation protection
   - Railroads
   - Religious discrimination
   - Reporting and recordkeeping requirements
+  - Rural areas
+  - Scholarships and fellowships
+  - School construction
+  - Schools
+  - Science and technology
+  - Securities
   - Sex discrimination
   - Small businesses
   - State and local governments
   - Student aid
+  - Teachers
   - Technical assistance
+  - Telecommunications
+  - Telephone
   - Terrorism
+  - Urban areas
   - Veterans
+  - Virgin Islands
+  - Vocational education
+  - Vocational rehabilitation
+  - Waste treatment and disposal
+  - Water pollution control
+  - Water resources
+  - Water supply
+  - Watersheds
   - Women
   name: Federal Emergency Management Agency
   phone: 202-646-3323
@@ -1540,6 +1600,7 @@ departments:
   - Airmen
   - Airports
   - Alcohol abuse
+  - Aliens
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
@@ -1681,9 +1742,11 @@ fax: 202-343-4011
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Advertising
 - Advisory committees
 - Aged
+- Agriculture
 - Air carriers
 - Air pollution control
 - Air traffic control
@@ -1705,8 +1768,10 @@ keywords:
 - Authority delegations (Government agencies)
 - Aviation safety
 - Benzene
+- Blind
 - Bonds
 - Bridges
+- Broadband
 - Brokers
 - Business and industry
 - Canada
@@ -1717,18 +1782,23 @@ keywords:
 - Civil rights
 - Claims
 - Classified information
+- Coast Guard
 - Coastal zone
 - Coffee
 - Colleges and universities
 - Common carriers
+- Communications
 - Communications equipment
+- Community development
 - Computer technology
 - Confidential business information
 - Conflict of interests
 - Continental shelf
+- Copyright
 - Cotton
 - Countervailing duties
 - Courts
+- Credit
 - Cuba
 - Cultural exchange programs
 - Customs duties and inspection
@@ -1739,7 +1809,16 @@ keywords:
 - Drug testing
 - Drug traffic control
 - Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
 - Electronic products
+- Elementary and secondary education
 - Employment
 - Endangered and threatened species
 - Environmental protection
@@ -1749,6 +1828,7 @@ keywords:
 - Explosives
 - Exports
 - Federal buildings and facilities
+- Federally affected areas
 - Fire prevention
 - Fishing vessels
 - Flood insurance
@@ -1769,6 +1849,7 @@ keywords:
 - Government publications
 - Grant programs
 - Grant programs-education
+- Grant programs-health
 - Grant programs-housing and community development
 - Grant programs-social programs
 - Grant programs-veterans
@@ -1780,14 +1861,21 @@ keywords:
 - Health care
 - Health professions
 - Highways and roads
+- Home improvement
+- Homeless
+- Hospitals
 - Housing
+- Human research subjects
 - Immigration
 - Imports
 - Income taxes
+- Indians
+- Indians-education
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
 - International organizations
+- Inventions and patents
 - Investigations
 - Kingman Reef
 - Labeling
@@ -1800,7 +1888,10 @@ keywords:
 - Lawyers
 - Liquors
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
 - Loan programs-education
+- Loan programs-energy
 - Loan programs-housing and community development
 - Loan programs-veterans
 - Lobbying
@@ -1816,13 +1907,18 @@ keywords:
 - Metals
 - Mexico
 - Midway Islands
+- Migrant labor
 - Military personnel
+- Mortgage insurance
+- Mortgages
 - Motor carriers
 - Motor vehicles
 - National Transportation Safety Board
 - Natural gas
 - Natural resources
 - Navigation (water)
+- Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear vessels
 - Occupational safety and health
 - Oceanographic research vessels
@@ -1830,12 +1926,14 @@ keywords:
 - Oil imports
 - Oil pollution
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Packaging and containers
 - Passenger vessels
 - Passports and visas
 - Penalties
 - Petroleum
 - Privacy
+- Private schools
 - Puerto Rico
 - Radiation protection
 - Radio
@@ -1845,43 +1943,59 @@ keywords:
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Research
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
 - Schools
 - Science and technology
 - Seals and insignia
 - Seamen
 - Search warrants
+- Securities
 - Security measures
 - Seizures and forfeitures
 - Sewage disposal
 - Sex discrimination
 - Signs and symbols
 - Small businesses
+- State and local governments
+- Student aid
 - Students
 - Sugar
 - Surety bonds
 - Taxes
+- Teachers
+- Telecommunications
 - Telephone
 - Terrorism
 - Trade agreements
 - Trademarks
 - Transportation
+- Travel
 - Travel and transportation expenses
 - Travel restrictions
 - Treaties
+- Urban areas
 - Vessels
 - Veterans
+- Virgin Islands
 - Vocational education
 - Vocational rehabilitation
 - Volunteers
 - Wages
 - Wake Island
 - Warehouses
+- Waste treatment and disposal
 - Water pollution control
+- Water resources
+- Water supply
+- Watersheds
 - Waterways
 - Wheat
 - Whistleblowing
 - Wine
+- Women
 - Wool
 name: Department of Homeland Security
 phone: 202-343-1743

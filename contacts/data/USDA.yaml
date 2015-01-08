@@ -34,6 +34,7 @@ departments:
   - Cattle
   - Cheese
   - Cherries
+  - Citrus fruits
   - Claims
   - Commodity futures
   - Cotton
@@ -243,8 +244,6 @@ departments:
   - - FOIA Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   - - Freedom of Information Act (FOIA) Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
-  - - Freedom of Information Act (FOIA) Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
@@ -366,40 +365,57 @@ departments:
   - Accounting
   - Acreage allotments
   - Administrative practice and procedure
+  - Adult education
   - Aged
   - Agricultural commodities
   - Agriculture
+  - American Samoa
   - Animal feeds
   - Apples
   - Bankruptcy
   - Barley
   - Beans
+  - Blind
   - Broadband
   - Business and industry
   - Citrus fruits
   - Civil rights
   - Claims
   - Coal
+  - Colleges and universities
   - Communications
   - Communications equipment
   - Community development
   - Conflict of interests
   - Cooperatives
+  - Copyright
   - Cotton
+  - Cottonseeds
   - Cranberries
   - Credit
   - Crop insurance
+  - Cultural exchange programs
   - Dairy products
   - Disaster assistance
   - Drug traffic control
+  - Education
+  - Education of disadvantaged
+  - Education of individuals with disabilities
+  - Educational facilities
+  - Educational research
+  - Educational study programs
   - Electric power
   - Electric power rates
   - Electric utilities
+  - Elementary and secondary education
+  - Employment
   - Energy
   - Energy conservation
   - Environmental impact statements
   - Environmental protection
+  - Equal educational opportunity
   - Fair housing
+  - Federally affected areas
   - Feed grains
   - Fish
   - Flood insurance
@@ -424,16 +440,25 @@ departments:
   - Grant programs-health
   - Grant programs-housing and community development
   - Grant programs-natural resources
+  - Grant programs-social programs
   - Grazing lands
+  - Guam
   - Historic preservation
   - Home improvement
+  - Homeless
+  - Honey
+  - Hospitals
   - Housing
   - Housing standards
+  - Human research subjects
   - Imports
   - Indemnity payments
   - Indians
+  - Indians-education
   - Insurance
   - Intergovernmental relations
+  - International organizations
+  - Inventions and patents
   - Investments
   - Legal services
   - Livestock
@@ -447,30 +472,40 @@ departments:
   - Loan programs-natural resources
   - Lobbying
   - Low and moderate income housing
+  - Manpower training programs
   - Manufactured homes
   - Marital status discrimination
   - Marketing quotas
   - Migrant labor
   - Military personnel
+  - Milk
   - Mortgage insurance
   - Mortgages
   - National defense
   - Natural resources
   - Nonprofit organizations
+  - Northern Mariana Islands
   - Nuclear energy
   - Nursery stock
   - Nuts
   - Oats
   - Oilseeds
+  - Pacific Islands Trust Territory
   - Peanuts
   - Penalties
   - Plants
   - Price support programs
+  - Privacy
+  - Private schools
   - Public housing
   - Rent subsidies
   - Reporting and recordkeeping requirements
   - Rice
   - Rural areas
+  - Scholarships and fellowships
+  - School construction
+  - Schools
+  - Science and technology
   - Securities
   - Seeds
   - Sex discrimination
@@ -478,10 +513,13 @@ departments:
   - Small businesses
   - Soil conservation
   - Soybeans
+  - State and local governments
+  - Student aid
   - Sugar
   - Surety bonds
   - Surplus Government property
   - Taxes
+  - Teachers
   - Telecommunications
   - Telephone
   - Television
@@ -489,6 +527,11 @@ departments:
   - Transportation
   - Trees
   - Truth in lending
+  - Urban areas
+  - Veterans
+  - Virgin Islands
+  - Vocational education
+  - Vocational rehabilitation
   - Volunteers
   - Warehouses
   - Waste treatment and disposal
@@ -498,6 +541,7 @@ departments:
   - Watersheds
   - Wheat
   - Wildlife
+  - Women
   - Wool
   - Youth
   name: Farm Service Agency
@@ -739,6 +783,7 @@ departments:
   foia_officer: 'Henry Noland, Phone: (202) 720-0154'
   keywords:
   - Agricultural commodities
+  - Cheese
   - Exports
   - Food assistance programs
   - Foreign aid
@@ -969,9 +1014,6 @@ departments:
   name: Grain Inspection, Packers & Stockyards Administration
   phone: 202-720-8087
   public_liaison: 'Albert Conerly, Phone: (202) 720-0234'
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.gipsa.usda.gov/foia.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1241,10 +1283,87 @@ departments:
   foia_officer: 'Richard Saafeld, Phone: (202) 720-0995'
   keywords:
   - Accounting
+  - Administrative practice and procedure
+  - Adult education
+  - Aged
+  - Agriculture
+  - American Samoa
+  - Blind
+  - Broadband
+  - Business and industry
+  - Civil rights
+  - Colleges and universities
+  - Communications
+  - Community development
+  - Copyright
+  - Credit
+  - Cultural exchange programs
+  - Education
+  - Education of disadvantaged
+  - Education of individuals with disabilities
+  - Educational facilities
+  - Educational research
+  - Educational study programs
+  - Electric power
+  - Electric power rates
+  - Electric utilities
+  - Elementary and secondary education
+  - Employment
+  - Equal educational opportunity
+  - Federally affected areas
+  - Government contracts
   - Grant programs
+  - Grant programs-education
+  - Grant programs-health
+  - Grant programs-social programs
+  - Guam
+  - Home improvement
+  - Homeless
+  - Hospitals
+  - Human research subjects
+  - Indians
+  - Indians-education
+  - Insurance
   - Intergovernmental relations
+  - International organizations
+  - Inventions and patents
+  - Loan programs
+  - Loan programs-agriculture
+  - Loan programs-communications
+  - Loan programs-energy
+  - Loan programs-housing and community development
+  - Manpower training programs
+  - Migrant labor
+  - Mortgage insurance
+  - Mortgages
   - Nonprofit organizations
+  - Northern Mariana Islands
+  - Pacific Islands Trust Territory
+  - Privacy
+  - Private schools
   - Reporting and recordkeeping requirements
+  - Rural areas
+  - Scholarships and fellowships
+  - School construction
+  - Schools
+  - Science and technology
+  - Securities
+  - State and local governments
+  - Student aid
+  - Teachers
+  - Telecommunications
+  - Telephone
+  - Urban areas
+  - Veterans
+  - Virgin Islands
+  - Vocational education
+  - Vocational rehabilitation
+  - Waste treatment and disposal
+  - Water pollution control
+  - Water resources
+  - Water supply
+  - Watersheds
+  - Women
   name: Office of the Chief Financial Officer
   phone: 202-720-0995
   public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
@@ -1689,6 +1808,7 @@ keywords:
 - Accounting
 - Acreage allotments
 - Administrative practice and procedure
+- Adult education
 - Advertising
 - Advisory committees
 - Aged
@@ -1699,6 +1819,7 @@ keywords:
 - Alaska
 - Aliens
 - Almonds
+- American Samoa
 - Animal biologics
 - Animal diseases
 - Animal feeds
@@ -1741,6 +1862,7 @@ keywords:
 - Confidential business information
 - Conflict of interests
 - Cooperatives
+- Copyright
 - Cotton
 - Cottonseeds
 - Courts
@@ -1748,6 +1870,7 @@ keywords:
 - Credit
 - Crime
 - Crop insurance
+- Cultural exchange programs
 - Customs duties and inspection
 - Dairy products
 - Dates
@@ -1757,11 +1880,16 @@ keywords:
 - Drug abuse
 - Drug traffic control
 - Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
 - Educational study programs
 - Eggs and egg products
 - Electric power
 - Electric power rates
 - Electric utilities
+- Elementary and secondary education
 - Employment
 - Endangered and threatened species
 - Energy
@@ -1776,6 +1904,7 @@ keywords:
 - Fair housing
 - Federal Crop Insurance Corporation
 - Federal buildings and facilities
+- Federally affected areas
 - Feed grains
 - Filberts
 - Fire prevention
@@ -1833,6 +1962,7 @@ keywords:
 - Historic preservation
 - Hogs
 - Home improvement
+- Homeless
 - Honey
 - Horses
 - Hospitals
@@ -1845,10 +1975,13 @@ keywords:
 - Income taxes
 - Indemnity payments
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
+- International organizations
+- Inventions and patents
 - Investigations
 - Investments
 - Iraq
@@ -1873,6 +2006,7 @@ keywords:
 - Loan programs-natural resources
 - Lobbying
 - Low and moderate income housing
+- Manpower training programs
 - Manufactured homes
 - Marine mammals
 - Marital status discrimination
@@ -1908,6 +2042,7 @@ keywords:
 - Navigation (air)
 - Nectarines
 - Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear energy
 - Nursery stock
 - Nutrition
@@ -1920,6 +2055,7 @@ keywords:
 - Onions
 - Oranges
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Packaging and containers
 - Peaches
 - Peanuts
@@ -1936,6 +2072,7 @@ keywords:
 - Poultry and poultry products
 - Price support programs
 - Privacy
+- Private schools
 - Prunes
 - Public assistance programs
 - Public housing
@@ -1956,6 +2093,8 @@ keywords:
 - Rural areas
 - Scholarships and fellowships
 - School breakfast and lunch programs
+- School construction
+- Schools
 - Science and technology
 - Scientific equipment
 - Seals and insignia
@@ -1974,6 +2113,7 @@ keywords:
 - State and local governments
 - Stockyards
 - Straw
+- Student aid
 - Students
 - Sugar
 - Surety bonds
@@ -1981,6 +2121,7 @@ keywords:
 - Tangelos
 - Tangerines
 - Taxes
+- Teachers
 - Technical assistance
 - Telecommunications
 - Telephone
@@ -1997,10 +2138,13 @@ keywords:
 - Tuberculosis
 - Unemployment compensation
 - Uniform System of Accounts
+- Urban areas
 - Vegetables
 - Veterans
 - Veterinarians
 - Virgin Islands
+- Vocational education
+- Vocational rehabilitation
 - Volunteers
 - Wages
 - Walnuts

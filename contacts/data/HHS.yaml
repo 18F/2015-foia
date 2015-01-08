@@ -242,25 +242,35 @@ departments:
   - Adoption and foster care
   - Child support
   - Child welfare
+  - Claims
   - Computer technology
   - Day care
   - Dental health
   - Education of disadvantaged
   - Employment
+  - Fraud
   - Grant programs
+  - Grant programs-health
   - Grant programs-social programs
   - Health care
+  - Health facilities
+  - Health professions
   - Homeless
+  - Immigration
   - Indians
   - Individuals with disabilities
   - Loan programs-social programs
   - Manpower training programs
+  - Maternal and child health
+  - Medicaid
+  - Medicare
   - Mental health programs
   - Nutrition
   - Penalties
   - Public assistance programs
   - Real property acquisition
   - Reporting and recordkeeping requirements
+  - Social security
   - Technical assistance
   - Transportation
   - Unemployment compensation
@@ -763,12 +773,11 @@ departments:
   website: http://www.cms.gov/foia/
 - abbreviation: FDA
   address:
-  - Frederick J. Sadler
-  - Director, Division of Freedom of Information
-  - Office of the Executive Secretariat
-  - Office of the Commissioner
-  - Room 1020
-  - 12420 Parklawn Drive
+  - Sarah Kotler
+  - Director, Division of Freedom of Information Office of the Executive Secretariat
+    Office of the Commissioner
+  - Room 1033
+  - 5630 Fishers Lane
   - Rockville, MD 20857
   description: The FDA is responsible for protecting the public health by assuring
     the safety, efficacy, and security of human and veterinary drugs, biological products,
@@ -817,6 +826,7 @@ departments:
   - HIV/AIDS
   - Health
   - Health care
+  - Health facilities
   - Health records
   - Hospitals
   - Human research subjects
@@ -867,7 +877,7 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 301-796-3900
-  public_liaison: 'Frederick J. Sadler, Phone: (301) 796-3900'
+  public_liaison: 'Sarah Kotler, Phone: (301) 796-3900'
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
@@ -970,26 +980,36 @@ departments:
   foia_officer: 'Tom Flavin, Phone: (301) 443-3376'
   keywords:
   - Administrative practice and procedure
+  - Aged
   - Biologics
   - Claims
   - Communicable diseases
   - Courts
+  - Dental health
   - Drugs
+  - Educational facilities
+  - Educational study programs
   - Fraud
+  - Grant programs-education
   - Grant programs-health
   - HIV/AIDS
   - Health
   - Health care
+  - Health facilities
   - Health insurance
   - Health professions
   - Hospitals
   - Immunization
   - Insurance companies
+  - Loan programs
   - Maternal and child health
+  - Medical and dental schools
   - Medical devices
   - Public health
   - Reporting and recordkeeping requirements
+  - Scholarships and fellowships
   - Smallpox
+  - Student aid
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
@@ -1426,14 +1446,17 @@ keywords:
 - Adhesives
 - Administrative practice and procedure
 - Adoption and foster care
+- Adult education
 - Advertising
 - Advisory committees
 - Aged
+- Agriculture
 - Aid to Families with Dependent Children
 - Airports
 - Alcohol abuse
 - Alcoholism
 - Aliens
+- American Samoa
 - Animal drugs
 - Animal feeds
 - Animal foods
@@ -1447,6 +1470,7 @@ keywords:
 - Blind
 - Blood
 - Blood diseases
+- Broadband
 - Brokers
 - Buildings and facilities
 - Business and industry
@@ -1459,13 +1483,18 @@ keywords:
 - Colleges and universities
 - Color additives
 - Communicable diseases
+- Communications
+- Community development
 - Computer technology
 - Confidential business information
 - Conflict of interests
 - Consumer protection
+- Copyright
 - Cosmetics
 - Courts
 - Cream
+- Credit
+- Cuba
 - Cultural exchange programs
 - Day care
 - Dental health
@@ -1473,18 +1502,29 @@ keywords:
 - Disaster assistance
 - Drug abuse
 - Drugs
+- Education
 - Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
 - Eggs and egg products
+- Electric power
+- Electric power rates
+- Electric utilities
 - Electronic products
+- Elementary and secondary education
 - Emergency medical services
 - Employee benefit plans
 - Employment
 - Environmental impact statements
 - Equal access to justice
+- Equal educational opportunity
 - Ethics
 - Excise taxes
 - Exports
 - Family planning
+- Federally affected areas
 - Fish
 - Food additives
 - Food grades and standards
@@ -1499,6 +1539,7 @@ keywords:
 - Government contracts
 - Government employees
 - Government procurement
+- Government property
 - Government property management
 - Grant programs
 - Grant programs-Indians
@@ -1519,6 +1560,7 @@ keywords:
 - Health professions
 - Health records
 - Health statistics
+- Home improvement
 - Homeless
 - Hospice care
 - Hospitals
@@ -1530,9 +1572,13 @@ keywords:
 - Indemnity payments
 - Indians
 - Indians-business and finance
+- Indians-education
 - Individuals with disabilities
+- Insurance
 - Insurance companies
 - Intergovernmental relations
+- International organizations
+- Inventions and patents
 - Investigations
 - Iraq
 - Kidney diseases
@@ -1544,7 +1590,11 @@ keywords:
 - Lebanon
 - Libraries
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
+- Loan programs-energy
 - Loan programs-health
+- Loan programs-housing and community development
 - Loan programs-social programs
 - Lung diseases
 - Manpower training programs
@@ -1556,11 +1606,15 @@ keywords:
 - Medicare
 - Mental health programs
 - Methadone
+- Migrant labor
 - Milk
 - Mine safety and health
 - Miners
+- Mortgage insurance
+- Mortgages
 - News media
 - Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear materials
 - Nursing homes
 - Nutrition
@@ -1568,12 +1622,14 @@ keywords:
 - Ophthalmic goods and services
 - Organization and functions (Government agencies)
 - Over-the-counter drugs
+- Pacific Islands Trust Territory
 - Packaging and containers
 - Passports and visas
 - Penalties
 - Prescription drugs
 - Prisoners
 - Privacy
+- Private schools
 - Public assistance programs
 - Public health
 - Puerto Rico
@@ -1588,10 +1644,13 @@ keywords:
 - Rural areas
 - Safety
 - Scholarships and fellowships
+- School construction
+- Schools
 - Science and technology
 - Scientists
 - Seafood
 - Seals and insignia
+- Securities
 - Sex discrimination
 - Signs and symbols
 - Small businesses
@@ -1606,17 +1665,27 @@ keywords:
 - Supplemental Security Income (SSI)
 - Surety bonds
 - Taxes
+- Teachers
 - Technical assistance
+- Telecommunications
+- Telephone
 - Television
 - Tobacco
 - Transportation
 - Travel restrictions
 - Unemployment compensation
+- Urban areas
+- Veterans
 - Virgin Islands
 - Vocational education
+- Vocational rehabilitation
 - Wages
 - Warehouses
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
 - Water supply
+- Watersheds
 - Whistleblowing
 - Women
 - Workers' compensation
