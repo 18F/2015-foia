@@ -14,7 +14,7 @@ departments:
   emails:
   - foia@hq.dhs.gov
   fax: 202-343-4011
-  foia_officer: 'Karen Neuman, Phone: (202) 343-1743, (866) 431-0486'
+  foia_officer: 'Karen Neuman, Phone: 202-343-1743, 866-431-0486'
   name: Headquarters & Privacy Office
   phone: 202-343-1743
   public_liaison: 'Angela Washington, Acting, Phone: (202) 343-1743, (866) 431-0486'
@@ -34,8 +34,7 @@ departments:
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
-  foia_officer: 'Jill Eggleston, Phone: (800) 375-5283 (USCIS National Customer Service
-    Unit)'
+  foia_officer: 'Jill Eggleston, Phone: 800-375-5283'
   keywords:
   - Administrative practice and procedure
   - Aliens
@@ -148,7 +147,7 @@ departments:
   emails:
   - CRCL@dhs.gov
   fax: 202-357-1196
-  foia_officer: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
+  foia_officer: 'Aeron Pineiro, Acting, Phone: 202-357-1218'
   name: Office for Civil Rights and Civil Liberties
   phone: 202-357-1218
   public_liaison: 'Aeron Pineiro, Acting, Phone: (202) 357-1218'
@@ -235,7 +234,7 @@ departments:
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
-  foia_officer: 'Gaston Brewer, Phone: (202) 475-3522'
+  foia_officer: 'Gaston Brewer, Phone: 202-475-3522'
   keywords:
   - Administrative practice and procedure
   - Advertising
@@ -435,7 +434,7 @@ departments:
   description: 'Customs and Border Protection prevents people from entering the country
     illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
-  foia_officer: 'Sabrina Burroughs, Phone: (202) 325-0150'
+  foia_officer: 'Sabrina Burroughs, Phone: 202-325-0150'
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -628,7 +627,7 @@ departments:
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
-  foia_officer: 'Terry Cochran, Phone: (202) 646-3323'
+  foia_officer: 'Terry Cochran, Phone: 202-646-3323'
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -850,7 +849,7 @@ departments:
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
-  foia_officer: 'Leslie A. Jensen, Phone: (912) 267-3103'
+  foia_officer: 'Leslie A. Jensen, Phone: 912-267-3103'
   name: Federal Law Enforcement Training Center
   phone: 912-267-3103
   public_liaison: 'Leslie A. Jensen, Phone: (912) 267-3103'
@@ -923,7 +922,7 @@ departments:
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
-  foia_officer: 'Catrina Pavlick-Keenan, Phone: (202) 732-4265'
+  foia_officer: 'Catrina Pavlick-Keenan, Phone: 202-732-4265'
   keywords:
   - Administrative practice and procedure
   - Aliens
@@ -1039,7 +1038,7 @@ departments:
   emails:
   - foia.oig@oig.dhs.gov
   fax: 202-254-4398
-  foia_officer: 'Stephanie Kuehn, Phone: (202) 254-4001'
+  foia_officer: 'Stephanie Kuehn, Phone: 202-254-4001'
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -1162,7 +1161,7 @@ departments:
   emails:
   - I&AFOIA@hq.dhs.gov
   fax: 202-612-1936
-  foia_officer: 'Priscilla Waters, Phone: (202) 447-4883'
+  foia_officer: 'Priscilla Waters, Phone: 202-447-4883'
   name: Office of Intelligence & Analysis
   phone: 202-447-4883
   public_liaison: 'Priscilla Waters, Phone: (202) 447-4190'
@@ -1243,7 +1242,7 @@ departments:
   emails:
   - NPPD.FOIA@dhs.gov
   fax: 703-235-2052
-  foia_officer: 'Sandy Ford Page, Phone: (703) 235-2211'
+  foia_officer: 'Sandy Ford Page, Phone: 703-235-2211'
   name: Directorate for National Protection and Programs
   phone: 703-235-2211
   public_liaison: 'Sandy Ford Page, Phone: (703) 235-2211'
@@ -1329,7 +1328,7 @@ departments:
   emails:
   - FOIAOPS@DHS.GOV
   fax: 202-282-9811
-  foia_officer: 'Michael Page, Phone: (202) 447-4156'
+  foia_officer: 'Michael Page, Phone: 202-447-4156'
   name: Office of Operations Coordination and Planning
   phone: 202-447-4156
   public_liaison: 'Michael Page, Phone: (202) 447-4156'
@@ -1409,7 +1408,7 @@ departments:
   emails:
   - stfoia@hq.dhs.gov
   fax: 202-254-6739
-  foia_officer: 'Katrina Hagan, Phone: (202) 254-6342'
+  foia_officer: 'Katrina Hagan, Phone: 202-254-6342'
   name: Science & Technology Directorate
   phone: 202-254-6342
   public_liaison: 'Katrina Hagan, Phone: (202) 254-6342'
@@ -1494,8 +1493,7 @@ departments:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
   misc:
-    Disclosure Officer, FOIA/PA Program, Liaison Division: 'Latita Payne, Phone: (202)
-      406-6370'
+    Disclosure Officer, FOIA/PA Program, Liaison Division: 'Latita Payne, Phone: 202-406-6370'
   name: United States Secret Service
   phone: 202-406-6370
   public_liaison: 'Latita Payne, Phone: (202) 406-6370'
@@ -1586,7 +1584,7 @@ departments:
   emails:
   - FOIA@tsa.dhs.gov
   fax: 571-227-1406
-  foia_officer: 'Yvonne Coates, Phone: (866) 364-2872, (571) 227-2300'
+  foia_officer: 'Yvonne Coates, Phone: 866-364-2872, 571-227-2300'
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -1724,7 +1722,7 @@ departments:
   emails:
   - OBIM-FOIA@ice.dhs.gov
   fax: 202-295-5445
-  foia_officer: 'Michael Johnson, Phone: (202) 295-5454'
+  foia_officer: 'Michael Johnson, Phone: 202-295-5454'
   name: Office of Biometric Identity Management
   phone: 202-295-5454
   public_liaison: 'Michael Johnson, Phone: (202) 295-5454'

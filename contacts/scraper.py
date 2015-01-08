@@ -70,10 +70,11 @@ PHONE_RE = re.compile(
     r"""(?P<prefix>\+?[\d\s\(\)\-]*)"""
     r"""(?P<area_code>\(?\d{3}\)?[\s\-\(\)]*)"""
     r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
-    r"""(?P<last_four>\d{4})""", re.IGNORECASE)
+    r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
+    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
 
 
-def phone(line):
+def clean_phone_number(line):
     """Given "(123) 456-7890 (Telephone)", extract the number"""
     match = PHONE_RE.search(line)
     if match:
@@ -87,9 +88,14 @@ def phone(line):
                             if ch.isdigit())
         number = "-".join([area_code, first_three, last_four])
         if prefix:
-            return "+" + prefix + " " + number
-        else:
-            return number
+            number = "+" + prefix + " " + number
+        extension = match.group("extension")
+        if extension:
+            extension = re.sub("\D", "", extension)
+            number = number + " x" + extension
+
+        return number
+
     else:
         raise Exception("Error extracting phone number",
                         "phone line: " + line)
@@ -181,9 +187,9 @@ def parse_department(elem, name):
         lower = line.lower()
         if ('phone' in lower and 'public liaison' not in lower
                 and 'service center' not in lower and 'phone' not in data):
-            data['phone'] = phone(line)
+            data['phone'] = clean_phone_number(line)
         elif 'fax' in lower and 'fax' not in data:
-            data['fax'] = phone(line)
+            data['fax'] = clean_phone_number(line)
     emails = find_emails(lines, ps)
     if emails:
         data['emails'] = emails

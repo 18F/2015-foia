@@ -14,7 +14,7 @@ departments:
   - solmail@flra.gov
   fax: 202-343-1007
   misc:
-    Solicitor, Office of the Solicitor: 'Rosa M. Koppel, Phone: (202) 218-7770'
+    Solicitor, Office of the Solicitor: 'Rosa M. Koppel, Phone: 202-218-7770'
   name: The Authority
   phone: 202-218-7770
   public_liaison: ''
@@ -32,7 +32,7 @@ departments:
   - ogcmail@flra.gov
   fax: 202-482-6608
   misc:
-    FOIA Contact: 'Phone: (202) 218-7910'
+    FOIA Contact: 'Phone: 202-218-7910'
   name: Office of the General Counsel
   phone: 202-218-7910
   public_liaison: ''
@@ -105,7 +105,7 @@ departments:
   emails: []
   fax: 404-331-5280
   misc:
-    FOIA Contact: 'Phone: (404) 331-5300'
+    FOIA Contact: 'Phone: 404-331-5300'
   name: Atlanta Regional Office
   phone: 404-331-5300
   public_liaison: ''
@@ -179,7 +179,7 @@ departments:
   - bromail@flra.gov
   fax: 617-565-6262
   misc:
-    FOIA Contact: 'Phone: (617) 565-5100'
+    FOIA Contact: 'Phone: 617-565-5100'
   name: Boston Regional Office
   phone: 617-565-5100
   public_liaison: ''
@@ -253,7 +253,7 @@ departments:
   - cromail@flra.gov
   fax: 312-886-5977
   misc:
-    FOIA Contact: 'Phone: (312) 886-3465'
+    FOIA Contact: 'Phone: 312-886-3465'
   name: Chicago Regional Office
   phone: 312-886-3465
   public_liaison: ''
@@ -327,7 +327,7 @@ departments:
   - daromail@flra.gov
   fax: 214-767-0156
   misc:
-    FOIA Contact: 'Phone: (214) 767-6266'
+    FOIA Contact: 'Phone: 214-767-6266'
   name: Dallas Regional Office
   phone: 214-767-6266
   public_liaison: ''
@@ -401,7 +401,7 @@ departments:
   - daromail@flra.gov
   fax: 303-844-2774
   misc:
-    FOIA Contact: 'Phone: (303) 844-5226'
+    FOIA Contact: 'Phone: 303-844-5226'
   name: Denver Regional Office
   phone: 303-844-5226
   public_liaison: ''
@@ -470,7 +470,7 @@ departments:
   emails: []
   fax: 415-356-5017
   misc:
-    FOIA Contact: 'Phone: (415) 356-5000'
+    FOIA Contact: 'Phone: 415-356-5000'
   name: San Francisco Regional Office
   phone: 415-356-5000
   public_liaison: ''
@@ -541,7 +541,7 @@ departments:
   - wromail@flra.gov
   fax: 202-482-6724
   misc:
-    FOIA Contact: 'Phone: (202) 482-6700'
+    FOIA Contact: 'Phone: 202-482-6700'
   name: Washington Regional Office
   phone: 202-482-6700
   public_liaison: ''
@@ -606,7 +606,7 @@ departments:
   - fsipmail@flra.gov
   fax: 202-482-6674
   misc:
-    FOIA Contact: 'Phone: (202) 218-7790'
+    FOIA Contact: 'Phone: 202-218-7790'
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
   public_liaison: ''
@@ -676,9 +676,9 @@ departments:
   - oigmail@flra.gov
   fax: 202-482-0573
   misc:
-    FOIA Contact: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
+    FOIA Contact: 'Phone: 202-218-7770 x7744, 202-218-7970'
   name: Office of the Inspector General
-  phone: 202-218-7770
+  phone: 202-218-7770 x7744
   public_liaison: ''
   request_time_stats:
     '2008':

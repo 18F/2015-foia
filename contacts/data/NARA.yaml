@@ -15,7 +15,7 @@ departments:
   emails:
   - foia@nara.gov
   fax: 301-837-0293
-  foia_officer: 'Joseph Scanlon, Phone: (301) 837-3642'
+  foia_officer: 'Joseph Scanlon, Phone: 301-837-3642'
   name: Main Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -36,7 +36,7 @@ departments:
   - john.simms@nara.gov
   fax: 301-837-3197
   misc:
-    FOIA Contact: 'Phone: (301) 837-3000'
+    FOIA Contact: 'Phone: 301-837-3000'
   name: Office of the Inspector General
   phone: 301-837-3000
   public_liaison: 'John Simms, Phone: (301) 837-3197'
@@ -56,7 +56,7 @@ departments:
   - specialaccess_foia@nara.gov
   fax: 301-837-1864
   misc:
-    Special Access and FOIA Staff (NWCTF): 'FOIA Contact, Phone: (301) 837-3190'
+    Special Access and FOIA Staff (NWCTF): 'FOIA Contact, Phone: 301-837-3190'
   name: Accessioned Executive Branch Agency Records - Washington, DC Area
   phone: 301-837-3190
   public_liaison: 'Steven Tilley, Phone: (301) 837-3059'
@@ -74,7 +74,7 @@ departments:
   - alaska.archives@nara.gov
   fax: 907-261-7813
   misc:
-    Regional Director: 'Phone: (907) 261-7820'
+    Regional Director: 'Phone: 907-261-7820'
   name: Pacific Alaska Region (Anchorage)
   phone: 907-261-7820
   public_liaison: 'R. Bruce Parham, Phone: (907) 261-7801'
@@ -89,7 +89,7 @@ departments:
   - atlanta.archives@nara.gov
   fax: 770-968-2547
   misc:
-    Regional Director: 'Phone: (770) 968-2100'
+    Regional Director: 'Phone: 770-968-2100'
   name: Southeast Region (Atlanta)
   phone: 770-968-2100
   public_liaison: 'Richard Rayburn, Phone: (770) 968-2547'
@@ -105,7 +105,7 @@ departments:
   - boston.archives@nara.gov
   fax: 781-663-0154
   misc:
-    Regional Director: 'Phone: (781) 663-0130'
+    Regional Director: 'Phone: 781-663-0130'
   name: Northeast Region (Boston)
   phone: 781-663-0130
   public_liaison: 'Patricia Foley, Phone: (781) 663-0121'
@@ -120,7 +120,7 @@ departments:
   - chicago.archives@nara.gov
   fax: 773-948-9050
   misc:
-    Regional Director: 'Phone: (773) 948-9001'
+    Regional Director: 'Phone: 773-948-9001'
   name: Great Lakes Region (Chicago)
   phone: 773-948-9001
   public_liaison: 'Douglas Bicknese, Phone: (773) 948-0009'
@@ -135,7 +135,7 @@ departments:
   - denver.archives@nara.gov
   fax: 303-407-5709
   misc:
-    Regional Director: 'Phone: (303) 407-5740'
+    Regional Director: 'Phone: 303-407-5740'
   name: Rocky Mountain Region (Denver)
   phone: 303-407-5740
   public_liaison: 'Eileen Bolger, Phone: (303) 407-5749'
@@ -150,7 +150,7 @@ departments:
   - ftworth.archives@nara.gov
   fax: 817-551-2034
   misc:
-    Regional Director: 'Phone: (817) 831-5620'
+    Regional Director: 'Phone: 817-831-5620'
   name: Southwest Region (Fort Worth)
   phone: 817-831-5620
   public_liaison: 'Meg Hacker, Phone: (917) 831-5643'
@@ -165,7 +165,7 @@ departments:
   - kansascity.archives@nara.gov
   fax: 816-268-8038
   misc:
-    Regional Director: 'Phone: (816) 268-8000'
+    Regional Director: 'Phone: 816-268-8000'
   name: Central Plains Region (Kansas City)
   phone: 816-268-8000
   public_liaison: 'Phone: (816) 268-8017'
@@ -181,7 +181,7 @@ departments:
   - newyork.archives@nara.gov
   fax: 212-401-1638
   misc:
-    Regional Director: 'Phone: (212) 401-1620'
+    Regional Director: 'Phone: 212-401-1620'
   name: Northeast Region (New York)
   phone: 212-401-1620
   public_liaison: 'Nancy Shader, Phone: (212) 401-1626'
@@ -196,7 +196,7 @@ departments:
   - philadelphia.archives@nara.gov
   fax: 215-606-0116
   misc:
-    Regional Director: 'Phone: (215) 606-0100'
+    Regional Director: 'Phone: 215-606-0100'
   name: Mid-Atlantic Region (City Center Philadelphia)
   phone: 215-606-0100
   public_liaison: 'John McEvoy, Phone: (215) 305-2005'
@@ -211,7 +211,7 @@ departments:
   - sanbruno.archives@nara.gov
   fax: 650-238-3510
   misc:
-    Regional Director: 'Phone: (650) 238-3501'
+    Regional Director: 'Phone: 650-238-3501'
   name: Pacific Region (San Francisco)
   phone: 650-238-3501
   public_liaison: 'Dan Nealand, Phone: (650) 238-3478'
@@ -226,7 +226,7 @@ departments:
   - seattle.archives@nara.gov
   fax: 206-336-5112
   misc:
-    Regional Director: 'Phone: (206) 336-5115'
+    Regional Director: 'Phone: 206-336-5115'
   name: Pacific Region (Seattle)
   phone: 206-336-5115
   public_liaison: 'Sue Karren, Phone: (206) 336-5141'

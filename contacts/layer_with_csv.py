@@ -3,8 +3,10 @@
 """Fill in any blanks in the YAML files by investigating a XLS"""
 from copy import deepcopy
 from glob import glob
+from scraper import clean_phone_number, PHONE_RE
 import logging
 import os
+import re
 from urllib.request import urlopen
 
 import xlrd
@@ -27,10 +29,23 @@ def address_lines(row):
 def contact_string(row):
     """Pull out contact name and/or phone number from a row"""
     contact = row['Name']
-    if row['Telephone']:
+
+    phone_str = row['Telephone']
+    clean_numbers = []
+    while True:
+        if PHONE_RE.match(phone_str):
+            clean_numbers.append(clean_phone_number(phone_str))
+            if "," not in phone_str:
+                break
+            phone_str = phone_str.split(",")[-1]
+        else:
+            break
+
+    if clean_numbers:
         if contact:
             contact += ', '
-        contact += 'Phone: ' + row['Telephone']
+        contact += 'Phone: ' + ", ".join(clean_numbers)
+
     return contact
 
 
@@ -87,7 +102,7 @@ def contacts_from_xls():
     for sheet in workbook.sheet_names():
         sheet = workbook.sheet_by_name(sheet)
         field_names = [sheet.cell_value(0, x) for x in range(sheet.ncols)]
-        for row_idx in range(0, sheet.nrows):
+        for row_idx in range(1, sheet.nrows):
             row = {field_names[x]: sheet.cell_value(row_idx, x)
                    for x in range(sheet.ncols)}
             add_contact_info(contacts, row)

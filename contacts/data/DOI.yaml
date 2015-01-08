@@ -14,7 +14,7 @@ departments:
   emails:
   - foia@bia.gov
   fax: 202-208-6597
-  foia_officer: 'Daphne Berwald, Phone: (202) 208-4174'
+  foia_officer: 'Daphne Berwald, Phone: 202-208-4174'
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -138,7 +138,7 @@ departments:
     grazing, mineral development, and energy production on public lands.
   emails:
   - BLM_WO_FOIA@blm.gov
-  foia_officer: 'Ryan Witt, Phone: (202) 912-7650'
+  foia_officer: 'Ryan Witt, Phone: 202-912-7650'
   keywords:
   - Administrative practice and procedure
   - Airports
@@ -317,7 +317,7 @@ departments:
   - Solar energy
   - Surety bonds
   misc:
-    FOIA Contact: 'Rosemary Melendy, Phone: (703) 787-1315'
+    FOIA Contact: 'Rosemary Melendy, Phone: 703-787-1315'
   name: Bureau of Ocean Energy Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -371,7 +371,7 @@ departments:
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
-  foia_officer: 'Regina Magno-Judd, Phone: (303) 445-2056, (888) 231-7779'
+  foia_officer: 'Regina Magno-Judd, Phone: 303-445-2056, 888-231-7779'
   keywords:
   - Administrative practice and procedure
   - Agriculture
@@ -510,7 +510,7 @@ departments:
   - Research
   - Surety bonds
   misc:
-    FOIA Contact: 'Debbie Kimball, Phone: (703) 787-1689'
+    FOIA Contact: 'Debbie Kimball, Phone: 703-787-1689'
   name: Bureau of Safety and Environmental Enforcement
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -559,7 +559,7 @@ departments:
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
-  foia_officer: 'Melissa Allen, Phone: (703) 358-2470'
+  foia_officer: 'Melissa Allen, Phone: 703-358-2470'
   keywords:
   - Administrative practice and procedure
   - Alaska
@@ -722,7 +722,7 @@ departments:
   - foia@usgs.gov
   fax: 703-648-7199
   misc:
-    FOIA Contact: 'Brian May, Phone: (703) 648-7196'
+    FOIA Contact: 'Brian May, Phone: 703-648-7196'
   name: U.S. Geological Survey
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -799,7 +799,7 @@ departments:
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557
-  foia_officer: 'Charis Wilson, Phone: 1-855-NPS-FOIA (677-3642); (303) 969-2959'
+  foia_officer: Charis Wilson
   keywords:
   - Alaska
   - Alcohol and alcoholic beverages
@@ -930,7 +930,7 @@ departments:
   emails:
   - foia@doioig.gov
   misc:
-    FOIA Contact: 'Kevin Krebs, Phone: (202) 208-0954'
+    FOIA Contact: 'Kevin Krebs, Phone: 202-208-0954'
   name: Office of the Inspector General
   phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
@@ -1056,7 +1056,7 @@ departments:
   - Surface mining
   - Whistleblowing
   misc:
-    FOIA Contact: 'Richard Lopez, Phone: (303) 231-3078'
+    FOIA Contact: 'Richard Lopez, Phone: 303-231-3078'
   name: Office of Natural Resources Revenue
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1078,7 +1078,7 @@ departments:
   emails: []
   fax: 202-219-2374
   misc:
-    FOIA Contact: 'Clarice Julka, Phone: (202) 513-0756'
+    FOIA Contact: 'Clarice Julka, Phone: 202-513-0756'
   name: Office of the Secretary
   phone: 202-513-0756
   public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
@@ -1161,7 +1161,7 @@ departments:
   - sol.foia@sol.doi.gov
   fax: 202-208-5206
   misc:
-    Acting FOIA Contact: 'Lance Purvis, Phone: (202) 208-5817'
+    Acting FOIA Contact: 'Lance Purvis, Phone: 202-208-5817'
   name: Office of the Solicitor
   phone: 202-208-5817
   public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
@@ -1219,7 +1219,7 @@ departments:
   - foia@osmre.gov
   fax: 202-219-3092
   misc:
-    FOIA Contact: 'Dele Awoniyi, Phone: (202) 208-5840'
+    FOIA Contact: 'Dele Awoniyi, Phone: 202-208-5840'
   name: Office of Surface Mining
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1283,7 +1283,7 @@ departments:
   emails:
   - Veronica_Herkshan@ost.doi.gov
   misc:
-    FOIA Contact: 'Veronica Herkshan, Phone: (505) 816-1645'
+    FOIA Contact: 'Veronica Herkshan, Phone: 505-816-1645'
   name: Office of the Special Trustee
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.

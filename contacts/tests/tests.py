@@ -230,15 +230,24 @@ class ScraperTests(TestCase):
         lines, ps = scraper.clean_paragraphs(doc)
         self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
 
-    def test_phone(self):
+    def test_clean_phone_number(self):
         """Test various phone formats and make sure bad formats produce
         errors"""
         for line in ("+4 123-456-7890", "4-(123) 456 7890", "41234567890"):
-            self.assertEqual("+4 123-456-7890", scraper.phone(line))
+            self.assertEqual(
+                "+4 123-456-7890", scraper.clean_phone_number(line))
         for line in ("  123-456-7890", "(123) 456 7890", "1234567890"):
-            self.assertEqual("123-456-7890", scraper.phone(line))
+            self.assertEqual("123-456-7890", scraper.clean_phone_number(line))
         for line in ("Other", "123-4567", "1234-5679-0"):
-            self.assertRaises(Exception, scraper.phone, line)
+            self.assertRaises(Exception, scraper.clean_phone_number, line)
+        # Test for extensions
+        test_lines = (
+            "(928) 779-2727, ext. 145",
+            "(928) 779-2727, (ext. 145)",
+            "(928) 779-2727 ext. 145")
+        for line in test_lines:
+            self.assertEqual(
+                "928-779-2727 x145", scraper.clean_phone_number(line))
 
     def test_split_address_from(self):
         """Address should be separated as soon as we encounter "service
@@ -401,10 +410,15 @@ class LayerTests(TestCase):
         row["Name"] = "Bob Bobberson"
         self.assertEqual("Bob Bobberson", layer.contact_string(row))
         row["Telephone"] = "(111) 222-3333"
-        self.assertEqual("Bob Bobberson, Phone: (111) 222-3333",
+        self.assertEqual("Bob Bobberson, Phone: 111-222-3333",
                          layer.contact_string(row))
         row["Name"] = ""
-        self.assertEqual("Phone: (111) 222-3333", layer.contact_string(row))
+        self.assertEqual("Phone: 111-222-3333", layer.contact_string(row))
+        row["Telephone"] = "(202) 218-7770 (ext. 7744), (202) 218-7970"
+        row["Name"] = "Bob Bobberson"
+        self.assertEqual(
+            "Bob Bobberson, Phone: 202-218-7770 x7744, 202-218-7970",
+            layer.contact_string(row))
 
     def test_patch_dict(self):
         """Verify fields are added, nothing gets overwritten, and misc fields

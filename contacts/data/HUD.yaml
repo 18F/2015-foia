@@ -14,7 +14,7 @@ departments:
   - Washington, DC 20410-3000
   fax: 202-619-8365
   misc:
-    Office of the Executive Secretariat: 'Dolores Cole, Phone: (202) 708-3866'
+    Office of the Executive Secretariat: 'Dolores Cole, Phone: 202-708-3866'
   name: Headquarters
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
@@ -87,7 +87,7 @@ departments:
   - 10 Causeway Street
   - Boston, MA 02222-1092
   misc:
-    Deputy Regional Administrator: 'Kristine G. Foye, Phone: (617) 994-8218'
+    Deputy Regional Administrator: 'Kristine G. Foye, Phone: 617-994-8218'
   name: Region I (Boston, Hartford, Manchester, Providence)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -160,7 +160,7 @@ departments:
   - 26 Federal Plaza
   - New York, NY 10278-0068
   misc:
-    Deputy Regional Administrator: 'Mirza Morales, Phone: (212) 542-7109'
+    Deputy Regional Administrator: 'Mirza Morales, Phone: 212-542-7109'
   name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -232,7 +232,7 @@ departments:
   - 100 Penn Square East Building
   - Philadelphia, PA 10107
   misc:
-    Deputy Regional Administrator: 'Brenda Laroche, Phone: (215) 656-0600'
+    Deputy Regional Administrator: 'Brenda Laroche, Phone: 215-656-0600'
   name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
   notes: This office has additional FOIA contact information that can be found by
@@ -305,13 +305,12 @@ departments:
   - 40 Marietta Street
   - Atlanta, GA 30303
   misc:
-    Supervisory Operations Officer: 'Thomacina Brown, Phone: (404) 331-5001, ext.
-      2380'
+    Supervisory Operations Officer: 'Thomacina Brown, Phone: 404-331-5001 x2380'
   name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 404-331-5001
+  phone: 404-331-5001 x2380
   public_liaison: 'Thomacina Brown, Phone: (404) 331-5001, ext. 2380'
   reading_rooms:
   - - E-FOIA Reading Room
@@ -380,12 +379,12 @@ departments:
   - 77 W. Jackson Boulevard
   - Chicago, IL 60604
   misc:
-    Deputy Regional Director: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
+    Deputy Regional Director: 'Beverly Bishop, Phone: 312-353-5680 x2139'
   name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 312-353-5680
+  phone: 312-353-5680 x2139
   public_liaison: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
   reading_rooms:
   - - E-FOIA Reading Room
@@ -454,12 +453,12 @@ departments:
   - 801 Cherry Street
   - Ft. Worth, TX 76102
   misc:
-    FOIA Liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
+    FOIA Liaison: 'Patricia Campbell, Phone: 817-978-5974 x1010'
   name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
     San Antonio)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 817-978-5974
+  phone: 817-978-5974 x1010
   public_liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
   reading_rooms:
   - - E-FOIA Reading Room
@@ -527,7 +526,7 @@ departments:
   - 400 State Avenue
   - Kansas City, KS 66101
   misc:
-    Deputy Regional Administrator: 'Eugene (Gene) Lipscomb, Phone: (913) 551-5476'
+    Deputy Regional Administrator: 'Eugene (Gene) Lipscomb, Phone: 913-551-5476'
   name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -599,11 +598,11 @@ departments:
   - 1670 Broadway
   - Denver, CO 80202-4801
   misc:
-    Deputy Regional Director: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
+    Deputy Regional Director: 'Deborah Griswold, Phone: 303-672-5440 x1442'
   name: Region VIII (Denver)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 303-672-5440
+  phone: 303-672-5440 x1442
   public_liaison: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
   reading_rooms:
   - - E-FOIA Reading Room
@@ -672,7 +671,7 @@ departments:
   - 650 Capitol Mall
   - Sacramento, CA 95814-3702
   misc:
-    FOIA Liaison: 'Suzie Hernandez, Phone: (916) 498-7381'
+    FOIA Liaison: 'Suzie Hernandez, Phone: 916-498-7381'
   name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -745,7 +744,7 @@ departments:
   - 909 First Avenue
   - Seattle , WA 98104-1000
   misc:
-    Regional Lead: 'Patty Huster, Phone: (206) 220-5101'
+    Regional Lead: 'Patty Huster, Phone: 206-220-5101'
   name: Region X (Seattle, Anchorage, Portland)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.

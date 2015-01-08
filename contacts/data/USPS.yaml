@@ -8,7 +8,7 @@ departments:
   - Washington, DC 20260-1101
   fax: 202-268-5353
   misc:
-    Manager, Records Office: 'FOIA Contact, Phone: (202) 268-2608'
+    Manager, Records Office: 'FOIA Contact, Phone: 202-268-2608'
   name: USPS Headquarters Office
   phone: 202-268-2608
   public_liaison: 'Jane Eyre, Phone: (202) 268-2608'
@@ -43,7 +43,7 @@ departments:
     use; and ensure public trust in the mail.
   fax: 202-268-4538
   misc:
-    Office of Counsel: 'FOIA Contact, Phone: (202) 268-7004'
+    Office of Counsel: 'FOIA Contact, Phone: 202-268-7004'
   name: Postal Inspection Service
   phone: 202-268-7004
   public_liaison: 'Betty White, Phone: (202) 268-7004'
@@ -110,7 +110,7 @@ departments:
   - FOIA@uspsoig.gov
   fax: 703-248-4626
   misc:
-    FOIA Contact: 'FOIA Contact, Phone: (703) 248-2100'
+    FOIA Contact: 'FOIA Contact, Phone: 703-248-2100'
   name: Office of the Inspector General
   phone: 703-248-2100
   public_liaison: 'Betsy Cuthbertson, Phone: (703) 248-2100'

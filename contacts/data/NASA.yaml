@@ -9,7 +9,7 @@ departments:
   emails:
   - foia@hq.nasa.gov
   fax: 202-358-4332
-  foia_officer: 'Josephine Sibley, Phone: (202) 358-2462'
+  foia_officer: 'Josephine Sibley, Phone: 202-358-2462'
   name: Headquarters
   phone: 202-358-2462
   public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
@@ -70,7 +70,7 @@ departments:
   emails:
   - foia@arc.nasa.gov
   fax: 650-604-0688
-  foia_officer: 'Lubna Shirazi, Phone: (650) 604-1138'
+  foia_officer: 'Lubna Shirazi, Phone: 650-604-1138'
   name: Ames Research Center
   phone: 650-604-1138
   public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
@@ -149,7 +149,7 @@ departments:
   emails:
   - dfrc-foia@nasa.gov
   fax: 661-276-3566
-  foia_officer: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  foia_officer: 'Kim Lewis-Bias, Phone: 661-276-2704'
   name: Dryden Flight Research Center
   phone: 661-276-2704
   public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
@@ -235,7 +235,7 @@ departments:
   emails:
   - grc-foia@mail.nasa.gov
   fax: 216-433-5489
-  foia_officer: 'Angela Pierce, Phone: (216) 443-2813'
+  foia_officer: 'Angela Pierce, Phone: 216-443-2813'
   name: Glenn Research Center
   phone: 216-443-2813
   public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
@@ -314,7 +314,7 @@ departments:
   emails:
   - foia@gsfc.nasa.gov
   fax: 301-286-1712
-  foia_officer: 'Joan Belt, Phone: (301) 286-4271'
+  foia_officer: 'Joan Belt, Phone: 301-286-4271'
   name: Goddard Space Flight Center
   phone: 301-286-4271
   public_liaison: 'Joan Belt, Phone: (301) 286-4271'
@@ -404,7 +404,7 @@ departments:
   emails:
   - jpl-foia@nasa.gov
   fax: 818-393-3160
-  foia_officer: 'Dennis Mahon, Phone: (818) 393-6779'
+  foia_officer: 'Dennis Mahon, Phone: 818-393-6779'
   name: Jet Propulsion Laboratory
   phone: 818-393-6779
   public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
@@ -483,7 +483,7 @@ departments:
   emails:
   - jsc-foia@mail.nasa.gov
   fax: 281-483-4876
-  foia_officer: 'Jessica Cordero, Phone: (281) 483-8252'
+  foia_officer: 'Jessica Cordero, Phone: 281-483-8252'
   name: Johnson Space Center
   phone: 281-483-8252
   public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
@@ -566,7 +566,7 @@ departments:
   emails:
   - foia@ksc.nasa.gov
   fax: 321-867-8007
-  foia_officer: 'Penny Myers, Phone: (321) 867-9280'
+  foia_officer: 'Penny Myers, Phone: 321-867-9280'
   name: Kennedy Space Center
   phone: 321-867-9280
   public_liaison: 'Penny Myers, Phone: (321) 867-9280'
@@ -650,7 +650,7 @@ departments:
   emails:
   - LARC-DL-foia@mail.nasa.gov
   fax: 757-864-6333
-  foia_officer: 'Carissa Wheeler, Phone: (757) 864-4274'
+  foia_officer: 'Carissa Wheeler, Phone: 757-864-4274'
   name: Langley Research Center
   phone: 757-864-4274
   public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
@@ -733,7 +733,7 @@ departments:
   emails:
   - FOIA@msfc.nasa.gov
   fax: 256-544-0007
-  foia_officer: 'Judi Hollingsworth, Phone: (256) 544-1837'
+  foia_officer: 'Judi Hollingsworth, Phone: 256-544-1837'
   name: Marshall Space Flight Center
   phone: 256-544-1837
   public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
@@ -820,7 +820,7 @@ departments:
   emails:
   - foiaoig@hq.nasa.gov
   fax: 202-358-2767
-  foia_officer: 'Frank LaRocca, Phone: (202) 358-2582'
+  foia_officer: 'Frank LaRocca, Phone: 202-358-2582'
   name: Office of the Inspector General
   phone: 202-358-2582
   public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
@@ -972,7 +972,7 @@ departments:
   emails:
   - ssc-foia@nasa.gov
   fax: 228-668-7499
-  foia_officer: 'Sally Bilbo, Phone: (228) 688-3182'
+  foia_officer: 'Sally Bilbo, Phone: 228-688-3182'
   name: Stennis Space Center
   phone: 228-688-3182
   public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
@@ -1060,7 +1060,7 @@ departments:
   - foia@hq.nasa.gov
   fax: 202-358-4332
   misc:
-    'Agency ': 'Miriam BrownLam, Phone: (202) 358-0718'
+    'Agency ': 'Miriam BrownLam, Phone: 202-358-0718'
   name: Principal Agency FOIA Officer
   phone: 202-358-0718
   public_liaison: 'Phone: (202) 358-3642'
