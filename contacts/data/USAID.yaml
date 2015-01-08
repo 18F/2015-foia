@@ -12,10 +12,15 @@ departments:
   misc:
     ? Team Lead, Government Information Specialist (FOIA), Bureau for Management,
       Office of Management Services, Information and Records Division
-    : 'Alecia S. Sillah, Phone: 202-712-0960'
+    : name: Alecia S. Sillah
+      phone:
+      - 202-712-0960
   name: U.S. Agency for International Development
   phone: 202-712-0960
-  public_liaison: 'Lynn P. Winston, Phone: (202) 712-0960'
+  public_liaison:
+    name: Lynn P. Winston
+    phone:
+    - 202-712-0960
   reading_rooms:
   - - FOIA Library
     - http://www.usaid.gov/foia-requests/foia-library
@@ -73,7 +78,9 @@ departments:
       simple_highest_days: '789'
       simple_lowest_days: less than 1
       simple_median_days: '17'
-  service_center: 'Phone: (202) 712-0960'
+  service_center:
+    phone:
+    - 202-712-0960
   top_level: false
   website: http://www.usaid.gov/foia-requests
 description: The U.S. Agency for International Development (USAID) is an independent

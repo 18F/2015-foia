@@ -8,10 +8,16 @@ departments:
   - Washington, DC 20037
   emails: []
   fax: 202-974-7619
-  foia_officer: 'Chris Warner, Phone: 202-261-7619'
+  foia_officer:
+    name: Chris Warner
+    phone:
+    - 202-261-7619
   name: Chemical Safety and Hazard Investigation Board
   phone: 202-261-7619
-  public_liaison: 'Chris Warner, Phone: (202) 261-7619'
+  public_liaison:
+    name: Chris Warner
+    phone:
+    - 202-261-7619
   request_time_stats:
     '2008':
       complex_average_days: '437'
@@ -87,7 +93,9 @@ departments:
       simple_highest_days: '14'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (202) 261-7619'
+  service_center:
+    phone:
+    - 202-261-7619
   top_level: false
   website: http://www.csb.gov/disclaimers/legal-affairs-foia/
 description: The CSB is an independent federal agency charged with investigating industrial

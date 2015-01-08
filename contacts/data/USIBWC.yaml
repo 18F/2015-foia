@@ -9,10 +9,16 @@ departments:
   emails:
   - rebecca.rizzuti@ibwc.gov
   fax: 915-440-0948
-  foia_officer: 'Rebecca Rizzuti, Phone: 915-832-4729'
+  foia_officer:
+    name: Rebecca Rizzuti
+    phone:
+    - 915-832-4729
   name: United States International Boundary and Water Commission
   phone: 915-832-4729
-  public_liaison: 'Rebecca Rizzuti, Phone: (915) 832-4729'
+  public_liaison:
+    name: Rebecca Rizzuti
+    phone:
+    - 915-832-4729
   reading_rooms:
   - - FOIA Reading Room
     - http://www.ibwc.gov/Organization/FOIA_RR.html
@@ -79,7 +85,10 @@ departments:
       simple_highest_days: '27'
       simple_lowest_days: '1'
       simple_median_days: '19'
-  service_center: 'Rebecca Rizzuti, Phone: (915) 832-4729'
+  service_center:
+    name: Rebecca Rizzuti
+    phone:
+    - 915-832-4729
   top_level: false
   website: http://www.ibwc.gov/Organization/FOIA.html
 description: 'The Comission''s mission is to provide binational solutions to issues

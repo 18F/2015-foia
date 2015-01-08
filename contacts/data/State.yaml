@@ -8,11 +8,16 @@ departments:
   - Washington, DC 20522-8100
   fax: 202-261-8579
   misc:
-    Acting Director, Office of Information Programs and Services: 'John F. Hackett,
-      Phone: 202-261-8484'
+    Acting Director, Office of Information Programs and Services:
+      name: John F. Hackett
+      phone:
+      - 202-261-8484
   name: Department of State
   phone: 202-261-8484
-  public_liaison: 'Marianne Manheim, Phone: (202) 261-8484'
+  public_liaison:
+    name: Marianne Manheim
+    phone:
+    - 202-261-8484
   reading_rooms:
   - - Virtual Reading Room Search
     - http://foia.state.gov/Search/Search.aspx
@@ -96,7 +101,9 @@ departments:
       simple_highest_days: '1631'
       simple_lowest_days: less than 1
       simple_median_days: '90'
-  service_center: 'Phone: (202) 261-8484'
+  service_center:
+    phone:
+    - 202-261-8484
   top_level: false
   website: http://foia.state.gov/
 - address:
@@ -110,10 +117,16 @@ departments:
   - oigfoia@state.gov
   fax: 202-663-0390
   misc:
-    FOIA Office: 'ATTN:  Zipora Bullard, Phone: 202-663-0383'
+    FOIA Office:
+      name: 'ATTN:  Zipora Bullard'
+      phone:
+      - 202-663-0383
   name: Office of Inspector General
   phone: 202-663-0383
-  public_liaison: 'Marianne Manheim, Phone: (202) 261-8359'
+  public_liaison:
+    name: Marianne Manheim
+    phone:
+    - 202-261-8359
   reading_rooms:
   - - FOIA Reading Room
     - http://oig.state.gov/foia-reading-room
@@ -161,7 +174,9 @@ departments:
       simple_highest_days: '155'
       simple_lowest_days: '1'
       simple_median_days: '17'
-  service_center: 'Phone: (202) 261-8484'
+  service_center:
+    phone:
+    - 202-261-8484
   top_level: false
   website: http://oig.state.gov/foia
 description: The Department's mission is to advance freedom for the benefit of the

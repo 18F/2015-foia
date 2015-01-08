@@ -15,10 +15,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    National Freedom of Information Officer: 'Larry Gottesman, Phone: 202-566-1667'
+    National Freedom of Information Officer:
+      name: Larry Gottesman
+      phone:
+      - 202-566-1667
   name: National Headquarters
   phone: 202-566-1667
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - Reading Rooms
     - http://www.epa.gov/foia/reading_rooms.html
@@ -102,7 +108,9 @@ departments:
       simple_highest_days: '2044'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (202) 566-1667'
+  service_center:
+    phone:
+    - 202-566-1667
   top_level: false
   website: http://www.epa.gov/foia/index.html
 - address:
@@ -114,11 +122,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 1 (OARM01-6): 'Regional Freedom of Information Officer, Phone:
-      617-918-1102'
+    U.S. EPA, Region 1 (OARM01-6):
+      name: Regional Freedom of Information Officer
+      phone:
+      - 617-918-1102
   name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - Reading Room
     - http://www.epa.gov/foia/reading.html
@@ -194,7 +207,9 @@ departments:
       simple_highest_days: '74'
       simple_lowest_days: less than 1
       simple_median_days: '11'
-  service_center: 'Phone: (617) 918-1102'
+  service_center:
+    phone:
+    - 617-918-1102
   top_level: false
   website: http://www.epa.gov/ne/foia/index.html
 - address:
@@ -206,10 +221,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 2: 'Regional Freedom of Information Officer, Phone: 212-637-3668'
+    U.S. EPA, Region 2:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 212-637-3668
   name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - reading room
     - http://www.epa.gov/region02/foia/reading_room.htm
@@ -289,7 +310,9 @@ departments:
       simple_highest_days: '88'
       simple_lowest_days: less than 1
       simple_median_days: '11'
-  service_center: 'Phone: (212) 637-3668'
+  service_center:
+    phone:
+    - 212-637-3668
   top_level: false
   website: http://www.epa.gov/region02/foia/index.html
 - address:
@@ -301,10 +324,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 3: 'Regional Freedom of Information Officer, Phone: 215-814-3424'
+    U.S. EPA, Region 3:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 215-814-3424
   name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - Reading Room
     - http://www.epa.gov/region03/foia/readingroom.htm
@@ -388,7 +417,9 @@ departments:
       simple_highest_days: '97'
       simple_lowest_days: less than 1
       simple_median_days: '20'
-  service_center: 'Phone: (215) 814-3424'
+  service_center:
+    phone:
+    - 215-814-3424
   top_level: false
   website: http://www.epa.gov/region03/foia/index.html
 - address:
@@ -400,10 +431,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 4: 'Regional Freedom of Information Officer, Phone: 404-562-9891'
+    U.S. EPA, Region 4:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 404-562-9891
   name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - Electronic Reading Room
     - http://www.epa.gov/region4/foiapgs/readingroom/index.htm
@@ -481,7 +518,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '13'
-  service_center: 'Phone: (404) 562-9891'
+  service_center:
+    phone:
+    - 404-562-9891
   top_level: false
   website: http://www.epa.gov/region4/foiapgs
 - address:
@@ -493,10 +532,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 5: 'Regional Freedom of Information Officer, Phone: 312-886-6686'
+    U.S. EPA, Region 5:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 312-886-6686
   name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - EPA Electronic Reading Room
     - http://www.epa.gov/foia/reading.html
@@ -582,7 +627,9 @@ departments:
       simple_highest_days: '365'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (312) 886-6686'
+  service_center:
+    phone:
+    - 312-886-6686
   top_level: false
   website: http://www.epa.gov/region5/foia.htm
 - address:
@@ -594,10 +641,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 6: 'Regional Freedom of Information Officer, Phone: 214-665-7202'
+    U.S. EPA, Region 6:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 214-665-7202
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -674,7 +727,9 @@ departments:
       simple_highest_days: '779'
       simple_lowest_days: less than 1
       simple_median_days: '220'
-  service_center: 'Phone: (214) 665-7202'
+  service_center:
+    phone:
+    - 214-665-7202
   top_level: false
   website: http://www.epa.gov/earth1r6/6md/foia/index.html
 - address:
@@ -685,10 +740,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 7: 'Regional Freedom of Information Officer, Phone: 913-551-7860'
+    U.S. EPA, Region 7:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 913-551-7860
   name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   reading_rooms:
   - - Electronic Reading Room
     - http://www.epa.gov/region07/citizens/foia/readingroom.htm
@@ -768,7 +829,9 @@ departments:
       simple_highest_days: '148'
       simple_lowest_days: less than 1
       simple_median_days: '19'
-  service_center: 'Phone: (913) 551-7860'
+  service_center:
+    phone:
+    - 913-551-7860
   top_level: false
   website: http://www.epa.gov/region07/citizens/foia/index.htm
 - address:
@@ -779,10 +842,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 8: 'Regional Freedom of Information Officer, Phone: 303-312-6856'
+    U.S. EPA, Region 8:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 303-312-6856
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -855,7 +924,9 @@ departments:
       simple_highest_days: '390'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (303) 312-6856'
+  service_center:
+    phone:
+    - 303-312-6856
   top_level: false
   website: http://www.epa.gov/region8/epa-region-8-foia-office-contact
 - address:
@@ -867,10 +938,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 9: 'Regional Freedom of Information Officer, Phone: 415-947-4251'
+    U.S. EPA, Region 9:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 415-947-4251
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -947,7 +1024,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '14'
-  service_center: 'Phone: (415) 947-4251'
+  service_center:
+    phone:
+    - 415-947-4251
   top_level: false
   website: http://www.epa.gov/region09/foia/index.html
 - address:
@@ -959,10 +1038,16 @@ departments:
   emails:
   - williams.deborah@epa.gov
   misc:
-    U.S. EPA, Region 10: 'Regional Freedom of Information Officer, Phone: 206-553-8665'
+    U.S. EPA, Region 10:
+      name: Regional Freedom of Information Officer
+      phone:
+      - 206-553-8665
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
-  public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+  public_liaison:
+    name: Deborah Williams
+    phone:
+    - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -1035,7 +1120,9 @@ departments:
       simple_highest_days: '666'
       simple_lowest_days: less than 1
       simple_median_days: '10'
-  service_center: 'Phone: (206) 553-8665'
+  service_center:
+    phone:
+    - 206-553-8665
   top_level: false
   website: http://yosemite.epa.gov/r10/extaff.nsf/webpage/freedom+of+information+act
 description: The mission of EPA is to protect human health and the environment.
@@ -1301,7 +1388,10 @@ keywords:
 - Zinc
 name: Environmental Protection Agency
 phone: 202-566-1667
-public_liaison: 'Deborah Williams, Phone: (202) 566-1667'
+public_liaison:
+  name: Deborah Williams
+  phone:
+  - 202-566-1667
 reading_rooms:
 - - Reading Rooms
   - http://www.epa.gov/foia/reading_rooms.html
@@ -1385,7 +1475,9 @@ request_time_stats:
     simple_highest_days: '2044'
     simple_lowest_days: less than 1
     simple_median_days: '15'
-service_center: 'Phone: (202) 566-1667'
+service_center:
+  phone:
+  - 202-566-1667
 top_level: false
 usa_id: '49039'
 website: http://www.epa.gov/foia/index.html

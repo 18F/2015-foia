@@ -9,10 +9,16 @@ departments:
   emails:
   - foia@hq.nasa.gov
   fax: 202-358-4332
-  foia_officer: 'Josephine Sibley, Phone: 202-358-2462'
+  foia_officer:
+    name: Josephine Sibley
+    phone:
+    - 202-358-2462
   name: Headquarters
   phone: 202-358-2462
-  public_liaison: 'Josephine Sibley, Phone: (202) 358-2462'
+  public_liaison:
+    name: Josephine Sibley
+    phone:
+    - 202-358-2462
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
   request_time_stats:
     '2010':
@@ -59,7 +65,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 358-2562'
+  service_center:
+    phone:
+    - 202-358-2562
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
@@ -70,10 +78,16 @@ departments:
   emails:
   - foia@arc.nasa.gov
   fax: 650-604-0688
-  foia_officer: 'Lubna Shirazi, Phone: 650-604-1138'
+  foia_officer:
+    name: Lubna Shirazi
+    phone:
+    - 650-604-1138
   name: Ames Research Center
   phone: 650-604-1138
-  public_liaison: 'Lubna Shirazi, Phone: (650) 604-1138'
+  public_liaison:
+    name: Lubna Shirazi
+    phone:
+    - 650-604-1138
   reading_rooms:
   - - '> Electronic Reading Room'
     - http://www.nasa.gov/centers/ames/business/foia/elec.html
@@ -137,7 +151,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (650) 604-3273'
+  service_center:
+    phone:
+    - 650-604-3273
   top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
 - address:
@@ -149,10 +165,16 @@ departments:
   emails:
   - dfrc-foia@nasa.gov
   fax: 661-276-3566
-  foia_officer: 'Kim Lewis-Bias, Phone: 661-276-2704'
+  foia_officer:
+    name: Kim Lewis-Bias
+    phone:
+    - 661-276-2704
   name: Dryden Flight Research Center
   phone: 661-276-2704
-  public_liaison: 'Kim Lewis-Bias, Phone: (661) 276-2704'
+  public_liaison:
+    name: Kim Lewis-Bias
+    phone:
+    - 661-276-2704
   reading_rooms:
   - - Electronic Reading Room
     - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
@@ -224,7 +246,9 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: less than 1
       simple_median_days: '0.5'
-  service_center: 'Phone: (661) 276-2704'
+  service_center:
+    phone:
+    - 661-276-2704
   top_level: false
   website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
 - address:
@@ -235,10 +259,16 @@ departments:
   emails:
   - grc-foia@mail.nasa.gov
   fax: 216-433-5489
-  foia_officer: 'Angela Pierce, Phone: 216-443-2813'
+  foia_officer:
+    name: Angela Pierce
+    phone:
+    - 216-443-2813
   name: Glenn Research Center
   phone: 216-443-2813
-  public_liaison: 'Angela Pierce, Phone: (216) 443-2813'
+  public_liaison:
+    name: Angela Pierce
+    phone:
+    - 216-443-2813
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -303,7 +333,9 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '1'
       simple_median_days: '2'
-  service_center: 'Phone: (216) 443-2813'
+  service_center:
+    phone:
+    - 216-443-2813
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
@@ -314,10 +346,16 @@ departments:
   emails:
   - foia@gsfc.nasa.gov
   fax: 301-286-1712
-  foia_officer: 'Joan Belt, Phone: 301-286-4271'
+  foia_officer:
+    name: Joan Belt
+    phone:
+    - 301-286-4271
   name: Goddard Space Flight Center
   phone: 301-286-4271
-  public_liaison: 'Joan Belt, Phone: (301) 286-4271'
+  public_liaison:
+    name: Joan Belt
+    phone:
+    - 301-286-4271
   reading_rooms:
   - - Electronic Reading Room  →
     - https://foiaelibrary.gsfc.nasa.gov/index.cfm?fuseaction=foia.eReadingRoom
@@ -389,7 +427,9 @@ departments:
       simple_highest_days: '23'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (301) 286-4271'
+  service_center:
+    phone:
+    - 301-286-4271
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
 - abbreviation: JPL
@@ -404,10 +444,16 @@ departments:
   emails:
   - jpl-foia@nasa.gov
   fax: 818-393-3160
-  foia_officer: 'Dennis Mahon, Phone: 818-393-6779'
+  foia_officer:
+    name: Dennis Mahon
+    phone:
+    - 818-393-6779
   name: Jet Propulsion Laboratory
   phone: 818-393-6779
-  public_liaison: 'Dennis Mahon, Phone: (818) 393-6779'
+  public_liaison:
+    name: Dennis Mahon
+    phone:
+    - 818-393-6779
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -472,7 +518,9 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (818) 393-6779'
+  service_center:
+    phone:
+    - 818-393-6779
   top_level: true
   website: http://www.jpl.nasa.gov/
 - address:
@@ -483,10 +531,16 @@ departments:
   emails:
   - jsc-foia@mail.nasa.gov
   fax: 281-483-4876
-  foia_officer: 'Jessica Cordero, Phone: 281-483-8252'
+  foia_officer:
+    name: Jessica Cordero
+    phone:
+    - 281-483-8252
   name: Johnson Space Center
   phone: 281-483-8252
-  public_liaison: 'Jessica Cordero, Phone: (281) 483-8252'
+  public_liaison:
+    name: Jessica Cordero
+    phone:
+    - 281-483-8252
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -555,7 +609,9 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: less than 1
       simple_median_days: '1'
-  service_center: 'Phone: (281) 483-8252'
+  service_center:
+    phone:
+    - 281-483-8252
   top_level: false
   website: http://www.nasa.gov/centers/johnson/news/foia.html
 - address:
@@ -566,10 +622,16 @@ departments:
   emails:
   - foia@ksc.nasa.gov
   fax: 321-867-8007
-  foia_officer: 'Penny Myers, Phone: 321-867-9280'
+  foia_officer:
+    name: Penny Myers
+    phone:
+    - 321-867-9280
   name: Kennedy Space Center
   phone: 321-867-9280
-  public_liaison: 'Penny Myers, Phone: (321) 867-9280'
+  public_liaison:
+    name: Penny Myers
+    phone:
+    - 321-867-9280
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -638,7 +700,9 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: less than 1
       simple_median_days: '2.5'
-  service_center: 'Phone: (321) 867-9280'
+  service_center:
+    phone:
+    - 321-867-9280
   top_level: false
   website: http://www.nasa.gov/centers/kennedy/home/
 - address:
@@ -650,10 +714,16 @@ departments:
   emails:
   - LARC-DL-foia@mail.nasa.gov
   fax: 757-864-6333
-  foia_officer: 'Carissa Wheeler, Phone: 757-864-4274'
+  foia_officer:
+    name: Carissa Wheeler
+    phone:
+    - 757-864-4274
   name: Langley Research Center
   phone: 757-864-4274
-  public_liaison: 'Carissa Wheeler, Phone: (757) 864-4274'
+  public_liaison:
+    name: Carissa Wheeler
+    phone:
+    - 757-864-4274
   reading_rooms:
   - - Electronic FOIA Library
     - http://www.nasa.gov/centers/langley/reading/index.html
@@ -721,7 +791,9 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Phone: (757) 864-4274'
+  service_center:
+    phone:
+    - 757-864-4274
   top_level: false
   website: http://foia.larc.nasa.gov/
 - address:
@@ -733,10 +805,16 @@ departments:
   emails:
   - FOIA@msfc.nasa.gov
   fax: 256-544-0007
-  foia_officer: 'Judi Hollingsworth, Phone: 256-544-1837'
+  foia_officer:
+    name: Judi Hollingsworth
+    phone:
+    - 256-544-1837
   name: Marshall Space Flight Center
   phone: 256-544-1837
-  public_liaison: 'Judi Hollingsworth, Phone: (256) 544-1837'
+  public_liaison:
+    name: Judi Hollingsworth
+    phone:
+    - 256-544-1837
   reading_rooms:
   - - + FOIA Library
     - http://foia.msfc.nasa.gov/reading.html
@@ -808,7 +886,9 @@ departments:
       simple_highest_days: '29'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (256) 544-1837'
+  service_center:
+    phone:
+    - 256-544-1837
   top_level: false
   website: http://foia.msfc.nasa.gov/
 - address:
@@ -820,10 +900,16 @@ departments:
   emails:
   - foiaoig@hq.nasa.gov
   fax: 202-358-2767
-  foia_officer: 'Frank LaRocca, Phone: 202-358-2582'
+  foia_officer:
+    name: Frank LaRocca
+    phone:
+    - 202-358-2582
   name: Office of the Inspector General
   phone: 202-358-2582
-  public_liaison: 'Frank LaRocca, Phone: (202) 358-2582'
+  public_liaison:
+    name: Frank LaRocca
+    phone:
+    - 202-358-2582
   request_form: http://oig.nasa.gov/FOIA_request_electronic.html
   request_time_stats:
     '2008':
@@ -880,7 +966,9 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: less than 1
       simple_median_days: '9.5'
-  service_center: 'Phone: (202) 358-2582'
+  service_center:
+    phone:
+    - 202-358-2582
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:
@@ -891,10 +979,16 @@ departments:
   emails:
   - nssc@nasa.gov
   fax: 228-779-6772
-  foia_officer: 'Jamie Mettler, Phone: (228) 813-6490'
+  foia_officer:
+    name: Jamie Mettler
+    phone:
+    - 228-813-6490
   name: NASA Shared Service Center (NSSC)
   phone: 228-813-6490
-  public_liaison: 'Jamie Mettler, Phone: (228) 813-6174'
+  public_liaison:
+    name: Jamie Mettler
+    phone:
+    - 228-813-6174
   reading_rooms:
   - - FOIA Library
     - https://answers.nssc.nasa.gov/app/answers/detail/a_id/6337
@@ -962,7 +1056,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '6'
       simple_median_days: '8'
-  service_center: 'Phone: (228) 813-6174'
+  service_center:
+    phone:
+    - 228-813-6174
   top_level: false
   website: http://www.nssc.nasa.gov/foia/
 - address:
@@ -972,10 +1068,16 @@ departments:
   emails:
   - ssc-foia@nasa.gov
   fax: 228-668-7499
-  foia_officer: 'Sally Bilbo, Phone: 228-688-3182'
+  foia_officer:
+    name: Sally Bilbo
+    phone:
+    - 228-688-3182
   name: Stennis Space Center
   phone: 228-688-3182
-  public_liaison: 'Sally Bilbo, Phone: (228) 688-3182'
+  public_liaison:
+    name: Sally Bilbo
+    phone:
+    - 228-688-3182
   reading_rooms:
   - - Electronic Reading Room
     - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
@@ -1047,7 +1149,9 @@ departments:
       simple_highest_days: '11'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (228) 688-3182'
+  service_center:
+    phone:
+    - 228-688-3182
   top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - address:
@@ -1060,12 +1164,19 @@ departments:
   - foia@hq.nasa.gov
   fax: 202-358-4332
   misc:
-    'Agency ': 'Miriam BrownLam, Phone: 202-358-0718'
+    'Agency ':
+      name: Miriam BrownLam
+      phone:
+      - 202-358-0718
   name: Principal Agency FOIA Officer
   phone: 202-358-0718
-  public_liaison: 'Phone: (202) 358-3642'
+  public_liaison:
+    phone:
+    - 202-358-3642
   request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
-  service_center: 'Phone: (202) 358-0718'
+  service_center:
+    phone:
+    - 202-358-0718
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/agency/
 description: NASA's mission is to pioneer the future in space exploration, scientific

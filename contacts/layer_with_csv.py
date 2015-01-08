@@ -3,10 +3,9 @@
 """Fill in any blanks in the YAML files by investigating a XLS"""
 from copy import deepcopy
 from glob import glob
-from scraper import clean_phone_number, PHONE_RE
+from scraper import extract_numbers, clean_phone_number
 import logging
 import os
-import re
 from urllib.request import urlopen
 
 import xlrd
@@ -28,25 +27,17 @@ def address_lines(row):
 
 def contact_string(row):
     """Pull out contact name and/or phone number from a row"""
+
     contact = row['Name']
+    clean_numbers = extract_numbers(row['Telephone'])
 
-    phone_str = row['Telephone']
-    clean_numbers = []
-    while True:
-        if PHONE_RE.match(phone_str):
-            clean_numbers.append(clean_phone_number(phone_str))
-            if "," not in phone_str:
-                break
-            phone_str = phone_str.split(",")[-1]
-        else:
-            break
-
+    clean_contact = {}
+    if contact:
+        clean_contact['name'] = contact
     if clean_numbers:
-        if contact:
-            contact += ', '
-        contact += 'Phone: ' + ", ".join(clean_numbers)
+        clean_contact['phone'] = clean_numbers
 
-    return contact
+    return clean_contact
 
 
 def add_contact_info(contacts, row):
@@ -61,12 +52,22 @@ def add_contact_info(contacts, row):
 
     if row['Website'] in ('http://', 'https://'):
         row['Website'] = ''
+
+    # Rows that don't need to be cleaned
     for row_name, field_name in (('Online Request Form', 'request_form'),
-                                 ('Fax', 'fax'), ('Notes', 'notes'),
-                                 ('Telephone', 'phone'),
-                                 ('Website', 'website')):
+                                 ('Notes', 'notes'), ('Website', 'website')):
         if row[row_name].strip():
             office_struct[field_name] = row[row_name]
+
+    # Rows that have numbers that need to be cleaned
+    for row_name, field_name in (('Fax', 'fax'), ('Telephone', 'phone')):
+        if row[row_name].strip():
+            try:
+                office_struct[field_name] = clean_phone_number(row[row_name])
+            except:
+                logging.warning("%s is an invalid number", row[row_name])
+
+    # Adding address
     address = address_lines(row)
     if address and 'address' not in office_struct:
         office_struct['address'] = address
@@ -74,7 +75,7 @@ def add_contact_info(contacts, row):
         office_struct['emails'].append(
             row['Email Address'].replace('mailto:', ''))
 
-    #   People
+    # People
     lower_title = row['Title'].lower()
     processed = False
     for title_text in ('service center', 'public liaison', 'foia officer'):

@@ -9,10 +9,15 @@ departments:
   emails:
   - usoge@oge.gov
   fax: 202-482-9237
-  foia_officer: 'Diana J. Veilleux, Phone: 202-482-9203'
+  foia_officer:
+    name: Diana J. Veilleux
+    phone:
+    - 202-482-9203
   name: Office of Government Ethics
   phone: 202-482-9203
-  public_liaison: 'Phone: (202) 482-9203'
+  public_liaison:
+    phone:
+    - 202-482-9203
   request_time_stats:
     '2008':
       simple_average_days: '11'
@@ -80,7 +85,9 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 482-9267'
+  service_center:
+    phone:
+    - 202-482-9267
   top_level: false
   website: http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/
 description: The Office of Government Ethics exercises leadership in the executive

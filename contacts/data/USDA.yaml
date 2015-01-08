@@ -15,7 +15,10 @@ departments:
   emails:
   - AMS.FOIA@usda.gov
   fax: 202-690-3767
-  foia_officer: 'William D. Allen IV, Phone: 202-720-3785'
+  foia_officer:
+    name: William D. Allen IV
+    phone:
+    - 202-720-3785
   keywords:
   - Administrative practice and procedure
   - Advertising
@@ -108,7 +111,10 @@ departments:
   - Watermelons
   name: Agricultural Marketing Service
   phone: 202-720-3785
-  public_liaison: 'Christine Sarcone, Phone: (202) 720-3203'
+  public_liaison:
+    name: Christine Sarcone
+    phone:
+    - 202-720-3203
   request_form: http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm
   request_time_stats:
     '2010':
@@ -159,7 +165,9 @@ departments:
       simple_highest_days: '75'
       simple_lowest_days: '1'
       simple_median_days: '15'
-  service_center: 'Phone: (202) 720-3785'
+  service_center:
+    phone:
+    - 202-720-3785
   top_level: false
   website: ''
 - address:
@@ -236,10 +244,16 @@ departments:
   - Veterinarians
   - Virgin Islands
   misc:
-    FOIA Director: 'Tonya Woods, Phone: 301-734-8296'
+    FOIA Director:
+      name: Tonya Woods
+      phone:
+      - 301-734-8296
   name: Animal & Plant Health Inspection
   phone: 301-734-8296
-  public_liaison: 'Tonya Woods, Phone: (301) 734-5267'
+  public_liaison:
+    name: Tonya Woods
+    phone:
+    - 301-734-5267
   reading_rooms:
   - - FOIA Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
@@ -299,7 +313,9 @@ departments:
       simple_highest_days: '629'
       simple_lowest_days: '1'
       simple_median_days: '22'
-  service_center: 'Phone: (301) 734-8296'
+  service_center:
+    phone:
+    - 301-734-8296
   top_level: false
   website: http://www.aphis.usda.gov/foia/
 - address:
@@ -312,10 +328,16 @@ departments:
   - phyllis.holmes@usda.gov
   fax: 202-720-0105
   misc:
-    FOIA Contact: 'Phyllis Holmes, Phone: 202-720-0068'
+    FOIA Contact:
+      name: Phyllis Holmes
+      phone:
+      - 202-720-0068
   name: Departmental Management
   phone: 202-720-0068
-  public_liaison: 'Phyllis Holmes, Phone: (202) 720-0068'
+  public_liaison:
+    name: Phyllis Holmes
+    phone:
+    - 202-720-0068
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -348,7 +370,9 @@ departments:
       simple_highest_days: '92'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 720-0068'
+  service_center:
+    phone:
+    - 202-720-0068
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -360,7 +384,10 @@ departments:
   emails:
   - fsa.foia@wdc.usda.gov
   fax: 202-690-2828
-  foia_officer: 'Sue Ellen Sloca, Phone: 202-720-1598'
+  foia_officer:
+    name: Sue Ellen Sloca
+    phone:
+    - 202-720-1598
   keywords:
   - Accounting
   - Acreage allotments
@@ -548,7 +575,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-720-1598
-  public_liaison: 'Sue Ellen Sloca, Phone: (202) 720-1598'
+  public_liaison:
+    name: Sue Ellen Sloca
+    phone:
+    - 202-720-1598
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er
@@ -606,7 +636,9 @@ departments:
       simple_highest_days: '247'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Phone: (202) 720-5534'
+  service_center:
+    phone:
+    - 202-720-5534
   top_level: false
   website: http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi
 - address:
@@ -618,10 +650,16 @@ departments:
   emails:
   - foia@fns.usda.gov
   fax: 703-605-0793
-  foia_officer: 'Jennifer Weatherly, Phone: 703-605-0773'
+  foia_officer:
+    name: Jennifer Weatherly
+    phone:
+    - 703-605-0773
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
-  public_liaison: 'Joseph X. Tangredi, Phone: (703) 605-0773'
+  public_liaison:
+    name: Joseph X. Tangredi
+    phone:
+    - 703-605-0773
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -674,7 +712,9 @@ departments:
       simple_highest_days: '62'
       simple_lowest_days: '1'
       simple_median_days: '17'
-  service_center: 'Phone: (703) 605-0773'
+  service_center:
+    phone:
+    - 703-605-0773
   top_level: false
   website: http://www.fns.usda.gov/foia/
 - address:
@@ -716,10 +756,16 @@ departments:
   - Signs and symbols
   - Transportation
   misc:
-    FOIA Contact: 'Shelia Wright, Phone: 202-690-2760'
+    FOIA Contact:
+      name: Shelia Wright
+      phone:
+      - 202-690-2760
   name: Food Safety & Inspection Service
   phone: 202-690-2760
-  public_liaison: 'Arianne M. Perkins, Phone: (202) 690-2760'
+  public_liaison:
+    name: Arianne M. Perkins
+    phone:
+    - 202-690-2760
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
@@ -769,7 +815,9 @@ departments:
       simple_highest_days: '473'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (202) 690-3882'
+  service_center:
+    phone:
+    - 202-690-3882
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - address:
@@ -780,7 +828,10 @@ departments:
   - Washington, DC 20250-1004
   emails:
   - Rochelle.Foster@fas.usda.gov
-  foia_officer: 'Henry Noland, Phone: 202-720-0154'
+  foia_officer:
+    name: Henry Noland
+    phone:
+    - 202-720-0154
   keywords:
   - Agricultural commodities
   - Cheese
@@ -793,7 +844,10 @@ departments:
   - Trade adjustment assistance
   name: Foreign Agricultural Service
   phone: 202-720-0154
-  public_liaison: 'Sally Klusaritz, Phone: (202) 720-3448'
+  public_liaison:
+    name: Sally Klusaritz
+    phone:
+    - 202-720-3448
   reading_rooms:
   - - FAS eFOIA Reading Room
     - http://www.fas.usda.gov/foia-reading-room
@@ -851,7 +905,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 720-3101'
+  service_center:
+    phone:
+    - 202-720-3101
   top_level: false
   website: http://www.fas.usda.gov/freedom-information-act-foia
 - address:
@@ -917,12 +973,18 @@ departments:
   - Wildlife
   - Wildlife refuges
   misc:
-    'FOIA/PA Officer - ATTN: FOIA/PA Team': 'Sherry Turner, Phone: 202-205-2497'
+    'FOIA/PA Officer - ATTN: FOIA/PA Team':
+      name: Sherry Turner
+      phone:
+      - 202-205-2497
   name: Forest Service - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-205-2497
-  public_liaison: 'Sherry Turner, Phone: (202) 205-2497'
+  public_liaison:
+    name: Sherry Turner
+    phone:
+    - 202-205-2497
   request_time_stats:
     '2010':
       complex_average_days: '38.5'
@@ -976,7 +1038,9 @@ departments:
       simple_highest_days: '615'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (202) 205-1542'
+  service_center:
+    phone:
+    - 202-205-1542
   top_level: false
   website: http://www.fs.fed.us/im/foia/
 - address:
@@ -1010,10 +1074,16 @@ departments:
   - Surety bonds
   - Trade practices
   misc:
-    FOIA/PA Officer: 'Joanne Peterson, Phone: 202-720-8087'
+    FOIA/PA Officer:
+      name: Joanne Peterson
+      phone:
+      - 202-720-8087
   name: Grain Inspection, Packers & Stockyards Administration
   phone: 202-720-8087
-  public_liaison: 'Albert Conerly, Phone: (202) 720-0234'
+  public_liaison:
+    name: Albert Conerly
+    phone:
+    - 202-720-0234
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1064,7 +1134,10 @@ departments:
       simple_highest_days: '32'
       simple_lowest_days: '1'
       simple_median_days: '3'
-  service_center: 'Joanne Peterson, Phone: (202) 720-8087'
+  service_center:
+    name: Joanne Peterson
+    phone:
+    - 202-720-8087
   top_level: false
   website: http://www.gipsa.usda.gov/foia.html
 - address:
@@ -1076,12 +1149,18 @@ departments:
   emails:
   - Brenda.Seegars@nad.usda.gov
   fax: 703-305-2825
-  foia_officer: 'Brenda V. Seegars, Phone: 703-305-1164'
+  foia_officer:
+    name: Brenda V. Seegars
+    phone:
+    - 703-305-1164
   name: National Appeals Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-305-1164
-  public_liaison: 'Brenda V. Seegars, Phone: (703) 305-1164'
+  public_liaison:
+    name: Brenda V. Seegars
+    phone:
+    - 703-305-1164
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1112,7 +1191,9 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (703) 305-1164'
+  service_center:
+    phone:
+    - 703-305-1164
   top_level: false
   website: http://www.nad.usda.gov/foia.html
 - address:
@@ -1121,15 +1202,21 @@ departments:
   - P.O. Box 60000
   - New Orleans, LA 70160
   fax: 504-426-9703
-  foia_officer: 'John Hemstreet, Phone: 504-426-0168'
+  foia_officer:
+    name: John Hemstreet
+    phone:
+    - 504-426-0168
   name: National Finance Center
   phone: 504-426-0168
-  public_liaison: 'Patricia Blumenthal, Phone: (504) 426-168'
+  public_liaison:
+    name: Patricia Blumenthal
   reading_rooms:
   - - Click here to access the NFC Electronic Reading Room
     - https://www.nfc.usda.gov/FOIA/foiaereading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
-  service_center: 'Phone: (504) 426-0162'
+  service_center:
+    phone:
+    - 504-426-0162
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
 - address:
@@ -1141,7 +1228,10 @@ departments:
   emails:
   - NRCS-foia@wdc.usda.gov
   fax: 202-720-9030
-  foia_officer: 'Deryl Richardson, Phone: 202-690-4985'
+  foia_officer:
+    name: Deryl Richardson
+    phone:
+    - 202-690-4985
   keywords:
   - Administrative practice and procedure
   - Agriculture
@@ -1167,7 +1257,10 @@ departments:
   - Wildlife
   name: Natural Resources Conservation Service
   phone: 202-690-4985
-  public_liaison: 'Deryl Richardson, Phone: (202) 690-4985'
+  public_liaison:
+    name: Deryl Richardson
+    phone:
+    - 202-690-4985
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1214,7 +1307,9 @@ departments:
       simple_highest_days: '274'
       simple_lowest_days: '1'
       simple_median_days: '10.5'
-  service_center: 'Phone: (202) 690-4985'
+  service_center:
+    phone:
+    - 202-690-4985
   top_level: false
   website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
 - address:
@@ -1225,10 +1320,16 @@ departments:
   - Washington, DC 20250
   fax: 202-690-3673
   misc:
-    FOIA/PA Officer: 'Julie Hetrick, Phone: 202-720-1269'
+    FOIA/PA Officer:
+      name: Julie Hetrick
+      phone:
+      - 202-720-1269
   name: Office of Budget & Program Analysis
   phone: 202-720-1269
-  public_liaison: 'Julie Hetrick, Phone: (202) 720-1269'
+  public_liaison:
+    name: Julie Hetrick
+    phone:
+    - 202-720-1269
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1270,7 +1371,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (202) 720-1269'
+  service_center:
+    phone:
+    - 202-720-1269
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1280,7 +1383,10 @@ departments:
   - Stop Box 9020
   - Washington, DC 20250
   fax: 202-690-3536
-  foia_officer: 'Richard Saafeld, Phone: 202-720-0995'
+  foia_officer:
+    name: Richard Saafeld
+    phone:
+    - 202-720-0995
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -1366,7 +1472,10 @@ departments:
   - Women
   name: Office of the Chief Financial Officer
   phone: 202-720-0995
-  public_liaison: 'Richard Saafeld, Phone: (202) 720-0995'
+  public_liaison:
+    name: Richard Saafeld
+    phone:
+    - 202-720-0995
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1412,7 +1521,9 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '1'
       simple_median_days: '8'
-  service_center: 'Phone: (202) 720-1893'
+  service_center:
+    phone:
+    - 202-720-1893
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1422,10 +1533,16 @@ departments:
   - 300 7th Street, SW
   - Washington, DC 20024
   misc:
-    FOIA/PA Officer: 'Wilbur Crawley, Phone: 202-690-0028'
+    FOIA/PA Officer:
+      name: Wilbur Crawley
+      phone:
+      - 202-690-0028
   name: Office of the Chief Information Officer
   phone: 202-690-0028
-  public_liaison: 'Richard Ciampa, Phone: (202)720-6355'
+  public_liaison:
+    name: Richard Ciampa
+    phone:
+    - 202-720-6355
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1457,7 +1574,9 @@ departments:
       simple_highest_days: '774'
       simple_lowest_days: '1'
       simple_median_days: '28'
-  service_center: 'Phone: (301) 504-4154'
+  service_center:
+    phone:
+    - 301-504-4154
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1469,10 +1588,16 @@ departments:
   - ascrfoia@ascr.usda.gov
   fax: 202-720-0953
   misc:
-    Director, Office of Adjudication and Compliance: 'Michael G. Watts, Phone: 202-720-5212'
+    Director, Office of Adjudication and Compliance:
+      name: Michael G. Watts
+      phone:
+      - 202-720-5212
   name: Office of Civil Rights
   phone: 202-720-5212
-  public_liaison: 'Michael G. Watts, Phone: (202) 720-5212'
+  public_liaison:
+    name: Michael G. Watts
+    phone:
+    - 202-720-5212
   reading_rooms:
   - - E-FOIA Reading Room
     - http://www.ascr.usda.gov/efoia_cr.html
@@ -1526,7 +1651,9 @@ departments:
       simple_highest_days: '22'
       simple_lowest_days: '1'
       simple_median_days: '12'
-  service_center: 'Phone: (202) 720-5212'
+  service_center:
+    phone:
+    - 202-720-5212
   top_level: false
   website: http://www.ascr.usda.gov/foia_cr.html
 - address:
@@ -1535,11 +1662,16 @@ departments:
   - Room 3311-South Building
   - Washington, DC 20250-1400
   fax: 202-720-5837
-  foia_officer: 'Betty Ollila, Phone: 202-720-5824'
+  foia_officer:
+    name: Betty Ollila
+    phone:
+    - 202-720-5824
   name: Office of the General Counsel
   phone: 202-720-5824
-  public_liaison: 'Assistant General Counsel for General Law Division, Phone: (202)
-    720-5565'
+  public_liaison:
+    name: Assistant General Counsel for General Law Division
+    phone:
+    - 202-720-5565
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1572,7 +1704,9 @@ departments:
       simple_highest_days: '262'
       simple_lowest_days: '1'
       simple_median_days: '36'
-  service_center: 'Phone: (202) 720-5824'
+  service_center:
+    phone:
+    - 202-720-5824
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1583,10 +1717,16 @@ departments:
   - Washington, DC 20024
   emails:
   - usdafoia@ocio.usda.gov
-  foia_officer: 'Ravoyne Peyton, Phone: 202-260-2657'
+  foia_officer:
+    name: Ravoyne Peyton
+    phone:
+    - 202-260-2657
   name: Office of the Secretary
   phone: 202-260-2657
-  public_liaison: 'Ravoyne Peyton, Phone: (202) 720-8164'
+  public_liaison:
+    name: Ravoyne Peyton
+    phone:
+    - 202-720-8164
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1604,7 +1744,9 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: '1'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 720-8164'
+  service_center:
+    phone:
+    - 202-720-8164
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1616,10 +1758,16 @@ departments:
   emails:
   - bill.crews@rma.usda.gov
   fax: 202-720-1162
-  foia_officer: 'Bill Crews, Phone: 202-720-9507'
+  foia_officer:
+    name: Bill Crews
+    phone:
+    - 202-720-9507
   name: Risk Management Agency
   phone: 202-720-9507
-  public_liaison: 'Wes Azama, Phone: (202) 260-0080'
+  public_liaison:
+    name: Wes Azama
+    phone:
+    - 202-260-0080
   reading_rooms:
   - - RMA Electronic                              Reading Room
     - http://www.rma.usda.gov/aboutrma/foia/reading.html
@@ -1669,7 +1817,9 @@ departments:
       simple_highest_days: '282'
       simple_lowest_days: '1'
       simple_median_days: '12'
-  service_center: 'Phone: (202) 720-9507'
+  service_center:
+    phone:
+    - 202-720-9507
   top_level: false
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - address:
@@ -1682,13 +1832,20 @@ departments:
   - REEFOIA@ars.usda.gov
   - REEFOIA@ars.usda.gov
   fax: 301-504-1647
-  foia_officer: 'Stasia Hutchison and Monica Williams, Phone: 301-504-1655, 301-504-1640'
+  foia_officer:
+    name: Stasia Hutchison and Monica Williams
+    phone:
+    - 301-504-1655
+    - 301-504-1640
   name: Research, Education & Economics
   notes: This office processes records for USDA's Research, Education, Economic (REE)
     agencies, Agricultural Research Service, Economic Research Service, National Agricultural
     Statistics Service, and National Institute of Food and Agriculture.
   phone: 301-504-1655
-  public_liaison: 'Stasia Hutchison, Monica Williams, Phone: (301) 504-1743'
+  public_liaison:
+    name: Stasia Hutchison, Monica Williams
+    phone:
+    - 301-504-1743
   request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
   request_time_stats:
     '2010':
@@ -1739,7 +1896,9 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '1'
       simple_median_days: '10'
-  service_center: 'Phone: (301) 504-1743'
+  service_center:
+    phone:
+    - 301-504-1743
   top_level: false
   website: http://www.ars.usda.gov/is/foia/foiaform.htm
 - address:
@@ -1750,12 +1909,18 @@ departments:
   - Washington, DC 20250-0706
   fax: 202-205-5053
   misc:
-    FOIA/PA Officer: 'Sara Bradshaw, Phone: 202-692-0015'
+    FOIA/PA Officer:
+      name: Sara Bradshaw
+      phone:
+      - 202-692-0015
   name: Rural Development
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-692-0015
-  public_liaison: 'Joseph Shunk, Phone: (202) 692-0032'
+  public_liaison:
+    name: Joseph Shunk
+    phone:
+    - 202-692-0032
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1794,7 +1959,9 @@ departments:
       simple_highest_days: '351'
       simple_lowest_days: '1'
       simple_median_days: '48.5'
-  service_center: 'Phone: (202) 692-0004'
+  service_center:
+    phone:
+    - 202-692-0004
   top_level: false
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
 description: USDA provides leadership on food, agriculture, natural resources, and
@@ -2163,7 +2330,10 @@ keywords:
 - Youth
 name: Department of Agriculture
 phone: 202-260-2657
-public_liaison: 'Ray Payton, Phone: (202) 260-2657'
+public_liaison:
+  name: Ray Payton
+  phone:
+  - 202-260-2657
 reading_rooms:
 - - USDA Agencies' FOIA Reading Rooms
   - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -2220,7 +2390,9 @@ request_time_stats:
     simple_highest_days: '647'
     simple_lowest_days: '1'
     simple_median_days: '14'
-service_center: 'Phone: (202) 260-2657'
+service_center:
+  phone:
+  - 202-260-2657
 top_level: false
 usa_id: '49015'
 website: http://www.dm.usda.gov/foia.htm

@@ -14,7 +14,10 @@ departments:
   emails:
   - foia@bia.gov
   fax: 202-208-6597
-  foia_officer: 'Daphne Berwald, Phone: 202-208-4174'
+  foia_officer:
+    name: Daphne Berwald
+    phone:
+    - 202-208-4174
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -57,7 +60,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-208-4174
-  public_liaison: 'Monique Hartgrove, Phone: (202) 208-4174'
+  public_liaison:
+    name: Monique Hartgrove
+    phone:
+    - 202-208-4174
   reading_rooms:
   - - Reading Room
     - http://www.bia.gov/FOIA/ReadingRoom/index.htm
@@ -123,7 +129,9 @@ departments:
       simple_highest_days: '22'
       simple_lowest_days: less than 1
       simple_median_days: '1'
-  service_center: 'Phone: (202) 208-4174'
+  service_center:
+    phone:
+    - 202-208-4174
   top_level: true
   usa_id: '49117'
   website: http://www.bia.gov/FOIA/index.htm
@@ -138,7 +146,10 @@ departments:
     grazing, mineral development, and energy production on public lands.
   emails:
   - BLM_WO_FOIA@blm.gov
-  foia_officer: 'Ryan Witt, Phone: 202-912-7650'
+  foia_officer:
+    name: Ryan Witt
+    phone:
+    - 202-912-7650
   keywords:
   - Administrative practice and procedure
   - Airports
@@ -195,7 +206,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-912-7650
-  public_liaison: 'Ryan Witt, Phone: (202) 912-7650'
+  public_liaison:
+    name: Ryan Witt
+    phone:
+    - 202-912-7650
   reading_rooms:
   - - Reading Room
     - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
@@ -273,7 +287,9 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 912-7650'
+  service_center:
+    phone:
+    - 202-912-7650
   top_level: true
   usa_id: '49125'
   website: http://www.blm.gov/wo/st/en/res/FOIA.html
@@ -317,12 +333,18 @@ departments:
   - Solar energy
   - Surety bonds
   misc:
-    FOIA Contact: 'Rosemary Melendy, Phone: 703-787-1315'
+    FOIA Contact:
+      name: Rosemary Melendy
+      phone:
+      - 703-787-1315
   name: Bureau of Ocean Energy Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-787-1315
-  public_liaison: 'Rosemary Melendy, Phone: (703) 787-1315'
+  public_liaison:
+    name: Rosemary Melendy
+    phone:
+    - 703-787-1315
   reading_rooms:
   - - Deepwater Horizon Library and Reading Room
     - http://www.boem.gov/Deepwater-Reading-Room/
@@ -356,7 +378,9 @@ departments:
       simple_highest_days: '10'
       simple_lowest_days: '1'
       simple_median_days: '2'
-  service_center: 'Phone: (703) 787-1327'
+  service_center:
+    phone:
+    - 703-787-1327
   top_level: true
   usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
@@ -371,7 +395,11 @@ departments:
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
-  foia_officer: 'Regina Magno-Judd, Phone: 303-445-2056, 888-231-7779'
+  foia_officer:
+    name: Regina Magno-Judd
+    phone:
+    - 303-445-2056
+    - 888-231-7779
   keywords:
   - Administrative practice and procedure
   - Agriculture
@@ -394,7 +422,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 303-445-2056
-  public_liaison: 'Regina Magno-Judd, Phone: (303) 445-2056'
+  public_liaison:
+    name: Regina Magno-Judd
+    phone:
+    - 303-445-2056
   reading_rooms:
   - - FOIA Reading Room
     - http://www.usbr.gov/foia/readroom.html
@@ -472,7 +503,9 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (303) 445-2056'
+  service_center:
+    phone:
+    - 303-445-2056
   top_level: true
   usa_id: '49128'
   website: http://www.usbr.gov/foia/
@@ -510,12 +543,18 @@ departments:
   - Research
   - Surety bonds
   misc:
-    FOIA Contact: 'Debbie Kimball, Phone: 703-787-1689'
+    FOIA Contact:
+      name: Debbie Kimball
+      phone:
+      - 703-787-1689
   name: Bureau of Safety and Environmental Enforcement
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-787-1689
-  public_liaison: 'Debbie Kimball, Phone: (703) 787-1689'
+  public_liaison:
+    name: Debbie Kimball
+    phone:
+    - 703-787-1689
   reading_rooms:
   - - BSEE FOIA Reading Room    (Frequently Requested Documents)
     - http://www.bsee.gov/About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
@@ -543,7 +582,9 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: '1'
       simple_median_days: '3'
-  service_center: 'Phone: (703) 787-1689'
+  service_center:
+    phone:
+    - 703-787-1689
   top_level: true
   usa_id: '85146'
   website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
@@ -559,7 +600,10 @@ departments:
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
-  foia_officer: 'Melissa Allen, Phone: 703-358-2470'
+  foia_officer:
+    name: Melissa Allen
+    phone:
+    - 703-358-2470
   keywords:
   - Administrative practice and procedure
   - Alaska
@@ -626,7 +670,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-358-2470
-  public_liaison: 'Johnny Hunt, Phone: (703) 358-2504'
+  public_liaison:
+    name: Johnny Hunt
+    phone:
+    - 703-358-2504
   reading_rooms:
   - - FWS FOIA Library
     - http://www.fws.gov/irm/bpim/foiaread.html
@@ -708,7 +755,9 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (703) 358-2504'
+  service_center:
+    phone:
+    - 703-358-2504
   top_level: true
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
@@ -722,12 +771,18 @@ departments:
   - foia@usgs.gov
   fax: 703-648-7199
   misc:
-    FOIA Contact: 'Brian May, Phone: 703-648-7196'
+    FOIA Contact:
+      name: Brian May
+      phone:
+      - 703-648-7196
   name: U.S. Geological Survey
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-648-7196
-  public_liaison: 'Joye Durant, Phone: (703) 648-7196'
+  public_liaison:
+    name: Joye Durant
+    phone:
+    - 703-648-7196
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -782,7 +837,9 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Phone: (703) 648-7196'
+  service_center:
+    phone:
+    - 703-648-7196
   top_level: false
   website: http://www.usgs.gov/foia/
 - abbreviation: ''
@@ -799,7 +856,8 @@ departments:
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557
-  foia_officer: Charis Wilson
+  foia_officer:
+    name: Charis Wilson
   keywords:
   - Alaska
   - Alcohol and alcoholic beverages
@@ -839,7 +897,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 303-969-2959
-  public_liaison: 'Charis Wilson, Phone: (303) 969-2959'
+  public_liaison:
+    name: Charis Wilson
+    phone:
+    - 303-969-2959
   reading_rooms:
   - - NPS FOIA Library
     - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
@@ -917,7 +978,9 @@ departments:
       simple_highest_days: '27'
       simple_lowest_days: less than 1
       simple_median_days: '14'
-  service_center: 'Phone: (202) 354-1925'
+  service_center:
+    phone:
+    - 202-354-1925
   top_level: true
   usa_id: '49539'
   website: http://www.nps.gov/foia.htm
@@ -930,10 +993,15 @@ departments:
   emails:
   - foia@doioig.gov
   misc:
-    FOIA Contact: 'Kevin Krebs, Phone: 202-208-0954'
+    FOIA Contact:
+      name: Kevin Krebs
+      phone:
+      - 202-208-0954
   name: Office of the Inspector General
   phone: 202-208-0954
-  public_liaison: 'Phone: (202) 208-0954'
+  public_liaison:
+    phone:
+    - 202-208-0954
   reading_rooms:
   - - Electronic Reading Room
     - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
@@ -1007,7 +1075,9 @@ departments:
       simple_highest_days: '120'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 208-0954'
+  service_center:
+    phone:
+    - 202-208-0954
   top_level: false
   website: http://www.doi.gov/oig/foia/index.cfm
 - address:
@@ -1056,17 +1126,25 @@ departments:
   - Surface mining
   - Whistleblowing
   misc:
-    FOIA Contact: 'Richard Lopez, Phone: 303-231-3078'
+    FOIA Contact:
+      name: Richard Lopez
+      phone:
+      - 303-231-3078
   name: Office of Natural Resources Revenue
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 303-231-3078
-  public_liaison: 'Richard Lopez, Phone: (303) 231-3078'
+  public_liaison:
+    name: Richard Lopez
+    phone:
+    - 303-231-3078
   reading_rooms:
   - - Electronic Reading Room (EFOIA)
     - http://www.onrr.gov/FOIA/EFOIA/default.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
-  service_center: 'Phone: (303) 231-3078'
+  service_center:
+    phone:
+    - 303-231-3078
   top_level: false
   website: http://www.onrr.gov/FOIA/
 - address:
@@ -1078,10 +1156,16 @@ departments:
   emails: []
   fax: 202-219-2374
   misc:
-    FOIA Contact: 'Clarice Julka, Phone: 202-513-0756'
+    FOIA Contact:
+      name: Clarice Julka
+      phone:
+      - 202-513-0756
   name: Office of the Secretary
   phone: 202-513-0756
-  public_liaison: 'Clarice Julka, Phone: (202) 565-1076'
+  public_liaison:
+    name: Clarice Julka
+    phone:
+    - 202-565-1076
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1148,7 +1232,9 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '16'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 513-0756'
+  service_center:
+    phone:
+    - 202-513-0756
   top_level: false
   website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
 - address:
@@ -1161,10 +1247,16 @@ departments:
   - sol.foia@sol.doi.gov
   fax: 202-208-5206
   misc:
-    Acting FOIA Contact: 'Lance Purvis, Phone: 202-208-5817'
+    Acting FOIA Contact:
+      name: Lance Purvis
+      phone:
+      - 202-208-5817
   name: Office of the Solicitor
   phone: 202-208-5817
-  public_liaison: 'Lance Purvis, Phone: (202) 208-5817'
+  public_liaison:
+    name: Lance Purvis
+    phone:
+    - 202-208-5817
   reading_rooms:
   - - DOI FOIA Library
     - http://www.doi.gov/foia/doi-foia-library.cfm
@@ -1206,7 +1298,9 @@ departments:
       complex_highest_days: '1140'
       complex_lowest_days: less than 1
       complex_median_days: '44'
-  service_center: 'Phone: (202) 208-6503'
+  service_center:
+    phone:
+    - 202-208-6503
   top_level: false
   website: http://www.doi.gov/foia/
 - address:
@@ -1219,12 +1313,18 @@ departments:
   - foia@osmre.gov
   fax: 202-219-3092
   misc:
-    FOIA Contact: 'Dele Awoniyi, Phone: 202-208-5840'
+    FOIA Contact:
+      name: Dele Awoniyi
+      phone:
+      - 202-208-5840
   name: Office of Surface Mining
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-208-5840
-  public_liaison: 'Dele Awoniyi, Phone: (202) 208-2909'
+  public_liaison:
+    name: Dele Awoniyi
+    phone:
+    - 202-208-2909
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1271,7 +1371,9 @@ departments:
       complex_highest_days: '766'
       complex_lowest_days: less than 1
       complex_median_days: '18'
-  service_center: 'Phone: (202) 208-2909'
+  service_center:
+    phone:
+    - 202-208-2909
   top_level: false
   website: http://www.osmre.gov/contacts/Foia.shtm
 - address:
@@ -1283,14 +1385,20 @@ departments:
   emails:
   - Veronica_Herkshan@ost.doi.gov
   misc:
-    FOIA Contact: 'Veronica Herkshan, Phone: 505-816-1645'
+    FOIA Contact:
+      name: Veronica Herkshan
+      phone:
+      - 505-816-1645
   name: Office of the Special Trustee
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 505-816-1645
-  public_liaison: Veronica Herkshan
+  public_liaison:
+    name: Veronica Herkshan
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
-  service_center: 'Phone: (505) 816-1645'
+  service_center:
+    phone:
+    - 505-816-1645
   top_level: false
   website: http://www.ost.doi.gov/
 description: The U.S. Department of the Interior protects America´s natural resources

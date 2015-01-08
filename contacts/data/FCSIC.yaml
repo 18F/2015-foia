@@ -9,10 +9,16 @@ departments:
   - FOIAOfficer@fcsic.gov
   fax: 703-790-0052
   misc:
-    Freedom of Information Officer: 'Jeffrey C. Pienta, Phone: 703-883-4431'
+    Freedom of Information Officer:
+      name: Jeffrey C. Pienta
+      phone:
+      - 703-883-4431
   name: Farm Credit System Insurance Corporation
   phone: 703-883-4431
-  public_liaison: 'Christine D. Quinn, Phone: (703) 883-4020'
+  public_liaison:
+    name: Christine D. Quinn
+    phone:
+    - 703-883-4020
   reading_rooms:
   - - FOIA Reading Room
     - http://www.fcsic.gov/FCSIC%20FOIA%20Reading%20Room.html
@@ -63,7 +69,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '4'
       simple_median_days: '14'
-  service_center: 'Phone: (703) 883-4020'
+  service_center:
+    phone:
+    - 703-883-4020
   top_level: false
   website: http://www.fcsic.gov/FCSIC%20FOIA.html
 description: The Farm Credit System Insurance Corporation (Corporation) is a Federal

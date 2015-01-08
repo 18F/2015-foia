@@ -29,10 +29,16 @@ departments:
   - State and local governments
   - Statistics
   misc:
-    Freedom of Information Act Officer: 'Michael Toland, Ph.D., Phone: 301-763-2127'
+    Freedom of Information Act Officer:
+      name: Michael Toland, Ph.D.
+      phone:
+      - 301-763-2127
   name: Census Bureau
   phone: 301-763-2127
-  public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
+  public_liaison:
+    name: 'Jennifer Goode, PH.D., '
+    phone:
+    - 301-763-2127
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/about/policies/foia/foia_library.html
@@ -116,7 +122,9 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '0'
       simple_median_days: '4'
-  service_center: 'Phone: (301) 763-2127'
+  service_center:
+    phone:
+    - 301-763-2127
   top_level: true
   usa_id: '48005'
   website: http://www.census.gov/foia/
@@ -129,10 +137,16 @@ departments:
   - pmoulder@doc.gov
   fax: 202-482-2889
   misc:
-    Office of the Under Secretary for Economic Affairs: 'Pamela Moulder, Phone: 202-482-5997'
+    Office of the Under Secretary for Economic Affairs:
+      name: Pamela Moulder
+      phone:
+      - 202-482-5997
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
-  public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  public_liaison:
+    name: Pamela Moulder
+    phone:
+    - 202-482-5997
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -209,7 +223,9 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '2'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 482-5997'
+  service_center:
+    phone:
+    - 202-482-5997
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
 - address:
@@ -220,7 +236,10 @@ departments:
   - Washington, DC 20230
   emails: []
   fax: 202-482-5671
-  foia_officer: 'Stephen Kong, Phone: 202-482-3085'
+  foia_officer:
+    name: Stephen Kong
+    phone:
+    - 202-482-3085
   keywords:
   - Administrative practice and procedure
   - Aged
@@ -246,7 +265,10 @@ departments:
   - Trade adjustment assistance
   name: Economic Development Administration
   phone: 202-482-3085
-  public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  public_liaison:
+    name: Stephen Kong
+    phone:
+    - 202-482-3085
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -323,7 +345,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '2'
       simple_median_days: '10'
-  service_center: 'Phone: (202) 482-3085'
+  service_center:
+    phone:
+    - 202-482-3085
   top_level: false
   website: http://www.eda.gov/foia.htm
 - address:
@@ -335,7 +359,10 @@ departments:
   emails:
   - efoiarequest@bis.doc.gov
   fax: 202-482-0326
-  foia_officer: 'Jennifer Kuo, Phone: 202-482-0953'
+  foia_officer:
+    name: Jennifer Kuo
+    phone:
+    - 202-482-0953
   keywords:
   - Administrative practice and procedure
   - Advisory committees
@@ -364,7 +391,10 @@ departments:
   - Treaties
   name: Bureau of Industry and Security
   phone: 202-482-0953
-  public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  public_liaison:
+    name: Jennifer Kuo
+    phone:
+    - 202-482-0953
   reading_rooms:
   - - BIS' Electronic Reading Room
     - http://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
@@ -448,7 +478,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 482-0953'
+  service_center:
+    phone:
+    - 202-482-0953
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
 - abbreviation: ITA
@@ -464,7 +496,10 @@ departments:
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
-  foia_officer: 'Justin Guz, Phone: 202-482-7937'
+  foia_officer:
+    name: Justin Guz
+    phone:
+    - 202-482-7937
   keywords:
   - Administrative practice and procedure
   - American Samoa
@@ -495,7 +530,10 @@ departments:
   - Watches and jewelry
   name: International Trade Administration
   phone: 202-482-7937
-  public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  public_liaison:
+    name: Justin Guz
+    phone:
+    - 202-482-7937
   reading_rooms:
   - - DOC's Electronic Reading Room
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -574,7 +612,9 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 482-7937'
+  service_center:
+    phone:
+    - 202-482-7937
   top_level: true
   usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
@@ -588,10 +628,16 @@ departments:
     and new markets, the Minority Business Development Agency promotes the growth
     of businesses owned and operated by members of the minority and Diaspora communities.
   fax: 202-482-2798
-  foia_officer: 'Clara Colbert, Phone: 202-481-5045'
+  foia_officer:
+    name: Clara Colbert
+    phone:
+    - 202-481-5045
   name: Minority Business Development Agency
   phone: 202-481-5045
-  public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
+  public_liaison:
+    name: Josephine Arnold
+    phone:
+    - 202-482-5461
   reading_rooms:
   - - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
@@ -670,7 +716,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '20'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 482-5045'
+  service_center:
+    phone:
+    - 202-482-5045
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/freedom-information-act-reading-room
@@ -703,10 +751,16 @@ departments:
   - Research
   - Science and technology
   misc:
-    FOIA & Privacy Act Officer: 'Catherine S. Fletcher, Phone: 301-975-4074'
+    FOIA & Privacy Act Officer:
+      name: Catherine S. Fletcher
+      phone:
+      - 301-975-4074
   name: National Institute of Standards and Technology
   phone: 301-975-4074
-  public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+  public_liaison:
+    name: Catherine S. Fletcher
+    phone:
+    - 301-975-4074
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -782,7 +836,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (301) 975-4074'
+  service_center:
+    phone:
+    - 301-975-4074
   top_level: true
   usa_id: '49517'
   website: http://www.nist.gov/director/foia/
@@ -801,10 +857,16 @@ departments:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
   misc:
-    FOIA Contact: 'Lee Halvorsen, Phone: 703-605-6710'
+    FOIA Contact:
+      name: Lee Halvorsen
+      phone:
+      - 703-605-6710
   name: National Technical Information Service
   phone: 703-605-6710
-  public_liaison: 'Steve Needle, Phone: (703) 605-6404'
+  public_liaison:
+    name: Steve Needle
+    phone:
+    - 703-605-6404
   reading_rooms:
   - - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
@@ -883,7 +945,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '10'
-  service_center: 'Phone: (703) 605-6404'
+  service_center:
+    phone:
+    - 703-605-6404
   top_level: true
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
@@ -896,7 +960,10 @@ departments:
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
-  foia_officer: 'Stacy Cheney, Phone: 202-482-1816'
+  foia_officer:
+    name: Stacy Cheney
+    phone:
+    - 202-482-1816
   keywords:
   - Administrative practice and procedure
   - Cable television
@@ -918,7 +985,10 @@ departments:
   - Television
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
-  public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  public_liaison:
+    name: Stacy Cheney
+    phone:
+    - 202-482-1816
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -999,7 +1069,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 482-1816'
+  service_center:
+    phone:
+    - 202-482-1816
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - abbreviation: NOAA
@@ -1083,10 +1155,16 @@ departments:
   - Wildlife
   - Wildlife refuges
   misc:
-    FOIA Contact: 'Wendy Schumacher, Phone: 301-713-3540'
+    FOIA Contact:
+      name: Wendy Schumacher
+      phone:
+      - 301-713-3540
   name: National Oceanic and Atmospheric Administration
   phone: 301-713-3540
-  public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
+  public_liaison:
+    name: Robert Swisher
+    phone:
+    - 301-628-5755
   reading_rooms:
   - - Reading Room
     - http://www.noaa.gov/foia/reading_room/index.html
@@ -1170,7 +1248,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (301) 713-3540'
+  service_center:
+    phone:
+    - 301-713-3540
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
@@ -1202,10 +1282,16 @@ departments:
   - Small businesses
   - Trademarks
   misc:
-    FOIA Contact: 'Kathryn Siehndel, Phone: 571-272-3000'
+    FOIA Contact:
+      name: Kathryn Siehndel
+      phone:
+      - 571-272-3000
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
-  public_liaison: 'Dahlia George, Phone: (571) 272-3000'
+  public_liaison:
+    name: Dahlia George
+    phone:
+    - 571-272-3000
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1285,7 +1371,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (571) 272-3000'
+  service_center:
+    phone:
+    - 571-272-3000
   top_level: true
   usa_id: '48151'
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
@@ -1298,10 +1386,16 @@ departments:
   emails:
   - FOIA@oig.doc.gov
   fax: 202-501-7921
-  foia_officer: 'Laura Bell, Phone: 202-482-3470'
+  foia_officer:
+    name: Laura Bell
+    phone:
+    - 202-482-3470
   name: Office of Inspector General
   phone: 202-482-3470
-  public_liaison: 'Laura Bell, Phone: (202) 482-3470'
+  public_liaison:
+    name: Laura Bell
+    phone:
+    - 202-482-3470
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
@@ -1385,7 +1479,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '13'
-  service_center: 'Phone: (202) 482-3470'
+  service_center:
+    phone:
+    - 202-482-3470
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
@@ -1667,11 +1763,16 @@ departments:
   - Workers' compensation
   - Youth
   misc:
-    FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government: 'Bobbie
-      Parsons, Phone: 202-482-3257'
+    FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government:
+      name: Bobbie Parsons
+      phone:
+      - 202-482-3257
   name: Office of the Secretary
   phone: 202-482-3257
-  public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
+  public_liaison:
+    name: Bobbie Parsons
+    phone:
+    - 202-482-3257
   reading_rooms:
   - - FOIA Electronic Library (Formerly E-Reading Room)
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -1755,7 +1856,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 482-3257'
+  service_center:
+    phone:
+    - 202-482-3257
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 description: The historic mission of the Department of Commerce is "to foster, promote,
@@ -1979,7 +2082,10 @@ keywords:
 - Women
 name: Department of Commerce
 phone: 202-482-3258
-public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
+public_liaison:
+  name: Brenda Dolan
+  phone:
+  - 202-482-3258
 reading_rooms:
 - - FOIA Electronic Library (Formerly E-Reading Room)
   - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -2062,7 +2168,9 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '8'
-service_center: 'Phone: (202) 482-3258'
+service_center:
+  phone:
+  - 202-482-3258
 top_level: false
 usa_id: '52668'
 website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm

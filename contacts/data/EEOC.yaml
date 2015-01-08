@@ -16,15 +16,26 @@ departments:
   - FOIA@EEOC.gov
   fax: 202-663-4679
   misc:
-    Assistant Legal Counsel/FOIA: 'Stephanie Garner, Phone: 202-663-4634, 202-663-7026'
+    Assistant Legal Counsel/FOIA:
+      name: Stephanie Garner
+      phone:
+      - 202-663-4634
+      - 202-663-7026
   name: Headquarters
   phone: 202-663-4634
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   reading_rooms:
   - - EEOC's Reading Room
     - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
 - address:
@@ -37,10 +48,18 @@ departments:
   - ATLAFOIA@eeoc.gov
   fax: 404-562-6909
   misc:
-    Enforcement Manager: 'William Batts, Phone: 404-562-6840, 404-562-6801'
+    Enforcement Manager:
+      name: William Batts
+      phone:
+      - 404-562-6840
+      - 404-562-6801
   name: Atlanta District Office (Savanna Local Office)
   phone: 404-562-6840
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -87,7 +106,10 @@ departments:
       simple_highest_days: '164'
       simple_lowest_days: '1'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/atlanta/foia.cfm
 - address:
@@ -100,10 +122,18 @@ departments:
   - BIRMFOIA@eeoc.gov
   fax: 205-212-2105
   misc:
-    Records Disclosure Coordinator: 'Willie Alford, Phone: 205-212-2074, 205-212-2112'
+    Records Disclosure Coordinator:
+      name: Willie Alford
+      phone:
+      - 205-212-2074
+      - 205-212-2112
   name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
   phone: 205-212-2074
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -154,7 +184,10 @@ departments:
       simple_highest_days: '109'
       simple_lowest_days: '1'
       simple_median_days: '22'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - address:
@@ -167,11 +200,19 @@ departments:
   - CHARFOIA@eeoc.gov
   fax: 704-344-6734
   misc:
-    Records Disclosure Coordinator: 'Joyce Stafford, Phone: 704-954-6488, 704-344-6684'
+    Records Disclosure Coordinator:
+      name: Joyce Stafford
+      phone:
+      - 704-954-6488
+      - 704-344-6684
   name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
     Offices; Raleigh Area Office
   phone: 704-954-6488
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -222,7 +263,10 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '19'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/charlotte/foia.cfm
 - address:
@@ -237,10 +281,18 @@ departments:
   - MINNFOIA@eeoc.gov
   fax: 312-353-4041
   misc:
-    Records Disclosure Coordinator: 'Sylvia Bustos, Phone: 312-353-8783, 312-353-2421'
+    Records Disclosure Coordinator:
+      name: Sylvia Bustos
+      phone:
+      - 312-353-8783
+      - 312-353-2421
   name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   phone: 312-353-8783
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -287,7 +339,10 @@ departments:
       simple_highest_days: '55'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/chicago/foia.cfm
 - address:
@@ -298,12 +353,20 @@ departments:
   - Dallas, TX 75202-4726
   emails:
   - dallasfoia@eeoc.gov
-  fax: (202) 663-4639
+  fax: 202-663-4639
   misc:
-    Records Disclosure Coordinator: 'Peter Robinson, Phone: 214-253-2732, 214-253-2710'
+    Records Disclosure Coordinator:
+      name: Peter Robinson
+      phone:
+      - 214-253-2732
+      - 214-253-2710
   name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
   phone: 214-253-2732
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -354,7 +417,10 @@ departments:
       simple_highest_days: '110'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/dallas/foia.cfm
 - address:
@@ -367,10 +433,18 @@ departments:
   - HOUSFOIA@eeoc.gov
   fax: 713-209-3381
   misc:
-    Records Disclosure Coordinator: 'Susam Velasquez, Phone: 713-209-3416, 713-209-3439'
+    Records Disclosure Coordinator:
+      name: Susam Velasquez
+      phone:
+      - 713-209-3416
+      - 713-209-3439
   name: Houston District Office (New Orleans Field Office)
   phone: 713-209-3416
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -421,7 +495,10 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: '1'
       simple_median_days: '8'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/houston/foia.cfm
 - address:
@@ -435,11 +512,19 @@ departments:
   - DETRFOIA@eeoc.gov
   fax: 317-226-5571
   misc:
-    Records Disclosure Coordinator: 'Janice Andrews, Phone: 317-226-6654, 317-226-5162'
+    Records Disclosure Coordinator:
+      name: Janice Andrews
+      phone:
+      - 317-226-6654
+      - 317-226-5162
   name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
     Area Offices)
   phone: 317-226-6654
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -490,7 +575,10 @@ departments:
       simple_highest_days: '38'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - address:
@@ -503,11 +591,19 @@ departments:
   - LOSAFOIA@eeoc.gov
   fax: 213-894-1118
   misc:
-    Records Disclosure Coordinator: 'Lenee Sweeney, Phone: 213-894-1712, 213-894-1121'
+    Records Disclosure Coordinator:
+      name: Lenee Sweeney
+      phone:
+      - 213-894-1712
+      - 213-894-1121
   name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
     Offices)
   phone: 213-894-1712
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -558,7 +654,10 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - address:
@@ -571,10 +670,18 @@ departments:
   - MEMPFOIA@eeoc.gov
   fax: 901-544-0111
   misc:
-    Enforcement Manager: 'Audrey Bonner, Phone: 901-544-0163, 901-544-0112'
+    Enforcement Manager:
+      name: Audrey Bonner
+      phone:
+      - 901-544-0163
+      - 901-544-0112
   name: Memphis District Office (Little Rock and Nashville Area Offices)
   phone: 901-544-0163
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -621,7 +728,10 @@ departments:
       simple_highest_days: '48'
       simple_lowest_days: '1'
       simple_median_days: '19'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/memphis/foia.cfm
 - address:
@@ -635,11 +745,18 @@ departments:
   - PUERFOIA@eeoc.gov
   fax: 305-808-1855
   misc:
-    Records Disclosure Coordinator: 'Carmen Figueroa-Martinez, Phone: 305-808-1796,
-      305-808-1742'
+    Records Disclosure Coordinator:
+      name: Carmen Figueroa-Martinez
+      phone:
+      - 305-808-1796
+      - 305-808-1742
   name: Miami District Office (Tampa Field Office and San Juan Local Office)
   phone: 305-808-1796
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -690,7 +807,10 @@ departments:
       simple_highest_days: '105'
       simple_lowest_days: '1'
       simple_median_days: '15'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/miami/foia.cfm
 - address:
@@ -703,10 +823,18 @@ departments:
   - NEWYFOIA@eeoc.gov
   fax: 212-336-3625
   misc:
-    Records Disclosure Coordinator: 'David Phillips, Phone: 212-336-3644, 212-336-3622'
+    Records Disclosure Coordinator:
+      name: David Phillips
+      phone:
+      - 212-336-3644
+      - 212-336-3622
   name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
   phone: 212-336-3644
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -757,7 +885,10 @@ departments:
       simple_highest_days: '253'
       simple_lowest_days: '1'
       simple_median_days: '23'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/newyork/foia.cfm
 - address:
@@ -770,11 +901,19 @@ departments:
   - PHILFOIA@eeoc.gov
   fax: 215-440-2847
   misc:
-    Records Disclosure Coordinator: 'Fredericka Warren, Phone: 215-440-2681, 215-440-2610'
+    Records Disclosure Coordinator:
+      name: Fredericka Warren
+      phone:
+      - 215-440-2681
+      - 215-440-2610
   name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
     Area Office)
   phone: 215-440-2681
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -821,7 +960,10 @@ departments:
       simple_highest_days: '112'
       simple_lowest_days: '1'
       simple_median_days: '29'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - address:
@@ -834,10 +976,18 @@ departments:
   - phoenixfoia@eeoc.gov
   fax: 602-640-5071
   misc:
-    Records Disclosure Officer: 'Silvia M. Hart, Phone: 602-640-5012, 602-640-5072'
+    Records Disclosure Officer:
+      name: Silvia M. Hart
+      phone:
+      - 602-640-5012
+      - 602-640-5072
   name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
   phone: 602-640-5012
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -884,7 +1034,10 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '17'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/phoenix/foia.cfm
 - address:
@@ -897,11 +1050,19 @@ departments:
   - SANFFOIA@eeoc.gov
   fax: 415-625-5609
   misc:
-    Records Disclosure Coordinator: 'Vincent Clark, Phone: 415-625-5632, 415-625-5610'
+    Records Disclosure Coordinator:
+      name: Vincent Clark
+      phone:
+      - 415-625-5632
+      - 415-625-5610
   name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
     Local Offices)
   phone: 415-625-5632
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -948,7 +1109,10 @@ departments:
       simple_highest_days: '228'
       simple_lowest_days: '1'
       simple_median_days: '23'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - address:
@@ -961,10 +1125,18 @@ departments:
   - STLOFOIA@eeoc.gov
   fax: 314-539-7893
   misc:
-    Records Disclosure Coordinator: 'Inez Shiloah, Phone: 314-539-7846, 314-539-7803'
+    Records Disclosure Coordinator:
+      name: Inez Shiloah
+      phone:
+      - 314-539-7846
+      - 314-539-7803
   name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
   phone: 314-539-7846
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1011,7 +1183,10 @@ departments:
       simple_highest_days: '306'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - address:
@@ -1022,12 +1197,19 @@ departments:
   - Washington, DC 20507
   emails:
   - WASHFOIA@eeoc.gov
-  fax: (202) 663-4639
+  fax: 202-663-4639
   misc:
-    Records Disclosure Coordinator: 'Betsy Parrish, Phone: 202-419-0705'
+    Records Disclosure Coordinator:
+      name: Betsy Parrish
+      phone:
+      - 202-419-0705
   name: Washington Field Office
   phone: 202-419-0705
-  public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+  public_liaison:
+    name: Stephanie Garner
+    phone:
+    - 202-663-4634
+    - 202-663-7026
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1074,7 +1256,10 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: '1'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+  service_center:
+    phone:
+    - 202-663-4500
+    - 202-663-7026
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
 description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
@@ -1106,7 +1291,11 @@ keywords:
 - State and local governments
 name: Equal Employment Opportunity Commission
 phone: 202-663-4634
-public_liaison: 'Stephanie Garner, Phone: (202) 663-4634, (202) 663-7026 (TTY)'
+public_liaison:
+  name: Stephanie Garner
+  phone:
+  - 202-663-4634
+  - 202-663-7026
 reading_rooms:
 - - EEOC's Reading Room
   - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
@@ -1159,7 +1348,10 @@ request_time_stats:
     simple_highest_days: '306'
     simple_lowest_days: '1'
     simple_median_days: '16'
-service_center: 'Phone: (202) 663-4500, (202) 663-7026 (TTY)'
+service_center:
+  phone:
+  - 202-663-4500
+  - 202-663-7026
 top_level: false
 usa_id: '48032'
 website: http://www.eeoc.gov/eeoc/foia/

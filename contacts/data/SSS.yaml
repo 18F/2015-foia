@@ -6,10 +6,16 @@ departments:
   - National Headquarters
   - Arlington , VA 22209-2425
   fax: 703-605-4106
-  foia_officer: 'Paula A. Sweeney, Phone: 703-605-4100'
+  foia_officer:
+    name: Paula A. Sweeney
+    phone:
+    - 703-605-4100
   name: Selective Service System
   phone: 703-605-4100
-  public_liaison: 'Richard Flahavan, Phone: (703) 605-4100'
+  public_liaison:
+    name: Richard Flahavan
+    phone:
+    - 703-605-4100
   reading_rooms:
   - - Reading Room
     - http://www.sss.gov/FOIA/readingrm.htm
@@ -84,7 +90,9 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: '1'
       simple_median_days: '2'
-  service_center: 'Phone: (703) 605-4100'
+  service_center:
+    phone:
+    - 703-605-4100
   top_level: false
   website: http://www.sss.gov/freedomhome.htm
 description: The statutory missions of Selective Service are to be prepared to provide

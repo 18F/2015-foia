@@ -9,9 +9,13 @@ departments:
   - FOIAStaff@cigie.gov
   fax: 202-254-0162
   misc:
-    Deputy Counsel, Office of the Inspector General, Department of Housing and Urban Development: 'Richard
-      Johnson, Phone: (202) 708-1613'
-    FOIA Contact: 'Phone: 202-292-2600'
+    Deputy Counsel, Office of the Inspector General, Department of Housing and Urban Development:
+      name: Richard Johnson
+      phone:
+      - 202-708-1613
+    FOIA Contact:
+      phone:
+      - 202-292-2600
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
   reading_rooms:
@@ -70,7 +74,9 @@ departments:
       simple_highest_days: '44'
       simple_lowest_days: '6'
       simple_median_days: '22'
-  service_center: 'Phone: (202) 708-1613'
+  service_center:
+    phone:
+    - 202-708-1613
   top_level: false
   website: https://www.ignet.gov/content/foia-0
 description: 'The Council of the Inspectors General on Integrity and Efficiency (CIGIE)

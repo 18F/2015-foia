@@ -17,12 +17,17 @@ departments:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 571-372-0500
   misc:
-    FOIA Contact: 'Phone: 866-574-4970'
+    FOIA Contact:
+      phone:
+      - 866-574-4970
   name: Office of the Secretary and Joint Staff
   notes: This Office also handles requests for records of the U.S. Joint Forces Command,
     which was disestablished on August 31, 2011.
   phone: 866-574-4970
-  public_liaison: 'Paul Jacobsmeyer, Phone: (571) 372-0462'
+  public_liaison:
+    name: Paul Jacobsmeyer
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - OSD/JS FOIA Library
     - http://www.dod.gov/pubs/foi/foiaLibrary.html
@@ -104,7 +109,9 @@ departments:
       simple_highest_days: '173'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (866) 574-4970'
+  service_center:
+    phone:
+    - 866-574-4970
   top_level: true
   usa_id: None
   website: http://www.dod.gov/pubs/foi/
@@ -148,12 +155,18 @@ departments:
   - State and local governments
   - Wake Island
   misc:
-    FOIA Contact: 'JoAnne Collins, Phone: 703-696-2735'
+    FOIA Contact:
+      name: JoAnne Collins
+      phone:
+      - 703-696-2735
   name: Department of the Air Force - Headquarters/ICIO (FOIA)
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-696-2735
-  public_liaison: 'Anh Trinh, Phone: (703) 614-8500'
+  public_liaison:
+    name: Anh Trinh
+    phone:
+    - 703-614-8500
   reading_rooms:
   - - FOIA LIBRARY
     - http://www.foia.af.mil/foialibrary/index.asp
@@ -231,7 +244,9 @@ departments:
       simple_highest_days: '1031'
       simple_lowest_days: '1'
       simple_median_days: '8'
-  service_center: 'Phone: (703) 696-2735'
+  service_center:
+    phone:
+    - 703-696-2735
   top_level: false
   website: http://www.foia.af.mil/
 - address:
@@ -291,12 +306,18 @@ departments:
   - Waste treatment and disposal
   - Water pollution control
   misc:
-    FOIA Contact: 'Alecia Bolling, Phone: 703-428-7128'
+    FOIA Contact:
+      name: Alecia Bolling
+      phone:
+      - 703-428-7128
   name: Department of the Army - Freedom of Information and Privacy Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-428-7128
-  public_liaison: 'Bruno Leuyer, Phone: (703) 428-6462'
+  public_liaison:
+    name: Bruno Leuyer
+    phone:
+    - 703-428-6462
   reading_rooms:
   - - Reading Room
     - https://www.rmda.army.mil/foia/FOIA_ReadingRoom/index.aspx
@@ -365,7 +386,9 @@ departments:
       simple_average_days: '6'
       simple_highest_days: '443'
       simple_lowest_days: less than 1
-  service_center: 'Phone: (703) 428-6238'
+  service_center:
+    phone:
+    - 703-428-6238
   top_level: false
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
@@ -419,12 +442,18 @@ departments:
   - Vessels
   - Wildlife
   misc:
-    FOIA Contact, Chief of Naval Operations: 'Robin Patterson, Phone: 202-685-0412'
+    FOIA Contact, Chief of Naval Operations:
+      name: Robin Patterson
+      phone:
+      - 202-685-0412
   name: Department of the Navy - Main Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-685-0412
-  public_liaison: 'Steve Muck, Phone: (202) 695-1297'
+  public_liaison:
+    name: Steve Muck
+    phone:
+    - 202-695-1297
   request_form: https://foia.navy.mil/foia/webbas02.nsf/(vwwebpage)/home.htm?opendocument
   request_time_stats:
     '2008':
@@ -501,7 +530,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (202) 685-0412'
+  service_center:
+    phone:
+    - 202-685-0412
   top_level: true
   website: https://foia.navy.mil
 - address:
@@ -512,19 +543,27 @@ departments:
   - Washington, DC 20350-3000
   fax: 703-614-6287
   misc:
-    Head, FOIA/PA: 'Sally A. Hughes, Phone: 703-614-4008'
+    Head, FOIA/PA:
+      name: Sally A. Hughes
+      phone:
+      - 703-614-4008
   name: Marine Corps - FOIA Program Office (ARSF)
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-614-4008
-  public_liaison: 'Sally A. Hughes, Phone: (703) 614-4008'
+  public_liaison:
+    name: Sally A. Hughes
+    phone:
+    - 703-614-4008
   reading_rooms:
   - - HQMC FOIA Reading Room
     - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAreadingroom.aspx
   - - USMC FOIA Reading Room
     - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAReadingRoom.aspx
   request_form: https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate
-  service_center: 'Phone: (703) 614-4008'
+  service_center:
+    phone:
+    - 703-614-4008
   top_level: true
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
@@ -536,10 +575,16 @@ departments:
   emails: []
   fax: 703-681-8535
   misc:
-    General Counsel: 'Catherine A. Stanton, Phone: 703-681-8501'
+    General Counsel:
+      name: Catherine A. Stanton
+      phone:
+      - 703-681-8501
   name: Armed Services Board of Contract Appeals
   phone: 703-681-8501
-  public_liaison: 'Catherine A. Stanton, Phone: (703) 681-8503'
+  public_liaison:
+    name: Catherine A. Stanton
+    phone:
+    - 703-681-8503
   request_time_stats:
     '2008':
       complex_average_days: '13'
@@ -595,7 +640,9 @@ departments:
       simple_highest_days: '10'
       simple_lowest_days: '1'
       simple_median_days: '3'
-  service_center: 'Phone: (703) 681-8503'
+  service_center:
+    phone:
+    - 703-681-8503
   top_level: false
   website: http://www.asbca.mil
 - address:
@@ -607,10 +654,16 @@ departments:
   - foia@deca.mil
   fax: 804-734-8116
   misc:
-    FOIA/Privacy Officer: 'Comillo DeSantis, Phone: 804-734-8116'
+    FOIA/Privacy Officer:
+      name: Comillo DeSantis
+      phone:
+      - 804-734-8116
   name: Defense Commissary Agency
   phone: 804-734-8116
-  public_liaison: 'William E. Sherman, Phone: (804) 734-8116'
+  public_liaison:
+    name: William E. Sherman
+    phone:
+    - 804-734-8116
   reading_rooms:
   - - Electronic Reading Room
     - http://www.commissaries.com/foia/foia_err.cfm
@@ -669,7 +722,9 @@ departments:
       simple_highest_days: '179'
       simple_lowest_days: less than 1
       simple_median_days: '6'
-  service_center: 'Phone: (804) 734-8116'
+  service_center:
+    phone:
+    - 804-734-8116
   top_level: false
   website: http://www.commissaries.com/foiainfo.cfm
 - address:
@@ -687,7 +742,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-767-1022
-  public_liaison: 'Merrick Krause, Phone: (703) 767-2249'
+  public_liaison:
+    name: Merrick Krause
+    phone:
+    - 703-767-2249
   request_time_stats:
     '2008':
       complex_average_days: '24'
@@ -755,7 +813,9 @@ departments:
       simple_highest_days: '22'
       simple_lowest_days: '1'
       simple_median_days: '11'
-  service_center: 'Phone: (703) 767-1022'
+  service_center:
+    phone:
+    - 703-767-1022
   top_level: false
   website: http://www.dcaa.mil/foia.htm
 - address:
@@ -768,11 +828,17 @@ departments:
   - DCMA.FOIA@DCMA.mil
   fax: 804-734-0109
   misc:
-    FOIA/PA Privacy Officer/FOIA Analyst: 'Donna Williamson/Kimberly Turner, Phone:
-      804-734-1488, 804-734-1466'
+    FOIA/PA Privacy Officer/FOIA Analyst:
+      name: Donna Williamson/Kimberly Turner
+      phone:
+      - 804-734-1488
+      - 804-734-1466
   name: Defense Contract Management Agency
   phone: 804-734-1488
-  public_liaison: 'Melissa Walker, Phone: (804) 734-1487'
+  public_liaison:
+    name: Melissa Walker
+    phone:
+    - 804-734-1487
   reading_rooms:
   - - FOIA Library
     - http://www.dcma.mil/DCMAHQ/FOIA/reading_room.cfm
@@ -851,7 +917,9 @@ departments:
       simple_highest_days: '44'
       simple_lowest_days: less than 1
       simple_median_days: '22'
-  service_center: 'Phone: (804) 734-1488'
+  service_center:
+    phone:
+    - 804-734-1488
   top_level: false
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
 - address:
@@ -864,12 +932,18 @@ departments:
   - gregory.outlaw@dfas.mil
   fax: 317-212-8802
   misc:
-    FOIA/PA Program Manager/FOIA Liaison officer: 'Gregory Outlaw, Phone: 317-212-4591'
+    FOIA/PA Program Manager/FOIA Liaison officer:
+      name: Gregory Outlaw
+      phone:
+      - 317-212-4591
   name: Defense Finance and Accounting Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 317-212-4591
-  public_liaison: 'Gregory Outlaw, Phone: (317) 212-4591'
+  public_liaison:
+    name: Gregory Outlaw
+    phone:
+    - 317-212-4591
   reading_rooms:
   - - FOIA Reading Room
     - http://www.dfas.mil/foia/foiareadingroom.html
@@ -948,7 +1022,9 @@ departments:
       simple_highest_days: '79'
       simple_lowest_days: less than 1
       simple_median_days: '10'
-  service_center: 'Phone: (317) 212-4591'
+  service_center:
+    phone:
+    - 317-212-4591
   top_level: false
   website: http://www.dfas.mil/foia.html
 - address:
@@ -961,11 +1037,16 @@ departments:
   fax: 301-225-0510
   name: Defense Information Systems Agency
   phone: 301-225-6104
-  public_liaison: 'Robert S. Gorman, Phone: (301) 225-6116'
+  public_liaison:
+    name: Robert S. Gorman
+    phone:
+    - 301-225-6116
   reading_rooms:
   - - Electronic Reading Room
     - http://www.disa.mil/About/Legal-and-Regulatory/Accessibility/FOIA-Reading-Room
-  service_center: 'Phone: (301) 225-6104'
+  service_center:
+    phone:
+    - 301-225-6104
   top_level: false
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
 - address:
@@ -978,10 +1059,16 @@ departments:
   - foia@dodiis.mil
   fax: 301-394-5356
   misc:
-    Chief, FOIA Services Branch: 'Alesia Y. Williams, Phone: 301-394-5587'
+    Chief, FOIA Services Branch:
+      name: Alesia Y. Williams
+      phone:
+      - 301-394-5587
   name: Defense Intelligence Agency
   phone: 301-394-5587
-  public_liaison: 'Margaret A. Bestrain, Alesia Y. Williams, Phone: (301) 394-5587'
+  public_liaison:
+    name: Margaret A. Bestrain, Alesia Y. Williams
+    phone:
+    - 301-394-5587
   reading_rooms:
   - - Electronic Reading Room
     - http://www.dia.mil/FOIA/FOIAElectronicReadingRoom.aspx
@@ -1052,7 +1139,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (301) 394-5587'
+  service_center:
+    phone:
+    - 301-394-5587
   top_level: false
   website: http://www.dia.mil/FOIA.aspx
 - address:
@@ -1068,12 +1157,19 @@ departments:
   - Government procurement
   - Privacy
   misc:
-    'FOIA Contact, ATTN: DGA': 'Debbie Teer, Phone: 703-767-5247, 703-767-6183'
+    'FOIA Contact, ATTN: DGA':
+      name: Debbie Teer
+      phone:
+      - 703-767-5247
+      - 703-767-6183
   name: Defense Logistics Agency - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 703-767-5247
-  public_liaison: 'Lewis Oleinick, Phone: (703) 767-6194'
+  public_liaison:
+    name: Lewis Oleinick
+    phone:
+    - 703-767-6194
   reading_rooms:
   - - Electronic Reading Room
     - http://www.dla.mil/foia-privacy/Pages/FOIAReading.aspx
@@ -1150,7 +1246,10 @@ departments:
       simple_highest_days: '121'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (703) 767-5247, (703) 767-6183'
+  service_center:
+    phone:
+    - 703-767-5247
+    - 703-767-6183
   top_level: false
   website: http://www.dla.mil/foia-privacy/
 - address:
@@ -1162,12 +1261,18 @@ departments:
   - Leslie.Blake@dss.mil
   fax: 571-305-6931
   misc:
-    Office of FOI and Privacy: 'Leslie Blake, Phone: 571-305-6740'
+    Office of FOI and Privacy:
+      name: Leslie Blake
+      phone:
+      - 571-305-6740
   name: Defense Security Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 571-305-6740
-  public_liaison: 'Jay Fraude, Phone: (703) 325-5337'
+  public_liaison:
+    name: Jay Fraude
+    phone:
+    - 703-325-5337
   reading_rooms:
   - - Electronic Reading Room
     - https://www.dss.mil/about_dss/publications.html
@@ -1226,7 +1331,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (703) 325-9450'
+  service_center:
+    phone:
+    - 703-325-9450
   top_level: false
   website: https://www.dss.mil/foia/foia_program.html
 - address:
@@ -1239,14 +1346,22 @@ departments:
   - efoia@dtra.mil
   fax: 703-767-3623
   misc:
-    FOIA/Privacy Act Ofc (JOXGP-F): 'Juanita Y. Gaines, Phone: 703-767-1771'
+    FOIA/Privacy Act Ofc (JOXGP-F):
+      name: Juanita Y. Gaines
+      phone:
+      - 703-767-1771
   name: Defense Threat Reduction Agency
   phone: 703-767-1771
-  public_liaison: 'Richard M. Cole, Phone: (703) 767-5859'
+  public_liaison:
+    name: Richard M. Cole
+    phone:
+    - 703-767-5859
   reading_rooms:
   - - FOIA Reading Room
     - http://www.dtra.mil/Info/FOIA/ElectronicReadingRoom.aspx
-  service_center: 'Phone: (703) 767-1792'
+  service_center:
+    phone:
+    - 703-767-1792
   top_level: false
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
 - address:
@@ -1259,10 +1374,16 @@ departments:
   - foia@dtic.mil
   fax: 703-767-9201
   misc:
-    FOIA Contact (DTIC-R): 'Michael A. Hamilton, Phone: 703-767-9204'
+    FOIA Contact (DTIC-R):
+      name: Michael A. Hamilton
+      phone:
+      - 703-767-9204
   name: Defense Technical Information Center
   phone: 703-767-9204
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - ELECTRONIC                 READING ROOM
     - http://www.dtic.mil/dtic/foiareadingroom.html
@@ -1325,7 +1446,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '13'
-  service_center: 'Phone: (703) 767-9204'
+  service_center:
+    phone:
+    - 703-767-9204
   top_level: false
   website: http://www.dtic.mil/dtic/foia.html
 - address:
@@ -1338,10 +1461,16 @@ departments:
   - foia@hq.dodea.edu
   fax: 571-372-5829
   misc:
-    FOIA Contact: 'James Revell, Phone: 571-372-1892'
+    FOIA Contact:
+      name: James Revell
+      phone:
+      - 571-372-1892
   name: Department of Defense Education Activity
   phone: 571-372-1892
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   request_time_stats:
     '2008':
       complex_average_days: '90'
@@ -1409,7 +1538,9 @@ departments:
       simple_highest_days: '47'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Phone: (571) 372-1892'
+  service_center:
+    phone:
+    - 571-372-1892
   top_level: false
   website: http://www.dodea.edu/foia.cfm
 - address:
@@ -1421,10 +1552,15 @@ departments:
   - foianga@nga.mil
   fax: 571-557-3130
   misc:
-    FOIA Program Manager: 'Phone: 571-557-4141'
+    FOIA Program Manager:
+      phone:
+      - 571-557-4141
   name: National Geospatial-Intelligence Agency
   phone: 571-557-4141
-  public_liaison: 'Elizabeth M. Smith, Phone: (571) 557-7708'
+  public_liaison:
+    name: Elizabeth M. Smith
+    phone:
+    - 571-557-7708
   request_time_stats:
     '2008':
       complex_average_days: '370'
@@ -1488,7 +1624,9 @@ departments:
       complex_highest_days: '819'
       complex_lowest_days: less than 1
       complex_median_days: '155'
-  service_center: 'Phone: (571) 557-4141'
+  service_center:
+    phone:
+    - 571-557-4141
   top_level: true
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - abbreviation: ''
@@ -1503,10 +1641,16 @@ departments:
   emails:
   - NGB.FOIA@mail.mil
   fax: 703-607-3684
-  foia_officer: 'Jennifer Nikolaisen, Phone: 571-256-7838'
+  foia_officer:
+    name: Jennifer Nikolaisen
+    phone:
+    - 571-256-7838
   name: National Guard Bureau
   phone: 571-256-7838
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   request_time_stats:
     '2009':
       complex_average_days: '65'
@@ -1561,7 +1705,9 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: less than 1
       simple_median_days: '10'
-  service_center: 'Phone: (703) 607-3195'
+  service_center:
+    phone:
+    - 703-607-3195
   top_level: true
   usa_id: '49506'
   website: http://www.arng.army.mil/Pages/FOIA.aspx
@@ -1579,10 +1725,16 @@ departments:
   - foia@nro.mil
   fax: 703-227-9198
   misc:
-    Chief, Information Review and Release Group: 'Patricia B. Cameresi, Phone: 703-227-9326'
+    Chief, Information Review and Release Group:
+      name: Patricia B. Cameresi
+      phone:
+      - 703-227-9326
   name: National Reconnaissance Office
   phone: 703-227-9326
-  public_liaison: 'Patricia B. Cameresi, Phone: (703) 227-9128'
+  public_liaison:
+    name: Patricia B. Cameresi
+    phone:
+    - 703-227-9128
   reading_rooms:
   - - NRO Electronic Reading Room
     - http://www.nro.gov/foia/reading-room.html
@@ -1658,7 +1810,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '11'
-  service_center: 'Phone: (703) 227-9326'
+  service_center:
+    phone:
+    - 703-227-9326
   top_level: true
   usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
@@ -1678,7 +1832,10 @@ departments:
   fax: 443-479-3612
   name: National Security Agency
   phone: 301-688-6527
-  public_liaison: 'Pamela N. Phillips, Phone: (301) 688-6527'
+  public_liaison:
+    name: Pamela N. Phillips
+    phone:
+    - 301-688-6527
   reading_rooms:
   - - Reading Room
     - https://www.nsa.gov/public_info/foia/reading_room/index.shtml
@@ -1762,7 +1919,9 @@ departments:
       simple_highest_days: '3061'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (301) 688-6527'
+  service_center:
+    phone:
+    - 301-688-6527
   top_level: true
   usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
@@ -1774,10 +1933,16 @@ departments:
   - Alexandria, VA 22350-1500
   fax: 571-972-7498
   misc:
-    Chief, Freedom of Information & Privacy Office: 'Jeanne Miller, Phone: 866-993-7005'
+    Chief, Freedom of Information & Privacy Office:
+      name: Jeanne Miller
+      phone:
+      - 866-993-7005
   name: Office of Inspector General
   phone: 866-993-7005
-  public_liaison: 'Jeanne Miller, Phone: (703) 604-9785'
+  public_liaison:
+    name: Jeanne Miller
+    phone:
+    - 703-604-9785
   reading_rooms:
   - - FOIA Reading Room
     - http://www.dodig.mil/foia/readingroom.html
@@ -1859,7 +2024,9 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Phone: (703) 604-9775'
+  service_center:
+    phone:
+    - 703-604-9775
   top_level: false
   website: http://www.dodig.mil/FOIA/index.html
 - address:
@@ -1870,10 +2037,16 @@ departments:
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 303-371-4170
-  foia_officer: 'Glinda Hodgkin, Phone: 303-676-3418'
+  foia_officer:
+    name: Glinda Hodgkin
+    phone:
+    - 303-676-3418
   name: TRICARE Management Activity
   phone: 303-676-3418
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.tricare.mil/tma/privacy/FOIAeletric.aspx
@@ -1949,7 +2122,9 @@ departments:
       simple_highest_days: '369'
       simple_lowest_days: less than 1
       simple_median_days: '12'
-  service_center: 'Phone: (303) 676-3674'
+  service_center:
+    phone:
+    - 303-676-3674
   top_level: false
   website: http://www.tricare.mil/tma/privacy/foia.aspx
 - address:
@@ -1962,10 +2137,16 @@ departments:
   - africom.stuttgart.accc.list.foia-mba@mail.mil
   fax: +490 711-729-4732
   misc:
-    HQ U.S. Africa Command: 'FOIA Contact, Phone: +490 711-729-4287'
+    HQ U.S. Africa Command:
+      name: FOIA Contact
+      phone:
+      - +490 711-729-4287
   name: U.S. Africa Command
   phone: +490 711-729-4287
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   request_time_stats:
     '2009':
       complex_average_days: '35'
@@ -2016,7 +2197,9 @@ departments:
       simple_highest_days: '68'
       simple_lowest_days: '1'
       simple_median_days: '39'
-  service_center: 'Phone: +49 (0)711 729-4287'
+  service_center:
+    phone:
+    - +490 711-729-4287
   top_level: false
   website: http://www.africom.mil/FOIA.asp
 - address:
@@ -2028,10 +2211,15 @@ departments:
   - foiaoffice@centcom.mil
   fax: 813-827-6332
   misc:
-    FOIA Contact: 'Phone: 813-827-1810'
+    FOIA Contact:
+      phone:
+      - 813-827-1810
   name: U.S. Central Command
   phone: 813-827-1810
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - Reading Room
     - https://www2.centcom.mil/_Layouts/AcceptAgreement.aspx?src=/sites/foia/rr/default.aspx
@@ -2111,7 +2299,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (813) 827-1810'
+  service_center:
+    phone:
+    - 813-827-1810
   top_level: false
   website: http://www.centcom.mil/en/freedom-of-information-act-en
 - address:
@@ -2124,10 +2314,16 @@ departments:
   - eucom.stuttgart.ecj1.list.foia-privact-request-mb-access@mail.mil
   fax: +49011 711-680-8092
   misc:
-    HQ USEUCOM: 'FOIA Contact, Phone: +49011 711-680-7161'
+    HQ USEUCOM:
+      name: FOIA Contact
+      phone:
+      - +49011 711-680-7161
   name: U.S. European Command
   phone: +49011 711-680-7161
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - FOIA Reading Room
     - http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center/foia-reading-room
@@ -2202,7 +2398,9 @@ departments:
       simple_highest_days: '76'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: 49 011 711 680-7161'
+  service_center:
+    phone:
+    - +49011 711-680-7161
   top_level: false
   website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
 - address:
@@ -2214,13 +2412,18 @@ departments:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 571-372-0500
   misc:
-    FOIA Contact: 'Phone: 866-574-4970'
+    FOIA Contact:
+      phone:
+      - 866-574-4970
   name: U.S. Joint Forces Command
   notes: This command was disestablished as of August 31, 2011.  Requests for U.S.
     Joint Forces Command records are now handled by the Office of the Secretary and
     Joint Staff, whose contact information is located above.
   phone: 866-574-4970
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - OSD/JS FOIA Library
     - http://www.dod.gov/pubs/foi/foiaLibrary.html
@@ -2272,7 +2475,9 @@ departments:
       simple_highest_days: '78'
       simple_lowest_days: '1'
       simple_median_days: '12'
-  service_center: 'Phone: (866) 574-4970'
+  service_center:
+    phone:
+    - 866-574-4970
   top_level: false
   website: http://www.dod.gov/pubs/foi/
 - address:
@@ -2285,10 +2490,16 @@ departments:
   - n-nc.peterson.n-ncspecialstaff.mbx.cska-foia-omb@mail.mil
   fax: 719-554-4431
   misc:
-    HQ NORAD USNORTHCOM/CS: 'FOIA Officer, Phone: 719-554-1785'
+    HQ NORAD USNORTHCOM/CS:
+      name: FOIA Officer
+      phone:
+      - 719-554-1785
   name: U.S. Northern Command
   phone: 719-554-1785
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - FOIA Library
     - http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct/ReadingRoom/FOIALibrary.aspx
@@ -2353,7 +2564,9 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '1'
       simple_median_days: '19'
-  service_center: 'Phone: (719) 554-1785'
+  service_center:
+    phone:
+    - 719-554-1785
   top_level: false
   website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
 - address:
@@ -2365,10 +2578,15 @@ departments:
   - pacom.foia.fct@pacom.mil
   fax: 808-447-6685
   misc:
-    FOIA Contact: 'Phone: 808-477-0995'
+    FOIA Contact:
+      phone:
+      - 808-477-0995
   name: U.S. Pacific Command
   phone: 808-477-0995
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - FOIA - Reading Room
     - http://www.pacom.mil/Media/FreedomofInformationAct/FOIAReadingRoom.aspx
@@ -2443,7 +2661,9 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '1'
       simple_median_days: '8'
-  service_center: 'Phone: (808) 477-0995'
+  service_center:
+    phone:
+    - 808-477-0995
   top_level: false
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - address:
@@ -2454,12 +2674,20 @@ departments:
   - Doral, FL 33172
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
-  foia_officer: 'Phone: (305) 437-1108'
+  foia_officer:
+    phone:
+    - 305-437-1108
   misc:
-    FOIA Contact: 'Marco T. Villalobos, Phone: 305-437-1108'
+    FOIA Contact:
+      name: Marco T. Villalobos
+      phone:
+      - 305-437-1108
   name: U.S. Southern Command
   phone: 305-437-1108
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms: []
   request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
   request_time_stats:
@@ -2536,12 +2764,20 @@ departments:
   emails:
   - foia@socom.mil
   fax: 813-826-5482
-  foia_officer: 'Phone: (813) 826) 3212'
+  foia_officer:
+    phone:
+    - 813-826-3212
   misc:
-    HQ USSOCOM: 'FOIA Contact, Phone: 813-826-3212'
+    HQ USSOCOM:
+      name: FOIA Contact
+      phone:
+      - 813-826-3212
   name: U.S. Special Operations Command
   phone: 813-826-3212
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   request_form: http://www.socom.mil/FOIA/Pages/Request.aspx
   request_time_stats:
     '2008':
@@ -2626,10 +2862,16 @@ departments:
   - FOIA-PARequestCenter-U@stratcom.mil
   fax: 402-294-7535
   misc:
-    USSTRATCOM/J006 (FOIA): 'FOIA Contact, Phone: 402-294-6321'
+    USSTRATCOM/J006 (FOIA):
+      name: FOIA Contact
+      phone:
+      - 402-294-6321
   name: U.S. Strategic Command
   phone: 402-294-6321
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - Reading Room
     - http://www.stratcom.mil/foia/reading_room/
@@ -2700,7 +2942,9 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (402) 294-6321'
+  service_center:
+    phone:
+    - 402-294-6321
   top_level: false
   website: http://www.stratcom.mil/foia/
 - address:
@@ -2712,10 +2956,15 @@ departments:
   emails:
   - USTCCS-FO@ustranscom.mil
   fax: 618-229-4711
-  foia_officer: 'Phone: (618) 229-3828'
+  foia_officer:
+    phone:
+    - 618-229-3828
   name: U.S. Transportation Command
   phone: 618-220-4100
-  public_liaison: 'Jim Hogan, Phone: (571) 372-0462'
+  public_liaison:
+    name: Jim Hogan
+    phone:
+    - 571-372-0462
   reading_rooms:
   - - Reading Room
     - http://www.transcom.mil/foia/reading_room.cfm

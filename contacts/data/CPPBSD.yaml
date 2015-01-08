@@ -10,10 +10,16 @@ departments:
   - FOIA@AbilityOne.gov
   - blineback@abilityone.gov
   misc:
-    Executive Director: 'Tina Ballard, Phone: 703-603-7740'
+    Executive Director:
+      name: Tina Ballard
+      phone:
+      - 703-603-7740
   name: Committee for Purchase from People Who Are Blind or Severely Disabled
   phone: 703-603-7740
-  public_liaison: 'Barry Lineback, Phone: (703) 603-7740'
+  public_liaison:
+    name: Barry Lineback
+    phone:
+    - 703-603-7740
   reading_rooms:
   - - FOIA Reading Room
     - http://www.abilityone.gov/laws_and_regulations/foia_reading_room.html
@@ -88,7 +94,10 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '5'
       simple_median_days: '11'
-  service_center: 'Wakita Wilson, Phone: (703) 603-7740'
+  service_center:
+    name: Wakita Wilson
+    phone:
+    - 703-603-7740
   top_level: false
   website: http://www.abilityone.gov/laws_and_regulations/foia.html
 description: The Committee for Purchase from People Who are Blind or Severely Disabled

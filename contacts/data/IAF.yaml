@@ -9,10 +9,16 @@ departments:
   emails:
   - foia@iaf.gov
   misc:
-    General Counsel: 'Paul Zimmerman, Phone: 202-683-7118'
+    General Counsel:
+      name: Paul Zimmerman
+      phone:
+      - 202-683-7118
   name: Inter-American Foundation
   phone: 202-683-7118
-  public_liaison: 'Jake Sgambati, Phone: (202) 688-3047'
+  public_liaison:
+    name: Jake Sgambati
+    phone:
+    - 202-688-3047
   reading_rooms:
   - - FOIA E-reading Room
     - http://www.iaf.gov/index.aspx?page=2170
@@ -79,7 +85,9 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: '2'
       simple_median_days: '17'
-  service_center: 'Phone: (202) 683-7117'
+  service_center:
+    phone:
+    - 202-683-7117
   top_level: false
   website: http://www.iaf.gov/index.aspx?page=22
 description: The Inter-American Foundation (IAF) is an independent agency of the United

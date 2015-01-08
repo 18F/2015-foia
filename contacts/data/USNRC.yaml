@@ -8,10 +8,16 @@ departments:
   emails:
   - FOIA.resource@nrc.gov
   fax: 301-415-5130
-  foia_officer: 'Stephanie A. Blaney, Phone: 301-415-7169'
+  foia_officer:
+    name: Stephanie A. Blaney
+    phone:
+    - 301-415-7169
   name: Nuclear Regulatory Commission
   phone: 301-415-7169
-  public_liaison: 'Pat Hirsch, Phone: (301) 415-0563'
+  public_liaison:
+    name: Pat Hirsch
+    phone:
+    - 301-415-0563
   request_form: http://www.nrc.gov/reading-rm/foia/foia-submittal-form.html
   request_time_stats:
     '2008':
@@ -92,7 +98,9 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: less than 1
       simple_median_days: '9'
-  service_center: 'Phone: (301) 415-7169'
+  service_center:
+    phone:
+    - 301-415-7169
   top_level: false
   website: http://www.nrc.gov/reading-rm/foia/foia-privacy.html
 description: The U.S. Nuclear Regulatory Commission (NRC) was created as an independent

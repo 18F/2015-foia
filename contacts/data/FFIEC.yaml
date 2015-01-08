@@ -10,11 +10,19 @@ departments:
   - FOIA@ffiec.gov
   fax: 703-562-6446
   misc:
-    Executive Secretary: 'Judith E. Dupre, Phone: 703-516-5590'
+    Executive Secretary:
+      name: Judith E. Dupre
+      phone:
+      - 703-516-5590
   name: Federal Financial Institutions Examination Council
   phone: 703-516-5590
-  public_liaison: 'Rosanna Piccirilli, Phone: (703) 516-5591'
-  service_center: 'Phone: (703) 516-5591'
+  public_liaison:
+    name: Rosanna Piccirilli
+    phone:
+    - 703-516-5591
+  service_center:
+    phone:
+    - 703-516-5591
   top_level: false
   website: http://www.ffiec.gov/foia.htm
 description: The Council is a formal interagency body empowered to prescribe uniform

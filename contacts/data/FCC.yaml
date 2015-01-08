@@ -10,10 +10,16 @@ departments:
   - FOIA@fcc.gov
   fax: 202-418-0521
   misc:
-    FOIA Contact: 'Vanessa Lamb, Phone: 202-418-0440'
+    FOIA Contact:
+      name: Vanessa Lamb
+      phone:
+      - 202-418-0440
   name: Federal Communications Commission
   phone: 202-418-0440
-  public_liaison: 'Stephanie Kost, Phone: (202) 418-1379'
+  public_liaison:
+    name: Stephanie Kost
+    phone:
+    - 202-418-1379
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
@@ -97,7 +103,10 @@ departments:
       simple_highest_days: '902'
       simple_lowest_days: less than 1
       simple_median_days: '19'
-  service_center: 'Phone: (202) 418-0440, (202) 418-0212'
+  service_center:
+    phone:
+    - 202-418-0440
+    - 202-418-0212
   top_level: false
   website: http://www.fcc.gov/foia/
 description: The Federal Communications Commission (FCC) is an independent United

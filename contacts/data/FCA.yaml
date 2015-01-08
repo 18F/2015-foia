@@ -8,10 +8,16 @@ departments:
   emails:
   - foiaofficer@fca.gov
   fax: 703-790-0052
-  foia_officer: 'Jeffrey C. Pienta, Phone: 703-883-4431'
+  foia_officer:
+    name: Jeffrey C. Pienta
+    phone:
+    - 703-883-4431
   name: Farm Credit Administration
   phone: 703-883-4431
-  public_liaison: 'Christine D. Quinn, Phone: (703) 883-4108'
+  public_liaison:
+    name: Christine D. Quinn
+    phone:
+    - 703-883-4108
   reading_rooms:
   - - FOIA Reading Room
     - http://www.fca.gov/home/FOIA_index.html
@@ -71,7 +77,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: less than 1
       simple_median_days: '10.5'
-  service_center: 'Phone: (703) 883-4020'
+  service_center:
+    phone:
+    - 703-883-4020
   top_level: false
   website: http://www.fca.gov/home/freedom_info.html
 description: 'FCA´s mission is to ensure a dependable source of credit for agriculture

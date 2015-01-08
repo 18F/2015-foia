@@ -137,6 +137,36 @@ def find_emails(lines, ps):
     return emails
 
 
+def extract_numbers(phone_str):
+    clean_numbers = []
+    while True:
+        if PHONE_RE.match(phone_str):
+            clean_numbers.append(clean_phone_number(phone_str))
+            if "," not in phone_str:
+                break
+            phone_str = phone_str.split(",")[-1]
+        else:
+            break
+    return clean_numbers
+
+
+def organize_contact(value):
+    """ Organize contact info into different form """
+    value = value.split("Phone: ")
+    name_str = value[0].strip().strip(",")
+    phone_str = value[-1]
+    clean_numbers = extract_numbers(phone_str)
+
+    cleaned_value = {}
+    if name_str:
+        cleaned_value['name'] = name_str
+    if clean_numbers:
+        cleaned_value['phone'] = clean_numbers
+
+    if cleaned_value:
+        return cleaned_value
+
+
 def find_bold_fields(ps):
     """Remaining fields: website, request form, anything else"""
     simple_search = ["service center", "public liaison", "notes",
@@ -198,9 +228,15 @@ def parse_department(elem, name):
             misc_key, misc_value = value
             if 'misc' not in data:
                 data['misc'] = {}
-            data['misc'][misc_key] = misc_value
+            misc_value = organize_contact(misc_value)
+            if misc_value:
+                data['misc'][misc_key] = misc_value
         else:
-            data[key] = value
+            if key in ['service_center', 'public_liaison', 'foia_officer']:
+                value = organize_contact(value)
+
+            if value:
+                data[key] = value
     return data
 
 

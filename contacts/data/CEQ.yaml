@@ -10,7 +10,10 @@ departments:
   fax: 202-456-0753
   name: Council on Environmental Quality
   phone: 202-456-6224
-  public_liaison: 'Brooke Dorner, Phone: (202)456-6224'
+  public_liaison:
+    name: Brooke Dorner
+    phone:
+    - 202-456-6224
   reading_rooms:
   - - Reading Room
     - http://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
@@ -77,7 +80,9 @@ departments:
       simple_highest_days: '236'
       simple_lowest_days: less than 1
       simple_median_days: '35'
-  service_center: 'Phone: (202)456-6224'
+  service_center:
+    phone:
+    - 202-456-6224
   top_level: false
   website: http://www.whitehouse.gov/administration/eop/ceq/foia/
 description: The Council on Environmental Quality (CEQ) coordinates Federal environmental

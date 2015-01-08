@@ -10,10 +10,16 @@ departments:
   - Chase.Michelle@pbgc.gov
   fax: 202-326-4042
   misc:
-    Disclosure Officer: 'D. Camilla Perry, Phone: 202-326-4040'
+    Disclosure Officer:
+      name: D. Camilla Perry
+      phone:
+      - 202-326-4040
   name: Pension Benefit Guaranty Corporation
   phone: 202-326-4040
-  public_liaison: 'Michelle Y. Chase, Phone: (202) 326-4040'
+  public_liaison:
+    name: Michelle Y. Chase
+    phone:
+    - 202-326-4040
   reading_rooms: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
@@ -57,7 +63,9 @@ departments:
       simple_highest_days: '0'
       simple_lowest_days: '0'
       simple_median_days: '0'
-  service_center: 'Phone: (202) 326-4040'
+  service_center:
+    phone:
+    - 202-326-4040
   top_level: false
   website: http://www.pbgc.gov/about/foia.html
 description: The Pension Benefit Guaranty Corporation protects the retirement incomes

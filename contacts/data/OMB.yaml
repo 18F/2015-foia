@@ -11,7 +11,10 @@ departments:
   fax: 202-395-3504
   name: Office of Management and Budget
   phone: 202-395-3642
-  public_liaison: 'Lauren Wright, Phone: (202) 395-7250'
+  public_liaison:
+    name: Lauren Wright
+    phone:
+    - 202-395-7250
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -75,7 +78,9 @@ departments:
       simple_highest_days: '233'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Phone: (202) 395-3642'
+  service_center:
+    phone:
+    - 202-395-3642
   top_level: false
   website: http://www.whitehouse.gov/omb/foia_default
 description: The core mission of OMB is to serve the President of the United States

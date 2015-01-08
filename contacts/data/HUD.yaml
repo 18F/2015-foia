@@ -14,12 +14,18 @@ departments:
   - Washington, DC 20410-3000
   fax: 202-619-8365
   misc:
-    Office of the Executive Secretariat: 'Dolores Cole, Phone: 202-708-3866'
+    Office of the Executive Secretariat:
+      name: Dolores Cole
+      phone:
+      - 202-708-3866
   name: Headquarters
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-708-3866
-  public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
+  public_liaison:
+    name: Vicky J. Lewis
+    phone:
+    - 202-708-3054
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -77,7 +83,10 @@ departments:
       simple_highest_days: '276'
       simple_lowest_days: '1'
       simple_median_days: '16'
-  service_center: 'Eugenia Harris, Phone: (202) 708-3866'
+  service_center:
+    name: Eugenia Harris
+    phone:
+    - 202-708-3866
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
 - address:
@@ -87,12 +96,18 @@ departments:
   - 10 Causeway Street
   - Boston, MA 02222-1092
   misc:
-    Deputy Regional Administrator: 'Kristine G. Foye, Phone: 617-994-8218'
+    Deputy Regional Administrator:
+      name: Kristine G. Foye
+      phone:
+      - 617-994-8218
   name: Region I (Boston, Hartford, Manchester, Providence)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 617-994-8218
-  public_liaison: 'Kristine G. Foye, Phone: (617) 994-8218'
+  public_liaison:
+    name: Kristine G. Foye
+    phone:
+    - 617-994-8218
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -150,7 +165,9 @@ departments:
       simple_highest_days: '31'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (617) 994-8218'
+  service_center:
+    phone:
+    - 617-994-8218
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -160,12 +177,18 @@ departments:
   - 26 Federal Plaza
   - New York, NY 10278-0068
   misc:
-    Deputy Regional Administrator: 'Mirza Morales, Phone: 212-542-7109'
+    Deputy Regional Administrator:
+      name: Mirza Morales
+      phone:
+      - 212-542-7109
   name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 212-542-7109
-  public_liaison: 'Mirza Morales, Phone: (212) 542-7109'
+  public_liaison:
+    name: Mirza Morales
+    phone:
+    - 212-542-7109
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -223,7 +246,9 @@ departments:
       simple_highest_days: '79'
       simple_lowest_days: '1'
       simple_median_days: '19'
-  service_center: 'Phone: (212) 542-7109'
+  service_center:
+    phone:
+    - 212-542-7109
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -232,13 +257,19 @@ departments:
   - 100 Penn Square East Building
   - Philadelphia, PA 10107
   misc:
-    Deputy Regional Administrator: 'Brenda Laroche, Phone: 215-656-0600'
+    Deputy Regional Administrator:
+      name: Brenda Laroche
+      phone:
+      - 215-656-0600
   name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 215-656-0600
-  public_liaison: 'Brenda Laroche, Phone: (215) 656-0600'
+  public_liaison:
+    name: Brenda Laroche
+    phone:
+    - 215-656-0600
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -296,7 +327,9 @@ departments:
       simple_highest_days: '54'
       simple_lowest_days: '1'
       simple_median_days: '10'
-  service_center: 'Phone: (215) 656-0600'
+  service_center:
+    phone:
+    - 215-656-0600
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -305,13 +338,19 @@ departments:
   - 40 Marietta Street
   - Atlanta, GA 30303
   misc:
-    Supervisory Operations Officer: 'Thomacina Brown, Phone: 404-331-5001 x2380'
+    Supervisory Operations Officer:
+      name: Thomacina Brown
+      phone:
+      - 404-331-5001 x2380
   name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 404-331-5001 x2380
-  public_liaison: 'Thomacina Brown, Phone: (404) 331-5001, ext. 2380'
+  public_liaison:
+    name: Thomacina Brown
+    phone:
+    - 404-331-5001 x2380
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -369,7 +408,9 @@ departments:
       simple_highest_days: '96'
       simple_lowest_days: '1'
       simple_median_days: '15'
-  service_center: 'Phone: (404) 331-5001, ext. 2380'
+  service_center:
+    phone:
+    - 404-331-5001 x2380
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -379,13 +420,19 @@ departments:
   - 77 W. Jackson Boulevard
   - Chicago, IL 60604
   misc:
-    Deputy Regional Director: 'Beverly Bishop, Phone: 312-353-5680 x2139'
+    Deputy Regional Director:
+      name: Beverly Bishop
+      phone:
+      - 312-353-5680 x2139
   name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 312-353-5680 x2139
-  public_liaison: 'Beverly Bishop, Phone: (312) 353-5680, ext. 2139'
+  public_liaison:
+    name: Beverly Bishop
+    phone:
+    - 312-353-5680 x2139
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -443,7 +490,9 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '5'
       simple_median_days: '19'
-  service_center: 'Phone: (312) 353-5680, ext. 2139'
+  service_center:
+    phone:
+    - 312-353-5680 x2139
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -453,13 +502,19 @@ departments:
   - 801 Cherry Street
   - Ft. Worth, TX 76102
   misc:
-    FOIA Liaison: 'Patricia Campbell, Phone: 817-978-5974 x1010'
+    FOIA Liaison:
+      name: Patricia Campbell
+      phone:
+      - 817-978-5974 x1010
   name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
     San Antonio)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 817-978-5974 x1010
-  public_liaison: 'Patricia Campbell, Phone: (817) 978-5974, ext. 1010'
+  public_liaison:
+    name: Patricia Campbell
+    phone:
+    - 817-978-5974 x1010
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -517,7 +572,9 @@ departments:
       simple_highest_days: '72'
       simple_lowest_days: '1'
       simple_median_days: '13'
-  service_center: 'Phone: (817) 978-5974, ext. 1010'
+  service_center:
+    phone:
+    - 817-978-5974 x1010
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -526,12 +583,18 @@ departments:
   - 400 State Avenue
   - Kansas City, KS 66101
   misc:
-    Deputy Regional Administrator: 'Eugene (Gene) Lipscomb, Phone: 913-551-5476'
+    Deputy Regional Administrator:
+      name: Eugene (Gene) Lipscomb
+      phone:
+      - 913-551-5476
   name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 913-551-5476
-  public_liaison: 'Eugene (Gene) Lipscomb, Phone: (913) 551-5476'
+  public_liaison:
+    name: Eugene (Gene) Lipscomb
+    phone:
+    - 913-551-5476
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -589,7 +652,9 @@ departments:
       simple_highest_days: '54'
       simple_lowest_days: '1'
       simple_median_days: '11.5'
-  service_center: 'Phone: (913) 551-5476'
+  service_center:
+    phone:
+    - 913-551-5476
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -598,12 +663,18 @@ departments:
   - 1670 Broadway
   - Denver, CO 80202-4801
   misc:
-    Deputy Regional Director: 'Deborah Griswold, Phone: 303-672-5440 x1442'
+    Deputy Regional Director:
+      name: Deborah Griswold
+      phone:
+      - 303-672-5440 x1442
   name: Region VIII (Denver)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 303-672-5440 x1442
-  public_liaison: 'Deborah Griswold, Phone: (303) 672-5440, ext. 1442'
+  public_liaison:
+    name: Deborah Griswold
+    phone:
+    - 303-672-5440 x1442
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -661,7 +732,9 @@ departments:
       simple_highest_days: '92'
       simple_lowest_days: '24'
       simple_median_days: '20'
-  service_center: 'Phone: (303) 672-5440, ext. 1442'
+  service_center:
+    phone:
+    - 303-672-5440 x1442
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -671,12 +744,18 @@ departments:
   - 650 Capitol Mall
   - Sacramento, CA 95814-3702
   misc:
-    FOIA Liaison: 'Suzie Hernandez, Phone: 916-498-7381'
+    FOIA Liaison:
+      name: Suzie Hernandez
+      phone:
+      - 916-498-7381
   name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 916-498-7381
-  public_liaison: 'Suzie Hernandez, Phone: (916) 498-7381'
+  public_liaison:
+    name: Suzie Hernandez
+    phone:
+    - 916-498-7381
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -734,7 +813,9 @@ departments:
       simple_highest_days: '72'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (916) 498-7381'
+  service_center:
+    phone:
+    - 916-498-7381
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
@@ -744,12 +825,18 @@ departments:
   - 909 First Avenue
   - Seattle , WA 98104-1000
   misc:
-    Regional Lead: 'Patty Huster, Phone: 206-220-5101'
+    Regional Lead:
+      name: Patty Huster
+      phone:
+      - 206-220-5101
   name: Region X (Seattle, Anchorage, Portland)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 206-220-5101
-  public_liaison: 'Patty Huster, Phone: (206) 220-5101'
+  public_liaison:
+    name: Patty Huster
+    phone:
+    - 206-220-5101
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -807,7 +894,9 @@ departments:
       simple_highest_days: '81'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (206) 220-5101'
+  service_center:
+    phone:
+    - 206-220-5101
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 description: 'HUD´s mission is to create strong, sustainable, inclusive communities
@@ -985,7 +1074,10 @@ name: Department of Housing and Urban Development
 notes: This office has additional FOIA contact information that can be found by visiting
   its website.
 phone: 202-708-3866
-public_liaison: 'Vicky J. Lewis, Phone: (202) 708-3054'
+public_liaison:
+  name: Vicky J. Lewis
+  phone:
+  - 202-708-3054
 reading_rooms:
 - - E-FOIA Reading Room
   - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -1034,7 +1126,10 @@ request_time_stats:
     simple_highest_days: '276'
     simple_lowest_days: '1'
     simple_median_days: '14'
-service_center: 'Eugenia Harris, Phone: (202) 708-3866'
+service_center:
+  name: Eugenia Harris
+  phone:
+  - 202-708-3866
 top_level: false
 usa_id: '49376'
 website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

@@ -10,10 +10,16 @@ departments:
   - foia@ntsb.gov
   fax: 240-752-6257
   misc:
-    Chief, Records Management Division: 'Melba D. Moye, Phone: 202-314-6540'
+    Chief, Records Management Division:
+      name: Melba D. Moye
+      phone:
+      - 202-314-6540
   name: National Transportation Safety Board
   phone: 202-314-6540
-  public_liaison: 'Melba D. Moye, Phone: (202) 314-6540'
+  public_liaison:
+    name: Melba D. Moye
+    phone:
+    - 202-314-6540
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   request_time_stats:
     '2011':
@@ -47,7 +53,9 @@ departments:
       simple_highest_days: '666'
       simple_lowest_days: less than 1
       simple_median_days: '20'
-  service_center: 'Phone: (202) 314-6540'
+  service_center:
+    phone:
+    - 202-314-6540
   top_level: false
   website: http://www.ntsb.gov/foia/index.html
 description: The National Transportation Safety Board (NTSB) is an independent federal

@@ -8,10 +8,16 @@ departments:
   emails:
   - FOIA@opic.gov
   misc:
-    FOIA Director: 'Nichole Cadiente, Phone: 202-336-8400'
+    FOIA Director:
+      name: Nichole Cadiente
+      phone:
+      - 202-336-8400
   name: Overseas Private Investment Corporation
   phone: 202-336-8400
-  public_liaison: 'Nichole Cadiente, Phone: (202) 336-8400'
+  public_liaison:
+    name: Nichole Cadiente
+    phone:
+    - 202-336-8400
   reading_rooms:
   - - FOIA Reading Room
     - http://www.opic.gov/content/foia-reading-room
@@ -82,7 +88,9 @@ departments:
       simple_highest_days: '322'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (202) 336-8400'
+  service_center:
+    phone:
+    - 202-336-8400
   top_level: false
   website: http://www.opic.gov/publications/foia
 description: The Overseas Private Investment Corporation's (OPIC) mission is to solve

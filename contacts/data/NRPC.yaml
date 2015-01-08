@@ -8,10 +8,16 @@ departments:
   emails:
   - foiarequests@amtrak.com
   fax: 202-906-3285
-  foia_officer: 'Sharron H. Hawkins, Phone: 202-906-3741'
+  foia_officer:
+    name: Sharron H. Hawkins
+    phone:
+    - 202-906-3741
   name: AMTRAK (National Railroad Passenger Corporation)
   phone: 202-906-3741
-  public_liaison: 'Sharron H. Hawkins, Phone: (202) 906-3740'
+  public_liaison:
+    name: Sharron H. Hawkins
+    phone:
+    - 202-906-3740
   request_time_stats:
     '2008':
       complex_average_days: '27'
@@ -91,7 +97,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 906-3740'
+  service_center:
+    phone:
+    - 202-906-3740
   top_level: false
   website: http://www.amtrak.com/servlet/ContentServer/Page/1241267362261/1241267362261
 description: The National Railroad Passenger Corporation, Amtrak is a government-owned

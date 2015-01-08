@@ -8,10 +8,16 @@ departments:
   - Washington, DC 20237
   fax: 202-203-4585
   misc:
-    FOIA/Privacy Act Officer, BBG/FOIA/PA Unit: 'Andrew T. Krog, Phone: 202-203-4550'
+    FOIA/Privacy Act Officer, BBG/FOIA/PA Unit:
+      name: Andrew T. Krog
+      phone:
+      - 202-203-4550
   name: Broadcasting Board of Governors
   phone: 202-203-4550
-  public_liaison: 'Andrew T. Krog, Phone: (202) 203-4550'
+  public_liaison:
+    name: Andrew T. Krog
+    phone:
+    - 202-203-4550
   reading_rooms:
   - - Electronic Reading Room
     - http://www.bbg.gov/about-the-agency/research-reports/foia/electronic-reading-room/
@@ -56,7 +62,9 @@ departments:
       complex_highest_days: '99'
       complex_lowest_days: '6'
       complex_median_days: '38'
-  service_center: 'Phone: (202) 203-4550'
+  service_center:
+    phone:
+    - 202-203-4550
   top_level: false
   website: http://www.bbg.gov/reports/foia/
 description: The Broadcasting Board of Governor's mission is to promote freedom and

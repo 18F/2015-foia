@@ -9,10 +9,16 @@ departments:
   emails:
   - cpsc-foia@cpsc.gov
   fax: 301-504-0127
-  foia_officer: 'Alberta E. Mills, Phone: 301-504-7923'
+  foia_officer:
+    name: Alberta E. Mills
+    phone:
+    - 301-504-7923
   name: Consumer Product Safety Commission
   phone: 301-504-7923
-  public_liaison: 'Deborah Acosta, Phone: (301) 504-6890'
+  public_liaison:
+    name: Deborah Acosta
+    phone:
+    - 301-504-6890
   request_time_stats:
     '2008':
       complex_average_days: '85'
@@ -88,7 +94,9 @@ departments:
       simple_highest_days: '402'
       simple_lowest_days: '1'
       simple_median_days: '11'
-  service_center: 'Phone: (301) 504-7923'
+  service_center:
+    phone:
+    - 301-504-7923
   top_level: false
   website: http://www.cpsc.gov/en/Newsroom/FOIA/
 description: The U.S. Consumer Product Safety Commission is charged with protecting

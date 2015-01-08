@@ -8,10 +8,16 @@ departments:
   - Washington, DC 20004
   emails:
   - andrewt@dnfsb.gov
-  foia_officer: 'Andrew L. Thibadeau, Phone: 202-694-7088'
+  foia_officer:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
   name: Defense Nuclear Facilities Safety Board
   phone: 202-694-7088
-  public_liaison: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  public_liaison:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
   reading_rooms:
   - - FOIA Reading Room
     - http://www.dnfsb.gov/foia-reading-room
@@ -25,7 +31,10 @@ departments:
       simple_highest_days: '39'
       simple_lowest_days: '6'
       simple_median_days: '14'
-  service_center: 'Andrew L. Thibadeau, Phone: (202) 694-7088'
+  service_center:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
   top_level: false
   website: http://www.dnfsb.gov/foia-reading-room
 description: Congress created the Defense Nuclear Facilities Safety Board in 1988

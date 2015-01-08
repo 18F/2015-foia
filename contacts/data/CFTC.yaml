@@ -8,10 +8,16 @@ departments:
   - Washington, DC 20581
   fax: 202-418-5524
   misc:
-    CFTC FOIA Compliance Office: 'FOIA Contact, Phone: 202-418-5497'
+    CFTC FOIA Compliance Office:
+      name: FOIA Contact
+      phone:
+      - 202-418-5497
   name: Commodity Futures Trading Commission
   phone: 202-418-5497
-  public_liaison: 'Linda Mauldin, Phone: (202) 418-5497'
+  public_liaison:
+    name: Linda Mauldin
+    phone:
+    - 202-418-5497
   reading_rooms:
   - - Conventional and Electronic Reading Rooms
     - http://www.cftc.gov/FOI/foiareadingrooms
@@ -71,7 +77,9 @@ departments:
       simple_highest_days: '401'
       simple_lowest_days: '1'
       simple_median_days: '40'
-  service_center: 'Phone: (202) 418-5497'
+  service_center:
+    phone:
+    - 202-418-5497
   top_level: false
   website: http://www.cftc.gov/FOI/index.htm
 description: Congress created the Commodity Futures Trading Commission (CFTC) in 1974

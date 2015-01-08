@@ -10,7 +10,10 @@ departments:
   fax: 202-395-1224
   name: Office of Science and Technology Policy
   phone: 202-456-6125
-  public_liaison: 'Rachael Leonard, Phone: (202) 456- 6125'
+  public_liaison:
+    name: Rachael Leonard
+    phone:
+    - 202-456-6125
   reading_rooms:
   - - FOIA Library
     - http://www.whitehouse.gov/administration/eop/ostp/library/foia/readingroom
@@ -93,7 +96,9 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: less than 1
       simple_median_days: '8'
-  service_center: 'Phone: (202) 456- 6125'
+  service_center:
+    phone:
+    - 202-456-6125
   top_level: false
   website: http://www.whitehouse.gov/administration/eop/ostp/library/foia
 description: The mission of the Office of Science and Technology Policy is threefold;

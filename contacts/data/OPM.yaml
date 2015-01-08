@@ -11,7 +11,10 @@ departments:
   fax: 202-418-3251
   name: Office of Personnel Management
   phone: 202-606-4417
-  public_liaison: 'Trina Porter, Phone: (202) 606-4417'
+  public_liaison:
+    name: Trina Porter
+    phone:
+    - 202-606-4417
   reading_rooms:
   - - Electronic Reading Room
     - http://www.opm.gov/information-management/freedom-of-information-act/#url=Electronic-Reading-Room
@@ -82,7 +85,9 @@ departments:
       simple_highest_days: '406'
       simple_lowest_days: '1'
       simple_median_days: '2'
-  service_center: 'Phone: (202) 606-3642'
+  service_center:
+    phone:
+    - 202-606-3642
   top_level: false
   website: http://www.opm.gov/information-management/freedom-of-information-act
 description: The Office of Personnel Management's mission is to recruit, retain and

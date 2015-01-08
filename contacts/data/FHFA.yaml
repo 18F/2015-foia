@@ -9,10 +9,16 @@ departments:
   emails:
   - FOIA@fhfa.gov
   fax: 202-649-1703
-  foia_officer: 'Stacy J. Easter, Phone: 202-649-3803'
+  foia_officer:
+    name: Stacy J. Easter
+    phone:
+    - 202-649-3803
   name: Federal Housing Finance Agency
   phone: 202-649-3803
-  public_liaison: 'Stacy J. Easter, Phone: (202) 649-3803'
+  public_liaison:
+    name: Stacy J. Easter
+    phone:
+    - 202-649-3803
   reading_rooms:
   - - Reading Room
     - http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
@@ -42,7 +48,9 @@ departments:
       simple_highest_days: '178'
       simple_lowest_days: '1'
       simple_median_days: '29'
-  service_center: 'Phone: (202) 649-3803'
+  service_center:
+    phone:
+    - 202-649-3803
   top_level: false
   website: http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/FOIA.aspx
 description: The FHFA provides effective supervision, regulation and housing mission

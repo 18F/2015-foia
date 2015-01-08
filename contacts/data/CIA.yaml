@@ -8,7 +8,10 @@ departments:
   fax: 703-613-3007
   name: Central Intelligence Agency
   phone: 703-613-1287
-  public_liaison: 'Scott Koch, Michele Meeks, Phone: (703) 613-1287'
+  public_liaison:
+    name: Scott Koch, Michele Meeks
+    phone:
+    - 703-613-1287
   reading_rooms:
   - - Freedom of Information Act Electronic Reading Room
     - http://www.foia.cia.gov/
@@ -79,7 +82,9 @@ departments:
       simple_highest_days: '2411'
       simple_lowest_days: '1'
       simple_median_days: '13'
-  service_center: 'Phone: (703) 613-1287'
+  service_center:
+    phone:
+    - 703-613-1287
   top_level: false
   website: http://www.foia.cia.gov/
 description: The Central Intelligence Agency (CIA) is an independent US Government

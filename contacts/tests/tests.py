@@ -319,7 +319,7 @@ class ScraperTests(TestCase):
             <p><strong>FOIA Requester Service Center:</strong>
                 Phone: (555) 333-4444
             <p><strong>FOIA Public Liaison:</strong>
-                Mark Someone, (555) 444-5555
+                Mark Someone, Phone: (555) 444-5555
             <p><strong>Program Manager:</strong>
                 Someone Else, Phone: (555) 555-6666
             <p><strong>Website: </strong>
@@ -335,11 +335,13 @@ class ScraperTests(TestCase):
         self.assertEqual(result['fax'], "555-222-3333")
         self.assertEqual(result['emails'],
                          ["foia@example.gov", "other@example.com"])
-        self.assertEqual(result['service_center'], "Phone: (555) 333-4444")
-        self.assertEqual(result['public_liaison'],
-                         "Mark Someone, (555) 444-5555")
-        self.assertEqual(result['misc']['Program Manager'],
-                         "Someone Else, Phone: (555) 555-6666")
+        self.assertEqual(result['service_center'], {'phone': ['555-333-4444']})
+        self.assertEqual(
+            result['public_liaison'],
+            {'name': 'Mark Someone', 'phone': ['555-444-5555']})
+        self.assertEqual(
+            result['misc']['Program Manager'],
+            {'phone': ['555-555-6666'], 'name': 'Someone Else'})
         self.assertEqual(result['website'], "http://www.foia.example.gov/")
 
     @patch('scraper.parse_department')
@@ -406,18 +408,22 @@ class LayerTests(TestCase):
     def test_contact_string(self):
         """Format name and phone information; check each combination"""
         row = {"Name": "", "Telephone": ""}
-        self.assertEqual("", layer.contact_string(row))
+        self.assertEqual({}, layer.contact_string(row))
         row["Name"] = "Bob Bobberson"
-        self.assertEqual("Bob Bobberson", layer.contact_string(row))
+        self.assertEqual({'name': 'Bob Bobberson'}, layer.contact_string(row))
         row["Telephone"] = "(111) 222-3333"
-        self.assertEqual("Bob Bobberson, Phone: 111-222-3333",
+        self.assertEqual({'name': 'Bob Bobberson', 'phone': ['111-222-3333']},
                          layer.contact_string(row))
         row["Name"] = ""
-        self.assertEqual("Phone: 111-222-3333", layer.contact_string(row))
+        self.assertEqual(
+            {'phone': ['111-222-3333']}, layer.contact_string(row))
         row["Telephone"] = "(202) 218-7770 (ext. 7744), (202) 218-7970"
         row["Name"] = "Bob Bobberson"
         self.assertEqual(
-            "Bob Bobberson, Phone: 202-218-7770 x7744, 202-218-7970",
+            {
+                'name': 'Bob Bobberson',
+                'phone': ['202-218-7770 x7744', '202-218-7970']
+            },
             layer.contact_string(row))
 
     def test_patch_dict(self):
@@ -525,14 +531,15 @@ class LayerTests(TestCase):
         layer.add_contact_info(contact_dict, row)
         self.assertFalse("service_center" in contact_dict["A"]["B"])
         self.assertEqual(contact_dict["A"]["B"]["misc"],
-                         {"Awesome Person": "Ada"})
+                         {'Awesome Person': {'name': 'Ada'}})
 
         row["Name"] = "Bob"
         row["Title"] = "FOIA Service Center Technician"
         layer.add_contact_info(contact_dict, row)
-        self.assertEqual(contact_dict["A"]["B"]["service_center"], "Bob")
+        self.assertEqual(contact_dict["A"]["B"]["service_center"],
+                         {'name': 'Bob'})
         self.assertEqual(contact_dict["A"]["B"]["misc"],
-                         {"Awesome Person": "Ada"})
+                         {'Awesome Person': {'name': 'Ada'}})
 
 
 class FRTests(TestCase):

@@ -17,11 +17,16 @@ departments:
   fax: 202-693-5389
   name: Main Office
   phone: 202-693-5391
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   reading_rooms:
   - - DOL-Wide FOIA Reading Room
     - http://www.dol.gov/dol/foia/readroom.htm
-  service_center: 'Phone: (202) 693-5391'
+  service_center:
+    phone:
+    - 202-693-5391
   top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
 - abbreviation: ILAB
@@ -38,7 +43,10 @@ departments:
   - FOIARequest@dol.gov
   name: Bureau of International Labor Affairs
   phone: 202-693-4877
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '29.3'
@@ -118,7 +126,9 @@ departments:
       simple_highest_days: '0'
       simple_lowest_days: '0'
       simple_median_days: '0'
-  service_center: 'Phone: (202) 693-4877'
+  service_center:
+    phone:
+    - 202-693-4877
   top_level: true
   usa_id: '49121'
   website: http://www.dol.gov/ilab/
@@ -133,7 +143,10 @@ departments:
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -213,7 +226,9 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: '2'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 691-7628'
+  service_center:
+    phone:
+    - 202-691-7628
   top_level: true
   usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
@@ -267,7 +282,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-8673
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   reading_rooms:
   - - Department of Labor FOIA Reading Room
     - http://www.dol.gov/dol/foia/readroom.htm
@@ -350,7 +368,9 @@ departments:
       simple_highest_days: '60'
       simple_lowest_days: '1'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 693-8655'
+  service_center:
+    phone:
+    - 202-693-8655
   top_level: true
   usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
@@ -431,7 +451,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-3676
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '35.5'
@@ -511,7 +534,9 @@ departments:
       simple_highest_days: '272'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (202) 693-3676'
+  service_center:
+    phone:
+    - 202-693-3676
   top_level: true
   usa_id: '52693'
   website: http://www.doleta.gov/foia/
@@ -524,7 +549,10 @@ departments:
   fax: 202-693-2844
   name: Jobs Corps
   phone: 202-693-3676
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -552,7 +580,9 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: '1'
       simple_median_days: '2'
-  service_center: 'Phone: (202) 693-5500'
+  service_center:
+    phone:
+    - 202-693-5500
   top_level: true
   website: http://www.jobcorps.gov/foia.aspx
 - abbreviation: MSHA
@@ -620,7 +650,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-9542
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '15'
@@ -700,7 +733,9 @@ departments:
       simple_highest_days: '0'
       simple_lowest_days: '0'
       simple_median_days: '0'
-  service_center: 'Phone: (202) 693-9424'
+  service_center:
+    phone:
+    - 202-693-9424
   top_level: true
   usa_id: '49462'
   website: http://www.msha.gov/READROOM/READROOM.HTM
@@ -714,7 +749,10 @@ departments:
   fax: 202-693-7365
   name: Office of the Administrative Law Judges
   phone: 202-693-7348
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '11.7'
@@ -794,7 +832,9 @@ departments:
       simple_highest_days: '4'
       simple_lowest_days: '4'
       simple_median_days: '4'
-  service_center: 'Phone: (202) 693-7440'
+  service_center:
+    phone:
+    - 202-693-7440
   top_level: false
   website: http://www.oalj.dol.gov/libfoia.htm
 - address:
@@ -809,7 +849,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-7126
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -889,7 +932,9 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: '1'
       simple_median_days: '7.5'
-  service_center: 'Phone: (202) 693-7126'
+  service_center:
+    phone:
+    - 202-693-7126
   top_level: false
   website: http://www.dol.gov/oasam/foia/
 - address:
@@ -916,7 +961,10 @@ departments:
   - Veterans
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2009':
       complex_average_days: '29.8'
@@ -983,7 +1031,9 @@ departments:
       simple_highest_days: '301'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: 'Phone: (202) 693-5500'
+  service_center:
+    phone:
+    - 202-693-5500
   top_level: false
   website: http://www.dol.gov/ofccp/ofccp-foia.htm
 - address:
@@ -1004,7 +1054,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-0125
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2009':
       complex_average_days: '22.5'
@@ -1071,7 +1124,9 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '7'
       simple_median_days: '12'
-  service_center: 'Phone: (202) 693-0125'
+  service_center:
+    phone:
+    - 202-693-0125
   top_level: false
   website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
 - address:
@@ -1107,7 +1162,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-0125
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2009':
       complex_average_days: '25'
@@ -1174,7 +1232,9 @@ departments:
       simple_highest_days: '820'
       simple_lowest_days: '2'
       simple_median_days: '12'
-  service_center: 'Phone: (202) 693-0125'
+  service_center:
+    phone:
+    - 202-693-0125
   top_level: false
   website: http://www.dol.gov/owcp/foia/owcp-foia.htm
 - address:
@@ -1184,7 +1244,10 @@ departments:
   - Washington, DC 20210
   fax: 202-693-7020
   name: Office of the Inspector General
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   reading_rooms:
   - - Electronic Reading Room
     - http://www.oig.dol.gov/foiareadingroom.htm
@@ -1267,7 +1330,6 @@ departments:
       simple_highest_days: '91'
       simple_lowest_days: '1'
       simple_median_days: '5'
-  service_center: ''
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
 - abbreviation: OSHA
@@ -1343,7 +1405,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-1999
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '18.5'
@@ -1423,7 +1488,9 @@ departments:
       simple_highest_days: '1211'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Phone: (202) 693-1999'
+  service_center:
+    phone:
+    - 202-693-1999
   top_level: true
   usa_id: '48101'
   website: http://www.osha.gov/as/opa/foia/foia.html
@@ -1446,7 +1513,10 @@ departments:
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-693-4700
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   reading_rooms:
   - - FOIA Reading Room
     - http://www.dol.gov/vets/foia/
@@ -1531,7 +1601,9 @@ departments:
       simple_highest_days: '276'
       simple_lowest_days: '1'
       simple_median_days: '48'
-  service_center: 'Phone: (202) 693-4700'
+  service_center:
+    phone:
+    - 202-693-4700
   top_level: false
   website: http://www.dol.gov/vets/foia/
 - address:
@@ -1607,7 +1679,10 @@ departments:
   name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2009':
       complex_average_days: '53'
@@ -1685,7 +1760,10 @@ departments:
   - foiarequests@dol.gov
   fax: 202-693-6746
   name: Women's Bureau
-  public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
   request_time_stats:
     '2008':
       complex_average_days: '29'
@@ -1765,7 +1843,6 @@ departments:
       simple_highest_days: '160'
       simple_lowest_days: '41'
       simple_median_days: '41'
-  service_center: ''
   top_level: false
   website: http://www.dol.gov/wb/e-foia.htm
 description: The Department's mission is to foster, promote, and develop the welfare
@@ -2006,11 +2083,16 @@ keywords:
 - Youth
 name: Department of Labor
 phone: 202-693-5391
-public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+public_liaison:
+  name: Thomas G. Hicks, Sr.
+  phone:
+  - 202-693-5427
 reading_rooms:
 - - DOL-Wide FOIA Reading Room
   - http://www.dol.gov/dol/foia/readroom.htm
-service_center: 'Phone: (202) 693-5391'
+service_center:
+  phone:
+  - 202-693-5391
 top_level: false
 usa_id: '49028'
 website: http://www.dol.gov/dol/foia/main.htm

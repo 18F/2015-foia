@@ -9,10 +9,16 @@ departments:
   emails:
   - foia@fmshrc.gov
   fax: 202-434-9944
-  foia_officer: 'Linda H. Ghosal, Phone: 202-434-9935'
+  foia_officer:
+    name: Linda H. Ghosal
+    phone:
+    - 202-434-9935
   name: Federal Mine Safety and Health Review Commission
   phone: 202-434-9935
-  public_liaison: 'Emogene Johnson, Phone: (202) 434-9935'
+  public_liaison:
+    name: Emogene Johnson
+    phone:
+    - 202-434-9935
   reading_rooms:
   - - E-Reading Room
     - http://www.fmshrc.gov/foia/e-reading-room
@@ -95,7 +101,9 @@ departments:
       simple_highest_days: '24'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 434-9935'
+  service_center:
+    phone:
+    - 202-434-9935
   top_level: false
   website: http://www.fmshrc.gov/foia
 description: The Federal Mine Safety and Health Review Commission is an independent

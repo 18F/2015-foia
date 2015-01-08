@@ -9,10 +9,16 @@ departments:
   - efoia@fdic.gov
   fax: 703-562-2797
   misc:
-    Legal Division, FOIA/PA Group: 'FOIA Contact, Phone: 202-898-7021'
+    Legal Division, FOIA/PA Group:
+      name: FOIA Contact
+      phone:
+      - 202-898-7021
   name: Federal Deposit Insurance Corporation
   phone: 202-898-7021
-  public_liaison: 'Cottrell L. Webster, Phone: (703) 562-6040'
+  public_liaison:
+    name: Cottrell L. Webster
+    phone:
+    - 703-562-6040
   reading_rooms:
   - - Reading Room
     - https://www.fdic.gov/about/freedom/readingroom.html
@@ -96,7 +102,9 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: less than 1
       simple_median_days: '7'
-  service_center: 'Phone: (202) 898-7021'
+  service_center:
+    phone:
+    - 202-898-7021
   top_level: false
   website: http://www.fdic.gov/about/freedom/index.html
 description: "The Federal Deposit Insurance Corporation (FDIC) is an independent agency\

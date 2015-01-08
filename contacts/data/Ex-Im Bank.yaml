@@ -9,10 +9,16 @@ departments:
   - foia@exim.gov
   fax: 202-565-3294
   misc:
-    FOIA Contact: 'Dawn R. Kral, Phone: 202-565-3248'
+    FOIA Contact:
+      name: Dawn R. Kral
+      phone:
+      - 202-565-3248
   name: Export-Import Bank of the U.S.
   phone: 202-565-3248
-  public_liaison: 'Dawn R. Kral, Phone: (202) 565-3248'
+  public_liaison:
+    name: Dawn R. Kral
+    phone:
+    - 202-565-3248
   request_form: http://www.exim.gov/about/library/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -28,7 +34,9 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '4'
       simple_median_days: '15'
-  service_center: 'Phone: (202) 565-3248'
+  service_center:
+    phone:
+    - 202-565-3248
   top_level: false
   website: http://www.exim.gov/about/disclosure/foia.cfm
 description: The Export-Import Bank of the United States (Ex-Im Bank) is the official
