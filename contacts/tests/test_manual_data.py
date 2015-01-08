@@ -4,8 +4,19 @@ import yaml
 from unittest import TestCase
 
 
-def log_differences(manual_data, auto_data, filename, level):
+def log_differences(manual_data, auto_data):
     return list(set(manual_data) - set(auto_data))
+
+
+def log_duplicates(manual_data):
+    seen = set()
+    dups = list()
+    for element in manual_data:
+        if element not in seen:
+            seen.add(element)
+        else:
+            dups.append(element)
+    return dups
 
 
 class ManualDataTests(TestCase):
@@ -32,9 +43,23 @@ class ManualDataTests(TestCase):
 
             if manual_office_names:
                 differences = log_differences(
-                    manual_office_names, office_names, filename, "office")
-                self.assertEqual(differences, [])
+                    manual_data=manual_office_names,
+                    auto_data=office_names)
+                self.assertEqual(
+                    differences, [],
+                    msg="Invalid Office Name in %s" % filename)
+
+                differences = log_duplicates(
+                    manual_data=manual_office_names)
+
+                self.assertEqual(
+                    differences, [],
+                    msg="Duplicated Office Name in %s" % filename)
+
             if manual_dept_name:
                 differences = log_differences(
-                    manual_dept_name, dept_name, filename, "department")
-                self.assertEqual(differences, [])
+                    manual_data=manual_dept_name,
+                    auto_data=dept_name)
+                self.assertEqual(
+                    differences, [],
+                    msg="Invalid Top-level. Name in %s" % filename)

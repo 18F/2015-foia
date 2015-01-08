@@ -6,6 +6,7 @@ departments:
   top_level: true
   website: http://www.jpl.nasa.gov/
 - name: NASA Shared Service Center (NSSC)
+  request_form: http://socialforms.nasa.gov/foia
   top_level: true
 - name: Marshall Space Flight Center
   request_form: http://socialforms.nasa.gov/foia
@@ -26,8 +27,6 @@ departments:
 - name: Johnson Space Center
   request_form: http://socialforms.nasa.gov/foia
 - name: Langley Research Center
-  request_form: http://socialforms.nasa.gov/foia
-- name: NASA Shared Service Center (NSSC)
   request_form: http://socialforms.nasa.gov/foia
 - name: Stennis Space Center
   emails:

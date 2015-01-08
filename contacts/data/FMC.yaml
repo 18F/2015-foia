@@ -13,6 +13,9 @@ departments:
   name: Federal Maritime Commission
   phone: 202-523-5725
   public_liaison: 'Rachel Dickon, Phone: (202) 523-5725'
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fmc.gov/electronic_reading_room/default1.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'

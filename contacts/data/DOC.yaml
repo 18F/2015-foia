@@ -219,7 +219,8 @@ departments:
   - Room 7325
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  emails: []
+  emails:
+  - SKong@eda.gov
   fax: 202-482-5671
   foia_officer: 'Stephen Kong, Phone: (202) 482-3085'
   keywords:

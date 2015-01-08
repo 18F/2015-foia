@@ -963,7 +963,7 @@ departments:
       simple_lowest_days: '6'
       simple_median_days: '8'
   service_center: 'Phone: (228) 813-6174'
-  top_level: false
+  top_level: true
   website: http://www.nssc.nasa.gov/foia/
 - address:
   - Sally Bilbo
