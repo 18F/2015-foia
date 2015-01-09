@@ -747,6 +747,9 @@ departments:
     name: Joseph Tripline
     phone:
     - 410-786-5353
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
   request_time_stats:
     '2008':
       complex_average_days: '297.6'

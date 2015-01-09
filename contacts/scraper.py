@@ -94,7 +94,6 @@ def clean_phone_number(line):
         if extension:
             extension = re.sub("\D", "", extension)
             number = number + " x" + extension
-
         return number
 
     else:
@@ -161,7 +160,7 @@ def organize_contact(value):
     Organize contact info into a dictionary to facilitate extraction
     """
     value = value.split("Phone: ")
-    name_str = value[0].strip().strip(",")
+    name_str = value[0].strip(" ,'")
     phone_str = value[-1]
     clean_numbers = extract_numbers(phone_str)
 
