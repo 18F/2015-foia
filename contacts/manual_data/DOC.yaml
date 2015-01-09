@@ -1,6 +1,9 @@
 departments:
 - name: Census Bureau
   top_level: true
+  reading_rooms:
+  - - FOIA Library
+    - http://www.census.gov/foia/foia_library/
 - name: International Trade Administration
   top_level: true
 - name: Minority Business Development Agency
