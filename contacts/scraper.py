@@ -74,7 +74,9 @@ def clean_paragraphs(doc):
 
 
 def clean_phone_number(line):
-    """Given "(123) 456-7890 (Telephone)", extract the number"""
+    """
+    Given "(123) 456-7890 (Telephone)", extract the number and format
+    """
     match = PHONE_RE.search(line)
     if match:
         # kill all non-numbers
@@ -137,20 +139,27 @@ def find_emails(lines, ps):
 
 
 def extract_numbers(phone_str):
+    """
+    Extracts all phone numbers from a line and adds them to a list
+    """
+
     clean_numbers = []
     while True:
         if PHONE_RE.match(phone_str):
             clean_numbers.append(clean_phone_number(phone_str))
             if "," not in phone_str:
                 break
-            phone_str = phone_str.split(",")[-1]
+            phone_str = PHONE_RE.sub(repl="", string=phone_str, count=1)
+            phone_str = phone_str.replace(",", "", 1)
         else:
             break
     return clean_numbers
 
 
 def organize_contact(value):
-    """ Organize contact info into different form """
+    """
+    Organize contact info into a dictionary to facilitate extraction
+    """
     value = value.split("Phone: ")
     name_str = value[0].strip().strip(",")
     phone_str = value[-1]

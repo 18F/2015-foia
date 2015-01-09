@@ -283,6 +283,55 @@ class ScraperTests(TestCase):
         ps = [BeautifulSoup("<p>Off hand reference to email</p>")]
         self.assertRaises(Exception, scraper.find_emails, lines, ps)
 
+    def test_extract_numbers(self):
+        """ Verify that phone numbers are extracted and added to list"""
+
+        phone_str = "(928) 779-2727, ext. 145"
+        expected_output = ['928-779-2727 x145']
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+        # Still extracts 2 numbers even if thier formatting is ugly
+        phone_str += ", (928) 779-1111,, (ext. 145)"
+        expected_output.append('928-779-1111 x145')
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+        # Won't extract incorrect phone numbers
+        phone_str += ", (928) 779-111"
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+    def test_organize_contact(self):
+        """ Test if contacts are extracted an organized correctly """
+
+        # Regular contact
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
+            scraper.organize_contact(contact_str))
+
+        # Contact with multiple numbers
+        contact_str = "Denise Garrett, Phone: (202) 707-6800, (202) 700-6811"
+        self.assertEqual(
+            {
+                'name': 'Denise Garrett',
+                'phone': ['202-707-6800', '202-700-6811']
+            },
+            scraper.organize_contact(contact_str))
+
+        # Contact with no name e.i. service centers
+        contact_str = "Phone: (202) 707-6800"
+        self.assertEqual(
+            {'phone': ['202-707-6800']},
+            scraper.organize_contact(contact_str))
+
+        # Contact with no phone number
+        contact_str = "Denise Garrett, Phone: "
+        self.assertEqual(
+            {'name': 'Denise Garrett'},
+            scraper.organize_contact(contact_str))
+
     def test_find_bold_fields(self):
         """Three types of bold fields, simple key-value pairs (like 'notes'),
         url values (e.g. website, request form), and 'misc' -- everything
