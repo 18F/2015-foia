@@ -31,6 +31,7 @@ description: GSA's mission is to use expertise to provide innovative solutions f
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Advisory committees
 - Aged
 - Agriculture
 - Aircraft
@@ -169,7 +170,6 @@ keywords:
 - government forms
 - purchase cards
 name: General Services Administration
-request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
     complex_average_days: '0'

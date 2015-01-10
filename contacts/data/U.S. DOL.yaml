@@ -903,6 +903,7 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Civil rights
+  - Construction industry
   - Employment
   - Equal employment opportunity
   - Government contracts
@@ -910,6 +911,7 @@ departments:
   - Individuals with disabilities
   - Investigations
   - Labor
+  - Religious discrimination
   - Reporting and recordkeeping requirements
   - Veterans
   name: Office of Federal Contract Compliance Programs
@@ -1287,6 +1289,7 @@ departments:
   - Blood diseases
   - Cancer
   - Chemicals
+  - Confidential business information
   - Construction industry
   - Consumer protection
   - Diving
@@ -1299,6 +1302,7 @@ departments:
   - Freight
   - Gases
   - Government employees
+  - Grant programs-labor
   - Hazardous substances
   - Health
   - Health care
@@ -1330,6 +1334,8 @@ departments:
   - Safety
   - Seamen
   - Signs and symbols
+  - Small businesses
+  - Technical assistance
   - Transportation
   - Vessels
   - Whistleblowing
@@ -1773,6 +1779,7 @@ keywords:
 - Accountants
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Advertising
 - Advisory committees
 - Aged
@@ -1784,9 +1791,11 @@ keywords:
 - Asbestos
 - Australia
 - Black lung benefits
+- Blind
 - Blood
 - Blood diseases
 - Bonds
+- Broadband
 - Brokers
 - Buildings and facilities
 - Business and industry
@@ -1799,18 +1808,28 @@ keywords:
 - Classified information
 - Coal
 - Colleges and universities
+- Communications
 - Communications equipment
+- Community development
+- Confidential business information
 - Construction industry
 - Consumer protection
+- Copyright
 - Courts
+- Credit
+- Cultural exchange programs
 - Disaster assistance
 - Diving
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
 - Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
 - Emergency medical services
 - Employee benefit plans
 - Employment
@@ -1824,6 +1843,7 @@ keywords:
 - Excise taxes
 - Explosives
 - Federal buildings and facilities
+- Federally affected areas
 - Fire prevention
 - Firefighters
 - Foreign officials
@@ -1855,19 +1875,24 @@ keywords:
 - Health statistics
 - Highway safety
 - Highways and roads
+- Home improvement
 - Homeless
 - Hospitals
 - Hostages
 - Housing
 - Housing standards
+- Human research subjects
 - Immigration
 - Income taxes
 - Indemnity payments
 - Indians
+- Indians-education
 - Individuals with disabilities
 - Insurance
 - Insurance companies
 - Intergovernmental relations
+- International organizations
+- Inventions and patents
 - Investigations
 - Investments
 - Iraq
@@ -1884,8 +1909,12 @@ keywords:
 - Lawyers
 - Lebanon
 - Loan programs
+- Loan programs-agriculture
 - Loan programs-business
+- Loan programs-communications
+- Loan programs-energy
 - Loan programs-health
+- Loan programs-housing and community development
 - Lobbying
 - Longshore and harbor workers
 - Lung diseases
@@ -1900,20 +1929,25 @@ keywords:
 - Miners
 - Mines
 - Minimum wages
+- Mortgage insurance
+- Mortgages
 - Motor carriers
 - Motor vehicle safety
 - National parks
 - Noise control
 - Nonprofit organizations
+- Northern Mariana Islands
 - Nursery stock
 - Occupational Safety and Health Administration
 - Occupational safety and health
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Passports and visas
 - Penalties
 - Pipeline safety
 - Pipelines
 - Privacy
+- Private schools
 - Public assistance programs
 - Radiation protection
 - Radio
@@ -1924,7 +1958,12 @@ keywords:
 - Reporting and recordkeeping requirements
 - Research
 - Retirement
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
 - Seamen
 - Securities
 - Sex discrimination
@@ -1939,6 +1978,8 @@ keywords:
 - Surface mining
 - Teachers
 - Technical assistance
+- Telecommunications
+- Telephone
 - Television
 - Trade adjustment assistance
 - Transportation
@@ -1946,13 +1987,18 @@ keywords:
 - Underground mining
 - Unemployment compensation
 - Uranium
+- Urban areas
 - Vessels
 - Veterans
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
 - Wages
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
 - Water supply
+- Watersheds
 - Whistleblowing
 - Women
 - Workers' compensation
@@ -1964,7 +2010,6 @@ public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
 reading_rooms:
 - - DOL-Wide FOIA Reading Room
   - http://www.dol.gov/dol/foia/readroom.htm
-request_time_stats: {}
 service_center: 'Phone: (202) 693-5391'
 top_level: false
 usa_id: '49028'

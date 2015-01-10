@@ -187,6 +187,7 @@ departments:
   - Seashores
   - Sulfur
   - Surety bonds
+  - Traffic regulations
   - Water resources
   - Wilderness areas
   - Wildlife
@@ -802,6 +803,7 @@ departments:
   keywords:
   - Alaska
   - Alcohol and alcoholic beverages
+  - Archives and records
   - Business and industry
   - Cemeteries
   - Civil rights
@@ -815,12 +817,15 @@ departments:
   - Historic preservation
   - Hunting
   - Income taxes
+  - Indians-lands
   - Indians-tribal government
   - Marine safety
   - Military personnel
   - Motion pictures
+  - Museums
   - National parks
   - Penalties
+  - Public lands
   - Recordings
   - Reporting and recordkeeping requirements
   - Signs and symbols
@@ -930,7 +935,7 @@ departments:
   phone: 202-208-0954
   public_liaison: 'Phone: (202) 208-0954'
   reading_rooms:
-  - - OIG FOIA Library
+  - - Electronic Reading Room
     - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
@@ -1307,7 +1312,9 @@ keywords:
 - Antitrust
 - Archives and records
 - Authority delegations (Government agencies)
+- Blind
 - Bonds
+- Broadband
 - Buildings and facilities
 - Business and industry
 - Cemeteries
@@ -1320,20 +1327,28 @@ keywords:
 - Colleges and universities
 - Common carriers
 - Communications
+- Community development
 - Concessions
 - Continental shelf
+- Copyright
 - Courts
+- Credit
+- Cultural exchange programs
 - Customs duties and inspection
 - Dams
 - District of Columbia
 - Drug abuse
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
 - Electric power
+- Electric power rates
+- Electric utilities
 - Electronic funds transfers
+- Elementary and secondary education
 - Employment
 - Endangered and threatened species
 - Energy
@@ -1346,6 +1361,7 @@ keywords:
 - Exports
 - Federal Energy Regulatory Commission
 - Federal buildings and facilities
+- Federally affected areas
 - Fire prevention
 - Fish
 - Fisheries
@@ -1364,6 +1380,7 @@ keywords:
 - Grant programs
 - Grant programs-Indians
 - Grant programs-education
+- Grant programs-health
 - Grant programs-natural resources
 - Grant programs-recreation
 - Grant programs-social programs
@@ -1377,8 +1394,12 @@ keywords:
 - Health professions
 - Highways and roads
 - Historic preservation
+- Home improvement
+- Homeless
 - Homesteads
+- Hospitals
 - Hostages
+- Human research subjects
 - Hunting
 - Hydrocarbons
 - Imports
@@ -1395,6 +1416,8 @@ keywords:
 - Insurance
 - Intergovernmental relations
 - Intermodal transportation
+- International organizations
+- Inventions and patents
 - Investigations
 - Iraq
 - Irrigation
@@ -1406,18 +1429,26 @@ keywords:
 - Lebanon
 - Livestock
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-housing and community development
 - Loan programs-natural resources
+- Manpower training programs
 - Marine mammals
 - Marine resources
 - Marine safety
 - Marketing quotas
 - Mass transportation
+- Migrant labor
 - Military personnel
 - Mineral resources
 - Mineral royalties
 - Minerals Management Service
 - Mines
 - Monuments and memorials
+- Mortgage insurance
+- Mortgages
 - Motion pictures
 - Museums
 - National forests
@@ -1426,17 +1457,20 @@ keywords:
 - Natural resources
 - Navigation (air)
 - Navigation (water)
+- Nonprofit organizations
 - Northern Mariana Islands
 - Oil and gas exploration
 - Oil and gas reserves
 - Oil pollution
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Penalties
 - Petroleum
 - Phosphate
 - Pipelines
 - Plants
 - Privacy
+- Private schools
 - Public assistance programs
 - Public lands
 - Railroads
@@ -1452,21 +1486,28 @@ keywords:
 - Rivers
 - Rural areas
 - Safety
+- Scholarships and fellowships
 - School construction
 - Schools
+- Science and technology
 - Seashores
+- Securities
 - Security measures
 - Sewage disposal
 - Sex discrimination
 - Signs and symbols
 - Small businesses
 - Solar energy
+- State and local governments
 - Student aid
 - Students
 - Sulfur
 - Surety bonds
 - Surface mining
+- Teachers
 - Technical assistance
+- Telecommunications
+- Telephone
 - Television
 - Trademarks
 - Traffic regulations
@@ -1474,9 +1515,13 @@ keywords:
 - Treaties
 - Trusts and trustees
 - Underground mining
+- Urban areas
 - Vessels
 - Veterans
 - Virgin Islands
+- Vocational education
+- Vocational rehabilitation
+- Waste treatment and disposal
 - Watches and jewelry
 - Water pollution control
 - Water resources

@@ -1447,43 +1447,59 @@ fax: 202-632-7581
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Aged
+- Agriculture
 - Air traffic controllers
 - Airports
 - Alcohol abuse
 - Alcoholism
 - Alimony
+- American Samoa
 - Antitrust
 - Archives and records
 - Armed forces
 - Asbestos
 - Authority delegations (Government agencies)
 - Blind
+- Broadband
 - Buildings and facilities
+- Business and industry
 - Cemeteries
 - Child support
 - Civil rights
 - Claims
 - Colleges and universities
+- Communications
+- Community development
 - Condominiums
 - Conflict of interests
+- Copyright
 - Courts
+- Credit
 - Crime
+- Cultural exchange programs
 - Day care
 - Defense Department
 - Dental health
 - Disability benefits
 - Drug abuse
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
 - Employment
 - Equal educational opportunity
 - Equal employment opportunity
 - Estates
 - Federal buildings and facilities
+- Federally affected areas
 - Firefighters
 - Flags
 - Flood insurance
@@ -1503,22 +1519,27 @@ keywords:
 - Grant programs-social programs
 - Grant programs-transportation
 - Grant programs-veterans
+- Guam
 - Health care
 - Health facilities
 - Health insurance
 - Health professions
 - Health records
 - Highways and roads
+- Home improvement
 - Homeless
+- Hospitals
 - Hostages
 - Housing
 - Human research subjects
 - Income taxes
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
+- International organizations
 - Inventions and patents
 - Investigations
 - Iraq
@@ -1531,7 +1552,10 @@ keywords:
 - Life insurance
 - Loan programs
 - Loan programs-Indians
+- Loan programs-agriculture
+- Loan programs-communications
 - Loan programs-education
+- Loan programs-energy
 - Loan programs-housing and community development
 - Loan programs-social programs
 - Loan programs-veterans
@@ -1545,15 +1569,21 @@ keywords:
 - Medical research
 - Medicare
 - Mental health programs
+- Migrant labor
 - Military personnel
 - Mortgage insurance
+- Mortgages
+- Nonprofit organizations
+- Northern Mariana Islands
 - Nursing homes
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Parking
 - Penalties
 - Philippines
 - Postal Service
 - Privacy
+- Private schools
 - Public assistance programs
 - Public housing
 - Radioactive materials
@@ -1568,37 +1598,47 @@ keywords:
 - Retirement
 - Rural areas
 - Scholarships and fellowships
+- School construction
 - Schools
+- Science and technology
 - Seals and insignia
+- Securities
 - Security measures
 - Sex discrimination
 - Small businesses
 - Social security
+- State and local governments
 - Student aid
 - Supplemental Security Income (SSI)
 - Surety bonds
 - Taxes
+- Teachers
 - Telecommunications
+- Telephone
 - Transportation
 - Travel
 - Travel and transportation expenses
 - Treaties
 - Trusts and trustees
 - Unemployment compensation
+- Urban areas
 - Utilities
 - Veterans
 - Veterans Affairs Department
 - Vietnam
+- Virgin Islands
 - Vocational education
 - Vocational rehabilitation
 - Wages
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
 - Women
 name: Department of Veterans Affairs
 phone: 202-632-7465
 public_liaison: 'Phone: (202) 632-7600'
-reading_rooms:
-- - FOIA Library
-  - http://www.oprm.va.gov/foia
 request_time_stats:
   '2008':
     complex_highest_days: '2104'

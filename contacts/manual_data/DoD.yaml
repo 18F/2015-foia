@@ -11,8 +11,10 @@ departments:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   top_level: true
 - name: Department of the Air Force - Headquarters/ICIO (FOIA)
+  emails: []
   top_level: true
 - name: Department of the Army - Freedom of Information and Privacy Office
+  request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
   top_level: true
 - name: Department of the Navy - Main Office
   top_level: true
@@ -53,8 +55,6 @@ departments:
 - name: Armed Services Board of Contract Appeals
   emails: []
   website: http://www.asbca.mil
-- name: Department of the Army - Freedom of Information and Privacy Office
-  request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
 - name: U.S. Special Operations Command
   request_form: http://www.socom.mil/FOIA/Pages/Request.aspx
 - name: TRICARE Management Activity
@@ -66,5 +66,3 @@ departments:
 - name: U.S. Africa Command
   emails:
   - africom.stuttgart.accc.list.foia-mba@mail.mil
-- name: Department of the Air Force - Headquarters/ICIO (FOIA)
-  emails: []

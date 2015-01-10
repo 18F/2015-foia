@@ -195,6 +195,7 @@ departments:
   - Alcohol abuse
   - Alcoholism
   - Armed forces
+  - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
   - Canada
@@ -210,6 +211,7 @@ departments:
   - Environmental protection
   - Equal access to justice
   - Ethiopia
+  - Explosives
   - Exports
   - Federal Aviation Administration
   - Federal buildings and facilities
@@ -253,6 +255,7 @@ departments:
   - Teachers
   - Transportation
   - Weather
+  - X-rays
   - Yugoslavia
   misc:
     FOIA Coordinator: 'Phone: (202) 267-9165'
@@ -716,6 +719,7 @@ departments:
   - Drug testing
   - Freight
   - Freight forwarders
+  - Grant programs
   - Grant programs-transportation
   - Hazardous materials transportation
   - Highway safety
@@ -968,6 +972,7 @@ departments:
   foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
   keywords:
   - Administrative practice and procedure
+  - Antitrust
   - Authority delegations (Government agencies)
   - Citizenship and naturalization
   - Claims
@@ -1298,15 +1303,19 @@ departments:
   fax: 202-245-0460
   keywords:
   - Administrative practice and procedure
+  - Agricultural commodities
+  - Antitrust
   - Authority delegations (Government agencies)
   - Bankruptcy
   - Brokers
   - Common carriers
   - Communications
   - Confidential business information
+  - Environmental impact statements
   - Freedom of information
   - Freight
   - Freight forwarders
+  - Intermodal transportation
   - Investigations
   - Maritime carriers
   - Motor carriers
@@ -1382,6 +1391,7 @@ fax: 202-366-8536
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Advertising
 - Advisory committees
 - Afghanistan
@@ -1403,16 +1413,19 @@ keywords:
 - Alcohol abuse
 - Alcohol and alcoholic beverages
 - Alcoholism
+- American Samoa
 - Anchorage grounds
 - Antitrust
 - Archives and records
 - Armed forces
+- Arms and munitions
 - Authority delegations (Government agencies)
 - Aviation safety
 - Bankruptcy
 - Blind
 - Bonds
 - Bridges
+- Broadband
 - Brokers
 - Buildings and facilities
 - Buses
@@ -1429,15 +1442,18 @@ keywords:
 - Common carriers
 - Communications
 - Communications equipment
+- Community development
 - Concessions
 - Confidential business information
 - Conflict of interests
 - Consumer protection
 - Continental shelf
 - Cooperatives
+- Copyright
 - Credit
 - Crime
 - Cuba
+- Cultural exchange programs
 - Defense Department
 - Disability benefits
 - Disaster assistance
@@ -1445,12 +1461,16 @@ keywords:
 - Drug testing
 - Drugs
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
 - Electric power
+- Electric power rates
+- Electric utilities
 - Electronic products
+- Elementary and secondary education
 - Employment
 - Endangered and threatened species
 - Energy conservation
@@ -1461,9 +1481,11 @@ keywords:
 - Equal employment opportunity
 - Ethics
 - Ethiopia
+- Explosives
 - Exports
 - Federal Aviation Administration
 - Federal buildings and facilities
+- Federally affected areas
 - Fire prevention
 - Fishing vessels
 - Flammable materials
@@ -1487,10 +1509,12 @@ keywords:
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-environmental protection
+- Grant programs-health
 - Grant programs-social programs
 - Grant programs-transportation
 - Grant programs-veterans
 - Great Lakes
+- Guam
 - Harbors
 - Hazardous materials transportation
 - Hazardous substances
@@ -1503,18 +1527,24 @@ keywords:
 - Highway safety
 - Highways and roads
 - Historic preservation
+- Home improvement
+- Homeless
+- Hospitals
 - Hostages
 - Human research subjects
 - Imports
 - Income taxes
 - Indemnity payments
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
 - Insurance
 - Insurance companies
 - Intergovernmental relations
 - Intermodal transportation
+- International organizations
+- Inventions and patents
 - Investigations
 - Investments
 - Iraq
@@ -1527,7 +1557,11 @@ keywords:
 - Lebanon
 - Libya
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
 - Loan programs-education
+- Loan programs-energy
+- Loan programs-housing and community development
 - Loan programs-transportation
 - Loan programs-veterans
 - Manpower training programs
@@ -1540,6 +1574,7 @@ keywords:
 - Migrant labor
 - Military personnel
 - Minority businesses
+- Mortgage insurance
 - Mortgages
 - Motor carriers
 - Motor vehicle pollution
@@ -1554,6 +1589,8 @@ keywords:
 - Navigation (air)
 - Navigation (water)
 - Noise control
+- Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear vessels
 - Occupational safety and health
 - Oceanographic research vessels
@@ -1570,6 +1607,7 @@ keywords:
 - Pipelines
 - Political candidates
 - Privacy
+- Private schools
 - Public lands
 - Puerto Rico
 - Radiation protection
@@ -1585,10 +1623,15 @@ keywords:
 - Research
 - Rights-of-way
 - Rubber and rubber products
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
 - Schools
+- Science and technology
 - Seafood
 - Seamen
+- Securities
 - Security measures
 - Sewage disposal
 - Sex discrimination
@@ -1621,19 +1664,26 @@ keywords:
 - Truth in lending
 - Uniform System of Accounts
 - Uranium
+- Urban areas
 - Utilities
 - Vessels
 - Veterans
+- Virgin Islands
 - Vocational education
 - Vocational rehabilitation
 - Volunteers
 - Wages
+- Waste treatment and disposal
 - Water pollution control
+- Water resources
+- Water supply
+- Watersheds
 - Waterways
 - Weather
 - Whistleblowing
 - Wildlife refuges
 - Women
+- X-rays
 - Yugoslavia
 name: Department of Transportation
 phone: 202-366-4542

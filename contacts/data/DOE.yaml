@@ -651,8 +651,6 @@ departments:
   public_liaison: 'Derek Passarelli, Phone: (720) 356-1742'
   reading_rooms:
   - - Golden Field Office Reading Room
-    - http://energy.gov/eere/office-energy-efficiency-renewable-energy
-  - - Golden Field Office Reading Room
     - http://energy.gov/eere/golden-field-office-reading-room
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   request_time_stats:
@@ -1168,15 +1166,20 @@ description: The Department of Energy's overarching mission is to advance the na
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Aged
+- Agriculture
 - Air transportation
 - Aircraft
 - Airports
 - Alaska
 - Alcohol abuse
+- American Samoa
 - Antitrust
 - Authority delegations (Government agencies)
 - Beryllium
+- Blind
+- Broadband
 - Buildings and facilities
 - Business and industry
 - Civil defense
@@ -1184,14 +1187,21 @@ keywords:
 - Claims
 - Classified information
 - Colleges and universities
+- Communications
+- Community development
 - Conduct standards
 - Confidential business information
 - Conflict of interests
 - Continental shelf
+- Copyright
+- Credit
+- Cultural exchange programs
 - Dams
 - Drug abuse
 - Drug testing
 - Education
+- Education of disadvantaged
+- Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
@@ -1199,6 +1209,8 @@ keywords:
 - Electric power plants
 - Electric power rates
 - Electric utilities
+- Elementary and secondary education
+- Employment
 - Energy
 - Energy conservation
 - Engineers
@@ -1209,6 +1221,7 @@ keywords:
 - Equal employment opportunity
 - Exports
 - Federal buildings and facilities
+- Federally affected areas
 - Flood plains
 - Foreign relations
 - Fraud
@@ -1227,6 +1240,7 @@ keywords:
 - Grant programs-health
 - Grant programs-housing and community development
 - Grant programs-social programs
+- Guam
 - Hazardous materials transportation
 - Hazardous substances
 - Health
@@ -1235,6 +1249,8 @@ keywords:
 - Health professions
 - Highways and roads
 - Historic preservation
+- Home improvement
+- Homeless
 - Hospitals
 - Hostages
 - Household appliances
@@ -1244,9 +1260,12 @@ keywords:
 - Imports
 - Income taxes
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
+- Insurance
 - Intergovernmental relations
+- International organizations
 - Inventions and patents
 - Investigations
 - Iraq
@@ -1258,28 +1277,39 @@ keywords:
 - Lie detector tests
 - Livestock
 - Loan programs
+- Loan programs-agriculture
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-housing and community development
 - Lobbying
 - Lung diseases
+- Manpower training programs
 - Marital status discrimination
 - Maritime carriers
 - Mass transportation
 - Medical research
+- Migrant labor
+- Mortgage insurance
+- Mortgages
 - Motor vehicles
 - National defense
 - Natural gas
 - Natural resources
 - Nonprofit organizations
+- Northern Mariana Islands
 - Nuclear energy
 - Nuclear materials
 - Nuclear power plants and reactors
 - Occupational safety and health
 - Oil and gas reserves
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Penalties
 - Petroleum
 - Pipelines
 - Plutonium
 - Privacy
+- Private schools
 - Public health
 - Public lands
 - Radiation protection
@@ -1289,7 +1319,10 @@ keywords:
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Research
+- Rural areas
 - Safety
+- Scholarships and fellowships
+- School construction
 - Schools
 - Science and technology
 - Scientists
@@ -1299,17 +1332,28 @@ keywords:
 - Sex discrimination
 - Small businesses
 - Solar energy
+- State and local governments
 - Strategic and critical materials
 - Student aid
 - Sunshine Act
+- Teachers
 - Technical assistance
+- Telecommunications
+- Telephone
 - Traffic regulations
+- Treaties
 - Uniform System of Accounts
 - Uranium
+- Urban areas
 - Veterans
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
+- Water supply
+- Watersheds
 - Whistleblowing
 - Women
 - Workers' compensation

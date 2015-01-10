@@ -1,6 +1,9 @@
 departments:
 - name: Census Bureau
   top_level: true
+  reading_rooms:
+  - - FOIA Library
+    - http://www.census.gov/foia/foia_library/
 - name: International Trade Administration
   top_level: true
 - name: Minority Business Development Agency
@@ -23,9 +26,6 @@ departments:
 - name: Economic Development Administration
   emails:
   - SKong@eda.gov
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-- name: Economic Development Administration
-  emails: []
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
 - name: Bureau of Industry and Security
   request_form: https://foiaonline.regulations.gov/foia/action/public/home

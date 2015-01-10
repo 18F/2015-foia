@@ -36,8 +36,6 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
-  - - FOIA Library
-    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':
@@ -221,7 +219,8 @@ departments:
   - Room 7325
   - 1401 Constitution Avenue, NW
   - Washington, DC 20230
-  emails: []
+  emails:
+  - SKong@eda.gov
   fax: 202-482-5671
   foia_officer: 'Stephen Kong, Phone: (202) 482-3085'
   keywords:
@@ -1464,6 +1463,7 @@ departments:
   - Cooperatives
   - Courts
   - Credit
+  - Credit unions
   - Crime
   - Crop insurance
   - Cultural exchange programs
@@ -1657,6 +1657,7 @@ departments:
   - Uniform System of Accounts
   - Virgin Islands
   - Wages
+  - Waste treatment and disposal
   - Water resources
   - Water supply
   - Waterways
@@ -1770,9 +1771,11 @@ fax: 202-482-0827
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adult education
 - Advisory committees
 - Aged
 - Agricultural commodities
+- Agriculture
 - Air carriers
 - Airports
 - Alaska
@@ -1781,7 +1784,9 @@ keywords:
 - Antidumping
 - Arms and munitions
 - Biologics
+- Blind
 - Boycotts
+- Broadband
 - Buildings and facilities
 - Business and industry
 - Cable television
@@ -1801,26 +1806,36 @@ keywords:
 - Community development
 - Confidential business information
 - Conflict of interests
+- Copyright
 - Countervailing duties
 - Courts
+- Credit
+- Cultural exchange programs
 - Customs duties and inspection
 - Defense communications
 - Disaster assistance
 - Drug abuse
 - Economic statistics
 - Education
+- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
 - Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
 - Electronic products
+- Elementary and secondary education
 - Emergency powers
+- Employment
 - Endangered and threatened species
 - Environmental protection
 - Equal educational opportunity
 - Equal employment opportunity
 - Exports
 - Federal buildings and facilities
+- Federally affected areas
 - Fish
 - Fisheries
 - Fishing
@@ -1840,6 +1855,7 @@ keywords:
 - Grant programs
 - Grant programs-business
 - Grant programs-education
+- Grant programs-health
 - Grant programs-housing and community development
 - Grant programs-science and technology
 - Grant programs-social programs
@@ -1851,6 +1867,8 @@ keywords:
 - Health professions
 - Highways and roads
 - Historic preservation
+- Home improvement
+- Homeless
 - Horses
 - Hospitals
 - Hostages
@@ -1858,9 +1876,12 @@ keywords:
 - Imports
 - Income taxes
 - Indians
+- Indians-education
 - Indians-lands
 - Individuals with disabilities
+- Insurance
 - Intergovernmental relations
+- International organizations
 - Inventions and patents
 - Investigations
 - Iraq
@@ -1872,7 +1893,10 @@ keywords:
 - Lebanon
 - Libraries
 - Loan programs
+- Loan programs-agriculture
 - Loan programs-business
+- Loan programs-communications
+- Loan programs-energy
 - Loan programs-housing and community development
 - Manpower training programs
 - Marine mammals
@@ -1882,7 +1906,9 @@ keywords:
 - Marketing quotas
 - Mass transportation
 - Measurement standards
+- Migrant labor
 - Monuments and memorials
+- Mortgage insurance
 - Mortgages
 - National Institute of Standards and Technology
 - National defense
@@ -1894,21 +1920,28 @@ keywords:
 - Northern Mariana Islands
 - Oil pollution
 - Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
 - Penalties
 - Petroleum
 - Privacy
+- Private schools
 - Puerto Rico
 - Radio
 - Railroads
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Research
+- Rural areas
 - Russian Federation
 - Satellites
+- Scholarships and fellowships
+- School construction
+- Schools
 - Science and technology
 - Scientific equipment
 - Seafood
 - Seals and insignia
+- Securities
 - Seizures and forfeitures
 - Sex discrimination
 - Small businesses
@@ -1918,6 +1951,7 @@ keywords:
 - Steel
 - Strategic and critical materials
 - Student aid
+- Teachers
 - Technical assistance
 - Telecommunications
 - Telephone
@@ -1929,12 +1963,18 @@ keywords:
 - Transportation
 - Treaties
 - United States investments abroad
+- Urban areas
 - Veterans
 - Virgin Islands
+- Vocational education
+- Vocational rehabilitation
 - Wages
+- Waste treatment and disposal
 - Watches and jewelry
 - Water pollution control
 - Water resources
+- Water supply
+- Watersheds
 - Waterways
 - Wildlife
 - Wildlife refuges
