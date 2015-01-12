@@ -1,11 +1,14 @@
 abbreviation: LSC
 departments:
 - address:
-  - Cheryl DuHart
-  - FOIA Analyst
-  - 3rd Floor
-  - 3333 K Street, NW
-  - Washington, DC 20007
+    address_lines:
+    - Cheryl DuHart
+    - FOIA Analyst
+    - 3rd Floor
+    city: Washington
+    state: DC
+    street: 3333 K Street, NW
+    zip: '20007'
   emails:
   - FOIA@lsc.gov
   fax: 202-337-6519

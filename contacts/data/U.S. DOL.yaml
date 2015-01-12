@@ -1,17 +1,23 @@
 abbreviation: DOL
 address:
-- Ramona Branch Oliver
-- Director, Office of Information Services , Office of the Solicitor/MALS Division
-- Room N-2420
-- 200 Constitution Avenue, NW
-- Washington, DC 20210
-departments:
-- address:
+  address_lines:
   - Ramona Branch Oliver
   - Director, Office of Information Services , Office of the Solicitor/MALS Division
   - Room N-2420
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+  city: Washington
+  state: DC
+  street: 200 Constitution Avenue, NW
+  zip: '20210'
+departments:
+- address:
+    address_lines:
+    - Ramona Branch Oliver
+    - Director, Office of Information Services , Office of the Solicitor/MALS Division
+    - Room N-2420
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   emails:
   - foiarequests@dol.gov
   fax: 202-693-5389
@@ -31,10 +37,13 @@ departments:
   website: http://www.dol.gov/dol/foia/main.htm
 - abbreviation: ILAB
   address:
-  - FOIA Coordinator
-  - Room S-5317
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210-001
+    address_lines:
+    - FOIA Coordinator
+    - Room S-5317
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: 20210-001
   description: The Bureau of International Labor Affairs works to improve working
     conditions, raise living standards, protect workers’ ability to exercise their
     rights, and address the workplace exploitation of children and other vulnerable
@@ -134,10 +143,13 @@ departments:
   website: http://www.dol.gov/ilab/
 - abbreviation: BLS
   address:
-  - FOIA Disclosure Officer
-  - Room 4080 Postal Square Building
-  - 2 Massachusetts Avenue, NE
-  - Washington, DC 20212-0001
+    address_lines:
+    - FOIA Disclosure Officer
+    - Room 4080 Postal Square Building
+    city: Washington
+    state: DC
+    street: 2 Massachusetts Avenue, NE
+    zip: 20212-0001
   description: The Bureau of Labor Statistics measures labor market activity, working
     conditions, and price changes in the economy.
   fax: 202-691-5111
@@ -234,11 +246,14 @@ departments:
   website: http://www.bls.gov/bls/blsfoia.htm
 - abbreviation: EBSA
   address:
-  - Sharon Watson
-  - FOIA Officer
-  - Public Disclosure Room, Suite N-1513
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - Sharon Watson
+    - FOIA Officer
+    - Public Disclosure Room, Suite N-1513
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   description: The EBSA provides information and assistance on private sector, employer-sponsored
     retirement benefit and health benefit plans.
   emails:
@@ -376,9 +391,12 @@ departments:
   website: http://www.dol.gov/ebsa/foia/foia.html
 - abbreviation: DOLETA
   address:
-  - FOIA Disclosure Officer
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210-0002
+    address_lines:
+    - FOIA Disclosure Officer
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: 20210-0002
   description: The Employment and Training Administration provides job training and
     assistance with finding jobs and careers.
   fax: 202-693-2844
@@ -541,9 +559,12 @@ departments:
   usa_id: '52693'
   website: http://www.doleta.gov/foia/
 - address:
-  - FOIA Disclosure Officer
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Disclosure Officer
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   emails:
   - foiarequests@dol.gov
   fax: 202-693-2844
@@ -587,10 +608,13 @@ departments:
   website: http://www.jobcorps.gov/foia.aspx
 - abbreviation: MSHA
   address:
-  - FOIA Officer
-  - Room 2314
-  - 1100 Wilson Boulevard
-  - Arlington, VA 22209-3939
+    address_lines:
+    - FOIA Officer
+    - Room 2314
+    city: Arlington
+    state: VA
+    street: 1100 Wilson Boulevard
+    zip: 22209-3939
   description: The Mine Safety and Health Administration works to prevent mining related
     deaths, injuries, and illnesses through mine regulations, inspections, and training
     programs.
@@ -740,10 +764,13 @@ departments:
   usa_id: '49462'
   website: http://www.msha.gov/READROOM/READROOM.HTM
 - address:
-  - FOIA Disclosure Officer
-  - Suite 400 North
-  - 800 K Street
-  - N.W. Washington, DC 20001-8002
+    address_lines:
+    - FOIA Disclosure Officer
+    - Suite 400 North
+    city: N.W. Washington
+    state: DC
+    street: 800 K Street
+    zip: 20001-8002
   emails:
   - foiarequests@dol.gov
   fax: 202-693-7365
@@ -838,10 +865,13 @@ departments:
   top_level: false
   website: http://www.oalj.dol.gov/libfoia.htm
 - address:
-  - FOIA Coordinator
-  - Room S-3317
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Coordinator
+    - Room S-3317
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   emails:
   - foiarequests@dol.gov
   fax: 202-693-7954
@@ -938,10 +968,13 @@ departments:
   top_level: false
   website: http://www.dol.gov/oasam/foia/
 - address:
-  - FOIA Coordinator
-  - Room N-2428
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Coordinator
+    - Room N-2428
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   emails:
   - foiarequests@dol.gov
   fax: 202-693-5538
@@ -1037,10 +1070,13 @@ departments:
   top_level: false
   website: http://www.dol.gov/ofccp/ofccp-foia.htm
 - address:
-  - FOIA Coordinator
-  - Suite N-5609
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Coordinator
+    - Suite N-5609
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   keywords:
   - Administrative practice and procedure
   - Government contracts
@@ -1130,10 +1166,13 @@ departments:
   top_level: false
   website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
 - address:
-  - FOIA Coordinator
-  - Suite N-5609
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Coordinator
+    - Suite N-5609
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   keywords:
   - Administrative practice and procedure
   - Black lung benefits
@@ -1238,10 +1277,13 @@ departments:
   top_level: false
   website: http://www.dol.gov/owcp/foia/owcp-foia.htm
 - address:
-  - Disclosure Officer
-  - Room S-5506
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - Disclosure Officer
+    - Room S-5506
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   fax: 202-693-7020
   name: Office of the Inspector General
   public_liaison:
@@ -1334,10 +1376,13 @@ departments:
   website: http://www.oig.dol.gov/foia.htm
 - abbreviation: OSHA
   address:
-  - FOIA Officer
-  - Room N3647
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Officer
+    - Room N3647
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   description: The Occupational Safety and Health Administration (OSHA) assures safe
     and healthful working conditions for working men and women by setting and enforcing
     standards, and by providing training, outreach, education and assistance.
@@ -1495,11 +1540,14 @@ departments:
   usa_id: '48101'
   website: http://www.osha.gov/as/opa/foia/foia.html
 - address:
-  - Carrie Timus
-  - National FOIA Officer
-  - Room S-1325
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - Carrie Timus
+    - National FOIA Officer
+    - Room S-1325
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   keywords:
   - Administrative practice and procedure
   - Employment
@@ -1607,11 +1655,11 @@ departments:
   top_level: false
   website: http://www.dol.gov/vets/foia/
 - address:
-  - FOIA Coordinator
-  - Room S-3201
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
-  - 'FOIA Requester Service Center:'
+    address_lines:
+    - FOIA Coordinator
+    - Room S-3201
+    - 200 Constitution Avenue, NW
+    street: Washington, DC 20210
   keywords:
   - Administrative practice and procedure
   - Agricultural commodities
@@ -1752,10 +1800,13 @@ departments:
   top_level: false
   website: http://www.dol.gov/whd/foia/
 - address:
-  - FOIA Coordinator
-  - Room S-3305
-  - 200 Constitution Avenue, NW
-  - Washington, DC 20210
+    address_lines:
+    - FOIA Coordinator
+    - Room S-3305
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
   emails:
   - foiarequests@dol.gov
   fax: 202-693-6746

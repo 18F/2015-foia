@@ -1,11 +1,11 @@
 abbreviation: NMB
 departments:
 - address:
-  - Mary L. Johnson
-  - General Counsel
-  - Suite 250E
-  - 1301 K Street, NW
-  - Washington, DC  20005
+    address_lines:
+    - Mary L. Johnson
+    - General Counsel
+    - Suite 250E
+    street: 1301 K Street, NW
   emails: []
   fax: 202-692-5085
   misc:

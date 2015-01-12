@@ -1,10 +1,13 @@
 abbreviation: NRC
 departments:
 - address:
-  - Stephanie A. Blaney
-  - Acting FOIA Officer
-  - Mail Stop T5-F09
-  - Washington, DC 20555-0001
+    address_lines:
+    - Stephanie A. Blaney
+    - Acting FOIA Officer
+    city: Washington
+    state: DC
+    street: Mail Stop T5-F09
+    zip: 20555-0001
   emails:
   - FOIA.resource@nrc.gov
   fax: 301-415-5130

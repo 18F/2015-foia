@@ -2,11 +2,14 @@ abbreviation: DOI
 departments:
 - abbreviation: BIA
   address:
-  - Daphne Berwald
-  - Acting FOIA Officer
-  - MS-3071, MIB
-  - 1849 C Street, NW
-  - Washington, DC 20240
+    address_lines:
+    - Daphne Berwald
+    - Acting FOIA Officer
+    - MS-3071, MIB
+    city: Washington
+    state: DC
+    street: 1849 C Street, NW
+    zip: '20240'
   description: The Bureau of Indian Affairs’ mission is to enhance the quality of
     life, to promote economic opportunity, and to carry out the responsibility to
     protect and improve the trust assets of American Indians, Indian tribes and Alaska
@@ -137,11 +140,14 @@ departments:
   website: http://www.bia.gov/FOIA/index.htm
 - abbreviation: BLM
   address:
-  - Ryan Witt
-  - FOIA Officer
-  - 'Attn: FOIA, Washington Office Coorindators'
-  - 'MS: WO-560, 1849 C Street, NW'
-  - Washington, DC 20240
+    address_lines:
+    - Ryan Witt
+    - FOIA Officer
+    - 'Attn: FOIA, Washington Office Coorindators'
+    city: Washington
+    state: DC
+    street: 'MS: WO-560, 1849 C Street, NW'
+    zip: '20240'
   description: The Bureau of Land Management manages outdoor recreation, livestock
     grazing, mineral development, and energy production on public lands.
   emails:
@@ -295,11 +301,14 @@ departments:
   website: http://www.blm.gov/wo/st/en/res/FOIA.html
 - abbreviation: BOEM
   address:
-  - Rosemary Melendy
-  - FOIA Contact
-  - HM3127
-  - 381 Elden Street
-  - Herndon, VA 20170-4817
+    address_lines:
+    - Rosemary Melendy
+    - FOIA Contact
+    - HM3127
+    city: Herndon
+    state: VA
+    street: 381 Elden Street
+    zip: 20170-4817
   description: The Bureau of Ocean Energy Management promotes energy independence,
     environmental protection, and economic development by managing offshore energy
     resources.
@@ -386,10 +395,13 @@ departments:
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
 - abbreviation: USBR
   address:
-  - Regina Magno-Judd
-  - FOIA Officer
-  - P.O. Box 25007
-  - Denver, CO 80225-0007
+    address_lines:
+    - Regina Magno-Judd
+    - FOIA Officer
+    city: Denver
+    state: CO
+    street: P.O. Box 25007
+    zip: 80225-0007
   description: 'The Bureau of Reclamation is a provider of wholesale water, and hydroelectric
     power in the U.S. '
   emails:
@@ -511,11 +523,14 @@ departments:
   website: http://www.usbr.gov/foia/
 - abbreviation: BSEE
   address:
-  - Debbie Kimball
-  - FOIA Contact
-  - 'MS:  HE-2204'
-  - 381 Elden Street
-  - Herndon, VA 20170-4817
+    address_lines:
+    - Debbie Kimball
+    - FOIA Contact
+    - 'MS:  HE-2204'
+    city: Herndon
+    state: VA
+    street: 381 Elden Street
+    zip: 20170-4817
   description: The Bureau of Safety and Environmental Enforcement provides oversight
     and enforcement to promote safety, protect the environment, and conserve offshore
     resources.
@@ -590,11 +605,14 @@ departments:
   website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
 - abbreviation: FWS
   address:
-  - Melissa Allen
-  - FWS FOIA Officer
-  - MS-IRTM
-  - 5725 Leesburg Pike
-  - Falls Church, VA 22041
+    address_lines:
+    - Melissa Allen
+    - FWS FOIA Officer
+    - MS-IRTM
+    city: Falls Church
+    state: VA
+    street: 5725 Leesburg Pike
+    zip: '22041'
   description: The Fish and Wildlife Service works to conserve, protect and enhance
     fish, wildlife and plants and their habitats.
   emails:
@@ -762,11 +780,14 @@ departments:
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
 - address:
-  - Brian May
-  - FOIA Contact
-  - MS-807, National Center
-  - 12201 Sunrise Valley Drive Room 2B116
-  - Reston, VA 20192
+    address_lines:
+    - Brian May
+    - FOIA Contact
+    - MS-807, National Center
+    city: Reston
+    state: VA
+    street: 12201 Sunrise Valley Drive Room 2B116
+    zip: '20192'
   emails:
   - foia@usgs.gov
   fax: 703-648-7199
@@ -844,11 +865,14 @@ departments:
   website: http://www.usgs.gov/foia/
 - abbreviation: ''
   address:
-  - Charis Wilson
-  - NPS FOIA Officer
-  - P.O. Box 25287
-  - 12795 W. Alameda Parkway
-  - Denver, CO 80225
+    address_lines:
+    - Charis Wilson
+    - NPS FOIA Officer
+    - P.O. Box 25287
+    city: Denver
+    state: CO
+    street: 12795 W. Alameda Parkway
+    zip: '80225'
   description: The National Park Service cares for the more than 400 national parks
     in the U.S. The National Park Service also partners with local communities to
     assist in historic preservaton and the creation and maintenance of recreational
@@ -985,11 +1009,14 @@ departments:
   usa_id: '49539'
   website: http://www.nps.gov/foia.htm
 - address:
-  - Kevin Krebs
-  - FOIA Contact
-  - MS-4428, MIB
-  - 1849 C Street, NW
-  - Washington, DC 20240
+    address_lines:
+    - Kevin Krebs
+    - FOIA Contact
+    - MS-4428, MIB
+    city: Washington
+    state: DC
+    street: 1849 C Street, NW
+    zip: '20240'
   emails:
   - foia@doioig.gov
   misc:
@@ -1081,11 +1108,14 @@ departments:
   top_level: false
   website: http://www.doi.gov/oig/foia/index.cfm
 - address:
-  - Richard Lopez
-  - FOIA Contact
-  - MS-61023A
-  - PO Box 25165
-  - Denver, CO 80225-0165
+    address_lines:
+    - Richard Lopez
+    - FOIA Contact
+    - MS-61023A
+    city: Denver
+    state: CO
+    street: PO Box 25165
+    zip: 80225-0165
   emails:
   - os_foia@ios.doi.gov
   fax: 303-445-4288
@@ -1148,11 +1178,14 @@ departments:
   top_level: false
   website: http://www.onrr.gov/FOIA/
 - address:
-  - Clarice Julka
-  - FOIA Contact
-  - MS-116, SIB
-  - 1951 Constitution Avenue, NW
-  - Washington, DC 20240
+    address_lines:
+    - Clarice Julka
+    - FOIA Contact
+    - MS-116, SIB
+    city: Washington
+    state: DC
+    street: 1951 Constitution Avenue, NW
+    zip: '20240'
   emails: []
   fax: 202-219-2374
   misc:
@@ -1238,11 +1271,14 @@ departments:
   top_level: false
   website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
 - address:
-  - Lance Purvis
-  - Acting FOIA Contact
-  - MS-6429, M1B
-  - 1849 C Street, NW
-  - Washington, DC 20240
+    address_lines:
+    - Lance Purvis
+    - Acting FOIA Contact
+    - MS-6429, M1B
+    city: Washington
+    state: DC
+    street: 1849 C Street, NW
+    zip: '20240'
   emails:
   - sol.foia@sol.doi.gov
   fax: 202-208-5206
@@ -1304,11 +1340,14 @@ departments:
   top_level: false
   website: http://www.doi.gov/foia/
 - address:
-  - Dele Awoniyi
-  - FOIA Contact
-  - MS-233, S1B
-  - 1951 Constitution Avenue, NW
-  - Washington, DC 20240
+    address_lines:
+    - Dele Awoniyi
+    - FOIA Contact
+    - MS-233, S1B
+    city: Washington
+    state: DC
+    street: 1951 Constitution Avenue, NW
+    zip: '20240'
   emails:
   - foia@osmre.gov
   fax: 202-219-3092
@@ -1377,11 +1416,14 @@ departments:
   top_level: false
   website: http://www.osmre.gov/contacts/Foia.shtm
 - address:
-  - Veronica Herkshan
-  - FOIA Contact
-  - MS-5140, MIB
-  - 1849 C Street, NW
-  - Washington, DC 20240
+    address_lines:
+    - Veronica Herkshan
+    - FOIA Contact
+    - MS-5140, MIB
+    city: Washington
+    state: DC
+    street: 1849 C Street, NW
+    zip: '20240'
   emails:
   - Veronica_Herkshan@ost.doi.gov
   misc:

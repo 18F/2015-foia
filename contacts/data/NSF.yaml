@@ -1,11 +1,14 @@
 abbreviation: NSF
 departments:
 - address:
-  - Sandra Evans
-  - FOIA Officer
-  - Suite 1265
-  - 4201 Wilson Boulevard
-  - Arlington, VA 22230
+    address_lines:
+    - Sandra Evans
+    - FOIA Officer
+    - Suite 1265
+    city: Arlington
+    state: VA
+    street: 4201 Wilson Boulevard
+    zip: '22230'
   emails:
   - foia@nsf.gov
   fax: 703-292-9041

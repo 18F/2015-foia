@@ -1,11 +1,14 @@
 abbreviation: OSC
 departments:
 - address:
-  - Christopher M. Kurt
-  - FOIA Officer
-  - Suite 218
-  - 1730 M Street, NW
-  - Washington, DC 20036-4505
+    address_lines:
+    - Christopher M. Kurt
+    - FOIA Officer
+    - Suite 218
+    city: Washington
+    state: DC
+    street: 1730 M Street, NW
+    zip: 20036-4505
   fax: 202-254-3711
   foia_officer:
     name: Christopher M. Kurt

@@ -1,11 +1,11 @@
 abbreviation: OGE
 departments:
 - address:
-  - Diana J. Veilleux
-  - OGE FOIA Officer
-  - Suite 500
-  - 1201 New York Avenue, NW
-  - Washington, DC  20005-3917
+    address_lines:
+    - Diana J. Veilleux
+    - OGE FOIA Officer
+    - Suite 500
+    street: 1201 New York Avenue, NW
   emails:
   - usoge@oge.gov
   fax: 202-482-9237

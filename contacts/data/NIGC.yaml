@@ -1,17 +1,17 @@
 abbreviation: NIGC
 departments:
 - address:
-  - AnDrea Choate
-  - FOIA/PA and  Records Management Assistant
-  - Suite 9100
-  - 1441 L Street, NW
-  - Washington, DC  20005
+    address_lines:
+    - AnDrea Choate'
+    - FOIA/PA and  Records Management Assistant
+    - Suite 9100
+    street: 1441 L Street, NW
   emails:
   - Andrea_Choate@nigc.gov
   fax: 202-632-7066
   misc:
     FOIA/PA and  Records Management Assistant:
-      name: AnDrea Choate
+      name: AnDrea Choate'
       phone:
       - 202-632-7003
   name: National Indian Gaming Commission

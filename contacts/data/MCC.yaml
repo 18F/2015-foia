@@ -1,10 +1,13 @@
 abbreviation: MCC
 departments:
 - address:
-  - John Mantini
-  - Chief FOIA Officer
-  - 875 15th Street, NW
-  - Washington, DC 20005
+    address_lines:
+    - John Mantini
+    - Chief FOIA Officer
+    city: Washington
+    state: DC
+    street: 875 15th Street, NW
+    zip: '20005'
   emails:
   - foia@mcc.gov
   foia_officer:

@@ -1,11 +1,14 @@
 abbreviation: IAF
 departments:
 - address:
-  - Paul Zimmerman
-  - General Counsel
-  - 12th Floor North, Suite 1200
-  - 1331 Pennsylvania, NW
-  - Washington, DC 20004
+    address_lines:
+    - Paul Zimmerman
+    - General Counsel
+    - 12th Floor North, Suite 1200
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania, NW
+    zip: '20004'
   emails:
   - foia@iaf.gov
   misc:

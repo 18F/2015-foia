@@ -1,11 +1,14 @@
 abbreviation: DOS
 departments:
 - address:
-  - John F. Hackett
-  - Acting Director, Office of Information Programs and Services
-  - Building SA-2
-  - 515 22nd Street, NW
-  - Washington, DC 20522-8100
+    address_lines:
+    - John F. Hackett
+    - Acting Director, Office of Information Programs and Services
+    - Building SA-2
+    city: Washington
+    state: DC
+    street: 515 22nd Street, NW
+    zip: 20522-8100
   fax: 202-261-8579
   misc:
     Acting Director, Office of Information Programs and Services:
@@ -107,12 +110,15 @@ departments:
   top_level: false
   website: http://foia.state.gov/
 - address:
-  - 'ATTN:  Zipora Bullard'
-  - FOIA Office
-  - Department of State
-  - Office of Inspector General
-  - Office of General Counsel
-  - Washington, DC 20520-0308
+    address_lines:
+    - 'ATTN:  Zipora Bullard'
+    - FOIA Office
+    - Department of State
+    - Office of Inspector General
+    city: Washington
+    state: DC
+    street: Office of General Counsel
+    zip: 20520-0308
   emails:
   - oigfoia@state.gov
   fax: 202-663-0390

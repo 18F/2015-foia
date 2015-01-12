@@ -1,11 +1,14 @@
 abbreviation: CPSC
 departments:
 - address:
-  - Alberta E. Mills
-  - FOIA Officer
-  - U.S. Consumer Product Safety Commission
-  - 4330 East West Highway
-  - Bethesda, MD 20814-4408
+    address_lines:
+    - Alberta E. Mills
+    - FOIA Officer
+    - U.S. Consumer Product Safety Commission
+    city: Bethesda
+    state: MD
+    street: 4330 East West Highway
+    zip: 20814-4408
   emails:
   - cpsc-foia@cpsc.gov
   fax: 301-504-0127

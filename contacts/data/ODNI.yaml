@@ -1,9 +1,9 @@
 abbreviation: DNI
 departments:
 - address:
-  - Jennifer Hudson
-  - Director, Information Management Office
-  - Washington , DC  20511
+    address_lines:
+    - Jennifer Hudson
+    street: Director, Information Management Office
   emails:
   - dni-foia@dni.gov
   fax: 703-874-8910

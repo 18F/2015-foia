@@ -5,11 +5,14 @@ common_requests:
 - Purchase card use
 departments:
 - address:
-  - FOIA Contact
-  - FOIA Requester Service Center (H1C)
-  - Room 7308
-  - 1800 F. Street, NW
-  - Washington, DC 20405
+    address_lines:
+    - FOIA Contact
+    - FOIA Requester Service Center (H1C)
+    - Room 7308
+    city: Washington
+    state: DC
+    street: 1800 F. Street, NW
+    zip: '20405'
   emails:
   - gsa.foia@gsa.gov
   fax: 202-501-2727

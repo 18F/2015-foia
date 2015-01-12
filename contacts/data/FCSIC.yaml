@@ -1,10 +1,13 @@
 abbreviation: FCSIC
 departments:
 - address:
-  - Jeffrey C. Pienta
-  - Freedom of Information Officer
-  - 1501 Farm Credit Drive
-  - McLean, VA 22102-5090
+    address_lines:
+    - Jeffrey C. Pienta
+    - Freedom of Information Officer
+    city: McLean
+    state: VA
+    street: 1501 Farm Credit Drive
+    zip: 22102-5090
   emails:
   - FOIAOfficer@fcsic.gov
   fax: 703-790-0052

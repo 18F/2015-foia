@@ -1,11 +1,14 @@
 abbreviation: FCC
 departments:
 - address:
-  - Vanessa Lamb
-  - FOIA Contact
-  - Room 1-B135
-  - 445 12th Street, SW
-  - Washington, DC 20554
+    address_lines:
+    - Vanessa Lamb
+    - FOIA Contact
+    - Room 1-B135
+    city: Washington
+    state: DC
+    street: 445 12th Street, SW
+    zip: '20554'
   emails:
   - FOIA@fcc.gov
   fax: 202-418-0521

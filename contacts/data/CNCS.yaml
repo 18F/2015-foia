@@ -1,10 +1,13 @@
 abbreviation: CNCS
 departments:
 - address:
-  - Freedom of Information Act Officer, Office of the General Counsel
-  - Room 10606
-  - 1201 New York Avenue, NW
-  - Washington, DC 20525
+    address_lines:
+    - Freedom of Information Act Officer, Office of the General Counsel
+    - Room 10606
+    city: Washington
+    state: DC
+    street: 1201 New York Avenue, NW
+    zip: '20525'
   emails:
   - foia@cns.gov
   fax: 202-606-3467

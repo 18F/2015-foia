@@ -1,11 +1,14 @@
 abbreviation: SEC
 departments:
 - address:
-  - John Livornese
-  - FOIA Officer, Office of FOIA Services
-  - Mail Stop 2736
-  - 100 F Street, NE
-  - Washington, DC 20549-2736
+    address_lines:
+    - John Livornese
+    - FOIA Officer, Office of FOIA Services
+    - Mail Stop 2736
+    city: Washington
+    state: DC
+    street: 100 F Street, NE
+    zip: 20549-2736
   emails:
   - foiapa@sec.gov
   fax: 202-772-9337

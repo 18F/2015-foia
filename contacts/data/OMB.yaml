@@ -1,11 +1,14 @@
 abbreviation: OMB
 departments:
 - address:
-  - Dionne Hardy
-  - FOIA Officer
-  - Room 9026
-  - 725 17th Street, NW
-  - Washington, DC 20503
+    address_lines:
+    - Dionne Hardy
+    - FOIA Officer
+    - Room 9026
+    city: Washington
+    state: DC
+    street: 725 17th Street, NW
+    zip: '20503'
   emails:
   - OMBFOIA@omb.eop.gov
   fax: 202-395-3504

@@ -279,7 +279,9 @@ def parse_agency(abb, doc):
     for option in doc("option")[1:]:
         opt_id = option['value']
         elem = doc(id=opt_id)[0]
-        dept_name = option.string.strip()
+        # Needed to replace the ? with - in order to
+        # accomate Carlsbad Field Office
+        dept_name = option.string.strip().replace('?', '–')
         departments.append(parse_department(elem, dept_name))
 
     agency = {"abbreviation": abb,

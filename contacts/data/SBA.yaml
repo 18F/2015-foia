@@ -1,10 +1,13 @@
 abbreviation: SBA
 departments:
 - address:
-  - Lisa Babcock
-  - Chief, Office of FOI/PA
-  - 409 3rd Street, SW
-  - Washington, DC 20416
+    address_lines:
+    - Lisa Babcock
+    - Chief, Office of FOI/PA
+    city: Washington
+    state: DC
+    street: 409 3rd Street, SW
+    zip: '20416'
   emails:
   - foia@sba.gov
   fax: 202-205-7059

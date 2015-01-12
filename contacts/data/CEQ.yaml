@@ -1,10 +1,13 @@
 abbreviation: CEQ
 departments:
 - address:
-  - Brooke Dorner
-  - Chief FOIA Officer/Attorney-Advisor
-  - 722 Jackson Place, NW
-  - Washington, DC 20503
+    address_lines:
+    - Brooke Dorner
+    - Chief FOIA Officer/Attorney-Advisor
+    city: Washington
+    state: DC
+    street: 722 Jackson Place, NW
+    zip: '20503'
   emails:
   - efoia@ceq.eop.gov
   fax: 202-456-0753

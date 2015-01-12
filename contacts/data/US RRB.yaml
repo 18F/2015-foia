@@ -1,10 +1,13 @@
 abbreviation: RRB
 departments:
 - address:
-  - Eric Wooden
-  - FOIA Officer
-  - 844 North Rush Street
-  - Chicago, IL 60611-2092
+    address_lines:
+    - Eric Wooden
+    - FOIA Officer
+    city: Chicago
+    state: IL
+    street: 844 North Rush Street
+    zip: 60611-2092
   fax: 312-751-7102
   foia_officer:
     name: Eric Wooden
@@ -26,10 +29,13 @@ departments:
   top_level: false
   website: http://www.rrb.gov/blaw/foia/foia.asp
 - address:
-  - Freedom of Information Officer
-  - Room 450
-  - 844 North Rush Street
-  - Chicago, IL 60611-2092
+    address_lines:
+    - Freedom of Information Officer
+    - Room 450
+    city: Chicago
+    state: IL
+    street: 844 North Rush Street
+    zip: 60611-2092
   misc:
     Freedom of Information Officer:
       phone:

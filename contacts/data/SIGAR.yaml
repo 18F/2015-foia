@@ -1,10 +1,13 @@
 abbreviation: SIGAR
 departments:
 - address:
-  - FOIA Contact
-  - Office of Privacy, Records and Disclosure
-  - 2530 Crystal Drive
-  - Arlington, VA 22202
+    address_lines:
+    - FOIA Contact
+    - Office of Privacy, Records and Disclosure
+    city: Arlington
+    state: VA
+    street: 2530 Crystal Drive
+    zip: '22202'
   emails:
   - sigar.pentagon.gen-coun.mbx.foia@mail.mil
   fax: 703-601-3804

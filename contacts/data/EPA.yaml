@@ -1,17 +1,23 @@
 abbreviation: EPA
 address:
-- Larry Gottesman
-- National Freedom of Information Officer
-- (2822T)
-- 1200 Pennsylvania Avenue, NW
-- Washington, DC 20460
-departments:
-- address:
+  address_lines:
   - Larry Gottesman
   - National Freedom of Information Officer
   - (2822T)
-  - 1200 Pennsylvania Avenue, NW
-  - Washington, DC 20460
+  city: Washington
+  state: DC
+  street: 1200 Pennsylvania Avenue, NW
+  zip: '20460'
+departments:
+- address:
+    address_lines:
+    - Larry Gottesman
+    - National Freedom of Information Officer
+    - (2822T)
+    city: Washington
+    state: DC
+    street: 1200 Pennsylvania Avenue, NW
+    zip: '20460'
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -114,11 +120,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 1 (OARM01-6)
-  - Suite 100
-  - 5 Post Office Square
-  - Boston, MA 02109-3912
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 1 (OARM01-6)
+    - Suite 100
+    city: Boston
+    state: MA
+    street: 5 Post Office Square
+    zip: 02109-3912
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -213,11 +222,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/ne/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 2
-  - 26th Floor
-  - 290 Broadway
-  - New York, NY 10007-1866
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 2
+    - 26th Floor
+    city: New York
+    state: NY
+    street: 290 Broadway
+    zip: 10007-1866
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -316,11 +328,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region02/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 3
-  - (3C610)
-  - 1650 Arch Street
-  - Philadelphia, PA 19103
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 3
+    - (3C610)
+    city: Philadelphia
+    state: PA
+    street: 1650 Arch Street
+    zip: '19103'
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -423,11 +438,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region03/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 4
-  - AFC Building, 9th Floor (4PM/IF)
-  - 61 Forsyth Street, SW
-  - Atlanta, GA 30303-8960
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 4
+    - AFC Building, 9th Floor (4PM/IF)
+    city: Atlanta
+    state: GA
+    street: 61 Forsyth Street, SW
+    zip: 30303-8960
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -524,11 +542,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region4/foiapgs
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 5
-  - (MI-9)
-  - 77 West Jackson Boulevard
-  - Chicago, IL 60604-3590
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 5
+    - (MI-9)
+    city: Chicago
+    state: IL
+    street: 77 West Jackson Boulevard
+    zip: 60604-3590
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -633,11 +654,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region5/foia.htm
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 6
-  - (6MD-OE)
-  - 1445 Ross Avenue
-  - Dallas, TX 75202-2733
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 6
+    - (6MD-OE)
+    city: Dallas
+    state: TX
+    street: 1445 Ross Avenue
+    zip: 75202-2733
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -733,10 +757,13 @@ departments:
   top_level: false
   website: http://www.epa.gov/earth1r6/6md/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 7
-  - 11201 Renner Boulevard
-  - Lenexa, KS 66219
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 7
+    city: Lenexa
+    state: KS
+    street: 11201 Renner Boulevard
+    zip: '66219'
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -835,10 +862,13 @@ departments:
   top_level: false
   website: http://www.epa.gov/region07/citizens/foia/index.htm
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 8
-  - 1595 Wynkoop Street
-  - Denver, CO 80202-1129
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 8
+    city: Denver
+    state: CO
+    street: 1595 Wynkoop Street
+    zip: 80202-1129
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -930,11 +960,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region8/epa-region-8-foia-office-contact
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 9
-  - (OPPA-2)
-  - 75 Hawthorne Street
-  - San Francisco, CA 94105
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 9
+    - (OPPA-2)
+    city: San Francisco
+    state: CA
+    street: 75 Hawthorne Street
+    zip: '94105'
   emails:
   - williams.deborah@epa.gov
   misc:
@@ -1030,11 +1063,14 @@ departments:
   top_level: false
   website: http://www.epa.gov/region09/foia/index.html
 - address:
-  - Regional Freedom of Information Officer
-  - U.S. EPA, Region 10
-  - Office of External Affairs
-  - 1200 6th Avenue (CEC-142)
-  - Seattle , WA 98101
+    address_lines:
+    - Regional Freedom of Information Officer
+    - U.S. EPA, Region 10
+    - Office of External Affairs
+    city: 'Seattle '
+    state: WA
+    street: 1200 6th Avenue (CEC-142)
+    zip: '98101'
   emails:
   - williams.deborah@epa.gov
   misc:

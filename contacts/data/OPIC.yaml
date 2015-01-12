@@ -1,10 +1,13 @@
 abbreviation: OPIC
 departments:
 - address:
-  - Nichole Cadiente
-  - FOIA Director
-  - 1100 New York Avenue, NW
-  - Washington, DC 20527
+    address_lines:
+    - Nichole Cadiente
+    - FOIA Director
+    city: Washington
+    state: DC
+    street: 1100 New York Avenue, NW
+    zip: '20527'
   emails:
   - FOIA@opic.gov
   misc:

@@ -1,17 +1,23 @@
 abbreviation: EEOC
 address:
-- Stephanie Garner
-- Assistant Legal Counsel/FOIA, OLC/FOIA Programs
-- Suite 5NW02E
-- 131 M Street, NE
-- Washington, DC 20507
+  address_lines:
+  - Stephanie Garner
+  - Assistant Legal Counsel/FOIA, OLC/FOIA Programs
+  - Suite 5NW02E
+  city: Washington
+  state: DC
+  street: 131 M Street, NE
+  zip: '20507'
 departments:
 - address:
-  - Stephanie Garner
-  - Assistant Legal Counsel/FOIA
-  - Suite 5NW02E
-  - 131 M Street, NE
-  - Washington, DC 20507
+    address_lines:
+    - Stephanie Garner
+    - Assistant Legal Counsel/FOIA
+    - Suite 5NW02E
+    city: Washington
+    state: DC
+    street: 131 M Street, NE
+    zip: '20507'
   emails:
   - FOIA@EEOC.gov
   fax: 202-663-4679
@@ -39,11 +45,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
 - address:
-  - William Batts
-  - Enforcement Manager
-  - Suite 4R30
-  - 100 Alabama Street, SW
-  - Atlanta, GA 30303
+    address_lines:
+    - William Batts
+    - Enforcement Manager
+    - Suite 4R30
+    city: Atlanta
+    state: GA
+    street: 100 Alabama Street, SW
+    zip: '30303'
   emails:
   - ATLAFOIA@eeoc.gov
   fax: 404-562-6909
@@ -113,11 +122,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/atlanta/foia.cfm
 - address:
-  - Willie Alford
-  - Records Disclosure Coordinator
-  - Ridge Park Place, Suite 2000
-  - 1130 22nd Street
-  - Birmingham, AL 35205
+    address_lines:
+    - Willie Alford
+    - Records Disclosure Coordinator
+    - Ridge Park Place, Suite 2000
+    city: Birmingham
+    state: AL
+    street: 1130 22nd Street
+    zip: '35205'
   emails:
   - BIRMFOIA@eeoc.gov
   fax: 205-212-2105
@@ -191,11 +203,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - address:
-  - Joyce Stafford
-  - Records Disclosure Coordinator
-  - Suite 400
-  - 129 West Trade Street
-  - Charlotte, NC 28202
+    address_lines:
+    - Joyce Stafford
+    - Records Disclosure Coordinator
+    - Suite 400
+    city: Charlotte
+    state: NC
+    street: 129 West Trade Street
+    zip: '28202'
   emails:
   - CHARFOIA@eeoc.gov
   fax: 704-344-6734
@@ -270,11 +285,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/charlotte/foia.cfm
 - address:
-  - Sylvia Bustos
-  - Records Disclosure Coordinator
-  - Suite 2000
-  - 500 West Madison Street
-  - Chicago, IL 60661
+    address_lines:
+    - Sylvia Bustos
+    - Records Disclosure Coordinator
+    - Suite 2000
+    city: Chicago
+    state: IL
+    street: 500 West Madison Street
+    zip: '60661'
   emails:
   - CHICFOIA@eeoc.gov
   - MILWFOIA@eeoc.gov
@@ -346,11 +364,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/chicago/foia.cfm
 - address:
-  - Peter Robinson
-  - Records Disclosure Coordinator
-  - 3rd Floor
-  - 207 S. Houston Street
-  - Dallas, TX 75202-4726
+    address_lines:
+    - Peter Robinson
+    - Records Disclosure Coordinator
+    - 3rd Floor
+    city: Dallas
+    state: TX
+    street: 207 S. Houston Street
+    zip: 75202-4726
   emails:
   - dallasfoia@eeoc.gov
   fax: 202-663-4639
@@ -424,11 +445,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/dallas/foia.cfm
 - address:
-  - Susam Velasquez
-  - Records Disclosure Coordinator
-  - Mickey Leland Federal Building, 7th Floor
-  - 1919 Smith Street
-  - Houston, TX 77002-8049
+    address_lines:
+    - Susam Velasquez
+    - Records Disclosure Coordinator
+    - Mickey Leland Federal Building, 7th Floor
+    city: Houston
+    state: TX
+    street: 1919 Smith Street
+    zip: 77002-8049
   emails:
   - HOUSFOIA@eeoc.gov
   fax: 713-209-3381
@@ -502,11 +526,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/houston/foia.cfm
 - address:
-  - Janice Andrews
-  - Records Disclosure Coordinator
-  - Suite 1900
-  - 101 West Ohio Street
-  - Indianapolis, IN 46204-4203
+    address_lines:
+    - Janice Andrews
+    - Records Disclosure Coordinator
+    - Suite 1900
+    city: Indianapolis
+    state: IN
+    street: 101 West Ohio Street
+    zip: 46204-4203
   emails:
   - INDIFOIA@eeoc.gov
   - DETRFOIA@eeoc.gov
@@ -582,11 +609,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - address:
-  - Lenee Sweeney
-  - Records Disclosure Coordinator
-  - 4th Floor
-  - 255 E. Temple Street
-  - Los Angeles, CA 90012
+    address_lines:
+    - Lenee Sweeney
+    - Records Disclosure Coordinator
+    - 4th Floor
+    city: Los Angeles
+    state: CA
+    street: 255 E. Temple Street
+    zip: '90012'
   emails:
   - LOSAFOIA@eeoc.gov
   fax: 213-894-1118
@@ -661,11 +691,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - address:
-  - Audrey Bonner
-  - Enforcement Manager
-  - Suite 900
-  - 1407 Union Avenue
-  - Memphis, TN 38104
+    address_lines:
+    - Audrey Bonner
+    - Enforcement Manager
+    - Suite 900
+    city: Memphis
+    state: TN
+    street: 1407 Union Avenue
+    zip: '38104'
   emails:
   - MEMPFOIA@eeoc.gov
   fax: 901-544-0111
@@ -735,11 +768,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/memphis/foia.cfm
 - address:
-  - Carmen Figueroa-Martinez
-  - Records Disclosure Coordinator
-  - One Biscayne Tower, Suite 2700
-  - 2 South Biscayne Boulevard
-  - Miami, FL 33131
+    address_lines:
+    - Carmen Figueroa-Martinez
+    - Records Disclosure Coordinator
+    - One Biscayne Tower, Suite 2700
+    city: Miami
+    state: FL
+    street: 2 South Biscayne Boulevard
+    zip: '33131'
   emails:
   - MIAMFOIA@eeoc.gov
   - PUERFOIA@eeoc.gov
@@ -814,11 +850,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/miami/foia.cfm
 - address:
-  - David Phillips
-  - Records Disclosure Coordinator
-  - 5th Floor
-  - 33 Whitehall Street
-  - New York, NY 10004
+    address_lines:
+    - David Phillips
+    - Records Disclosure Coordinator
+    - 5th Floor
+    city: New York
+    state: NY
+    street: 33 Whitehall Street
+    zip: '10004'
   emails:
   - NEWYFOIA@eeoc.gov
   fax: 212-336-3625
@@ -892,11 +931,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/newyork/foia.cfm
 - address:
-  - Fredericka Warren
-  - Records Disclosure Coordinator
-  - Suite 1300
-  - 801 Market Street
-  - Philadelphia, PA 19107-3127
+    address_lines:
+    - Fredericka Warren
+    - Records Disclosure Coordinator
+    - Suite 1300
+    city: Philadelphia
+    state: PA
+    street: 801 Market Street
+    zip: 19107-3127
   emails:
   - PHILFOIA@eeoc.gov
   fax: 215-440-2847
@@ -967,11 +1009,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - address:
-  - Silvia M. Hart
-  - Records Disclosure Officer
-  - Suite 690
-  - 3300 N. Central Avenue
-  - Phoenix, AZ 85012-2504
+    address_lines:
+    - Silvia M. Hart
+    - Records Disclosure Officer
+    - Suite 690
+    city: Phoenix
+    state: AZ
+    street: 3300 N. Central Avenue
+    zip: 85012-2504
   emails:
   - phoenixfoia@eeoc.gov
   fax: 602-640-5071
@@ -1041,11 +1086,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/phoenix/foia.cfm
 - address:
-  - Vincent Clark
-  - Records Disclosure Coordinator
-  - Suite 500
-  - 350 The Embarcadero
-  - San Francisco, CA 94105-1260
+    address_lines:
+    - Vincent Clark
+    - Records Disclosure Coordinator
+    - Suite 500
+    city: San Francisco
+    state: CA
+    street: 350 The Embarcadero
+    zip: 94105-1260
   emails:
   - SANFFOIA@eeoc.gov
   fax: 415-625-5609
@@ -1116,11 +1164,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - address:
-  - Inez Shiloah
-  - Records Disclosure Coordinator
-  - Robert A. Young, Room 8100
-  - 1222 Spruce Street
-  - St. Louis, MO 63103
+    address_lines:
+    - Inez Shiloah
+    - Records Disclosure Coordinator
+    - Robert A. Young, Room 8100
+    city: St. Louis
+    state: MO
+    street: 1222 Spruce Street
+    zip: '63103'
   emails:
   - STLOFOIA@eeoc.gov
   fax: 314-539-7893
@@ -1190,11 +1241,14 @@ departments:
   top_level: false
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - address:
-  - Betsy Parrish
-  - Records Disclosure Coordinator
-  - Suite 4NE29F
-  - 131 M Street, NE
-  - Washington, DC 20507
+    address_lines:
+    - Betsy Parrish
+    - Records Disclosure Coordinator
+    - Suite 4NE29F
+    city: Washington
+    state: DC
+    street: 131 M Street, NE
+    zip: '20507'
   emails:
   - WASHFOIA@eeoc.gov
   fax: 202-663-4639

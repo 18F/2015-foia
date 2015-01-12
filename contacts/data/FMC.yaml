@@ -1,10 +1,13 @@
 abbreviation: FMC
 departments:
 - address:
-  - Karen Gregory
-  - Secretary
-  - 800 North Capitol Street, NW
-  - Washington, DC 20573
+    address_lines:
+    - Karen Gregory
+    - Secretary
+    city: Washington
+    state: DC
+    street: 800 North Capitol Street, NW
+    zip: '20573'
   emails:
   - FOIA@fmc.gov
   fax: 202-523-0014

@@ -1,11 +1,14 @@
 abbreviation: ONHIR
 departments:
 - address:
-  - Scott Kuhr
-  - Freedom of Information/Privacy Act Officer
-  - P.O. Box KK
-  - 201 E. Birch Avenue
-  - Flagstaff, AZ 86002
+    address_lines:
+    - Scott Kuhr
+    - Freedom of Information/Privacy Act Officer
+    - P.O. Box KK
+    city: Flagstaff
+    state: AZ
+    street: 201 E. Birch Avenue
+    zip: '86002'
   emails:
   - eligilility@onhir.gov
   fax: 978-774-1977

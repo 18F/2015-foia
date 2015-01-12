@@ -1,11 +1,14 @@
 abbreviation: FRTIB
 departments:
 - address:
-  - Amanda Haas
-  - Chief FOIA Officer
-  - 10th Floor
-  - 77 K Street, NE
-  - Washington, DC 20002
+    address_lines:
+    - Amanda Haas
+    - Chief FOIA Officer
+    - 10th Floor
+    city: Washington
+    state: DC
+    street: 77 K Street, NE
+    zip: '20002'
   fax: 202-942-1676
   foia_officer:
     name: Amanda Haas

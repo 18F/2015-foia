@@ -1,18 +1,24 @@
 abbreviation: DOJ
 address:
-- FOIA/PA Mail Referral Unit
-- Justice Management Division
-- Room 115
-- LOC Building
-- Washington, DC 20530-0001
+  address_lines:
+  - FOIA/PA Mail Referral Unit
+  - Justice Management Division
+  - Room 115
+  city: Washington
+  state: DC
+  street: LOC Building
+  zip: 20530-0001
 departments:
 - abbreviation: ''
   address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   description: The Attorney General is responsible for the overall supervision and
     direction of the administration and operation of the Department. The Attorney
     General represents the United States in legal matters generally and furnishes
@@ -120,11 +126,14 @@ departments:
   top_level: true
   website: http://www.justice.gov/ag/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy:
@@ -226,11 +235,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/dag/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy:
@@ -323,11 +335,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/asg/foia.htm
 - address:
-  - Sue Ann Slates
-  - Chief, FOIA/PA Unit
-  - Liberty Square Building
-  - Suite 1000, 450 5th Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Sue Ann Slates
+    - Chief, FOIA/PA Unit
+    - Liberty Square Building
+    city: Washington
+    state: DC
+    street: Suite 1000, 450 5th Street, NW
+    zip: 20530-0001
   emails:
   - antitrust.foia@usdoj.gov
   fax: 202-616-4529
@@ -411,11 +426,14 @@ departments:
   website: http://www.justice.gov/atr/foia/index.html
 - abbreviation: ATF
   address:
-  - Stephanie Boucher
-  - Division Chief
-  - Room 1E-400
-  - 99 New York Avenue, NE
-  - Washington, DC 20226
+    address_lines:
+    - Stephanie Boucher
+    - Division Chief
+    - Room 1E-400
+    city: Washington
+    state: DC
+    street: 99 New York Avenue, NE
+    zip: '20226'
   description: The Bureau of Alcohol, Tobacco, Firearms, and Explosives enforces federal
     criminal laws regulating the firearms and explosives industries.
   emails:
@@ -548,11 +566,14 @@ departments:
   usa_id: '49081'
   website: http://www.atf.gov/content/contact-us/FOIA
 - address:
-  - James M. Kovakas
-  - Freedom of Information/Privacy Act Office
-  - Room 8020
-  - 1100 L Street, NW
-  - Washington, DC 20035
+    address_lines:
+    - James M. Kovakas
+    - Freedom of Information/Privacy Act Office
+    - Room 8020
+    city: Washington
+    state: DC
+    street: 1100 L Street, NW
+    zip: '20035'
   emails:
   - Civil.routing.FOIA@usdoj.gov
   fax: 202-305-3291
@@ -627,11 +648,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/civil/foia.html
 - address:
-  - Nelson D. Hermilla
-  - Chief, FOI/PA Branch
-  - BICN Bldg., Room 3219B
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Nelson D. Hermilla
+    - Chief, FOI/PA Branch
+    - BICN Bldg., Room 3219B
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - CRT.FOIArequests@usdoj.gov
   fax: 202-514-6195
@@ -715,11 +739,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/crt/foia/index.php
 - address:
-  - Irene Kho
-  - FOIA/PA Coordinator
-  - Suite 6000
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Irene Kho
+    - FOIA/PA Coordinator
+    - Suite 6000
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - CRS.FOIA@usdoj.gov
   misc:
@@ -785,11 +812,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/crs/foia.htm
 - address:
-  - Kenneth Courter
-  - Chief, FOIA/PA Unit
-  - Suite 1127
-  - Keeney Building, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Kenneth Courter
+    - Chief, FOIA/PA Unit
+    - Suite 1127
+    city: Washington
+    state: DC
+    street: Keeney Building, NW
+    zip: 20530-0001
   emails:
   - crm.foia@usdoj.gov
   fax: 202-514-6117
@@ -885,10 +915,13 @@ departments:
   website: http://www.justice.gov/criminal/foia/
 - abbreviation: DEA
   address:
-  - Katherine L. Myrick
-  - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
-  - 8701 Morrissette Drive
-  - Springfield, VA 22152
+    address_lines:
+    - Katherine L. Myrick
+    - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
+    city: Springfield
+    state: VA
+    street: 8701 Morrissette Drive
+    zip: '22152'
   description: The Drug Enforcement Administration enforces the United States' controlled
     substance laws and regulations and aims to reduce the supply of and demand for
     such substances.
@@ -997,10 +1030,13 @@ departments:
   usa_id: '52688'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - address:
-  - Sarah Lu
-  - FOIA Coordinator, Law and Policy Section
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Sarah Lu
+    - FOIA Coordinator, Law and Policy Section
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - FOIARouting.enrd@usdoj.gov
   fax: 202-514-4231
@@ -1089,11 +1125,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/enrd/ENRD_FOIA.html
 - address:
-  - Cecelia Espenoza
-  - Senior Associate General Counsel, Office of the General Counsel
-  - Suite 1903
-  - 5107 Leesburg Pike
-  - Falls Church, VA 20503
+    address_lines:
+    - Cecelia Espenoza
+    - Senior Associate General Counsel, Office of the General Counsel
+    - Suite 1903
+    city: Falls Church
+    state: VA
+    street: 5107 Leesburg Pike
+    zip: '20503'
   emails:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
@@ -1210,11 +1249,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/eoir/mainfoia.html
 - address:
-  - Jill Aronica
-  - FOIA Officer
-  - Suite 1060
-  - 1331 Pennsylvania Ave.
-  - Washington, DC 20530
+    address_lines:
+    - Jill Aronica
+    - FOIA Officer
+    - Suite 1060
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania Ave.
+    zip: '20530'
   emails:
   - ocdetf.foia@usdoj.gov
   foia_officer:
@@ -1265,11 +1307,14 @@ departments:
     - 202-514-0296
   top_level: false
 - address:
-  - Susan B. Gerson
-  - Acting Assistant Director, FOIA/Privacy Unit
-  - Room 7300
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Susan B. Gerson
+    - Acting Assistant Director, FOIA/Privacy Unit
+    - Room 7300
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
   fax: 202-252-6047
@@ -1348,11 +1393,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/usao/resources/
 - address:
-  - Mary Snyder Barry
-  - FOIA Counsel, Office of the General Counsel
-  - Suite 6150
-  - 441 G Street, NW
-  - Washington, DC 20530
+    address_lines:
+    - Mary Snyder Barry
+    - FOIA Counsel, Office of the General Counsel
+    - Suite 6150
+    city: Washington
+    state: DC
+    street: 441 G Street, NW
+    zip: '20530'
   emails:
   - USTPFOIA.Requests@usdoj.gov
   fax: 202-307-2397
@@ -1436,10 +1484,13 @@ departments:
   website: http://www.justice.gov/ust/eo/foia/index.htm
 - abbreviation: FBI
   address:
-  - David M. Hardy
-  - Chief, Record/Information Dissemination Section, Records Management Division
-  - 170 Marcel Drive
-  - Winchester, VA 22602-4843
+    address_lines:
+    - David M. Hardy
+    - Chief, Record/Information Dissemination Section, Records Management Division
+    city: Winchester
+    state: VA
+    street: 170 Marcel Drive
+    zip: 22602-4843
   description: As an intelligence-driven and a threat-focused national security organization
     with both intelligence and law enforcement responsibilities, the mission of the
     FBI is to protect and defend the United States against terrorist and foreign intelligence
@@ -1569,11 +1620,14 @@ departments:
   website: http://www.fbi.gov/foia/
 - abbreviation: BOP
   address:
-  - Wanda M. Hunt
-  - Chief, FOIA/PA Section
-  - Room 924, HOLC Building
-  - 320 First Street, NW
-  - Washington, DC 20534
+    address_lines:
+    - Wanda M. Hunt
+    - Chief, FOIA/PA Section
+    - Room 924, HOLC Building
+    city: Washington
+    state: DC
+    street: 320 First Street, NW
+    zip: '20534'
   description: The Bureau of Prisons manages federal prisons, and community-based
     facilities that provide work and opportunities to assist offenders.
   emails:
@@ -1683,11 +1737,14 @@ departments:
   usa_id: '49126'
   website: http://www.bop.gov/foia/index.jsp
 - address:
-  - Jeremy LaFrancois
-  - Chief Administrative Counsel
-  - Room 6002
-  - 600 E Street, NW
-  - Washington, DC 20579-0001
+    address_lines:
+    - Jeremy LaFrancois
+    - Chief Administrative Counsel
+    - Room 6002
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20579-0001
   emails:
   - info.fcsc@usdoj.gov
   fax: 202-616-6993
@@ -1742,10 +1799,13 @@ departments:
   top_level: false
   website: http://www.justice.gov/fcsc/foia.htm
 - address:
-  - FOIA/PA Specialist, Office of General Counsel
-  - INTERPOL Washington
-  - U.S. Department of Justice
-  - Washington, DC 20530-0001
+    address_lines:
+    - FOIA/PA Specialist, Office of General Counsel
+    - INTERPOL Washington
+    city: Washington
+    state: DC
+    street: U.S. Department of Justice
+    zip: 20530-0001
   emails:
   - Interpol-USNCB.FOIA@usdoj.gov
   fax: 202-616-1357
@@ -1839,11 +1899,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/interpol-washington/foia.html
 - address:
-  - Karen McFadden
-  - FOIA Contact
-  - Room 8E.104, 2 Consitution Square
-  - 145 N Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Karen McFadden
+    - FOIA Contact
+    - Room 8E.104, 2 Consitution Square
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: '20530'
   emails:
   - JMDFOIA@usdoj.gov
   fax: 202-616-6695
@@ -1928,11 +1991,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/jmd/foia.htm
 - address:
-  - Arnetta Mallory
-  - FOIA Initiatives Coordinator
-  - Room 10702
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Arnetta Mallory
+    - FOIA Initiatives Coordinator
+    - Room 10702
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - nsdfoia@usdoj.gov
   misc:
@@ -2029,11 +2095,14 @@ departments:
   website: http://www.justice.gov/nsd/foia/foia.htm
 - abbreviation: COPS
   address:
-  - Melissa Fieri-Fetrow
-  - FOIA/PA Officer - Legal Division
-  - 'Two Constitution Square, #11E 1405'
-  - 145 N Street, NE
-  - Washington, DC 20530-0001
+    address_lines:
+    - Melissa Fieri-Fetrow
+    - FOIA/PA Officer - Legal Division
+    - 'Two Constitution Square, #11E 1405'
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: 20530-0001
   description: The Office of Community Oriented Policing Services advances the practice
     of community policing through sharing information and making grants to police
     departments in the United States.
@@ -2089,11 +2158,14 @@ departments:
   usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
     Chief of Staff:
@@ -2179,11 +2251,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/oip/
 - address:
-  - Deborah M. Waller
-  - Government Information Specialist
-  - Room 4728
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Deborah M. Waller
+    - Government Information Specialist
+    - Room 4728
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - oigfoia@usdoj.gov
   fax: 202-616-9152
@@ -2266,11 +2341,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/oig/foia/
 - address:
-  - Dorothy Lee
-  - Government Information Specialist
-  - Room 5400
-  - 810 7th Street, NW
-  - Washington, DC 20531
+    address_lines:
+    - Dorothy Lee
+    - Government Information Specialist
+    - Room 5400
+    city: Washington
+    state: DC
+    street: 810 7th Street, NW
+    zip: '20531'
   emails:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
@@ -2371,11 +2449,14 @@ departments:
   top_level: false
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - address:
-  - Bette Farris
-  - Supervisory Paralegal
-  - Room 5515
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Bette Farris
+    - Supervisory Paralegal
+    - Room 5515
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - usdoj-officeoflegalcounsel@usdoj.gov
   misc:
@@ -2467,11 +2548,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/olc/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy:
@@ -2567,11 +2651,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/olp/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   emails: []
   fax: 202-514-1009
   misc:
@@ -2674,11 +2761,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/ola/ola-foia.htm
 - address:
-  - Linda M.V. Bowe
-  - FOIA Officer
-  - Suite 11000
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Linda M.V. Bowe
+    - FOIA Officer
+    - Suite 11000
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   emails:
   - PardonAttorneyFOIA@usdoj.gov
   fax: 202-616-6069
@@ -2742,11 +2832,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/pardon/pardon_foia.htm
 - address:
-  - Lyn Hardy
-  - Senior Counsel
-  - Suite 3266
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Lyn Hardy
+    - Senior Counsel
+    - Suite 3266
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - OPR.FOIA@usdoj.gov
   fax: 202-514-5050
@@ -2837,11 +2930,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/opr/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
     Chief of Staff, Office of Information Policy:
@@ -2937,10 +3033,13 @@ departments:
   top_level: false
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
 - address:
-  - James K. Davis
-  - FOIA Coordinator
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - James K. Davis
+    - FOIA Coordinator
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - OSGFOIA@usdoj.gov
   misc:
@@ -3022,11 +3121,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/osg/foia.html
 - address:
-  - Susan B. Gerson
-  - Acting Assistant Director, FOIA/Privacy Unit
-  - Room 7300
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Susan B. Gerson
+    - Acting Assistant Director, FOIA/Privacy Unit
+    - Room 7300
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
   misc:
@@ -3049,11 +3151,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/
 - address:
-  - Catherine Poston
-  - Attorney Advisor
-  - Suite 10W.121
-  - 145 N Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Catherine Poston
+    - Attorney Advisor
+    - Suite 10W.121
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: '20530'
   emails:
   - OVW.FOIA@usdoj.gov
   misc:
@@ -3112,11 +3217,14 @@ departments:
   top_level: false
   website: http://www.ovw.usdoj.gov/ovwfoia.htm
 - address:
-  - Michael Kingsley
-  - Information Management Specialist
-  - Suite 12000
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Michael Kingsley
+    - Information Management Specialist
+    - Suite 12000
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: '20530'
   emails:
   - PRAO.FOIA@usdoj.gov
   fax: 202-353-7483
@@ -3175,11 +3283,14 @@ departments:
   top_level: false
   website: http://www.justice.gov/prao/foia.htm
 - address:
-  - Carmen M. Banerjee
-  - Division Counsel for FOIA and PA Matters
-  - P.O. Box 227
-  - Ben Franklin Station
-  - Washington, DC 20044
+    address_lines:
+    - Carmen M. Banerjee
+    - Division Counsel for FOIA and PA Matters
+    - P.O. Box 227
+    city: Washington
+    state: DC
+    street: Ben Franklin Station
+    zip: '20044'
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
   misc:
@@ -3262,11 +3373,14 @@ departments:
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
 - abbreviation: ''
   address:
-  - William E. Bordley
-  - Associate General Counsel, Office of General Counsel
-  - FOIA/PA, CS 4, 10th Floor
-  - 2604 Jefferson Davis Highway
-  - Alexandria, VA 22301
+    address_lines:
+    - William E. Bordley
+    - Associate General Counsel, Office of General Counsel
+    - FOIA/PA, CS 4, 10th Floor
+    city: Alexandria
+    state: VA
+    street: 2604 Jefferson Davis Highway
+    zip: '22301'
   description: Part of the Department of Justice, the Marshals Service is responsible
     for providing security to the federal judiciary, managing the witness security
     program, managing and selling the seized or forfeited assets of criminals, is
@@ -3371,11 +3485,14 @@ departments:
   usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
 - address:
-  - Anissa Banks
-  - FOIA/PA Specialist
-  - 3rd Floor
-  - 90 K Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Anissa Banks
+    - FOIA/PA Specialist
+    - 3rd Floor
+    city: Washington
+    state: DC
+    street: 90 K Street, NE
+    zip: '20530'
   emails:
   - USPC.FOIA@usdoj.gov
   keywords:

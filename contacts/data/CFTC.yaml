@@ -1,11 +1,14 @@
 abbreviation: CFTC
 departments:
 - address:
-  - FOIA Contact
-  - CFTC FOIA Compliance Office
-  - Three Lafayette Centre,
-  - 1155 21st Street, NW
-  - Washington, DC 20581
+    address_lines:
+    - FOIA Contact
+    - CFTC FOIA Compliance Office
+    - Three Lafayette Centre,
+    city: Washington
+    state: DC
+    street: 1155 21st Street, NW
+    zip: '20581'
   fax: 202-418-5524
   misc:
     CFTC FOIA Compliance Office:

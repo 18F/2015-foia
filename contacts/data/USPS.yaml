@@ -1,11 +1,14 @@
 abbreviation: USPS
 departments:
 - address:
-  - FOIA Contact
-  - Manager, Records Office
-  - Room 9431
-  - 475 L'Enfant Plaza, SW
-  - Washington, DC 20260-1101
+    address_lines:
+    - FOIA Contact
+    - Manager, Records Office
+    - Room 9431
+    city: Washington
+    state: DC
+    street: 475 L'Enfant Plaza, SW
+    zip: 20260-1101
   fax: 202-268-5353
   misc:
     Manager, Records Office:
@@ -25,11 +28,14 @@ departments:
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
-  - FOIA Contact
-  - St. Louis General Law Service Center
-  - Room 2400
-  - 1720 Market Street
-  - St. Louis, MO 63155-9948
+    address_lines:
+    - FOIA Contact
+    - St. Louis General Law Service Center
+    - Room 2400
+    city: St. Louis
+    state: MO
+    street: 1720 Market Street
+    zip: 63155-9948
   fax: 650-578-4956
   name: USPS Field Office
   phone: 314-345-5894
@@ -45,11 +51,14 @@ departments:
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - abbreviation: ''
   address:
-  - FOIA Contact
-  - Office of Counsel
-  - Room 3301
-  - 475 L´Enfant Plaza, SW
-  - Washington, DC 20260
+    address_lines:
+    - FOIA Contact
+    - Office of Counsel
+    - Room 3301
+    city: Washington
+    state: DC
+    street: 475 L´Enfant Plaza, SW
+    zip: '20260'
   description: The mission of the U.S. Postal Inspection Service is to support and
     protect the U.S. Postal Service and its employees, infrastructure, and customers;
     enforce the laws that defend the nation’s mail system from illegal or dangerous
@@ -122,11 +131,14 @@ departments:
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
-  - FOIA Contact
-  - FOIA Contact
-  - Suite 10000
-  - 1735 North Lynn Street
-  - Arlington , VA 22209-2020
+    address_lines:
+    - FOIA Contact
+    - FOIA Contact
+    - Suite 10000
+    city: 'Arlington '
+    state: VA
+    street: 1735 North Lynn Street
+    zip: 22209-2020
   emails:
   - FOIA@uspsoig.gov
   fax: 703-248-4626

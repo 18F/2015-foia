@@ -1,17 +1,23 @@
 abbreviation: HUD
 address:
-- Dolores W. Cole
-- Office of the Executive Secretariat, Headquarters
-- Room 10139
-- 451 7th Street, SW
-- Washington, DC 20410-3000
+  address_lines:
+  - Dolores W. Cole
+  - Office of the Executive Secretariat, Headquarters
+  - Room 10139
+  city: Washington
+  state: DC
+  street: 451 7th Street, SW
+  zip: 20410-3000
 departments:
 - address:
-  - Dolores Cole
-  - Office of the Executive Secretariat
-  - Room 10139
-  - 451 7th Street, SW
-  - Washington, DC 20410-3000
+    address_lines:
+    - Dolores Cole
+    - Office of the Executive Secretariat
+    - Room 10139
+    city: Washington
+    state: DC
+    street: 451 7th Street, SW
+    zip: 20410-3000
   fax: 202-619-8365
   misc:
     Office of the Executive Secretariat:
@@ -90,11 +96,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
 - address:
-  - Kristine G. Foye
-  - Deputy Regional Administrator
-  - Room 301
-  - 10 Causeway Street
-  - Boston, MA 02222-1092
+    address_lines:
+    - Kristine G. Foye
+    - Deputy Regional Administrator
+    - Room 301
+    city: Boston
+    state: MA
+    street: 10 Causeway Street
+    zip: 02222-1092
   misc:
     Deputy Regional Administrator:
       name: Kristine G. Foye
@@ -171,11 +180,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Mirza Morales
-  - Deputy Regional Administrator
-  - Suite 3541
-  - 26 Federal Plaza
-  - New York, NY 10278-0068
+    address_lines:
+    - Mirza Morales
+    - Deputy Regional Administrator
+    - Suite 3541
+    city: New York
+    state: NY
+    street: 26 Federal Plaza
+    zip: 10278-0068
   misc:
     Deputy Regional Administrator:
       name: Mirza Morales
@@ -252,10 +264,13 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Brenda Laroche
-  - Deputy Regional Administrator
-  - 100 Penn Square East Building
-  - Philadelphia, PA 10107
+    address_lines:
+    - Brenda Laroche
+    - Deputy Regional Administrator
+    city: Philadelphia
+    state: PA
+    street: 100 Penn Square East Building
+    zip: '10107'
   misc:
     Deputy Regional Administrator:
       name: Brenda Laroche
@@ -333,10 +348,13 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Thomacina Brown
-  - Supervisory Operations Officer
-  - 40 Marietta Street
-  - Atlanta, GA 30303
+    address_lines:
+    - Thomacina Brown
+    - Supervisory Operations Officer
+    city: Atlanta
+    state: GA
+    street: 40 Marietta Street
+    zip: '30303'
   misc:
     Supervisory Operations Officer:
       name: Thomacina Brown
@@ -414,11 +432,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Beverly Bishop
-  - Deputy Regional Director
-  - Suite 2608
-  - 77 W. Jackson Boulevard
-  - Chicago, IL 60604
+    address_lines:
+    - Beverly Bishop
+    - Deputy Regional Director
+    - Suite 2608
+    city: Chicago
+    state: IL
+    street: 77 W. Jackson Boulevard
+    zip: '60604'
   misc:
     Deputy Regional Director:
       name: Beverly Bishop
@@ -496,11 +517,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Patricia Campbell
-  - FOIA Liaison
-  - 'Unit #45, Suite 2500'
-  - 801 Cherry Street
-  - Ft. Worth, TX 76102
+    address_lines:
+    - Patricia Campbell
+    - FOIA Liaison
+    - 'Unit #45, Suite 2500'
+    city: Ft. Worth
+    state: TX
+    street: 801 Cherry Street
+    zip: '76102'
   misc:
     FOIA Liaison:
       name: Patricia Campbell
@@ -578,10 +602,13 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Eugene (Gene) Lipscomb
-  - Deputy Regional Administrator
-  - 400 State Avenue
-  - Kansas City, KS 66101
+    address_lines:
+    - Eugene (Gene) Lipscomb
+    - Deputy Regional Administrator
+    city: Kansas City
+    state: KS
+    street: 400 State Avenue
+    zip: '66101'
   misc:
     Deputy Regional Administrator:
       name: Eugene (Gene) Lipscomb
@@ -658,10 +685,13 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Deborah Griswold
-  - Deputy Regional Director
-  - 1670 Broadway
-  - Denver, CO 80202-4801
+    address_lines:
+    - Deborah Griswold
+    - Deputy Regional Director
+    city: Denver
+    state: CO
+    street: 1670 Broadway
+    zip: 80202-4801
   misc:
     Deputy Regional Director:
       name: Deborah Griswold
@@ -738,11 +768,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Suzie Hernandez
-  - FOIA Liaison
-  - John E. Moss Federal Building, Suite 4-200
-  - 650 Capitol Mall
-  - Sacramento, CA 95814-3702
+    address_lines:
+    - Suzie Hernandez
+    - FOIA Liaison
+    - John E. Moss Federal Building, Suite 4-200
+    city: Sacramento
+    state: CA
+    street: 650 Capitol Mall
+    zip: 95814-3702
   misc:
     FOIA Liaison:
       name: Suzie Hernandez
@@ -819,11 +852,14 @@ departments:
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-  - Patty Huster
-  - Regional Lead
-  - Suite 200
-  - 909 First Avenue
-  - Seattle , WA 98104-1000
+    address_lines:
+    - Patty Huster
+    - Regional Lead
+    - Suite 200
+    city: 'Seattle '
+    state: WA
+    street: 909 First Avenue
+    zip: 98104-1000
   misc:
     Regional Lead:
       name: Patty Huster

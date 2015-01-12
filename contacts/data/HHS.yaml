@@ -1,11 +1,11 @@
 abbreviation: HHS
 departments:
 - address:
-  - Michael Bell
-  - Acting FOIA Officer
-  - Mary E. Switzer Building, Room 2221
-  - 300 C Street, SW
-  - Washington, DC  20201
+    address_lines:
+    - Michael Bell
+    - Acting FOIA Officer
+    - Mary E. Switzer Building, Room 2221
+    street: 300 C Street, SW
   fax: 202-690-8320
   foia_officer:
     name: Michael Bell
@@ -102,11 +102,14 @@ departments:
   top_level: false
   website: http://www.hhs.gov/foia/index.html
 - address:
-  - Robin Brooks
-  - FOIA Officer
-  - Wilbur J. Cohen Building, Room 1062
-  - 330 Independence Avenue, SW
-  - Washington, DC 20201
+    address_lines:
+    - Robin Brooks
+    - FOIA Officer
+    - Wilbur J. Cohen Building, Room 1062
+    city: Washington
+    state: DC
+    street: 330 Independence Avenue, SW
+    zip: '20201'
   fax: 202-205-4030
   foia_officer:
     name: Robin Brooks
@@ -204,9 +207,12 @@ departments:
   website: http://oig.hhs.gov/foia/
 - abbreviation: ACL
   address:
-  - Jason Bennett
-  - Acting FOIA Officer
-  - Washington, DC 20201
+    address_lines:
+    - Jason Bennett
+    city: Washington
+    state: DC
+    street: Acting FOIA Officer
+    zip: '20201'
   description: ACL brings together the efforts and achievements of the Administration
     on Aging, the Administration on Intellectual and Developmental Disabilities, and
     the HHS Office on Disability to serve as the Federal agency responsible for increasing
@@ -251,11 +257,14 @@ departments:
   top_level: true
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
 - address:
-  - Kimberly N. Epstein
-  - FOIA Officer
-  - 7th Floor East, Aerospace Building
-  - 370 L'Enfant Promenade, S.W.
-  - Washington, DC 20447
+    address_lines:
+    - Kimberly N. Epstein
+    - FOIA Officer
+    - 7th Floor East, Aerospace Building
+    city: Washington
+    state: DC
+    street: 370 L'Enfant Promenade, S.W.
+    zip: '20447'
   emails:
   - foia@acf.hhs.gov
   fax: 202-401-4829
@@ -399,11 +408,14 @@ departments:
   website: https://www.acf.hhs.gov/freedom-of-information-act
 - abbreviation: AHRQ
   address:
-  - Carol Maloney
-  - FOIA Officer
-  - Suite 920
-  - 7700 Wisconsin Avenue
-  - Bethesda, MD 20857(if sending by courier use zc 20814)
+    address_lines:
+    - Carol Maloney
+    - FOIA Officer
+    - Suite 920
+    city: Bethesda
+    state: MD
+    street: 7700 Wisconsin Avenue
+    zip: '20857'
   description: The Agency for Healthcare Research and Quality supports research to
     improve the quality, safety, efficiency, and effectiveness of health care for
     all Americans.
@@ -497,11 +509,14 @@ departments:
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
 - abbreviation: CDC
   address:
-  - Katherine Norris
-  - FOIA Officer
-  - Building 16, D-54
-  - 1600 Clifton Road, N.E.
-  - Atlanta, GA 30333
+    address_lines:
+    - Katherine Norris
+    - FOIA Officer
+    - Building 16, D-54
+    city: Atlanta
+    state: GA
+    street: 1600 Clifton Road, N.E.
+    zip: '30333'
   description: CDC collaborates to create the expertise, information, and tools that
     people and communities need to protect their health through health promotion,
     prevention of disease, injury and disability, and preparedness for new health
@@ -626,11 +641,14 @@ departments:
   usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
-  - Katherine Norris
-  - FOIA Officer
-  - Building 16, D-54
-  - 1600 Clifton Road, N.E.
-  - Atlanta, GA 30333
+    address_lines:
+    - Katherine Norris
+    - FOIA Officer
+    - Building 16, D-54
+    city: Atlanta
+    state: GA
+    street: 1600 Clifton Road, N.E.
+    zip: '30333'
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -655,11 +673,14 @@ departments:
   website: http://www.cdc.gov/od/foia/index.htm
 - abbreviation: CMS
   address:
-  - Michael Marquis
-  - FOIA Officer
-  - North Building, Room N2-20-06
-  - 7500 Security Boulevard
-  - Baltimore, MD 21244
+    address_lines:
+    - Michael Marquis
+    - FOIA Officer
+    - North Building, Room N2-20-06
+    city: Baltimore
+    state: MD
+    street: 7500 Security Boulevard
+    zip: '21244'
   description: The Medicare Service Center answers your questions about Medicare topics,
     manages your orders of Medicare publications, provides detailed information about
     the Medicare managed care plans in your area, shares Medicare health plan quality
@@ -837,12 +858,15 @@ departments:
   website: http://www.cms.gov/foia/
 - abbreviation: FDA
   address:
-  - Sarah Kotler
-  - Director, Division of Freedom of Information Office of the Executive Secretariat
-    Office of the Commissioner
-  - Room 1033
-  - 5630 Fishers Lane
-  - Rockville, MD 20857
+    address_lines:
+    - Sarah Kotler
+    - Director, Division of Freedom of Information Office of the Executive Secretariat
+      Office of the Commissioner
+    - Room 1033
+    city: Rockville
+    state: MD
+    street: 5630 Fishers Lane
+    zip: '20857'
   description: The FDA is responsible for protecting the public health by assuring
     the safety, efficacy, and security of human and veterinary drugs, biological products,
     medical devices, our nations food supply, cosmetics, and products that emit radiation.
@@ -1038,11 +1062,14 @@ departments:
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
 - abbreviation: HRSA
   address:
-  - Tom Flavin
-  - FOIA Officer
-  - Parklawn Building, Room 6C-18
-  - 5600 Fishers Lane
-  - Rockville, MD 20857
+    address_lines:
+    - Tom Flavin
+    - FOIA Officer
+    - Parklawn Building, Room 6C-18
+    city: Rockville
+    state: MD
+    street: 5600 Fishers Lane
+    zip: '20857'
   description: The Health Resources and Services Administration improves access to
     healthcare for people who are uninsured, isolated, or medically vulnerable.
   emails:
@@ -1169,11 +1196,14 @@ departments:
   website: http://www.hrsa.gov/foia/
 - abbreviation: IHS
   address:
-  - William Tibbits
-  - FOIA Officer
-  - Suite 450 TMP
-  - 801 Thompson Avenue
-  - Rockville, MD 20852
+    address_lines:
+    - William Tibbits
+    - FOIA Officer
+    - Suite 450 TMP
+    city: Rockville
+    state: MD
+    street: 801 Thompson Avenue
+    zip: '20852'
   description: The Indian Health Service provides federal health services to American
     Indians and Alaska Natives.
   fax: 301-443-9879
@@ -1290,11 +1320,14 @@ departments:
   website: http://www.ihs.gov/FOIA/
 - abbreviation: NIH
   address:
-  - Susan Cornell
-  - FOIA Officer
-  - Building 31, Room 5B35
-  - 9000 Rockville Pike
-  - Bethesda, MD 20892
+    address_lines:
+    - Susan Cornell
+    - FOIA Officer
+    - Building 31, Room 5B35
+    city: Bethesda
+    state: MD
+    street: 9000 Rockville Pike
+    zip: '20892'
   description: The National Institutes of Health (NIH) is the primary Federal agency
     for conducting and supporting medical research.
   fax: 301-402-4541
@@ -1403,11 +1436,14 @@ departments:
   usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
-  - Carol Maloney
-  - FOIA Officer
-  - Suite 920
-  - 7700 Wisconsin Avenue
-  - Bethesda, MD 20857(if sending by courier use zc 20814)
+    address_lines:
+    - Carol Maloney
+    - FOIA Officer
+    - Suite 920
+    city: Bethesda
+    state: MD
+    street: 7700 Wisconsin Avenue
+    zip: '20857'
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer:
@@ -1432,11 +1468,14 @@ departments:
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
 - abbreviation: SAMSHA
   address:
-  - Jeanette Hite
-  - FOIA Officer
-  - Room 8-1042
-  - 1 Choke Cherry Road
-  - Rockville, MD 20857
+    address_lines:
+    - Jeanette Hite
+    - FOIA Officer
+    - Room 8-1042
+    city: Rockville
+    state: MD
+    street: 1 Choke Cherry Road
+    zip: '20857'
   description: Through grants and research, the Substance Abuse and Mental Health
     Services Administration works to improve substance abuse and mental health treatment
     services to those who are most in need of them.

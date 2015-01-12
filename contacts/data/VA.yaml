@@ -1,17 +1,23 @@
 abbreviation: VA
 address:
-- Laurie Karnay
-- FOIA Team Lead
-- (005R1C) VACO
-- 810 Vermont Avenue, NW
-- Washington, DC 20420
-departments:
-- address:
+  address_lines:
   - Laurie Karnay
   - FOIA Team Lead
   - (005R1C) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+  city: Washington
+  state: DC
+  street: 810 Vermont Avenue, NW
+  zip: '20420'
+departments:
+- address:
+    address_lines:
+    - Laurie Karnay
+    - FOIA Team Lead
+    - (005R1C) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vacofoiaservice@va.gov
   fax: 202-632-7581
@@ -25,20 +31,20 @@ departments:
   public_liaison:
     phone:
     - 202-632-7465
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-632-7465
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - James Killens III
-  - FOIA Contact
-  - (43D) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - James Killens III
+    - FOIA Contact
+    - (43D) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - nca.foia@va.gov
   fax: 202-632-7572
@@ -53,9 +59,6 @@ departments:
     name: Raynell Lazier
     phone:
     - 202-461-6214
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '14'
@@ -105,11 +108,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Sean Burns
-  - FOIA Contact
-  - (20M33) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Sean Burns
+    - FOIA Contact
+    - (20M33) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - foia.vbaco@va.gov
   fax: 202-275-5947
@@ -206,11 +212,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Timothy Graham
-  - FOIA Contact
-  - (19F2) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Timothy Graham
+    - FOIA Contact
+    - (19F2) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vhafoia2@va.gov
   fax: 202-273-9387
@@ -307,11 +316,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Inez Sidbury
-  - FOIA Contact
-  - (002B) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Inez Sidbury
+    - FOIA Contact
+    - (002B) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7635
   misc:
     'FOIA Contact ':
@@ -376,11 +388,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Gary Tallman
-  - FOIA Contact
-  - (80A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Gary Tallman
+    - FOIA Contact
+    - (80A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6705
   misc:
     'FOIA Contact ':
@@ -417,11 +432,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Susan McCrea
-  - FOIA Contact
-  - (075) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Susan McCrea
+    - FOIA Contact
+    - (075) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-5716
   misc:
     'FOIA Contact ':
@@ -471,11 +489,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Miriam Smith
-  - FOIA Contact
-  - (004A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Miriam Smith
+    - FOIA Contact
+    - (004A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6892
   misc:
     'FOIA Contact ':
@@ -497,11 +518,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Kelli Emery
-  - FOIA Contact
-  - (044) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Kelli Emery
+    - FOIA Contact
+    - (044) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-632-7146
   misc:
     'FOIA Contact ':
@@ -523,11 +547,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Cynthia Manurs
-  - FOIA Contact
-  - (041C/D) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Cynthia Manurs
+    - FOIA Contact
+    - (041C/D) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6628
   misc:
     'FOIA Contact ':
@@ -573,11 +600,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Karen Barber
-  - FOIA Contact
-  - (047GC1) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Karen Barber
+    - FOIA Contact
+    - (047GC1) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6574
   misc:
     'FOIA Contact ':
@@ -642,11 +672,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Timothy Clifton
-  - FOIA Contact
-  - Philadelphia Information Technology Center
-  - 5000 Wissahickon Avenue (284)
-  - Philadelphia, PA 19144
+    address_lines:
+    - Timothy Clifton
+    - FOIA Contact
+    - Philadelphia Information Technology Center
+    city: Philadelphia
+    state: PA
+    street: 5000 Wissahickon Avenue (284)
+    zip: '19144'
   emails:
   - cdcofoia@va.gov
   fax: 215-381-3527
@@ -670,11 +703,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Laurie Karnay
-  - FOIA Team Lead
-  - (005R1C) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Laurie Karnay
+    - FOIA Team Lead
+    - (005R1C) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vacofoiaservice@va.gov
   fax: 202-632-7581
@@ -739,11 +775,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Yolanda Johnson
-  - FOIA Contact
-  - (006V) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Yolanda Johnson
+    - FOIA Contact
+    - (006V) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-632-7536
   misc:
     'FOIA Contact ':
@@ -803,11 +842,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Jean Hayes
-  - FOIA Contact
-  - (054A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Jean Hayes
+    - FOIA Contact
+    - (054A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7871
   misc:
     'FOIA Contact ':
@@ -872,11 +914,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Betty Cook
-  - FOIA Contact
-  - (06) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Betty Cook
+    - FOIA Contact
+    - (06) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-501-1970
   misc:
     'FOIA Contact ':
@@ -918,11 +963,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Nigel Collie
-  - FOIA Contact
-  - (08) (I Street) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Nigel Collie
+    - FOIA Contact
+    - (08) (I Street) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-501-2885
   misc:
     'FOIA Contact ':
@@ -987,11 +1035,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Shelia Gaskins
-  - FOIA Contact
-  - (032A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Shelia Gaskins
+    - FOIA Contact
+    - (032A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7091
   misc:
     'FOIA Contact ':
@@ -1092,11 +1143,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Tanya Al-Khateeb
-  - FOIA Contact
-  - (007) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Tanya Al-Khateeb
+    - FOIA Contact
+    - (007) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-461-0963
   misc:
     'FOIA Contact ':
@@ -1144,11 +1198,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Stephanie Way
-  - FOIA Contact
-  - (008) VACO, Room 314
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Stephanie Way
+    - FOIA Contact
+    - (008) VACO, Room 314
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-5993
   misc:
     'FOIA Contact ':
@@ -1208,11 +1265,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Pamela Balsley
-  - FOIA Contact
-  - (009) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Pamela Balsley
+    - FOIA Contact
+    - (009) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6792
   misc:
     'FOIA Contact ':
@@ -1268,11 +1328,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Lynn Buell
-  - FOIA Contact
-  - (OOCM2) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Lynn Buell
+    - FOIA Contact
+    - (OOCM2) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - CFM.FOIA@va.gov
   fax: 202-495-5538
@@ -1339,11 +1402,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Richard Ha
-  - FOIA Officer, Office of Procurement Policy Services (OALC-PPS)
-  - Room 3E.405
-  - 425 I Street, NW
-  - Washington, DC 20001
+    address_lines:
+    - Richard Ha
+    - FOIA Officer, Office of Procurement Policy Services (OALC-PPS)
+    - Room 3E.405
+    city: Washington
+    state: DC
+    street: 425 I Street, NW
+    zip: '20001'
   emails:
   - VA_OAL_FOIA@va.gov
   fax: 202-343-1434
@@ -1408,11 +1474,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Margaret L. Peak
-  - FOIA Contact
-  - (01C1) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Margaret L. Peak
+    - FOIA Contact
+    - (01C1) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-565-9733
   misc:
     'FOIA Contact ':
@@ -1444,11 +1513,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - J. Thomas Burch, Jr.
-  - FOIA Contact
-  - (026H) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - J. Thomas Burch, Jr.
+    - FOIA Contact
+    - (026H) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - ogcfoiarequests@va.gov
   fax: 202-273-9299
@@ -1523,11 +1595,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Darryl Joe
-  - FOIA Contact
-  - (50CI) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Darryl Joe
+    - FOIA Contact
+    - (50CI) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vaoigfoia-pa@va.gov
   fax: 202-565-8667
@@ -1598,11 +1673,14 @@ departments:
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Karen Zhussanbay
-  - FOIA Contact
-  - (00SB) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Karen Zhussanbay
+    - FOIA Contact
+    - (00SB) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - osbdufoia@va.gov
   fax: 202-303-3313

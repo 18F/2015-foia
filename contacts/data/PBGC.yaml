@@ -1,11 +1,14 @@
 abbreviation: PBGC
 departments:
 - address:
-  - D. Camilla Perry
-  - Disclosure Officer
-  - Suite 11101
-  - 1200 K Street, NW
-  - Washington, DC 20005
+    address_lines:
+    - D. Camilla Perry
+    - Disclosure Officer
+    - Suite 11101
+    city: Washington
+    state: DC
+    street: 1200 K Street, NW
+    zip: '20005'
   emails:
   - Chase.Michelle@pbgc.gov
   fax: 202-326-4042

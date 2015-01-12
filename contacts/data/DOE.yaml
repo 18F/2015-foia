@@ -1,11 +1,14 @@
 abbreviation: DOE
 departments:
 - address:
-  - Alexander Morris
-  - FOIA Officer
-  - Mail Stop MA-90
-  - 1000 Independence Avenue, SW
-  - Washington, DC 20585
+    address_lines:
+    - Alexander Morris
+    - FOIA Officer
+    - Mail Stop MA-90
+    city: Washington
+    state: DC
+    street: 1000 Independence Avenue, SW
+    zip: '20585'
   emails:
   - FOIA-Central@hq.doe.gov
   fax: 202-586-0575
@@ -108,10 +111,13 @@ departments:
   top_level: false
   website: http://management.energy.gov/foia_pa.htm
 - address:
-  - Miriam Bartos
-  - FOIA Officer
-  - 9800 South Cass Avenue
-  - Argonne, IL 60439
+    address_lines:
+    - Miriam Bartos
+    - FOIA Officer
+    city: Argonne
+    state: IL
+    street: 9800 South Cass Avenue
+    zip: '60439'
   emails:
   - Miriam.Bartos@ch.doe.gov
   fax: 630-252-2183
@@ -200,11 +206,14 @@ departments:
   top_level: false
   website: http://science.energy.gov/isc/foia/
 - address:
-  - Clayton Ogilvie
-  - FOIA Officer
-  - MS 1203
-  - 1955 Fremont Avenue
-  - Idaho Falls, ID 83401
+    address_lines:
+    - Clayton Ogilvie
+    - FOIA Officer
+    - MS 1203
+    city: Idaho Falls
+    state: ID
+    street: 1955 Fremont Avenue
+    zip: '83401'
   emails:
   - ogilvic@id.doe.gov
   foia_officer:
@@ -288,10 +297,13 @@ departments:
   top_level: false
   website: http://www.id.doe.gov/foia/
 - address:
-  - Amy Rothrock
-  - FOIA Officer
-  - P.O. Box 2001
-  - Oak Ridge, TN 37831
+    address_lines:
+    - Amy Rothrock
+    - FOIA Officer
+    city: Oak Ridge
+    state: TN
+    street: P.O. Box 2001
+    zip: '37831'
   emails:
   - rothrockal@oro.doe.gov
   fax: 865-576-1556
@@ -397,10 +409,13 @@ departments:
   website: http://science.energy.gov/isc/foia/
 - abbreviation: OSTI
   address:
-  - Madelyn Wilson
-  - FOIA Officer
-  - 1 Science.gov Way
-  - Oak Ridge, TN 37830
+    address_lines:
+    - Madelyn Wilson
+    - FOIA Officer
+    city: Oak Ridge
+    state: TN
+    street: 1 Science.gov Way
+    zip: '37830'
   description: The Office of Scientific and Technical Information collects, preserves,
     and makes available the results of research and development carried out or sponsored
     by the Department of Energy.
@@ -474,11 +489,14 @@ departments:
   top_level: true
   usa_id: '49592'
 - address:
-  - Dorothy Riehle
-  - FOIA Officer
-  - Mail Stop A7-75
-  - P.O. Box 550
-  - Richland, WA 99352
+    address_lines:
+    - Dorothy Riehle
+    - FOIA Officer
+    - Mail Stop A7-75
+    city: Richland
+    state: WA
+    street: P.O. Box 550
+    zip: '99352'
   fax: 509-376-9704
   foia_officer:
     name: Dorothy Riehle
@@ -555,10 +573,13 @@ departments:
   top_level: false
   website: http://www.hanford.gov/page.cfm/foia
 - address:
-  - Pauline Conner
-  - FOIA Officer
-  - P.O. Box A
-  - Aiken, SC 29801
+    address_lines:
+    - Pauline Conner
+    - FOIA Officer
+    city: Aiken
+    state: SC
+    street: P.O. Box A
+    zip: '29801'
   fax: 803-952-8271
   foia_officer:
     name: Pauline Conner
@@ -604,10 +625,13 @@ departments:
   top_level: false
   website: http://sro.srs.gov/foia.htm
 - address:
-  - Elizabeth Osheim
-  - FOIA Officer
-  - P.O. Box 5400
-  - Albuquerque, NM 87185-5400
+    address_lines:
+    - Elizabeth Osheim
+    - FOIA Officer
+    city: Albuquerque
+    state: NM
+    street: P.O. Box 5400
+    zip: 87185-5400
   emails:
   - FOIOfficer@nnsa.doe.gov
   fax: 505-284-7512
@@ -660,10 +684,13 @@ departments:
   top_level: false
   website: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia
 - address:
-  - Clifford Nunn
-  - FOIA Officer
-  - P.O. Box 109
-  - West Mifflin, PA 15122-0109
+    address_lines:
+    - Clifford Nunn
+    - FOIA Officer
+    city: West Mifflin
+    state: PA
+    street: P.O. Box 109
+    zip: 15122-0109
   fax: 412-476-7675
   foia_officer:
     name: Clifford Nunn
@@ -707,11 +734,45 @@ departments:
     - 202-781-6172
   top_level: false
 - address:
-  - Michele Altieri
-  - FOIA Officer
-  - Mail Stop RSF DOE
-  - 15013 Denver West Parkway
-  - Golden, CO 80401
+    address_lines:
+    - George Hellstrom
+    - FOIA Officer
+    - P.O. Box 3090
+    city: Carlsbad
+    state: NM
+    street: 4021 National Parks Highway
+    zip: '88221'
+  emails:
+  - foialiaison@wipp.ws
+  fax: 505-234-7025
+  foia_officer:
+    name: George Hellstrom
+    phone:
+    - 575-234-7010
+  name: Carlsbad Field Office – Waste Isolation Pilot Program
+  phone: 575-234-7010
+  public_liaison:
+    name: George Hellstrom
+    phone:
+    - 575-234-7010
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.wipp.energy.gov/library/foia/FOIA_Reading_Room.htm
+  request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
+  service_center:
+    phone:
+    - 575-234-7406
+  top_level: false
+  website: http://www.wipp.energy.gov/library/foia/index.htm
+- address:
+    address_lines:
+    - Michele Altieri
+    - FOIA Officer
+    - Mail Stop RSF DOE
+    city: Golden
+    state: CO
+    street: 15013 Denver West Parkway
+    zip: '80401'
   emails:
   - michele.altieri@go.doe.gov
   fax: 720-356-1780
@@ -782,11 +843,14 @@ departments:
   top_level: false
   website: http://www.eere.energy.gov/golden/reading_room.aspx
 - address:
-  - Scott Lucarelli
-  - FOIA Officer
-  - Suite 500
-  - 250 East 5th Street
-  - Cincinnati, OH 45202
+    address_lines:
+    - Scott Lucarelli
+    - FOIA Officer
+    - Suite 500
+    city: Cincinnati
+    state: OH
+    street: 250 East 5th Street
+    zip: '45202'
   emails:
   - foiaoffice@emcbc.doe.gov
   fax: 513-246-0524
@@ -874,11 +938,14 @@ departments:
   top_level: false
   website: https://www.emcbc.doe.gov/About/FOIA
 - address:
-  - Christy Munro
-  - FOIA Officer
-  - D-1
-  - P.O. Box 3621
-  - Portland, OR 97208-3621
+    address_lines:
+    - Christy Munro
+    - FOIA Officer
+    - D-1
+    city: Portland
+    state: OR
+    street: P.O. Box 3621
+    zip: 97208-3621
   emails:
   - cjmunro@bpa.gov
   fax: 503-230-4019
@@ -965,10 +1032,13 @@ departments:
   top_level: false
   website: http://www.bpa.gov/news/FOIA/Pages/default.aspx
 - address:
-  - Joel Seymour
-  - FOIA Officer
-  - 1166 Athens Tech Road
-  - Elberton, GA 30635-6711
+    address_lines:
+    - Joel Seymour
+    - FOIA Officer
+    city: Elberton
+    state: GA
+    street: 1166 Athens Tech Road
+    zip: 30635-6711
   emails:
   - joels@sepa.doe.gov
   fax: 706-213-3884
@@ -989,11 +1059,14 @@ departments:
   top_level: false
   website: http://www.sepa.doe.gov/overview/?c=8
 - address:
-  - Marti Ayers
-  - FOIA Officer
-  - S1200
-  - One West Third
-  - Tulsa, OK 74103
+    address_lines:
+    - Marti Ayers
+    - FOIA Officer
+    - S1200
+    city: Tulsa
+    state: OK
+    street: One West Third
+    zip: '74103'
   emails:
   - foia@swpa.gov
   fax: 918-595-6755
@@ -1066,11 +1139,14 @@ departments:
   top_level: false
   website: http://www.swpa.gov/foia-privacyact.aspx
 - address:
-  - Patricia S. Land
-  - FOIA Officer
-  - P.O. Box 281213
-  - 12155 West Alameda Parkway
-  - Lakewood, CO 80228-8213
+    address_lines:
+    - Patricia S. Land
+    - FOIA Officer
+    - P.O. Box 281213
+    city: Lakewood
+    state: CO
+    street: 12155 West Alameda Parkway
+    zip: 80228-8213
   fax: 720-962-7009
   foia_officer:
     name: Patricia S. Land
@@ -1145,11 +1221,14 @@ departments:
   top_level: false
   website: http://www.wapa.gov/FOIA/default.htm
 - address:
-  - Deanna Harvey
-  - FOIA Officer
-  - MS FE-445
-  - 900 Commerce Road East
-  - New Orleans, LA 70123
+    address_lines:
+    - Deanna Harvey
+    - FOIA Officer
+    - MS FE-445
+    city: New Orleans
+    state: LA
+    street: 900 Commerce Road East
+    zip: '70123'
   fax: 504-818-5316
   foia_officer:
     name: Deanna Harvey
@@ -1222,11 +1301,14 @@ departments:
   top_level: false
   website: http://www.spr.doe.gov/FOIA/default.htm
 - address:
-  - Ann Dunlap
-  - FOIA Officer
-  - M/S 922/M210
-  - P.O. Box 10940
-  - Pittsburgh, PA 15236-0940
+    address_lines:
+    - Ann Dunlap
+    - FOIA Officer
+    - M/S 922/M210
+    city: Pittsburgh
+    state: PA
+    street: P.O. Box 10940
+    zip: 15236-0940
   emails:
   - Ann.Dunlap@NETL.doe.gov
   fax: 412-386-5949

@@ -1,11 +1,14 @@
 abbreviation: USITC
 departments:
 - address:
-  - Lisa R. Barton
-  - Chief FOIA Officer
-  - 112-AA
-  - 500 E Street, SW
-  - Washington, DC 20436
+    address_lines:
+    - Lisa R. Barton
+    - Chief FOIA Officer
+    - 112-AA
+    city: Washington
+    state: DC
+    street: 500 E Street, SW
+    zip: '20436'
   emails:
   - jackie.gross@usitc.gov
   fax: 202-205-2104

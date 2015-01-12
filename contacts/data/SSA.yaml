@@ -1,11 +1,14 @@
 abbreviation: SSA
 departments:
 - address:
-  - Dawn S. Wiggins
-  - Principal Public FOIA Liaison
-  - Office of the General Counsel, Office of Privacy and Disclosure
-  - 617 Altmeyer Building
-  - Baltimore, MD 21235
+    address_lines:
+    - Dawn S. Wiggins
+    - Principal Public FOIA Liaison
+    - Office of the General Counsel, Office of Privacy and Disclosure
+    city: Baltimore
+    state: MD
+    street: 617 Altmeyer Building
+    zip: '21235'
   emails:
   - Foia.pa.officers@ssa.gov
   fax: 410-966-0869

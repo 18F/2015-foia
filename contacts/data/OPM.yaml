@@ -1,11 +1,14 @@
 abbreviation: OPM
 departments:
 - address:
-  - Trina Porter
-  - FOIA Requester Service Center
-  - Room 5415
-  - 1900 E Street, NW
-  - Washington, DC 20415-7900
+    address_lines:
+    - Trina Porter
+    - FOIA Requester Service Center
+    - Room 5415
+    city: Washington
+    state: DC
+    street: 1900 E Street, NW
+    zip: 20415-7900
   emails:
   - foia@opm.gov
   fax: 202-418-3251

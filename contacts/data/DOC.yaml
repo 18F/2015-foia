@@ -1,18 +1,24 @@
 abbreviation: DOC
 address:
-- Brenda Dolan
-- Departmental FOIA Officer, Office of Privacy and Open Government
-- Mail Stop H6204
-- 14th Street and Constitution Avenue, NW
-- Washington, DC 20230
+  address_lines:
+  - Brenda Dolan
+  - Departmental FOIA Officer, Office of Privacy and Open Government
+  - Mail Stop H6204
+  city: Washington
+  state: DC
+  street: 14th Street and Constitution Avenue, NW
+  zip: '20230'
 departments:
 - abbreviation: ''
   address:
-  - Michael Toland, Ph.D.
-  - Freedom of Information Act Officer
-  - Room 8H207
-  - 4600 Silver Hill Road
-  - Washington, DC 20233-3700
+    address_lines:
+    - Michael Toland, Ph.D.
+    - Freedom of Information Act Officer
+    - Room 8H207
+    city: Washington
+    state: DC
+    street: 4600 Silver Hill Road
+    zip: 20233-3700
   description: The U.S. Census Bureau provides data about the nation's people and
     economy.
   emails:
@@ -42,6 +48,8 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
+  - - FOIA Library
+    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':
@@ -129,10 +137,13 @@ departments:
   usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
-  - Pamela Moulder
-  - Office of the Under Secretary for Economic Affairs
-  - Rom 4836
-  - Washington, DC 20230
+    address_lines:
+    - Pamela Moulder
+    - Office of the Under Secretary for Economic Affairs
+    city: Washington
+    state: DC
+    street: Rom 4836
+    zip: '20230'
   emails:
   - pmoulder@doc.gov
   fax: 202-482-2889
@@ -229,11 +240,14 @@ departments:
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
 - address:
-  - Stephen Kong
-  - FOIA Officer
-  - Room 7325
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Stephen Kong
+    - FOIA Officer
+    - Room 7325
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - SKong@eda.gov
   fax: 202-482-5671
@@ -352,11 +366,14 @@ departments:
   top_level: false
   website: http://www.eda.gov/foia.htm
 - address:
-  - Jennifer Kuo
-  - FOIA Officer
-  - Room 6622
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Jennifer Kuo
+    - FOIA Officer
+    - Room 6622
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - efoiarequest@bis.doc.gov
   fax: 202-482-0326
@@ -486,11 +503,14 @@ departments:
   website: http://www.bis.doc.gov/foia/default.htm
 - abbreviation: ITA
   address:
-  - Justin Guz
-  - ITA FOIA Officer
-  - Room 40003
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Justin Guz
+    - ITA FOIA Officer
+    - Room 40003
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   description: The International Trade Administration works to promote U.S. exports
     by providing diplomatic support, helping to shape trade policy, removing trade
     barriers, and enforcing U.S. trade laws and agreements.
@@ -621,10 +641,13 @@ departments:
   website: http://www.ita.doc.gov/foia/
 - abbreviation: MBDA
   address:
-  - Clara Colbert
-  - FOIA Officer
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Clara Colbert
+    - FOIA Officer
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   description: By providing techincal assistance and access to capital, contract opportunities,
     and new markets, the Minority Business Development Agency promotes the growth
     of businesses owned and operated by members of the minority and Diaspora communities.
@@ -725,11 +748,14 @@ departments:
   website: http://www.mbda.gov/freedom-information-act-reading-room
 - abbreviation: NIST
   address:
-  - Catherine S. Fletcher
-  - FOIA & Privacy Act Officer
-  - Stop 1710
-  - 100 Bureau Drive
-  - Gaithersburg, MD 20899-1710
+    address_lines:
+    - Catherine S. Fletcher
+    - FOIA & Privacy Act Officer
+    - Stop 1710
+    city: Gaithersburg
+    state: MD
+    street: 100 Bureau Drive
+    zip: 20899-1710
   description: The National Institute of Standards and Technology promotes measurement
     standards, conducts a wide array of scientifc research, and offers smaller manufacturers
     technical and business assistance.
@@ -845,11 +871,14 @@ departments:
   website: http://www.nist.gov/director/foia/
 - abbreviation: NTIS
   address:
-  - Lee Halvorsen
-  - FOIA Contact
-  - Number 305 - Sils Building
-  - 5301 Shawnee Road
-  - Alexandria, VA 22312
+    address_lines:
+    - Lee Halvorsen
+    - FOIA Contact
+    - Number 305 - Sils Building
+    city: Alexandria
+    state: VA
+    street: 5301 Shawnee Road
+    zip: '22312'
   description: The National Technical Information Service provides businesses, universities,
     and the public access to government-funded scientific, engineering, technical,
     and business related information. The service does not use appropriated funds,
@@ -953,11 +982,14 @@ departments:
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
 - address:
-  - Stacy Cheney
-  - FOIA Officer, Office of the Chief Counsel
-  - Room 4713
-  - 14th Street and Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Stacy Cheney
+    - FOIA Officer, Office of the Chief Counsel
+    - Room 4713
+    city: Washington
+    state: DC
+    street: 14th Street and Constitution Avenue, NW
+    zip: '20230'
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
@@ -1077,11 +1109,14 @@ departments:
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - abbreviation: NOAA
   address:
-  - Wendy Schumacher
-  - FOIA Contact
-  - Room 9719 - NOAA FOIA Office (SOU 10000)
-  - 1315 East-West Highway
-  - Silver Spring, MD 20910
+    address_lines:
+    - Wendy Schumacher
+    - FOIA Contact
+    - Room 9719 - NOAA FOIA Office (SOU 10000)
+    city: Silver Spring
+    state: MD
+    street: 1315 East-West Highway
+    zip: '20910'
   description: The National Oceanic and Atmospheric Administration's mission is to
     understand and predict changes in climate, weather, oceans, and coasts. The products
     and services produced by the administration support a number of functions, including
@@ -1257,10 +1292,13 @@ departments:
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
   address:
-  - Kathryn Siehndel
-  - FOIA Contact
-  - P.O. Box 1450
-  - Alexandria, VA 22313-1450
+    address_lines:
+    - Kathryn Siehndel
+    - FOIA Contact
+    city: Alexandria
+    state: VA
+    street: P.O. Box 1450
+    zip: 22313-1450
   description: The U.S. Patent and Trademark Office is the agency responsible for
     granting U.S. patents and registering trademarks.
   emails:
@@ -1379,11 +1417,14 @@ departments:
   usa_id: '48151'
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
-  - Laura Bell
-  - FOIA Officer
-  - Room 7099
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Laura Bell
+    - FOIA Officer
+    - Room 7099
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - FOIA@oig.doc.gov
   fax: 202-501-7921
@@ -1486,11 +1527,15 @@ departments:
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
-  - Bobbie Parsons
-  - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government
-  - Mail Stop H6204
-  - 14th Street and Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Bobbie Parsons
+    - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open
+      Government
+    - Mail Stop H6204
+    city: Washington
+    state: DC
+    street: 14th Street and Constitution Avenue, NW
+    zip: '20230'
   emails:
   - Efoia@doc.gov
   fax: 202-482-0827

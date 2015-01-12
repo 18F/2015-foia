@@ -1,11 +1,14 @@
 abbreviation: FEC
 departments:
 - address:
-  - FOIA Contact
-  - FOIA Requester Service Center
-  - Room 408
-  - 999 E Street, NW
-  - Washington, DC 20463
+    address_lines:
+    - FOIA Contact
+    - FOIA Requester Service Center
+    - Room 408
+    city: Washington
+    state: DC
+    street: 999 E Street, NW
+    zip: '20463'
   emails:
   - FOIA@fec.gov
   fax: 202-219-1043

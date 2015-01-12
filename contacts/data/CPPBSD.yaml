@@ -1,11 +1,14 @@
 abbreviation: CPPBSD
 departments:
 - address:
-  - Tina Ballard
-  - Executive Director
-  - Suite 10800
-  - 1401 S. Clark St
-  - Arlington , VA 22202-4302
+    address_lines:
+    - Tina Ballard
+    - Executive Director
+    - Suite 10800
+    city: 'Arlington '
+    state: VA
+    street: 1401 S. Clark St
+    zip: 22202-4302
   emails:
   - FOIA@AbilityOne.gov
   - blineback@abilityone.gov

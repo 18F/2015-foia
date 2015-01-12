@@ -1,17 +1,23 @@
 abbreviation: USDA
 address:
-- Ray Payton
-- Departmental FOIA Officer, Office of the Secretary
-- 10th Floor
-- 355 E Street SW
-- Washington, DC 20024
+  address_lines:
+  - Ray Payton
+  - Departmental FOIA Officer, Office of the Secretary
+  - 10th Floor
+  city: Washington
+  state: DC
+  street: 355 E Street SW
+  zip: '20024'
 departments:
 - address:
-  - William D. Allen IV
-  - Acting FOIA officer
-  - AG Stop 0202, Room 3521-S
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-0273
+    address_lines:
+    - William D. Allen IV
+    - Acting FOIA officer
+    - AG Stop 0202, Room 3521-S
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-0273
   emails:
   - AMS.FOIA@usda.gov
   fax: 202-690-3767
@@ -171,11 +177,14 @@ departments:
   top_level: false
   website: ''
 - address:
-  - Tonya Woods
-  - FOIA Director
-  - Unit 50
-  - 4700 River Road
-  - Riverdale, MD 20737-1232
+    address_lines:
+    - Tonya Woods
+    - FOIA Director
+    - Unit 50
+    city: Riverdale
+    state: MD
+    street: 4700 River Road
+    zip: 20737-1232
   emails:
   - foia.officer@aphis.usda.gov
   fax: 301-734-5941
@@ -319,11 +328,14 @@ departments:
   top_level: false
   website: http://www.aphis.usda.gov/foia/
 - address:
-  - Phyllis Holmes
-  - FOIA Contact
-  - Room 2916
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250
+    address_lines:
+    - Phyllis Holmes
+    - FOIA Contact
+    - Room 2916
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: '20250'
   emails:
   - phyllis.holmes@usda.gov
   fax: 202-720-0105
@@ -376,11 +388,14 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Sue Ellen Sloca
-  - FOIA Officer
-  - Stop 0506
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250
+    address_lines:
+    - Sue Ellen Sloca
+    - FOIA Officer
+    - Stop 0506
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: '20250'
   emails:
   - fsa.foia@wdc.usda.gov
   fax: 202-690-2828
@@ -642,11 +657,14 @@ departments:
   top_level: false
   website: http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi
 - address:
-  - Jennifer Weatherly
-  - Agency FOIA Officer
-  - Room 302
-  - 3101 Park Center Drive
-  - Alexandria, VA 22302
+    address_lines:
+    - Jennifer Weatherly
+    - Agency FOIA Officer
+    - Room 302
+    city: Alexandria
+    state: VA
+    street: 3101 Park Center Drive
+    zip: '22302'
   emails:
   - foia@fns.usda.gov
   fax: 703-605-0793
@@ -718,11 +736,14 @@ departments:
   top_level: false
   website: http://www.fns.usda.gov/foia/
 - address:
-  - Shelia Wright
-  - FOIA Contact
-  - Room 1140-South Building
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-3700
+    address_lines:
+    - Shelia Wright
+    - FOIA Contact
+    - Room 1140-South Building
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-3700
   emails:
   - fsis.foia@usda.gov
   fax: 202-690-3023
@@ -821,11 +842,14 @@ departments:
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - address:
-  - Henry Noland
-  - FOIA Officer
-  - Stop 1004
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-1004
+    address_lines:
+    - Henry Noland
+    - FOIA Officer
+    - Stop 1004
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-1004
   emails:
   - Rochelle.Foster@fas.usda.gov
   foia_officer:
@@ -911,11 +935,14 @@ departments:
   top_level: false
   website: http://www.fas.usda.gov/freedom-information-act-foia
 - address:
-  - Sherry Turner
-  - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
-  - Stop 1143
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-1143
+    address_lines:
+    - Sherry Turner
+    - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
+    - Stop 1143
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-1143
   emails:
   - wo_foia@fs.fed.us
   fax: 202-260-3245
@@ -1044,11 +1071,14 @@ departments:
   top_level: false
   website: http://www.fs.fed.us/im/foia/
 - address:
-  - Joanne Peterson
-  - FOIA/PA Officer
-  - Room 1647 - AG Stop 3604
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-3604
+    address_lines:
+    - Joanne Peterson
+    - FOIA/PA Officer
+    - Room 1647 - AG Stop 3604
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-3604
   emails:
   - joanne.c.peterson@usda.gov
   fax: 202-690-2755
@@ -1141,11 +1171,14 @@ departments:
   top_level: false
   website: http://www.gipsa.usda.gov/foia.html
 - address:
-  - Brenda V. Seegars
-  - FOIA Officer and Legal Affairs Officer
-  - Rom 1100
-  - 3101 Park Center Drive
-  - Alexandria, VA 22302
+    address_lines:
+    - Brenda V. Seegars
+    - FOIA Officer and Legal Affairs Officer
+    - Rom 1100
+    city: Alexandria
+    state: VA
+    street: 3101 Park Center Drive
+    zip: '22302'
   emails:
   - Brenda.Seegars@nad.usda.gov
   fax: 703-305-2825
@@ -1197,10 +1230,13 @@ departments:
   top_level: false
   website: http://www.nad.usda.gov/foia.html
 - address:
-  - John Hemstreet
-  - FOIA Officer
-  - P.O. Box 60000
-  - New Orleans, LA 70160
+    address_lines:
+    - John Hemstreet
+    - FOIA Officer
+    city: New Orleans
+    state: LA
+    street: P.O. Box 60000
+    zip: '70160'
   fax: 504-426-9703
   foia_officer:
     name: John Hemstreet
@@ -1220,11 +1256,14 @@ departments:
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
 - address:
-  - Deryl Richardson
-  - National FOIA Officer
-  - Room 4242-S
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250
+    address_lines:
+    - Deryl Richardson
+    - National FOIA Officer
+    - Room 4242-S
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: '20250'
   emails:
   - NRCS-foia@wdc.usda.gov
   fax: 202-720-9030
@@ -1313,11 +1352,14 @@ departments:
   top_level: false
   website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
 - address:
-  - Julie Hetrick
-  - FOIA/PA Officer
-  - Room 102-E
-  - Whitten Building
-  - Washington, DC 20250
+    address_lines:
+    - Julie Hetrick
+    - FOIA/PA Officer
+    - Room 102-E
+    city: Washington
+    state: DC
+    street: Whitten Building
+    zip: '20250'
   fax: 202-690-3673
   misc:
     FOIA/PA Officer:
@@ -1377,11 +1419,14 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Richard Saafeld
-  - FOIA Officer, Planning and Accountability Division
-  - Room 3444B-South Building
-  - Stop Box 9020
-  - Washington, DC 20250
+    address_lines:
+    - Richard Saafeld
+    - FOIA Officer, Planning and Accountability Division
+    - Room 3444B-South Building
+    city: Washington
+    state: DC
+    street: Stop Box 9020
+    zip: '20250'
   fax: 202-690-3536
   foia_officer:
     name: Richard Saafeld
@@ -1527,11 +1572,14 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Wilbur Crawley
-  - FOIA/PA Officer
-  - Room 555 - Reporters Building
-  - 300 7th Street, SW
-  - Washington, DC 20024
+    address_lines:
+    - Wilbur Crawley
+    - FOIA/PA Officer
+    - Room 555 - Reporters Building
+    city: Washington
+    state: DC
+    street: 300 7th Street, SW
+    zip: '20024'
   misc:
     FOIA/PA Officer:
       name: Wilbur Crawley
@@ -1580,10 +1628,13 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Michael G. Watts
-  - Director, Office of Adjudication and Compliance
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-9410
+    address_lines:
+    - Michael G. Watts
+    - Director, Office of Adjudication and Compliance
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-9410
   emails:
   - ascrfoia@ascr.usda.gov
   fax: 202-720-0953
@@ -1657,10 +1708,13 @@ departments:
   top_level: false
   website: http://www.ascr.usda.gov/foia_cr.html
 - address:
-  - Betty Ollila
-  - FOIA Officer, General Law Division
-  - Room 3311-South Building
-  - Washington, DC 20250-1400
+    address_lines:
+    - Betty Ollila
+    - FOIA Officer, General Law Division
+    city: Washington
+    state: DC
+    street: Room 3311-South Building
+    zip: 20250-1400
   fax: 202-720-5837
   foia_officer:
     name: Betty Ollila
@@ -1710,11 +1764,14 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Ravoyne Peyton
-  - Departmental FOIA Officer
-  - 10th Floor
-  - 355 E Street SW
-  - Washington, DC 20024
+    address_lines:
+    - Ravoyne Peyton
+    - Departmental FOIA Officer
+    - 10th Floor
+    city: Washington
+    state: DC
+    street: 355 E Street SW
+    zip: '20024'
   emails:
   - usdafoia@ocio.usda.gov
   foia_officer:
@@ -1750,11 +1807,14 @@ departments:
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
-  - Bill Crews
-  - FOIA Officer
-  - Stop 0821
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250
+    address_lines:
+    - Bill Crews
+    - FOIA Officer
+    - Stop 0821
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: '20250'
   emails:
   - bill.crews@rma.usda.gov
   fax: 202-720-1162
@@ -1823,11 +1883,14 @@ departments:
   top_level: false
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - address:
-  - Stasia Hutchison and Monica Williams
-  - FOIA Officers
-  - Room 1-2248 - Building GWCC, Mail Stop 5128
-  - 5601 Sunnyside Avenue
-  - Beltsville, MD 20705-5128
+    address_lines:
+    - Stasia Hutchison and Monica Williams
+    - FOIA Officers
+    - Room 1-2248 - Building GWCC, Mail Stop 5128
+    city: Beltsville
+    state: MD
+    street: 5601 Sunnyside Avenue
+    zip: 20705-5128
   emails:
   - REEFOIA@ars.usda.gov
   - REEFOIA@ars.usda.gov
@@ -1902,11 +1965,14 @@ departments:
   top_level: false
   website: http://www.ars.usda.gov/is/foia/foiaform.htm
 - address:
-  - Sara Bradshaw
-  - FOIA/PA Officer
-  - Stop 0706-Room 3028
-  - 1400 Independence Avenue, SW
-  - Washington, DC 20250-0706
+    address_lines:
+    - Sara Bradshaw
+    - FOIA/PA Officer
+    - Stop 0706-Room 3028
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-0706
   fax: 202-205-5053
   misc:
     FOIA/PA Officer:

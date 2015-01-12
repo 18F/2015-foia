@@ -1,10 +1,13 @@
 abbreviation: ONDCP
 departments:
 - address:
-  - General Counsel
-  - Office of Legal Counsel
-  - 750 17th Street, NW
-  - Washington, DC 20503
+    address_lines:
+    - General Counsel
+    - Office of Legal Counsel
+    city: Washington
+    state: DC
+    street: 750 17th Street, NW
+    zip: '20503'
   name: Office of National Drug Control Policy
   phone: 202-395-6622
   public_liaison:

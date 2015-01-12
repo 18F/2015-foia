@@ -1,11 +1,14 @@
 abbreviation: FFIEC
 departments:
 - address:
-  - Judith E. Dupre
-  - Executive Secretary
-  - B7081a
-  - 3501 Fairfax Drive
-  - Arlington , VA 22226-3550
+    address_lines:
+    - Judith E. Dupre
+    - Executive Secretary
+    - B7081a
+    city: 'Arlington '
+    state: VA
+    street: 3501 Fairfax Drive
+    zip: 22226-3550
   emails:
   - FOIA@ffiec.gov
   fax: 703-562-6446

@@ -1,10 +1,13 @@
 abbreviation: STB
 departments:
 - address:
-  - Marilyn R. Levitt
-  - FOIA/Privacy Act Officer
-  - 395 E Street, SW
-  - Washington, DC 20423-0001
+    address_lines:
+    - Marilyn R. Levitt
+    - FOIA/Privacy Act Officer
+    city: Washington
+    state: DC
+    street: 395 E Street, SW
+    zip: 20423-0001
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460

@@ -1,10 +1,13 @@
 abbreviation: FRB
 departments:
 - address:
-  - Jeanne McLaughlin
-  - FOIA Manager
-  - 20th & Constitution Avenue, NW
-  - Washington, DC 20551
+    address_lines:
+    - Jeanne McLaughlin
+    - FOIA Manager
+    city: Washington
+    state: DC
+    street: 20th & Constitution Avenue, NW
+    zip: '20551'
   emails:
   - foirequests@frb.gov
   fax: 202-872-7565
