@@ -20,6 +20,9 @@ departments:
     name: Melba D. Moye
     phone:
     - 202-314-6540
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.ntsb.gov/foia/foia_err.html
   request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
   request_time_stats:
     '2011':

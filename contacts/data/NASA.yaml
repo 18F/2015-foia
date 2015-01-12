@@ -1059,7 +1059,7 @@ departments:
   service_center:
     phone:
     - 228-813-6174
-  top_level: false
+  top_level: true
   website: http://www.nssc.nasa.gov/foia/
 - address:
   - Sally Bilbo

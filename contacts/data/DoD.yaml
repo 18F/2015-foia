@@ -247,7 +247,7 @@ departments:
   service_center:
     phone:
     - 703-696-2735
-  top_level: false
+  top_level: true
   website: http://www.foia.af.mil/
 - address:
   - Alecia Bolling
@@ -389,7 +389,7 @@ departments:
   service_center:
     phone:
     - 703-428-6238
-  top_level: false
+  top_level: true
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
   - Robin Patterson

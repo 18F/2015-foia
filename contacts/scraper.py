@@ -33,6 +33,13 @@ AGENCIES = [
     'OPIC', 'PC', 'PBGC', 'PRC', 'RATB', 'US RRB', 'SEC', 'SSS', 'SBA', 'SSA',
     'SIGAR', 'STB', 'TVA', 'US ADF', 'CO', 'USIBWC', 'USITC', 'USPS', 'USTDA']
 
+PHONE_RE = re.compile(
+    r"""(?P<prefix>\+?[\d\s\(\)\-]*)"""
+    r"""(?P<area_code>\(?\d{3}\)?[\s\-\(\)]*)"""
+    r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
+    r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
+    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
+
 
 def agency_description(doc):
     """Account for BRs and such while finding the description."""
@@ -64,14 +71,6 @@ def clean_paragraphs(doc):
             lines.append(text)
             ps.append(p)
     return lines, ps
-
-
-PHONE_RE = re.compile(
-    r"""(?P<prefix>\+?[\d\s\(\)\-]*)"""
-    r"""(?P<area_code>\(?\d{3}\)?[\s\-\(\)]*)"""
-    r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
-    r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
-    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
 
 
 def clean_phone_number(line):
