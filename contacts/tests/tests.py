@@ -377,9 +377,15 @@ class ScraperTests(TestCase):
             </p></blockquote></div>""")
         result = scraper.parse_department(html, "Agency X")
         self.assertEqual(result['name'], "Agency X")
-        self.assertEqual(result['address'],
-                         ["Jane Smith", "Awesome Person", "A Federal Agency",
-                          "Washington, DC 20505"])
+        self.assertEqual(
+            result['address'],
+            {
+                'address_lines': ['Jane Smith', 'Awesome Person'],
+                'zip': '20505',
+                'street': 'A Federal Agency',
+                'city': 'Washington',
+                'state': 'DC'
+            })
         self.assertEqual(result['phone'], "555-111-2222")
         self.assertEqual(result['fax'], "555-222-3333")
         self.assertEqual(result['emails'],
@@ -434,25 +440,52 @@ class ScraperTests(TestCase):
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
 
+    def test_organize_address(self):
+        address_list = [
+            "Martha R. Sell", "FOIA Assistant", "Suite 500",
+            "2300 Clarendon Boulevard", "Arlington, VA 22201"]
+        address_dict = {
+            'state': 'VA',
+            'address_lines': ['Martha R. Sell', 'FOIA Assistant', 'Suite 500'],
+            'city': 'Arlington',
+            'street': '2300 Clarendon Boulevard',
+            'zip': '22201'}
+        self.assertEqual(scraper.organize_address(address_list), address_dict)
+
+        address_list.remove("Suite 500")
+        address_dict['address_lines'].remove("Suite 500")
+        self.assertEqual(scraper.organize_address(address_list), address_dict)
+
 
 class LayerTests(TestCase):
     def test_address_lines(self):
         """Add lines for room number, street addy is present. Only add
         city/state/zip if all three are present."""
+
         row = {"Room Number": "", "Street Address": "", "City": "",
                "State": "", "Zip Code": ""}
         row["City"] = "Boston"
-        self.assertEqual([], layer.address_lines(row))
-        row["Zip Code"] = 90210
-        self.assertEqual([], layer.address_lines(row))
+        self.assertEqual({}, layer.organize_address(row))
+
+        row["Zip Code"] = '90210'
+        self.assertEqual({}, layer.organize_address(row))
+
         row["Street Address"] = "123 Maywood Dr"
-        self.assertEqual(["123 Maywood Dr"], layer.address_lines(row))
+        expected_address_dict = {
+            'address_lines': ['123 Maywood Dr']}
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
+
         row["Room Number"] = "Apt B"
-        self.assertEqual(["Apt B", "123 Maywood Dr"],
-                         layer.address_lines(row))
+        expected_address_dict['address_lines'].insert(0, 'Apt B')
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
+
         row["State"] = "XY"
-        self.assertEqual(["Apt B", "123 Maywood Dr", "Boston, XY 90210"],
-                         layer.address_lines(row))
+        expected_address_dict.update({
+            'state': 'XY', 'zip': '90210', 'city': 'Boston'})
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
 
     def test_contact_string(self):
         """Format name and phone information; check each combination"""

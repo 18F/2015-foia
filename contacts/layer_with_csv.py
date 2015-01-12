@@ -12,17 +12,23 @@ import xlrd
 import yaml
 
 
-def address_lines(row):
-    """Convert a row of dictionary data into a list of address lines"""
-    lines = []
+def organize_address(row):
+    """Convert a row of dictionary data into a dict of address lines"""
+    address_dict = {}
+    address_lines = []
     if row['Room Number']:
-        lines.append(row['Room Number'])
+        address_lines.append(row['Room Number'])
     if row['Street Address']:
-        lines.append(row['Street Address'])
+        address_lines.append(row['Street Address'])
     if row['City'] and row['State'] and row['Zip Code']:
-        lines.append(row['City'] + ', ' + row['State'] + ' '
-                     + str(row['Zip Code']))
-    return lines
+        address_dict.update({
+            'city': row['City'],
+            'state': row['State'],
+            'zip': row['Zip Code']
+            })
+    if address_lines:
+        address_dict['address_lines'] = address_lines
+    return address_dict
 
 
 def contact_string(row):
@@ -68,7 +74,7 @@ def add_contact_info(contacts, row):
                 logging.warning("%s is an invalid number", row[row_name])
 
     # Adding address
-    address = address_lines(row)
+    address = organize_address(row)
     if address and 'address' not in office_struct:
         office_struct['address'] = address
     if row['Email Address']:
