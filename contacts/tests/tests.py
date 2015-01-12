@@ -377,15 +377,9 @@ class ScraperTests(TestCase):
             </p></blockquote></div>""")
         result = scraper.parse_department(html, "Agency X")
         self.assertEqual(result['name'], "Agency X")
-        self.assertEqual(
-            result['address'],
-            {
-                'address_lines': ['Jane Smith', 'Awesome Person'],
-                'zip': '20505',
-                'street': 'A Federal Agency',
-                'city': 'Washington',
-                'state': 'DC'
-            })
+        self.assertEqual(result['address'],
+                         ["Jane Smith", "Awesome Person", "A Federal Agency",
+                          "Washington, DC 20505"])
         self.assertEqual(result['phone'], "555-111-2222")
         self.assertEqual(result['fax'], "555-222-3333")
         self.assertEqual(result['emails'],
@@ -439,22 +433,6 @@ class ScraperTests(TestCase):
         """Verify that agency abbreviations are getting converted into a URL"""
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
-
-    def test_organize_address(self):
-        address_list = [
-            "Martha R. Sell", "FOIA Assistant", "Suite 500",
-            "2300 Clarendon Boulevard", "Arlington, VA 22201"]
-        address_dict = {
-            'state': 'VA',
-            'address_lines': ['Martha R. Sell', 'FOIA Assistant', 'Suite 500'],
-            'city': 'Arlington',
-            'street': '2300 Clarendon Boulevard',
-            'zip': '22201'}
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
-
-        address_list.remove("Suite 500")
-        address_dict['address_lines'].remove("Suite 500")
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
 
 
 class LayerTests(TestCase):

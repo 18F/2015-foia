@@ -15,6 +15,7 @@ import yaml
 import typos
 
 
+# Transformed from the `agenciesFile` array at
 # http://www.foia.gov/foiareport.js
 # Excludes "ALL" (All agencies, though it's not, really).
 # Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
@@ -38,8 +39,6 @@ PHONE_RE = re.compile(
     r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
     r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
     r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
-
-ADDY_RE = re.compile('(?P<city>.*), (?P<state>[A-Z]{2}) (?P<zip>[0-9-]+)')
 
 
 def agency_description(doc):
@@ -102,29 +101,10 @@ def clean_phone_number(line):
                         "phone line: " + line)
 
 
-def organize_address(address_list):
-    """
-    Converts a list containing address elements into a dictionary
-    """
-    address_dict = {}
-
-    if len(address_list) > 1:
-        address_dict['street'] = address_list[-2]
-    if len(address_list) > 2:
-        address_dict['address_lines'] = address_list[0:-2]
-
-    match = ADDY_RE.match(address_list[-1])
-    if match:
-        address_dict['zip'] = match.group('zip')
-        address_dict['state'] = match.group('state')
-        address_dict['city'] = match.group('city')
-    return address_dict
-
-
 def split_address_from(lines):
     """Address goes until we find a phone or service center. Separate lines
     into address lines and remaining"""
-    address_list, remaining = [], []
+    address, remaining = [], []
     cues = ("phone", "fax", "service center")
     for line in lines:
         if remaining:   # already switched over
@@ -133,11 +113,11 @@ def split_address_from(lines):
             remaining.append(line)
         else:
             # Separate line breaks
-            address_list.extend(re.split(r"[\n\r]+", line))
+            address.extend(re.split(r"[\n\r]+", line))
     if not remaining:
         raise Exception("error finding address end", lines)
     else:
-        return address_list, remaining
+        return address, remaining
 
 
 def find_emails(lines, ps):
@@ -237,9 +217,8 @@ def parse_department(elem, name):
     # remove first el (which introduces the section)
     lines, ps = lines[1:], ps[1:]
 
-    address_list, lines = split_address_from(lines)
-    data['address'] = organize_address(address_list=address_list)
-
+    address, lines = split_address_from(lines)
+    data['address'] = address
     ps = ps[-len(lines):]   # Also throw away associated paragraphs
     for line in lines:
         lower = line.lower()
