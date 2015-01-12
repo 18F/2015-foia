@@ -157,6 +157,7 @@ def patch_yaml():
                 else:
                     logging.warning('Not in XLS: %s -> %s',
                                     yaml_data['name'], yaml_office['name'])
+                    departments.append(yaml_office)
             if new_dept_count > 0:
                 yaml_data['departments'] = departments
                 with open(filename, 'w') as f:
