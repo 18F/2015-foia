@@ -26,14 +26,14 @@ departments:
       name: Stephanie Garner
       phone:
       - 202-663-4634
-      - 202-663-7026
+      - 202-663-7026 (TTY)
   name: Headquarters
   phone: 202-663-4634
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   reading_rooms:
   - - EEOC's Reading Room
     - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
@@ -41,7 +41,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/eeoc/foia/
 - address:
@@ -61,14 +61,14 @@ departments:
       name: William Batts
       phone:
       - 404-562-6840
-      - 404-562-6801
+      - 404-562-6801 (TTY)
   name: Atlanta District Office (Savanna Local Office)
   phone: 404-562-6840
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -118,7 +118,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/atlanta/foia.cfm
 - address:
@@ -138,14 +138,14 @@ departments:
       name: Willie Alford
       phone:
       - 205-212-2074
-      - 205-212-2112
+      - 205-212-2112 (TTY)
   name: Birmingham District Office (Mobile Local Office, Jackson Area Office)
   phone: 205-212-2074
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -199,7 +199,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - address:
@@ -219,7 +219,7 @@ departments:
       name: Joyce Stafford
       phone:
       - 704-954-6488
-      - 704-344-6684
+      - 704-344-6684 (TTY)
   name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
     Offices; Raleigh Area Office
   phone: 704-954-6488
@@ -227,7 +227,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -281,7 +281,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/charlotte/foia.cfm
 - address:
@@ -303,14 +303,14 @@ departments:
       name: Sylvia Bustos
       phone:
       - 312-353-8783
-      - 312-353-2421
+      - 312-353-2421 (TTY)
   name: Chicago District Office (Milwaukee and Minneapolis Area Offices)
   phone: 312-353-8783
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -360,7 +360,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/chicago/foia.cfm
 - address:
@@ -380,14 +380,14 @@ departments:
       name: Peter Robinson
       phone:
       - 214-253-2732
-      - 214-253-2710
+      - 214-253-2710 (TTY)
   name: Dallas District Office (San Antonio Field Office, El Paso Area Office)
   phone: 214-253-2732
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -441,7 +441,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/dallas/foia.cfm
 - address:
@@ -461,14 +461,14 @@ departments:
       name: Susam Velasquez
       phone:
       - 713-209-3416
-      - 713-209-3439
+      - 713-209-3439 (TTY)
   name: Houston District Office (New Orleans Field Office)
   phone: 713-209-3416
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -522,7 +522,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/houston/foia.cfm
 - address:
@@ -543,7 +543,7 @@ departments:
       name: Janice Andrews
       phone:
       - 317-226-6654
-      - 317-226-5162
+      - 317-226-5162 (TTY)
   name: Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville
     Area Offices)
   phone: 317-226-6654
@@ -551,7 +551,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -605,7 +605,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - address:
@@ -633,7 +633,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -687,7 +687,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - address:
@@ -707,14 +707,14 @@ departments:
       name: Audrey Bonner
       phone:
       - 901-544-0163
-      - 901-544-0112
+      - 901-544-0112 (TTY)
   name: Memphis District Office (Little Rock and Nashville Area Offices)
   phone: 901-544-0163
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -764,7 +764,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/memphis/foia.cfm
 - address:
@@ -785,14 +785,14 @@ departments:
       name: Carmen Figueroa-Martinez
       phone:
       - 305-808-1796
-      - 305-808-1742
+      - 305-808-1742 (TTY)
   name: Miami District Office (Tampa Field Office and San Juan Local Office)
   phone: 305-808-1796
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -846,7 +846,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/miami/foia.cfm
 - address:
@@ -866,14 +866,14 @@ departments:
       name: David Phillips
       phone:
       - 212-336-3644
-      - 212-336-3622
+      - 212-336-3622 (TTY)
   name: New York District Office (Boston and Newark Area Offices, Buffalo Local Office)
   phone: 212-336-3644
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -927,7 +927,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/newyork/foia.cfm
 - address:
@@ -947,7 +947,7 @@ departments:
       name: Fredericka Warren
       phone:
       - 215-440-2681
-      - 215-440-2610
+      - 215-440-2610 (TTY)
   name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
     Area Office)
   phone: 215-440-2681
@@ -955,7 +955,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1005,7 +1005,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - address:
@@ -1025,14 +1025,14 @@ departments:
       name: Silvia M. Hart
       phone:
       - 602-640-5012
-      - 602-640-5072
+      - 602-640-5072 (TTY)
   name: Phoenix District Office (Denver Field Office, Albuquerque Area Office)
   phone: 602-640-5012
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1082,7 +1082,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/phoenix/foia.cfm
 - address:
@@ -1102,7 +1102,7 @@ departments:
       name: Vincent Clark
       phone:
       - 415-625-5632
-      - 415-625-5610
+      - 415-625-5610 (TTY)
   name: San Francisco District Office (Seattle Field Office, Oakland and San Jose
     Local Offices)
   phone: 415-625-5632
@@ -1110,7 +1110,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1160,7 +1160,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - address:
@@ -1180,14 +1180,14 @@ departments:
       name: Inez Shiloah
       phone:
       - 314-539-7846
-      - 314-539-7803
+      - 314-539-7803 (TTY)
   name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
   phone: 314-539-7846
   public_liaison:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1237,7 +1237,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - address:
@@ -1263,7 +1263,7 @@ departments:
     name: Stephanie Garner
     phone:
     - 202-663-4634
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   request_time_stats:
     '2010':
@@ -1313,7 +1313,7 @@ departments:
   service_center:
     phone:
     - 202-663-4500
-    - 202-663-7026
+    - 202-663-7026 (TTY)
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
 description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
@@ -1349,7 +1349,7 @@ public_liaison:
   name: Stephanie Garner
   phone:
   - 202-663-4634
-  - 202-663-7026
+  - 202-663-7026 (TTY)
 reading_rooms:
 - - EEOC's Reading Room
   - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
@@ -1405,7 +1405,7 @@ request_time_stats:
 service_center:
   phone:
   - 202-663-4500
-  - 202-663-7026
+  - 202-663-7026 (TTY)
 top_level: false
 usa_id: '48032'
 website: http://www.eeoc.gov/eeoc/foia/

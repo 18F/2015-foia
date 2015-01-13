@@ -302,6 +302,11 @@ class ScraperTests(TestCase):
         self.assertEqual(expected_output,
                          scraper.extract_numbers(phone_str))
 
+        phone_str = " (202) 663-4634, (202) 663-7026 (TTY)'"
+        expected_output = ['202-663-4634', '202-663-7026 (TTY)']
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
     def test_organize_contact(self):
         """ Test if contacts are extracted an organized correctly """
 
