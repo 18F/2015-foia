@@ -358,7 +358,7 @@ class ScraperTests(TestCase):
             <p>Jane Smith</p>
             <p>Awesome Person</p>
             <p></p>
-            <p>A Federal Agency</p>
+            <p>1 congress street</p>
             <p>Washington, DC 20505</p>
             <p>(555) 111-2222 (Telephone)</p>
             <p>(555) 222-3333 (Fax)</p>
@@ -382,7 +382,7 @@ class ScraperTests(TestCase):
             {
                 'address_lines': ['Jane Smith', 'Awesome Person'],
                 'zip': '20505',
-                'street': 'A Federal Agency',
+                'street': '1 congress street',
                 'city': 'Washington',
                 'state': 'DC'
             })
@@ -479,32 +479,42 @@ class ScraperTests(TestCase):
 
 
 class LayerTests(TestCase):
-    def test_address_lines(self):
+    def test_organize_address(self):
         """Add lines for room number, street addy is present. Only add
-        city/state/zip if all three are present."""
+        address if city/state/zip/street are present."""
 
         row = {"Room Number": "", "Street Address": "", "City": "",
                "State": "", "Zip Code": ""}
         row["City"] = "Boston"
-        self.assertEqual({}, layer.organize_address(row))
+        self.assertEqual(None, layer.organize_address(row))
 
-        row["Zip Code"] = '90210'
-        self.assertEqual({}, layer.organize_address(row))
+        row['Zip Code'] = '90210'
+        self.assertEqual(None, layer.organize_address(row))
 
-        row["Street Address"] = "123 Maywood Dr"
+        row['Street Address'] = '123 Maywood Dr'
+        self.assertEqual(None,
+                         layer.organize_address(row))
+
+        row['Room Number'] = 'Apt B'
+        self.assertEqual(None,
+                         layer.organize_address(row))
+
+        row['State'] = 'XY'
         expected_address_dict = {
-            'address_lines': ['123 Maywood Dr']}
+            'address_lines': ['Apt B'], 'city': 'Boston', 'state': 'XY',
+            'street': '123 Maywood Dr', 'zip': '90210'}
         self.assertEqual(expected_address_dict,
                          layer.organize_address(row))
 
-        row["Room Number"] = "Apt B"
-        expected_address_dict['address_lines'].insert(0, 'Apt B')
+        # In layer_with_csv street name is assumed correct
+        row['Street Address'] = 'not a street'
+        expected_address_dict['street'] = 'not a street'
         self.assertEqual(expected_address_dict,
                          layer.organize_address(row))
 
-        row["State"] = "XY"
-        expected_address_dict.update({
-            'state': 'XY', 'zip': '90210', 'city': 'Boston'})
+        # Zips are also cleaned up, but still assumed correct
+        row['Zip Code'] = 20823.0
+        expected_address_dict['zip'] = '20823'
         self.assertEqual(expected_address_dict,
                          layer.organize_address(row))
 

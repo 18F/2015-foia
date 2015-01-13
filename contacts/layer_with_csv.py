@@ -24,10 +24,10 @@ def organize_address(row):
     if row['City'] and row['State'] and row['Zip Code'] \
             and row['Street Address']:
         address_dict.update({
-            'street': row['Street Address'],
-            'city': row['City'],
-            'state': row['State'],
-            'zip': row['Zip Code']
+            'street': row['Street Address'].strip(),
+            'city': row['City'].strip(),
+            'state': row['State'].strip(),
+            'zip': str(row['Zip Code']).replace('.0', '')
             })
         return address_dict
 
