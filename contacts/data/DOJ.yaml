@@ -3276,7 +3276,7 @@ departments:
     city: Washington
     state: DC
     street: Ben Franklin Station
-    zip: 20044.0
+    zip: '20044'
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
   misc:

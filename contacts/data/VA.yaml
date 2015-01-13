@@ -700,9 +700,7 @@ departments:
     name: Timothy Clifton
     phone:
     - 215-842-2000 x4503
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+  reading_rooms: []
   service_center:
     phone:
     - 215-842-2000 x4503

@@ -1357,7 +1357,7 @@ departments:
     city: Washington
     state: DC
     street: Whitten Building
-    zip: 20250.0
+    zip: '20250'
   fax: 202-690-3673
   misc:
     FOIA/PA Officer:

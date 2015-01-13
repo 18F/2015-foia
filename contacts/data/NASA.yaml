@@ -829,7 +829,7 @@ departments:
     city: Huntsville
     state: AL
     street: Marshall Space Flight Center
-    zip: 35812.0
+    zip: '35812'
   emails:
   - FOIA@msfc.nasa.gov
   fax: 256-544-0007
