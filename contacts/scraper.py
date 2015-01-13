@@ -39,7 +39,10 @@ PHONE_RE = re.compile(
     r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
     r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
 
-ADDY_RE = re.compile('(?P<city>.*), (?P<state>[A-Z]{2}) (?P<zip>[0-9-]+)')
+ADDY_RE = re.compile(
+    r"""(?P<city>.*)"""
+    r"""[\s]*?,[\s]*?(?P<state>[A-Z\.]{2,4})"""
+    r"""\s*(?P<zip>[0-9-]+)""")
 
 
 def agency_description(doc):
@@ -115,10 +118,15 @@ def organize_address(address_list):
 
     match = ADDY_RE.match(address_list[-1])
     if match:
-        address_dict['zip'] = match.group('zip')
-        address_dict['state'] = match.group('state')
-        address_dict['city'] = match.group('city')
-    return address_dict
+        address_dict['zip'] = match.group('zip').strip()
+        address_dict['state'] = re.sub("\W", "", match.group('state'))
+        address_dict['city'] = match.group('city').strip()
+
+    if re.search('\d', address_dict['street']) \
+            and address_dict.get('zip') \
+            and address_dict.get('state') \
+            and address_dict.get('city'):
+        return address_dict
 
 
 def split_address_from(lines):
@@ -238,7 +246,11 @@ def parse_department(elem, name):
     lines, ps = lines[1:], ps[1:]
 
     address_list, lines = split_address_from(lines)
-    data['address'] = organize_address(address_list=address_list)
+    address_dict = organize_address(address_list=address_list)
+    if address_dict:
+        data['address'] = address_dict
+    else:
+        logging.warning("Valid address not found for %s", name)
 
     ps = ps[-len(lines):]   # Also throw away associated paragraphs
     for line in lines:

@@ -226,11 +226,6 @@ departments:
     name: Clayton Ogilvie
     phone:
     - 208-526-5190
-  reading_rooms:
-  - - Electronic Reading Room Documents
-    - http://www.id.doe.gov/foia/archive.htm
-  - - Reading Room
-    - http://www.id.doe.gov/foia/read.htm
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   request_time_stats:
     '2008':
@@ -573,9 +568,6 @@ departments:
   top_level: false
   website: http://www.hanford.gov/page.cfm/foia
 - address:
-    address_lines:
-    - Pauline Conner
-    - FOIA Officer
     city: Aiken
     state: SC
     street: P.O. Box A
@@ -1060,8 +1052,6 @@ departments:
   website: http://www.sepa.doe.gov/overview/?c=8
 - address:
     address_lines:
-    - Marti Ayers
-    - FOIA Officer
     - S1200
     city: Tulsa
     state: OK

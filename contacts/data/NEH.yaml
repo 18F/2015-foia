@@ -5,7 +5,10 @@ departments:
     - Katherine Griffin
     - Principal FOIA Contact
     - 4th Floor
+    city: Washington
+    state: DC
     street: 400 7th Street SW
+    zip: '20506'
   emails:
   - gencounsel@neh.gov
   - evoyatzis@neh.gov

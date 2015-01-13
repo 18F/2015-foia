@@ -1,13 +1,4 @@
 abbreviation: DOJ
-address:
-  address_lines:
-  - FOIA/PA Mail Referral Unit
-  - Justice Management Division
-  - Room 115
-  city: Washington
-  state: DC
-  street: LOC Building
-  zip: 20530-0001
 departments:
 - abbreviation: ''
   address:
@@ -813,8 +804,6 @@ departments:
   website: http://www.justice.gov/crs/foia.htm
 - address:
     address_lines:
-    - Kenneth Courter
-    - Chief, FOIA/PA Unit
     - Suite 1127
     city: Washington
     state: DC
@@ -1800,7 +1789,6 @@ departments:
   website: http://www.justice.gov/fcsc/foia.htm
 - address:
     address_lines:
-    - FOIA/PA Specialist, Office of General Counsel
     - INTERPOL Washington
     city: Washington
     state: DC
@@ -3284,13 +3272,11 @@ departments:
   website: http://www.justice.gov/prao/foia.htm
 - address:
     address_lines:
-    - Carmen M. Banerjee
-    - Division Counsel for FOIA and PA Matters
     - P.O. Box 227
     city: Washington
     state: DC
     street: Ben Franklin Station
-    zip: '20044'
+    zip: 20044.0
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
   misc:

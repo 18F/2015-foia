@@ -825,13 +825,11 @@ departments:
   website: http://foia.larc.nasa.gov/
 - address:
     address_lines:
-    - Judi Hollingsworth
-    - MSFC FOIA Officer
     - Mail Stop CD50
     city: Huntsville
     state: AL
     street: Marshall Space Flight Center
-    zip: '35812'
+    zip: 35812.0
   emails:
   - FOIA@msfc.nasa.gov
   fax: 256-544-0007
@@ -1097,14 +1095,7 @@ departments:
     - 228-813-6174
   top_level: true
   website: http://www.nssc.nasa.gov/foia/
-- address:
-    address_lines:
-    - Sally Bilbo
-    city: Stennis Space Center
-    state: MS
-    street: SSC FOIA Officer
-    zip: '39529'
-  emails:
+- emails:
   - ssc-foia@nasa.gov
   fax: 228-668-7499
   foia_officer:

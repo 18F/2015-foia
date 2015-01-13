@@ -14,21 +14,22 @@ import yaml
 
 def organize_address(row):
     """Convert a row of dictionary data into a dict of address lines"""
+
     address_dict = {}
-    address_lines = []
-    if row['Room Number']:
-        address_lines.append(row['Room Number'])
+
     if row['Street Address']:
-        address_lines.append(row['Street Address'])
-    if row['City'] and row['State'] and row['Zip Code']:
+        address_dict['street'] = row['Street Address']
+    if row['Room Number']:
+        address_dict['address_lines'] = [row['Room Number']]
+    if row['City'] and row['State'] and row['Zip Code'] \
+            and row['Street Address']:
         address_dict.update({
+            'street': row['Street Address'],
             'city': row['City'],
             'state': row['State'],
             'zip': row['Zip Code']
             })
-    if address_lines:
-        address_dict['address_lines'] = address_lines
-    return address_dict
+        return address_dict
 
 
 def contact_string(row):
@@ -39,7 +40,7 @@ def contact_string(row):
 
     clean_contact = {}
     if contact:
-        clean_contact['name'] = contact
+        clean_contact['name'] = contact.strip("', ")
     if clean_numbers:
         clean_contact['phone'] = clean_numbers
 

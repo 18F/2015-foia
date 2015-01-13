@@ -1261,14 +1261,7 @@ departments:
     - 202-254-4001
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0788.shtm
-- address:
-    address_lines:
-    - Priscilla Waters
-    city: Washington
-    state: DC
-    street: FOIA Officer
-    zip: '20528'
-  emails:
+- emails:
   - I&AFOIA@hq.dhs.gov
   fax: 202-612-1936
   foia_officer:
@@ -1353,14 +1346,7 @@ departments:
     - 202-282-8191
   top_level: false
   website: http://www.dhs.gov/xfoia/gc_1294073392661.shtm
-- address:
-    address_lines:
-    - Sandy Ford Page
-    city: Washington
-    state: DC
-    street: FOIA Officer
-    zip: '20528'
-  emails:
+- emails:
   - NPPD.FOIA@dhs.gov
   fax: 703-235-2052
   foia_officer:
@@ -1450,14 +1436,7 @@ departments:
     - 703-235-2211
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
-- address:
-    address_lines:
-    - Michael Page
-    city: Washington
-    state: DC
-    street: FOIA Officer
-    zip: '20528'
-  emails:
+- emails:
   - FOIAOPS@DHS.GOV
   fax: 202-282-9811
   foia_officer:

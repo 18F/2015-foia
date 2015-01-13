@@ -1654,13 +1654,7 @@ departments:
     - 202-693-4700
   top_level: false
   website: http://www.dol.gov/vets/foia/
-- address:
-    address_lines:
-    - FOIA Coordinator
-    - Room S-3201
-    - 200 Constitution Avenue, NW
-    street: Washington, DC 20210
-  keywords:
+- keywords:
   - Administrative practice and procedure
   - Agricultural commodities
   - Agriculture

@@ -5,7 +5,10 @@ departments:
     - Deirdre MacNeil
     - FOIA Officer
     - Room 10600
+    city: Washington
+    state: DC
     street: 1099 14th Street, NW
+    zip: '20570'
   fax: 202-273-3642
   foia_officer:
     name: Eric G. Moskowitz

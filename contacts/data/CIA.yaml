@@ -1,14 +1,6 @@
 abbreviation: CIA
 departments:
-- address:
-    address_lines:
-    - Michele Meeks
-    - Information and Privacy Coordinator
-    city: Washington
-    state: DC
-    street: Central Intelligence Agency
-    zip: '20505'
-  fax: 703-613-3007
+- fax: 703-613-3007
   name: Central Intelligence Agency
   phone: 703-613-1287
   public_liaison:

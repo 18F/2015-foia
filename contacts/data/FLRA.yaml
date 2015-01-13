@@ -3,7 +3,7 @@ address:
   address_lines:
   - Rosa M. Koppel
   - Solicitor, Office of the Solicitor
-  city: 'Washington '
+  city: Washington
   state: DC
   street: 1400 K Street, NW
   zip: '20424'
@@ -12,7 +12,7 @@ departments:
     address_lines:
     - Rosa M. Koppel
     - Solicitor, Office of the Solicitor
-    city: 'Washington '
+    city: Washington
     state: DC
     street: 1400 K Street, NW
     zip: '20424'
@@ -37,7 +37,7 @@ departments:
 - address:
     address_lines:
     - FOIA Contact
-    city: 'Washington '
+    city: Washington
     state: DC
     street: 1400 K Street, NW
     zip: '20424'
@@ -588,7 +588,7 @@ departments:
     address_lines:
     - FOIA Contact
     - 2nd Floor
-    city: 'Washington '
+    city: Washington
     state: DC
     street: 1400 K Street, NW
     zip: 25424-0001
@@ -659,7 +659,7 @@ departments:
 - address:
     address_lines:
     - FOIA Contact
-    city: 'Washington '
+    city: Washington
     state: DC
     street: 1400 K Street, NW
     zip: '20424'
@@ -735,7 +735,7 @@ departments:
 - address:
     address_lines:
     - FOIA Contact
-    city: 'Washington '
+    city: Washington
     state: DC
     street: 1400 K Street, NW
     zip: '20424'

@@ -5,7 +5,10 @@ departments:
     - Michael Bell
     - Acting FOIA Officer
     - Mary E. Switzer Building, Room 2221
+    city: Washington
+    state: DC
     street: 300 C Street, SW
+    zip: '20201'
   fax: 202-690-8320
   foia_officer:
     name: Michael Bell
@@ -206,13 +209,6 @@ departments:
   top_level: false
   website: http://oig.hhs.gov/foia/
 - abbreviation: ACL
-  address:
-    address_lines:
-    - Jason Bennett
-    city: Washington
-    state: DC
-    street: Acting FOIA Officer
-    zip: '20201'
   description: ACL brings together the efforts and achievements of the Administration
     on Aging, the Administration on Intellectual and Developmental Disabilities, and
     the HHS Office on Disability to serve as the Federal agency responsible for increasing

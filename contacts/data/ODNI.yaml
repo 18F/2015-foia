@@ -1,10 +1,6 @@
 abbreviation: DNI
 departments:
-- address:
-    address_lines:
-    - Jennifer Hudson
-    street: Director, Information Management Office
-  emails:
+- emails:
   - dni-foia@dni.gov
   fax: 703-874-8910
   misc:

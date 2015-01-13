@@ -1353,13 +1353,11 @@ departments:
   website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
 - address:
     address_lines:
-    - Julie Hetrick
-    - FOIA/PA Officer
     - Room 102-E
     city: Washington
     state: DC
     street: Whitten Building
-    zip: '20250'
+    zip: 20250.0
   fax: 202-690-3673
   misc:
     FOIA/PA Officer:

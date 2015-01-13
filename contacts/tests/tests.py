@@ -441,6 +441,8 @@ class ScraperTests(TestCase):
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
 
     def test_organize_address(self):
+        """ Verify that addresses are organized correctly """
+        # Test simple address
         address_list = [
             "Martha R. Sell", "FOIA Assistant", "Suite 500",
             "2300 Clarendon Boulevard", "Arlington, VA 22201"]
@@ -454,6 +456,25 @@ class ScraperTests(TestCase):
 
         address_list.remove("Suite 500")
         address_dict['address_lines'].remove("Suite 500")
+        self.assertEqual(scraper.organize_address(address_list), address_dict)
+
+        # Test more complex addresses
+        address_list = [
+            "FOIA Contact", "1400 K Street, NW", "Washington , DC 20424"]
+        address_dict = {
+            'state': 'DC',
+            'address_lines': ['FOIA Contact'],
+            'city': 'Washington',
+            'street': '1400 K Street, NW',
+            'zip': '20424'}
+        self.assertEqual(scraper.organize_address(address_list), address_dict)
+
+        address_list.pop()
+        address_list.append("Washington , DC 20424")
+        self.assertEqual(scraper.organize_address(address_list), address_dict)
+
+        address_list.pop()
+        address_list.append("Washington , DC  20424")
         self.assertEqual(scraper.organize_address(address_list), address_dict)
 
 

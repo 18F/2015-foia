@@ -111,13 +111,12 @@ departments:
   website: http://foia.state.gov/
 - address:
     address_lines:
-    - 'ATTN:  Zipora Bullard'
-    - FOIA Office
     - Department of State
-    - Office of Inspector General
     city: Washington
     state: DC
-    street: Office of General Counsel
+    street: 'Office of Inspector General
+
+      Office of General Counsel'
     zip: 20520-0308
   emails:
   - oigfoia@state.gov
