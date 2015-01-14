@@ -137,23 +137,18 @@ def find_emails(lines, ps):
     return emails
 
 
-def extract_numbers(phone_str):
+def extract_numbers(phones):
     """
     Extracts all phone numbers from a line and adds them to a list
     """
 
     clean_numbers = []
-    if "ext" in clean_numbers:
-        print (phone_str)
-    while True:
-        if PHONE_RE.match(phone_str):
-            clean_numbers.append(clean_phone_number(phone_str))
-            if "," not in phone_str:
-                break
-            phone_str = PHONE_RE.sub(repl="", string=phone_str, count=1)
-            phone_str = phone_str.replace(",", "", 1)
-        else:
-            break
+    phones = re.sub('[,\s(]+ext', ' ext', phones)
+    phones = phones.split(",")
+    for phone in phones:
+        phone = phone.strip()
+        if PHONE_RE.match(phone):
+            clean_numbers.append(clean_phone_number(phone))
     return clean_numbers
 
 
