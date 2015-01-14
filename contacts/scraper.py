@@ -143,6 +143,8 @@ def extract_numbers(phone_str):
     """
 
     clean_numbers = []
+    if "ext" in clean_numbers:
+        print (phone_str)
     while True:
         if PHONE_RE.match(phone_str):
             clean_numbers.append(clean_phone_number(phone_str))
@@ -155,23 +157,23 @@ def extract_numbers(phone_str):
     return clean_numbers
 
 
-def organize_contact(value):
+def contact_info(contact_str):
     """
     Organize contact info into a dictionary to facilitate extraction
     """
-    value = value.split("Phone: ")
-    name_str = value[0].strip(" ,'")
-    phone_str = value[-1]
+    contact_str = contact_str.split("Phone: ")
+    name_str = contact_str[0].strip(" ,'")
+    phone_str = contact_str[-1]
     clean_numbers = extract_numbers(phone_str)
 
-    cleaned_value = {}
+    cleaned_contact_str = {}
     if name_str:
-        cleaned_value['name'] = name_str
+        cleaned_contact_str['name'] = name_str
     if clean_numbers:
-        cleaned_value['phone'] = clean_numbers
+        cleaned_contact_str['phone'] = clean_numbers
 
-    if cleaned_value:
-        return cleaned_value
+    if cleaned_contact_str:
+        return cleaned_contact_str
 
 
 def find_bold_fields(ps):
@@ -235,12 +237,12 @@ def parse_department(elem, name):
             misc_key, misc_value = value
             if 'misc' not in data:
                 data['misc'] = {}
-            misc_value = organize_contact(misc_value)
+            misc_value = contact_info(misc_value)
             if misc_value:
                 data['misc'][misc_key] = misc_value
         else:
             if key in ['service_center', 'public_liaison', 'foia_officer']:
-                value = organize_contact(value)
+                value = contact_info(value)
 
             if value:
                 data[key] = value

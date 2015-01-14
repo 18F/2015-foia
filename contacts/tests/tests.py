@@ -291,7 +291,7 @@ class ScraperTests(TestCase):
         self.assertEqual(expected_output,
                          scraper.extract_numbers(phone_str))
 
-        # Still extracts 2 numbers even if thier formatting is ugly
+        # Still extracts 2 numbers even if their formatting is ugly
         phone_str += ", (928) 779-1111,, (ext. 145)"
         expected_output.append('928-779-1111 x145')
         self.assertEqual(expected_output,
@@ -302,14 +302,14 @@ class ScraperTests(TestCase):
         self.assertEqual(expected_output,
                          scraper.extract_numbers(phone_str))
 
-    def test_organize_contact(self):
+    def test_contact_info(self):
         """ Test if contacts are extracted an organized correctly """
 
         # Regular contact
         contact_str = "Denise Garrett, Phone: (202) 707-6800"
         self.assertEqual(
             {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
-            scraper.organize_contact(contact_str))
+            scraper.contact_info(contact_str))
 
         # Contact with multiple numbers
         contact_str = "Denise Garrett, Phone: (202) 707-6800, (202) 700-6811"
@@ -318,19 +318,25 @@ class ScraperTests(TestCase):
                 'name': 'Denise Garrett',
                 'phone': ['202-707-6800', '202-700-6811']
             },
-            scraper.organize_contact(contact_str))
+            scraper.contact_info(contact_str))
 
         # Contact with no name e.i. service centers
         contact_str = "Phone: (202) 707-6800"
         self.assertEqual(
             {'phone': ['202-707-6800']},
-            scraper.organize_contact(contact_str))
+            scraper.contact_info(contact_str))
 
         # Contact with no phone number
         contact_str = "Denise Garrett, Phone: "
         self.assertEqual(
             {'name': 'Denise Garrett'},
-            scraper.organize_contact(contact_str))
+            scraper.contact_info(contact_str))
+
+        # Contact with no `,` number
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
+            scraper.contact_info(contact_str))
 
     def test_find_bold_fields(self):
         """Three types of bold fields, simple key-value pairs (like 'notes'),
