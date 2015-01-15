@@ -108,9 +108,21 @@ def clean_phone_number(line):
                         "phone line: " + line)
 
 
-def organize_address(address_list):
+def address_list_to_dict(address_list):
     """
     Converts a list containing address elements into a dictionary
+
+    Address List
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]
+
+    Address Dict
+    {'state': 'VA', 'address_lines': ['Martha R. Sell', 'FOIA Assistant'],
+        'city': 'Arlington', 'street': '2300 Clarendon Boulevard',
+        'zip': '22201'}
+
+    Only returns an address dict if it contains a valid street, zip,
+    state, and city.
     """
     address_dict = {}
 
@@ -133,8 +145,11 @@ def organize_address(address_list):
 
 
 def split_address_from(lines):
-    """Address goes until we find a phone or service center. Separate lines
-    into address lines and remaining"""
+    """ Extracts address from lines into a list like the one below:
+    Address list
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]"""
+
     address_list, remaining = [], []
     cues = ("phone", "fax", "service center")
     for line in lines:
@@ -168,41 +183,38 @@ def find_emails(lines, ps):
     return emails
 
 
-def extract_numbers(phone_str):
+def extract_numbers(phones):
     """
     Extracts all phone numbers from a line and adds them to a list
     """
 
     clean_numbers = []
-    while True:
-        if PHONE_RE.match(phone_str):
-            clean_numbers.append(clean_phone_number(phone_str))
-            if "," not in phone_str:
-                break
-            phone_str = PHONE_RE.sub(repl="", string=phone_str, count=1)
-            phone_str = phone_str.replace(",", "", 1)
-        else:
-            break
+    phones = re.sub('[,\s(]+ext', ' ext', phones)
+    phones = phones.split(",")
+    for phone in phones:
+        phone = phone.strip()
+        if PHONE_RE.match(phone):
+            clean_numbers.append(clean_phone_number(phone))
     return clean_numbers
 
 
-def organize_contact(value):
+def organize_contact(contact_info):
     """
     Organize contact info into a dictionary to facilitate extraction
     """
-    value = value.split("Phone: ")
-    name_str = value[0].strip(" ,'")
-    phone_str = value[-1]
+    contact_info = contact_info.split("Phone: ")
+    name_str = contact_info[0].strip(" ,'")
+    phone_str = contact_info[-1]
     clean_numbers = extract_numbers(phone_str)
 
-    cleaned_value = {}
+    cleaned_contact_info = {}
     if name_str:
-        cleaned_value['name'] = name_str
+        cleaned_contact_info['name'] = name_str
     if clean_numbers:
-        cleaned_value['phone'] = clean_numbers
+        cleaned_contact_info['phone'] = clean_numbers
 
-    if cleaned_value:
-        return cleaned_value
+    if cleaned_contact_info:
+        return cleaned_contact_info
 
 
 def find_bold_fields(ps):
@@ -249,7 +261,7 @@ def parse_department(elem, name):
     lines, ps = lines[1:], ps[1:]
 
     address_list, lines = split_address_from(lines)
-    address_dict = organize_address(address_list=address_list)
+    address_dict = address_list_to_dict(address_list=address_list)
     if address_dict:
         data['address'] = address_dict
     else:

@@ -13,7 +13,14 @@ import yaml
 
 
 def organize_address(row):
-    """Convert a row of dictionary data into a dict of address lines"""
+    """
+    Organizes a row of dictionary data into a format compatible with the
+    format in the yaml files.
+    Address Dict
+    {'address_lines': ['Room 443'], 'city': 'Arlington',
+         'state': 'VA', 'street': '2300 Clarendon Boulevard', 'zip': '22201'}
+    Will only return the dict if street, city, state, and zip are present.
+    """
 
     address_dict = {}
 

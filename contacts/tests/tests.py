@@ -291,7 +291,7 @@ class ScraperTests(TestCase):
         self.assertEqual(expected_output,
                          scraper.extract_numbers(phone_str))
 
-        # Still extracts 2 numbers even if thier formatting is ugly
+        # Still extracts 2 numbers even if their formatting is ugly
         phone_str += ", (928) 779-1111,, (ext. 145)"
         expected_output.append('928-779-1111 x145')
         self.assertEqual(expected_output,
@@ -335,6 +335,12 @@ class ScraperTests(TestCase):
         contact_str = "Denise Garrett, Phone: "
         self.assertEqual(
             {'name': 'Denise Garrett'},
+            scraper.organize_contact(contact_str))
+
+        # Contact with no `,` number
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
             scraper.organize_contact(contact_str))
 
     def test_find_bold_fields(self):
@@ -445,7 +451,7 @@ class ScraperTests(TestCase):
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
 
-    def test_organize_address(self):
+    def test_address_list_to_dict(self):
         """ Verify that addresses are organized correctly """
         # Test simple address
         address_list = [
@@ -457,11 +463,13 @@ class ScraperTests(TestCase):
             'city': 'Arlington',
             'street': '2300 Clarendon Boulevard',
             'zip': '22201'}
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
 
         address_list.remove("Suite 500")
         address_dict['address_lines'].remove("Suite 500")
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
 
         # Test more complex addresses
         address_list = [
@@ -472,15 +480,18 @@ class ScraperTests(TestCase):
             'city': 'Washington',
             'street': '1400 K Street, NW',
             'zip': '20424'}
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
 
         address_list.pop()
         address_list.append("Washington , DC 20424")
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
 
         address_list.pop()
         address_list.append("Washington , DC  20424")
-        self.assertEqual(scraper.organize_address(address_list), address_dict)
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
 
 
 class LayerTests(TestCase):
