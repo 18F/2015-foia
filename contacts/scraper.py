@@ -165,41 +165,38 @@ def find_emails(lines, ps):
     return emails
 
 
-def extract_numbers(phone_str):
+def extract_numbers(phones):
     """
     Extracts all phone numbers from a line and adds them to a list
     """
 
     clean_numbers = []
-    while True:
-        if PHONE_RE.match(phone_str):
-            clean_numbers.append(clean_phone_number(phone_str))
-            if "," not in phone_str:
-                break
-            phone_str = PHONE_RE.sub(repl="", string=phone_str, count=1)
-            phone_str = phone_str.replace(",", "", 1)
-        else:
-            break
+    phones = re.sub('[,\s(]+ext', ' ext', phones)
+    phones = phones.split(",")
+    for phone in phones:
+        phone = phone.strip()
+        if PHONE_RE.match(phone):
+            clean_numbers.append(clean_phone_number(phone))
     return clean_numbers
 
 
-def organize_contact(value):
+def organize_contact(contact_info):
     """
     Organize contact info into a dictionary to facilitate extraction
     """
-    value = value.split("Phone: ")
-    name_str = value[0].strip(" ,'")
-    phone_str = value[-1]
+    contact_info = contact_info.split("Phone: ")
+    name_str = contact_info[0].strip(" ,'")
+    phone_str = contact_info[-1]
     clean_numbers = extract_numbers(phone_str)
 
-    cleaned_value = {}
+    cleaned_contact_info = {}
     if name_str:
-        cleaned_value['name'] = name_str
+        cleaned_contact_info['name'] = name_str
     if clean_numbers:
-        cleaned_value['phone'] = clean_numbers
+        cleaned_contact_info['phone'] = clean_numbers
 
-    if cleaned_value:
-        return cleaned_value
+    if cleaned_contact_info:
+        return cleaned_contact_info
 
 
 def find_bold_fields(ps):

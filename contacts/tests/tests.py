@@ -291,7 +291,7 @@ class ScraperTests(TestCase):
         self.assertEqual(expected_output,
                          scraper.extract_numbers(phone_str))
 
-        # Still extracts 2 numbers even if thier formatting is ugly
+        # Still extracts 2 numbers even if their formatting is ugly
         phone_str += ", (928) 779-1111,, (ext. 145)"
         expected_output.append('928-779-1111 x145')
         self.assertEqual(expected_output,
@@ -330,6 +330,12 @@ class ScraperTests(TestCase):
         contact_str = "Denise Garrett, Phone: "
         self.assertEqual(
             {'name': 'Denise Garrett'},
+            scraper.organize_contact(contact_str))
+
+        # Contact with no `,` number
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
             scraper.organize_contact(contact_str))
 
     def test_find_bold_fields(self):
