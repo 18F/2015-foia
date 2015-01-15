@@ -4,18 +4,15 @@ import yaml
 import logging
 
 
-def log_spelling_differences(manual_data, auto_data, error_msg):
-    """ Warns users of spelling errors in manual data """
-    spelling_error = list(set(manual_data) - set(auto_data))
-    if spelling_error:
-        logging.warning(error_msg + ": %s" % spelling_error)
-        return 1
-    else:
-        return 0
+def log_differences(manual_data, scraped_data):
+    """
+    Returns a list of differences between the manual and scraped data lists.
+    """
+    return list(set(manual_data) - set(scraped_data))
 
 
-def log_duplicates(manual_data, error_msg):
-    """ Returns a list of duplicate values"""
+def log_duplicates(manual_data):
+    """ Returns a list of duplicates """
     seen = set()
     dups = list()
     for element in manual_data:
@@ -23,19 +20,17 @@ def log_duplicates(manual_data, error_msg):
             seen.add(element)
         else:
             dups.append(element)
-    if dups:
-        logging.warning(error_msg + ": %s" % dups)
-        return 1
-    else:
-        return 0
+    return dups
 
 
 def validate_manual_data():
-    """ Checks for duplicate and misspelled departments in manual data """
+    """
+    Checks for duplicate and spelling inconsistencies departments in
+    manual data
+    """
 
-    office_spelling_errors = 0
-    office_duplicate_errors = 0
-    dept_spelling_errors = 0
+    spelling_inconsistencies = 0
+    duplicates = 0
 
     for filename in glob("manual_data" + os.sep + "*.yaml"):
         manual_dept_name, manual_office_names, dept_name, office_names = \
@@ -57,26 +52,35 @@ def validate_manual_data():
                 office_names.append(internal_data['name'])
 
         if manual_office_names:
-            office_spelling_errors += log_spelling_differences(
+            office_spelling_diffs = log_differences(
                 manual_data=manual_office_names,
-                auto_data=office_names,
-                error_msg="Invalid Office Name in %s" % filename)
+                scraped_data=office_names)
+            if office_spelling_diffs:
+                spelling_inconsistencies += 1
+                logging.warning(
+                    'Spelling Inconsistency in %s - %s',
+                    filename, ", ".join(office_spelling_diffs))
 
-            office_duplicate_errors += log_duplicates(
-                manual_data=manual_office_names,
-                error_msg="Duplicated Office Name in %s" % filename)
+            office_duplicates = log_duplicates(
+                manual_data=manual_office_names)
+            if office_duplicates:
+                duplicates += 1
+                logging.warning(
+                    'Duplicates in %s - %s',
+                    filename, ", ".join(office_duplicates))
 
         if manual_dept_name:
-            dept_spelling_errors += log_spelling_differences(
+            dept_spelling_diffs = log_differences(
                 manual_data=manual_dept_name,
-                auto_data=dept_name,
-                error_msg="Invalid Top-level. Name in %s" % filename)
+                scraped_data=dept_name)
+            if dept_spelling_diffs:
+                spelling_inconsistencies += 1
+                logging.warning(
+                    'Spelling Inconsistency in %s - %s',
+                    filename, ", ".join(dept_spelling_diffs))
 
-    logging.info("%s spelling error(s) in yamls",
-                 office_spelling_errors + dept_spelling_errors)
-
-    logging.info("%s duplicate error(s) in yamls", office_duplicate_errors)
-
+    logging.info("Spelling Inconsistencies: %s", spelling_inconsistencies)
+    logging.info("Duplicates: %s", duplicates)
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
