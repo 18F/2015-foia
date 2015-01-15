@@ -105,9 +105,21 @@ def clean_phone_number(line):
                         "phone line: " + line)
 
 
-def organize_address(address_list):
+def address_list_to_dict(address_list):
     """
     Converts a list containing address elements into a dictionary
+
+    Address List
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]
+
+    Address Dict
+    {'state': 'VA', 'address_lines': ['Martha R. Sell', 'FOIA Assistant'],
+        'city': 'Arlington', 'street': '2300 Clarendon Boulevard',
+        'zip': '22201'}
+
+    Only returns an address dict if it contains a valid street, zip,
+    state, and city.
     """
     address_dict = {}
 
@@ -130,8 +142,11 @@ def organize_address(address_list):
 
 
 def split_address_from(lines):
-    """Address goes until we find a phone or service center. Separate lines
-    into address lines and remaining"""
+    """ Extracts address from lines into a list like the one below:
+    Address list
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]"""
+
     address_list, remaining = [], []
     cues = ("phone", "fax", "service center")
     for line in lines:
@@ -243,7 +258,7 @@ def parse_department(elem, name):
     lines, ps = lines[1:], ps[1:]
 
     address_list, lines = split_address_from(lines)
-    address_dict = organize_address(address_list=address_list)
+    address_dict = address_list_to_dict(address_list=address_list)
     if address_dict:
         data['address'] = address_dict
     else:
