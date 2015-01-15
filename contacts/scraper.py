@@ -36,8 +36,9 @@ PHONE_RE = re.compile(
     r"""(?P<prefix>\+?[\d\s\(\)\-]*)"""
     r"""(?P<area_code>\(?\d{3}\)?[\s\-\(\)]*)"""
     r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
-    r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
-    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
+    r"""(?P<last_four>\d{4}[\-\s]*)"""
+    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?"""
+    r"""(?P<tty>\s*\(tty)?""", re.IGNORECASE)
 
 ADDY_RE = re.compile(
     r"""(?P<city>.*)"""
@@ -98,6 +99,8 @@ def clean_phone_number(line):
         if extension:
             extension = re.sub("\D", "", extension)
             number = number + " x" + extension
+        if match.group("tty"):
+            number += " (TTY)"
         return number
 
     else:
