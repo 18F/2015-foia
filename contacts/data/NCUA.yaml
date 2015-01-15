@@ -1,10 +1,13 @@
 abbreviation: NCUA
 departments:
 - address:
-  - Lara Rodriguez
-  - Staff Attorney/FOIA Officer, Office of General Counsel
-  - 1775 Duke Street
-  - Alexandria, VA 22314
+    address_lines:
+    - Lara Rodriguez
+    - Staff Attorney/FOIA Officer, Office of General Counsel
+    city: Alexandria
+    state: VA
+    street: 1775 Duke Street
+    zip: '22314'
   emails:
   - FOIA@ncua.gov
   fax: 703-518-6569
@@ -25,10 +28,13 @@ departments:
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
 - address:
-  - Sharon Separ
-  - Staff Attorney/FOIA Officer, Office of the Inspector General
-  - 1775 Duke Street
-  - Alexandria, VA 22314
+    address_lines:
+    - Sharon Separ
+    - Staff Attorney/FOIA Officer, Office of the Inspector General
+    city: Alexandria
+    state: VA
+    street: 1775 Duke Street
+    zip: '22314'
   emails:
   - FOIA@ncua.gov
   fax: 703-518-6349

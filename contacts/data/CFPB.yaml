@@ -1,9 +1,12 @@
 abbreviation: CFPB
 departments:
 - address:
-  - Chief FOIA Officer
-  - 1700 G Street, NW
-  - Washington, DC 20552
+    address_lines:
+    - Chief FOIA Officer
+    city: Washington
+    state: DC
+    street: 1700 G Street, NW
+    zip: '20552'
   emails:
   - foia@cfpb.gov
   fax: 855-329-3642

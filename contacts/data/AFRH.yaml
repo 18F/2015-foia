@@ -1,11 +1,14 @@
 abbreviation: AFRH
 departments:
 - address:
-  - Pebbles P. Young
-  - P.O. Box 2875
-  - 3700 North Capitol Street NW
-  - P.O. Box 2875
-  - Washington, DC 20011
+    address_lines:
+    - Pebbles P. Young
+    - P.O. Box 2875
+    - 3700 North Capitol Street NW
+    city: Washington
+    state: DC
+    street: P.O. Box 2875
+    zip: '20011'
   emails:
   - Pebbles.Young@AFRH.Gov
   fax: 202-541-7506

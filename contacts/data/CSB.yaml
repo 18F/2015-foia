@@ -1,11 +1,14 @@
 abbreviation: CSB
 departments:
 - address:
-  - Chris Warner
-  - CSB FOIA Officer
-  - Suite C-100
-  - 2175 K Street, NW
-  - Washington, DC 20037
+    address_lines:
+    - Chris Warner
+    - CSB FOIA Officer
+    - Suite C-100
+    city: Washington
+    state: DC
+    street: 2175 K Street, NW
+    zip: '20037'
   emails: []
   fax: 202-974-7619
   foia_officer:

@@ -1,11 +1,14 @@
 abbreviation: OSHRC
 departments:
 - address:
-  - FOIA Request - OSHRC
-  - FOIA Requester Service Center
-  - 9th Floor
-  - 1120 20th Street, NW
-  - Washington, DC  20036-3457
+    address_lines:
+    - FOIA Request - OSHRC
+    - FOIA Requester Service Center
+    - 9th Floor
+    city: Washington
+    state: DC
+    street: 1120 20th Street, NW
+    zip: 20036-3457
   fax: 202-606-5417
   name: Occupational Safety and Health Review Commission
   phone: 202-606-5700

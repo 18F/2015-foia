@@ -1,10 +1,13 @@
 abbreviation: EXIM
 departments:
 - address:
-  - Dawn R. Kral
-  - FOIA Contact
-  - 811 Vermont Avenue, NW
-  - Washington, DC 20571
+    address_lines:
+    - Dawn R. Kral
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 811 Vermont Avenue, NW
+    zip: '20571'
   emails:
   - foia@exim.gov
   fax: 202-565-3294

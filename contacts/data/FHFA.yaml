@@ -1,11 +1,14 @@
 abbreviation: FHFA
 departments:
 - address:
-  - Stacy J. Easter
-  - FOIA Officer
-  - Constitution Center
-  - 400 7th Street, SW
-  - Washington, DC 20024
+    address_lines:
+    - Stacy J. Easter
+    - FOIA Officer
+    - Constitution Center
+    city: Washington
+    state: DC
+    street: 400 7th Street, SW
+    zip: '20024'
   emails:
   - FOIA@fhfa.gov
   fax: 202-649-1703

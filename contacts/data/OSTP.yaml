@@ -3,10 +3,13 @@ common_requests:
 - Records on OSTP's scientific advice and correspondance.
 departments:
 - address:
-  - Rachael Leonard
-  - General Counsel
-  - 1650 Pennsylvania, NW
-  - Washington, DC 20504
+    address_lines:
+    - Rachael Leonard
+    - General Counsel
+    city: Washington
+    state: DC
+    street: 1650 Pennsylvania, NW
+    zip: '20504'
   fax: 202-395-1224
   name: Office of Science and Technology Policy
   phone: 202-456-6125

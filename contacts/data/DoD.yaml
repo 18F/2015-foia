@@ -2,10 +2,13 @@ abbreviation: DOD
 departments:
 - abbreviation: ''
   address:
-  - FOIA Contact
-  - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
-  - 1155 Defense Pentagon
-  - Washington, DC 20301-1155
+    address_lines:
+    - FOIA Contact
+    - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
+    city: Washington
+    state: DC
+    street: 1155 Defense Pentagon
+    zip: 20301-1155
   description: This Requester Service Center (RSC) processes Freedom of Information
     Act (FOIA) requests for records related to the Office of the Secretary of Defense
     and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
@@ -116,11 +119,14 @@ departments:
   usa_id: None
   website: http://www.dod.gov/pubs/foi/
 - address:
-  - JoAnne Collins
-  - FOIA Contact
-  - SAF/AAII (FOIA)
-  - 1000 Air Force Pentagon
-  - Washington, DC 20330-1000
+    address_lines:
+    - JoAnne Collins
+    - FOIA Contact
+    - SAF/AAII (FOIA)
+    city: Washington
+    state: DC
+    street: 1000 Air Force Pentagon
+    zip: 20330-1000
   emails: []
   fax: 703-696-7273
   keywords:
@@ -250,12 +256,15 @@ departments:
   top_level: true
   website: http://www.foia.af.mil/
 - address:
-  - Alecia Bolling
-  - FOIA Contact
-  - Freedom of Information Act Office
-  - Suite 144
-  - 7701 Telegraph Road, Room 150
-  - Alexandria, VA 22315-3905
+    address_lines:
+    - Alecia Bolling
+    - FOIA Contact
+    - Freedom of Information Act Office
+    - Suite 144
+    city: Alexandria
+    state: VA
+    street: 7701 Telegraph Road, Room 150
+    zip: 22315-3905
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
@@ -392,11 +401,14 @@ departments:
   top_level: true
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
-  - Robin Patterson
-  - FOIA Contact, Chief of Naval Operations
-  - (DNS-36)
-  - 2000 Navy Pentagon
-  - Washington, DC 20350-2000
+    address_lines:
+    - Robin Patterson
+    - FOIA Contact, Chief of Naval Operations
+    - (DNS-36)
+    city: Washington
+    state: DC
+    street: 2000 Navy Pentagon
+    zip: 20350-2000
   fax: 202-685-6580
   keywords:
   - Administrative practice and procedure
@@ -536,11 +548,14 @@ departments:
   top_level: true
   website: https://foia.navy.mil
 - address:
-  - Sally A. Hughes
-  - Head, FOIA/PA
-  - Commandant of the Marine Corps (ARSF), FOIA/PA Section (ARSF)
-  - 3000 Marine Corps Pentagon
-  - Washington, DC 20350-3000
+    address_lines:
+    - Sally A. Hughes
+    - Head, FOIA/PA
+    - Commandant of the Marine Corps (ARSF), FOIA/PA Section (ARSF)
+    city: Washington
+    state: DC
+    street: 3000 Marine Corps Pentagon
+    zip: 20350-3000
   fax: 703-614-6287
   misc:
     Head, FOIA/PA:
@@ -567,11 +582,14 @@ departments:
   top_level: true
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
-  - Catherine A. Stanton
-  - General Counsel
-  - Skyline 6, Suite 700
-  - 5109 Leesburg Pike
-  - Falls Church, VA 22041-3208
+    address_lines:
+    - Catherine A. Stanton
+    - General Counsel
+    - Skyline 6, Suite 700
+    city: Falls Church
+    state: VA
+    street: 5109 Leesburg Pike
+    zip: 22041-3208
   emails: []
   fax: 703-681-8535
   misc:
@@ -646,10 +664,13 @@ departments:
   top_level: false
   website: http://www.asbca.mil
 - address:
-  - Comillo DeSantis
-  - FOIA/Privacy Officer
-  - 1300 E Avenue
-  - Fort Lee, VA 23801-1800
+    address_lines:
+    - Comillo DeSantis
+    - FOIA/Privacy Officer
+    city: Fort Lee
+    state: VA
+    street: 1300 E Avenue
+    zip: 23801-1800
   emails:
   - foia@deca.mil
   fax: 804-734-8116
@@ -728,11 +749,14 @@ departments:
   top_level: false
   website: http://www.commissaries.com/foiainfo.cfm
 - address:
-  - Keith Mastromichalis
-  - 'ATTN: CMR, FOIA Service Center'
-  - Suite 2135
-  - 8725 John J. Kingman Road
-  - Fort Belvoir, VA 22060-6219
+    address_lines:
+    - Keith Mastromichalis
+    - 'ATTN: CMR, FOIA Service Center'
+    - Suite 2135
+    city: Fort Belvoir
+    state: VA
+    street: 8725 John J. Kingman Road
+    zip: 22060-6219
   emails:
   - DCAA-FOIA@dcaa.mil
   fax: 703-767-1011
@@ -819,11 +843,14 @@ departments:
   top_level: false
   website: http://www.dcaa.mil/foia.htm
 - address:
-  - Donna Williamson/Kimberly Turner
-  - FOIA/PA Privacy Officer/FOIA Analyst
-  - 3901 A Avenue
-  - BLDG 10500
-  - Fort Lee, VA 23801
+    address_lines:
+    - Donna Williamson/Kimberly Turner
+    - FOIA/PA Privacy Officer/FOIA Analyst
+    - 3901 A Avenue
+    city: Fort Lee
+    state: VA
+    street: BLDG 10500
+    zip: '23801'
   emails:
   - DCMA.FOIA@DCMA.mil
   fax: 804-734-0109
@@ -923,11 +950,14 @@ departments:
   top_level: false
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
 - address:
-  - Gregory Outlaw
-  - FOIA/PA Program Manager/FOIA Liaison officer
-  - Corporate Communications
-  - 8899 E. 56th Street
-  - Indianapolis, IN 46249-0150
+    address_lines:
+    - Gregory Outlaw
+    - FOIA/PA Program Manager/FOIA Liaison officer
+    - Corporate Communications
+    city: Indianapolis
+    state: IN
+    street: 8899 E. 56th Street
+    zip: 46249-0150
   emails:
   - gregory.outlaw@dfas.mil
   fax: 317-212-8802
@@ -1028,10 +1058,13 @@ departments:
   top_level: false
   website: http://www.dfas.mil/foia.html
 - address:
-  - Robin M. Berger
-  - 'ATTN: Headquarters FOIA Requester Service Center'
-  - P.O. Box 549
-  - Ft. Meade, MD 20755
+    address_lines:
+    - Robin M. Berger
+    - 'ATTN: Headquarters FOIA Requester Service Center'
+    city: Ft. Meade
+    state: MD
+    street: P.O. Box 549
+    zip: '20755'
   emails:
   - disa.meade.gc.mbx.disa-gen-counsel@mail.mil
   fax: 301-225-0510
@@ -1050,11 +1083,14 @@ departments:
   top_level: false
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
 - address:
-  - Alesia Y. Williams
-  - Chief, FOIA Services Branch
-  - 'ATTN: DAN-1A (FOIA)'
-  - 200 MacDill Boulevard
-  - Washington, DC 20340-5100
+    address_lines:
+    - Alesia Y. Williams
+    - Chief, FOIA Services Branch
+    - 'ATTN: DAN-1A (FOIA)'
+    city: Washington
+    state: DC
+    street: 200 MacDill Boulevard
+    zip: 20340-5100
   emails:
   - foia@dodiis.mil
   fax: 301-394-5356
@@ -1145,11 +1181,14 @@ departments:
   top_level: false
   website: http://www.dia.mil/FOIA.aspx
 - address:
-  - Debbie Teer
-  - 'FOIA Contact, ATTN: DGA'
-  - Suite 1644
-  - 8725 John J. Kingman Road
-  - Fort Belvoir, VA 22060-6221
+    address_lines:
+    - Debbie Teer
+    - 'FOIA Contact, ATTN: DGA'
+    - Suite 1644
+    city: Fort Belvoir
+    state: VA
+    street: 8725 John J. Kingman Road
+    zip: 22060-6221
   emails:
   - hq-foia@dla.mil
   fax: 703-767-6091
@@ -1253,10 +1292,13 @@ departments:
   top_level: false
   website: http://www.dla.mil/foia-privacy/
 - address:
-  - Leslie Blake
-  - Office of FOI and Privacy
-  - 27130 Telegraph Road
-  - Quantico, VA 22314
+    address_lines:
+    - Leslie Blake
+    - Office of FOI and Privacy
+    city: Quantico
+    state: VA
+    street: 27130 Telegraph Road
+    zip: '22314'
   emails:
   - Leslie.Blake@dss.mil
   fax: 571-305-6931
@@ -1337,11 +1379,14 @@ departments:
   top_level: false
   website: https://www.dss.mil/foia/foia_program.html
 - address:
-  - Juanita Y. Gaines
-  - FOIA/Privacy Act Ofc (JOXGP-F)
-  - MSC 6201
-  - 8725 John J. Kingman Road
-  - Fort Belvoir, VA 22060-6201
+    address_lines:
+    - Juanita Y. Gaines
+    - FOIA/Privacy Act Ofc (JOXGP-F)
+    - MSC 6201
+    city: Fort Belvoir
+    state: VA
+    street: 8725 John J. Kingman Road
+    zip: 22060-6201
   emails:
   - efoia@dtra.mil
   fax: 703-767-3623
@@ -1365,11 +1410,14 @@ departments:
   top_level: false
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
 - address:
-  - Michael A. Hamilton
-  - FOIA Contact (DTIC-R)
-  - Suite 0944
-  - 8725 John J. Kingman Road
-  - Fort Belvoir, VA 22060-6218
+    address_lines:
+    - Michael A. Hamilton
+    - FOIA Contact (DTIC-R)
+    - Suite 0944
+    city: Fort Belvoir
+    state: VA
+    street: 8725 John J. Kingman Road
+    zip: 22060-6218
   emails:
   - foia@dtic.mil
   fax: 703-767-9201
@@ -1452,11 +1500,14 @@ departments:
   top_level: false
   website: http://www.dtic.mil/dtic/foia.html
 - address:
-  - James Revell
-  - FOIA Contact
-  - Requester Service Center
-  - 4800 Mark Center Drive
-  - Alexandria, VA 22350-1400
+    address_lines:
+    - James Revell
+    - FOIA Contact
+    - Requester Service Center
+    city: Alexandria
+    state: VA
+    street: 4800 Mark Center Drive
+    zip: 22350-1400
   emails:
   - foia@hq.dodea.edu
   fax: 571-372-5829
@@ -1544,10 +1595,13 @@ departments:
   top_level: false
   website: http://www.dodea.edu/foia.cfm
 - address:
-  - FOIA Program Manager
-  - Mail Stop S01-EGM
-  - 7500 GEOINT Drive
-  - Springfield, VA 22150
+    address_lines:
+    - FOIA Program Manager
+    - Mail Stop S01-EGM
+    city: Springfield
+    state: VA
+    street: 7500 GEOINT Drive
+    zip: '22150'
   emails:
   - foianga@nga.mil
   fax: 571-557-3130
@@ -1631,11 +1685,14 @@ departments:
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - abbreviation: ''
   address:
-  - Jennifer Nikolaisen
-  - Chief FOIA Officer
-  - Office of Information and Privacy (NGB/JA-OIP)
-  - 111 South George Mason Drive, AH2
-  - Arlington, VA 22204-1373
+    address_lines:
+    - Jennifer Nikolaisen
+    - Chief FOIA Officer
+    - Office of Information and Privacy (NGB/JA-OIP)
+    city: Arlington
+    state: VA
+    street: 111 South George Mason Drive, AH2
+    zip: 22204-1373
   description: The National Guard assists in times of local emergency and can also
     be called into federal service.
   emails:
@@ -1713,11 +1770,14 @@ departments:
   website: http://www.arng.army.mil/Pages/FOIA.aspx
 - abbreviation: NRO
   address:
-  - Patricia B. Cameresi
-  - Chief, Information Review and Release Group
-  - 'ATTN: CIO/Information Management Services Office'
-  - 14675 Lee Road
-  - Chantilly, VA 20151-1715
+    address_lines:
+    - Patricia B. Cameresi
+    - Chief, Information Review and Release Group
+    - 'ATTN: CIO/Information Management Services Office'
+    city: Chantilly
+    state: VA
+    street: 14675 Lee Road
+    zip: 20151-1715
   description: The National Reconnaissance Office is responsible for designing, building,
     launching, and maintaining intelligence satellites.
   emails:
@@ -1818,11 +1878,14 @@ departments:
   website: http://www.nro.gov/foia/index.html
 - abbreviation: NSA
   address:
-  - Cindy S. Blacker
-  - FOIA Contact, FOIA Requester Service Center/DJ4
-  - Suite 6248
-  - 9800 Savage Road
-  - Fort George G. Meade, MD 20755-6248
+    address_lines:
+    - Cindy S. Blacker
+    - FOIA Contact, FOIA Requester Service Center/DJ4
+    - Suite 6248
+    city: Fort George G. Meade
+    state: MD
+    street: 9800 Savage Road
+    zip: 20755-6248
   description: The National Security Agency and Central Security Service are the "codemaker
     and codebreakers" of the intelligence community, providing foreign signal and
     communications intelligence to decision makers.
@@ -1926,11 +1989,14 @@ departments:
   usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
 - address:
-  - Jeanne Miller
-  - Chief, Freedom of Information & Privacy Office
-  - Suite 17F18
-  - 4800 Mark Center Drive
-  - Alexandria, VA 22350-1500
+    address_lines:
+    - Jeanne Miller
+    - Chief, Freedom of Information & Privacy Office
+    - Suite 17F18
+    city: Alexandria
+    state: VA
+    street: 4800 Mark Center Drive
+    zip: 22350-1500
   fax: 571-972-7498
   misc:
     Chief, Freedom of Information & Privacy Office:
@@ -2030,10 +2096,13 @@ departments:
   top_level: false
   website: http://www.dodig.mil/FOIA/index.html
 - address:
-  - Glinda Hodgkin
-  - TMA FOIA Officer
-  - 16401 East Centretech Parkway
-  - Aurora, CO 80011-9066
+    address_lines:
+    - Glinda Hodgkin
+    - TMA FOIA Officer
+    city: Aurora
+    state: CO
+    street: 16401 East Centretech Parkway
+    zip: 80011-9066
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 303-371-4170
@@ -2128,11 +2197,14 @@ departments:
   top_level: false
   website: http://www.tricare.mil/tma/privacy/foia.aspx
 - address:
-  - FOIA Contact
-  - HQ U.S. Africa Command
-  - FOIA Requester Service Center
-  - Unit 29951
-  - APO, AE 09751
+    address_lines:
+    - FOIA Contact
+    - HQ U.S. Africa Command
+    - FOIA Requester Service Center
+    city: APO
+    state: AE
+    street: Unit 29951
+    zip: 09751
   emails:
   - africom.stuttgart.accc.list.foia-mba@mail.mil
   fax: +490 711-729-4732
@@ -2203,10 +2275,13 @@ departments:
   top_level: false
   website: http://www.africom.mil/FOIA.asp
 - address:
-  - FOIA Contact
-  - U.S. Central Command CCJ6-RDF (FOIA)
-  - 7115 South Boundary Boulevard
-  - MacDill AFB, FL 33621-5101
+    address_lines:
+    - FOIA Contact
+    - U.S. Central Command CCJ6-RDF (FOIA)
+    city: MacDill AFB
+    state: FL
+    street: 7115 South Boundary Boulevard
+    zip: 33621-5101
   emails:
   - foiaoffice@centcom.mil
   fax: 813-827-6332
@@ -2305,11 +2380,14 @@ departments:
   top_level: false
   website: http://www.centcom.mil/en/freedom-of-information-act-en
 - address:
-  - FOIA Contact
-  - HQ USEUCOM
-  - FOIA Requester Service Center
-  - Unit 30400
-  - APO, AE 09131
+    address_lines:
+    - FOIA Contact
+    - HQ USEUCOM
+    - FOIA Requester Service Center
+    city: APO
+    state: AE
+    street: Unit 30400
+    zip: 09131
   emails:
   - eucom.stuttgart.ecj1.list.foia-privact-request-mb-access@mail.mil
   fax: +49011 711-680-8092
@@ -2404,10 +2482,13 @@ departments:
   top_level: false
   website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
 - address:
-  - FOIA Contact
-  - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
-  - 1155 Defense Pentagon
-  - Washington, DC 20301-1155
+    address_lines:
+    - FOIA Contact
+    - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
+    city: Washington
+    state: DC
+    street: 1155 Defense Pentagon
+    zip: 20301-1155
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 571-372-0500
@@ -2481,11 +2562,14 @@ departments:
   top_level: false
   website: http://www.dod.gov/pubs/foi/
 - address:
-  - FOIA Officer
-  - HQ NORAD USNORTHCOM/CS
-  - Suite B016
-  - 250 Vandenberg Street
-  - Peterson AFB, CO 80914-3804
+    address_lines:
+    - FOIA Officer
+    - HQ NORAD USNORTHCOM/CS
+    - Suite B016
+    city: Peterson AFB
+    state: CO
+    street: 250 Vandenberg Street
+    zip: 80914-3804
   emails:
   - n-nc.peterson.n-ncspecialstaff.mbx.cska-foia-omb@mail.mil
   fax: 719-554-4431
@@ -2570,10 +2654,13 @@ departments:
   top_level: false
   website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
 - address:
-  - FOIA Contact
-  - 'ATTN: J151 FOIA Requester Service Center'
-  - Box 64017
-  - Camp H.M. Smith , HI 96861-4017
+    address_lines:
+    - FOIA Contact
+    - 'ATTN: J151 FOIA Requester Service Center'
+    city: Camp H.M. Smith
+    state: HI
+    street: Box 64017
+    zip: 96861-4017
   emails:
   - pacom.foia.fct@pacom.mil
   fax: 808-447-6685
@@ -2667,11 +2754,14 @@ departments:
   top_level: false
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - address:
-  - Marco T. Villalobos
-  - FOIA Contact
-  - 'ATTN: SCJ224 (FOIA)'
-  - 9301 NW 33rd Street
-  - Doral, FL 33172
+    address_lines:
+    - Marco T. Villalobos
+    - FOIA Contact
+    - 'ATTN: SCJ224 (FOIA)'
+    city: Doral
+    state: FL
+    street: 9301 NW 33rd Street
+    zip: '33172'
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   foia_officer:
@@ -2756,11 +2846,14 @@ departments:
   top_level: false
   website: http://www.socom.mil/FOIA/Pages/default.aspx
 - address:
-  - FOIA Contact
-  - HQ USSOCOM
-  - 'ATTN: SOCS-SJS-I/FOIA Requester Service Fenter'
-  - 7701 Tampa Point Boulevard
-  - MacDill AFB, FL 33621-5323
+    address_lines:
+    - FOIA Contact
+    - HQ USSOCOM
+    - 'ATTN: SOCS-SJS-I/FOIA Requester Service Fenter'
+    city: MacDill AFB
+    state: FL
+    street: 7701 Tampa Point Boulevard
+    zip: 33621-5323
   emails:
   - foia@socom.mil
   fax: 813-826-5482
@@ -2853,11 +2946,14 @@ departments:
   top_level: false
   website: http://www.socom.mil/foia/Pages/FOIARequesterServiceCenter.aspx
 - address:
-  - FOIA Contact
-  - USSTRATCOM/J006 (FOIA)
-  - Suite 2E20A
-  - 901 Sac Boulevard
-  - Offutt AFB, NE 68113
+    address_lines:
+    - FOIA Contact
+    - USSTRATCOM/J006 (FOIA)
+    - Suite 2E20A
+    city: Offutt AFB
+    state: NE
+    street: 901 Sac Boulevard
+    zip: '68113'
   emails:
   - FOIA-PARequestCenter-U@stratcom.mil
   fax: 402-294-7535
@@ -2948,11 +3044,14 @@ departments:
   top_level: false
   website: http://www.stratcom.mil/foia/
 - address:
-  - Jolynn Bien
-  - Command FOIA Officer
-  - USTRANSCOM/TCCS-FO
-  - 508 Scott Drive
-  - Scott AFB, IL 62225-5357
+    address_lines:
+    - Jolynn Bien
+    - Command FOIA Officer
+    - USTRANSCOM/TCCS-FO
+    city: Scott AFB
+    state: IL
+    street: 508 Scott Drive
+    zip: 62225-5357
   emails:
   - USTCCS-FO@ustranscom.mil
   fax: 618-229-4711

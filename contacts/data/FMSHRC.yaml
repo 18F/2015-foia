@@ -1,11 +1,14 @@
 abbreviation: FMSHRC
 departments:
 - address:
-  - Linda H. Ghosal
-  - Chief FOIA Officer
-  - Suite 520N
-  - 1331 Pennsylvania, NW
-  - Washington, DC 20004-1710
+    address_lines:
+    - Linda H. Ghosal
+    - Chief FOIA Officer
+    - Suite 520N
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania, NW
+    zip: 20004-1710
   emails:
   - foia@fmshrc.gov
   fax: 202-434-9944

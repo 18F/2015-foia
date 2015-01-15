@@ -1,10 +1,10 @@
 abbreviation: SSS
 departments:
 - address:
-  - Paula A. Sweeney
-  - FOIA Officer
-  - National Headquarters
-  - Arlington , VA 22209-2425
+    city: Arlington
+    state: VA
+    street: National Headquarters
+    zip: 22209-2425
   fax: 703-605-4106
   foia_officer:
     name: Paula A. Sweeney

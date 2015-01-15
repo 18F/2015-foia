@@ -1,12 +1,15 @@
 abbreviation: USAID
 departments:
 - address:
-  - Alecia S. Sillah
-  - Team Lead, Government Information Specialist (FOIA), Bureau for Management, Office
-    of Management Services, Information and Records Division
-  - Room 2.7C RRB
-  - 1300 Pennsylvania Avenue, N.W.
-  - Washington, D.C. 20523-2701
+    address_lines:
+    - Alecia S. Sillah
+    - Team Lead, Government Information Specialist (FOIA), Bureau for Management,
+      Office of Management Services, Information and Records Division
+    - Room 2.7C RRB
+    city: Washington
+    state: DC
+    street: 1300 Pennsylvania Avenue, N.W.
+    zip: 20523-2701
   emails:
   - FOIA@usaid.gov
   misc:

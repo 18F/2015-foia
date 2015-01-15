@@ -1,11 +1,14 @@
 abbreviation: DNFSB
 departments:
 - address:
-  - Andrew L. Thibadeau
-  - Information/FOIA Officer
-  - Suite 700
-  - 625 Indiana Avenue, NW
-  - Washington, DC 20004
+    address_lines:
+    - Andrew L. Thibadeau
+    - Information/FOIA Officer
+    - Suite 700
+    city: Washington
+    state: DC
+    street: 625 Indiana Avenue, NW
+    zip: '20004'
   emails:
   - andrewt@dnfsb.gov
   foia_officer:

@@ -1,10 +1,13 @@
 abbreviation: CIGIE
 departments:
 - address:
-  - FOIA Contact
-  - Suite 825
-  - 1717 H Street, NW
-  - Washington, DC 20006
+    address_lines:
+    - FOIA Contact
+    - Suite 825
+    city: Washington
+    state: DC
+    street: 1717 H Street, NW
+    zip: '20006'
   emails:
   - FOIAStaff@cigie.gov
   fax: 202-254-0162

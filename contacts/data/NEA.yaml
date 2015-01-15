@@ -1,11 +1,14 @@
 abbreviation: NEA
 departments:
 - address:
-  - Monica Ashar
-  - FOIA Officer
-  - Room 608
-  - 1100 Pennsylvania Avenue, NW
-  - Washington, DC  20506
+    address_lines:
+    - Monica Ashar
+    - FOIA Officer
+    - Room 608
+    city: Washington
+    state: DC
+    street: 1100 Pennsylvania Avenue, NW
+    zip: '20506'
   emails:
   - foia@arts.gov
   fax: 202-682-5572

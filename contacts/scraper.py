@@ -15,7 +15,6 @@ import yaml
 import typos
 
 
-# Transformed from the `agenciesFile` array at
 # http://www.foia.gov/foiareport.js
 # Excludes "ALL" (All agencies, though it's not, really).
 # Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
@@ -37,8 +36,14 @@ PHONE_RE = re.compile(
     r"""(?P<prefix>\+?[\d\s\(\)\-]*)"""
     r"""(?P<area_code>\(?\d{3}\)?[\s\-\(\)]*)"""
     r"""(?P<first_three>\d{3}[\-\s\(\)]*)"""
-    r"""(?P<last_four>\d{4}[\-\s\(\)]*)"""
-    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?""", re.IGNORECASE)
+    r"""(?P<last_four>\d{4}[\-\s]*)"""
+    r"""(?P<extension>[\s\(,]*?ext[ .]*?\d{3,5})?"""
+    r"""(?P<tty>\s*\(tty)?""", re.IGNORECASE)
+
+ADDY_RE = re.compile(
+    r"""(?P<city>.*)"""
+    r"""[\s]*?,[\s]*?(?P<state>[A-Z\.]{2,4})"""
+    r"""\s*(?P<zip>[0-9-]+)""")
 
 
 def agency_description(doc):
@@ -94,6 +99,8 @@ def clean_phone_number(line):
         if extension:
             extension = re.sub("\D", "", extension)
             number = number + " x" + extension
+        if match.group("tty"):
+            number += " (TTY)"
         return number
 
     else:
@@ -101,10 +108,49 @@ def clean_phone_number(line):
                         "phone line: " + line)
 
 
+def address_list_to_dict(address_list):
+    """
+    Converts a list containing address elements into a dictionary
+
+    Address List
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]
+
+    Address Dict
+    {'state': 'VA', 'address_lines': ['Martha R. Sell', 'FOIA Assistant'],
+        'city': 'Arlington', 'street': '2300 Clarendon Boulevard',
+        'zip': '22201'}
+
+    Only returns an address dict if it contains a valid street, zip,
+    state, and city.
+    """
+    address_dict = {}
+
+    if len(address_list) > 1:
+        address_dict['street'] = address_list[-2]
+    if len(address_list) > 2:
+        address_dict['address_lines'] = address_list[0:-2]
+
+    match = ADDY_RE.match(address_list[-1])
+    if match:
+        address_dict['zip'] = match.group('zip').strip()
+        address_dict['state'] = re.sub("\W", "", match.group('state'))
+        address_dict['city'] = match.group('city').strip()
+
+    if re.search('\d', address_dict['street']) \
+            and address_dict.get('zip') \
+            and address_dict.get('state') \
+            and address_dict.get('city'):
+        return address_dict
+
+
 def split_address_from(lines):
-    """Address goes until we find a phone or service center. Separate lines
-    into address lines and remaining"""
-    address, remaining = [], []
+    """ Extracts address from lines into a list like the one below:
+    Address list
+    ["Martha R. Sell", "FOIA Assistant", "2300 Clarendon Boulevard",
+        "Arlington, VA 22201"]"""
+
+    address_list, remaining = [], []
     cues = ("phone", "fax", "service center")
     for line in lines:
         if remaining:   # already switched over
@@ -113,11 +159,11 @@ def split_address_from(lines):
             remaining.append(line)
         else:
             # Separate line breaks
-            address.extend(re.split(r"[\n\r]+", line))
+            address_list.extend(re.split(r"[\n\r]+", line))
     if not remaining:
         raise Exception("error finding address end", lines)
     else:
-        return address, remaining
+        return address_list, remaining
 
 
 def find_emails(lines, ps):
@@ -214,8 +260,13 @@ def parse_department(elem, name):
     # remove first el (which introduces the section)
     lines, ps = lines[1:], ps[1:]
 
-    address, lines = split_address_from(lines)
-    data['address'] = address
+    address_list, lines = split_address_from(lines)
+    address_dict = address_list_to_dict(address_list=address_list)
+    if address_dict:
+        data['address'] = address_dict
+    else:
+        logging.warning("Valid address not found for %s", name)
+
     ps = ps[-len(lines):]   # Also throw away associated paragraphs
     for line in lines:
         lower = line.lower()
@@ -255,7 +306,9 @@ def parse_agency(abb, doc):
     for option in doc("option")[1:]:
         opt_id = option['value']
         elem = doc(id=opt_id)[0]
-        dept_name = option.string.strip()
+        # Needed to replace the ? with - in order to
+        # accomate Carlsbad Field Office
+        dept_name = option.string.strip().replace('?', '–')
         departments.append(parse_department(elem, dept_name))
 
     agency = {"abbreviation": abb,

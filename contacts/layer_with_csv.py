@@ -12,17 +12,31 @@ import xlrd
 import yaml
 
 
-def address_lines(row):
-    """Convert a row of dictionary data into a list of address lines"""
-    lines = []
-    if row['Room Number']:
-        lines.append(row['Room Number'])
+def organize_address(row):
+    """
+    Organizes a row of dictionary data into a format compatible with the
+    format in the yaml files.
+    Address Dict
+    {'address_lines': ['Room 443'], 'city': 'Arlington',
+         'state': 'VA', 'street': '2300 Clarendon Boulevard', 'zip': '22201'}
+    Will only return the dict if street, city, state, and zip are present.
+    """
+
+    address_dict = {}
+
     if row['Street Address']:
-        lines.append(row['Street Address'])
-    if row['City'] and row['State'] and row['Zip Code']:
-        lines.append(row['City'] + ', ' + row['State'] + ' '
-                     + str(row['Zip Code']))
-    return lines
+        address_dict['street'] = row['Street Address']
+    if row['Room Number']:
+        address_dict['address_lines'] = [row['Room Number']]
+    if row['City'] and row['State'] and row['Zip Code'] \
+            and row['Street Address']:
+        address_dict.update({
+            'street': row['Street Address'].strip(),
+            'city': row['City'].strip(),
+            'state': row['State'].strip(),
+            'zip': str(row['Zip Code']).replace('.0', '')
+            })
+        return address_dict
 
 
 def contact_string(row):
@@ -33,7 +47,7 @@ def contact_string(row):
 
     clean_contact = {}
     if contact:
-        clean_contact['name'] = contact
+        clean_contact['name'] = contact.strip("', ")
     if clean_numbers:
         clean_contact['phone'] = clean_numbers
 
@@ -68,7 +82,7 @@ def add_contact_info(contacts, row):
                 logging.warning("%s is an invalid number", row[row_name])
 
     # Adding address
-    address = address_lines(row)
+    address = organize_address(row)
     if address and 'address' not in office_struct:
         office_struct['address'] = address
     if row['Email Address']:
@@ -151,6 +165,7 @@ def patch_yaml():
                 else:
                     logging.warning('Not in XLS: %s -> %s',
                                     yaml_data['name'], yaml_office['name'])
+                    departments.append(yaml_office)
             if new_dept_count > 0:
                 yaml_data['departments'] = departments
                 with open(filename, 'w') as f:

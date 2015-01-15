@@ -1,11 +1,14 @@
 abbreviation: TVA
 departments:
 - address:
-  - Denise Smith
-  - TVA FOIA Officer
-  - WT 7D
-  - 400 West Summit Hill Drive WT 7C
-  - Knoxville, TN 37902-1499
+    address_lines:
+    - Denise Smith
+    - TVA FOIA Officer
+    - WT 7D
+    city: Knoxville
+    state: TN
+    street: 400 West Summit Hill Drive WT 7C
+    zip: 37902-1499
   emails:
   - foia@tva.gov
   fax: 865-632-6901

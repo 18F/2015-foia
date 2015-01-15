@@ -1,11 +1,14 @@
 abbreviation: CSOSA
 departments:
 - address:
-  - Renee Barley
-  - FOIA Officer, Office of the General Counsel
-  - Room 1220
-  - 633 Indiana Avenue, NW
-  - Washington, DC 20004-2902
+    address_lines:
+    - Renee Barley
+    - FOIA Officer, Office of the General Counsel
+    - Room 1220
+    city: Washington
+    state: DC
+    street: 633 Indiana Avenue, NW
+    zip: 20004-2902
   emails:
   - Renee.Barley@csosa.gov
   fax: 202-220-5350

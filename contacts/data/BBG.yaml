@@ -1,11 +1,14 @@
 abbreviation: BBG
 departments:
 - address:
-  - Andrew T. Krog
-  - FOIA/Privacy Act Officer, BBG/FOIA/PA Unit
-  - Room 3349
-  - 330 Independence Avenue, SW
-  - Washington, DC 20237
+    address_lines:
+    - Andrew T. Krog
+    - FOIA/Privacy Act Officer, BBG/FOIA/PA Unit
+    - Room 3349
+    city: Washington
+    state: DC
+    street: 330 Independence Avenue, SW
+    zip: '20237'
   fax: 202-203-4585
   misc:
     FOIA/Privacy Act Officer, BBG/FOIA/PA Unit:

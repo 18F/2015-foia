@@ -1,11 +1,14 @@
 abbreviation: ABMC
 departments:
 - address:
-  - Martha R. Sell
-  - FOIA Assistant
-  - Suite 500
-  - 2300 Clarendon Boulevard
-  - Arlington, VA 22201
+    address_lines:
+    - Martha R. Sell
+    - FOIA Assistant
+    - Suite 500
+    city: Arlington
+    state: VA
+    street: 2300 Clarendon Boulevard
+    zip: '22201'
   misc:
     FOIA Assistant:
       name: Martha R. Sell

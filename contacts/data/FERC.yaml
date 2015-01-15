@@ -1,9 +1,12 @@
 abbreviation: FERC
 departments:
 - address:
-  - FOIA Contact
-  - 888 First Street, NE
-  - Washington, DC 20426
+    address_lines:
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 888 First Street, NE
+    zip: '20426'
   emails:
   - foia-ceii@ferc.gov
   fax: 202-208-2106

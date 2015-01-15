@@ -1,11 +1,14 @@
 abbreviation: PRC
 departments:
 - address:
-  - Ruth Ann Abrams
-  - Assistant Secretary
-  - Suite 200 West
-  - 901 New York Avenue, NW
-  - Washington, DC 20268
+    address_lines:
+    - Ruth Ann Abrams
+    - Assistant Secretary
+    - Suite 200 West
+    city: Washington
+    state: DC
+    street: 901 New York Avenue, NW
+    zip: '20268'
   fax: 202-789-6891
   misc:
     Assistant Secretary:

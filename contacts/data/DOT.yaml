@@ -1,17 +1,23 @@
 abbreviation: DOT
 address:
-- FOIA Contact
-- Departmental FOIA Office
-- W94-122
-- 1200 New Jersey Avenue, SE
-- Washington, DC 20590
+  address_lines:
+  - FOIA Contact
+  - Departmental FOIA Office
+  - W94-122
+  city: Washington
+  state: DC
+  street: 1200 New Jersey Avenue, SE
+  zip: '20590'
 departments:
 - address:
-  - Kathy Ray
-  - FOIA Officer
-  - W94-122
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Kathy Ray
+    - FOIA Officer
+    - W94-122
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - ost.foia@dot.gov
   fax: 202-366-8536
@@ -98,11 +104,14 @@ departments:
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
-  - Angel Simmons
-  - FOIA Officer
-  - 7th Floor
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Angel Simmons
+    - FOIA Officer
+    - 7th Floor
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails: []
   fax: 202-366-1975
   foia_officer:
@@ -186,10 +195,13 @@ departments:
   website: https://www.oig.dot.gov/freedom-information-act
 - abbreviation: FAA
   address:
-  - FOIA Coordinator
-  - National FOIA Staff (AFN-140)
-  - 800 Independence Avenue, SW
-  - Washington, DC 20591
+    address_lines:
+    - FOIA Coordinator
+    - National FOIA Staff (AFN-140)
+    city: Washington
+    state: DC
+    street: 800 Independence Avenue, SW
+    zip: '20591'
   description: The FAA works to ensure that all air travel is safe.
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
@@ -377,11 +389,14 @@ departments:
   usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
-  - Manizheh Boehm
-  - FOIA/PA Contact
-  - HCC-40/E82-125
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Manizheh Boehm
+    - FOIA/PA Contact
+    - HCC-40/E82-125
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1380
@@ -535,11 +550,14 @@ departments:
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
 - address:
-  - Denise Kollehlon
-  - FOIA/PA Contact, Office of the Chief Counsel
-  - Stop 10
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Denise Kollehlon
+    - FOIA/PA Contact, Office of the Chief Counsel
+    - Stop 10
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - frafoia@dot.gov
   fax: 202-493-6068
@@ -639,11 +657,14 @@ departments:
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
 - address:
-  - Nancy Sipes
-  - FOIA/PA Contact
-  - E42-315
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Nancy Sipes
+    - FOIA/PA Contact
+    - E42-315
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - FTA.FOIA@dot.gov
   fax: 202-366-7164
@@ -741,11 +762,14 @@ departments:
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
 - address:
-  - Tiffanie C. Coleman
-  - FOIA/PA Contact (MC-MMI)
-  - W66-458
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Tiffanie C. Coleman
+    - FOIA/PA Contact (MC-MMI)
+    - W66-458
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
@@ -895,11 +919,14 @@ departments:
   website: http://www.fmcsa.dot.gov/foia
 - abbreviation: NHTSA
   address:
-  - FOIA Contact
-  - NHTSA Executive Secretariat
-  - W41-304
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - FOIA Contact
+    - NHTSA Executive Secretariat
+    - W41-304
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   description: The National Highway Traffic Safety Administration (NHTSA) is responsible
     for reducing deaths, injuries and economic losses resulting from motor vehicle
     crashes. The agency investigates safety defects in motor vehicles, sets and enforces
@@ -1025,11 +1052,14 @@ departments:
   usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
 - address:
-  - T. Mitchell Hudson, Jr.
-  - FOIA Officer, Division of Legislation and Regulations
-  - W24-233
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - T. Mitchell Hudson, Jr.
+    - FOIA Officer, Division of Legislation and Regulations
+    - W24-233
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
@@ -1153,11 +1183,14 @@ departments:
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
-  - Vacant
-  - FOIA Officer
-  - E23-306
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Vacant
+    - FOIA Officer
+    - E23-306
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - PHMSA.FOIA@dot.gov
   fax: 202-336-7041
@@ -1303,10 +1336,13 @@ departments:
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
-  - Carrie Lavigne
-  - FOIA/PA Contact
-  - P.O. Box 520
-  - Massena, NY 13662-0520
+    address_lines:
+    - Carrie Lavigne
+    - FOIA/PA Contact
+    city: Massena
+    state: NY
+    street: P.O. Box 520
+    zip: 13662-0520
   emails:
   - slsdc@dot.gov
   fax: 315-764-3235
@@ -1379,10 +1415,13 @@ departments:
   website: http://www.dot.gov/foia/foia_contacts.htm
 - abbreviation: STB
   address:
-  - Marilyn R. Levitt
-  - FOIA/Privacy Act Officer
-  - 395 E Street, SW
-  - Washington, DC 20423-0001
+    address_lines:
+    - Marilyn R. Levitt
+    - FOIA/Privacy Act Officer
+    city: Washington
+    state: DC
+    street: 395 E Street, SW
+    zip: 20423-0001
   description: The Surface Transportation Board regulates and decides disputes involving
     railroad rates, railroad mergers or line sales, and certain other transportation
     matters.

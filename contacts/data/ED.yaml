@@ -1,11 +1,14 @@
 abbreviation: ED
 departments:
 - address:
-  - Gregory Smith
-  - Director, FOIA Service Center, Office of Management
-  - LBJ 2E305
-  - 400 Maryland Avenue, SW
-  - Washington, DC 20202-4536
+    address_lines:
+    - Gregory Smith
+    - Director, FOIA Service Center, Office of Management
+    - LBJ 2E305
+    city: Washington
+    state: DC
+    street: 400 Maryland Avenue, SW
+    zip: 20202-4536
   emails:
   - EDFOIAManager@ed.gov
   fax: 202-401-0920

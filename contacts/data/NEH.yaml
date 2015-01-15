@@ -1,11 +1,14 @@
 abbreviation: NEH
 departments:
 - address:
-  - Katherine Griffin
-  - Principal FOIA Contact
-  - 4th Floor
-  - 400 7th Street SW
-  - Washington, DC  20506
+    address_lines:
+    - Katherine Griffin
+    - Principal FOIA Contact
+    - 4th Floor
+    city: Washington
+    state: DC
+    street: 400 7th Street SW
+    zip: '20506'
   emails:
   - gencounsel@neh.gov
   - evoyatzis@neh.gov

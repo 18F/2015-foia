@@ -1,17 +1,23 @@
 abbreviation: NARA
 address:
-- Joseph Scanlon
-- FOIA Officer, Office of the General Counsel
-- Room 3110
-- 8601 Adelphi Road
-- College Park, MD 20740
-departments:
-- address:
+  address_lines:
   - Joseph Scanlon
   - FOIA Officer, Office of the General Counsel
   - Room 3110
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+  city: College Park
+  state: MD
+  street: 8601 Adelphi Road
+  zip: '20740'
+departments:
+- address:
+    address_lines:
+    - Joseph Scanlon
+    - FOIA Officer, Office of the General Counsel
+    - Room 3110
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - foia@nara.gov
   fax: 301-837-0293
@@ -36,10 +42,13 @@ departments:
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - FOIA Contact
-  - Room 1300
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+    address_lines:
+    - FOIA Contact
+    - Room 1300
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - john.simms@nara.gov
   fax: 301-837-3197
@@ -62,11 +71,14 @@ departments:
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - FOIA Contact
-  - Special Access and FOIA Staff (NWCTF)
-  - Room 6350
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+    address_lines:
+    - FOIA Contact
+    - Special Access and FOIA Staff (NWCTF)
+    - Room 6350
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - specialaccess_foia@nara.gov
   fax: 301-837-1864
@@ -90,9 +102,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - Regional Director
-  - 654 West Third Avenue
-  - Anchorage, AK 99501-2145
+    address_lines:
+    - Regional Director
+    city: Anchorage
+    state: AK
+    street: 654 West Third Avenue
+    zip: 99501-2145
   emails:
   - alaska.archives@nara.gov
   fax: 907-261-7813
@@ -112,9 +127,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/pacific-alaska/anchorage/
 - address:
-  - Regional Director
-  - 57800 Jonesboro Road
-  - Morrow, GA 30260
+    address_lines:
+    - Regional Director
+    city: Morrow
+    state: GA
+    street: 57800 Jonesboro Road
+    zip: '30260'
   emails:
   - atlanta.archives@nara.gov
   fax: 770-968-2547
@@ -134,10 +152,13 @@ departments:
   top_level: false
   website: http://www.archives.gov/southeast/
 - address:
-  - Regional Director
-  - Frederick C. Murphy Federal Center
-  - 380 Trapelo Road
-  - Waltham, MA 02452-6399
+    address_lines:
+    - Regional Director
+    - Frederick C. Murphy Federal Center
+    city: Waltham
+    state: MA
+    street: 380 Trapelo Road
+    zip: 02452-6399
   emails:
   - boston.archives@nara.gov
   fax: 781-663-0154
@@ -156,9 +177,12 @@ departments:
     - 781-663-0130
   top_level: false
 - address:
-  - Regional Director
-  - 7358 South Pulaski Road
-  - Chicago, IL 60629-5898
+    address_lines:
+    - Regional Director
+    city: Chicago
+    state: IL
+    street: 7358 South Pulaski Road
+    zip: 60629-5898
   emails:
   - chicago.archives@nara.gov
   fax: 773-948-9050
@@ -178,9 +202,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/great-lakes/
 - address:
-  - Regional Director
-  - P.O. Box 25307
-  - Denver, CO 80225
+    address_lines:
+    - Regional Director
+    city: Denver
+    state: CO
+    street: P.O. Box 25307
+    zip: '80225'
   emails:
   - denver.archives@nara.gov
   fax: 303-407-5709
@@ -200,9 +227,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/rocky-mountain/
 - address:
-  - Regional Director
-  - 1400 John Burgess Drive
-  - Fort Worth, TX 76140
+    address_lines:
+    - Regional Director
+    city: Fort Worth
+    state: TX
+    street: 1400 John Burgess Drive
+    zip: '76140'
   emails:
   - ftworth.archives@nara.gov
   fax: 817-551-2034
@@ -222,9 +252,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/southwest/
 - address:
-  - Regional Director
-  - 400 West Pershing Road
-  - Kansas City, MO 64108
+    address_lines:
+    - Regional Director
+    city: Kansas City
+    state: MO
+    street: 400 West Pershing Road
+    zip: '64108'
   emails:
   - kansascity.archives@nara.gov
   fax: 816-268-8038
@@ -243,10 +276,13 @@ departments:
   top_level: false
   website: http://www.archives.gov/locations/regional-archives.html
 - address:
-  - Regional Director
-  - 12th Floor
-  - 201 Varick Street
-  - New York, NY 10014
+    address_lines:
+    - Regional Director
+    - 12th Floor
+    city: New York
+    state: NY
+    street: 201 Varick Street
+    zip: '10014'
   emails:
   - newyork.archives@nara.gov
   fax: 212-401-1638
@@ -266,9 +302,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/northeast/nyc/
 - address:
-  - Regional Director
-  - 900 Market Street
-  - Philadelphia, PA 19107-4292
+    address_lines:
+    - Regional Director
+    city: Philadelphia
+    state: PA
+    street: 900 Market Street
+    zip: 19107-4292
   emails:
   - philadelphia.archives@nara.gov
   fax: 215-606-0116
@@ -288,9 +327,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/midatlantic/
 - address:
-  - Regional Director
-  - 100 Commodore Drive
-  - San Bruno, CA 94066-2350
+    address_lines:
+    - Regional Director
+    city: San Bruno
+    state: CA
+    street: 100 Commodore Drive
+    zip: 94066-2350
   emails:
   - sanbruno.archives@nara.gov
   fax: 650-238-3510
@@ -310,9 +352,12 @@ departments:
   top_level: false
   website: http://www.archives.gov/pacific/san-francisco/
 - address:
-  - Regional Director
-  - 6125 Sand Point Way, NE
-  - Seattle, WA 98115-7999
+    address_lines:
+    - Regional Director
+    city: Seattle
+    state: WA
+    street: 6125 Sand Point Way, NE
+    zip: 98115-7999
   emails:
   - seattle.archives@nara.gov
   fax: 206-336-5112

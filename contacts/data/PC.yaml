@@ -1,10 +1,13 @@
 abbreviation: PC
 departments:
 - address:
-  - Denora Miller
-  - FOIA/Privacy Act Officer, Office of Management
-  - 1111 20th Street, NW
-  - Washington, DC 20536-0001
+    address_lines:
+    - Denora Miller
+    - FOIA/Privacy Act Officer, Office of Management
+    city: Washington
+    state: DC
+    street: 1111 20th Street, NW
+    zip: 20536-0001
   emails:
   - foia@peacecorps.gov
   fax: 202-692-1385
@@ -29,10 +32,13 @@ departments:
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 - address:
-  - Jeffrey Reichert
-  - FOIA Contact
-  - 1111 20th Street, NW
-  - Washington, DC 20536-0001
+    address_lines:
+    - Jeffrey Reichert
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 1111 20th Street, NW
+    zip: 20536-0001
   emails:
   - foia@peacecorps.gov
   misc:

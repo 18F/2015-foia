@@ -1,10 +1,13 @@
 abbreviation: CO
 departments:
 - address:
-  - Denise Garrett
-  - Supervisory Copyright Information Specialist, GC/I&R;
-  - P.O. Box 70400, SW
-  - Washington, DC 20024
+    address_lines:
+    - Denise Garrett
+    - Supervisory Copyright Information Specialist, GC/I&R;
+    city: Washington
+    state: DC
+    street: P.O. Box 70400, SW
+    zip: '20024'
   fax: 202-707-6859
   misc:
     Supervisory Copyright Information Specialist, GC/I&R:

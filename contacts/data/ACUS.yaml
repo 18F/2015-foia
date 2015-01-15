@@ -1,11 +1,14 @@
 abbreviation: ACUS
 departments:
 - address:
-  - Shawne McGibbon
-  - FOIA Officer
-  - Suite 706 South
-  - 1120 20th Street, NW
-  - Washington, DC 20036
+    address_lines:
+    - Shawne McGibbon
+    - FOIA Officer
+    - Suite 706 South
+    city: Washington
+    state: DC
+    street: 1120 20th Street, NW
+    zip: '20036'
   emails:
   - dpritzker@acus.gov
   fax: 202-386-7190

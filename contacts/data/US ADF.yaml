@@ -1,10 +1,13 @@
 abbreviation: USADF
 departments:
 - address:
-  - June B. Brown
-  - FOIA Contact, Associate General Counsel
-  - 1400 Eye Street, NW
-  - Washington, DC 20005-2248
+    address_lines:
+    - June B. Brown
+    - FOIA Contact, Associate General Counsel
+    city: Washington
+    state: DC
+    street: 1400 Eye Street, NW
+    zip: 20005-2248
   fax: 202-673-3810
   misc:
     FOIA Contact, Associate General Counsel:

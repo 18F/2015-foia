@@ -1,10 +1,13 @@
 abbreviation: FMCS
 departments:
 - address:
-  - Michael J. Bartlett
-  - Deputy General Counsel
-  - 2100 K Street, NW
-  - Washington, DC 20427
+    address_lines:
+    - Michael J. Bartlett
+    - Deputy General Counsel
+    city: Washington
+    state: DC
+    street: 2100 K Street, NW
+    zip: '20427'
   emails:
   - foia@fmcs.gov
   fax: 202-606-5345

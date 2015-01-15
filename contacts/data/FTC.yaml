@@ -1,10 +1,13 @@
 abbreviation: FTC
 departments:
 - address:
-  - Dione Stearns
-  - Assistant General Counsel for Information & Legal Support
-  - 600 Pennsylvania Avenue, NW H-585
-  - Washington, DC 20580
+    address_lines:
+    - Dione Stearns
+    - Assistant General Counsel for Information & Legal Support
+    city: Washington
+    state: DC
+    street: 600 Pennsylvania Avenue, NW H-585
+    zip: '20580'
   emails:
   - foia@ftc.gov
   fax: 202-326-2477

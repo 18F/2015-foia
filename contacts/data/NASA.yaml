@@ -1,11 +1,14 @@
 abbreviation: NASA
 departments:
 - address:
-  - Josephine Sibley
-  - HQFOIA Officer
-  - Room 5Q 16
-  - 300 E Street, SW
-  - S.W. Washington, DC 20546
+    address_lines:
+    - Josephine Sibley
+    - HQFOIA Officer
+    - Room 5Q 16
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
   - foia@hq.nasa.gov
   fax: 202-358-4332
@@ -71,10 +74,13 @@ departments:
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
-  - Lubna Shirazi
-  - ARC FOIA Officer
-  - MS 943-4
-  - Moffett Field, CA 94035-1000
+    address_lines:
+    - Lubna Shirazi
+    - ARC FOIA Officer
+    city: Moffett Field
+    state: CA
+    street: MS 943-4
+    zip: 94035-1000
   emails:
   - foia@arc.nasa.gov
   fax: 650-604-0688
@@ -157,11 +163,14 @@ departments:
   top_level: false
   website: http://www.nasa.gov/centers/ames/business/foia/index.html
 - address:
-  - Kim Lewis-Bias
-  - DFRC FOIA Officer
-  - Building 4839
-  - 4800 Lily Drive
-  - Edwards, CA 93523
+    address_lines:
+    - Kim Lewis-Bias
+    - DFRC FOIA Officer
+    - Building 4839
+    city: Edwards
+    state: CA
+    street: 4800 Lily Drive
+    zip: '93523'
   emails:
   - dfrc-foia@nasa.gov
   fax: 661-276-3566
@@ -252,10 +261,13 @@ departments:
   top_level: false
   website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
 - address:
-  - Angela Pierce
-  - GRC FOIA Officer
-  - Mail Code 21-14
-  - Cleveland, OH 44135
+    address_lines:
+    - Angela Pierce
+    - GRC FOIA Officer
+    city: Cleveland
+    state: OH
+    street: Mail Code 21-14
+    zip: '44135'
   emails:
   - grc-foia@mail.nasa.gov
   fax: 216-433-5489
@@ -339,10 +351,13 @@ departments:
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
-  - Joan Belt
-  - GSFC FOIA Officer
-  - Code 130
-  - Greenbelt, MD 20771
+    address_lines:
+    - Joan Belt
+    - GSFC FOIA Officer
+    city: Greenbelt
+    state: MD
+    street: Code 130
+    zip: '20771'
   emails:
   - foia@gsfc.nasa.gov
   fax: 301-286-1712
@@ -434,11 +449,14 @@ departments:
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
 - abbreviation: JPL
   address:
-  - Dennis Mahon
-  - JPL FOIA Officer
-  - 'M/S: 180-200K'
-  - 4800 Oak Grove
-  - Pasadena, CA 91109-8001
+    address_lines:
+    - Dennis Mahon
+    - JPL FOIA Officer
+    - 'M/S: 180-200K'
+    city: Pasadena
+    state: CA
+    street: 4800 Oak Grove
+    zip: 91109-8001
   description: NASA Jet Propulsion Laboratory manages many of NASA's robotic missions
     exploring Earth, the solar system and our universe.
   emails:
@@ -524,10 +542,13 @@ departments:
   top_level: true
   website: http://www.jpl.nasa.gov/
 - address:
-  - Jessica Cordero
-  - JSC FOIA Officer
-  - 'Mail Code: AP2'
-  - Houston, TX 77058
+    address_lines:
+    - Jessica Cordero
+    - JSC FOIA Officer
+    city: Houston
+    state: TX
+    street: 'Mail Code: AP2'
+    zip: '77058'
   emails:
   - jsc-foia@mail.nasa.gov
   fax: 281-483-4876
@@ -615,10 +636,13 @@ departments:
   top_level: false
   website: http://www.nasa.gov/centers/johnson/news/foia.html
 - address:
-  - Penny Myers
-  - KSC FOIA Officer
-  - XA-A1
-  - Kennedy Space Center, FL 32889
+    address_lines:
+    - Penny Myers
+    - KSC FOIA Officer
+    city: Kennedy Space Center
+    state: FL
+    street: XA-A1
+    zip: '32889'
   emails:
   - foia@ksc.nasa.gov
   fax: 321-867-8007
@@ -706,11 +730,14 @@ departments:
   top_level: false
   website: http://www.nasa.gov/centers/kennedy/home/
 - address:
-  - Carissa Wheeler
-  - LaRC FOIA Officer
-  - Mail Stop 218
-  - 17 West Taylor Street
-  - Hampton, VA 23681-2199
+    address_lines:
+    - Carissa Wheeler
+    - LaRC FOIA Officer
+    - Mail Stop 218
+    city: Hampton
+    state: VA
+    street: 17 West Taylor Street
+    zip: 23681-2199
   emails:
   - LARC-DL-foia@mail.nasa.gov
   fax: 757-864-6333
@@ -797,11 +824,12 @@ departments:
   top_level: false
   website: http://foia.larc.nasa.gov/
 - address:
-  - Judi Hollingsworth
-  - MSFC FOIA Officer
-  - Mail Stop CD50
-  - Marshall Space Flight Center
-  - Huntsville, AL 35812
+    address_lines:
+    - Mail Stop CD50
+    city: Huntsville
+    state: AL
+    street: Marshall Space Flight Center
+    zip: '35812'
   emails:
   - FOIA@msfc.nasa.gov
   fax: 256-544-0007
@@ -892,11 +920,14 @@ departments:
   top_level: false
   website: http://foia.msfc.nasa.gov/
 - address:
-  - Frank LaRocca
-  - OIG FOIA Officer
-  - Room 8V69
-  - 300 E Street, SW
-  - S.W. Washington, DC 20546
+    address_lines:
+    - Frank LaRocca
+    - OIG FOIA Officer
+    - Room 8V69
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
   - foiaoig@hq.nasa.gov
   fax: 202-358-2767
@@ -972,10 +1003,13 @@ departments:
   top_level: false
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:
-  - Jamie Mettler
-  - NSSC FOIA Officer
-  - Building 1111
-  - Stennis Space Center, MS 39529
+    address_lines:
+    - Jamie Mettler
+    - NSSC FOIA Officer
+    city: Stennis Space Center
+    state: MS
+    street: Building 1111
+    zip: '39529'
   emails:
   - nssc@nasa.gov
   fax: 228-779-6772
@@ -1061,11 +1095,7 @@ departments:
     - 228-813-6174
   top_level: true
   website: http://www.nssc.nasa.gov/foia/
-- address:
-  - Sally Bilbo
-  - SSC FOIA Officer
-  - Stennis Space Center, MS 39529
-  emails:
+- emails:
   - ssc-foia@nasa.gov
   fax: 228-668-7499
   foia_officer:
@@ -1155,11 +1185,14 @@ departments:
   top_level: false
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - address:
-  - Miriam BrownLam
-  - Agency
-  - Room 5P 32
-  - 300 E Street, SW
-  - S.W. Washington, DC 20546
+    address_lines:
+    - Miriam BrownLam
+    - Agency
+    - Room 5P 32
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
   - foia@hq.nasa.gov
   fax: 202-358-4332

@@ -1,10 +1,13 @@
 abbreviation: RATB
 departments:
 - address:
-  - FOIA Officer
-  - Suite 700
-  - 1717 Pennsylvania Ave., NW
-  - Washington, DC 20006
+    address_lines:
+    - FOIA Officer
+    - Suite 700
+    city: Washington
+    state: DC
+    street: 1717 Pennsylvania Ave., NW
+    zip: '20006'
   emails:
   - FOIA@ratb.gov
   fax: 202-254-7970

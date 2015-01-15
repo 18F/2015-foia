@@ -1,10 +1,13 @@
 abbreviation: USTR
 departments:
 - address:
-  - Jacqueline B. Caldwell
-  - FOIA Officer
-  - 1724 F Street, NW
-  - Washington, DC 20508
+    address_lines:
+    - Jacqueline B. Caldwell
+    - FOIA Officer
+    city: Washington
+    state: DC
+    street: 1724 F Street, NW
+    zip: '20508'
   fax: 202-395-9458
   name: Office of the United States Trade Representative
   phone: 202-395-3419

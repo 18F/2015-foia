@@ -1,10 +1,13 @@
 abbreviation: FDIC
 departments:
 - address:
-  - FOIA Contact
-  - Legal Division, FOIA/PA Group
-  - 550 17th Street, NW
-  - Washington, DC 20429
+    address_lines:
+    - FOIA Contact
+    - Legal Division, FOIA/PA Group
+    city: Washington
+    state: DC
+    street: 550 17th Street, NW
+    zip: '20429'
   emails:
   - efoia@fdic.gov
   fax: 703-562-2797

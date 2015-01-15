@@ -1,11 +1,14 @@
 abbreviation: IBWC
 departments:
 - address:
-  - Rebecca Rizzuti
-  - FOIA Officer & Public Liaison
-  - FOIA - Legal Office, Suite C100
-  - 4171 N. Mesa
-  - El Paso, TX 79902
+    address_lines:
+    - Rebecca Rizzuti
+    - FOIA Officer & Public Liaison
+    - FOIA - Legal Office, Suite C100
+    city: El Paso
+    state: TX
+    street: 4171 N. Mesa
+    zip: '79902'
   emails:
   - rebecca.rizzuti@ibwc.gov
   fax: 915-440-0948

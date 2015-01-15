@@ -1,11 +1,14 @@
 abbreviation: IMLS
 departments:
 - address:
-  - Mamie Bittner
-  - FOIA Officer
-  - 9th Floor
-  - 1800 M Street, NW
-  - Washington, DC 20036-5802
+    address_lines:
+    - Mamie Bittner
+    - FOIA Officer
+    - 9th Floor
+    city: Washington
+    state: DC
+    street: 1800 M Street, NW
+    zip: 20036-5802
   emails:
   - foia@imls.gov
   fax: 202-653-4625
