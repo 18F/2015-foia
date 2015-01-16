@@ -1,18 +1,27 @@
 abbreviation: FMCS
 departments:
 - address:
-  - Michael J. Bartlett
-  - Deputy General Counsel
-  - 2100 K Street, NW
-  - Washington, DC 20427
+    address_lines:
+    - Michael J. Bartlett
+    - Deputy General Counsel
+    city: Washington
+    state: DC
+    street: 2100 K Street, NW
+    zip: '20427'
   emails:
   - foia@fmcs.gov
   fax: 202-606-5345
   misc:
-    Deputy General Counsel: 'Michael J. Bartlett, Phone: (202) 606-3737'
+    Deputy General Counsel:
+      name: Michael J. Bartlett
+      phone:
+      - 202-606-3737
   name: Federal Mediation and Conciliation Service
   phone: 202-606-3737
-  public_liaison: 'Michael J. Bartlett, Phone: (202) 606-3737'
+  public_liaison:
+    name: Michael J. Bartlett
+    phone:
+    - 202-606-3737
   request_form: https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436
   request_time_stats:
     '2008':
@@ -93,7 +102,10 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Mery Skolochenko, Phone: (202) 606-5444'
+  service_center:
+    name: Mery Skolochenko
+    phone:
+    - 202-606-5444
   top_level: false
   website: http://www.fmcs.gov/internet/itemDetailNoNav.asp?categoryID=90&itemID=16303
 description: The Agency helps build better relationships through joint problem-solving

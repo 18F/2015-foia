@@ -1,166 +1,274 @@
 abbreviation: MSPB
 address:
-- Bernard Parker
-- FOIA Public Liaiso, Office of the Clerk
-- 1615 M Street, NW
-- Washington, DC 20419
+  address_lines:
+  - Bernard Parker
+  - FOIA Public Liaiso, Office of the Clerk
+  city: Washington
+  state: DC
+  street: 1615 M Street, NW
+  zip: '20419'
 departments:
 - address:
-  - Bernard Parker
-  - FOIA Public Liaison, Office of the Clerk
-  - 1615 M Street, NW
-  - Washington, DC 20419
+    address_lines:
+    - Bernard Parker
+    - FOIA Public Liaison, Office of the Clerk
+    city: Washington
+    state: DC
+    street: 1615 M Street, NW
+    zip: '20419'
   emails:
   - FOIAHQ@mspb.gov
   fax: 202-653-7130
   name: Headquarters
   phone: 202-254-4475
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/FOIA/foia.htm
 - address:
-  - Yvonnie Ellis
-  - FOIA Liaison
-  - 10th Floor
-  - 401 W. Peachtree Street, NW
-  - Atlanta, GA 20208-3519
+    address_lines:
+    - Yvonnie Ellis
+    - FOIA Liaison
+    - 10th Floor
+    city: Atlanta
+    state: GA
+    street: 401 W. Peachtree Street, NW
+    zip: 20208-3519
   emails:
   - FOIAAT@mspb.gov
   fax: 404-730-2767
   misc:
-    FOIA Liaison: 'Yvonnie Ellis, Phone: (404) 730-2755 ext. 8019'
+    FOIA Liaison:
+      name: Yvonnie Ellis
+      phone:
+      - 404-730-2755 x8019
   name: Atlanta Regional Office
-  phone: 404-730-2755
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 404-730-2755 x8019
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Betty Capis
-  - FOIA Liaison
-  - 31st Floor
-  - 230 South Dearborn Street
-  - Chicago, IL 60604-1669
+    address_lines:
+    - Betty Capis
+    - FOIA Liaison
+    - 31st Floor
+    city: Chicago
+    state: IL
+    street: 230 South Dearborn Street
+    zip: 60604-1669
   emails:
   - FOIACH@mspb.gov
   fax: 313-886-4231
   misc:
-    FOIA Liaison: 'Betty Capis, Phone: (312) 353-2924 ext. 3113'
+    FOIA Liaison:
+      name: Betty Capis
+      phone:
+      - 312-353-2924 x3113
   name: Central Regional Office
-  phone: 312-353-2924
-  public_liaison: 'Betty Caplis, Phone: (312) 353-2924 ext. 3113'
+  phone: 312-353-2924 x3113
+  public_liaison:
+    name: Betty Caplis
+    phone:
+    - 312-353-2924 x3113
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Marie Sumner
-  - FOIA Liaison
-  - Suite 205
-  - 1800 Diagonal Road
-  - Alexandria, VA 22314-2480
+    address_lines:
+    - Marie Sumner
+    - FOIA Liaison
+    - Suite 205
+    city: Alexandria
+    state: VA
+    street: 1800 Diagonal Road
+    zip: 22314-2480
   emails:
   - FOIADC@mspb.gov
   fax: 703-756-7112
   misc:
-    FOIA Liaison: 'Marie Sumner, Phone: (703) 756-7104 ext. 4109'
+    FOIA Liaison:
+      name: Marie Sumner
+      phone:
+      - 703-756-7104 x4109
   name: Washington DC Regional Office
-  phone: 703-756-7104
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 703-756-7104 x4109
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Dennis Matthews
-  - FOIA Liaison
-  - Suite 1700
-  - 1601 Market Street
-  - Philadelphia, PA 19103
+    address_lines:
+    - Dennis Matthews
+    - FOIA Liaison
+    - Suite 1700
+    city: Philadelphia
+    state: PA
+    street: 1601 Market Street
+    zip: '19103'
   emails:
   - FOIAPH@mspb.gov
   fax: 215-597-3456
   misc:
-    FOIA Liaison: 'Dennis Matthews, Phone: (215) 597-9960 ext. 7108'
+    FOIA Liaison:
+      name: Dennis Matthews
+      phone:
+      - 215-597-9960 x7108
   name: Northeastern Regional Office
-  phone: 215-597-9960
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 215-597-9960 x7108
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Bobbie Williams
-  - FOIA Liaison
-  - Room 620
-  - 1100 Commerce Street
-  - Dallas, TX 75242-9979
+    address_lines:
+    - Bobbie Williams
+    - FOIA Liaison
+    - Room 620
+    city: Dallas
+    state: TX
+    street: 1100 Commerce Street
+    zip: 75242-9979
   emails:
   - FOIADA@mspb.gov
   fax: 214-767-0102
   misc:
-    FOIA Liaison: 'Bobbie Williams, Phone: (214) 767-0810 ext. 5100'
+    FOIA Liaison:
+      name: Bobbie Williams
+      phone:
+      - 214-767-0810 x5100
   name: Dallas Regional Office
-  phone: 214-767-0810
-  public_liaison: 'Crystal Wilson, Phone: (214) 767-0810 ext. 5100'
+  phone: 214-767-0810 x5100
+  public_liaison:
+    name: Crystal Wilson
+    phone:
+    - 214-767-0810 x5100
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Joyce Thomas
-  - FOIA Liaison
-  - Suite 2130
-  - 201 Mission Street
-  - San Francisco, CA 94105-1831
+    address_lines:
+    - Joyce Thomas
+    - FOIA Liaison
+    - Suite 2130
+    city: San Francisco
+    state: CA
+    street: 201 Mission Street
+    zip: 94105-1831
   emails:
   - FOIASF@mspb.gov
   fax: 415-904-0580
   misc:
-    FOIA Liaison: 'Joyce Thomas, Phone: (415) 904-6772 ext. 2101'
+    FOIA Liaison:
+      name: Joyce Thomas
+      phone:
+      - 415-904-6772 x2101
   name: Western Regional Office
-  phone: 415-904-6772
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 415-904-6772 x2101
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Gwendolyn Gatling
-  - FOIA Liaison
-  - Room 3137-A
-  - 26 Federal Plaza
-  - New York, NY 10278-0022
+    address_lines:
+    - Gwendolyn Gatling
+    - FOIA Liaison
+    - Room 3137-A
+    city: New York
+    state: NY
+    street: 26 Federal Plaza
+    zip: 10278-0022
   emails:
   - FOIANY@mspb.gov
   fax: 212-264-1417
   misc:
-    FOIA Liaison: 'Gwendolyn Gatling, Phone: (212) 264-6183 ext. 7504'
+    FOIA Liaison:
+      name: Gwendolyn Gatling
+      phone:
+      - 212-264-6183 x7504
   name: New York Field Office
-  phone: 212-264-6183
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 212-264-6183 x7504
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
-  - Nicole Remmich
-  - FOIA Liaison
-  - Suite 318
-  - 165 South Union Boulevard
-  - Lakewood, CO 80228-2211
+    address_lines:
+    - Nicole Remmich
+    - FOIA Liaison
+    - Suite 318
+    city: Lakewood
+    state: CO
+    street: 165 South Union Boulevard
+    zip: 80228-2211
   emails: []
   fax: 303-969-5109
   misc:
-    FOIA Liaison: 'Nicole Remmich, Phone: (303) 969-5101 ext. 6104'
+    FOIA Liaison:
+      name: Nicole Remmich
+      phone:
+      - 303-969-5101 x6104
   name: Denver Field Office
-  phone: 303-969-5101
-  public_liaison: 'Darryl Aaron, Phone: (202) 254-4474'
+  phone: 303-969-5101 x6104
+  public_liaison:
+    name: Darryl Aaron
+    phone:
+    - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Bernard Parker, Phone: (202) 254-4475'
+  service_center:
+    name: Bernard Parker
+    phone:
+    - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 description: The Merit Systems Protection Board is an independent, quasi-judicial
@@ -182,7 +290,10 @@ keywords:
 - Whistleblowing
 name: Merit Systems Protection Board
 phone: 202-653-7200
-public_liaison: 'Bernard Parker, Phone: (202) 254-4475'
+public_liaison:
+  name: Bernard Parker
+  phone:
+  - 202-254-4475
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
@@ -255,7 +366,10 @@ request_time_stats:
     simple_highest_days: '440'
     simple_lowest_days: less than 1
     simple_median_days: '13'
-service_center: 'Bernard Parker, Phone: (202) 254-4475'
+service_center:
+  name: Bernard Parker
+  phone:
+  - 202-254-4475
 top_level: false
 usa_id: '52630'
 website: http://www.mspb.gov/FOIA/foia.htm

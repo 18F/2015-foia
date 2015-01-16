@@ -1,19 +1,30 @@
 abbreviation: NSF
 departments:
 - address:
-  - Sandra Evans
-  - FOIA Officer
-  - Suite 1265
-  - 4201 Wilson Boulevard
-  - Arlington, VA 22230
+    address_lines:
+    - Sandra Evans
+    - FOIA Officer
+    - Suite 1265
+    city: Arlington
+    state: VA
+    street: 4201 Wilson Boulevard
+    zip: '22230'
   emails:
   - foia@nsf.gov
   fax: 703-292-9041
-  foia_officer: 'Sandra Evans, Phone: (703) 292-8060'
+  foia_officer:
+    name: Sandra Evans
+    phone:
+    - 703-292-8060
   name: National Science Foundation
   phone: 703-292-8060
-  public_liaison: 'Sandra Evans, Phone: (703) 292-8060'
-  service_center: 'Phone: (703) 292-8060'
+  public_liaison:
+    name: Sandra Evans
+    phone:
+    - 703-292-8060
+  service_center:
+    phone:
+    - 703-292-8060
   top_level: false
   website: http://www.nsf.gov/policies/foia.jsp
 description: The National Science Foundation (NSF) is an independent federal agency

@@ -13,6 +13,9 @@ departments:
   request_form: http://www.cdc.gov/od/foia/request/
   top_level: true
 - name: Center for Medicare and Medicaid Services
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
   top_level: true
 - name: Food and Drug Administration
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm

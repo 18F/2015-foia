@@ -1,45 +1,67 @@
 abbreviation: VA
 address:
-- Laurie Karnay
-- FOIA Team Lead
-- (005R1C) VACO
-- 810 Vermont Avenue, NW
-- Washington, DC 20420
-departments:
-- address:
+  address_lines:
   - Laurie Karnay
   - FOIA Team Lead
   - (005R1C) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+  city: Washington
+  state: DC
+  street: 810 Vermont Avenue, NW
+  zip: '20420'
+departments:
+- address:
+    address_lines:
+    - Laurie Karnay
+    - FOIA Team Lead
+    - (005R1C) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vacofoiaservice@va.gov
   fax: 202-632-7581
   misc:
-    FOIA Team Lead: 'Laurie Karnay, Phone: (202) 632-7465'
+    FOIA Team Lead:
+      name: Laurie Karnay
+      phone:
+      - 202-632-7465
   name: Central Office FOIA/Privacy Act Office
   phone: 202-632-7465
-  public_liaison: 'Phone: (202) 632-7465'
+  public_liaison:
+    phone:
+    - 202-632-7465
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
-  service_center: 'Phone: (202) 632-7465'
+  service_center:
+    phone:
+    - 202-632-7465
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - James Killens III
-  - FOIA Contact
-  - (43D) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - James Killens III
+    - FOIA Contact
+    - (43D) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - nca.foia@va.gov
   fax: 202-632-7572
   misc:
-    FOIA Contact: 'James Killens III, Phone: (202) 632-7728'
+    FOIA Contact:
+      name: James Killens III
+      phone:
+      - 202-632-7728
   name: National Cemetery Administration
   phone: 202-632-7728
-  public_liaison: 'Raynell Lazier, Phone: (202) 461-6214'
+  public_liaison:
+    name: Raynell Lazier
+    phone:
+    - 202-461-6214
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -86,25 +108,36 @@ departments:
       simple_highest_days: '46'
       simple_lowest_days: '7'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 461-6214'
+  service_center:
+    phone:
+    - 202-461-6214
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Sean Burns
-  - FOIA Contact
-  - (20M33) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Sean Burns
+    - FOIA Contact
+    - (20M33) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - foia.vbaco@va.gov
   fax: 202-275-5947
   misc:
-    'FOIA Contact ': 'Sean Burns, Phone: (202) 491-9439'
+    'FOIA Contact ':
+      name: Sean Burns
+      phone:
+      - 202-491-9439
   name: Veterans Benefits Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-491-9439
-  public_liaison: 'Sean Burns, Phone: (202) 491-9439'
+  public_liaison:
+    name: Sean Burns
+    phone:
+    - 202-491-9439
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -179,25 +212,36 @@ departments:
       simple_highest_days: '254'
       simple_lowest_days: less than 1
       simple_median_days: '22'
-  service_center: 'Phone: (202) 491-9439'
+  service_center:
+    phone:
+    - 202-491-9439
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Timothy Graham
-  - FOIA Contact
-  - (19F2) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Timothy Graham
+    - FOIA Contact
+    - (19F2) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vhafoia2@va.gov
   fax: 202-273-9387
   misc:
-    'FOIA Contact ': 'Timothy Graham, Phone: (215) 823-4146'
+    'FOIA Contact ':
+      name: Timothy Graham
+      phone:
+      - 215-823-4146
   name: Veterans Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 215-823-4146
-  public_liaison: 'Timothy Graham, Phone: (215) 823-4146'
+  public_liaison:
+    name: Timothy Graham
+    phone:
+    - 215-823-4146
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -272,21 +316,32 @@ departments:
       simple_highest_days: '449'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (215) 823-4146'
+  service_center:
+    phone:
+    - 215-823-4146
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Inez Sidbury
-  - FOIA Contact
-  - (002B) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Inez Sidbury
+    - FOIA Contact
+    - (002B) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7635
   misc:
-    'FOIA Contact ': 'Inez Sidbury, Phone: (202) 461-7442'
+    'FOIA Contact ':
+      name: Inez Sidbury
+      phone:
+      - 202-461-7442
   name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
   phone: 202-461-7442
-  public_liaison: 'Inez Sidbury, Phone: (202) 461-7442'
+  public_liaison:
+    name: Inez Sidbury
+    phone:
+    - 202-461-7442
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -333,21 +388,32 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '16'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 461-7442'
+  service_center:
+    phone:
+    - 202-461-7442
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Gary Tallman
-  - FOIA Contact
-  - (80A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Gary Tallman
+    - FOIA Contact
+    - (80A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6705
   misc:
-    'FOIA Contact ': 'Gary Tallman, Phone: (202) 461-7430'
+    'FOIA Contact ':
+      name: Gary Tallman
+      phone:
+      - 202-461-7430
   name: Office of Deputy Assistant Secretary for Public Affairs
   phone: 202-461-7430
-  public_liaison: 'Nathan Naylor, Phone: (202) 461-7430'
+  public_liaison:
+    name: Nathan Naylor
+    phone:
+    - 202-461-7430
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -366,21 +432,32 @@ departments:
       complex_highest_days: less than 1
       complex_lowest_days: less than 1
       complex_median_days: less than 1
-  service_center: 'Phone: (202) 461-7430'
+  service_center:
+    phone:
+    - 202-461-7430
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Susan McCrea
-  - FOIA Contact
-  - (075) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Susan McCrea
+    - FOIA Contact
+    - (075) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-5716
   misc:
-    'FOIA Contact ': 'Susan McCrea, Phone: (202) 461-7379'
+    'FOIA Contact ':
+      name: Susan McCrea
+      phone:
+      - 202-461-7379
   name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
   phone: 202-461-7379
-  public_liaison: 'Fran Heimrich, Phone: (202) 461-7379'
+  public_liaison:
+    name: Fran Heimrich
+    phone:
+    - 202-461-7379
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -412,57 +489,90 @@ departments:
       complex_highest_days: '35'
       complex_lowest_days: '8'
       complex_median_days: '21.5'
-  service_center: 'Phone: (202) 461-7379'
+  service_center:
+    phone:
+    - 202-461-7379
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Miriam Smith
-  - FOIA Contact
-  - (004A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Miriam Smith
+    - FOIA Contact
+    - (004A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6892
   misc:
-    'FOIA Contact ': 'Miriam Smith, Phone: (202) 461-6677'
+    'FOIA Contact ':
+      name: Miriam Smith
+      phone:
+      - 202-461-6677
   name: Office of Assistant Secretary for Management
   phone: 202-461-6677
-  public_liaison: 'Miriam Smith, Phone: (202) 461-6677'
+  public_liaison:
+    name: Miriam Smith
+    phone:
+    - 202-461-6677
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
-  service_center: 'Phone: (202) 461-6677'
+  service_center:
+    phone:
+    - 202-461-6677
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Kelli Emery
-  - FOIA Contact
-  - (044) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Kelli Emery
+    - FOIA Contact
+    - (044) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-632-7146
   misc:
-    'FOIA Contact ': 'Kelli Emery, Phone: (202) 590-8793'
+    'FOIA Contact ':
+      name: Kelli Emery
+      phone:
+      - 202-590-8793
   name: Office of Asset Enterprise Management
   phone: 202-590-8793
-  public_liaison: 'Kelli Emery, Phone: (202) 590-8793'
+  public_liaison:
+    name: Kelli Emery
+    phone:
+    - 202-590-8793
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
-  service_center: 'Phone: (202) 590-8793'
+  service_center:
+    phone:
+    - 202-590-8793
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Cynthia Manurs
-  - FOIA Contact
-  - (041C/D) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Cynthia Manurs
+    - FOIA Contact
+    - (041C/D) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6628
   misc:
-    'FOIA Contact ': 'Cynthia Manurs, Phone: (202)461-5170'
+    'FOIA Contact ':
+      name: Cynthia Manurs
+      phone:
+      - 202-461-5170
   name: Office of Deputy Assistant Secretary for Budget
   phone: 202-461-5170
-  public_liaison: 'Cynthia Manurs, Phone: (202)461-5170'
+  public_liaison:
+    name: Cynthia Manurs
+    phone:
+    - 202-461-5170
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -490,21 +600,32 @@ departments:
       complex_highest_days: '63'
       complex_lowest_days: '63'
       complex_median_days: '63'
-  service_center: 'Phone: (202)461-5170'
+  service_center:
+    phone:
+    - 202-461-5170
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Karen Barber
-  - FOIA Contact
-  - (047GC1) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Karen Barber
+    - FOIA Contact
+    - (047GC1) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6574
   misc:
-    'FOIA Contact ': 'Karen Barber, Phone: (202) 461-6432'
+    'FOIA Contact ':
+      name: Karen Barber
+      phone:
+      - 202-461-6432
   name: Office of Deputy Assistant Secretary for Finance
   phone: 202-461-6432
-  public_liaison: 'Karen Barber, Phone: (202) 461-6432'
+  public_liaison:
+    name: Karen Barber
+    phone:
+    - 202-461-6432
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -551,43 +672,65 @@ departments:
       simple_highest_days: '254'
       simple_lowest_days: '8'
       simple_median_days: '35'
-  service_center: 'Phone: (202) 461-6432'
+  service_center:
+    phone:
+    - 202-461-6432
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Timothy Clifton
-  - FOIA Contact
-  - Philadelphia Information Technology Center
-  - 5000 Wissahickon Avenue (284)
-  - Philadelphia, PA 19144
+    address_lines:
+    - Timothy Clifton
+    - FOIA Contact
+    - Philadelphia Information Technology Center
+    city: Philadelphia
+    state: PA
+    street: 5000 Wissahickon Avenue (284)
+    zip: '19144'
   emails:
   - cdcofoia@va.gov
   fax: 215-381-3527
   misc:
-    'FOIA Contact ': 'Timothy Clifton, Phone: (215) 842-2000 ext 4503'
+    'FOIA Contact ':
+      name: Timothy Clifton
+      phone:
+      - 215-842-2000 x4503
   name: Corporate Data Center Operations
-  phone: 215-842-2000
-  public_liaison: 'Timothy Clifton, Phone: (215) 842-2000 ext 4503'
+  phone: 215-842-2000 x4503
+  public_liaison:
+    name: Timothy Clifton
+    phone:
+    - 215-842-2000 x4503
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
-  service_center: 'Phone: (215) 842-2000 ext 4503'
+  service_center:
+    phone:
+    - 215-842-2000 x4503
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Laurie Karnay
-  - FOIA Team Lead
-  - (005R1C) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Laurie Karnay
+    - FOIA Team Lead
+    - (005R1C) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vacofoiaservice@va.gov
   fax: 202-632-7581
   misc:
-    FOIA Team Lead: 'Laurie Karnay, Phone: (202) 632-7465'
+    FOIA Team Lead:
+      name: Laurie Karnay
+      phone:
+      - 202-632-7465
   name: Office of Assistant Secretary for Information and Technology
   phone: 202-632-7465
-  public_liaison: 'James Horan, Phone: (877) 750-3642'
+  public_liaison:
+    name: James Horan
+    phone:
+    - 877-750-3642
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -632,21 +775,32 @@ departments:
       simple_highest_days: '80'
       simple_lowest_days: '1'
       simple_median_days: '12.5'
-  service_center: 'Phone: (877) 750-3642'
+  service_center:
+    phone:
+    - 877-750-3642
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Yolanda Johnson
-  - FOIA Contact
-  - (006V) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Yolanda Johnson
+    - FOIA Contact
+    - (006V) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-632-7536
   misc:
-    'FOIA Contact ': 'Yolanda Johnson, Phone: (202) 632-7310'
+    'FOIA Contact ':
+      name: Yolanda Johnson
+      phone:
+      - 202-632-7310
   name: Office of Assistant Secretary for Human Resources and Administration
   phone: 202-632-7310
-  public_liaison: 'Yolanda Johnson, Phone: (202) 632-7310'
+  public_liaison:
+    name: Yolanda Johnson
+    phone:
+    - 202-632-7310
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -688,21 +842,32 @@ departments:
       simple_highest_days: '61'
       simple_lowest_days: '61'
       simple_median_days: '61'
-  service_center: 'Phone: (202) 632-7310'
+  service_center:
+    phone:
+    - 202-632-7310
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Jean Hayes
-  - FOIA Contact
-  - (054A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Jean Hayes
+    - FOIA Contact
+    - (054A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7871
   misc:
-    'FOIA Contact ': 'Jean Hayes, Phone: (202) 461-7863'
+    'FOIA Contact ':
+      name: Jean Hayes
+      phone:
+      - 202-461-7863
   name: Office of Deputy Assistant Secretary for Human Resources Management
   phone: 202-461-7863
-  public_liaison: 'Jean Hayes, Phone: (202) 461-7863'
+  public_liaison:
+    name: Jean Hayes
+    phone:
+    - 202-461-7863
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -749,21 +914,32 @@ departments:
       simple_highest_days: '279'
       simple_lowest_days: '279'
       simple_median_days: '279'
-  service_center: 'Phone: (202) 461-7863'
+  service_center:
+    phone:
+    - 202-461-7863
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Betty Cook
-  - FOIA Contact
-  - (06) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Betty Cook
+    - FOIA Contact
+    - (06) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-501-1970
   misc:
-    'FOIA Contact ': 'Betty Cook, Phone: (202) 461-4010'
+    'FOIA Contact ':
+      name: Betty Cook
+      phone:
+      - 202-461-4010
   name: Office of Deputy Assistant Secretary for Diversity and Inclusion
   phone: 202-461-4010
-  public_liaison: 'Betty Cook, Phone: (202) 461-4010'
+  public_liaison:
+    name: Betty Cook
+    phone:
+    - 202-461-4010
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -787,21 +963,32 @@ departments:
       complex_highest_days: '28'
       complex_lowest_days: '28'
       complex_median_days: '28'
-  service_center: 'Phone: (202) 461-4010'
+  service_center:
+    phone:
+    - 202-461-4010
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Nigel Collie
-  - FOIA Contact
-  - (08) (I Street) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Nigel Collie
+    - FOIA Contact
+    - (08) (I Street) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-501-2885
   misc:
-    'FOIA Contact ': 'Nigel Collie, Phone: (202) 501-2827'
+    'FOIA Contact ':
+      name: Nigel Collie
+      phone:
+      - 202-501-2827
   name: Office of Resolution Management
   phone: 202-501-2827
-  public_liaison: 'Nigel Collie, Phone: (202) 501-2827'
+  public_liaison:
+    name: Nigel Collie
+    phone:
+    - 202-501-2827
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -848,21 +1035,32 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: '2'
       simple_median_days: '14'
-  service_center: 'Phone: (202) 501-2827'
+  service_center:
+    phone:
+    - 202-501-2827
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Shelia Gaskins
-  - FOIA Contact
-  - (032A) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Shelia Gaskins
+    - FOIA Contact
+    - (032A) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-7091
   misc:
-    'FOIA Contact ': 'Shelia Gaskins, Phone: (202) 461-5046'
+    'FOIA Contact ':
+      name: Shelia Gaskins
+      phone:
+      - 202-461-5046
   name: Office of Deputy Assistant Secretary for Administration
   phone: 202-461-5046
-  public_liaison: 'Shelia Gaskins, Phone: (202) 461-5046'
+  public_liaison:
+    name: Shelia Gaskins
+    phone:
+    - 202-461-5046
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -945,21 +1143,32 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: '1'
       simple_median_days: '7.5'
-  service_center: 'Phone: (202) 461-5046'
+  service_center:
+    phone:
+    - 202-461-5046
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Tanya Al-Khateeb
-  - FOIA Contact
-  - (007) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Tanya Al-Khateeb
+    - FOIA Contact
+    - (007) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-461-0963
   misc:
-    'FOIA Contact ': 'Tanya Al-Khateeb, Phone: (202) 461-6587'
+    'FOIA Contact ':
+      name: Tanya Al-Khateeb
+      phone:
+      - 202-461-6587
   name: Office of the Assistant Secretary for Operations, Security, and Preparedness
   phone: 202-461-6587
-  public_liaison: 'Tanya Al-Khateeb, Phone: (202) 461-6587'
+  public_liaison:
+    name: Tanya Al-Khateeb
+    phone:
+    - 202-461-6587
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -989,21 +1198,32 @@ departments:
       complex_highest_days: '39'
       complex_lowest_days: '3'
       complex_median_days: '4'
-  service_center: 'Phone: (202) 461-6587'
+  service_center:
+    phone:
+    - 202-461-6587
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Stephanie Way
-  - FOIA Contact
-  - (008) VACO, Room 314
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Stephanie Way
+    - FOIA Contact
+    - (008) VACO, Room 314
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-5993
   misc:
-    'FOIA Contact ': 'Stephanie Way, Phone: (202) 461-5918'
+    'FOIA Contact ':
+      name: Stephanie Way
+      phone:
+      - 202-461-5918
   name: Office of Policy and Planning
   phone: 202-461-5918
-  public_liaison: 'Stephanie Way, Phone: (202) 461-5198'
+  public_liaison:
+    name: Stephanie Way
+    phone:
+    - 202-461-5198
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1045,21 +1265,32 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '13'
       simple_median_days: '13'
-  service_center: 'Phone: (202) 461-5198'
+  service_center:
+    phone:
+    - 202-461-5198
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Pamela Balsley
-  - FOIA Contact
-  - (009) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Pamela Balsley
+    - FOIA Contact
+    - (009) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-273-6792
   misc:
-    'FOIA Contact ': 'Pamela Balsley, Phone: (202) 461-6619'
+    'FOIA Contact ':
+      name: Pamela Balsley
+      phone:
+      - 202-461-6619
   name: Office of Assistant Secretary for Congressional and Legislative Affairs
   phone: 202-461-6619
-  public_liaison: 'Pamela Balsley, Phone: (202) 461-6619'
+  public_liaison:
+    name: Pamela Balsley
+    phone:
+    - 202-461-6619
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1097,23 +1328,34 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '1'
       simple_median_days: '11'
-  service_center: 'Phone: (202) 461-6619'
+  service_center:
+    phone:
+    - 202-461-6619
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Lynn Buell
-  - FOIA Contact
-  - (OOCM2) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Lynn Buell
+    - FOIA Contact
+    - (OOCM2) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - CFM.FOIA@va.gov
   fax: 202-495-5538
   misc:
-    'FOIA Contact ': 'Lynn Buell, Phone: (202) 461-8212'
+    'FOIA Contact ':
+      name: Lynn Buell
+      phone:
+      - 202-461-8212
   name: Office of Construction & Facilities Management
   phone: 202-461-8212
-  public_liaison: 'Lynn Buell, Phone: (202) 461-8212'
+  public_liaison:
+    name: Lynn Buell
+    phone:
+    - 202-461-8212
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1160,22 +1402,33 @@ departments:
       simple_highest_days: '397'
       simple_lowest_days: less than 1
       simple_median_days: '189.5'
-  service_center: 'Phone: (202) 461-8212'
+  service_center:
+    phone:
+    - 202-461-8212
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Richard Ha
-  - FOIA Officer, Office of Procurement Policy Services (OALC-PPS)
-  - Room 3E.405
-  - 425 I Street, NW
-  - Washington, DC 20001
+    address_lines:
+    - Richard Ha
+    - FOIA Officer, Office of Procurement Policy Services (OALC-PPS)
+    - Room 3E.405
+    city: Washington
+    state: DC
+    street: 425 I Street, NW
+    zip: '20001'
   emails:
   - VA_OAL_FOIA@va.gov
   fax: 202-343-1434
-  foia_officer: 'Richard Ha, Phone: (202) 632-5286'
+  foia_officer:
+    name: Richard Ha
+    phone:
+    - 202-632-5286
   name: Office of Acquisition & Logistics
   phone: 202-632-5286
-  public_liaison: 'Richard Ha, Phone: (202) 632-5286'
+  public_liaison:
+    name: Richard Ha
+    phone:
+    - 202-632-5286
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1221,21 +1474,32 @@ departments:
       simple_highest_days: '210'
       simple_lowest_days: less than 1
       simple_median_days: '12'
-  service_center: 'Phone: (202) 632-5286'
+  service_center:
+    phone:
+    - 202-632-5286
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Margaret L. Peak
-  - FOIA Contact
-  - (01C1) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Margaret L. Peak
+    - FOIA Contact
+    - (01C1) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   fax: 202-565-9733
   misc:
-    'FOIA Contact ': 'Margaret L. Peak, Phone: (202) 461-8111'
+    'FOIA Contact ':
+      name: Margaret L. Peak
+      phone:
+      - 202-461-8111
   name: Board of Veterans Appeals
   phone: 202-461-8111
-  public_liaison: 'Margaret L. Peak, Phone: (202) 461-8111'
+  public_liaison:
+    name: Margaret L. Peak
+    phone:
+    - 202-461-8111
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1249,23 +1513,34 @@ departments:
       simple_highest_days: '0'
       simple_lowest_days: '0'
       simple_median_days: '0'
-  service_center: 'Phone: (202) 461-8111'
+  service_center:
+    phone:
+    - 202-461-8111
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - J. Thomas Burch, Jr.
-  - FOIA Contact
-  - (026H) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - J. Thomas Burch, Jr.
+    - FOIA Contact
+    - (026H) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - ogcfoiarequests@va.gov
   fax: 202-273-9299
   misc:
-    'FOIA Contact ': 'J. Thomas Burch, Jr., Phone: (202) 461-7717'
+    'FOIA Contact ':
+      name: J. Thomas Burch, Jr.
+      phone:
+      - 202-461-7717
   name: Office of the General Counsel
   phone: 202-461-7717
-  public_liaison: 'J. Thomas Burch, Jr., Phone: (202) 461-7717'
+  public_liaison:
+    name: J. Thomas Burch, Jr.
+    phone:
+    - 202-461-7717
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1320,23 +1595,34 @@ departments:
       simple_highest_days: '62'
       simple_lowest_days: '62'
       simple_median_days: '62'
-  service_center: 'Phone: (202) 461-7717'
+  service_center:
+    phone:
+    - 202-461-7717
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Darryl Joe
-  - FOIA Contact
-  - (50CI) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Darryl Joe
+    - FOIA Contact
+    - (50CI) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - vaoigfoia-pa@va.gov
   fax: 202-565-8667
   misc:
-    'FOIA Contact ': 'Darryl Joe, Phone: (202) 461-4591'
+    'FOIA Contact ':
+      name: Darryl Joe
+      phone:
+      - 202-461-4591
   name: Office of Inspector General
   phone: 202-461-4591
-  public_liaison: 'Darryl Joe, Phone: (202) 461-4591'
+  public_liaison:
+    name: Darryl Joe
+    phone:
+    - 202-461-4591
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1387,23 +1673,34 @@ departments:
       simple_highest_days: less than 1
       simple_lowest_days: less than 1
       simple_median_days: less than 1
-  service_center: 'Phone: (202) 461-4591'
+  service_center:
+    phone:
+    - 202-461-4591
   top_level: false
   website: http://oprm.va.gov/foia/
 - address:
-  - Karen Zhussanbay
-  - FOIA Contact
-  - (00SB) VACO
-  - 810 Vermont Avenue, NW
-  - Washington, DC 20420
+    address_lines:
+    - Karen Zhussanbay
+    - FOIA Contact
+    - (00SB) VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
   emails:
   - osbdufoia@va.gov
   fax: 202-303-3313
   misc:
-    'FOIA Contact ': 'Karen Zhussanbay, Phone: (202) 303-3260 ext 5429'
+    'FOIA Contact ':
+      name: Karen Zhussanbay
+      phone:
+      - 202-303-3260 x5429
   name: Office of Small and Disadvantaged Business Utilization
-  phone: 202-303-3260
-  public_liaison: 'Karen Zhussanbay, Phone: (202) 303-3260 ext 5429'
+  phone: 202-303-3260 x5429
+  public_liaison:
+    name: Karen Zhussanbay
+    phone:
+    - 202-303-3260 x5429
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1437,7 +1734,9 @@ departments:
       complex_highest_days: '109'
       complex_lowest_days: '3'
       complex_median_days: '17'
-  service_center: 'Phone: (202) 303-3260 ext 5429'
+  service_center:
+    phone:
+    - 202-303-3260 x5429
   top_level: false
   website: http://oprm.va.gov/foia/
 description: The Department's mission is to fulfill President Lincoln's promise "To
@@ -1638,7 +1937,9 @@ keywords:
 - Women
 name: Department of Veterans Affairs
 phone: 202-632-7465
-public_liaison: 'Phone: (202) 632-7600'
+public_liaison:
+  phone:
+  - 202-632-7600
 request_time_stats:
   '2008':
     complex_highest_days: '2104'
@@ -1706,7 +2007,9 @@ request_time_stats:
     simple_highest_days: '699'
     simple_lowest_days: less than 1
     simple_median_days: '5'
-service_center: 'Phone: (202) 632-7600'
+service_center:
+  phone:
+  - 202-632-7600
 top_level: false
 usa_id: '48027'
 website: http://www.foia.va.gov/

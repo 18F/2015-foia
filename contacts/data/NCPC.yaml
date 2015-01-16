@@ -1,19 +1,28 @@
 abbreviation: NCPC
 departments:
 - address:
-  - Deborah Young
-  - FOIA Contact
-  - North Lobby, Suite 500
-  - 401 9th Street, NW
-  - Washington, DC 20004
+    address_lines:
+    - Deborah Young
+    - FOIA Contact
+    - North Lobby, Suite 500
+    city: Washington
+    state: DC
+    street: 401 9th Street, NW
+    zip: '20004'
   emails:
   - anne.schuyler@ncpc.gov
   fax: 202-482-7272
   misc:
-    FOIA Contact: 'Deborah Young, Phone: (202)-482-7228'
+    FOIA Contact:
+      name: Deborah Young
+      phone:
+      - 202-482-7228
   name: National Capital Planning Commission
   phone: 202-482-7228
-  public_liaison: 'Deborah Young, Phone: (202)-482-7228'
+  public_liaison:
+    name: Deborah Young
+    phone:
+    - 202-482-7228
   request_time_stats:
     '2010':
       simple_average_days: '3.5'
@@ -51,7 +60,10 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Marcella Brown, Phone: (202)-482-7227'
+  service_center:
+    name: Marcella Brown
+    phone:
+    - 202-482-7227
   top_level: false
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
 description: 'NCPC protects and enhances the historic, cultural, and natural resources

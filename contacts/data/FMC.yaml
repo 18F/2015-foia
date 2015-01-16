@@ -1,18 +1,27 @@
 abbreviation: FMC
 departments:
 - address:
-  - Karen Gregory
-  - Secretary
-  - 800 North Capitol Street, NW
-  - Washington, DC 20573
+    address_lines:
+    - Karen Gregory
+    - Secretary
+    city: Washington
+    state: DC
+    street: 800 North Capitol Street, NW
+    zip: '20573'
   emails:
   - FOIA@fmc.gov
   fax: 202-523-0014
   misc:
-    Secretary: 'Karen Gregory, Phone: (202) 523-5725'
+    Secretary:
+      name: Karen Gregory
+      phone:
+      - 202-523-5725
   name: Federal Maritime Commission
   phone: 202-523-5725
-  public_liaison: 'Rachel Dickon, Phone: (202) 523-5725'
+  public_liaison:
+    name: Rachel Dickon
+    phone:
+    - 202-523-5725
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fmc.gov/electronic_reading_room/default1.aspx
@@ -83,7 +92,9 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Phone: (202) 523-5707'
+  service_center:
+    phone:
+    - 202-523-5707
   top_level: false
   website: http://www.fmc.gov/about/freedom_of_information_act.aspx
 description: The Commission is responsible for the regulation of ocean-borne transportation

@@ -1,18 +1,26 @@
 abbreviation: NEA
 departments:
 - address:
-  - Monica Ashar
-  - FOIA Officer
-  - Room 608
-  - 1100 Pennsylvania Avenue, NW
-  - Washington, DC  20506
+    address_lines:
+    - Monica Ashar
+    - FOIA Officer
+    - Room 608
+    city: Washington
+    state: DC
+    street: 1100 Pennsylvania Avenue, NW
+    zip: '20506'
   emails:
   - foia@arts.gov
   fax: 202-682-5572
-  foia_officer: 'Monica Ashar, Phone: (202) 682-5418'
+  foia_officer:
+    name: Monica Ashar
+    phone:
+    - 202-682-5418
   name: National Endowment for the Arts
   phone: 202-682-5418
-  public_liaison: 'Phone: (202) 682-5418'
+  public_liaison:
+    phone:
+    - 202-682-5418
   reading_rooms:
   - - FOIA Reading Room, Frequently Requested Records
     - http://arts.gov/foia/reading-room
@@ -69,7 +77,9 @@ departments:
       simple_highest_days: '301'
       simple_lowest_days: '1'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 682-5418'
+  service_center:
+    phone:
+    - 202-682-5418
   top_level: false
   website: http://www.arts.gov/about/FOIA/index.html
 description: The National Endowment for the Arts was established by Congress in 1965

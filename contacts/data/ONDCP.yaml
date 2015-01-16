@@ -1,13 +1,19 @@
 abbreviation: ONDCP
 departments:
 - address:
-  - General Counsel
-  - Office of Legal Counsel
-  - 750 17th Street, NW
-  - Washington, DC 20503
+    address_lines:
+    - General Counsel
+    - Office of Legal Counsel
+    city: Washington
+    state: DC
+    street: 750 17th Street, NW
+    zip: '20503'
   name: Office of National Drug Control Policy
   phone: 202-395-6622
-  public_liaison: 'Daniel Petersen, Phone: (202) 395-6745'
+  public_liaison:
+    name: Daniel Petersen
+    phone:
+    - 202-395-6745
   request_time_stats:
     '2011':
       complex_average_days: '0'
@@ -32,7 +38,10 @@ departments:
       simple_highest_days: '148'
       simple_lowest_days: '1'
       simple_median_days: '42'
-  service_center: 'Daniel Petersen, Phone: (202) 395-6622'
+  service_center:
+    name: Daniel Petersen
+    phone:
+    - 202-395-6622
   top_level: false
   website: http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests
 description: The principal purpose of ONDCP is to establish policies, priorities,

@@ -1,16 +1,25 @@
 abbreviation: MCC
 departments:
 - address:
-  - John Mantini
-  - Chief FOIA Officer
-  - 875 15th Street, NW
-  - Washington, DC 20005
+    address_lines:
+    - John Mantini
+    - Chief FOIA Officer
+    city: Washington
+    state: DC
+    street: 875 15th Street, NW
+    zip: '20005'
   emails:
   - foia@mcc.gov
-  foia_officer: 'John Mantini, Phone: (202) 521-3863'
+  foia_officer:
+    name: John Mantini
+    phone:
+    - 202-521-3863
   name: Millennium Challenge Corporation
   phone: 202-521-3863
-  public_liaison: 'John Mantini, Phone: (202) 521-3863'
+  public_liaison:
+    name: John Mantini
+    phone:
+    - 202-521-3863
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -56,7 +65,10 @@ departments:
       simple_highest_days: '55'
       simple_lowest_days: less than 1
       simple_median_days: '18'
-  service_center: 'John Mantini, Phone: (202) 521-3863'
+  service_center:
+    name: John Mantini
+    phone:
+    - 202-521-3863
   top_level: false
   website: http://www.mcc.gov/pages/foia
 description: The Millennium Challenge Corporation (MCC) is an innovative and independent

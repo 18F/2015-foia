@@ -1,24 +1,36 @@
 abbreviation: DOT
 address:
-- FOIA Contact
-- Departmental FOIA Office
-- W94-122
-- 1200 New Jersey Avenue, SE
-- Washington, DC 20590
+  address_lines:
+  - FOIA Contact
+  - Departmental FOIA Office
+  - W94-122
+  city: Washington
+  state: DC
+  street: 1200 New Jersey Avenue, SE
+  zip: '20590'
 departments:
 - address:
-  - Kathy Ray
-  - FOIA Officer
-  - W94-122
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Kathy Ray
+    - FOIA Officer
+    - W94-122
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - ost.foia@dot.gov
   fax: 202-366-8536
-  foia_officer: 'Kathy Ray, Phone: (202) 366-5546'
+  foia_officer:
+    name: Kathy Ray
+    phone:
+    - 202-366-5546
   name: Office of the Secretary
   phone: 202-366-5546
-  public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
+  public_liaison:
+    name: Fern Kaufman
+    phone:
+    - 202-366-8067
   reading_rooms:
   - - OST Electronic Reading Room
     - http://www.dot.gov/foia/ost-electronic-reading-room
@@ -85,21 +97,33 @@ departments:
       simple_highest_days: '138'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Darlene Wallace, Phone: (202) 366-4542'
+  service_center:
+    name: Darlene Wallace
+    phone:
+    - 202-366-4542
   top_level: false
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
-  - Angel Simmons
-  - FOIA Officer
-  - 7th Floor
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Angel Simmons
+    - FOIA Officer
+    - 7th Floor
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails: []
   fax: 202-366-1975
-  foia_officer: 'Angel Simmons, Phone: (202) 366-6131'
+  foia_officer:
+    name: Angel Simmons
+    phone:
+    - 202-366-6131
   name: Office of the Inspector General
   phone: 202-366-6131
-  public_liaison: 'David Wonnenberg, Phone: (202) 366-8751'
+  public_liaison:
+    name: David Wonnenberg
+    phone:
+    - 202-366-8751
   reading_rooms:
   - - OIG FOIA Electronic Reading Room
     - https://www.oig.dot.gov/foia-electronic-reading-room
@@ -163,15 +187,21 @@ departments:
       simple_highest_days: '132'
       simple_lowest_days: less than 1
       simple_median_days: '26'
-  service_center: 'Angel Simmons, Phone: (202) 366-6131'
+  service_center:
+    name: Angel Simmons
+    phone:
+    - 202-366-6131
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
 - abbreviation: FAA
   address:
-  - FOIA Coordinator
-  - National FOIA Staff (AFN-140)
-  - 800 Independence Avenue, SW
-  - Washington, DC 20591
+    address_lines:
+    - FOIA Coordinator
+    - National FOIA Staff (AFN-140)
+    city: Washington
+    state: DC
+    street: 800 Independence Avenue, SW
+    zip: '20591'
   description: The FAA works to ensure that all air travel is safe.
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
@@ -258,12 +288,17 @@ departments:
   - X-rays
   - Yugoslavia
   misc:
-    FOIA Coordinator: 'Phone: (202) 267-9165'
+    FOIA Coordinator:
+      phone:
+      - 202-267-9165
   name: Federal Aviation Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-267-9165
-  public_liaison: 'Melanie Yohe, Phone: (202) 267-7799'
+  public_liaison:
+    name: Melanie Yohe
+    phone:
+    - 202-267-7799
   reading_rooms:
   - - Visit the FOIA Library
     - http://www.faa.gov/foia/electronic_reading_room/
@@ -347,16 +382,21 @@ departments:
       simple_highest_days: '1491'
       simple_lowest_days: less than 1
       simple_median_days: '12'
-  service_center: 'Phone: (202) 267-9165'
+  service_center:
+    phone:
+    - 202-267-9165
   top_level: true
   usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
-  - Manizheh Boehm
-  - FOIA/PA Contact
-  - HCC-40/E82-125
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Manizheh Boehm
+    - FOIA/PA Contact
+    - HCC-40/E82-125
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1380
@@ -412,10 +452,16 @@ departments:
   - Utilities
   - Wildlife refuges
   misc:
-    FOIA/PA Contact: 'Manizheh Boehm, Phone: (202) 366-9048'
+    FOIA/PA Contact:
+      name: Manizheh Boehm
+      phone:
+      - 202-366-9048
   name: Federal Highway Administration
   phone: 202-366-9048
-  public_liaison: 'Alla Shaw, Phone: (202) 366-1042'
+  public_liaison:
+    name: Alla Shaw
+    phone:
+    - 202-366-1042
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fhwa.dot.gov/foia/err.htm
@@ -498,15 +544,20 @@ departments:
       simple_highest_days: '574'
       simple_lowest_days: less than 1
       simple_median_days: '15'
-  service_center: 'Phone: (202) 366-0948'
+  service_center:
+    phone:
+    - 202-366-0948
   top_level: false
   website: http://www.fhwa.dot.gov/foia/index.htm
 - address:
-  - Denise Kollehlon
-  - FOIA/PA Contact, Office of the Chief Counsel
-  - Stop 10
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Denise Kollehlon
+    - FOIA/PA Contact, Office of the Chief Counsel
+    - Stop 10
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - frafoia@dot.gov
   fax: 202-493-6068
@@ -548,11 +599,16 @@ departments:
   - Transportation
   - Whistleblowing
   misc:
-    FOIA/PA Contact, Office of the Chief Counsel: 'Denise Kollehlon, Phone: (202)
-      493-6039'
+    FOIA/PA Contact, Office of the Chief Counsel:
+      name: Denise Kollehlon
+      phone:
+      - 202-493-6039
   name: Federal Railroad Administration
   phone: 202-493-6039
-  public_liaison: 'Warren Flatau, Phone: (202) 493-6019'
+  public_liaison:
+    name: Warren Flatau
+    phone:
+    - 202-493-6019
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fra.dot.gov/Page/P0388
@@ -595,15 +651,20 @@ departments:
       expedited_processing_highest_days: '7'
       expedited_processing_lowest_days: '7'
       expedited_processing_median_days: '7'
-  service_center: 'Phone: (202) 493-6065'
+  service_center:
+    phone:
+    - 202-493-6065
   top_level: false
   website: http://www.fra.dot.gov/Page/P0387
 - address:
-  - Nancy Sipes
-  - FOIA/PA Contact
-  - E42-315
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Nancy Sipes
+    - FOIA/PA Contact
+    - E42-315
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - FTA.FOIA@dot.gov
   fax: 202-366-7164
@@ -639,10 +700,16 @@ departments:
   - Uniform System of Accounts
   - Wildlife refuges
   misc:
-    FOIA/PA Contact: 'Nancy Sipes, Phone: (202) 366-4022'
+    FOIA/PA Contact:
+      name: Nancy Sipes
+      phone:
+      - 202-366-4022
   name: Federal Transit Administration
   phone: 202-366-4022
-  public_liaison: 'David Longo, Phone: (202) 366-0608'
+  public_liaison:
+    name: David Longo
+    phone:
+    - 202-366-0608
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.fta.dot.gov/legislation_law/12316_8574.html
@@ -689,15 +756,20 @@ departments:
       simple_highest_days: '214'
       simple_lowest_days: less than 1
       simple_median_days: '20'
-  service_center: 'Phone: (202) 366-2494'
+  service_center:
+    phone:
+    - 202-366-2494
   top_level: false
   website: http://www.fta.dot.gov/newsroom/12814.html
 - address:
-  - Tiffanie C. Coleman
-  - FOIA/PA Contact (MC-MMI)
-  - W66-458
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Tiffanie C. Coleman
+    - FOIA/PA Contact (MC-MMI)
+    - W66-458
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
@@ -748,10 +820,16 @@ departments:
   - Tires
   - Transportation
   misc:
-    FOIA/PA Contact (MC-MMI): 'Tiffanie C. Coleman, Phone: (202) 366-2960'
+    FOIA/PA Contact (MC-MMI):
+      name: Tiffanie C. Coleman
+      phone:
+      - 202-366-2960
   name: Federal Motor Carrier Safety Administration
   phone: 202-366-2960
-  public_liaison: 'Duane DeBruyne, Phone: (202) 366-9999'
+  public_liaison:
+    name: Duane DeBruyne
+    phone:
+    - 202-366-9999
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
@@ -834,16 +912,21 @@ departments:
       simple_highest_days: '158'
       simple_lowest_days: less than 1
       simple_median_days: '51'
-  service_center: 'Phone: (202) 366-2960'
+  service_center:
+    phone:
+    - 202-366-2960
   top_level: false
   website: http://www.fmcsa.dot.gov/foia
 - abbreviation: NHTSA
   address:
-  - FOIA Contact
-  - NHTSA Executive Secretariat
-  - W41-304
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - FOIA Contact
+    - NHTSA Executive Secretariat
+    - W41-304
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   description: The National Highway Traffic Safety Administration (NHTSA) is responsible
     for reducing deaths, injuries and economic losses resulting from motor vehicle
     crashes. The agency investigates safety defects in motor vehicles, sets and enforces
@@ -892,10 +975,16 @@ departments:
   - Transportation
   - Vessels
   misc:
-    NHTSA Executive Secretariat: 'FOIA Contact, Phone: (202) 366-1834'
+    NHTSA Executive Secretariat:
+      name: FOIA Contact
+      phone:
+      - 202-366-1834
   name: National Highway Traffic Safety Administration
   phone: 202-366-1834
-  public_liaison: 'Mary Sprague, Phone: (202) 366-2330'
+  public_liaison:
+    name: Mary Sprague
+    phone:
+    - 202-366-2330
   reading_rooms:
   - - NHTSA Electronic Reading Room (ERR)
     - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
@@ -956,20 +1045,28 @@ departments:
       simple_highest_days: '289'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Phone: (202) 366-1834'
+  service_center:
+    phone:
+    - 202-366-1834
   top_level: true
   usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
 - address:
-  - T. Mitchell Hudson, Jr.
-  - FOIA Officer, Division of Legislation and Regulations
-  - W24-233
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - T. Mitchell Hudson, Jr.
+    - FOIA Officer, Division of Legislation and Regulations
+    - W24-233
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
-  foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
+  foia_officer:
+    name: T. Mitchell Hudson, Jr.
+    phone:
+    - 202-366-5320
   keywords:
   - Administrative practice and procedure
   - Antitrust
@@ -1018,7 +1115,10 @@ departments:
   - Vessels
   name: Maritime Administration
   phone: 202-366-5320
-  public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
+  public_liaison:
+    name: Ann Herchenrider
+    phone:
+    - 202-366-5165
   reading_rooms:
   - - Maritime Administration Electronic Reading Room
     - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
@@ -1077,19 +1177,27 @@ departments:
       simple_highest_days: '965'
       simple_lowest_days: '1'
       simple_median_days: '23.5'
-  service_center: 'Phone: (202) 366-2666'
+  service_center:
+    phone:
+    - 202-366-2666
   top_level: false
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
-  - Vacant
-  - FOIA Officer
-  - E23-306
-  - 1200 New Jersey Avenue, SE
-  - Washington, DC 20590
+    address_lines:
+    - Vacant
+    - FOIA Officer
+    - E23-306
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   emails:
   - PHMSA.FOIA@dot.gov
   fax: 202-336-7041
-  foia_officer: 'Vacant, Phone: (202) 366-6119'
+  foia_officer:
+    name: Vacant
+    phone:
+    - 202-366-6119
   keywords:
   - Administrative practice and procedure
   - Air carriers
@@ -1136,7 +1244,10 @@ departments:
   - Water pollution control
   name: Pipeline and Hazardous Materials Safety Administration
   phone: 202-366-6119
-  public_liaison: 'Patricia Klinger, Phone: (202) 366-4831'
+  public_liaison:
+    name: Patricia Klinger
+    phone:
+    - 202-366-4831
   reading_rooms:
   - - Electronic Reading Room
     - http://www.phmsa.dot.gov/foia/e-reading-room
@@ -1219,14 +1330,19 @@ departments:
       simple_highest_days: '162'
       simple_lowest_days: less than 1
       simple_median_days: '6'
-  service_center: 'Phone: (202) 366-4400'
+  service_center:
+    phone:
+    - 202-366-4400
   top_level: false
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
-  - Carrie Lavigne
-  - FOIA/PA Contact
-  - P.O. Box 520
-  - Massena, NY 13662-0520
+    address_lines:
+    - Carrie Lavigne
+    - FOIA/PA Contact
+    city: Massena
+    state: NY
+    street: P.O. Box 520
+    zip: 13662-0520
   emails:
   - slsdc@dot.gov
   fax: 315-764-3235
@@ -1239,10 +1355,16 @@ departments:
   - Vessels
   - Waterways
   misc:
-    FOIA/PA Contact: 'Carrie Lavigne, Phone: (315) 764-3210'
+    FOIA/PA Contact:
+      name: Carrie Lavigne
+      phone:
+      - 315-764-3210
   name: Saint Lawrence Seaway Development Corporation
   phone: 315-764-3210
-  public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
+  public_liaison:
+    name: Fern Kaufman
+    phone:
+    - 202-366-8067
   request_time_stats:
     '2008':
       simple_average_days: '25'
@@ -1286,15 +1408,20 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: '9'
       simple_median_days: '12'
-  service_center: 'Phone: (315) 764-3275'
+  service_center:
+    phone:
+    - 315-764-3275
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
 - abbreviation: STB
   address:
-  - Marilyn R. Levitt
-  - FOIA/Privacy Act Officer
-  - 395 E Street, SW
-  - Washington, DC 20423-0001
+    address_lines:
+    - Marilyn R. Levitt
+    - FOIA/Privacy Act Officer
+    city: Washington
+    state: DC
+    street: 395 E Street, SW
+    zip: 20423-0001
   description: The Surface Transportation Board regulates and decides disputes involving
     railroad rates, railroad mergers or line sales, and certain other transportation
     matters.
@@ -1325,10 +1452,16 @@ departments:
   - Statistics
   - Uniform System of Accounts
   misc:
-    FOIA/Privacy Act Officer: 'Marilyn R. Levitt, Phone: (202) 245-0269'
+    FOIA/Privacy Act Officer:
+      name: Marilyn R. Levitt
+      phone:
+      - 202-245-0269
   name: Surface Transportation Board
   phone: 202-245-0269
-  public_liaison: 'Craig Keats, Phone: (202) 245-0264'
+  public_liaison:
+    name: Craig Keats
+    phone:
+    - 202-245-0264
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
   request_time_stats:
     '2008':
@@ -1377,7 +1510,10 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
+  service_center:
+    name: Marilyn R. Levitt
+    phone:
+    - 202-245-0269
   top_level: false
   usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
@@ -1687,7 +1823,10 @@ keywords:
 - Yugoslavia
 name: Department of Transportation
 phone: 202-366-4542
-public_liaison: 'Fern Kaufman, Phone: (202) 366-8067'
+public_liaison:
+  name: Fern Kaufman
+  phone:
+  - 202-366-8067
 request_time_stats:
   '2008':
     complex_average_days: '101'
@@ -1767,7 +1906,9 @@ request_time_stats:
     simple_highest_days: '1491'
     simple_lowest_days: less than 1
     simple_median_days: '14'
-service_center: 'Phone: (202) 366-4542'
+service_center:
+  phone:
+  - 202-366-4542
 top_level: false
 usa_id: '49035'
 website: http://www.dot.gov/foia/

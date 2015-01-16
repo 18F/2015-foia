@@ -1,16 +1,24 @@
 abbreviation: USADF
 departments:
 - address:
-  - June B. Brown
-  - FOIA Contact, Associate General Counsel
-  - 1400 Eye Street, NW
-  - Washington, DC 20005-2248
+    address_lines:
+    - June B. Brown
+    - FOIA Contact, Associate General Counsel
+    city: Washington
+    state: DC
+    street: 1400 Eye Street, NW
+    zip: 20005-2248
   fax: 202-673-3810
   misc:
-    FOIA Contact, Associate General Counsel: 'June B. Brown, Phone: (202) 673-3916'
+    FOIA Contact, Associate General Counsel:
+      name: June B. Brown
+      phone:
+      - 202-673-3916
   name: United States African Development Foundation
   phone: 202-673-3916
-  public_liaison: 'Phone: (202) 673-3916'
+  public_liaison:
+    phone:
+    - 202-673-3916
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -64,7 +72,9 @@ departments:
       simple_highest_days: '11'
       simple_lowest_days: '4'
       simple_median_days: '6.5'
-  service_center: 'Phone: (202) 673-3916'
+  service_center:
+    phone:
+    - 202-673-3916
   top_level: false
   website: http://www.adf.gov/OpenGovernment.html
 description: USADF provides direct support to community organizations and enterprises

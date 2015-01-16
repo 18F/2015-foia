@@ -1,37 +1,57 @@
 abbreviation: PC
 departments:
 - address:
-  - Denora Miller
-  - FOIA/Privacy Act Officer, Office of Management
-  - 1111 20th Street, NW
-  - Washington, DC 20536-0001
+    address_lines:
+    - Denora Miller
+    - FOIA/Privacy Act Officer, Office of Management
+    city: Washington
+    state: DC
+    street: 1111 20th Street, NW
+    zip: 20536-0001
   emails:
   - foia@peacecorps.gov
   fax: 202-692-1385
   misc:
-    FOIA/Privacy Act Officer, Office of Management: 'Denora Miller, Phone: (202) 692-1236'
+    FOIA/Privacy Act Officer, Office of Management:
+      name: Denora Miller
+      phone:
+      - 202-692-1236
   name: Main Office
   phone: 202-692-1236
-  public_liaison: 'Denora Miller, Phone: (202) 692-1236'
+  public_liaison:
+    name: Denora Miller
+    phone:
+    - 202-692-1236
   reading_rooms:
   - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
-  service_center: 'Phone: (202) 692-1236'
+  service_center:
+    phone:
+    - 202-692-1236
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 - address:
-  - Jeffrey Reichert
-  - FOIA Contact
-  - 1111 20th Street, NW
-  - Washington, DC 20536-0001
+    address_lines:
+    - Jeffrey Reichert
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 1111 20th Street, NW
+    zip: 20536-0001
   emails:
   - foia@peacecorps.gov
   misc:
-    FOIA Contact: 'Jeffrey Reichert, Phone: (202) 692-2922'
+    FOIA Contact:
+      name: Jeffrey Reichert
+      phone:
+      - 202-692-2922
   name: Office of the Inspector General
   phone: 202-692-2922
-  public_liaison: 'Jeffrey Reichert, Phone: (202) 692-2922'
+  public_liaison:
+    name: Jeffrey Reichert
+    phone:
+    - 202-692-2922
   reading_rooms:
   - - Reading Room
     - http://www.peacecorps.gov/about/policies/foia/readingroom/
@@ -107,7 +127,9 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: '3'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 692-2922'
+  service_center:
+    phone:
+    - 202-692-2922
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
 description: "In 1961, President John F. Kennedy established the Peace Corps to promote\

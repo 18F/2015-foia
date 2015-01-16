@@ -1,18 +1,27 @@
 abbreviation: STB
 departments:
 - address:
-  - Marilyn R. Levitt
-  - FOIA/Privacy Act Officer
-  - 395 E Street, SW
-  - Washington, DC 20423-0001
+    address_lines:
+    - Marilyn R. Levitt
+    - FOIA/Privacy Act Officer
+    city: Washington
+    state: DC
+    street: 395 E Street, SW
+    zip: 20423-0001
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
   misc:
-    FOIA/Privacy Act Officer: 'Marilyn R. Levitt, Phone: (202) 245-0269'
+    FOIA/Privacy Act Officer:
+      name: Marilyn R. Levitt
+      phone:
+      - 202-245-0269
   name: Surface Transportation Board
   phone: 202-245-0269
-  public_liaison: 'Craig Keats, Phone: (202) 245-0264'
+  public_liaison:
+    name: Craig Keats
+    phone:
+    - 202-245-0264
   request_form: http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm
   request_time_stats:
     '2008':
@@ -61,7 +70,10 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '4'
-  service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
+  service_center:
+    name: Marilyn R. Levitt
+    phone:
+    - 202-245-0269
   top_level: false
   website: http://www.stb.dot.gov/stb/foia.html
 description: The Surface Transportation Board (STB) was created in the ICC Termination

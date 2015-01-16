@@ -1,236 +1,379 @@
 abbreviation: NARA
 address:
-- Joseph Scanlon
-- FOIA Officer, Office of the General Counsel
-- Room 3110
-- 8601 Adelphi Road
-- College Park, MD 20740
-departments:
-- address:
+  address_lines:
   - Joseph Scanlon
   - FOIA Officer, Office of the General Counsel
   - Room 3110
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+  city: College Park
+  state: MD
+  street: 8601 Adelphi Road
+  zip: '20740'
+departments:
+- address:
+    address_lines:
+    - Joseph Scanlon
+    - FOIA Officer, Office of the General Counsel
+    - Room 3110
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - foia@nara.gov
   fax: 301-837-0293
-  foia_officer: 'Joseph Scanlon, Phone: (301) 837-3642'
+  foia_officer:
+    name: Joseph Scanlon
+    phone:
+    - 301-837-3642
   name: Main Office
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 301-837-3642
-  public_liaison: 'Gary Stern, Phone: (301) 837-2024'
+  public_liaison:
+    name: Gary Stern
+    phone:
+    - 301-837-2024
   reading_rooms:
   - - Electronic (FOIA) Reading Room
     - http://www.archives.gov/foia/electronic-reading-room.html
-  service_center: 'Phone: (301) 837-3642'
+  service_center:
+    phone:
+    - 301-837-3642
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - FOIA Contact
-  - Room 1300
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+    address_lines:
+    - FOIA Contact
+    - Room 1300
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - john.simms@nara.gov
   fax: 301-837-3197
   misc:
-    FOIA Contact: 'Phone: (301) 837-3000'
+    FOIA Contact:
+      phone:
+      - 301-837-3000
   name: Office of the Inspector General
   phone: 301-837-3000
-  public_liaison: 'John Simms, Phone: (301) 837-3197'
+  public_liaison:
+    name: John Simms
+    phone:
+    - 301-837-3197
   reading_rooms:
   - - Electronic (FOIA) Reading Room
     - http://www.archives.gov/foia/electronic-reading-room.html
-  service_center: 'Phone: (301) 837-3000'
+  service_center:
+    phone:
+    - 301-837-3000
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - FOIA Contact
-  - Special Access and FOIA Staff (NWCTF)
-  - Room 6350
-  - 8601 Adelphi Road
-  - College Park, MD 20740
+    address_lines:
+    - FOIA Contact
+    - Special Access and FOIA Staff (NWCTF)
+    - Room 6350
+    city: College Park
+    state: MD
+    street: 8601 Adelphi Road
+    zip: '20740'
   emails:
   - specialaccess_foia@nara.gov
   fax: 301-837-1864
   misc:
-    Special Access and FOIA Staff (NWCTF): 'FOIA Contact, Phone: (301) 837-3190'
+    Special Access and FOIA Staff (NWCTF):
+      name: FOIA Contact
+      phone:
+      - 301-837-3190
   name: Accessioned Executive Branch Agency Records - Washington, DC Area
   phone: 301-837-3190
-  public_liaison: 'Steven Tilley, Phone: (301) 837-3059'
+  public_liaison:
+    name: Steven Tilley
+    phone:
+    - 301-837-3059
   reading_rooms:
   - - Electronic (FOIA) Reading Room
     - http://www.archives.gov/foia/electronic-reading-room.html
-  service_center: 'Phone: (301) 837-3190'
+  service_center:
+    phone:
+    - 301-837-3190
   top_level: false
   website: http://www.archives.gov/foia/index.html
 - address:
-  - Regional Director
-  - 654 West Third Avenue
-  - Anchorage, AK 99501-2145
+    address_lines:
+    - Regional Director
+    city: Anchorage
+    state: AK
+    street: 654 West Third Avenue
+    zip: 99501-2145
   emails:
   - alaska.archives@nara.gov
   fax: 907-261-7813
   misc:
-    Regional Director: 'Phone: (907) 261-7820'
+    Regional Director:
+      phone:
+      - 907-261-7820
   name: Pacific Alaska Region (Anchorage)
   phone: 907-261-7820
-  public_liaison: 'R. Bruce Parham, Phone: (907) 261-7801'
-  service_center: 'Phone: (979) 691-4000'
+  public_liaison:
+    name: R. Bruce Parham
+    phone:
+    - 907-261-7801
+  service_center:
+    phone:
+    - 979-691-4000
   top_level: false
   website: http://www.archives.gov/pacific-alaska/anchorage/
 - address:
-  - Regional Director
-  - 57800 Jonesboro Road
-  - Morrow, GA 30260
+    address_lines:
+    - Regional Director
+    city: Morrow
+    state: GA
+    street: 57800 Jonesboro Road
+    zip: '30260'
   emails:
   - atlanta.archives@nara.gov
   fax: 770-968-2547
   misc:
-    Regional Director: 'Phone: (770) 968-2100'
+    Regional Director:
+      phone:
+      - 770-968-2100
   name: Southeast Region (Atlanta)
   phone: 770-968-2100
-  public_liaison: 'Richard Rayburn, Phone: (770) 968-2547'
-  service_center: 'Phone: (770) 968-2100'
+  public_liaison:
+    name: Richard Rayburn
+    phone:
+    - 770-968-2547
+  service_center:
+    phone:
+    - 770-968-2100
   top_level: false
   website: http://www.archives.gov/southeast/
 - address:
-  - Regional Director
-  - Frederick C. Murphy Federal Center
-  - 380 Trapelo Road
-  - Waltham, MA 02452-6399
+    address_lines:
+    - Regional Director
+    - Frederick C. Murphy Federal Center
+    city: Waltham
+    state: MA
+    street: 380 Trapelo Road
+    zip: 02452-6399
   emails:
   - boston.archives@nara.gov
   fax: 781-663-0154
   misc:
-    Regional Director: 'Phone: (781) 663-0130'
+    Regional Director:
+      phone:
+      - 781-663-0130
   name: Northeast Region (Boston)
   phone: 781-663-0130
-  public_liaison: 'Patricia Foley, Phone: (781) 663-0121'
-  service_center: 'Phone: (781) 663-0130'
+  public_liaison:
+    name: Patricia Foley
+    phone:
+    - 781-663-0121
+  service_center:
+    phone:
+    - 781-663-0130
   top_level: false
-  website: ''
 - address:
-  - Regional Director
-  - 7358 South Pulaski Road
-  - Chicago, IL 60629-5898
+    address_lines:
+    - Regional Director
+    city: Chicago
+    state: IL
+    street: 7358 South Pulaski Road
+    zip: 60629-5898
   emails:
   - chicago.archives@nara.gov
   fax: 773-948-9050
   misc:
-    Regional Director: 'Phone: (773) 948-9001'
+    Regional Director:
+      phone:
+      - 773-948-9001
   name: Great Lakes Region (Chicago)
   phone: 773-948-9001
-  public_liaison: 'Douglas Bicknese, Phone: (773) 948-0009'
-  service_center: 'Phone: (773) 581-7816'
+  public_liaison:
+    name: Douglas Bicknese
+    phone:
+    - 773-948-0009
+  service_center:
+    phone:
+    - 773-581-7816
   top_level: false
   website: http://www.archives.gov/great-lakes/
 - address:
-  - Regional Director
-  - P.O. Box 25307
-  - Denver, CO 80225
+    address_lines:
+    - Regional Director
+    city: Denver
+    state: CO
+    street: P.O. Box 25307
+    zip: '80225'
   emails:
   - denver.archives@nara.gov
   fax: 303-407-5709
   misc:
-    Regional Director: 'Phone: (303) 407-5740'
+    Regional Director:
+      phone:
+      - 303-407-5740
   name: Rocky Mountain Region (Denver)
   phone: 303-407-5740
-  public_liaison: 'Eileen Bolger, Phone: (303) 407-5749'
-  service_center: 'Phone: (303) 407-5740'
+  public_liaison:
+    name: Eileen Bolger
+    phone:
+    - 303-407-5749
+  service_center:
+    phone:
+    - 303-407-5740
   top_level: false
   website: http://www.archives.gov/rocky-mountain/
 - address:
-  - Regional Director
-  - 1400 John Burgess Drive
-  - Fort Worth, TX 76140
+    address_lines:
+    - Regional Director
+    city: Fort Worth
+    state: TX
+    street: 1400 John Burgess Drive
+    zip: '76140'
   emails:
   - ftworth.archives@nara.gov
   fax: 817-551-2034
   misc:
-    Regional Director: 'Phone: (817) 831-5620'
+    Regional Director:
+      phone:
+      - 817-831-5620
   name: Southwest Region (Fort Worth)
   phone: 817-831-5620
-  public_liaison: 'Meg Hacker, Phone: (917) 831-5643'
-  service_center: 'Phone: (817) 334-5525'
+  public_liaison:
+    name: Meg Hacker
+    phone:
+    - 917-831-5643
+  service_center:
+    phone:
+    - 817-334-5525
   top_level: false
   website: http://www.archives.gov/southwest/
 - address:
-  - Regional Director
-  - 400 West Pershing Road
-  - Kansas City, MO 64108
+    address_lines:
+    - Regional Director
+    city: Kansas City
+    state: MO
+    street: 400 West Pershing Road
+    zip: '64108'
   emails:
   - kansascity.archives@nara.gov
   fax: 816-268-8038
   misc:
-    Regional Director: 'Phone: (816) 268-8000'
+    Regional Director:
+      phone:
+      - 816-268-8000
   name: Central Plains Region (Kansas City)
   phone: 816-268-8000
-  public_liaison: 'Phone: (816) 268-8017'
-  service_center: 'Phone: (816) 268-8000'
+  public_liaison:
+    phone:
+    - 816-268-8017
+  service_center:
+    phone:
+    - 816-268-8000
   top_level: false
   website: http://www.archives.gov/locations/regional-archives.html
 - address:
-  - Regional Director
-  - 12th Floor
-  - 201 Varick Street
-  - New York, NY 10014
+    address_lines:
+    - Regional Director
+    - 12th Floor
+    city: New York
+    state: NY
+    street: 201 Varick Street
+    zip: '10014'
   emails:
   - newyork.archives@nara.gov
   fax: 212-401-1638
   misc:
-    Regional Director: 'Phone: (212) 401-1620'
+    Regional Director:
+      phone:
+      - 212-401-1620
   name: Northeast Region (New York)
   phone: 212-401-1620
-  public_liaison: 'Nancy Shader, Phone: (212) 401-1626'
-  service_center: 'Phone: (212) 401-1620'
+  public_liaison:
+    name: Nancy Shader
+    phone:
+    - 212-401-1626
+  service_center:
+    phone:
+    - 212-401-1620
   top_level: false
   website: http://www.archives.gov/northeast/nyc/
 - address:
-  - Regional Director
-  - 900 Market Street
-  - Philadelphia, PA 19107-4292
+    address_lines:
+    - Regional Director
+    city: Philadelphia
+    state: PA
+    street: 900 Market Street
+    zip: 19107-4292
   emails:
   - philadelphia.archives@nara.gov
   fax: 215-606-0116
   misc:
-    Regional Director: 'Phone: (215) 606-0100'
+    Regional Director:
+      phone:
+      - 215-606-0100
   name: Mid-Atlantic Region (City Center Philadelphia)
   phone: 215-606-0100
-  public_liaison: 'John McEvoy, Phone: (215) 305-2005'
-  service_center: 'Phone: (215) 305-2000'
+  public_liaison:
+    name: John McEvoy
+    phone:
+    - 215-305-2005
+  service_center:
+    phone:
+    - 215-305-2000
   top_level: false
   website: http://www.archives.gov/midatlantic/
 - address:
-  - Regional Director
-  - 100 Commodore Drive
-  - San Bruno, CA 94066-2350
+    address_lines:
+    - Regional Director
+    city: San Bruno
+    state: CA
+    street: 100 Commodore Drive
+    zip: 94066-2350
   emails:
   - sanbruno.archives@nara.gov
   fax: 650-238-3510
   misc:
-    Regional Director: 'Phone: (650) 238-3501'
+    Regional Director:
+      phone:
+      - 650-238-3501
   name: Pacific Region (San Francisco)
   phone: 650-238-3501
-  public_liaison: 'Dan Nealand, Phone: (650) 238-3478'
-  service_center: 'Phone: (949) 360-2641'
+  public_liaison:
+    name: Dan Nealand
+    phone:
+    - 650-238-3478
+  service_center:
+    phone:
+    - 949-360-2641
   top_level: false
   website: http://www.archives.gov/pacific/san-francisco/
 - address:
-  - Regional Director
-  - 6125 Sand Point Way, NE
-  - Seattle, WA 98115-7999
+    address_lines:
+    - Regional Director
+    city: Seattle
+    state: WA
+    street: 6125 Sand Point Way, NE
+    zip: 98115-7999
   emails:
   - seattle.archives@nara.gov
   fax: 206-336-5112
   misc:
-    Regional Director: 'Phone: (206) 336-5115'
+    Regional Director:
+      phone:
+      - 206-336-5115
   name: Pacific Region (Seattle)
   phone: 206-336-5115
-  public_liaison: 'Sue Karren, Phone: (206) 336-5141'
-  service_center: 'Phone: (206) 336-5115'
+  public_liaison:
+    name: Sue Karren
+    phone:
+    - 206-336-5141
+  service_center:
+    phone:
+    - 206-336-5115
   top_level: false
   website: http://www.archives.gov/pacific-alaska/seattle/
 description: The National Archives and Records Administration serves American democracy
@@ -353,7 +496,10 @@ keywords:
 - Women
 name: National Archives and Records Administration
 phone: 301-837-3642
-public_liaison: 'Gary Stern, Phone: (301) 837-2024'
+public_liaison:
+  name: Gary Stern
+  phone:
+  - 301-837-2024
 reading_rooms:
 - - Electronic (FOIA) Reading Room
   - http://www.archives.gov/foia/electronic-reading-room.html
@@ -420,7 +566,9 @@ request_time_stats:
     simple_highest_days: '3994'
     simple_lowest_days: less than 1
     simple_median_days: '6'
-service_center: 'Phone: (301) 837-3642'
+service_center:
+  phone:
+  - 301-837-3642
 top_level: false
 usa_id: '49483'
 website: http://www.archives.gov/foia/index.html

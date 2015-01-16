@@ -1,19 +1,28 @@
 abbreviation: LSC
 departments:
 - address:
-  - Cheryl DuHart
-  - FOIA Analyst
-  - 3rd Floor
-  - 3333 K Street, NW
-  - Washington, DC 20007
+    address_lines:
+    - Cheryl DuHart
+    - FOIA Analyst
+    - 3rd Floor
+    city: Washington
+    state: DC
+    street: 3333 K Street, NW
+    zip: '20007'
   emails:
   - FOIA@lsc.gov
   fax: 202-337-6519
   misc:
-    FOIA Analyst: 'Cheryl DuHart, Phone: (202) 295-1500'
+    FOIA Analyst:
+      name: Cheryl DuHart
+      phone:
+      - 202-295-1500
   name: Legal Services Corporation
   phone: 202-295-1500
-  public_liaison: 'Cheryl DuHart, Phone: (202) 295-1500'
+  public_liaison:
+    name: Cheryl DuHart
+    phone:
+    - 202-295-1500
   reading_rooms:
   - - FOIA Electronic Public Reading Room
     - http://www.lsc.gov/about/foia/electronic-public-reading-room
@@ -44,7 +53,9 @@ departments:
       simple_highest_days: '728'
       simple_lowest_days: '1'
       simple_median_days: '195'
-  service_center: 'Phone: (202) 295-1500'
+  service_center:
+    phone:
+    - 202-295-1500
   top_level: false
   website: http://www.lsc.gov/foia2/
 description: LSC is the single largest provider of civil legal aid for the poor in

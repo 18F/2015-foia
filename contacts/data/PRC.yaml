@@ -1,17 +1,26 @@
 abbreviation: PRC
 departments:
 - address:
-  - Ruth Ann Abrams
-  - Assistant Secretary
-  - Suite 200 West
-  - 901 New York Avenue, NW
-  - Washington, DC 20268
+    address_lines:
+    - Ruth Ann Abrams
+    - Assistant Secretary
+    - Suite 200 West
+    city: Washington
+    state: DC
+    street: 901 New York Avenue, NW
+    zip: '20268'
   fax: 202-789-6891
   misc:
-    Assistant Secretary: 'Ruth Ann Abrams, Phone: (202) 789-6800'
+    Assistant Secretary:
+      name: Ruth Ann Abrams
+      phone:
+      - 202-789-6800
   name: Postal Regulatory Commission
   phone: 202-789-6800
-  public_liaison: 'Jennie Jbara, Phone: (202) 789-6800'
+  public_liaison:
+    name: Jennie Jbara
+    phone:
+    - 202-789-6800
   reading_rooms: []
   request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
   request_time_stats:
@@ -93,7 +102,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 789-6800'
+  service_center:
+    phone:
+    - 202-789-6800
   top_level: false
   website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
 description: The mission of the Postal Regulatory Commission is to ensure transparency

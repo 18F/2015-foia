@@ -1,52 +1,80 @@
 abbreviation: USPS
 departments:
 - address:
-  - FOIA Contact
-  - Manager, Records Office
-  - Room 9431
-  - 475 L'Enfant Plaza, SW
-  - Washington, DC 20260-1101
+    address_lines:
+    - FOIA Contact
+    - Manager, Records Office
+    - Room 9431
+    city: Washington
+    state: DC
+    street: 475 L'Enfant Plaza, SW
+    zip: 20260-1101
   fax: 202-268-5353
   misc:
-    Manager, Records Office: 'FOIA Contact, Phone: (202) 268-2608'
+    Manager, Records Office:
+      name: FOIA Contact
+      phone:
+      - 202-268-2608
   name: USPS Headquarters Office
   phone: 202-268-2608
-  public_liaison: 'Jane Eyre, Phone: (202) 268-2608'
+  public_liaison:
+    name: Jane Eyre
+    phone:
+    - 202-268-2608
   request_form: https://pfoiapal.usps.com/palMain.aspx
-  service_center: 'Phone: (202) 268-2608'
+  service_center:
+    phone:
+    - 202-268-2608
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
-  - FOIA Contact
-  - St. Louis General Law Service Center
-  - Room 2400
-  - 1720 Market Street
-  - St. Louis, MO 63155-9948
+    address_lines:
+    - FOIA Contact
+    - St. Louis General Law Service Center
+    - Room 2400
+    city: St. Louis
+    state: MO
+    street: 1720 Market Street
+    zip: 63155-9948
   fax: 650-578-4956
   name: USPS Field Office
   phone: 314-345-5894
-  public_liaison: 'Brittany Lindsay, Phone: (314) 345-5894'
+  public_liaison:
+    name: Brittany Lindsay
+    phone:
+    - 314-345-5894
   request_form: https://pfoiapal.usps.com/palMain.aspx
-  service_center: 'Phone: (314) 345-5894'
+  service_center:
+    phone:
+    - 314-345-5894
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - abbreviation: ''
   address:
-  - FOIA Contact
-  - Office of Counsel
-  - Room 3301
-  - 475 L´Enfant Plaza, SW
-  - Washington, DC 20260
+    address_lines:
+    - FOIA Contact
+    - Office of Counsel
+    - Room 3301
+    city: Washington
+    state: DC
+    street: 475 L´Enfant Plaza, SW
+    zip: '20260'
   description: The mission of the U.S. Postal Inspection Service is to support and
     protect the U.S. Postal Service and its employees, infrastructure, and customers;
     enforce the laws that defend the nation’s mail system from illegal or dangerous
     use; and ensure public trust in the mail.
   fax: 202-268-4538
   misc:
-    Office of Counsel: 'FOIA Contact, Phone: (202) 268-7004'
+    Office of Counsel:
+      name: FOIA Contact
+      phone:
+      - 202-268-7004
   name: Postal Inspection Service
   phone: 202-268-7004
-  public_liaison: 'Betty White, Phone: (202) 268-7004'
+  public_liaison:
+    name: Betty White
+    phone:
+    - 202-268-7004
   request_form: https://pfoiapal.usps.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -97,23 +125,34 @@ departments:
       simple_highest_days: '115'
       simple_lowest_days: less than 1
       simple_median_days: '6'
-  service_center: 'Phone: (202) 268-7004'
+  service_center:
+    phone:
+    - 202-268-7004
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
-  - FOIA Contact
-  - FOIA Contact
-  - Suite 10000
-  - 1735 North Lynn Street
-  - Arlington , VA 22209-2020
+    address_lines:
+    - FOIA Contact
+    - FOIA Contact
+    - Suite 10000
+    city: Arlington
+    state: VA
+    street: 1735 North Lynn Street
+    zip: 22209-2020
   emails:
   - FOIA@uspsoig.gov
   fax: 703-248-4626
   misc:
-    FOIA Contact: 'FOIA Contact, Phone: (703) 248-2100'
+    FOIA Contact:
+      name: FOIA Contact
+      phone:
+      - 703-248-2100
   name: Office of the Inspector General
   phone: 703-248-2100
-  public_liaison: 'Betsy Cuthbertson, Phone: (703) 248-2100'
+  public_liaison:
+    name: Betsy Cuthbertson
+    phone:
+    - 703-248-2100
   request_form: https://pfoiapal.usps.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -168,7 +207,9 @@ departments:
       simple_highest_days: '59'
       simple_lowest_days: less than 1
       simple_median_days: '6'
-  service_center: 'Phone: (703) 248-2100'
+  service_center:
+    phone:
+    - 703-248-2100
   top_level: false
   website: https://uspsoig.gov/general/foia
 description: The USPS OIG achieves its mission of helping maintain confidence in the
