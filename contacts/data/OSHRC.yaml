@@ -1,15 +1,21 @@
 abbreviation: OSHRC
 departments:
 - address:
-  - FOIA Request - OSHRC
-  - FOIA Requester Service Center
-  - 9th Floor
-  - 1120 20th Street, NW
-  - Washington, DC  20036-3457
+    address_lines:
+    - FOIA Request - OSHRC
+    - FOIA Requester Service Center
+    - 9th Floor
+    city: Washington
+    state: DC
+    street: 1120 20th Street, NW
+    zip: 20036-3457
   fax: 202-606-5417
   name: Occupational Safety and Health Review Commission
   phone: 202-606-5700
-  public_liaison: 'Lyndsey Frushour, Phone: (202) 606-5700'
+  public_liaison:
+    name: Lyndsey Frushour
+    phone:
+    - 202-606-5700
   reading_rooms:
   - - OSHRC e-FOIA Reading Room
     - http://www.oshrc.gov/foia/foia_reading_room.html
@@ -88,7 +94,9 @@ departments:
       simple_highest_days: '24'
       simple_lowest_days: less than 1
       simple_median_days: '7.5'
-  service_center: 'Phone: (202) 606-5700'
+  service_center:
+    phone:
+    - 202-606-5700
   top_level: false
   website: http://www.oshrc.gov/foia/foia.html
 description: The mission of the Occupational Safety and Health Review Commission is

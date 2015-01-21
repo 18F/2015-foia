@@ -1,17 +1,26 @@
 abbreviation: USTDA
 departments:
 - address:
-  - Anna Kastelas
-  - FOIA Contact
-  - Suite 1600
-  - 1000 Wilson Boulevard
-  - Arlington, VA 22209-3901
+    address_lines:
+    - Anna Kastelas
+    - FOIA Contact
+    - Suite 1600
+    city: Arlington
+    state: VA
+    street: 1000 Wilson Boulevard
+    zip: 22209-3901
   fax: 703-875-4009
   misc:
-    FOIA Contact: 'Anna Kastelas, Phone: (703) 875-4357'
+    FOIA Contact:
+      name: Anna Kastelas
+      phone:
+      - 703-875-4357
   name: United States Trade and Development Agency
   phone: 703-875-4357
-  public_liaison: 'Anna Kastelas, Phone: (703) 875-4357'
+  public_liaison:
+    name: Anna Kastelas
+    phone:
+    - 703-875-4357
   reading_rooms:
   - - USTDA FOIA Electronic Reading Room
     - http://www.ustda.gov/foia/foiareadingroom.asp
@@ -60,7 +69,9 @@ departments:
       complex_highest_days: '44'
       complex_lowest_days: '5'
       complex_median_days: '10'
-  service_center: 'Phone: (703) 875-5578'
+  service_center:
+    phone:
+    - 703-875-5578
   top_level: false
   website: http://www.ustda.gov/pubs/foia/
 description: The U.S. Trade and Development Agency helps companies create U.S. jobs

@@ -1,32 +1,50 @@
 abbreviation: RRB
 departments:
 - address:
-  - Eric Wooden
-  - FOIA Officer
-  - 844 North Rush Street
-  - Chicago, IL 60611-2092
+    address_lines:
+    - Eric Wooden
+    - FOIA Officer
+    city: Chicago
+    state: IL
+    street: 844 North Rush Street
+    zip: 60611-2092
   fax: 312-751-7102
-  foia_officer: 'Eric Wooden, Phone: (312) 751-4936'
+  foia_officer:
+    name: Eric Wooden
+    phone:
+    - 312-751-4936
   name: Main Office
   phone: 312-751-4936
-  public_liaison: 'Marguerite P. Dadabo, Phone: (312) 751-4936'
+  public_liaison:
+    name: Marguerite P. Dadabo
+    phone:
+    - 312-751-4936
   reading_rooms:
   - - RRB Reading Room
     - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
-  service_center: 'Phone: (312) 751-4948'
+  service_center:
+    phone:
+    - 312-751-4948
   top_level: false
   website: http://www.rrb.gov/blaw/foia/foia.asp
 - address:
-  - Freedom of Information Officer
-  - Room 450
-  - 844 North Rush Street
-  - Chicago, IL 60611-2092
+    address_lines:
+    - Freedom of Information Officer
+    - Room 450
+    city: Chicago
+    state: IL
+    street: 844 North Rush Street
+    zip: 60611-2092
   misc:
-    Freedom of Information Officer: 'Phone: (312) 751-4350'
+    Freedom of Information Officer:
+      phone:
+      - 312-751-4350
   name: Office of the Inspector General
   phone: 312-751-4350
-  public_liaison: 'Phone: (312) 751-4350'
+  public_liaison:
+    phone:
+    - 312-751-4350
   reading_rooms:
   - - RRB Reading Room
     - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
@@ -102,7 +120,9 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (312) 751-4350'
+  service_center:
+    phone:
+    - 312-751-4350
   top_level: false
   website: http://www.rrb.gov/blaw/foia/foia.asp
 description: The Railroad Retirement Board (RRB) is an independent agency in the executive

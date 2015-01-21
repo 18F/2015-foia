@@ -1,19 +1,26 @@
 abbreviation: CNCS
 departments:
 - address:
-  - Freedom of Information Act Officer, Office of the General Counsel
-  - Room 10606
-  - 1201 New York Avenue, NW
-  - Washington, DC 20525
+    address_lines:
+    - Freedom of Information Act Officer, Office of the General Counsel
+    - Room 10606
+    city: Washington
+    state: DC
+    street: 1201 New York Avenue, NW
+    zip: '20525'
   emails:
   - foia@cns.gov
   fax: 202-606-3467
   misc:
-    Freedom of Information Act Officer, Office of the General Counsel: 'Phone: (202)
-      606-6671'
+    Freedom of Information Act Officer, Office of the General Counsel:
+      phone:
+      - 202-606-6671
   name: Corporation for National and Community Service
   phone: 202-606-6671
-  public_liaison: 'Wilsie Y. Minor, Phone: (202) 606-6673'
+  public_liaison:
+    name: Wilsie Y. Minor
+    phone:
+    - 202-606-6673
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -80,7 +87,9 @@ departments:
       simple_highest_days: '280'
       simple_lowest_days: less than 1
       simple_median_days: '22'
-  service_center: 'Phone: (202) 606-6671'
+  service_center:
+    phone:
+    - 202-606-6671
   top_level: false
   website: http://www.nationalservice.gov/home/foia/index.asp
 description: The Corporation for National and Community Service is a federal agency

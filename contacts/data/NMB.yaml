@@ -1,18 +1,27 @@
 abbreviation: NMB
 departments:
 - address:
-  - Mary L. Johnson
-  - General Counsel
-  - Suite 250E
-  - 1301 K Street, NW
-  - Washington, DC  20005
+    address_lines:
+    - Mary L. Johnson
+    - General Counsel
+    - Suite 250E
+    city: Washington
+    state: DC
+    street: 1301 K Street, NW
+    zip: '20005'
   emails: []
   fax: 202-692-5085
   misc:
-    General Counsel: 'Mary L. Johnson, Phone: (202) 692-5040'
+    General Counsel:
+      name: Mary L. Johnson
+      phone:
+      - 202-692-5040
   name: National Mediation Board
   phone: 202-692-5040
-  public_liaison: 'Susanna Parker, Phone: (202) 692-5040'
+  public_liaison:
+    name: Susanna Parker
+    phone:
+    - 202-692-5040
   request_time_stats:
     '2008':
       simple_average_days: '13'
@@ -84,7 +93,10 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '7'
-  service_center: 'Tonya Kirksey, Phone: (202) 692-5040'
+  service_center:
+    name: Tonya Kirksey
+    phone:
+    - 202-692-5040
   top_level: false
   website: http://www.nmb.gov/press-and-contacts/foia/foia-designations/
 description: The National Mediation Board (NMB), established by the 1934 amendments

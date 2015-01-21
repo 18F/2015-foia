@@ -1,20 +1,29 @@
 abbreviation: NEH
 departments:
 - address:
-  - Katherine Griffin
-  - Principal FOIA Contact
-  - 4th Floor
-  - 400 7th Street SW
-  - Washington, DC  20506
+    address_lines:
+    - Katherine Griffin
+    - Principal FOIA Contact
+    - 4th Floor
+    city: Washington
+    state: DC
+    street: 400 7th Street SW
+    zip: '20506'
   emails:
   - gencounsel@neh.gov
   - evoyatzis@neh.gov
   fax: 202-606-8600
   misc:
-    Principal FOIA Contact: 'Katherine Griffin, Phone: (202) 606-8322'
+    Principal FOIA Contact:
+      name: Katherine Griffin
+      phone:
+      - 202-606-8322
   name: National Endowment for the Humanities
   phone: 202-606-8322
-  public_liaison: 'Lisette Voyatzis, Phone: (202) 606-8322'
+  public_liaison:
+    name: Lisette Voyatzis
+    phone:
+    - 202-606-8322
   reading_rooms:
   - - FOIA Library
     - http://www.neh.gov/about/foia/library
@@ -94,7 +103,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '13'
-  service_center: 'Phone: (202) 606-8322'
+  service_center:
+    phone:
+    - 202-606-8322
   top_level: false
   website: http://www.neh.gov/whoweare/foiamain.html
 description: NEH is an independent grant-making agency of the United States government

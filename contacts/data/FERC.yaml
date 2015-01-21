@@ -1,17 +1,25 @@
 abbreviation: FERC
 departments:
 - address:
-  - FOIA Contact
-  - 888 First Street, NE
-  - Washington, DC 20426
+    address_lines:
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 888 First Street, NE
+    zip: '20426'
   emails:
   - foia-ceii@ferc.gov
   fax: 202-208-2106
   misc:
-    FOIA Contact: 'Phone: (202) 502-6088'
+    FOIA Contact:
+      phone:
+      - 202-502-6088
   name: Federal Energy Regulatory Commission
   phone: 202-502-6088
-  public_liaison: 'Toyia Johnson, Phone: (202) 502-6088'
+  public_liaison:
+    name: Toyia Johnson
+    phone:
+    - 202-502-6088
   reading_rooms:
   - - Reading Room Material
     - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
@@ -91,7 +99,9 @@ departments:
       simple_highest_days: '87'
       simple_lowest_days: '2'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 502-6088'
+  service_center:
+    phone:
+    - 202-502-6088
   top_level: false
   website: http://www.ferc.gov/legal/ceii-foia.asp
 description: The Federal Energy Regulatory Commission, or FERC, is an independent

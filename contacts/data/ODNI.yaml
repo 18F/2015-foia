@@ -1,17 +1,19 @@
 abbreviation: DNI
 departments:
-- address:
-  - Jennifer Hudson
-  - Director, Information Management Office
-  - Washington , DC  20511
-  emails:
+- emails:
   - dni-foia@dni.gov
   fax: 703-874-8910
   misc:
-    Director, Information Management Office: 'Jennifer Hudson, Phone: (703) 874-8500'
+    Director, Information Management Office:
+      name: Jennifer Hudson
+      phone:
+      - 703-874-8500
   name: Office of the Director of National Intelligence
   phone: 703-874-8500
-  public_liaison: 'Jennifer Hudson, Phone: (703) 874-8500'
+  public_liaison:
+    name: Jennifer Hudson
+    phone:
+    - 703-874-8500
   reading_rooms:
   - - ODNI's Electronic Reading Room
     - http://www.dni.gov/index.php/intelligence-community/ic-policies-reports
@@ -60,7 +62,9 @@ departments:
       simple_highest_days: '1407'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (703) 874-8500'
+  service_center:
+    phone:
+    - 703-874-8500
   top_level: false
   website: http://www.dni.gov/foia.htm
 description: The Director of National Intelligence (DNI) serves as the head of the

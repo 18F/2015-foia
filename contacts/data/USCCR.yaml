@@ -1,19 +1,28 @@
 abbreviation: USCCR
 departments:
 - address:
-  - Jennifer Cron Hepler
-  - Attorney-Advisor
-  - Suite 1150
-  - 1331 Pennsylvania Ave, NW
-  - Washington, DC 20425
+    address_lines:
+    - Jennifer Cron Hepler
+    - Attorney-Advisor
+    - Suite 1150
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania Ave, NW
+    zip: '20425'
   emails:
   - foia@usccr.gov
   fax: 202-376-1163
   misc:
-    Attorney-Advisor: 'Jennifer Cron Hepler, Phone: (202) 376-8351'
+    Attorney-Advisor:
+      name: Jennifer Cron Hepler
+      phone:
+      - 202-376-8351
   name: Commission on Civil Rights
   phone: 202-376-8351
-  public_liaison: 'Lenore Ostrowsky, Phone: (202) 376-8591'
+  public_liaison:
+    name: Lenore Ostrowsky
+    phone:
+    - 202-376-8591
   request_time_stats:
     '2010':
       simple_average_days: '15'
@@ -47,7 +56,9 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: less than 1
       simple_median_days: '1'
-  service_center: 'Phone: (202) 376-8351'
+  service_center:
+    phone:
+    - 202-376-8351
   top_level: false
   website: http://www.usccr.gov/foia/index.php
 description: The primary mission of the U.S. Commission on Civil Rights is to investigate

@@ -5,24 +5,35 @@ common_requests:
 - Purchase card use
 departments:
 - address:
-  - FOIA Contact
-  - FOIA Requester Service Center (H1C)
-  - Room 7308
-  - 1800 F. Street, NW
-  - Washington, DC 20405
+    address_lines:
+    - FOIA Contact
+    - FOIA Requester Service Center (H1C)
+    - Room 7308
+    city: Washington
+    state: DC
+    street: 1800 F. Street, NW
+    zip: '20405'
   emails:
   - gsa.foia@gsa.gov
   fax: 202-501-2727
   misc:
-    Program Manager: 'Travis Lewis, Phone: (202) 219-3078'
+    Program Manager:
+      name: Travis Lewis
+      phone:
+      - 202-219-3078
   name: Headquarters
   phone: 202-219-3078
-  public_liaison: 'Audrey Corbett Brooks, Phone: (202) 205-5912'
+  public_liaison:
+    name: Audrey Corbett Brooks
+    phone:
+    - 202-205-5912
   reading_rooms:
   - - FOIA Reading Room
     - http://www.gsa.gov/portal/content/103776
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center: 'Phone: (855) 675-3642'
+  service_center:
+    phone:
+    - 855-675-3642
   top_level: false
   website: http://www.gsa.gov/portal/category/21416
 description: GSA's mission is to use expertise to provide innovative solutions for

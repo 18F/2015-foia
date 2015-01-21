@@ -1,11 +1,14 @@
 abbreviation: ED
 departments:
 - address:
-  - Gregory Smith
-  - Director, FOIA Service Center, Office of Management
-  - LBJ 2E305
-  - 400 Maryland Avenue, SW
-  - Washington, DC 20202-4536
+    address_lines:
+    - Gregory Smith
+    - Director, FOIA Service Center, Office of Management
+    - LBJ 2E305
+    city: Washington
+    state: DC
+    street: 400 Maryland Avenue, SW
+    zip: 20202-4536
   emails:
   - EDFOIAManager@ed.gov
   fax: 202-401-0920
@@ -13,13 +16,18 @@ departments:
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
   phone: 202-401-8365
-  public_liaison: 'Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert
-    Wehausen, or Christie Swafford, Phone: (202) 401-8365'
+  public_liaison:
+    name: Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert Wehausen,
+      or Christie Swafford
+    phone:
+    - 202-401-8365
   reading_rooms:
   - - FOIA Library
     - http://www2.ed.gov/policy/gen/leg/foia/readingroom.html
   request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
-  service_center: 'Phone: (202) 401-8365'
+  service_center:
+    phone:
+    - 202-401-8365
   top_level: false
   website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
 description: The mission of the Department of Education is to promote student achievement

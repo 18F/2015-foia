@@ -3,6 +3,7 @@
 """Fill in any blanks in the YAML files by investigating a XLS"""
 from copy import deepcopy
 from glob import glob
+from scraper import extract_numbers, clean_phone_number
 import logging
 import os
 from urllib.request import urlopen
@@ -11,27 +12,46 @@ import xlrd
 import yaml
 
 
-def address_lines(row):
-    """Convert a row of dictionary data into a list of address lines"""
-    lines = []
-    if row['Room Number']:
-        lines.append(row['Room Number'])
+def organize_address(row):
+    """
+    Organizes a row of dictionary data into a format compatible with the
+    format in the yaml files.
+    Address Dict
+    {'address_lines': ['Room 443'], 'city': 'Arlington',
+         'state': 'VA', 'street': '2300 Clarendon Boulevard', 'zip': '22201'}
+    Will only return the dict if street, city, state, and zip are present.
+    """
+
+    address_dict = {}
+
     if row['Street Address']:
-        lines.append(row['Street Address'])
-    if row['City'] and row['State'] and row['Zip Code']:
-        lines.append(row['City'] + ', ' + row['State'] + ' '
-                     + str(row['Zip Code']))
-    return lines
+        address_dict['street'] = row['Street Address']
+    if row['Room Number']:
+        address_dict['address_lines'] = [row['Room Number']]
+    if row['City'] and row['State'] and row['Zip Code'] \
+            and row['Street Address']:
+        address_dict.update({
+            'street': row['Street Address'].strip(),
+            'city': row['City'].strip(),
+            'state': row['State'].strip(),
+            'zip': str(row['Zip Code']).replace('.0', '')
+            })
+        return address_dict
 
 
 def contact_string(row):
     """Pull out contact name and/or phone number from a row"""
+
     contact = row['Name']
-    if row['Telephone']:
-        if contact:
-            contact += ', '
-        contact += 'Phone: ' + row['Telephone']
-    return contact
+    clean_numbers = extract_numbers(row['Telephone'])
+
+    clean_contact = {}
+    if contact:
+        clean_contact['name'] = contact.strip("', ")
+    if clean_numbers:
+        clean_contact['phone'] = clean_numbers
+
+    return clean_contact
 
 
 def add_contact_info(contacts, row):
@@ -46,20 +66,30 @@ def add_contact_info(contacts, row):
 
     if row['Website'] in ('http://', 'https://'):
         row['Website'] = ''
+
+    # Rows that don't need to be cleaned
     for row_name, field_name in (('Online Request Form', 'request_form'),
-                                 ('Fax', 'fax'), ('Notes', 'notes'),
-                                 ('Telephone', 'phone'),
-                                 ('Website', 'website')):
+                                 ('Notes', 'notes'), ('Website', 'website')):
         if row[row_name].strip():
             office_struct[field_name] = row[row_name]
-    address = address_lines(row)
+
+    # Rows that have numbers that need to be cleaned
+    for row_name, field_name in (('Fax', 'fax'), ('Telephone', 'phone')):
+        if row[row_name].strip():
+            try:
+                office_struct[field_name] = clean_phone_number(row[row_name])
+            except:
+                logging.warning("%s is an invalid number", row[row_name])
+
+    # Adding address
+    address = organize_address(row)
     if address and 'address' not in office_struct:
         office_struct['address'] = address
     if row['Email Address']:
         office_struct['emails'].append(
             row['Email Address'].replace('mailto:', ''))
 
-    #   People
+    # People
     lower_title = row['Title'].lower()
     processed = False
     for title_text in ('service center', 'public liaison', 'foia officer'):
@@ -87,7 +117,7 @@ def contacts_from_xls():
     for sheet in workbook.sheet_names():
         sheet = workbook.sheet_by_name(sheet)
         field_names = [sheet.cell_value(0, x) for x in range(sheet.ncols)]
-        for row_idx in range(0, sheet.nrows):
+        for row_idx in range(1, sheet.nrows):
             row = {field_names[x]: sheet.cell_value(row_idx, x)
                    for x in range(sheet.ncols)}
             add_contact_info(contacts, row)
@@ -135,6 +165,7 @@ def patch_yaml():
                 else:
                     logging.warning('Not in XLS: %s -> %s',
                                     yaml_data['name'], yaml_office['name'])
+                    departments.append(yaml_office)
             if new_dept_count > 0:
                 yaml_data['departments'] = departments
                 with open(filename, 'w') as f:

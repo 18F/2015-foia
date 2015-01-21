@@ -1,16 +1,24 @@
 abbreviation: CFPB
 departments:
 - address:
-  - Chief FOIA Officer
-  - 1700 G Street, NW
-  - Washington, DC 20552
+    address_lines:
+    - Chief FOIA Officer
+    city: Washington
+    state: DC
+    street: 1700 G Street, NW
+    zip: '20552'
   emails:
   - foia@cfpb.gov
   fax: 855-329-3642
-  foia_officer: 'Phone: (855) 444-3642'
+  foia_officer:
+    phone:
+    - 855-444-3642
   name: Consumer Financial Protection Bureau
   phone: 855-444-3642
-  public_liaison: 'Mark Vugrinovich, Phone: (202) 435-9499'
+  public_liaison:
+    name: Mark Vugrinovich
+    phone:
+    - 202-435-9499
   request_time_stats:
     '2013':
       complex_average_days: '31.07'
@@ -21,7 +29,9 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: less than 1
       simple_median_days: '6.5'
-  service_center: 'Phone: (855) 444-3642'
+  service_center:
+    phone:
+    - 855-444-3642
   top_level: false
   website: http://www.consumerfinance.gov/foia/
 description: The central mission of the Consumer Financial Protection Bureau is to

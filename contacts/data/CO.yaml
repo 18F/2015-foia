@@ -1,17 +1,25 @@
 abbreviation: CO
 departments:
 - address:
-  - Denise Garrett
-  - Supervisory Copyright Information Specialist, GC/I&R;
-  - P.O. Box 70400, SW
-  - Washington, DC 20024
+    address_lines:
+    - Denise Garrett
+    - Supervisory Copyright Information Specialist, GC/I&R;
+    city: Washington
+    state: DC
+    street: P.O. Box 70400, SW
+    zip: '20024'
   fax: 202-707-6859
   misc:
-    Supervisory Copyright Information Specialist, GC/I&R: 'Denise Garrett, Phone:
-      (202) 707-6800'
+    Supervisory Copyright Information Specialist, GC/I&R:
+      name: Denise Garrett
+      phone:
+      - 202-707-6800
   name: United States Copyright Office
   phone: 202-707-6800
-  public_liaison: 'Denise Garrett, Phone: (202) 707-6800'
+  public_liaison:
+    name: Denise Garrett
+    phone:
+    - 202-707-6800
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -83,7 +91,9 @@ departments:
       simple_highest_days: '94'
       simple_lowest_days: '1'
       simple_median_days: '10'
-  service_center: 'Phone: (202) 707-6800'
+  service_center:
+    phone:
+    - 202-707-6800
   top_level: false
   website: http://www.copyright.gov/foia/
 description: 'The Office''s mission is: "To promote creativity by administering

@@ -1,17 +1,23 @@
 abbreviation: FEC
 departments:
 - address:
-  - FOIA Contact
-  - FOIA Requester Service Center
-  - Room 408
-  - 999 E Street, NW
-  - Washington, DC 20463
+    address_lines:
+    - FOIA Contact
+    - FOIA Requester Service Center
+    - Room 408
+    city: Washington
+    state: DC
+    street: 999 E Street, NW
+    zip: '20463'
   emails:
   - FOIA@fec.gov
   fax: 202-219-1043
   name: Federal Election Commission
   phone: 202-694-1650
-  public_liaison: 'Kate Higginbothom, Phone: (202) 694-1650'
+  public_liaison:
+    name: Kate Higginbothom
+    phone:
+    - 202-694-1650
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -91,7 +97,10 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: '1'
       simple_median_days: '17'
-  service_center: 'Candace Salley, Phone: (202) 694-1650'
+  service_center:
+    name: Candace Salley
+    phone:
+    - 202-694-1650
   top_level: false
   website: http://www.fec.gov/press/foia.shtml
 description: In 1975, Congress created the Federal Election Commission (FEC) to administer

@@ -1,18 +1,27 @@
 abbreviation: IMLS
 departments:
 - address:
-  - Mamie Bittner
-  - FOIA Officer
-  - 9th Floor
-  - 1800 M Street, NW
-  - Washington, DC 20036-5802
+    address_lines:
+    - Mamie Bittner
+    - FOIA Officer
+    - 9th Floor
+    city: Washington
+    state: DC
+    street: 1800 M Street, NW
+    zip: 20036-5802
   emails:
   - foia@imls.gov
   fax: 202-653-4625
-  foia_officer: 'Mamie Bittner, Phone: (202) 653-4630'
+  foia_officer:
+    name: Mamie Bittner
+    phone:
+    - 202-653-4630
   name: Institute of Museum and Library Services
   phone: 202-653-4630
-  public_liaison: 'Mae Ridges, Phone: (202) 653-4642'
+  public_liaison:
+    name: Mae Ridges
+    phone:
+    - 202-653-4642
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.imls.gov/about/foia_electronic_reading_room.aspx
@@ -92,7 +101,10 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Mae Ridges, Phone: (202) 653-4642'
+  service_center:
+    name: Mae Ridges
+    phone:
+    - 202-653-4642
   top_level: false
   website: http://www.imls.gov/about/freedom_of_information_act_foia.aspx
 description: The Institute of Museum and Library Services is the primary source of

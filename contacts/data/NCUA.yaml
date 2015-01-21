@@ -1,33 +1,55 @@
 abbreviation: NCUA
 departments:
 - address:
-  - Lara Rodriguez
-  - Staff Attorney/FOIA Officer, Office of General Counsel
-  - 1775 Duke Street
-  - Alexandria, VA 22314
+    address_lines:
+    - Lara Rodriguez
+    - Staff Attorney/FOIA Officer, Office of General Counsel
+    city: Alexandria
+    state: VA
+    street: 1775 Duke Street
+    zip: '22314'
   emails:
   - FOIA@ncua.gov
   fax: 703-518-6569
-  foia_officer: 'Lara Rodriguez, Phone: (703) 518-6540'
+  foia_officer:
+    name: Lara Rodriguez
+    phone:
+    - 703-518-6540
   name: Main Office
   phone: 703-518-6540
-  public_liaison: 'Linda Dent, Phone: (703) 518-6540'
-  service_center: 'Regina Metz, Phone: (703) 518-6540'
+  public_liaison:
+    name: Linda Dent
+    phone:
+    - 703-518-6540
+  service_center:
+    name: Regina Metz
+    phone:
+    - 703-518-6540
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
 - address:
-  - Sharon Separ
-  - Staff Attorney/FOIA Officer, Office of the Inspector General
-  - 1775 Duke Street
-  - Alexandria, VA 22314
+    address_lines:
+    - Sharon Separ
+    - Staff Attorney/FOIA Officer, Office of the Inspector General
+    city: Alexandria
+    state: VA
+    street: 1775 Duke Street
+    zip: '22314'
   emails:
   - FOIA@ncua.gov
   fax: 703-518-6349
-  foia_officer: 'Sharon Separ, Phone: (703) 518-6540'
+  foia_officer:
+    name: Sharon Separ
+    phone:
+    - 703-518-6540
   name: Office of the Inspector General
   phone: 703-518-6540
-  public_liaison: 'Phone: (703) 518-6540'
-  service_center: 'Phone: (703) 518-6540'
+  public_liaison:
+    phone:
+    - 703-518-6540
+  service_center:
+    phone:
+    - 703-518-6540
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
 description: The National Credit Union Administration (NCUA) is the independent federal

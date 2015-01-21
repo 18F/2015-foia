@@ -1,15 +1,21 @@
 abbreviation: FOMC
 departments:
 - address:
-  - Matthew Luecke
-  - FOMC FOIA Service Center Manager
-  - Mail Stop 55
-  - 20th & Constitution Avenue, NW
-  - Washington, DC 20551
+    address_lines:
+    - Matthew Luecke
+    - FOMC FOIA Service Center Manager
+    - Mail Stop 55
+    city: Washington
+    state: DC
+    street: 20th & Constitution Avenue, NW
+    zip: '20551'
   fax: 202-452-2921
   name: Federal Open Market Committee
   phone: 202-452-2576
-  public_liaison: 'David Caperton, Phone: (202) 452-2899'
+  public_liaison:
+    name: David Caperton
+    phone:
+    - 202-452-2899
   reading_rooms:
   - - Reading Rooms
     - http://www.federalreserve.gov/foia/fomc/readingrooms.htm
@@ -89,7 +95,9 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '4'
       simple_median_days: '10'
-  service_center: 'Phone: (202) 452-2576'
+  service_center:
+    phone:
+    - 202-452-2576
   top_level: false
   website: http://www.federalreserve.gov/foia/fomc/about_fomcfoia.htm
 description: Monetary policy is made by the Federal Open Market Committee (FOMC),

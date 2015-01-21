@@ -1,19 +1,28 @@
 abbreviation: SSA
 departments:
 - address:
-  - Dawn S. Wiggins
-  - Principal Public FOIA Liaison
-  - Office of the General Counsel, Office of Privacy and Disclosure
-  - 617 Altmeyer Building
-  - Baltimore, MD 21235
+    address_lines:
+    - Dawn S. Wiggins
+    - Principal Public FOIA Liaison
+    - Office of the General Counsel, Office of Privacy and Disclosure
+    city: Baltimore
+    state: MD
+    street: 617 Altmeyer Building
+    zip: '21235'
   emails:
   - Foia.pa.officers@ssa.gov
   fax: 410-966-0869
   misc:
-    Principal Public FOIA Liaison: 'Dawn S. Wiggins, Phone: (410) 965-1727'
+    Principal Public FOIA Liaison:
+      name: Dawn S. Wiggins
+      phone:
+      - 410-965-1727
   name: Social Security Administration
   phone: 410-965-1727
-  public_liaison: 'Dawn S. Wiggins, Phone: (410) 965-1727'
+  public_liaison:
+    name: Dawn S. Wiggins
+    phone:
+    - 410-965-1727
   reading_rooms:
   - - FOIA Library
     - http://www.ssa.gov/foia/readingroom.html
@@ -77,7 +86,10 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Rhonda Smith, Phone: (410) 966-4034'
+  service_center:
+    name: Rhonda Smith
+    phone:
+    - 410-966-4034
   top_level: false
   website: http://www.ssa.gov/foia/
 description: The Social Security Administration's mission is to deliver Social Security

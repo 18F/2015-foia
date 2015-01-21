@@ -1,16 +1,22 @@
 abbreviation: RATB
 departments:
 - address:
-  - FOIA Officer
-  - Suite 700
-  - 1717 Pennsylvania Ave., NW
-  - Washington, DC 20006
+    address_lines:
+    - FOIA Officer
+    - Suite 700
+    city: Washington
+    state: DC
+    street: 1717 Pennsylvania Ave., NW
+    zip: '20006'
   emails:
   - FOIA@ratb.gov
   fax: 202-254-7970
   name: Recovery Accountablity and Transparency Board
   phone: 202-254-7900
-  public_liaison: 'Scott Britt, Phone: (202) 254-7900'
+  public_liaison:
+    name: Scott Britt
+    phone:
+    - 202-254-7900
   request_time_stats:
     '2011':
       complex_average_days: '11'
@@ -39,7 +45,9 @@ departments:
       simple_highest_days: '29'
       simple_lowest_days: '2'
       simple_median_days: '6.5'
-  service_center: 'Phone: (202) 254-7900'
+  service_center:
+    phone:
+    - 202-254-7900
   top_level: false
   website: http://www.recovery.gov/Pages/foia.aspx
 description: 'The Recovery Accountability and Transparency Board is a non-partisan,

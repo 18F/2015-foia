@@ -1,18 +1,24 @@
 abbreviation: DOC
 address:
-- Brenda Dolan
-- Departmental FOIA Officer, Office of Privacy and Open Government
-- Mail Stop H6204
-- 14th Street and Constitution Avenue, NW
-- Washington, DC 20230
+  address_lines:
+  - Brenda Dolan
+  - Departmental FOIA Officer, Office of Privacy and Open Government
+  - Mail Stop H6204
+  city: Washington
+  state: DC
+  street: 14th Street and Constitution Avenue, NW
+  zip: '20230'
 departments:
 - abbreviation: ''
   address:
-  - Michael Toland, Ph.D.
-  - Freedom of Information Act Officer
-  - Room 8H207
-  - 4600 Silver Hill Road
-  - Washington, DC 20233-3700
+    address_lines:
+    - Michael Toland, Ph.D.
+    - Freedom of Information Act Officer
+    - Room 8H207
+    city: Washington
+    state: DC
+    street: 4600 Silver Hill Road
+    zip: 20233-3700
   description: The U.S. Census Bureau provides data about the nation's people and
     economy.
   emails:
@@ -29,13 +35,21 @@ departments:
   - State and local governments
   - Statistics
   misc:
-    Freedom of Information Act Officer: 'Michael Toland, Ph.D., Phone: (301) 763-2127'
+    Freedom of Information Act Officer:
+      name: Michael Toland, Ph.D.
+      phone:
+      - 301-763-2127
   name: Census Bureau
   phone: 301-763-2127
-  public_liaison: 'Jennifer Goode, PH.D., , Phone: (301) 763-2127'
+  public_liaison:
+    name: Jennifer Goode, PH.D.
+    phone:
+    - 301-763-2127
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
+  - - FOIA Library
+    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':
@@ -116,24 +130,34 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '0'
       simple_median_days: '4'
-  service_center: 'Phone: (301) 763-2127'
+  service_center:
+    phone:
+    - 301-763-2127
   top_level: true
   usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
-  - Pamela Moulder
-  - Office of the Under Secretary for Economic Affairs
-  - Rom 4836
-  - Washington, DC 20230
+    address_lines:
+    - Pamela Moulder
+    - Office of the Under Secretary for Economic Affairs
+    city: Washington
+    state: DC
+    street: Rom 4836
+    zip: '20230'
   emails:
   - pmoulder@doc.gov
   fax: 202-482-2889
   misc:
-    Office of the Under Secretary for Economic Affairs: 'Pamela Moulder, Phone: (202)
-      482-5997'
+    Office of the Under Secretary for Economic Affairs:
+      name: Pamela Moulder
+      phone:
+      - 202-482-5997
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
-  public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  public_liaison:
+    name: Pamela Moulder
+    phone:
+    - 202-482-5997
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -210,19 +234,27 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '2'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 482-5997'
+  service_center:
+    phone:
+    - 202-482-5997
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
 - address:
-  - Stephen Kong
-  - FOIA Officer
-  - Room 7325
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Stephen Kong
+    - FOIA Officer
+    - Room 7325
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - SKong@eda.gov
   fax: 202-482-5671
-  foia_officer: 'Stephen Kong, Phone: (202) 482-3085'
+  foia_officer:
+    name: Stephen Kong
+    phone:
+    - 202-482-3085
   keywords:
   - Administrative practice and procedure
   - Aged
@@ -248,7 +280,10 @@ departments:
   - Trade adjustment assistance
   name: Economic Development Administration
   phone: 202-482-3085
-  public_liaison: 'Stephen Kong, Phone: (202) 482-3085'
+  public_liaison:
+    name: Stephen Kong
+    phone:
+    - 202-482-3085
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -325,19 +360,27 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '2'
       simple_median_days: '10'
-  service_center: 'Phone: (202) 482-3085'
+  service_center:
+    phone:
+    - 202-482-3085
   top_level: false
   website: http://www.eda.gov/foia.htm
 - address:
-  - Jennifer Kuo
-  - FOIA Officer
-  - Room 6622
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Jennifer Kuo
+    - FOIA Officer
+    - Room 6622
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - efoiarequest@bis.doc.gov
   fax: 202-482-0326
-  foia_officer: 'Jennifer Kuo, Phone: (202) 482-0953'
+  foia_officer:
+    name: Jennifer Kuo
+    phone:
+    - 202-482-0953
   keywords:
   - Administrative practice and procedure
   - Advisory committees
@@ -366,7 +409,10 @@ departments:
   - Treaties
   name: Bureau of Industry and Security
   phone: 202-482-0953
-  public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  public_liaison:
+    name: Jennifer Kuo
+    phone:
+    - 202-482-0953
   reading_rooms:
   - - BIS' Electronic Reading Room
     - http://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
@@ -450,23 +496,31 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 482-0953'
+  service_center:
+    phone:
+    - 202-482-0953
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
 - abbreviation: ITA
   address:
-  - Justin Guz
-  - ITA FOIA Officer
-  - Room 40003
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Justin Guz
+    - ITA FOIA Officer
+    - Room 40003
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   description: The International Trade Administration works to promote U.S. exports
     by providing diplomatic support, helping to shape trade policy, removing trade
     barriers, and enforcing U.S. trade laws and agreements.
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
-  foia_officer: 'Justin Guz, Phone: (202) 482-7937'
+  foia_officer:
+    name: Justin Guz
+    phone:
+    - 202-482-7937
   keywords:
   - Administrative practice and procedure
   - American Samoa
@@ -497,7 +551,10 @@ departments:
   - Watches and jewelry
   name: International Trade Administration
   phone: 202-482-7937
-  public_liaison: 'Justin Guz, Phone: (202) 482-7937'
+  public_liaison:
+    name: Justin Guz
+    phone:
+    - 202-482-7937
   reading_rooms:
   - - DOC's Electronic Reading Room
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -576,24 +633,35 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 482-7937'
+  service_center:
+    phone:
+    - 202-482-7937
   top_level: true
   usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
 - abbreviation: MBDA
   address:
-  - Clara Colbert
-  - FOIA Officer
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Clara Colbert
+    - FOIA Officer
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   description: By providing techincal assistance and access to capital, contract opportunities,
     and new markets, the Minority Business Development Agency promotes the growth
     of businesses owned and operated by members of the minority and Diaspora communities.
   fax: 202-482-2798
-  foia_officer: 'Clara Colbert, Phone: (202) 481-5045'
+  foia_officer:
+    name: Clara Colbert
+    phone:
+    - 202-481-5045
   name: Minority Business Development Agency
   phone: 202-481-5045
-  public_liaison: 'Josephine Arnold, Phone: (202) 482-5461'
+  public_liaison:
+    name: Josephine Arnold
+    phone:
+    - 202-482-5461
   reading_rooms:
   - - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
@@ -672,17 +740,22 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '20'
       simple_median_days: '20'
-  service_center: 'Phone: (202) 482-5045'
+  service_center:
+    phone:
+    - 202-482-5045
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/freedom-information-act-reading-room
 - abbreviation: NIST
   address:
-  - Catherine S. Fletcher
-  - FOIA & Privacy Act Officer
-  - Stop 1710
-  - 100 Bureau Drive
-  - Gaithersburg, MD 20899-1710
+    address_lines:
+    - Catherine S. Fletcher
+    - FOIA & Privacy Act Officer
+    - Stop 1710
+    city: Gaithersburg
+    state: MD
+    street: 100 Bureau Drive
+    zip: 20899-1710
   description: The National Institute of Standards and Technology promotes measurement
     standards, conducts a wide array of scientifc research, and offers smaller manufacturers
     technical and business assistance.
@@ -705,10 +778,16 @@ departments:
   - Research
   - Science and technology
   misc:
-    FOIA & Privacy Act Officer: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+    FOIA & Privacy Act Officer:
+      name: Catherine S. Fletcher
+      phone:
+      - 301-975-4074
   name: National Institute of Standards and Technology
   phone: 301-975-4074
-  public_liaison: 'Catherine S. Fletcher, Phone: (301) 975-4074'
+  public_liaison:
+    name: Catherine S. Fletcher
+    phone:
+    - 301-975-4074
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -784,17 +863,22 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (301) 975-4074'
+  service_center:
+    phone:
+    - 301-975-4074
   top_level: true
   usa_id: '49517'
   website: http://www.nist.gov/director/foia/
 - abbreviation: NTIS
   address:
-  - Lee Halvorsen
-  - FOIA Contact
-  - Number 305 - Sils Building
-  - 5301 Shawnee Road
-  - Alexandria, VA 22312
+    address_lines:
+    - Lee Halvorsen
+    - FOIA Contact
+    - Number 305 - Sils Building
+    city: Alexandria
+    state: VA
+    street: 5301 Shawnee Road
+    zip: '22312'
   description: The National Technical Information Service provides businesses, universities,
     and the public access to government-funded scientific, engineering, technical,
     and business related information. The service does not use appropriated funds,
@@ -803,10 +887,16 @@ departments:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
   misc:
-    FOIA Contact: 'Lee Halvorsen, Phone: (703) 605-6710'
+    FOIA Contact:
+      name: Lee Halvorsen
+      phone:
+      - 703-605-6710
   name: National Technical Information Service
   phone: 703-605-6710
-  public_liaison: 'Steve Needle, Phone: (703) 605-6404'
+  public_liaison:
+    name: Steve Needle
+    phone:
+    - 703-605-6404
   reading_rooms:
   - - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
@@ -885,20 +975,28 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '10'
-  service_center: 'Phone: (703) 605-6404'
+  service_center:
+    phone:
+    - 703-605-6404
   top_level: true
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
 - address:
-  - Stacy Cheney
-  - FOIA Officer, Office of the Chief Counsel
-  - Room 4713
-  - 14th Street and Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Stacy Cheney
+    - FOIA Officer, Office of the Chief Counsel
+    - Room 4713
+    city: Washington
+    state: DC
+    street: 14th Street and Constitution Avenue, NW
+    zip: '20230'
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
-  foia_officer: 'Stacy Cheney, Phone: (202) 482-1816'
+  foia_officer:
+    name: Stacy Cheney
+    phone:
+    - 202-482-1816
   keywords:
   - Administrative practice and procedure
   - Cable television
@@ -920,7 +1018,10 @@ departments:
   - Television
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
-  public_liaison: 'Stacy Cheney, Phone: (202) 482-1816'
+  public_liaison:
+    name: Stacy Cheney
+    phone:
+    - 202-482-1816
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -1001,16 +1102,21 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 482-1816'
+  service_center:
+    phone:
+    - 202-482-1816
   top_level: false
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - abbreviation: NOAA
   address:
-  - Wendy Schumacher
-  - FOIA Contact
-  - Room 9719 - NOAA FOIA Office (SOU 10000)
-  - 1315 East-West Highway
-  - Silver Spring, MD 20910
+    address_lines:
+    - Wendy Schumacher
+    - FOIA Contact
+    - Room 9719 - NOAA FOIA Office (SOU 10000)
+    city: Silver Spring
+    state: MD
+    street: 1315 East-West Highway
+    zip: '20910'
   description: The National Oceanic and Atmospheric Administration's mission is to
     understand and predict changes in climate, weather, oceans, and coasts. The products
     and services produced by the administration support a number of functions, including
@@ -1085,10 +1191,16 @@ departments:
   - Wildlife
   - Wildlife refuges
   misc:
-    FOIA Contact: 'Wendy Schumacher, Phone: (301) 713-3540'
+    FOIA Contact:
+      name: Wendy Schumacher
+      phone:
+      - 301-713-3540
   name: National Oceanic and Atmospheric Administration
   phone: 301-713-3540
-  public_liaison: 'Robert Swisher, Phone: (301) 628-5755'
+  public_liaison:
+    name: Robert Swisher
+    phone:
+    - 301-628-5755
   reading_rooms:
   - - Reading Room
     - http://www.noaa.gov/foia/reading_room/index.html
@@ -1172,16 +1284,21 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
-  service_center: 'Phone: (301) 713-3540'
+  service_center:
+    phone:
+    - 301-713-3540
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
   address:
-  - Kathryn Siehndel
-  - FOIA Contact
-  - P.O. Box 1450
-  - Alexandria, VA 22313-1450
+    address_lines:
+    - Kathryn Siehndel
+    - FOIA Contact
+    city: Alexandria
+    state: VA
+    street: P.O. Box 1450
+    zip: 22313-1450
   description: The U.S. Patent and Trademark Office is the agency responsible for
     granting U.S. patents and registering trademarks.
   emails:
@@ -1204,10 +1321,16 @@ departments:
   - Small businesses
   - Trademarks
   misc:
-    FOIA Contact: 'Kathryn Siehndel, Phone: (571) 272-3000'
+    FOIA Contact:
+      name: Kathryn Siehndel
+      phone:
+      - 571-272-3000
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
-  public_liaison: 'Dahlia George, Phone: (571) 272-3000'
+  public_liaison:
+    name: Dahlia George
+    phone:
+    - 571-272-3000
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1287,23 +1410,34 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '14'
-  service_center: 'Phone: (571) 272-3000'
+  service_center:
+    phone:
+    - 571-272-3000
   top_level: true
   usa_id: '48151'
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
-  - Laura Bell
-  - FOIA Officer
-  - Room 7099
-  - 1401 Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Laura Bell
+    - FOIA Officer
+    - Room 7099
+    city: Washington
+    state: DC
+    street: 1401 Constitution Avenue, NW
+    zip: '20230'
   emails:
   - FOIA@oig.doc.gov
   fax: 202-501-7921
-  foia_officer: 'Laura Bell, Phone: (202) 482-3470'
+  foia_officer:
+    name: Laura Bell
+    phone:
+    - 202-482-3470
   name: Office of Inspector General
   phone: 202-482-3470
-  public_liaison: 'Laura Bell, Phone: (202) 482-3470'
+  public_liaison:
+    name: Laura Bell
+    phone:
+    - 202-482-3470
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
@@ -1387,15 +1521,21 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '13'
-  service_center: 'Phone: (202) 482-3470'
+  service_center:
+    phone:
+    - 202-482-3470
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
-  - Bobbie Parsons
-  - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government
-  - Mail Stop H6204
-  - 14th Street and Constitution Avenue, NW
-  - Washington, DC 20230
+    address_lines:
+    - Bobbie Parsons
+    - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open
+      Government
+    - Mail Stop H6204
+    city: Washington
+    state: DC
+    street: 14th Street and Constitution Avenue, NW
+    zip: '20230'
   emails:
   - Efoia@doc.gov
   fax: 202-482-0827
@@ -1669,11 +1809,16 @@ departments:
   - Workers' compensation
   - Youth
   misc:
-    FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government: 'Bobbie
-      Parsons, Phone: (202) 482-3257'
+    FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government:
+      name: Bobbie Parsons
+      phone:
+      - 202-482-3257
   name: Office of the Secretary
   phone: 202-482-3257
-  public_liaison: 'Bobbie Parsons, Phone: (202) 482-3257'
+  public_liaison:
+    name: Bobbie Parsons
+    phone:
+    - 202-482-3257
   reading_rooms:
   - - FOIA Electronic Library (Formerly E-Reading Room)
     - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -1757,7 +1902,9 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '6'
-  service_center: 'Phone: (202) 482-3257'
+  service_center:
+    phone:
+    - 202-482-3257
   top_level: false
   website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
 description: The historic mission of the Department of Commerce is "to foster, promote,
@@ -1981,7 +2128,10 @@ keywords:
 - Women
 name: Department of Commerce
 phone: 202-482-3258
-public_liaison: 'Brenda Dolan, Phone: (202) 482-3258'
+public_liaison:
+  name: Brenda Dolan
+  phone:
+  - 202-482-3258
 reading_rooms:
 - - FOIA Electronic Library (Formerly E-Reading Room)
   - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
@@ -2064,7 +2214,9 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '8'
-service_center: 'Phone: (202) 482-3258'
+service_center:
+  phone:
+  - 202-482-3258
 top_level: false
 usa_id: '52668'
 website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm

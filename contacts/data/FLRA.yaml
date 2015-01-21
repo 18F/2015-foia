@@ -1,41 +1,55 @@
 abbreviation: FLRA
 address:
-- Rosa M. Koppel
-- Solicitor, Office of the Solicitor
-- 1400 K Street, NW
-- Washington , DC 20424
-departments:
-- address:
+  address_lines:
   - Rosa M. Koppel
   - Solicitor, Office of the Solicitor
-  - 1400 K Street, NW
-  - Washington , DC 20424
+  city: Washington
+  state: DC
+  street: 1400 K Street, NW
+  zip: '20424'
+departments:
+- address:
+    address_lines:
+    - Rosa M. Koppel
+    - Solicitor, Office of the Solicitor
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: '20424'
   emails:
   - solmail@flra.gov
   fax: 202-343-1007
   misc:
-    Solicitor, Office of the Solicitor: 'Rosa M. Koppel, Phone: (202) 218-7770'
+    Solicitor, Office of the Solicitor:
+      name: Rosa M. Koppel
+      phone:
+      - 202-218-7770
   name: The Authority
   phone: 202-218-7770
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
-  service_center: 'Phone: (202) 218-7770'
+  service_center:
+    phone:
+    - 202-218-7770
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - 1400 K Street, NW
-  - Washington , DC 20424
+    address_lines:
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: '20424'
   emails:
   - ogcmail@flra.gov
   fax: 202-482-6608
   misc:
-    FOIA Contact: 'Phone: (202) 218-7910'
+    FOIA Contact:
+      phone:
+      - 202-218-7910
   name: Office of the General Counsel
   phone: 202-218-7910
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -94,21 +108,27 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: less than 1
       simple_median_days: '18'
-  service_center: 'Phone: (202) 218-7910'
+  service_center:
+    phone:
+    - 202-218-7910
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 701
-  - 285 Peachtree Center Avenue
-  - Atlanta, GA 30303-1270
+    address_lines:
+    - FOIA Contact
+    - Suite 701
+    city: Atlanta
+    state: GA
+    street: 285 Peachtree Center Avenue
+    zip: 30303-1270
   emails: []
   fax: 404-331-5280
   misc:
-    FOIA Contact: 'Phone: (404) 331-5300'
+    FOIA Contact:
+      phone:
+      - 404-331-5300
   name: Atlanta Regional Office
   phone: 404-331-5300
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -167,22 +187,28 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '4'
       simple_median_days: '10'
-  service_center: 'Phone: (404) 331-5300'
+  service_center:
+    phone:
+    - 404-331-5300
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 472
-  - 10 Causeway Street
-  - Boston, MA 02222
+    address_lines:
+    - FOIA Contact
+    - Suite 472
+    city: Boston
+    state: MA
+    street: 10 Causeway Street
+    zip: '02222'
   emails:
   - bromail@flra.gov
   fax: 617-565-6262
   misc:
-    FOIA Contact: 'Phone: (617) 565-5100'
+    FOIA Contact:
+      phone:
+      - 617-565-5100
   name: Boston Regional Office
   phone: 617-565-5100
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -241,22 +267,28 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: '3'
       simple_median_days: '3'
-  service_center: 'Phone: (617) 565-5100'
+  service_center:
+    phone:
+    - 617-565-5100
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 1150
-  - 55 West Monroe Street
-  - Chicago, IL 60603-9729
+    address_lines:
+    - FOIA Contact
+    - Suite 1150
+    city: Chicago
+    state: IL
+    street: 55 West Monroe Street
+    zip: 60603-9729
   emails:
   - cromail@flra.gov
   fax: 312-886-5977
   misc:
-    FOIA Contact: 'Phone: (312) 886-3465'
+    FOIA Contact:
+      phone:
+      - 312-886-3465
   name: Chicago Regional Office
   phone: 312-886-3465
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -315,22 +347,28 @@ departments:
       simple_highest_days: '10'
       simple_lowest_days: '9'
       simple_median_days: '9.5'
-  service_center: 'Phone: (312) 886-3465'
+  service_center:
+    phone:
+    - 312-886-3465
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 926, LB 107
-  - 525 Griffin Street
-  - Dallas, TX 75202-1906
+    address_lines:
+    - FOIA Contact
+    - Suite 926, LB 107
+    city: Dallas
+    state: TX
+    street: 525 Griffin Street
+    zip: 75202-1906
   emails:
   - daromail@flra.gov
   fax: 214-767-0156
   misc:
-    FOIA Contact: 'Phone: (214) 767-6266'
+    FOIA Contact:
+      phone:
+      - 214-767-6266
   name: Dallas Regional Office
   phone: 214-767-6266
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -389,22 +427,28 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '13'
       simple_median_days: '14'
-  service_center: 'Phone: (214) 767-6266'
+  service_center:
+    phone:
+    - 214-767-6266
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 100
-  - 1244 Speer Boulevard
-  - Denver, CO 80204-3581
+    address_lines:
+    - FOIA Contact
+    - Suite 100
+    city: Denver
+    state: CO
+    street: 1244 Speer Boulevard
+    zip: 80204-3581
   emails:
   - daromail@flra.gov
   fax: 303-844-2774
   misc:
-    FOIA Contact: 'Phone: (303) 844-5226'
+    FOIA Contact:
+      phone:
+      - 303-844-5226
   name: Denver Regional Office
   phone: 303-844-5226
-  public_liaison: ''
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
@@ -459,21 +503,27 @@ departments:
       simple_highest_days: less than 1
       simple_lowest_days: less than 1
       simple_median_days: '1'
-  service_center: 'Phone: (303) 844-5226'
+  service_center:
+    phone:
+    - 303-844-5226
   top_level: false
   website: http://www.flra.gov/FOIA
 - address:
-  - FOIA Contact
-  - Suite 220
-  - 901 Market Street
-  - San Francisco, CA 94103-1791
+    address_lines:
+    - FOIA Contact
+    - Suite 220
+    city: San Francisco
+    state: CA
+    street: 901 Market Street
+    zip: 94103-1791
   emails: []
   fax: 415-356-5017
   misc:
-    FOIA Contact: 'Phone: (415) 356-5000'
+    FOIA Contact:
+      phone:
+      - 415-356-5000
   name: San Francisco Regional Office
   phone: 415-356-5000
-  public_liaison: ''
   request_time_stats:
     '2008':
       simple_average_days: '7'
@@ -529,22 +579,28 @@ departments:
       simple_highest_days: '8'
       simple_lowest_days: less than 1
       simple_median_days: '3.5'
-  service_center: 'Phone: (415) 356-5000'
+  service_center:
+    phone:
+    - 415-356-5000
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
-  - FOIA Contact
-  - 2nd Floor
-  - 1400 K Street, NW
-  - Washington , DC 25424-0001
+    address_lines:
+    - FOIA Contact
+    - 2nd Floor
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: 25424-0001
   emails:
   - wromail@flra.gov
   fax: 202-482-6724
   misc:
-    FOIA Contact: 'Phone: (202) 482-6700'
+    FOIA Contact:
+      phone:
+      - 202-482-6700
   name: Washington Regional Office
   phone: 202-482-6700
-  public_liaison: ''
   request_time_stats:
     '2008':
       simple_average_days: '8'
@@ -595,21 +651,27 @@ departments:
       simple_highest_days: '2'
       simple_lowest_days: '1'
       simple_median_days: '1'
-  service_center: 'Phone: (202) 482-6700'
+  service_center:
+    phone:
+    - 202-482-6700
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
-  - FOIA Contact
-  - 1400 K Street, NW
-  - Washington , DC 20424
+    address_lines:
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: '20424'
   emails:
   - fsipmail@flra.gov
   fax: 202-482-6674
   misc:
-    FOIA Contact: 'Phone: (202) 218-7790'
+    FOIA Contact:
+      phone:
+      - 202-218-7790
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
-  public_liaison: ''
   request_time_stats:
     '2008':
       simple_average_days: '1'
@@ -665,21 +727,28 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 218-7790'
+  service_center:
+    phone:
+    - 202-218-7790
   top_level: false
   website: http://www.flra.gov/foia_contact
 - address:
-  - FOIA Contact
-  - 1400 K Street, NW
-  - Washington , DC 20424
+    address_lines:
+    - FOIA Contact
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: '20424'
   emails:
   - oigmail@flra.gov
   fax: 202-482-0573
   misc:
-    FOIA Contact: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
+    FOIA Contact:
+      phone:
+      - 202-218-7770 x7744
+      - 202-218-7970
   name: Office of the Inspector General
-  phone: 202-218-7770
-  public_liaison: ''
+  phone: 202-218-7770 x7744
   request_time_stats:
     '2008':
       simple_average_days: '3'
@@ -735,7 +804,10 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '2'
       simple_median_days: '16'
-  service_center: 'Phone: (202) 218-7770 (ext. 7744), (202) 218-7970'
+  service_center:
+    phone:
+    - 202-218-7770 x7744
+    - 202-218-7970
   top_level: false
   website: http://www.flra.gov/foia_contact
 description: The FLRA exercises leadership under the Statute to promote stable, constructive
@@ -751,7 +823,10 @@ keywords:
 - Labor management relations
 name: Federal Labor Relations Authority
 phone: 202-218-7770
-public_liaison: 'Gina Grippando, Phone: (202) 218-7776'
+public_liaison:
+  name: Gina Grippando
+  phone:
+  - 202-218-7776
 reading_rooms:
 - - Electronic Reading Room
   - http://www.flra.gov/elibrary
@@ -819,7 +894,9 @@ request_time_stats:
     simple_highest_days: '51'
     simple_lowest_days: less than 1
     simple_median_days: '9'
-service_center: 'Phone: (202) 218-7770'
+service_center:
+  phone:
+  - 202-218-7770
 top_level: false
 usa_id: '52613'
 website: http://www.flra.gov/FOIA

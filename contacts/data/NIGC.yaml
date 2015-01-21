@@ -1,19 +1,28 @@
 abbreviation: NIGC
 departments:
 - address:
-  - AnDrea Choate'
-  - FOIA/PA and  Records Management Assistant
-  - Suite 9100
-  - 1441 L Street, NW
-  - Washington, DC  20005
+    address_lines:
+    - AnDrea Choate'
+    - FOIA/PA and  Records Management Assistant
+    - Suite 9100
+    city: Washington
+    state: DC
+    street: 1441 L Street, NW
+    zip: '20005'
   emails:
   - Andrea_Choate@nigc.gov
   fax: 202-632-7066
   misc:
-    FOIA/PA and  Records Management Assistant: 'AnDrea Choate'', Phone: (202) 632-7003'
+    FOIA/PA and  Records Management Assistant:
+      name: AnDrea Choate
+      phone:
+      - 202-632-7003
   name: National Indian Gaming Commission
   phone: 202-632-7003
-  public_liaison: 'AnDrea Choate'', Phone: (202) 632-7003'
+  public_liaison:
+    name: AnDrea Choate
+    phone:
+    - 202-632-7003
   reading_rooms:
   - - Electronic Reading Room
     - http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act/The_Freedom_of_Information_Act/Electronic_Reading_Room.aspx
@@ -90,7 +99,9 @@ departments:
       simple_highest_days: '478'
       simple_lowest_days: '5'
       simple_median_days: '68.5'
-  service_center: 'Phone: (202) 632-7003'
+  service_center:
+    phone:
+    - 202-632-7003
   top_level: false
   website: http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx
 description: 'The Commission´s primary mission is to regulate gaming activities on

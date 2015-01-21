@@ -1,18 +1,15 @@
 abbreviation: DOJ
-address:
-- FOIA/PA Mail Referral Unit
-- Justice Management Division
-- Room 115
-- LOC Building
-- Washington, DC 20530-0001
 departments:
 - abbreviation: ''
   address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   description: The Attorney General is responsible for the overall supervision and
     direction of the administration and operation of the Department. The Attorney
     General represents the United States in legal matters generally and furnishes
@@ -21,11 +18,16 @@ departments:
     include those relating to the administration of the office.
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of the Attorney General
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/oip/available-documents-oip
@@ -109,22 +111,32 @@ departments:
       simple_highest_days: '197'
       simple_lowest_days: less than 1
       simple_median_days: '18'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: true
   website: http://www.justice.gov/ag/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of the Deputy Attorney General
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/oip/available-documents-oip
@@ -208,22 +220,32 @@ departments:
       simple_highest_days: '195'
       simple_lowest_days: less than 1
       simple_median_days: '17'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/dag/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of the Associate Attorney General
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/asg/oasg-electronic-reading-room
@@ -298,23 +320,34 @@ departments:
       simple_highest_days: '195'
       simple_lowest_days: '4'
       simple_median_days: '18'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/asg/foia.htm
 - address:
-  - Sue Ann Slates
-  - Chief, FOIA/PA Unit
-  - Liberty Square Building
-  - Suite 1000, 450 5th Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Sue Ann Slates
+    - Chief, FOIA/PA Unit
+    - Liberty Square Building
+    city: Washington
+    state: DC
+    street: Suite 1000, 450 5th Street, NW
+    zip: 20530-0001
   emails:
   - antitrust.foia@usdoj.gov
   fax: 202-616-4529
   misc:
-    Chief, FOIA/PA Unit: 'Sue Ann Slates, Phone: (202) 514-2692'
+    Chief, FOIA/PA Unit:
+      name: Sue Ann Slates
+      phone:
+      - 202-514-2692
   name: Antitrust Division
   phone: 202-514-2692
-  public_liaison: 'Ronald Wiercioch, Phone: (202) 514-2692'
+  public_liaison:
+    name: Ronald Wiercioch
+    phone:
+    - 202-514-2692
   reading_rooms:
   - - Electronic Reading Room
     - http://www.justice.gov/atr/foia/foiaroom.html
@@ -377,16 +410,21 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 514-2692'
+  service_center:
+    phone:
+    - 202-514-2692
   top_level: false
   website: http://www.justice.gov/atr/foia/index.html
 - abbreviation: ATF
   address:
-  - Stephanie Boucher
-  - Division Chief
-  - Room 1E-400
-  - 99 New York Avenue, NE
-  - Washington, DC 20226
+    address_lines:
+    - Stephanie Boucher
+    - Division Chief
+    - Room 1E-400
+    city: Washington
+    state: DC
+    street: 99 New York Avenue, NE
+    zip: '20226'
   description: The Bureau of Alcohol, Tobacco, Firearms, and Explosives enforces federal
     criminal laws regulating the firearms and explosives industries.
   emails:
@@ -459,10 +497,16 @@ departments:
   - Warehouses
   - Wine
   misc:
-    Division Chief: 'Stephanie Boucher, Phone: (202) 648-8740'
+    Division Chief:
+      name: Stephanie Boucher
+      phone:
+      - 202-648-8740
   name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   phone: 202-648-8740
-  public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
+  public_liaison:
+    name: Stephanie Boucher
+    phone:
+    - 202-648-8740
   request_time_stats:
     '2008':
       simple_average_days: '13'
@@ -506,24 +550,35 @@ departments:
       expedited_processing_highest_days: '95'
       expedited_processing_lowest_days: '95'
       expedited_processing_median_days: '95'
-  service_center: 'Phone: (202) 648-8740'
+  service_center:
+    phone:
+    - 202-648-8740
   top_level: true
   usa_id: '49081'
   website: http://www.atf.gov/content/contact-us/FOIA
 - address:
-  - James M. Kovakas
-  - Freedom of Information/Privacy Act Office
-  - Room 8020
-  - 1100 L Street, NW
-  - Washington, DC 20035
+    address_lines:
+    - James M. Kovakas
+    - Freedom of Information/Privacy Act Office
+    - Room 8020
+    city: Washington
+    state: DC
+    street: 1100 L Street, NW
+    zip: '20035'
   emails:
   - Civil.routing.FOIA@usdoj.gov
   fax: 202-305-3291
   misc:
-    Freedom of Information/Privacy Act Office: 'James M. Kovakas, Phone: (202) 514-3319'
+    Freedom of Information/Privacy Act Office:
+      name: James M. Kovakas
+      phone:
+      - 202-514-3319
   name: Civil Division
   phone: 202-514-3319
-  public_liaison: 'James M. Kovakas, Phone: (202) 514-3319'
+  public_liaison:
+    name: James M. Kovakas
+    phone:
+    - 202-514-3319
   request_form: http://www.justice.gov/civil/common/foia_request.html
   request_time_stats:
     '2008':
@@ -578,23 +633,34 @@ departments:
       simple_highest_days: '114'
       simple_lowest_days: less than 1
       simple_median_days: '1.5'
-  service_center: 'Phone: 202) 514-2319'
+  service_center:
+    phone:
+    - 202-514-2319
   top_level: false
   website: http://www.justice.gov/civil/foia.html
 - address:
-  - Nelson D. Hermilla
-  - Chief, FOI/PA Branch
-  - BICN Bldg., Room 3219B
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Nelson D. Hermilla
+    - Chief, FOI/PA Branch
+    - BICN Bldg., Room 3219B
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - CRT.FOIArequests@usdoj.gov
-  fax: (202) 514-6195
+  fax: 202-514-6195
   misc:
-    Chief, FOI/PA Branch: 'Nelson D. Hermilla, Phone: (202) 514-4209'
+    Chief, FOI/PA Branch:
+      name: Nelson D. Hermilla
+      phone:
+      - 202-514-4209
   name: Civil Rights Division
   phone: 202-514-4209
-  public_liaison: 'Sylvia Cabrera, Phone: (202) 514-4210'
+  public_liaison:
+    name: Sylvia Cabrera
+    phone:
+    - 202-514-4210
   request_time_stats:
     '2008':
       complex_average_days: '118'
@@ -658,22 +724,33 @@ departments:
       simple_highest_days: '135'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 514-4210'
+  service_center:
+    phone:
+    - 202-514-4210
   top_level: false
   website: http://www.justice.gov/crt/foia/index.php
 - address:
-  - Irene Kho
-  - FOIA/PA Coordinator
-  - Suite 6000
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Irene Kho
+    - FOIA/PA Coordinator
+    - Suite 6000
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - CRS.FOIA@usdoj.gov
   misc:
-    FOIA/PA Coordinator: 'George Henderson, Phone: (202) 305-2935'
+    FOIA/PA Coordinator:
+      name: George Henderson
+      phone:
+      - 202-305-2935
   name: Community Relations Service
   phone: 202-305-2935
-  public_liaison: 'Irene Kho, Phone: (202) 305-2964'
+  public_liaison:
+    name: Irene Kho
+    phone:
+    - 202-305-2964
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/crs/crs-electronic-reading-room
@@ -720,23 +797,32 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: less than 1
       simple_median_days: '8'
-  service_center: 'Phone: (202) 305-2935'
+  service_center:
+    phone:
+    - 202-305-2935
   top_level: false
   website: http://www.justice.gov/crs/foia.htm
 - address:
-  - Kenneth Courter
-  - Chief, FOIA/PA Unit
-  - Suite 1127
-  - Keeney Building, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Suite 1127
+    city: Washington
+    state: DC
+    street: Keeney Building, NW
+    zip: 20530-0001
   emails:
   - crm.foia@usdoj.gov
   fax: 202-514-6117
   misc:
-    Chief, FOIA/PA Unit: 'Kenneth Courter, Phone: (202) 616-0307'
+    Chief, FOIA/PA Unit:
+      name: Kenneth Courter
+      phone:
+      - 202-616-0307
   name: Criminal Division
   phone: 202-616-0307
-  public_liaison: 'Margaret Harris, Phone: (202) 616-0307'
+  public_liaison:
+    name: Margaret Harris
+    phone:
+    - 202-616-0307
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/criminal/foia/elect-read-room.html
@@ -811,15 +897,20 @@ departments:
       simple_highest_days: '306'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (202) 616-0307'
+  service_center:
+    phone:
+    - 202-616-0307
   top_level: false
   website: http://www.justice.gov/criminal/foia/
 - abbreviation: DEA
   address:
-  - Katherine L. Myrick
-  - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
-  - 8701 Morrissette Drive
-  - Springfield, VA 22152
+    address_lines:
+    - Katherine L. Myrick
+    - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
+    city: Springfield
+    state: VA
+    street: 8701 Morrissette Drive
+    zip: '22152'
   description: The Drug Enforcement Administration enforces the United States' controlled
     substance laws and regulations and aims to reduce the supply of and demand for
     such substances.
@@ -852,11 +943,16 @@ departments:
   - Whistleblowing
   - Wiretapping and electronic surveillance
   misc:
-    Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section: 'Katherine
-      L. Myrick, Phone: (202) 305-7596'
+    Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section:
+      name: Katherine L. Myrick
+      phone:
+      - 202-305-7596
   name: Drug Enforcement Administration
   phone: 202-305-7596
-  public_liaison: 'Wanda Jones, Phone: (202) 307-7623'
+  public_liaison:
+    name: Wanda Jones
+    phone:
+    - 202-307-7623
   reading_rooms: []
   request_time_stats:
     '2008':
@@ -916,23 +1012,34 @@ departments:
       simple_highest_days: '198'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 307-7596'
+  service_center:
+    phone:
+    - 202-307-7596
   top_level: true
   usa_id: '52688'
   website: http://www.justice.gov/dea/FOIA/FOIA.shtml
 - address:
-  - Sarah Lu
-  - FOIA Coordinator, Law and Policy Section
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Sarah Lu
+    - FOIA Coordinator, Law and Policy Section
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - FOIARouting.enrd@usdoj.gov
   fax: 202-514-4231
   misc:
-    FOIA Coordinator, Law and Policy Section: 'Sarah Lu, Phone: (202) 514-0424'
+    FOIA Coordinator, Law and Policy Section:
+      name: Sarah Lu
+      phone:
+      - 202-514-0424
   name: Environment and Natural Resources Division
   phone: 202-514-0424
-  public_liaison: 'Amber Blaha, Phone: (202) 616-5515'
+  public_liaison:
+    name: Amber Blaha
+    phone:
+    - 202-616-5515
   reading_rooms:
   - - 'FOIA Library:'
     - http://www.justice.gov/enrd/Current_topics.html
@@ -1001,15 +1108,20 @@ departments:
       simple_highest_days: '169'
       simple_lowest_days: '1'
       simple_median_days: '18'
-  service_center: 'Phone: (202) 514-0424'
+  service_center:
+    phone:
+    - 202-514-0424
   top_level: false
   website: http://www.justice.gov/enrd/ENRD_FOIA.html
 - address:
-  - Cecelia Espenoza
-  - Senior Associate General Counsel, Office of the General Counsel
-  - Suite 1903
-  - 5107 Leesburg Pike
-  - Falls Church, VA 20503
+    address_lines:
+    - Cecelia Espenoza
+    - Senior Associate General Counsel, Office of the General Counsel
+    - Suite 1903
+    city: Falls Church
+    state: VA
+    street: 5107 Leesburg Pike
+    zip: '20503'
   emails:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
@@ -1028,11 +1140,16 @@ departments:
   - Penalties
   - Reporting and recordkeeping requirements
   misc:
-    Senior Associate General Counsel, Office of the General Counsel: 'Cecelia Espenoza,
-      Phone: (703) 605-1297'
+    Senior Associate General Counsel, Office of the General Counsel:
+      name: Cecelia Espenoza
+      phone:
+      - 703-605-1297
   name: Executive Office for Immigration Review
   phone: 703-605-1297
-  public_liaison: 'Crystal Souza, Phone: (703) 605-1297'
+  public_liaison:
+    name: Crystal Souza
+    phone:
+    - 703-605-1297
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/eoir/foia-lib.html
@@ -1115,21 +1232,32 @@ departments:
       simple_highest_days: '662'
       simple_lowest_days: less than 1
       simple_median_days: '13'
-  service_center: 'Phone: (703) 605-1297'
+  service_center:
+    phone:
+    - 703-605-1297
   top_level: false
   website: http://www.justice.gov/eoir/mainfoia.html
 - address:
-  - Jill Aronica
-  - FOIA Officer
-  - Suite 1060
-  - 1331 Pennsylvania Ave.
-  - Washington, DC 20530
+    address_lines:
+    - Jill Aronica
+    - FOIA Officer
+    - Suite 1060
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania Ave.
+    zip: '20530'
   emails:
   - ocdetf.foia@usdoj.gov
-  foia_officer: 'Jill Aronica, Phone: (202) 514-0296'
+  foia_officer:
+    name: Jill Aronica
+    phone:
+    - 202-514-0296
   name: Executive Office for Organized Crime Drug Enforcement Task Forces
   phone: 202-514-0296
-  public_liaison: 'Jennifer Bilinski, Phone: (202) 514-0296'
+  public_liaison:
+    name: Jennifer Bilinski
+    phone:
+    - 202-514-0296
   request_time_stats:
     '2010':
       complex_average_days: '67'
@@ -1163,23 +1291,33 @@ departments:
       simple_highest_days: '156'
       simple_lowest_days: '2'
       simple_median_days: '21.5'
-  service_center: 'Phone: (202) 514-0296'
+  service_center:
+    phone:
+    - 202-514-0296
   top_level: false
-  website: ''
 - address:
-  - Susan B. Gerson
-  - Acting Assistant Director, FOIA/Privacy Unit
-  - Room 7300
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Susan B. Gerson
+    - Acting Assistant Director, FOIA/Privacy Unit
+    - Room 7300
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
   fax: 202-252-6047
   misc:
-    Acting Assistant Director, FOIA/Privacy Unit: 'Susan B. Gerson, Phone: (202) 252-6020'
+    Acting Assistant Director, FOIA/Privacy Unit:
+      name: Susan B. Gerson
+      phone:
+      - 202-252-6020
   name: Executive Office for United States Attorneys
   phone: 202-252-6020
-  public_liaison: 'Donna Preston, Phone: (202) 252-6020'
+  public_liaison:
+    name: Donna Preston
+    phone:
+    - 202-252-6020
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foia-library
@@ -1238,24 +1376,34 @@ departments:
       expedited_processing_highest_days: '802'
       expedited_processing_lowest_days: '23'
       expedited_processing_median_days: '28'
-  service_center: 'Phone: (202) 252-6020'
+  service_center:
+    phone:
+    - 202-252-6020
   top_level: false
   website: http://www.justice.gov/usao/resources/
 - address:
-  - Mary Snyder Barry
-  - FOIA Counsel, Office of the General Counsel
-  - Suite 6150
-  - 441 G Street, NW
-  - Washington, DC 20530
+    address_lines:
+    - Mary Snyder Barry
+    - FOIA Counsel, Office of the General Counsel
+    - Suite 6150
+    city: Washington
+    state: DC
+    street: 441 G Street, NW
+    zip: '20530'
   emails:
   - USTPFOIA.Requests@usdoj.gov
   fax: 202-307-2397
   misc:
-    FOIA Counsel, Office of the General Counsel: 'Mary Snyder Barry, Phone: (202)
-      307-1399'
+    FOIA Counsel, Office of the General Counsel:
+      name: Mary Snyder Barry
+      phone:
+      - 202-307-1399
   name: Executive Office for United States Trustees
   phone: 202-307-1399
-  public_liaison: 'Mary Snyder Barry, Phone: (202) 307-1399'
+  public_liaison:
+    name: Mary Snyder Barry
+    phone:
+    - 202-307-1399
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/ust/eo/foia/foia_err.htm
@@ -1318,15 +1466,20 @@ departments:
       simple_highest_days: '49'
       simple_lowest_days: '1'
       simple_median_days: '7'
-  service_center: 'Phone: (202) 307-1399'
+  service_center:
+    phone:
+    - 202-307-1399
   top_level: false
   website: http://www.justice.gov/ust/eo/foia/index.htm
 - abbreviation: FBI
   address:
-  - David M. Hardy
-  - Chief, Record/Information Dissemination Section, Records Management Division
-  - 170 Marcel Drive
-  - Winchester, VA 22602-4843
+    address_lines:
+    - David M. Hardy
+    - Chief, Record/Information Dissemination Section, Records Management Division
+    city: Winchester
+    state: VA
+    street: 170 Marcel Drive
+    zip: 22602-4843
   description: As an intelligence-driven and a threat-focused national security organization
     with both intelligence and law enforcement responsibilities, the mission of the
     FBI is to protect and defend the United States against terrorist and foreign intelligence
@@ -1354,11 +1507,16 @@ departments:
   - Telecommunications
   - Wiretapping and electronic surveillance
   misc:
-    Chief, Record/Information Dissemination Section, Records Management Division: 'David
-      M. Hardy, Phone: (540) 868-4500'
+    Chief, Record/Information Dissemination Section, Records Management Division:
+      name: David M. Hardy
+      phone:
+      - 540-868-4500
   name: Federal Bureau of Investigation
   phone: 540-868-4500
-  public_liaison: 'Dennis J. Argall, Phone: (540) 868-4516'
+  public_liaison:
+    name: Dennis J. Argall
+    phone:
+    - 540-868-4516
   reading_rooms:
   - - FBI Headquarters Reading Room
     - http://www.fbi.gov/foia/fbi-headquarters-reading-room
@@ -1443,17 +1601,22 @@ departments:
       simple_highest_days: '815'
       simple_lowest_days: less than 1
       simple_median_days: '17'
-  service_center: 'Phone: (540) 868-1535'
+  service_center:
+    phone:
+    - 540-868-1535
   top_level: true
   usa_id: '49278'
   website: http://www.fbi.gov/foia/
 - abbreviation: BOP
   address:
-  - Wanda M. Hunt
-  - Chief, FOIA/PA Section
-  - Room 924, HOLC Building
-  - 320 First Street, NW
-  - Washington, DC 20534
+    address_lines:
+    - Wanda M. Hunt
+    - Chief, FOIA/PA Section
+    - Room 924, HOLC Building
+    city: Washington
+    state: DC
+    street: 320 First Street, NW
+    zip: '20534'
   description: The Bureau of Prisons manages federal prisons, and community-based
     facilities that provide work and opportunities to assist offenders.
   emails:
@@ -1466,10 +1629,16 @@ departments:
   - Legal services
   - Prisoners
   misc:
-    Chief, FOIA/PA Section: 'Wanda M. Hunt, Phone: (202) 514-6655'
+    Chief, FOIA/PA Section:
+      name: Wanda M. Hunt
+      phone:
+      - 202-514-6655
   name: Federal Bureau of Prisons
   phone: 202-514-6655
-  public_liaison: 'Wilson Moorer, Phone: (202) 514-6655'
+  public_liaison:
+    name: Wilson Moorer
+    phone:
+    - 202-514-6655
   request_form: http://www.bop.gov/foia/submit.jsp
   request_time_stats:
     '2008':
@@ -1550,24 +1719,35 @@ departments:
       simple_highest_days: '545'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 616-7750'
+  service_center:
+    phone:
+    - 202-616-7750
   top_level: true
   usa_id: '49126'
   website: http://www.bop.gov/foia/index.jsp
 - address:
-  - Jeremy LaFrancois
-  - Chief Administrative Counsel
-  - Room 6002
-  - 600 E Street, NW
-  - Washington, DC 20579-0001
+    address_lines:
+    - Jeremy LaFrancois
+    - Chief Administrative Counsel
+    - Room 6002
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20579-0001
   emails:
   - info.fcsc@usdoj.gov
   fax: 202-616-6993
   misc:
-    Chief Administrative Counsel: 'Jeremy LaFrancois, Phone: (202) 616-6975'
+    Chief Administrative Counsel:
+      name: Jeremy LaFrancois
+      phone:
+      - 202-616-6975
   name: Foreign Claims Settlement Commission
   phone: 202-616-6975
-  public_liaison: 'Jeremy LaFrancois, Phone: (202) 616-6975'
+  public_liaison:
+    name: Jeremy LaFrancois
+    phone:
+    - 202-616-6975
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/fcsc/foia-library
@@ -1602,22 +1782,31 @@ departments:
       complex_highest_days: '124'
       complex_lowest_days: less than 1
       complex_median_days: '9'
-  service_center: 'Phone: (202) 616-6975'
+  service_center:
+    phone:
+    - 202-616-6975
   top_level: false
   website: http://www.justice.gov/fcsc/foia.htm
 - address:
-  - FOIA/PA Specialist, Office of General Counsel
-  - INTERPOL Washington
-  - U.S. Department of Justice
-  - Washington, DC 20530-0001
+    address_lines:
+    - INTERPOL Washington
+    city: Washington
+    state: DC
+    street: U.S. Department of Justice
+    zip: 20530-0001
   emails:
   - Interpol-USNCB.FOIA@usdoj.gov
   fax: 202-616-1357
   misc:
-    FOIA/PA Specialist, Office of General Counsel: 'Phone: (202) 616-0201'
+    FOIA/PA Specialist, Office of General Counsel:
+      phone:
+      - 202-616-0201
   name: INTERPOL-United States National Central Bureau
   phone: 202-616-0201
-  public_liaison: 'Daniel Dembkowski, Phone: (202) 616-0201'
+  public_liaison:
+    name: Daniel Dembkowski
+    phone:
+    - 202-616-0201
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/interpol-washington/foia-library
@@ -1692,25 +1881,36 @@ departments:
       simple_highest_days: '450'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Phone: (202) 616-0201'
+  service_center:
+    phone:
+    - 202-616-0201
   top_level: false
   website: http://www.justice.gov/interpol-washington/foia.html
 - address:
-  - Karen McFadden
-  - FOIA Contact
-  - Room 8E.104, 2 Consitution Square
-  - 145 N Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Karen McFadden
+    - FOIA Contact
+    - Room 8E.104, 2 Consitution Square
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: '20530'
   emails:
   - JMDFOIA@usdoj.gov
   fax: 202-616-6695
   misc:
-    FOIA Contact: 'Karen McFadden, Phone: (202) 514-3101'
+    FOIA Contact:
+      name: Karen McFadden
+      phone:
+      - 202-514-3101
   name: Justice Management Division
   notes: This office also handles requests for records of the Office of Attorney Recruitment
     & Management
   phone: 202-514-3101
-  public_liaison: 'Michael Allen, Phone: (202) 514-3101'
+  public_liaison:
+    name: Michael Allen
+    phone:
+    - 202-514-3101
   reading_rooms:
   - - 'FOIA Library:'
     - http://www.justice.gov/jmd/foia-library
@@ -1773,22 +1973,33 @@ departments:
       simple_highest_days: '325'
       simple_lowest_days: less than 1
       simple_median_days: '18'
-  service_center: 'Phone: (202) 514-3101'
+  service_center:
+    phone:
+    - 202-514-3101
   top_level: false
   website: http://www.justice.gov/jmd/foia.htm
 - address:
-  - Arnetta Mallory
-  - FOIA Initiatives Coordinator
-  - Room 10702
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Arnetta Mallory
+    - FOIA Initiatives Coordinator
+    - Room 10702
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - nsdfoia@usdoj.gov
   misc:
-    FOIA Initiatives Coordinator: 'Arnetta Mallory, Phone: (202) 233-0754'
+    FOIA Initiatives Coordinator:
+      name: Arnetta Mallory
+      phone:
+      - 202-233-0754
   name: National Security Division
   phone: 202-233-0754
-  public_liaison: 'Patricia Matthews, Phone: (202) 233-0756'
+  public_liaison:
+    name: Patricia Matthews
+    phone:
+    - 202-233-0756
   reading_rooms:
   - - 'FOIA Library:'
     - http://www.justice.gov/nsd/nsd-foia-library
@@ -1865,16 +2076,21 @@ departments:
       simple_highest_days: '249'
       simple_lowest_days: less than 1
       simple_median_days: '7.5'
-  service_center: 'Phone: (202) 233-0754'
+  service_center:
+    phone:
+    - 202-233-0754
   top_level: false
   website: http://www.justice.gov/nsd/foia/foia.htm
 - abbreviation: COPS
   address:
-  - Melissa Fieri-Fetrow
-  - FOIA/PA Officer - Legal Division
-  - 'Two Constitution Square, #11E 1405'
-  - 145 N Street, NE
-  - Washington, DC 20530-0001
+    address_lines:
+    - Melissa Fieri-Fetrow
+    - FOIA/PA Officer - Legal Division
+    - 'Two Constitution Square, #11E 1405'
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: 20530-0001
   description: The Office of Community Oriented Policing Services advances the practice
     of community policing through sharing information and making grants to police
     departments in the United States.
@@ -1882,10 +2098,16 @@ departments:
   - COPS.FOIA@usdoj.gov
   fax: 202-514-3456
   misc:
-    FOIA/PA Officer - Legal Division: 'Gary L. Baude, Phone: (202) 353-9864'
+    FOIA/PA Officer - Legal Division:
+      name: Gary L. Baude
+      phone:
+      - 202-353-9864
   name: Office of Community Oriented Policing Services
   phone: 202-514-1873
-  public_liaison: 'Melissa Fieri-Fetrow, Phone: (202) 514-1873'
+  public_liaison:
+    name: Melissa Fieri-Fetrow
+    phone:
+    - 202-514-1873
   request_time_stats:
     '2008':
       simple_average_days: '3.6'
@@ -1917,22 +2139,33 @@ departments:
       complex_highest_days: '48'
       complex_lowest_days: less than 1
       complex_median_days: '6'
-  service_center: 'Phone: 202-514-1873'
+  service_center:
+    phone:
+    - 202-514-1873
   top_level: true
   usa_id: '49162'
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
-    Chief of Staff: 'Carmen L. Mallon, Phone: (202) 514-3642'
+    Chief of Staff:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of Information Policy
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -2000,23 +2233,34 @@ departments:
       simple_highest_days: '602'
       simple_lowest_days: less than 1
       simple_median_days: '13'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/oip/
 - address:
-  - Deborah M. Waller
-  - Government Information Specialist
-  - Room 4728
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Deborah M. Waller
+    - Government Information Specialist
+    - Room 4728
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - oigfoia@usdoj.gov
   fax: 202-616-9152
   misc:
-    Government Information Specialist: 'Deborah M. Waller, Phone: (202) 616-0646'
+    Government Information Specialist:
+      name: Deborah M. Waller
+      phone:
+      - 202-616-0646
   name: Office of the Inspector General
   phone: 202-616-0646
-  public_liaison: 'Deborah M. Waller, Phone: (202) 616-0646'
+  public_liaison:
+    name: Deborah M. Waller
+    phone:
+    - 202-616-0646
   reading_rooms:
   - - 'FOIA Library:'
     - http://www.justice.gov/oig/foia/eroom.htm
@@ -2079,15 +2323,20 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: less than 1
       simple_median_days: '11'
-  service_center: 'Phone: (202) 616-0646'
+  service_center:
+    phone:
+    - 202-616-0646
   top_level: false
   website: http://www.justice.gov/oig/foia/
 - address:
-  - Dorothy Lee
-  - Government Information Specialist
-  - Room 5400
-  - 810 7th Street, NW
-  - Washington, DC 20531
+    address_lines:
+    - Dorothy Lee
+    - Government Information Specialist
+    - Room 5400
+    city: Washington
+    state: DC
+    street: 810 7th Street, NW
+    zip: '20531'
   emails:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
@@ -2114,10 +2363,16 @@ departments:
   - Transportation
   - Victim compensation
   misc:
-    Government Information Specialist: 'Dorothy Lee, Phone: (202) 616-3267'
+    Government Information Specialist:
+      name: Dorothy Lee
+      phone:
+      - 202-616-3267
   name: Office of Justice Programs
   phone: 202-616-3267
-  public_liaison: 'George Pruden, Phone: (202) 616-3267'
+  public_liaison:
+    name: George Pruden
+    phone:
+    - 202-616-3267
   reading_rooms:
   - - FOIA Library
     - http://ojp.gov/about/foia/reading_room.htm
@@ -2176,22 +2431,33 @@ departments:
       simple_highest_days: '135'
       simple_lowest_days: less than 1
       simple_median_days: '11'
-  service_center: 'Phone: (202) 307-6235'
+  service_center:
+    phone:
+    - 202-307-6235
   top_level: false
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - address:
-  - Bette Farris
-  - Supervisory Paralegal
-  - Room 5515
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Bette Farris
+    - Supervisory Paralegal
+    - Room 5515
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - usdoj-officeoflegalcounsel@usdoj.gov
   misc:
-    Supervisory Paralegal: 'Bette Farris, Phone: (202) 514-2038'
+    Supervisory Paralegal:
+      name: Bette Farris
+      phone:
+      - 202-514-2038
   name: Office of Legal Counsel
   phone: 202-514-2038
-  public_liaison: 'Lawan Robinson, Phone: (202) 353-0258'
+  public_liaison:
+    name: Lawan Robinson
+    phone:
+    - 202-353-0258
   reading_rooms:
   - - Electronic Reading Room
     - http://www.justice.gov/olc/olc-foia-electronic-reading-room
@@ -2264,22 +2530,32 @@ departments:
       simple_highest_days: '145'
       simple_lowest_days: less than 1
       simple_median_days: '13'
-  service_center: 'Phone: (202) 353-0258'
+  service_center:
+    phone:
+    - 202-353-0258
   top_level: false
   website: http://www.justice.gov/olc/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of Legal Policy
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/oip/available-documents-oip
@@ -2357,23 +2633,33 @@ departments:
       simple_highest_days: '70'
       simple_lowest_days: '3'
       simple_median_days: '19'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/olp/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   emails: []
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of Legislative Affairs
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - 'FOIA Library:'
     - http://www.justice.gov/oip/available-documents-oip
@@ -2457,22 +2743,33 @@ departments:
       simple_highest_days: '196'
       simple_lowest_days: less than 1
       simple_median_days: '21'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/ola/ola-foia.htm
 - address:
-  - Linda M.V. Bowe
-  - FOIA Officer
-  - Suite 11000
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Linda M.V. Bowe
+    - FOIA Officer
+    - Suite 11000
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   emails:
   - PardonAttorneyFOIA@usdoj.gov
   fax: 202-616-6069
-  foia_officer: 'Linda M.V. Bowe, Phone: (202) 616-6070'
+  foia_officer:
+    name: Linda M.V. Bowe
+    phone:
+    - 202-616-6070
   name: Office of the Pardon Attorney
   phone: 202-616-6070
-  public_liaison: 'Linda M.V. Bowe, Phone: (202) 616-6070'
+  public_liaison:
+    name: Linda M.V. Bowe
+    phone:
+    - 202-616-6070
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/pardon/readingroom.htm
@@ -2517,23 +2814,34 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '2'
-  service_center: 'Phone: (202) 616-6070'
+  service_center:
+    phone:
+    - 202-616-6070
   top_level: false
   website: http://www.justice.gov/pardon/pardon_foia.htm
 - address:
-  - Lyn Hardy
-  - Senior Counsel
-  - Suite 3266
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Lyn Hardy
+    - Senior Counsel
+    - Suite 3266
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: '20530'
   emails:
   - OPR.FOIA@usdoj.gov
   fax: 202-514-5050
   misc:
-    Senior Counsel: 'Lyn Hardy, Phone: (202) 514-3365'
+    Senior Counsel:
+      name: Lyn Hardy
+      phone:
+      - 202-514-3365
   name: Office of Professional Responsibility
   phone: 202-514-3365
-  public_liaison: 'Ginae Barnett, Phone: (202) 514-3365'
+  public_liaison:
+    name: Ginae Barnett
+    phone:
+    - 202-514-3365
   reading_rooms:
   - - Electronic Reading Room
     - http://www.justice.gov/opr/readingroom/index.html
@@ -2604,22 +2912,32 @@ departments:
       simple_highest_days: '323'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (202) 514-3365'
+  service_center:
+    phone:
+    - 202-514-3365
   top_level: false
   website: http://www.justice.gov/opr/foia.htm
 - address:
-  - Carmen L. Mallon
-  - Chief of Staff, Office of Information Policy
-  - Suite 11050
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Carmen L. Mallon
+    - Chief of Staff, Office of Information Policy
+    - Suite 11050
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: 20530-0001
   fax: 202-514-1009
   misc:
-    Chief of Staff, Office of Information Policy: 'Carmen L. Mallon, Phone: (202)
-      514-3642'
+    Chief of Staff, Office of Information Policy:
+      name: Carmen L. Mallon
+      phone:
+      - 202-514-3642
   name: Office of Public Affairs
   phone: 202-514-3642
-  public_liaison: 'Laurie A. Day, Phone: (202) 514-3642'
+  public_liaison:
+    name: Laurie A. Day
+    phone:
+    - 202-514-3642
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/oip/available-documents-oip
@@ -2697,21 +3015,32 @@ departments:
       simple_highest_days: '44'
       simple_lowest_days: '15'
       simple_median_days: '19'
-  service_center: 'Phone: (202) 616-5459'
+  service_center:
+    phone:
+    - 202-616-5459
   top_level: false
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
 - address:
-  - James K. Davis
-  - FOIA Coordinator
-  - 950 Pennsylvania Avenue, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - James K. Davis
+    - FOIA Coordinator
+    city: Washington
+    state: DC
+    street: 950 Pennsylvania Avenue, NW
+    zip: 20530-0001
   emails:
   - OSGFOIA@usdoj.gov
   misc:
-    FOIA Coordinator: 'James K. Davis, Phone: (202) 616-9406'
+    FOIA Coordinator:
+      name: James K. Davis
+      phone:
+      - 202-616-9406
   name: Office of the Solicitor General
   phone: 202-616-9406
-  public_liaison: 'Valerie H. Hall, Phone: (202) 514-2203'
+  public_liaison:
+    name: Valerie H. Hall
+    phone:
+    - 202-514-2203
   reading_rooms:
   - - Electronic Reading Room
     - http://www.justice.gov/osg/osg-freedom-information-act-0
@@ -2774,41 +3103,63 @@ departments:
       simple_highest_days: '340'
       simple_lowest_days: '2'
       simple_median_days: '22'
-  service_center: 'Phone: (202) 616-9406'
+  service_center:
+    phone:
+    - 202-616-9406
   top_level: false
   website: http://www.justice.gov/osg/foia.html
 - address:
-  - Susan B. Gerson
-  - Acting Assistant Director, FOIA/Privacy Unit
-  - Room 7300
-  - 600 E Street, NW
-  - Washington, DC 20530-0001
+    address_lines:
+    - Susan B. Gerson
+    - Acting Assistant Director, FOIA/Privacy Unit
+    - Room 7300
+    city: Washington
+    state: DC
+    street: 600 E Street, NW
+    zip: 20530-0001
   emails:
   - USAEO.FOIA.Requests@usdoj.gov
   misc:
-    Acting Assistant Director, FOIA/Privacy Unit: 'Susan B. Gerson, Phone: (202) 252-6020'
+    Acting Assistant Director, FOIA/Privacy Unit:
+      name: Susan B. Gerson
+      phone:
+      - 202-252-6020
   name: Office of Tribal Justice
   phone: 202-252-6020
-  public_liaison: 'Donna Preston, Phone: (202) 252-6020'
+  public_liaison:
+    name: Donna Preston
+    phone:
+    - 202-252-6020
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/usao/resources/foia-library
-  service_center: 'Phone: (202) 252-6020'
+  service_center:
+    phone:
+    - 202-252-6020
   top_level: false
   website: http://www.justice.gov/usao/resources/foiarequests/
 - address:
-  - Catherine Poston
-  - Attorney Advisor
-  - Suite 10W.121
-  - 145 N Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Catherine Poston
+    - Attorney Advisor
+    - Suite 10W.121
+    city: Washington
+    state: DC
+    street: 145 N Street, NE
+    zip: '20530'
   emails:
   - OVW.FOIA@usdoj.gov
   misc:
-    Attorney Advisor: 'Catherine Poston, Phone: (202) 307-6026'
+    Attorney Advisor:
+      name: Catherine Poston
+      phone:
+      - 202-307-6026
   name: Office on Violence Against Women
   phone: 202-307-6026
-  public_liaison: 'Catherine Poston, Phone: (202) 307-6026'
+  public_liaison:
+    name: Catherine Poston
+    phone:
+    - 202-307-6026
   request_time_stats:
     '2008':
       simple_average_days: '13.25'
@@ -2848,23 +3199,34 @@ departments:
       simple_highest_days: '154'
       simple_lowest_days: less than 1
       simple_median_days: '16'
-  service_center: 'Phone: (202) 307-6026'
+  service_center:
+    phone:
+    - 202-307-6026
   top_level: false
   website: http://www.ovw.usdoj.gov/ovwfoia.htm
 - address:
-  - Michael Kingsley
-  - Information Management Specialist
-  - Suite 12000
-  - 1425 New York Avenue, NW
-  - Washington, DC 20530
+    address_lines:
+    - Michael Kingsley
+    - Information Management Specialist
+    - Suite 12000
+    city: Washington
+    state: DC
+    street: 1425 New York Avenue, NW
+    zip: '20530'
   emails:
   - PRAO.FOIA@usdoj.gov
   fax: 202-353-7483
   misc:
-    Information Management Specialist: 'Michael Kingsley, Phone: (202) 514-0458'
+    Information Management Specialist:
+      name: Michael Kingsley
+      phone:
+      - 202-514-0458
   name: Professional Responsibility Advisory Office
   phone: 202-514-0458
-  public_liaison: 'Michael Kingsley, Phone: (202) 514-0458'
+  public_liaison:
+    name: Michael Kingsley
+    phone:
+    - 202-514-0458
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/prao/foia-library
@@ -2903,22 +3265,31 @@ departments:
       simple_highest_days: '149'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (202) 514-0458'
+  service_center:
+    phone:
+    - 202-514-0458
   top_level: false
   website: http://www.justice.gov/prao/foia.htm
 - address:
-  - Carmen M. Banerjee
-  - Division Counsel for FOIA and PA Matters
-  - P.O. Box 227
-  - Ben Franklin Station
-  - Washington, DC 20044
+    address_lines:
+    - P.O. Box 227
+    city: Washington
+    state: DC
+    street: Ben Franklin Station
+    zip: '20044'
   emails:
   - TaxDiv.FOIAPA@usdoj.gov
   misc:
-    Division Counsel for FOIA and PA Matters: 'Carmen M. Banerjee, Phone: (202) 307-6320'
+    Division Counsel for FOIA and PA Matters:
+      name: Carmen M. Banerjee
+      phone:
+      - 202-307-6320
   name: Tax Division
   phone: 202-616-3399
-  public_liaison: 'Billie Willis, Phone: (202) 307-0462'
+  public_liaison:
+    name: Billie Willis
+    phone:
+    - 202-307-0462
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/tax/readingroom/foia/tax.htm
@@ -2981,16 +3352,21 @@ departments:
       simple_highest_days: '77'
       simple_lowest_days: less than 1
       simple_median_days: '4'
-  service_center: 'Phone: (202) 616-3399'
+  service_center:
+    phone:
+    - 202-616-3399
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
 - abbreviation: ''
   address:
-  - William E. Bordley
-  - Associate General Counsel, Office of General Counsel
-  - FOIA/PA, CS 4, 10th Floor
-  - 2604 Jefferson Davis Highway
-  - Alexandria, VA 22301
+    address_lines:
+    - William E. Bordley
+    - Associate General Counsel, Office of General Counsel
+    - FOIA/PA, CS 4, 10th Floor
+    city: Alexandria
+    state: VA
+    street: 2604 Jefferson Davis Highway
+    zip: '22301'
   description: Part of the Department of Justice, the Marshals Service is responsible
     for providing security to the federal judiciary, managing the witness security
     program, managing and selling the seized or forfeited assets of criminals, is
@@ -3000,12 +3376,17 @@ departments:
   emails:
   - usms.foia@usdoj.gov
   misc:
-    Associate General Counsel, Office of General Counsel: 'William E. Bordley, Phone:
-      (202) 307-9054'
+    Associate General Counsel, Office of General Counsel:
+      name: William E. Bordley
+      phone:
+      - 202-307-9054
   name: United States Marshals Service
   phone: 202-307-9054
-  public_liaison: 'Nancy Robinson, Arleta Cunningham, Phone: (202) 307-9071, (202)
-    307-9052'
+  public_liaison:
+    name: Nancy Robinson, Arleta Cunningham
+    phone:
+    - 202-307-9071
+    - 202-307-9052
   request_time_stats:
     '2008':
       complex_average_days: '84.7'
@@ -3083,16 +3464,21 @@ departments:
       simple_highest_days: '688'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 307-9054'
+  service_center:
+    phone:
+    - 202-307-9054
   top_level: true
   usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
 - address:
-  - Anissa Banks
-  - FOIA/PA Specialist
-  - 3rd Floor
-  - 90 K Street, NE
-  - Washington, DC 20530
+    address_lines:
+    - Anissa Banks
+    - FOIA/PA Specialist
+    - 3rd Floor
+    city: Washington
+    state: DC
+    street: 90 K Street, NE
+    zip: '20530'
   emails:
   - USPC.FOIA@usdoj.gov
   keywords:
@@ -3100,10 +3486,16 @@ departments:
   - Prisoners
   - Probation and parole
   misc:
-    FOIA/PA Specialist: 'Anissa Banks, Phone: (202) 346-7030'
+    FOIA/PA Specialist:
+      name: Anissa Banks
+      phone:
+      - 202-346-7030
   name: United States Parole Commission
   phone: 202-346-7030
-  public_liaison: 'Rockne Chickinell, Phone: (202) 346-7030'
+  public_liaison:
+    name: Rockne Chickinell
+    phone:
+    - 202-346-7030
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/uspc/reading-room.html
@@ -3158,7 +3550,9 @@ departments:
       simple_highest_days: '124'
       simple_lowest_days: less than 1
       simple_median_days: '3'
-  service_center: 'Phone: (202) 346-7030'
+  service_center:
+    phone:
+    - 202-346-7030
   top_level: false
   website: http://www.justice.gov/uspc/foia.htm
 description: The Department's mission is to enforce the law and defend the interests
@@ -3367,7 +3761,9 @@ keywords:
 - Women
 name: Department of Justice
 phone: 301-583-7354
-public_liaison: 'Phone: (301) 583-7354'
+public_liaison:
+  phone:
+  - 301-583-7354
 request_time_stats:
   '2008':
     complex_average_days: '272.69'
@@ -3447,7 +3843,8 @@ request_time_stats:
     simple_highest_days: '815'
     simple_lowest_days: less than 1
     simple_median_days: '12'
-service_center: 'Phone: (301) 583-7354'
+service_center:
+  phone:
+  - 301-583-7354
 top_level: false
 usa_id: '52686'
-website: ''

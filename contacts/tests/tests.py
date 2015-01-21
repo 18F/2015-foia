@@ -230,15 +230,24 @@ class ScraperTests(TestCase):
         lines, ps = scraper.clean_paragraphs(doc)
         self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
 
-    def test_phone(self):
+    def test_clean_phone_number(self):
         """Test various phone formats and make sure bad formats produce
         errors"""
         for line in ("+4 123-456-7890", "4-(123) 456 7890", "41234567890"):
-            self.assertEqual("+4 123-456-7890", scraper.phone(line))
+            self.assertEqual(
+                "+4 123-456-7890", scraper.clean_phone_number(line))
         for line in ("  123-456-7890", "(123) 456 7890", "1234567890"):
-            self.assertEqual("123-456-7890", scraper.phone(line))
+            self.assertEqual("123-456-7890", scraper.clean_phone_number(line))
         for line in ("Other", "123-4567", "1234-5679-0"):
-            self.assertRaises(Exception, scraper.phone, line)
+            self.assertRaises(Exception, scraper.clean_phone_number, line)
+        # Test for extensions
+        test_lines = (
+            "(928) 779-2727, ext. 145",
+            "(928) 779-2727, (ext. 145)",
+            "(928) 779-2727 ext. 145")
+        for line in test_lines:
+            self.assertEqual(
+                "928-779-2727 x145", scraper.clean_phone_number(line))
 
     def test_split_address_from(self):
         """Address should be separated as soon as we encounter "service
@@ -274,6 +283,66 @@ class ScraperTests(TestCase):
         ps = [BeautifulSoup("<p>Off hand reference to email</p>")]
         self.assertRaises(Exception, scraper.find_emails, lines, ps)
 
+    def test_extract_numbers(self):
+        """ Verify that phone numbers are extracted and added to list"""
+
+        phone_str = "(928) 779-2727, ext. 145"
+        expected_output = ['928-779-2727 x145']
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+        # Still extracts 2 numbers even if their formatting is ugly
+        phone_str += ", (928) 779-1111,, (ext. 145)"
+        expected_output.append('928-779-1111 x145')
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+        # Won't extract incorrect phone numbers
+        phone_str += ", (928) 779-111"
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+        phone_str = " (202) 663-4634, (202) 663-7026 (TTY)'"
+        expected_output = ['202-663-4634', '202-663-7026 (TTY)']
+        self.assertEqual(expected_output,
+                         scraper.extract_numbers(phone_str))
+
+    def test_organize_contact(self):
+        """ Test if contacts are extracted an organized correctly """
+
+        # Regular contact
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
+            scraper.organize_contact(contact_str))
+
+        # Contact with multiple numbers
+        contact_str = "Denise Garrett, Phone: (202) 707-6800, (202) 700-6811"
+        self.assertEqual(
+            {
+                'name': 'Denise Garrett',
+                'phone': ['202-707-6800', '202-700-6811']
+            },
+            scraper.organize_contact(contact_str))
+
+        # Contact with no name e.i. service centers
+        contact_str = "Phone: (202) 707-6800"
+        self.assertEqual(
+            {'phone': ['202-707-6800']},
+            scraper.organize_contact(contact_str))
+
+        # Contact with no phone number
+        contact_str = "Denise Garrett, Phone: "
+        self.assertEqual(
+            {'name': 'Denise Garrett'},
+            scraper.organize_contact(contact_str))
+
+        # Contact with no `,` number
+        contact_str = "Denise Garrett, Phone: (202) 707-6800"
+        self.assertEqual(
+            {'name': 'Denise Garrett', 'phone': ['202-707-6800']},
+            scraper.organize_contact(contact_str))
+
     def test_find_bold_fields(self):
         """Three types of bold fields, simple key-value pairs (like 'notes'),
         url values (e.g. website, request form), and 'misc' -- everything
@@ -300,7 +369,7 @@ class ScraperTests(TestCase):
             <p>Jane Smith</p>
             <p>Awesome Person</p>
             <p></p>
-            <p>A Federal Agency</p>
+            <p>1 congress street</p>
             <p>Washington, DC 20505</p>
             <p>(555) 111-2222 (Telephone)</p>
             <p>(555) 222-3333 (Fax)</p>
@@ -310,7 +379,7 @@ class ScraperTests(TestCase):
             <p><strong>FOIA Requester Service Center:</strong>
                 Phone: (555) 333-4444
             <p><strong>FOIA Public Liaison:</strong>
-                Mark Someone, (555) 444-5555
+                Mark Someone, Phone: (555) 444-5555
             <p><strong>Program Manager:</strong>
                 Someone Else, Phone: (555) 555-6666
             <p><strong>Website: </strong>
@@ -319,18 +388,26 @@ class ScraperTests(TestCase):
             </p></blockquote></div>""")
         result = scraper.parse_department(html, "Agency X")
         self.assertEqual(result['name'], "Agency X")
-        self.assertEqual(result['address'],
-                         ["Jane Smith", "Awesome Person", "A Federal Agency",
-                          "Washington, DC 20505"])
+        self.assertEqual(
+            result['address'],
+            {
+                'address_lines': ['Jane Smith', 'Awesome Person'],
+                'zip': '20505',
+                'street': '1 congress street',
+                'city': 'Washington',
+                'state': 'DC'
+            })
         self.assertEqual(result['phone'], "555-111-2222")
         self.assertEqual(result['fax'], "555-222-3333")
         self.assertEqual(result['emails'],
                          ["foia@example.gov", "other@example.com"])
-        self.assertEqual(result['service_center'], "Phone: (555) 333-4444")
-        self.assertEqual(result['public_liaison'],
-                         "Mark Someone, (555) 444-5555")
-        self.assertEqual(result['misc']['Program Manager'],
-                         "Someone Else, Phone: (555) 555-6666")
+        self.assertEqual(result['service_center'], {'phone': ['555-333-4444']})
+        self.assertEqual(
+            result['public_liaison'],
+            {'name': 'Mark Someone', 'phone': ['555-444-5555']})
+        self.assertEqual(
+            result['misc']['Program Manager'],
+            {'phone': ['555-555-6666'], 'name': 'Someone Else'})
         self.assertEqual(result['website'], "http://www.foia.example.gov/")
 
     @patch('scraper.parse_department')
@@ -374,37 +451,109 @@ class ScraperTests(TestCase):
         self.assertTrue("agency=ABCDEF" in scraper.agency_url("ABCDEF"))
         self.assertTrue("agency=A+B+C+D" in scraper.agency_url("A B C D"))
 
+    def test_address_list_to_dict(self):
+        """ Verify that addresses are organized correctly """
+        # Test simple address
+        address_list = [
+            "Martha R. Sell", "FOIA Assistant", "Suite 500",
+            "2300 Clarendon Boulevard", "Arlington, VA 22201"]
+        address_dict = {
+            'state': 'VA',
+            'address_lines': ['Martha R. Sell', 'FOIA Assistant', 'Suite 500'],
+            'city': 'Arlington',
+            'street': '2300 Clarendon Boulevard',
+            'zip': '22201'}
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
+
+        address_list.remove("Suite 500")
+        address_dict['address_lines'].remove("Suite 500")
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
+
+        # Test more complex addresses
+        address_list = [
+            "FOIA Contact", "1400 K Street, NW", "Washington , DC 20424"]
+        address_dict = {
+            'state': 'DC',
+            'address_lines': ['FOIA Contact'],
+            'city': 'Washington',
+            'street': '1400 K Street, NW',
+            'zip': '20424'}
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
+
+        address_list.pop()
+        address_list.append("Washington , DC 20424")
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
+
+        address_list.pop()
+        address_list.append("Washington , DC  20424")
+        self.assertEqual(
+            scraper.address_list_to_dict(address_list), address_dict)
+
 
 class LayerTests(TestCase):
-    def test_address_lines(self):
+    def test_organize_address(self):
         """Add lines for room number, street addy is present. Only add
-        city/state/zip if all three are present."""
+        address if city/state/zip/street are present."""
+
         row = {"Room Number": "", "Street Address": "", "City": "",
                "State": "", "Zip Code": ""}
         row["City"] = "Boston"
-        self.assertEqual([], layer.address_lines(row))
-        row["Zip Code"] = 90210
-        self.assertEqual([], layer.address_lines(row))
-        row["Street Address"] = "123 Maywood Dr"
-        self.assertEqual(["123 Maywood Dr"], layer.address_lines(row))
-        row["Room Number"] = "Apt B"
-        self.assertEqual(["Apt B", "123 Maywood Dr"],
-                         layer.address_lines(row))
-        row["State"] = "XY"
-        self.assertEqual(["Apt B", "123 Maywood Dr", "Boston, XY 90210"],
-                         layer.address_lines(row))
+        self.assertEqual(None, layer.organize_address(row))
+
+        row['Zip Code'] = '90210'
+        self.assertEqual(None, layer.organize_address(row))
+
+        row['Street Address'] = '123 Maywood Dr'
+        self.assertEqual(None,
+                         layer.organize_address(row))
+
+        row['Room Number'] = 'Apt B'
+        self.assertEqual(None,
+                         layer.organize_address(row))
+
+        row['State'] = 'XY'
+        expected_address_dict = {
+            'address_lines': ['Apt B'], 'city': 'Boston', 'state': 'XY',
+            'street': '123 Maywood Dr', 'zip': '90210'}
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
+
+        # In layer_with_csv street name is assumed correct
+        row['Street Address'] = 'not a street'
+        expected_address_dict['street'] = 'not a street'
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
+
+        # Zips are also cleaned up, but still assumed correct
+        row['Zip Code'] = 20823.0
+        expected_address_dict['zip'] = '20823'
+        self.assertEqual(expected_address_dict,
+                         layer.organize_address(row))
 
     def test_contact_string(self):
         """Format name and phone information; check each combination"""
         row = {"Name": "", "Telephone": ""}
-        self.assertEqual("", layer.contact_string(row))
+        self.assertEqual({}, layer.contact_string(row))
         row["Name"] = "Bob Bobberson"
-        self.assertEqual("Bob Bobberson", layer.contact_string(row))
+        self.assertEqual({'name': 'Bob Bobberson'}, layer.contact_string(row))
         row["Telephone"] = "(111) 222-3333"
-        self.assertEqual("Bob Bobberson, Phone: (111) 222-3333",
+        self.assertEqual({'name': 'Bob Bobberson', 'phone': ['111-222-3333']},
                          layer.contact_string(row))
         row["Name"] = ""
-        self.assertEqual("Phone: (111) 222-3333", layer.contact_string(row))
+        self.assertEqual(
+            {'phone': ['111-222-3333']}, layer.contact_string(row))
+        row["Telephone"] = "(202) 218-7770 (ext. 7744), (202) 218-7970"
+        row["Name"] = "Bob Bobberson"
+        self.assertEqual(
+            {
+                'name': 'Bob Bobberson',
+                'phone': ['202-218-7770 x7744', '202-218-7970']
+            },
+            layer.contact_string(row))
 
     def test_patch_dict(self):
         """Verify fields are added, nothing gets overwritten, and misc fields
@@ -511,14 +660,15 @@ class LayerTests(TestCase):
         layer.add_contact_info(contact_dict, row)
         self.assertFalse("service_center" in contact_dict["A"]["B"])
         self.assertEqual(contact_dict["A"]["B"]["misc"],
-                         {"Awesome Person": "Ada"})
+                         {'Awesome Person': {'name': 'Ada'}})
 
         row["Name"] = "Bob"
         row["Title"] = "FOIA Service Center Technician"
         layer.add_contact_info(contact_dict, row)
-        self.assertEqual(contact_dict["A"]["B"]["service_center"], "Bob")
+        self.assertEqual(contact_dict["A"]["B"]["service_center"],
+                         {'name': 'Bob'})
         self.assertEqual(contact_dict["A"]["B"]["misc"],
-                         {"Awesome Person": "Ada"})
+                         {'Awesome Person': {'name': 'Ada'}})
 
 
 class FRTests(TestCase):

@@ -1,19 +1,28 @@
 abbreviation: SEC
 departments:
 - address:
-  - John Livornese
-  - FOIA Officer, Office of FOIA Services
-  - Mail Stop 2736
-  - 100 F Street, NE
-  - Washington, DC 20549-2736
+    address_lines:
+    - John Livornese
+    - FOIA Officer, Office of FOIA Services
+    - Mail Stop 2736
+    city: Washington
+    state: DC
+    street: 100 F Street, NE
+    zip: 20549-2736
   emails:
   - foiapa@sec.gov
   fax: 202-772-9337
-  foia_officer: 'John Livornese, Phone: (202) 551-7900'
+  foia_officer:
+    name: John Livornese
+    phone:
+    - 202-551-7900
   name: Securities and Exchange Commission
   phone: 202-551-7900
-  public_liaison: 'John Livornese, Lizzette Katilius, David Henshall, Jeffrey Ovall
-    and Ray McInerney, Phone: (202) 551-7900'
+  public_liaison:
+    name: John Livornese, Lizzette Katilius, David Henshall, Jeffrey Ovall and Ray
+      McInerney
+    phone:
+    - 202-551-7900
   reading_rooms:
   - - Conventional and Electronic Reading Rooms
     - http://www.sec.gov/foia/efoiapg.htm
@@ -58,7 +67,9 @@ departments:
       simple_highest_days: '786'
       simple_lowest_days: less than 1
       simple_median_days: '5'
-  service_center: 'Phone: (202) 551-7900'
+  service_center:
+    phone:
+    - 202-551-7900
   top_level: false
   website: http://www.sec.gov/foia.shtml
 description: The mission of the U.S. Securities and Exchange Commission is to protect

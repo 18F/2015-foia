@@ -1,20 +1,28 @@
 abbreviation: ONHIR
 departments:
 - address:
-  - Scott Kuhr
-  - Freedom of Information/Privacy Act Officer
-  - P.O. Box KK
-  - 201 E. Birch Avenue
-  - Flagstaff, AZ 86002
+    address_lines:
+    - Scott Kuhr
+    - Freedom of Information/Privacy Act Officer
+    - P.O. Box KK
+    city: Flagstaff
+    state: AZ
+    street: 201 E. Birch Avenue
+    zip: '86002'
   emails:
   - eligilility@onhir.gov
   fax: 978-774-1977
   misc:
-    Freedom of Information/Privacy Act Officer: 'Scott Kuhr, Phone: (928) 779-2727,
-      ext. 145'
+    Freedom of Information/Privacy Act Officer:
+      name: Scott Kuhr
+      phone:
+      - 928-779-2727 x145
   name: Office of Navajo and Hopi Indian Relocation
-  phone: 928-779-2727
-  public_liaison: 'Lawrence A. Ruzzow, Phone: (928) 779-2721'
+  phone: 928-779-2727 x145
+  public_liaison:
+    name: Lawrence A. Ruzzow
+    phone:
+    - 928-779-2721
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -61,7 +69,9 @@ departments:
       simple_highest_days: '37'
       simple_lowest_days: '1'
       simple_median_days: '6'
-  service_center: 'Phone: (928) 779-2727, ext. 145'
+  service_center:
+    phone:
+    - 928-779-2727 x145
   top_level: false
   website: http://onhir.gov/
 description: The Office of Navajo and Hopi Indian Relocation (ONHIR) was established
