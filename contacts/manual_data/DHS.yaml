@@ -27,11 +27,35 @@ departments:
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
 - name: Office of the Inspector General
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
-- name: Office of Intelligence & Analysis
+- address:
+    address_lines:
+    - 'FOIA: Office of Intelligence & Analysis'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Office of Intelligence & Analysis
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
-- name: Directorate for National Protection and Programs
+- address:
+    address_lines:
+    - 'FOIA: Directorate for National Protection and Programs'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Directorate for National Protection and Programs
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
-- name: Office of Operations Coordination and Planning
+- address:
+    address_lines:
+    - 'FOIA: Office of Operations Coordination and Planning'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Office of Operations Coordination and Planning
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
 - name: Science & Technology Directorate
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form

@@ -1261,7 +1261,15 @@ departments:
     - 202-254-4001
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0788.shtm
-- emails:
+- address:
+    address_lines:
+    - 'FOIA: Office of Intelligence & Analysis'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  emails:
   - I&AFOIA@hq.dhs.gov
   fax: 202-612-1936
   foia_officer:
@@ -1346,7 +1354,15 @@ departments:
     - 202-282-8191
   top_level: false
   website: http://www.dhs.gov/xfoia/gc_1294073392661.shtm
-- emails:
+- address:
+    address_lines:
+    - 'FOIA: Directorate for National Protection and Programs'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  emails:
   - NPPD.FOIA@dhs.gov
   fax: 703-235-2052
   foia_officer:
@@ -1436,7 +1452,15 @@ departments:
     - 703-235-2211
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
-- emails:
+- address:
+    address_lines:
+    - 'FOIA: Office of Operations Coordination and Planning'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  emails:
   - FOIAOPS@DHS.GOV
   fax: 202-282-9811
   foia_officer:

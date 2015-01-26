@@ -209,6 +209,14 @@ departments:
   top_level: false
   website: http://oig.hhs.gov/foia/
 - abbreviation: ACL
+  address:
+    address_lines:
+    - FOIA Requester Service Center
+    - Administration for Community Living
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20201'
   description: ACL brings together the efforts and achievements of the Administration
     on Aging, the Administration on Intellectual and Developmental Disabilities, and
     the HHS Office on Disability to serve as the Federal agency responsible for increasing
