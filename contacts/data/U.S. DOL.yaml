@@ -1654,7 +1654,16 @@ departments:
     - 202-693-4700
   top_level: false
   website: http://www.dol.gov/vets/foia/
-- keywords:
+- address:
+    address_lines:
+    - 'FOIA: Wage and Hour Division'
+    - U. S. Department of Labor
+    - Room S-3201
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, N.W.
+    zip: '20210'
+  keywords:
   - Administrative practice and procedure
   - Agricultural commodities
   - Agriculture

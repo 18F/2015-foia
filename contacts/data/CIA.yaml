@@ -1,6 +1,14 @@
 abbreviation: CIA
 departments:
-- fax: 703-613-3007
+- address:
+    address_lines:
+    - Information and Privacy Coordinator
+    - Central Intelligence Agency
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20505'
+  fax: 703-613-3007
   name: Central Intelligence Agency
   phone: 703-613-1287
   public_liaison:

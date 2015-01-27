@@ -1437,6 +1437,8 @@ departments:
   phone: 505-816-1645
   public_liaison:
     name: Veronica Herkshan
+    phone:
+    - 505-816-1645
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center:
     phone:

@@ -20,3 +20,8 @@ departments:
 - name: Office of Natural Resources Revenue
   emails:
   - os_foia@ios.doi.gov
+- name: Office of the Special Trustee
+  public_liaison:
+    name: Veronica Herkshan
+    phone:
+      - 505-816-1645

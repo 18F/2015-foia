@@ -33,6 +33,16 @@ departments:
 - name: Office of Federal Contract Compliance Programs
   emails:
   - foiarequests@dol.gov
+- address:
+    address_lines:
+    - 'FOIA: Wage and Hour Division'
+    - U. S. Department of Labor
+    - Room S-3201
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, N.W.
+    zip: '20210'
+  name: Wage and Hour Division
 - name: Women's Bureau
   emails:
   - foiarequests@dol.gov

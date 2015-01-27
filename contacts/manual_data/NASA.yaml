@@ -28,8 +28,15 @@ departments:
   request_form: http://socialforms.nasa.gov/foia
 - name: Langley Research Center
   request_form: http://socialforms.nasa.gov/foia
-- name: Stennis Space Center
+  address:
+    address_lines:
+    - 'FOIA: Sally Blibo'
+    city: Stennis Space Center
+    state: MS
+    street: 'Building 1100 room 304D'
+    zip: '39529'
   emails:
   - ssc-foia@nasa.gov
+  name: Stennis Space Center
   request_form: http://socialforms.nasa.gov/foia
 name: National Aeronautics and Space Administration

@@ -1095,7 +1095,14 @@ departments:
     - 228-813-6174
   top_level: true
   website: http://www.nssc.nasa.gov/foia/
-- emails:
+- address:
+    address_lines:
+    - 'FOIA: Sally Blibo'
+    city: Stennis Space Center
+    state: MS
+    street: Building 1100 room 304D
+    zip: '39529'
+  emails:
   - ssc-foia@nasa.gov
   fax: 228-668-7499
   foia_officer:

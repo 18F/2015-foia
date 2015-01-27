@@ -1,5 +1,13 @@
 departments:
-- name: Central Intelligence Agency
+- address:
+    address_lines:
+    - Information and Privacy Coordinator
+    - Central Intelligence Agency
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20505'
+  name: Central Intelligence Agency
   request_form: http://www.foia.cia.gov/foia_request/form
 keywords:
 - spies

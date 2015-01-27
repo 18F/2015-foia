@@ -1,5 +1,13 @@
 departments:
-- description: ACL brings together the efforts and achievements of the Administration
+- address:
+    address_lines:
+    - FOIA Requester Service Center
+    - Administration for Community Living
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20201'
+  description: ACL brings together the efforts and achievements of the Administration
     on Aging, the Administration on Intellectual and Developmental Disabilities, and
     the HHS Office on Disability to serve as the Federal agency responsible for increasing
     access to community supports, while focusing attention and resources on the unique

@@ -1,6 +1,15 @@
 abbreviation: DNI
 departments:
-- emails:
+- address:
+    address_lines:
+    - Jennifer L. Hudson
+    - Director, Information Management Division
+    - Office of the Director of National Intelligence
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20511'
+  emails:
   - dni-foia@dni.gov
   fax: 703-874-8910
   misc:
