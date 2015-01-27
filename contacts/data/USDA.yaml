@@ -1245,7 +1245,9 @@ departments:
   name: National Finance Center
   phone: 504-426-0168
   public_liaison:
-    name: Patricia Blumenthal
+    name: Shri Alsobrook, Sandy Francois
+    phone:
+    - 504-426-0327
   reading_rooms:
   - - Click here to access the NFC Electronic Reading Room
     - https://www.nfc.usda.gov/FOIA/foiaereading.html
