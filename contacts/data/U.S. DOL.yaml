@@ -565,6 +565,9 @@ departments:
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
+  description: Job Corps. Is a no-cost education and vocational training program that
+    helps young people (ages 16 to 24) improve the quality of their lives through
+    vocational and academic training.
   emails:
   - foiarequests@dol.gov
   fax: 202-693-2844
@@ -605,6 +608,7 @@ departments:
     phone:
     - 202-693-5500
   top_level: true
+  usa_id: '48069'
   website: http://www.jobcorps.gov/foia.aspx
 - abbreviation: MSHA
   address:

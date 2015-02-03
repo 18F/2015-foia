@@ -26,10 +26,6 @@ def extract_acronym(usa_name):
     acronym_list = ACRONYM_FINDER.findall(usa_name)
     if len(acronym_list) == 1:
         return acronym_list[0]
-    elif len(acronym_list) == 0:
-        return ""
-    else:
-        return "Massive Error"
 
 
 def load_all_usa_data():
@@ -42,7 +38,7 @@ def load_all_usa_data():
 
             data[office['Name']] = {
                 'description': office.get('Description', 'No Description'),
-                'id': office.get('Id', 'No Id'),
+                'id': office.get('Id'),
                 'acronym_usa_contacts': extract_acronym(office['Name'])}
     return data
 
@@ -92,10 +88,10 @@ def update_dict(old_dict, new_dict):
     """Merge the data in the yaml files with the merged data
     overwrites ids, acronyms, but not descriptions."""
 
-    if new_dict[old_dict['name']]['usa_id'] != '':
+    if new_dict[old_dict['name']]['usa_id']:
         old_dict['usa_id'] = new_dict[old_dict['name']]['usa_id']
 
-    if new_dict[old_dict['name']]['acronym'] != "None":
+    if new_dict[old_dict['name']]['acronym']:
         old_dict['abbreviation'] =\
             new_dict[old_dict['name']]['acronym']
 

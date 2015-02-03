@@ -413,6 +413,8 @@ departments:
     state: GA
     street: PO Box 621506
     zip: 30362-3006
+  description: The Internal Revenue Service (IRS) administers and enforces U.S. federal
+    tax laws.
   fax: 877-807-9215
   keywords:
   - Accounting
@@ -499,6 +501,7 @@ departments:
     phone:
     - 202-317-3475
   top_level: true
+  usa_id: '48068'
   website: http://www.irs.gov/uac/IRS-Freedom-of-Information
 - abbreviation: ''
   address:

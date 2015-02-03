@@ -1749,6 +1749,9 @@ departments:
     state: VA
     street: 601 S. 12th Street
     zip: 22202-4220
+  description: The TSA can assist you with questions or concerns about travel tips,
+    permitted and prohibited items, and information on filing a claim for items that
+    were damaged or lost during a TSA screening.
   emails:
   - FOIA@tsa.dhs.gov
   fax: 571-227-1406
@@ -1891,6 +1894,7 @@ departments:
     - 866-364-2872
     - 571-227-2300
   top_level: true
+  usa_id: '48143'
   website: http://www.tsa.gov/research-center/freedom-information-act-foia
 - address:
     address_lines:

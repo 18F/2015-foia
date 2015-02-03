@@ -127,6 +127,7 @@ departments:
     state: DC
     street: 1000 Air Force Pentagon
     zip: 20330-1000
+  description: The Air Force defends the United States in the air and space.
   emails: []
   fax: 703-696-7273
   keywords:
@@ -254,6 +255,7 @@ departments:
     phone:
     - 703-696-2735
   top_level: true
+  usa_id: '49080'
   website: http://www.foia.af.mil/
 - address:
     address_lines:
@@ -265,6 +267,9 @@ departments:
     state: VA
     street: 7701 Telegraph Road, Room 150
     zip: 22315-3905
+  description: Focusing on land operations, the U.S. Army organizes, trains, and equips
+    active duty and Reserve forces to preserve the peace, security, and defense of
+    the United States.
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
@@ -399,6 +404,7 @@ departments:
     phone:
     - 703-428-6238
   top_level: true
+  usa_id: '49096'
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
     address_lines:
@@ -409,6 +415,7 @@ departments:
     state: DC
     street: 2000 Navy Pentagon
     zip: 20350-2000
+  description: The Navy's primary mission is to defend the United States.
   fax: 202-685-6580
   keywords:
   - Administrative practice and procedure
@@ -546,6 +553,7 @@ departments:
     phone:
     - 202-685-0412
   top_level: true
+  usa_id: '49561'
   website: https://foia.navy.mil
 - address:
     address_lines:
@@ -556,6 +564,9 @@ departments:
     state: DC
     street: 3000 Marine Corps Pentagon
     zip: 20350-3000
+  description: A part of the Navy, the Marine Corps is the only branch of the armed
+    services specifically tasked by Congress to be able to fight on land, at sea,
+    or in the air.
   fax: 703-614-6287
   misc:
     Head, FOIA/PA:
@@ -580,6 +591,7 @@ departments:
     phone:
     - 703-614-4008
   top_level: true
+  usa_id: '49444'
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
     address_lines:
@@ -1602,6 +1614,8 @@ departments:
     state: VA
     street: 7500 GEOINT Drive
     zip: '22150'
+  description: The National Geospatial-Intelligence Agency provides location-based
+    intelligence in support of national security.
   emails:
   - foianga@nga.mil
   fax: 571-557-3130
@@ -1682,6 +1696,7 @@ departments:
     phone:
     - 571-557-4141
   top_level: true
+  usa_id: '49504'
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - abbreviation: ''
   address:
