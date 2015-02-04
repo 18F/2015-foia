@@ -1,6 +1,6 @@
 /contacts/html
 /contacts/xls
-/contacts/fr.sqlite
+*.sqlite
 /documents/data
 .DS_Store
 __pycache__

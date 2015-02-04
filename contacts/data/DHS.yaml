@@ -49,8 +49,9 @@ departments:
     state: MO
     street: P.O. Box 648010
     zip: 64064-8010
-  description: U.S. Citizenship and Immigration Services oversees immigration to the
-    United States.
+  description: The U.S. Citizenship and Immigration Services is responsible for processing
+    immigration and naturalization applications and establishing policies regarding
+    immigration services.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
@@ -164,7 +165,7 @@ departments:
     phone:
     - 816-350-5521
   top_level: true
-  usa_id: '49112'
+  usa_id: '55897'
   website: http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=34139c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=34139c7755cb9010VgnVCM10000045f3d6a1RCRD
 - address:
     address_lines:
@@ -1740,7 +1741,8 @@ departments:
   top_level: true
   usa_id: '49660'
   website: http://www.secretservice.gov/foia.shtml
-- address:
+- abbreviation: TSA
+  address:
     address_lines:
     - Yvonne Coates
     - FOIA Officer
@@ -1923,10 +1925,10 @@ departments:
     - 202-295-5454
   top_level: false
   website: http://www.dhs.gov/files/programs/usv.shtm
-description: 'The Department of Homeland Security has a vital mission: to secure the
-  nation from the many threats we face. This requires the dedication of more than
-  230,000 employees in jobs that range from aviation and border security to emergency
-  response, from cybersecurity analyst to chemical facility inspector'
+description: Formed in 2002 from the combination of 22 departments and agencies, the
+  Department of Homeland Security works to improve the security of the United States.
+  The Department's work includes customs, border, and immigration enforcement; emergency
+  response to natural and manmade disasters; antiterrorism work; and cybersecurity.
 emails:
 - foia@hq.dhs.gov
 fax: 202-343-4011

@@ -779,7 +779,8 @@ departments:
   top_level: true
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
-- address:
+- abbreviation: USGS
+  address:
     address_lines:
     - Brian May
     - FOIA Contact
@@ -788,6 +789,10 @@ departments:
     state: VA
     street: 12201 Sunrise Valley Drive Room 2B116
     zip: '20192'
+  description: The U.S. Geological Survey is the nation's largest water, earth, and
+    biological science and civilian mapping agency. It collects, monitors, analyzes,
+    and provides scientific understanding of natural resource conditions, issues,
+    and problems.
   emails:
   - foia@usgs.gov
   fax: 703-648-7199
@@ -862,6 +867,7 @@ departments:
     phone:
     - 703-648-7196
   top_level: false
+  usa_id: '49343'
   website: http://www.usgs.gov/foia/
 - abbreviation: ''
   address:
@@ -1116,6 +1122,9 @@ departments:
     state: CO
     street: PO Box 25165
     zip: 80225-0165
+  description: The Office of Natural Resources Revenue manages the revenues from energy
+    and mineral leases for the use of public natural resources on the Outer Continental
+    Shelf and onshore Federal and American Indian lands.
   emails:
   - os_foia@ios.doi.gov
   fax: 303-445-4288
@@ -1176,6 +1185,7 @@ departments:
     phone:
     - 303-231-3078
   top_level: false
+  usa_id: '85148'
   website: http://www.onrr.gov/FOIA/
 - address:
     address_lines:
@@ -1445,9 +1455,10 @@ departments:
     - 505-816-1645
   top_level: false
   website: http://www.ost.doi.gov/
-description: The U.S. Department of the Interior protects America´s natural resources
-  and heritage, honors our cultures and tribal communities, and supplies the energy
-  to power our future.
+description: The Department of the Interior manages public lands and minerals, national
+  parks, and wildlife refuges and upholds Federal trust responsibilities to Indian
+  tribes and Native Alaskans. Additionally, Interior is responsible for endangered
+  species conservation and other environmental conservation efforts.
 keywords:
 - Accounting
 - Administrative practice and procedure

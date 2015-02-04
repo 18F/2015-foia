@@ -1,48 +1,100 @@
-from unittest import TestCase
-
 import layer_with_usa_contacts as usa_layer
+import os
+
+from unittest import TestCase
 
 
 class USALayerTests(TestCase):
-    def test_float_to_int_str(self):
-        """should convert input to int (floor) then string when possible"""
-        self.assertEqual('32', usa_layer.float_to_int_str(32.32))
-        self.assertEqual('32', usa_layer.float_to_int_str(32.99))
-        self.assertEqual(None, usa_layer.float_to_int_str(None))
-        self.assertEqual('23', usa_layer.float_to_int_str("23.2"))
-        self.assertEqual('23.2x', usa_layer.float_to_int_str("23.2x"))
 
-    def test_extract_acronym(self):
-        """extract one acroym, if it has two return 'massive error'"""
+    def test_clean_name(self):
+        name = 'U.S. Africa Command'
+        exp_name = 'Africa Command'
+        self.assertEqual(exp_name, usa_layer.clean_name(name))
 
-        self.assertEqual(
-            "DOS", usa_layer.extract_acronym('Department of State (DOS)'))
-        self.assertEqual(
-            "", usa_layer.extract_acronym("Random Office"))
-        self.assertEqual(
-            "Massive Error",
-            usa_layer.extract_acronym("Random Office (RO) (RO)"))
+    def test_extract_abbreviation(self):
+
+        # No abbrivation
+        name = "Test Agency"
+        exp_name, exp_abb = usa_layer.extract_abbreviation(name)
+        self.assertEqual(exp_name, name)
+        self.assertEqual(exp_abb, None)
+
+        # With abbrivation
+        name = "Test Agency (TA)"
+        exp_name, exp_abb = usa_layer.extract_abbreviation(name)
+        self.assertEqual(exp_name, "Test Agency (TA)")
+        self.assertEqual(exp_abb, "TA")
+
+    def test_transform_json_data(self):
+        """ Checks that json data is transformed correctly """
+
+        data = [
+            {
+                'Name': 'Test Agency',
+                'Description': 'Des',
+                'Id': 1,
+                'Language': 'en',
+            }
+        ]
+        expected_output = {
+            'Test Agency': {'description': 'Des', 'usa_id': 1},
+        }
+        self.assertEqual(usa_layer.transform_json_data(data), expected_output)
+
+        # Testing Non-english records
+        data = [
+            {
+                'Name': 'Test Agency',
+                'Description': 'Des',
+                'Id': 1,
+                'Language': 'sp',
+            }
+        ]
+        expected_output = {}
+        self.assertEqual(usa_layer.transform_json_data(data), expected_output)
+
+        # Testing Agency with Abbreviation
+        data = [
+            {
+                'Name': 'Test Agency (TA)',
+                'Description': 'Des',
+                'Id': 1,
+                'Language': 'en',
+            }
+        ]
+        expected_output = {
+            'Test Agency': {
+                'abbreviation': 'TA', 'description': 'Des', 'usa_id': 1},
+        }
+        self.assertEqual(usa_layer.transform_json_data(data), expected_output)
 
     def test_update_dict(self):
-        """ Updates the new dictionary with ids, abbreviation, description
-        and forms, but will not overwrite any descriptions """
 
-        new_data = {
-            'Deparment A': {'usa_id': '1', 'acronym': 'A'},
-            'Deparment B': {
-                'usa_id': '2', 'acronym': 'B',
-                'description': 'next des.'}}
+        new_data = {'usa_id': '1'}
+        old_data = {}
+        expected_data = {'usa_id': '1'}
 
-        old_data = {'name': 'Deparment A', 'description': "old desc."}
-        old_data_expected = {
-            'name': 'Deparment A', 'description': "old desc.",
-            'usa_id': '1', 'abbreviation': 'A'}
-        old_data, new_data = usa_layer.update_dict(old_data, new_data)
-        self.assertEqual(old_data_expected, old_data)
+        self.assertEqual(
+            usa_layer.update_dict(old_data=old_data, new_data=new_data),
+            expected_data
+        )
 
-        old_data = {'name': 'Deparment B'}
-        old_data_expected = {
-            'name': 'Deparment B', 'description': "next des.",
-            'usa_id': '2', 'abbreviation': 'B'}
-        old_data, new_data = usa_layer.update_dict(old_data, new_data)
-        self.assertEqual(old_data_expected, old_data)
+        new_data.update({'description': 'des'})
+        expected_data.update({'description': 'des'})
+        self.assertEqual(
+            usa_layer.update_dict(old_data=old_data, new_data=new_data),
+            expected_data
+        )
+
+        new_data.update({'abbreviation': 'A'})
+        expected_data.update({'abbreviation': 'A'})
+        self.assertEqual(
+            usa_layer.update_dict(old_data=old_data, new_data=new_data),
+            expected_data
+        )
+
+    def test_write_yaml(self):
+
+        usa_layer.write_yaml('test_yaml.yaml', {'test_key': 'test_value'})
+        self.assertTrue(os.path.isfile('test_yaml.yaml'))
+        os.remove('test_yaml.yaml')

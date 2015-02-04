@@ -943,6 +943,8 @@ departments:
     state: OR
     street: P.O. Box 3621
     zip: 97208-3621
+  description: The Bonneville Power Administration creates and delivers a reliable
+    power supply to the Pacific Northwest.
   emails:
   - cjmunro@bpa.gov
   fax: 503-230-4019
@@ -1027,6 +1029,7 @@ departments:
     phone:
     - 503-230-7305
   top_level: false
+  usa_id: '49106'
   website: http://www.bpa.gov/news/FOIA/Pages/default.aspx
 - address:
     address_lines:
@@ -1036,6 +1039,8 @@ departments:
     state: GA
     street: 1166 Athens Tech Road
     zip: 30635-6711
+  description: The Southeastern Power Administration markets hydroelectric power generated
+    by federal reservoirs to public entities in the southeastern United States.
   emails:
   - joels@sepa.doe.gov
   fax: 706-213-3884
@@ -1054,6 +1059,7 @@ departments:
     phone:
     - 706-213-3810
   top_level: false
+  usa_id: '49672'
   website: http://www.sepa.doe.gov/overview/?c=8
 - address:
     address_lines:
@@ -1062,6 +1068,8 @@ departments:
     state: OK
     street: One West Third
     zip: '74103'
+  description: The Southwestern Power Administration markets hydroelectric power generated
+    by federal dams to public entities in several states in the south and southwest.
   emails:
   - foia@swpa.gov
   fax: 918-595-6755
@@ -1132,6 +1140,7 @@ departments:
     phone:
     - 918-595-6609
   top_level: false
+  usa_id: '49676'
   website: http://www.swpa.gov/foia-privacyact.aspx
 - address:
     address_lines:
@@ -1142,6 +1151,9 @@ departments:
     state: CO
     street: 12155 West Alameda Parkway
     zip: 80228-8213
+  description: The Western Area Power Administration markets hydroelectric power generated
+    by federal dams and associated services to public entities in the Western United
+    States.
   fax: 720-962-7009
   foia_officer:
     name: Patricia S. Land
@@ -1214,6 +1226,7 @@ departments:
     phone:
     - 720-962-7014
   top_level: false
+  usa_id: '49740'
   website: http://www.wapa.gov/FOIA/default.htm
 - address:
     address_lines:
@@ -1370,10 +1383,9 @@ departments:
     - 412-386-6167
   top_level: false
   website: http://www.netl.doe.gov/home/foia
-description: The Department of Energy's overarching mission is to advance the national,
-  economic, and energy security of the United States; to promote scientific and technological
-  innovation in support of that mission; and to ensure the environmental cleanup of
-  the national nuclear weapons complex.
+description: The Department of Energy manages the United States' nuclear infrastructure
+  and administers the country's energy policy. The Department of Energy also funds
+  scientific research in the field.
 keywords:
 - Accounting
 - Administrative practice and procedure
