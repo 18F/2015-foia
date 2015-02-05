@@ -10,6 +10,10 @@ departments:
     state: DC
     street: 1650 Pennsylvania, NW
     zip: '20504'
+  description: The Office of Science and Technology Policy advises the president on
+    the effects of science and technology on domestic and international affairs. It
+    also develops, coordinates, and implements science and technology policies and
+    budgets.
   fax: 202-395-1224
   name: Office of Science and Technology Policy
   phone: 202-456-6125
@@ -103,6 +107,7 @@ departments:
     phone:
     - 202-456-6125
   top_level: false
+  usa_id: '49590'
   website: http://www.whitehouse.gov/administration/eop/ostp/library/foia
 description: The Office of Science and Technology Policy advises the president on
   the effects of science and technology on domestic and international affairs. It

@@ -9,6 +9,8 @@ departments:
     state: DC
     street: 633 Indiana Avenue, NW
     zip: 20004-2902
+  description: The Court Services and Offender Supervision Agency provides supervision
+    of adults on parole, probation, and supervised release in the District of Columbia.
   emails:
   - Renee.Barley@csosa.gov
   fax: 202-220-5350
@@ -66,6 +68,7 @@ departments:
     phone:
     - 202-220-5300
   top_level: false
+  usa_id: '49191'
   website: http://www.csosa.gov/about/foia/overview.aspx
 description: The Court Services and Offender Supervision Agency provides supervision
   of adults on parole, probation, and supervised release in the District of Columbia.

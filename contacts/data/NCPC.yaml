@@ -9,6 +9,10 @@ departments:
     state: DC
     street: 401 9th Street, NW
     zip: '20004'
+  description: The National Capital Planning Commission crafts long-range plans and
+    policies for the National Capital Region. The Commission provides building and
+    zoning advice to Washington DC and the surrounding area, and approves various
+    federal construction plans.
   emails:
   - anne.schuyler@ncpc.gov
   fax: 202-482-7272
@@ -65,6 +69,7 @@ departments:
     phone:
     - 202-482-7227
   top_level: false
+  usa_id: '52633'
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
 description: The National Capital Planning Commission crafts long-range plans and
   policies for the National Capital Region. The Commission provides building and zoning

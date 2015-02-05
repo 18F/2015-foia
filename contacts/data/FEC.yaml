@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 999 E Street, NW
     zip: '20463'
+  description: The Federal Election Commission enforces federal campaign finance laws,
+    including monitoring donation prohibitions and limits and overseeing public funding
+    for presidential campaigns.
   emails:
   - FOIA@fec.gov
   fax: 202-219-1043
@@ -102,6 +105,7 @@ departments:
     phone:
     - 202-694-1650
   top_level: false
+  usa_id: '52607'
   website: http://www.fec.gov/press/foia.shtml
 description: The Federal Election Commission enforces federal campaign finance laws,
   including monitoring donation prohibitions and limits and overseeing public funding

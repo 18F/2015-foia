@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1100 Pennsylvania Avenue, NW
     zip: '20506'
+  description: A grant-making organization, to date the National Endowment for the
+    Arts has awarded more than $4 billion to support artistic excellence, creativity,
+    and innovation for the benefit of individuals and communities.
   emails:
   - foia@arts.gov
   fax: 202-682-5572
@@ -81,6 +84,7 @@ departments:
     phone:
     - 202-682-5418
   top_level: false
+  usa_id: '52634'
   website: http://www.arts.gov/about/FOIA/index.html
 description: A grant-making organization, to date the National Endowment for the Arts
   has awarded more than $4 billion to support artistic excellence, creativity, and

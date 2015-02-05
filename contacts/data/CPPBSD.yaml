@@ -9,6 +9,9 @@ departments:
     state: VA
     street: 1401 S. Clark St
     zip: 22202-4302
+  description: The AbilityOne Commission creates job opportunities for people who
+    are blind or have other significant disabilities in the manufacture and delivery
+    of products and services to the Federal Government.
   emails:
   - FOIA@AbilityOne.gov
   - blineback@abilityone.gov
@@ -102,6 +105,7 @@ departments:
     phone:
     - 703-603-7740
   top_level: false
+  usa_id: '49157'
   website: http://www.abilityone.gov/laws_and_regulations/foia.html
 description: The AbilityOne Commission creates job opportunities for people who are
   blind or have other significant disabilities in the manufacture and delivery of

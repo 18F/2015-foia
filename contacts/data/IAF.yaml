@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1331 Pennsylvania, NW
     zip: '20004'
+  description: The Inter-American Foundation provides grant support to Latin American
+    and Carribean grass-roots groups and non-governmental organizations with creative
+    self-help ideas.
   emails:
   - foia@iaf.gov
   misc:
@@ -92,6 +95,7 @@ departments:
     phone:
     - 202-683-7117
   top_level: false
+  usa_id: '49404'
   website: http://www.iaf.gov/index.aspx?page=22
 description: The Inter-American Foundation provides grant support to Latin American
   and Carribean grass-roots groups and non-governmental organizations with creative

@@ -1,0 +1,194 @@
+abbreviation: AMTRAK
+departments:
+- abbreviation: AMTRAK
+  address:
+    address_lines:
+    - Sharron H. Hawkins
+    - FOIA Officer
+    city: Washington
+    state: DC
+    street: 60 Massachusetts Avenue, NE
+    zip: '20002'
+  description: Amtrak, the National Railroad Passenger Corporation, provides intercity
+    rail passenger service.
+  emails:
+  - foiarequests@amtrak.com
+  fax: 202-906-3285
+  foia_officer:
+    name: Sharron H. Hawkins
+    phone:
+    - 202-906-3741
+  name: AMTRAK (National Railroad Passenger Corporation)
+  phone: 202-906-3741
+  public_liaison:
+    name: Sharron H. Hawkins
+    phone:
+    - 202-906-3740
+  request_time_stats:
+    '2008':
+      complex_average_days: '27'
+      complex_highest_days: '228'
+      complex_lowest_days: less than 1
+      complex_median_days: '14'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '10'
+      simple_average_days: '10'
+      simple_highest_days: '26'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2009':
+      complex_average_days: '69'
+      complex_highest_days: '311'
+      complex_lowest_days: '15'
+      complex_median_days: '30'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '10'
+      simple_average_days: '23'
+      simple_highest_days: '59'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '35'
+      complex_highest_days: '609'
+      complex_lowest_days: '10'
+      complex_median_days: '6'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2011':
+      complex_average_days: '90'
+      complex_highest_days: '725'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      expedited_processing_average_days: '127'
+      expedited_processing_highest_days: '217'
+      expedited_processing_lowest_days: '37'
+      expedited_processing_median_days: '127'
+      simple_average_days: '30'
+      simple_highest_days: '270'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2012':
+      complex_average_days: '104.08'
+      complex_highest_days: '1408'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      expedited_processing_average_days: '9.5'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '9.5'
+      simple_average_days: '7.87'
+      simple_highest_days: '50'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '49.23'
+      complex_highest_days: '539'
+      complex_lowest_days: '1'
+      complex_median_days: '13.5'
+      expedited_processing_average_days: '60.33'
+      expedited_processing_highest_days: '74'
+      expedited_processing_lowest_days: '52'
+      expedited_processing_median_days: '55'
+      simple_average_days: '4.17'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+  service_center:
+    phone:
+    - 202-906-3740
+  top_level: false
+  usa_id: '49084'
+  website: http://www.amtrak.com/servlet/ContentServer/Page/1241267362261/1241267362261
+description: Amtrak, the National Railroad Passenger Corporation, provides intercity
+  rail passenger service.
+name: AMTRAK
+request_time_stats:
+  '2008':
+    complex_average_days: '27'
+    complex_highest_days: '228'
+    complex_lowest_days: less than 1
+    complex_median_days: '14'
+    expedited_processing_average_days: '10'
+    expedited_processing_highest_days: '17'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '10'
+    simple_average_days: '10'
+    simple_highest_days: '26'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'
+  '2009':
+    complex_average_days: '69'
+    complex_highest_days: '311'
+    complex_lowest_days: '15'
+    complex_median_days: '30'
+    expedited_processing_average_days: '10'
+    expedited_processing_highest_days: '20'
+    expedited_processing_lowest_days: '5'
+    expedited_processing_median_days: '10'
+    simple_average_days: '23'
+    simple_highest_days: '59'
+    simple_lowest_days: '1'
+    simple_median_days: '10'
+  '2010':
+    complex_average_days: '35'
+    complex_highest_days: '609'
+    complex_lowest_days: '10'
+    complex_median_days: '6'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '10'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2011':
+    complex_average_days: '90'
+    complex_highest_days: '725'
+    complex_lowest_days: '1'
+    complex_median_days: '28'
+    expedited_processing_average_days: '127'
+    expedited_processing_highest_days: '217'
+    expedited_processing_lowest_days: '37'
+    expedited_processing_median_days: '127'
+    simple_average_days: '30'
+    simple_highest_days: '270'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2012':
+    complex_average_days: '104.08'
+    complex_highest_days: '1408'
+    complex_lowest_days: '1'
+    complex_median_days: '31'
+    expedited_processing_average_days: '9.5'
+    expedited_processing_highest_days: '19'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '9.5'
+    simple_average_days: '7.87'
+    simple_highest_days: '50'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2013':
+    complex_average_days: '49.23'
+    complex_highest_days: '539'
+    complex_lowest_days: '1'
+    complex_median_days: '13.5'
+    expedited_processing_average_days: '60.33'
+    expedited_processing_highest_days: '74'
+    expedited_processing_lowest_days: '52'
+    expedited_processing_median_days: '55'
+    simple_average_days: '4.17'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+usa_id: '49084'

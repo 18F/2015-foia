@@ -9,6 +9,10 @@ departments:
     state: DC
     street: 625 Indiana Avenue, NW
     zip: '20004'
+  description: The Defense Nuclear Facilities Safety Board reviews the content and
+    implementation of health and safety standards at Department of Energy Defense
+    Nuclear Facilities. The board also makes recommendations to the President and
+    Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities.
   emails:
   - andrewt@dnfsb.gov
   foia_officer:
@@ -39,6 +43,7 @@ departments:
     phone:
     - 202-694-7088
   top_level: false
+  usa_id: '52601'
   website: http://www.dnfsb.gov/foia-reading-room
 description: The Defense Nuclear Facilities Safety Board reviews the content and implementation
   of health and safety standards at Department of Energy Defense Nuclear Facilities.

@@ -1,6 +1,7 @@
 abbreviation: NSF
 departments:
-- address:
+- abbreviation: NSF
+  address:
     address_lines:
     - Sandra Evans
     - FOIA Officer
@@ -9,6 +10,8 @@ departments:
     state: VA
     street: 4201 Wilson Boulevard
     zip: '22230'
+  description: The National Science Foundation supports research and education across
+    all fields of science and technology, primarily through grants.
   emails:
   - foia@nsf.gov
   fax: 703-292-9041
@@ -26,6 +29,7 @@ departments:
     phone:
     - 703-292-8060
   top_level: false
+  usa_id: '52640'
   website: http://www.nsf.gov/policies/foia.jsp
 description: The National Science Foundation supports research and education across
   all fields of science and technology, primarily through grants.

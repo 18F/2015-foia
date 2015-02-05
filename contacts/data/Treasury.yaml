@@ -405,7 +405,8 @@ departments:
     - 202-874-5602
   top_level: false
   website: http://www.fms.treas.gov/foia/index.html
-- address:
+- abbreviation: IRS
+  address:
     address_lines:
     - FOIA Contact
     - HQ FOIA Stop 211

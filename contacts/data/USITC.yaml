@@ -9,6 +9,11 @@ departments:
     state: DC
     street: 500 E Street, SW
     zip: '20436'
+  description: The International Trade Commission is a quasi-judicial body that investigates
+    whether or not, and to what extent, an unfair trade practice harms U.S. businesses.
+    When unfair trade practices are found to harm U.S. businesses, the Commission
+    may implement corrective measures. The Commission also provides the President
+    and Congress impartial information on international trade to inform trade policy.
   emails:
   - jackie.gross@usitc.gov
   fax: 202-205-2104
@@ -109,6 +114,7 @@ departments:
     phone:
     - 202-205-2595
   top_level: false
+  usa_id: '49712'
   website: http://www.usitc.gov/secretary/foia/index.htm
 description: The International Trade Commission is a quasi-judicial body that investigates
   whether or not, and to what extent, an unfair trade practice harms U.S. businesses.

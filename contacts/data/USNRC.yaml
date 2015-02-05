@@ -1,6 +1,7 @@
 abbreviation: NRC
 departments:
-- address:
+- abbreviation: NRC
+  address:
     address_lines:
     - Stephanie A. Blaney
     - Acting FOIA Officer
@@ -8,6 +9,8 @@ departments:
     state: DC
     street: Mail Stop T5-F09
     zip: 20555-0001
+  description: An independent agency, the Nuclear Regulatory Commission regulates
+    commercial nuclear power plants and other uses of nuclear materials.
   emails:
   - FOIA.resource@nrc.gov
   fax: 301-415-5130
@@ -105,6 +108,7 @@ departments:
     phone:
     - 301-415-7169
   top_level: false
+  usa_id: '52645'
   website: http://www.nrc.gov/reading-rm/foia/foia-privacy.html
 description: An independent agency, the Nuclear Regulatory Commission regulates commercial
   nuclear power plants and other uses of nuclear materials.

@@ -9,6 +9,10 @@ departments:
     state: DC
     street: 490 L´Enfant Plaza, SW
     zip: '20594'
+  description: The National Transportation Safety Board investigates every civil aviation
+    accident in the U.S. and significant accidents in other modes of transporation.
+    Based on their investigative findings and special studies, the board makes recommendations
+    aimed at preventing future accidents.
   emails:
   - foia@ntsb.gov
   fax: 240-752-6257
@@ -63,6 +67,7 @@ departments:
     phone:
     - 202-314-6540
   top_level: false
+  usa_id: '52641'
   website: http://www.ntsb.gov/foia/index.html
 description: The National Transportation Safety Board investigates every civil aviation
   accident in the U.S. and significant accidents in other modes of transporation.

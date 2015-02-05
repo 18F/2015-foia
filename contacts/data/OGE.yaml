@@ -9,6 +9,8 @@ departments:
     state: DC
     street: 1201 New York Avenue, NW
     zip: 20005-3917
+  description: The Office of Government Ethics provides oversight, policy, and guidance
+    to the Executive Branch regarding ethics laws and policies.
   emails:
   - usoge@oge.gov
   fax: 202-482-9237
@@ -92,6 +94,7 @@ departments:
     phone:
     - 202-482-9267
   top_level: false
+  usa_id: '52646'
   website: http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/
 description: The Office of Government Ethics provides oversight, policy, and guidance
   to the Executive Branch regarding ethics laws and policies.

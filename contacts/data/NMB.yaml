@@ -9,6 +9,8 @@ departments:
     state: DC
     street: 1301 K Street, NW
     zip: '20005'
+  description: The National Mediation Board facilitates the resolution of labor-management
+    disputes in the rail and airline industries.
   emails: []
   fax: 202-692-5085
   misc:
@@ -98,6 +100,7 @@ departments:
     phone:
     - 202-692-5040
   top_level: false
+  usa_id: '49526'
   website: http://www.nmb.gov/press-and-contacts/foia/foia-designations/
 description: The National Mediation Board facilitates the resolution of labor-management
   disputes in the rail and airline industries.

@@ -9,6 +9,8 @@ departments:
     state: DC
     street: P.O. Box 2875
     zip: '20011'
+  description: The Gulfport and Washington campuses of the Armed Forces Retirement
+    Home are retirement centers for veterans of the U.S. military.
   emails:
   - Pebbles.Young@AFRH.Gov
   fax: 202-541-7506
@@ -54,6 +56,7 @@ departments:
     phone:
     - 202-541-7566
   top_level: false
+  usa_id: '49093'
   website: https://www.afrh.gov/afrh/foia.htm
 description: The Gulfport and Washington campuses of the Armed Forces Retirement Home
   are retirement centers for veterans of the U.S. military.

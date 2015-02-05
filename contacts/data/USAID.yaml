@@ -1,6 +1,7 @@
 abbreviation: USAID
 departments:
-- address:
+- abbreviation: USAID
+  address:
     address_lines:
     - Alecia S. Sillah
     - Team Lead, Government Information Specialist (FOIA), Bureau for Management,
@@ -10,6 +11,9 @@ departments:
     state: DC
     street: 1300 Pennsylvania Avenue, N.W.
     zip: 20523-2701
+  description: 'The U.S. Agency for International Development (USAID) is the principal
+    U.S. agency to extend assistance to countries recovering from disaster, trying
+    to escape poverty, and engaging in democratic reforms. '
   emails:
   - FOIA@usaid.gov
   misc:
@@ -85,6 +89,7 @@ departments:
     phone:
     - 202-712-0960
   top_level: false
+  usa_id: '52583'
   website: http://www.usaid.gov/foia-requests
 description: 'The U.S. Agency for International Development (USAID) is the principal
   U.S. agency to extend assistance to countries recovering from disaster, trying to

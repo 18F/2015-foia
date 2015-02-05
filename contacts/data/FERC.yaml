@@ -7,6 +7,9 @@ departments:
     state: DC
     street: 888 First Street, NE
     zip: '20426'
+  description: The Federal Energy Regulatory Commission regulates interstate transmission
+    of electricity, natural gas, and oil, and also regulates hydropower projects and
+    natural gas terminals.
   emails:
   - foia-ceii@ferc.gov
   fax: 202-208-2106
@@ -103,6 +106,7 @@ departments:
     phone:
     - 202-502-6088
   top_level: false
+  usa_id: '52608'
   website: http://www.ferc.gov/legal/ceii-foia.asp
 description: The Federal Energy Regulatory Commission regulates interstate transmission
   of electricity, natural gas, and oil, and also regulates hydropower projects and

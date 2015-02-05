@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 1717 H Street, NW
     zip: '20006'
+  description: The Council of the Inspectors General on Integrity and Efficiency address
+    integrity, economy, and effectiveness issues in the federal government.
   emails:
   - FOIAStaff@cigie.gov
   fax: 202-254-0162
@@ -81,6 +83,7 @@ departments:
     phone:
     - 202-708-1613
   top_level: false
+  usa_id: '91390'
   website: https://www.ignet.gov/content/foia-0
 description: The Council of the Inspectors General on Integrity and Efficiency address
   integrity, economy, and effectiveness issues in the federal government.

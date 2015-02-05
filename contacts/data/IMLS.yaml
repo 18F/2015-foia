@@ -9,6 +9,10 @@ departments:
     state: DC
     street: 1800 M Street, NW
     zip: 20036-5802
+  description: The Institute of Museum and Library Services is a grant making organization
+    that also conducts research and develops policy. The aim of the Institute is to
+    help libraries and museums advance innovation, foster lifelong learning and cultural
+    and civic engagement.
   emails:
   - foia@imls.gov
   fax: 202-653-4625
@@ -106,6 +110,7 @@ departments:
     phone:
     - 202-653-4642
   top_level: false
+  usa_id: '52626'
   website: http://www.imls.gov/about/freedom_of_information_act_foia.aspx
 description: The Institute of Museum and Library Services is a grant making organization
   that also conducts research and develops policy. The aim of the Institute is to

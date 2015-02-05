@@ -7,23 +7,57 @@ from unittest import TestCase
 class USALayerTests(TestCase):
 
     def test_clean_name(self):
-        name = 'U.S. Africa Command'
-        exp_name = 'Africa Command'
-        self.assertEqual(exp_name, usa_layer.clean_name(name))
+        """
+        Ensure that name cleaner removes extraneous elements in
+        order to allow agency/office names to match
+        """
+
+        # Testing name with extraneous elements
+        name_1 = 'U.S. Agency & Office - Headquarters'
+        name_2 = 'Department of Agency and Office'
+        self.assertEqual(
+            usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
+
+        # Testing replacements
+        name_1 = 'AMTRAK'
+        name_2 = 'National Railroad Passenger Corporation'
+        self.assertEqual(
+            usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
+
+        # Testing two names with multiple extraneous elements
+        name_1 = 'Department of the Air Force - Headquarters/ICIO (FOIA)'
+        name_2 = 'U.S. Air Force'
+        self.assertEqual(
+            usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
+
+        # Testing two names with multiple extraneous elements
+        name_1 = 'U.S. Navy'
+        name_2 = 'Department of the Navy - Main Office'
+        self.assertEqual(
+            usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
 
     def test_extract_abbreviation(self):
 
         # No abbrivation
         name = "Test Agency"
-        exp_name, exp_abb = usa_layer.extract_abbreviation(name)
-        self.assertEqual(exp_name, name)
+        exp_abb = usa_layer.extract_abbreviation(name)
         self.assertEqual(exp_abb, None)
 
         # With abbrivation
         name = "Test Agency (TA)"
-        exp_name, exp_abb = usa_layer.extract_abbreviation(name)
-        self.assertEqual(exp_name, "Test Agency (TA)")
+        exp_abb = usa_layer.extract_abbreviation(name)
         self.assertEqual(exp_abb, "TA")
+
+    def test_create_contact_dict(self):
+        """ Checks to make sure contact dict created properly """
+        data = {
+            'Name': 'Test Agency',
+            'Description': 'Des',
+            'Id': 1,
+            'Language': 'en',
+        }
+        expected_dict = {'description': 'Des', 'usa_id': 1}
+        self.assertEqual(usa_layer.create_contact_dict(data), expected_dict)
 
     def test_transform_json_data(self):
         """ Checks that json data is transformed correctly """
@@ -53,7 +87,7 @@ class USALayerTests(TestCase):
         expected_output = {}
         self.assertEqual(usa_layer.transform_json_data(data), expected_output)
 
-        # Testing Agency with Abbreviation
+        # Testing agency with abbreviation
         data = [
             {
                 'Name': 'Test Agency (TA)',
@@ -64,6 +98,16 @@ class USALayerTests(TestCase):
         ]
         expected_output = {
             'Test Agency': {
+                'abbreviation': 'TA', 'description': 'Des', 'usa_id': 1},
+        }
+        self.assertEqual(usa_layer.transform_json_data(data), expected_output)
+
+        # Testing agencies with synonym
+        data[0].update({'Synonym': ['Agency Test']})
+        expected_output = {
+            'Test Agency': {
+                'abbreviation': 'TA', 'description': 'Des', 'usa_id': 1},
+            'Agency Test': {
                 'abbreviation': 'TA', 'description': 'Des', 'usa_id': 1},
         }
         self.assertEqual(usa_layer.transform_json_data(data), expected_output)

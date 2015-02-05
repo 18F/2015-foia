@@ -9,6 +9,8 @@ departments:
     state: DC
     street: 330 Independence Avenue, SW
     zip: '20237'
+  description: The Broadcasting Board of Governors broadcasts news and information
+    about the United States and the world to audiences abroad.
   fax: 202-203-4585
   misc:
     FOIA/Privacy Act Officer, BBG/FOIA/PA Unit:
@@ -69,6 +71,7 @@ departments:
     phone:
     - 202-203-4550
   top_level: false
+  usa_id: '49109'
   website: http://www.bbg.gov/reports/foia/
 description: The Broadcasting Board of Governors broadcasts news and information about
   the United States and the world to audiences abroad.

@@ -1,6 +1,7 @@
 abbreviation: OPM
 departments:
-- address:
+- abbreviation: OPM
+  address:
     address_lines:
     - Trina Porter
     - FOIA Requester Service Center
@@ -9,6 +10,10 @@ departments:
     state: DC
     street: 1900 E Street, NW
     zip: 20415-7900
+  description: OPM manages the civil service of the federal government, coordinates
+    recruiting of new government employees, and manages their health insurance and
+    retirement benefits programs. OPM also provides resources for locating student
+    jobs, summer jobs, scholarships, and internships.
   emails:
   - foia@opm.gov
   fax: 202-418-3251
@@ -92,6 +97,7 @@ departments:
     phone:
     - 202-606-3642
   top_level: false
+  usa_id: '48112'
   website: http://www.opm.gov/information-management/freedom-of-information-act
 description: OPM manages the civil service of the federal government, coordinates
   recruiting of new government employees, and manages their health insurance and retirement

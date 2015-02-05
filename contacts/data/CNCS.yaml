@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 1201 New York Avenue, NW
     zip: '20525'
+  description: The Corporation for National and Community Service encourages and provides
+    community service opportunities, including AmeriCorps and Senior Corps.
   emails:
   - foia@cns.gov
   fax: 202-606-3467
@@ -91,6 +93,7 @@ departments:
     phone:
     - 202-606-6671
   top_level: false
+  usa_id: '52593'
   website: http://www.nationalservice.gov/home/foia/index.asp
 description: The Corporation for National and Community Service encourages and provides
   community service opportunities, including AmeriCorps and Senior Corps.

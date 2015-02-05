@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1331 Pennsylvania, NW
     zip: 20004-1710
+  description: The Federal Mine Safety and Health Review Commission is an independent
+    agency that administers trials and hears appeals of disputes relating directly
+    to the Mine Safety and Health Act of 1977.
   emails:
   - foia@fmshrc.gov
   fax: 202-434-9944
@@ -108,6 +111,7 @@ departments:
     phone:
     - 202-434-9935
   top_level: false
+  usa_id: '52617'
   website: http://www.fmshrc.gov/foia
 description: The Federal Mine Safety and Health Review Commission is an independent
   agency that administers trials and hears appeals of disputes relating directly to

@@ -8,6 +8,9 @@ departments:
     state: DC
     street: 395 E Street, SW
     zip: 20423-0001
+  description: The Surface Transportation Board regulates and decides disputes involving
+    railroad rates, railroad mergers or line sales, and certain other transportation
+    matters.
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
@@ -75,6 +78,7 @@ departments:
     phone:
     - 202-245-0269
   top_level: false
+  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
 description: The Surface Transportation Board regulates and decides disputes involving
   railroad rates, railroad mergers or line sales, and certain other transportation

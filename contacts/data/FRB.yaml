@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 20th & Constitution Avenue, NW
     zip: '20551'
+  description: The Federal Reserve is the central bank of the United States. It formulates
+    and administers credit and monetary policy.
   emails:
   - foirequests@frb.gov
   fax: 202-872-7565
@@ -106,6 +108,7 @@ departments:
     phone:
     - 202-452-3648
   top_level: false
+  usa_id: '49046'
   website: http://www.federalreserve.gov/generalinfo/foia/default.cfm
 description: The Federal Reserve is the central bank of the United States. It formulates
   and administers credit and monetary policy.

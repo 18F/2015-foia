@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 901 New York Avenue, NW
     zip: '20268'
+  description: The Postal Regulatory Commission is responsible for oversight of the
+    U.S. Postal Service, including oversight of rates and services, and ensuring the
+    Postal Service meets all of its legal requirements.
   fax: 202-789-6891
   misc:
     Assistant Secretary:
@@ -106,6 +109,7 @@ departments:
     phone:
     - 202-789-6800
   top_level: false
+  usa_id: '49621'
   website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
 description: The Postal Regulatory Commission is responsible for oversight of the
   U.S. Postal Service, including oversight of rates and services, and ensuring the

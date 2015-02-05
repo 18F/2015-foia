@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 1724 F Street, NW
     zip: '20508'
+  description: Under the Executive Office of the President, the U.S. Trade Representative
+    negotiates with foreign governments to craft trade agreements and resolve disputes.
   fax: 202-395-9458
   name: Office of the United States Trade Representative
   phone: 202-395-3419
@@ -73,6 +75,7 @@ departments:
     phone:
     - 202-395-3419
   top_level: false
+  usa_id: '49724'
   website: http://www.ustr.gov/about-us/reading-room/freedom-information-act-foia
 description: Under the Executive Office of the President, the U.S. Trade Representative
   negotiates with foreign governments to craft trade agreements and resolve disputes.

@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 400 7th Street SW
     zip: '20506'
+  description: The National Endowment for the Humanities funds humanities programs
+    in the United States such as museums, archives, libraries, colleges, universities,
+    public television, and radio stations, and individual scholars.
   emails:
   - gencounsel@neh.gov
   - evoyatzis@neh.gov
@@ -107,6 +110,7 @@ departments:
     phone:
     - 202-606-8322
   top_level: false
+  usa_id: '52636'
   website: http://www.neh.gov/whoweare/foiamain.html
 description: The National Endowment for the Humanities funds humanities programs in
   the United States such as museums, archives, libraries, colleges, universities,

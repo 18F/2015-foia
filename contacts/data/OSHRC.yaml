@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1120 20th Street, NW
     zip: 20036-3457
+  description: The Occupational Safety and Health Review Commission hears trials and
+    appeals, deciding contests of citations or penalties that result from inspections
+    performed by the Occupational Safety and Health Administration.
   fax: 202-606-5417
   name: Occupational Safety and Health Review Commission
   phone: 202-606-5700
@@ -98,6 +101,7 @@ departments:
     phone:
     - 202-606-5700
   top_level: false
+  usa_id: '49577'
   website: http://www.oshrc.gov/foia/foia.html
 description: The Occupational Safety and Health Review Commission hears trials and
   appeals, deciding contests of citations or penalties that result from inspections

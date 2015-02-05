@@ -9,6 +9,8 @@ departments:
     state: DC
     street: 1331 Pennsylvania Ave, NW
     zip: '20425'
+  description: The U.S. Commission on Civil Rights is an independent, bipartisan agency
+    charged with monitoring federal civil rights enforcement.
   emails:
   - foia@usccr.gov
   fax: 202-376-1163
@@ -60,6 +62,7 @@ departments:
     phone:
     - 202-376-8351
   top_level: false
+  usa_id: '48018'
   website: http://www.usccr.gov/foia/index.php
 description: The U.S. Commission on Civil Rights is an independent, bipartisan agency
   charged with monitoring federal civil rights enforcement.

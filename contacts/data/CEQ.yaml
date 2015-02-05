@@ -8,6 +8,9 @@ departments:
     state: DC
     street: 722 Jackson Place, NW
     zip: '20503'
+  description: The Counicl on Environmental Quality coordinates federal environmental
+    activities, and assists in the development of environmental policy across the
+    executive branch.
   emails:
   - efoia@ceq.eop.gov
   fax: 202-456-0753
@@ -87,6 +90,7 @@ departments:
     phone:
     - 202-456-6224
   top_level: false
+  usa_id: '49181'
   website: http://www.whitehouse.gov/administration/eop/ceq/foia/
 description: The Counicl on Environmental Quality coordinates federal environmental
   activities, and assists in the development of environmental policy across the executive

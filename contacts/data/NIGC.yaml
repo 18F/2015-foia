@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1441 L Street, NW
     zip: '20005'
+  description: The National Indian Gaming Commission is a regulatory body that oversees
+    some aspects of gaming on Indian lands, often complementing the work of Indian
+    regulators.
   emails:
   - Andrea_Choate@nigc.gov
   fax: 202-632-7066
@@ -103,6 +106,7 @@ departments:
     phone:
     - 202-632-7003
   top_level: false
+  usa_id: '49512'
   website: http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx
 description: The National Indian Gaming Commission is a regulatory body that oversees
   some aspects of gaming on Indian lands, often complementing the work of Indian regulators.
