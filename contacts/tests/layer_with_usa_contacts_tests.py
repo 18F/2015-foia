@@ -37,6 +37,7 @@ class USALayerTests(TestCase):
             usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
 
     def test_extract_abbreviation(self):
+        """ Test if abbrivations are extracted properly from name """
 
         # No abbrivation
         name = "Test Agency"
@@ -138,7 +139,36 @@ class USALayerTests(TestCase):
         )
 
     def test_write_yaml(self):
+        """ Test if yaml file is written """
 
         usa_layer.write_yaml('test_yaml.yaml', {'test_key': 'test_value'})
         self.assertTrue(os.path.isfile('test_yaml.yaml'))
         os.remove('test_yaml.yaml')
+
+    def test_get_api_data(self):
+        """Test if data is retrived correctly"""
+
+        test_site = "http://www.usa.gov/api/USAGovAPI/contacts.json"
+        test_site += "/contact/48005"
+        test_cache = "tests/fixtures/cassettes/test_cache"
+        data = usa_layer.get_api_data(url=test_site, cache=test_cache)
+        self.assertTrue("Census" in data.keys())
+
+    def test_patch_yamls(self):
+        """ Test if yaml files are correctly updated """
+
+        test_site = "http://www.usa.gov/api/USAGovAPI/contacts.json"
+        test_site += "/contact/48005"
+        test_cache = "tests/fixtures/cassettes/test_cache"
+        data = usa_layer.get_api_data(url=test_site, cache=test_cache)
+        data.update({'Commerce': {'usa_id': '1111'}})
+
+        patcher = usa_layer.patch_yamls(
+            data=data, directory="tests/fixtures/cassettes/test_yaml.yaml")
+        for patched_yaml in patcher:
+            self.assertTrue(
+                'usa_id' in patched_yaml[0])
+            self.assertTrue(
+                'usa_id' in patched_yaml[0].get('departments')[0])
+            self.assertTrue(
+                'description' in patched_yaml[0].get('departments')[0])

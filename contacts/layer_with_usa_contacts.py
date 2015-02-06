@@ -123,21 +123,12 @@ def write_yaml(filename, data):
             data, default_flow_style=False, allow_unicode=True))
 
 
-def get_api_data():
-    """ Retrives data from USA Gov Contacts API """
-
-    client = CachedSession('usa_contacts')
-    data = client.get(USA_CONTACTS_API)
-    data = transform_json_data(data=data.json()['Contact'])
-    return data
-
-
-def patch_yamls(data):
+def patch_yamls(data, directory):
     """
     Loops through yaml files and matches them to USA contacts API data
     """
 
-    for filename in glob("data" + os.sep + "*.yaml"):
+    for filename in glob(directory):
         with open(filename) as f:
             agency = yaml.load(f.read())
         agency_name = clean_name(agency.get('name'))
@@ -153,13 +144,25 @@ def patch_yamls(data):
         yield agency, filename
 
 
+def get_api_data(url, cache):
+    """ Retrives data from USA Gov Contacts API """
+
+    client = CachedSession(cache)
+    request = client.get(url)
+    data = request.json().get('Contact')
+    if not data:
+        data = [request.json()]
+    data = transform_json_data(data)
+    return data
+
+
 def main():
     """ This function runs the script """
 
-    data = get_api_data()
-    for updated_yaml, filename in patch_yamls(data=data):
+    data = get_api_data(url=USA_CONTACTS_API, cache='usa_contacts')
+    for updated_yaml, filename in patch_yamls(
+            data=data, directory="data" + os.sep + "*.yaml"):
         write_yaml(filename=filename, data=updated_yaml)
-
 
 if __name__ == "__main__":
     main()
