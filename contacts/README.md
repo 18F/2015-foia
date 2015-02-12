@@ -1,18 +1,26 @@
 [![Coverage Status](https://coveralls.io/repos/18F/foia/badge.png)](https://coveralls.io/r/18F/foia)
 
-## Agency FOIA contact info
+## FOIA Contact Data Builder
 
-Downloading agency contact information for FOIA, from FOIA.gov.
+The scripts in this directory are used for constructing a FOIA contact database for Federal Agencies and Offices. The data collected are stored
+in a set of yaml files inside the `data/` directory. These yaml files are
+then uploaded to 18F's [Django application](https://github.com/18F/foia-hub)
+via [this script](https://github.com/18F/foia-hub/blob/master/foia_hub/scripts/load_agency_contacts.py).
 
-This is a three step process:
 
-1. Scraping the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) for contact data. This automatically adds in some additional manually curated data, stored in `manual_data/`.
+## Process
+
+Building the FOIA contacts database is a multi-step process:
+
+1. Scraping the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) for contact data and adding in some additional manually curated data, stored in `manual_data/`.
 2. Filling in missing data using a CSV rendition of an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls) hosted on FOIA.gov.
-3. Downloading keywords for agencies from the Federal Register.
+3. Downloading and adding descriptions, abbreviations, and IDs from the
+[USA Contacts API](http://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
+4. Downloading and adding processing time data from [foia.gov/data](http://www.foia.gov/data.html)
+5. Downloading keywords for agencies from the Federal Register.
+6. Scraping agency and office FOIA websites to collect reading room urls.
 
-It scrapes/parses the contact details out of these sources, and makes YAML files in the `data/` directory (versioned).
-
-## Using
+## Running Scripts
 
 First, install all of the Python dependencies:
 
@@ -20,7 +28,7 @@ First, install all of the Python dependencies:
 pip install -r requirements.txt
 ```
 
-Then run the three relevant scripts, in this order:
+Then run the following scripts in order:
 
 ```bash
 python scraper.py
@@ -31,15 +39,27 @@ python keywords_from_fr.py
 python layer_with_reading_room.py
 ```
 
-If an agency's HTML has already been downloaded, it will not be downloaded
-again. To re-download, delete the `html/` directory and run again. Similarly,
-the XLS file is stored locally in the `xls/` directory. JSON responses pulled
-from the Federal Register for keywords are logged in an SQLite DB.
+## Clearing Cache
+
+Many of the scripts cache the sites they are collecting data from
+in order to facilitate rebuilding the contact data. Hence in order to collect
+fresh data, certain files must be deleted. Below is each script cache:
+
+```bash
+scraper.py -> html/
+layer_with_csv.py -> layering_data/full-foia-contacts.xls
+layer_with_usa_contacts.py -> usa_contacts.sqlite
+processing_time_scraper.py -> html/
+keywords_from_fr.py -> fr.sqlite
+layer_with_reading_room.py -> None
+```
+
+##Script Details
 
 ### scraper.py
 
 scraper.py operates in two modes. Without any command line arguments it will
-re-process the data for all agencies. You can however provide an agency
+reprocess the data for all agencies. You can however provide an agency
 abbreviation as a parameter, and it will only process the data for that agency.
 
 Agency abbreviations are currently listed
@@ -60,7 +80,7 @@ There are 99 agencies listed on FOIA.gov, and they each have 1 or more departmen
 
 They may have a website, or a request form, or both.
 
-Data for an agency looks like this:
+Data for an agency is organized like this:
 
 ```yaml
 ---

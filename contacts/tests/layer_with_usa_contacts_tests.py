@@ -38,12 +38,12 @@ class USALayerTests(TestCase):
 
     def test_extract_abbreviation(self):
 
-        # No abbrivation
+        # No abbreviation
         name = "Test Agency"
         exp_abb = usa_layer.extract_abbreviation(name)
         self.assertEqual(exp_abb, None)
 
-        # With abbrivation
+        # With abbreviation
         name = "Test Agency (TA)"
         exp_abb = usa_layer.extract_abbreviation(name)
         self.assertEqual(exp_abb, "TA")

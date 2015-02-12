@@ -13,7 +13,9 @@ This script updates the yaml files with usa_id, description, and acronyms.
 USA_CONTACTS_API = 'http://www.usa.gov/api/USAGovAPI/contacts.json/contacts'
 ACRONYM = re.compile('\((.*?)\)')
 
-# Subsitutions and replacements for name, must be in this order
+# The tuples below are used to normalize the names between the naming
+# convention of the data/yaml files and the naming convention of the
+# USA Contacts API (http://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
 REPLACEMENTS = (
     ("Purchase from People Who Are Blind or Severely Disabled",
         "U.S. AbilityOne Commission"),
@@ -60,36 +62,36 @@ def extract_abbreviation(name):
     """ Extract abbreviation from name string """
 
     match = ACRONYM.search(name)
-    abbreviation = None
     if match:
-        abbreviation = match.group(0).strip("() ")
-    return abbreviation
+        return match.group(0).strip("() ")
 
 
 def create_contact_dict(data):
     """
-    Generates a dictionary containing a usa id, description, and
+    Generates a dictionary containing a USA Contacts API ID, description, and
     abbreviation when possible
     """
 
     new_dict = {'usa_id': data['Id']}
     abbreviation = extract_abbreviation(name=data['Name'])
     if abbreviation:
-        new_dict.update({'abbreviation': abbreviation})
+        new_dict['abbreviation'] = abbreviation
     description = data.get('Description')
     if description:
-        new_dict.update({'description': description})
+        new_dict['description'] = description
     return new_dict
 
 
 def transform_json_data(data):
     """
     Reformats data into a dictionary with name as key to allow for
-    easy matching to yaml files
+    easy matching to yaml files. This script also ensures that only
+    English language descriptons are stored in the yaml files.
     """
 
     new_dict = {}
     for contact_data in data:
+        # Limits descriptions to only English Language.
         if contact_data['Language'] == "en":
             cleaned_name = clean_name(name=contact_data['Name'])
             new_dict[cleaned_name] = create_contact_dict(data=contact_data)
@@ -153,8 +155,8 @@ def patch_yamls(data):
         yield agency, filename
 
 
-def main():
-    """ This function runs the script """
+def layer_with_data():
+    """ This function layers the data/yaml files with USA Contacts API data """
 
     data = get_api_data()
     for updated_yaml, filename in patch_yamls(data=data):
@@ -162,4 +164,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    layer_with_data()
