@@ -1,11 +1,10 @@
 [![Coverage Status](https://coveralls.io/repos/18F/foia/badge.png)](https://coveralls.io/r/18F/foia)
 
-## FOIA Contact Data Builder
+## FOIA Contacts Data Builder
 
-The scripts in this directory are used for constructing a FOIA contact database for Federal Agencies and Offices. The data collected are stored
+The scripts in this directory are used for constructing a FOIA contact dataset for Federal Agencies and Offices. The data collected are stored
 in a set of yaml files inside the `data/` directory. These yaml files are
-then uploaded to 18F's [Django application](https://github.com/18F/foia-hub)
-via [this script](https://github.com/18F/foia-hub/blob/master/foia_hub/scripts/load_agency_contacts.py).
+then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
 
 
 ## Process
@@ -51,7 +50,6 @@ layer_with_csv.py -> layering_data/full-foia-contacts.xls
 layer_with_usa_contacts.py -> usa_contacts.sqlite
 processing_time_scraper.py -> html/
 keywords_from_fr.py -> fr.sqlite
-layer_with_reading_room.py -> None
 ```
 
 ##Script Details
