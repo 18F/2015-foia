@@ -116,7 +116,7 @@ departments:
     phone:
     - 866-574-4970
   top_level: true
-  usa_id: None
+  usa_id: '49420'
   website: http://www.dod.gov/pubs/foi/
 - address:
     address_lines:
@@ -127,6 +127,7 @@ departments:
     state: DC
     street: 1000 Air Force Pentagon
     zip: 20330-1000
+  description: The Air Force defends the United States in the air and space.
   emails: []
   fax: 703-696-7273
   keywords:
@@ -254,6 +255,7 @@ departments:
     phone:
     - 703-696-2735
   top_level: true
+  usa_id: '49080'
   website: http://www.foia.af.mil/
 - address:
     address_lines:
@@ -265,6 +267,9 @@ departments:
     state: VA
     street: 7701 Telegraph Road, Room 150
     zip: 22315-3905
+  description: Focusing on land operations, the U.S. Army organizes, trains, and equips
+    active duty and Reserve forces to preserve the peace, security, and defense of
+    the United States.
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
@@ -399,6 +404,7 @@ departments:
     phone:
     - 703-428-6238
   top_level: true
+  usa_id: '49096'
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
     address_lines:
@@ -409,6 +415,7 @@ departments:
     state: DC
     street: 2000 Navy Pentagon
     zip: 20350-2000
+  description: The Navy's primary mission is to defend the United States.
   fax: 202-685-6580
   keywords:
   - Administrative practice and procedure
@@ -546,6 +553,7 @@ departments:
     phone:
     - 202-685-0412
   top_level: true
+  usa_id: '49561'
   website: https://foia.navy.mil
 - address:
     address_lines:
@@ -580,6 +588,7 @@ departments:
     phone:
     - 703-614-4008
   top_level: true
+  usa_id: '49444'
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
     address_lines:
@@ -671,6 +680,9 @@ departments:
     state: VA
     street: 1300 E Avenue
     zip: 23801-1800
+  description: The Defense Commissary Agency provides a worldwide netowrk of commissaries
+    that sell groceries and household supplies at low cost to members of the Armed
+    Services.
   emails:
   - foia@deca.mil
   fax: 804-734-8116
@@ -747,8 +759,10 @@ departments:
     phone:
     - 804-734-8116
   top_level: false
+  usa_id: '49197'
   website: http://www.commissaries.com/foiainfo.cfm
-- address:
+- abbreviation: DCAA
+  address:
     address_lines:
     - Keith Mastromichalis
     - 'ATTN: CMR, FOIA Service Center'
@@ -757,6 +771,10 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6219
+  description: The Defense Contract Audit Agency provides all contract audit services
+    for the Department of Defense. This agency also provides accounting and financial
+    advice to all Department of Defense components involved in procurement and contract
+    administration.
   emails:
   - DCAA-FOIA@dcaa.mil
   fax: 703-767-1011
@@ -841,6 +859,7 @@ departments:
     phone:
     - 703-767-1022
   top_level: false
+  usa_id: '49200'
   website: http://www.dcaa.mil/foia.htm
 - address:
     address_lines:
@@ -851,6 +870,10 @@ departments:
     state: VA
     street: BLDG 10500
     zip: '23801'
+  description: The Defense Contract Management Agency is responsible for contract
+    management for the Department of Defense, the National Aeronautics and Space Administration,
+    and several other federal, state, foreign and international goverments and agencies.
+    Its goal is to ensure contracts are fulfilled on time and at the correct cost.
   emails:
   - DCMA.FOIA@DCMA.mil
   fax: 804-734-0109
@@ -948,8 +971,10 @@ departments:
     phone:
     - 804-734-1488
   top_level: false
+  usa_id: '49202'
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
-- address:
+- abbreviation: DFAS
+  address:
     address_lines:
     - Gregory Outlaw
     - FOIA/PA Program Manager/FOIA Liaison officer
@@ -958,6 +983,10 @@ departments:
     state: IN
     street: 8899 E. 56th Street
     zip: 46249-0150
+  description: The Defense Finance and Accounting Service oversees payments to Department
+    of Defense servicemembers, employees, vendors and contractors. The Defense Finance
+    and Accounting Services also provides Department of Defense decision makers with
+    business intelligence, finance and accounting information.
   emails:
   - gregory.outlaw@dfas.mil
   fax: 317-212-8802
@@ -1056,8 +1085,10 @@ departments:
     phone:
     - 317-212-4591
   top_level: false
+  usa_id: '52595'
   website: http://www.dfas.mil/foia.html
-- address:
+- abbreviation: DISA
+  address:
     address_lines:
     - Robin M. Berger
     - 'ATTN: Headquarters FOIA Requester Service Center'
@@ -1065,6 +1096,9 @@ departments:
     state: MD
     street: P.O. Box 549
     zip: '20755'
+  description: The Defense Information Systems Agency provides a global infrastructure
+    for information sharing and communication across the Department of Defense, from
+    the President on down.
   emails:
   - disa.meade.gc.mbx.disa-gen-counsel@mail.mil
   fax: 301-225-0510
@@ -1081,8 +1115,10 @@ departments:
     phone:
     - 301-225-6104
   top_level: false
+  usa_id: '49209'
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
-- address:
+- abbreviation: DIA
+  address:
     address_lines:
     - Alesia Y. Williams
     - Chief, FOIA Services Branch
@@ -1091,6 +1127,8 @@ departments:
     state: DC
     street: 200 MacDill Boulevard
     zip: 20340-5100
+  description: The Defense Intelligence Agency provides defense intelligence to "provide
+    a decision advantage to warfighters, planners, and policy makers."
   emails:
   - foia@dodiis.mil
   fax: 301-394-5356
@@ -1179,8 +1217,10 @@ departments:
     phone:
     - 301-394-5587
   top_level: false
+  usa_id: '49211'
   website: http://www.dia.mil/FOIA.aspx
-- address:
+- abbreviation: DLA
+  address:
     address_lines:
     - Debbie Teer
     - 'FOIA Contact, ATTN: DGA'
@@ -1189,6 +1229,9 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6221
+  description: The Defense Logistics Agency provides logistical, acquisition, and
+    technical support for the Army, Navy, Air Force, Marine Corps and other federal
+    agencies and allies.
   emails:
   - hq-foia@dla.mil
   fax: 703-767-6091
@@ -1290,8 +1333,10 @@ departments:
     - 703-767-5247
     - 703-767-6183
   top_level: false
+  usa_id: '52599'
   website: http://www.dla.mil/foia-privacy/
-- address:
+- abbreviation: DSS
+  address:
     address_lines:
     - Leslie Blake
     - Office of FOI and Privacy
@@ -1299,6 +1344,9 @@ departments:
     state: VA
     street: 27130 Telegraph Road
     zip: '22314'
+  description: The Defense Security Service provides security for the Department of
+    Defense and a number of other federal agencies. This includes providing industrial
+    security oversight and assistance for contractor facilities.
   emails:
   - Leslie.Blake@dss.mil
   fax: 571-305-6931
@@ -1377,8 +1425,10 @@ departments:
     phone:
     - 703-325-9450
   top_level: false
+  usa_id: '49219'
   website: https://www.dss.mil/foia/foia_program.html
-- address:
+- abbreviation: DTRA
+  address:
     address_lines:
     - Juanita Y. Gaines
     - FOIA/Privacy Act Ofc (JOXGP-F)
@@ -1387,6 +1437,8 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6201
+  description: The Defense Threat Reduction Agency is a combat support agency whose
+    goal is to reduce the threat posed by weapons of mass destruction.
   emails:
   - efoia@dtra.mil
   fax: 703-767-3623
@@ -1408,6 +1460,7 @@ departments:
     phone:
     - 703-767-1792
   top_level: false
+  usa_id: '49223'
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
 - address:
     address_lines:
@@ -1418,6 +1471,9 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6218
+  description: The Defense Technical Information Center serves the Department of Defense
+    as a repository of government funded scientific, technical, engineering and business
+    related inormation.
   emails:
   - foia@dtic.mil
   fax: 703-767-9201
@@ -1498,6 +1554,7 @@ departments:
     phone:
     - 703-767-9204
   top_level: false
+  usa_id: '49221'
   website: http://www.dtic.mil/dtic/foia.html
 - address:
     address_lines:
@@ -1602,6 +1659,8 @@ departments:
     state: VA
     street: 7500 GEOINT Drive
     zip: '22150'
+  description: The National Geospatial-Intelligence Agency provides location-based
+    intelligence in support of national security.
   emails:
   - foianga@nga.mil
   fax: 571-557-3130
@@ -1682,6 +1741,7 @@ departments:
     phone:
     - 571-557-4141
   top_level: true
+  usa_id: '49504'
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - abbreviation: ''
   address:
@@ -2103,6 +2163,8 @@ departments:
     state: CO
     street: 16401 East Centretech Parkway
     zip: 80011-9066
+  description: TRICARE Management is a part of the military health system, providing
+    health care resources to the uniformed services.
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 303-371-4170
@@ -2195,6 +2257,7 @@ departments:
     phone:
     - 303-676-3674
   top_level: false
+  usa_id: '49706'
   website: http://www.tricare.mil/tma/privacy/foia.aspx
 - address:
     address_lines:
@@ -2274,7 +2337,8 @@ departments:
     - +490 711-729-4287
   top_level: false
   website: http://www.africom.mil/FOIA.asp
-- address:
+- abbreviation: CENTCOM
+  address:
     address_lines:
     - FOIA Contact
     - U.S. Central Command CCJ6-RDF (FOIA)
@@ -2282,6 +2346,11 @@ departments:
     state: FL
     street: 7115 South Boundary Boulevard
     zip: 33621-5101
+  description: Located between the European and Pacific combatant commands, U.S. Central
+    Command’s area of responsibility covers the "central" area of the globe and consists
+    of 20 countries &#151; Afghanistan, Bahrain, Egypt, Iran, Iraq, Jordan, Kazakhstan,
+    Kuwait, Kyrgyzstan, Lebanon, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan,
+    Turkmenistan, United Arab Emirates, Uzbekistan, and Yemen.
   emails:
   - foiaoffice@centcom.mil
   fax: 813-827-6332
@@ -2378,6 +2447,7 @@ departments:
     phone:
     - 813-827-1810
   top_level: false
+  usa_id: '49135'
   website: http://www.centcom.mil/en/freedom-of-information-act-en
 - address:
     address_lines:
@@ -2388,6 +2458,8 @@ departments:
     state: AE
     street: Unit 30400
     zip: 09131
+  description: The U.S. European Command works with partner nations to address regional
+    issues, and keep the peace in Europe, parts of the Middle East, and Eurasia.
   emails:
   - eucom.stuttgart.ecj1.list.foia-privact-request-mb-access@mail.mil
   fax: +49011 711-680-8092
@@ -2480,6 +2552,7 @@ departments:
     phone:
     - +49011 711-680-7161
   top_level: false
+  usa_id: '49261'
   website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
 - address:
     address_lines:
@@ -2570,6 +2643,9 @@ departments:
     state: CO
     street: 250 Vandenberg Street
     zip: 80914-3804
+  description: The Northern Command is responsible for defending the continental United
+    States and Alaska, and for coordinating with the defenses of Canada, Mexico, and
+    the Bahamas..
   emails:
   - n-nc.peterson.n-ncspecialstaff.mbx.cska-foia-omb@mail.mil
   fax: 719-554-4431
@@ -2652,6 +2728,7 @@ departments:
     phone:
     - 719-554-1785
   top_level: false
+  usa_id: '49565'
   website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
 - address:
     address_lines:
@@ -2661,6 +2738,8 @@ departments:
     state: HI
     street: Box 64017
     zip: 96861-4017
+  description: Headquartered in Hawaii, the U.S. Pacific Command is responsible for
+    defending and promoting U.S. interests in the Pacific and Asia.
   emails:
   - pacom.foia.fct@pacom.mil
   fax: 808-447-6685
@@ -2752,6 +2831,7 @@ departments:
     phone:
     - 808-477-0995
   top_level: false
+  usa_id: '49601'
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - address:
     address_lines:
@@ -2762,6 +2842,8 @@ departments:
     state: FL
     street: 9301 NW 33rd Street
     zip: '33172'
+  description: The U.S. Southern Command is responsible for security cooperation and
+    operations in Central and South America and the Caribbean.
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   foia_officer:
@@ -2844,6 +2926,7 @@ departments:
       simple_lowest_days: '4'
       simple_median_days: '21'
   top_level: false
+  usa_id: '49674'
   website: http://www.socom.mil/FOIA/Pages/default.aspx
 - address:
     address_lines:
@@ -2954,6 +3037,10 @@ departments:
     state: NE
     street: 901 Sac Boulevard
     zip: '68113'
+  description: U.S. Strategic Command is a unified command, incorporating elements
+    of all military services, in an effort to detect and deter attacks against the
+    U.S. and its allies. This mission includes nuclear deterrence, space, and cyberspace
+    capabilities.
   emails:
   - FOIA-PARequestCenter-U@stratcom.mil
   fax: 402-294-7535
@@ -3042,6 +3129,7 @@ departments:
     phone:
     - 402-294-6321
   top_level: false
+  usa_id: '49685'
   website: http://www.stratcom.mil/foia/
 - address:
     address_lines:
@@ -3052,6 +3140,9 @@ departments:
     state: IL
     street: 508 Scott Drive
     zip: 62225-5357
+  description: The U.S. Transportation Command provides transportation services and
+    capabilities to the other combatant commands, the military services and defense
+    agencies..
   emails:
   - USTCCS-FO@ustranscom.mil
   fax: 618-229-4711
@@ -3140,9 +3231,10 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '12'
   top_level: false
+  usa_id: '49699'
   website: http://www.transcom.mil/foia/
-description: The mission of the Department of Defense is to provide the military forces
-  needed to deter war and to protect the security of our country.
+description: The Department of Defense provides the military forces needed to deter
+  war, and to protect the security of the United States.
 keywords:
 - Accounting
 - Administrative practice and procedure

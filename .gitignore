@@ -1,6 +1,7 @@
 /contacts/html
 /contacts/xls
 /contacts/fr.sqlite
+/contacts/usa_contacts.sqlite
 /documents/data
 .DS_Store
 __pycache__
@@ -10,3 +11,4 @@ todo.txt
 /documents/*.html
 /misc
 *.swp
+*.coverage

@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1331 Pennsylvania, NW
     zip: '20004'
+  description: The Inter-American Foundation provides grant support to Latin American
+    and Carribean grass-roots groups and non-governmental organizations with creative
+    self-help ideas.
   emails:
   - foia@iaf.gov
   misc:
@@ -92,11 +95,11 @@ departments:
     phone:
     - 202-683-7117
   top_level: false
+  usa_id: '49404'
   website: http://www.iaf.gov/index.aspx?page=22
-description: The Inter-American Foundation (IAF) is an independent agency of the United
-  States government that provides grants to nongovernmental and community-based organizations
-  in Latin America and the Caribbean for innovative, sustainable and participatory
-  self-help programs.
+description: The Inter-American Foundation provides grant support to Latin American
+  and Carribean grass-roots groups and non-governmental organizations with creative
+  self-help ideas.
 keywords:
 - Administrative practice and procedure
 - Government employees

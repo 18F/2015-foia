@@ -334,6 +334,8 @@ departments:
     state: DC
     street: Suite 1000, 450 5th Street, NW
     zip: 20530-0001
+  description: The Antitrust Division promotes economic competition through enforcing
+    and providing guidance on antitrust laws and principles.
   emails:
   - antitrust.foia@usdoj.gov
   fax: 202-616-4529
@@ -414,6 +416,7 @@ departments:
     phone:
     - 202-514-2692
   top_level: false
+  usa_id: '52682'
   website: http://www.justice.gov/atr/foia/index.html
 - abbreviation: ATF
   address:
@@ -1122,6 +1125,9 @@ departments:
     state: VA
     street: 5107 Leesburg Pike
     zip: '20503'
+  description: The Executive Office for Immigration review administers the immigration
+    court system, which decides whether an individual charged with violating immigration
+    law should be allowed to stay in the country or not.
   emails:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
@@ -1236,6 +1242,7 @@ departments:
     phone:
     - 703-605-1297
   top_level: false
+  usa_id: '49263'
   website: http://www.justice.gov/eoir/mainfoia.html
 - address:
     address_lines:
@@ -1734,6 +1741,9 @@ departments:
     state: DC
     street: 600 E Street, NW
     zip: 20579-0001
+  description: The Foreign Claims Settlement Commission is a quasi-judicial body that
+    hears claims cases brought by U.S. nationals against foreign governments. The
+    jurisdiction of the body is specific, and its decisions are final.
   emails:
   - info.fcsc@usdoj.gov
   fax: 202-616-6993
@@ -1786,14 +1796,18 @@ departments:
     phone:
     - 202-616-6975
   top_level: false
+  usa_id: '49336'
   website: http://www.justice.gov/fcsc/foia.htm
-- address:
+- abbreviation: Justice Department
+  address:
     address_lines:
     - INTERPOL Washington
     city: Washington
     state: DC
     street: U.S. Department of Justice
     zip: 20530-0001
+  description: Interpol Washington, the U.S. National Central Bureau, coordinates
+    law enforcement acitivities between U.S. agencies and their international counterparts.
   emails:
   - Interpol-USNCB.FOIA@usdoj.gov
   fax: 202-616-1357
@@ -1885,6 +1899,7 @@ departments:
     phone:
     - 202-616-0201
   top_level: false
+  usa_id: '49717'
   website: http://www.justice.gov/interpol-washington/foia.html
 - address:
     address_lines:
@@ -2337,6 +2352,10 @@ departments:
     state: DC
     street: 810 7th Street, NW
     zip: '20531'
+  description: The Office of Justice Programs is a research and grant-making organization
+    that works to provide local and state law enforcement agencies with information,
+    training, coordination, and innovative strategies for dealing with the most pressing
+    law enforcement issues.
   emails:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
@@ -2435,6 +2454,7 @@ departments:
     phone:
     - 202-307-6235
   top_level: false
+  usa_id: '49434'
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - address:
     address_lines:
@@ -2757,6 +2777,8 @@ departments:
     state: DC
     street: 1425 New York Avenue, NW
     zip: 20530-0001
+  description: The Office of the Pardon Attorney assists the president in the exercise
+    of executive clemency by reviewing clemency applications and making recommendations.
   emails:
   - PardonAttorneyFOIA@usdoj.gov
   fax: 202-616-6069
@@ -2818,6 +2840,7 @@ departments:
     phone:
     - 202-616-6070
   top_level: false
+  usa_id: '49604'
   website: http://www.justice.gov/pardon/pardon_foia.htm
 - address:
     address_lines:
@@ -3470,7 +3493,8 @@ departments:
   top_level: true
   usa_id: '49451'
   website: http://www.usmarshals.gov/foia/index.html
-- address:
+- abbreviation: Justice Department
+  address:
     address_lines:
     - Anissa Banks
     - FOIA/PA Specialist
@@ -3479,6 +3503,9 @@ departments:
     state: DC
     street: 90 K Street, NE
     zip: '20530'
+  description: The Parole Commission considers prisoners' applications for parole,
+    deciding whether or not a prisoner has earned a chance to reintegrate into the
+    community.
   emails:
   - USPC.FOIA@usdoj.gov
   keywords:
@@ -3554,12 +3581,11 @@ departments:
     phone:
     - 202-346-7030
   top_level: false
+  usa_id: '49606'
   website: http://www.justice.gov/uspc/foia.htm
-description: The Department's mission is to enforce the law and defend the interests
-  of the United States according to the law; to ensure public safety against threats
-  foreign and domestic; to provide federal leadership in preventing and controlling
-  crime; to seek just punishment for those guilty of unlawful behavior; and to ensure
-  fair and impartial administration of justice for all Americans.
+description: The Department of Justice works to enforce federal law, to seek just
+  punishment for the guilty, and to ensure the fair and impartial administration of
+  justice.
 emails:
 - MRUFOIA.Requests@usdoj.gov
 fax: 301-341-0772

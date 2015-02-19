@@ -9,6 +9,9 @@ departments:
     state: DC
     street: 1100 Pennsylvania Avenue, NW
     zip: '20506'
+  description: A grant-making organization, to date the National Endowment for the
+    Arts has awarded more than $4 billion to support artistic excellence, creativity,
+    and innovation for the benefit of individuals and communities.
   emails:
   - foia@arts.gov
   fax: 202-682-5572
@@ -81,13 +84,11 @@ departments:
     phone:
     - 202-682-5418
   top_level: false
+  usa_id: '52634'
   website: http://www.arts.gov/about/FOIA/index.html
-description: The National Endowment for the Arts was established by Congress in 1965
-  as an independent agency of the federal government. To date, the NEA has awarded
-  more than $4 billion to support artistic excellence, creativity, and innovation
-  for the benefit of individuals and communities. The NEA extends its work through
-  partnerships with state arts agencies, local leaders, other federal agencies, and
-  the philanthropic sector.
+description: A grant-making organization, to date the National Endowment for the Arts
+  has awarded more than $4 billion to support artistic excellence, creativity, and
+  innovation for the benefit of individuals and communities.
 name: National Endowment for the Arts
 request_time_stats:
   '2010':

@@ -259,8 +259,10 @@ departments:
     phone:
     - 202-401-4634
   top_level: true
+  usa_id: '91836'
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
-- address:
+- abbreviation: ACF
+  address:
     address_lines:
     - Kimberly N. Epstein
     - FOIA Officer
@@ -269,6 +271,9 @@ departments:
     state: DC
     street: 370 L'Enfant Promenade, S.W.
     zip: '20447'
+  description: The ACF funds state, territory, local, and tribal organizations to
+    provide family assistance (welfare), child support, child care, Head Start, child
+    welfare, and other programs relating to children and families.
   emails:
   - foia@acf.hhs.gov
   fax: 202-401-4829
@@ -409,6 +414,7 @@ departments:
     phone:
     - 888-747-1861
   top_level: false
+  usa_id: '47994'
   website: https://www.acf.hhs.gov/freedom-of-information-act
 - abbreviation: AHRQ
   address:
@@ -653,6 +659,8 @@ departments:
     state: GA
     street: 1600 Clifton Road, N.E.
     zip: '30333'
+  description: The Agency for Toxic Substances and Disease Registry responds to, and
+    protects people from harmful chemical exposures.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -674,6 +682,7 @@ departments:
     phone:
     - 770-488-6399
   top_level: false
+  usa_id: '49076'
   website: http://www.cdc.gov/od/foia/index.htm
 - abbreviation: CMS
   address:
@@ -1592,9 +1601,8 @@ departments:
   top_level: true
   usa_id: '49687'
   website: http://www.samhsa.gov/foia/
-description: The Department of Health and Human Services (HHS) is the United States
-  government´s principal agency for protecting the health of all Americans and providing
-  essential human services, especially for those who are least able to help themselves.
+description: The Department of Health and Human Services protects the health of all
+  Americans and provides essential human services.
 keywords:
 - Accounting
 - Adhesives

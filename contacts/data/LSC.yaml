@@ -9,6 +9,10 @@ departments:
     state: DC
     street: 3333 K Street, NW
     zip: '20007'
+  description: The Legal Services Corporation is an independent corporation founded
+    by Congress that provides grant funds, training, and technical assistance to civil
+    legal aid programs. The goal of the corporation is to ensure low income individuals
+    and families have access to quality legal aid in civil matters.
   emails:
   - FOIA@lsc.gov
   fax: 202-337-6519
@@ -57,11 +61,12 @@ departments:
     phone:
     - 202-295-1500
   top_level: false
+  usa_id: '49442'
   website: http://www.lsc.gov/foia2/
-description: LSC is the single largest provider of civil legal aid for the poor in
-  the nation. Established in 1974, LSC operates as an independent 501(c)(3) nonprofit
-  corporation that promotes equal access to justice and provides grants for high-quality
-  civil legal assistance to low-income Americans.
+description: The Legal Services Corporation is an independent corporation founded
+  by Congress that provides grant funds, training, and technical assistance to civil
+  legal aid programs. The goal of the corporation is to ensure low income individuals
+  and families have access to quality legal aid in civil matters.
 keywords:
 - Administrative practice and procedure
 - Aliens

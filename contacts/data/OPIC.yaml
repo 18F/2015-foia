@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 1100 New York Avenue, NW
     zip: '20527'
+  description: The Overseas Private Investment Corporation works with the U.S. private
+    sector to help solve critical world challenges.
   emails:
   - FOIA@opic.gov
   misc:
@@ -95,11 +97,10 @@ departments:
     phone:
     - 202-336-8400
   top_level: false
+  usa_id: '52651'
   website: http://www.opic.gov/publications/foia
-description: The Overseas Private Investment Corporation's (OPIC) mission is to solve
-  critical world challenges by catalyzing markets in developing nations. OPIC accomplishes
-  its mission by delivering finance innovations that help ambitious U.S. businesses
-  successfully enter, grow and compete in emerging markets.
+description: The Overseas Private Investment Corporation works with the U.S. private
+  sector to help solve critical world challenges.
 keywords:
 - Administrative practice and procedure
 - Confidential business information

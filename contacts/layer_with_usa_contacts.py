@@ -1,132 +1,171 @@
-#!/usr/bin/env python
-
-import yaml
-import xlrd
 import os
-import json
-from glob import glob
 import re
-import logging
+import yaml
 
-""" Update YAML files with usa_id, description, and acronyms. """
+from glob import glob
+from requests_cache.core import CachedSession
 
-ACRONYM_FINDER = re.compile('\((.*?)\)')
-
-
-def float_to_int_str(number):
-    """Converts input to ints and then to strings to clean xls data."""
-    try:
-        return str(int(float(number)))
-    except:
-        return number
+"""
+This script updates the yaml files with usa_id, description, and acronyms.
+"""
 
 
-def extract_acronym(usa_name):
-    """Extracts acronyms from a string if there is one."""
-    acronym_list = ACRONYM_FINDER.findall(usa_name)
-    if len(acronym_list) == 1:
-        return acronym_list[0]
-    elif len(acronym_list) == 0:
-        return ""
-    else:
-        return "Massive Error"
+USA_CONTACTS_API = 'http://www.usa.gov/api/USAGovAPI/contacts.json/contacts'
+ACRONYM = re.compile('\((.*?)\)')
+
+# The tuples below are used to normalize the names between the naming
+# convention of the data/yaml files and the naming convention of the
+# USA Contacts API (http://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
+REPLACEMENTS = (
+    ("Purchase from People Who Are Blind or Severely Disabled",
+        "U.S. AbilityOne Commission"),
+    ("Office of the Secretary and Joint Staff", "Joint Chiefs of Staff"),
+    ("Department of the Army - Freedom of Information and Privacy Office",
+        "U.S. Army"),
+    ("Marine Corps - FOIA Program Office (ARSF)", "U.S. Marines"),
+    ('Federal Bureau of Prisons', 'Bureau of Prisons'),
+    ('Office of Community Oriented Policing Services',
+        'Community Oriented Policing Services'),
+    ('AMTRAK', 'National Railroad Passenger Corporation'),
+    ('Jobs Corps', 'Job Corps'),
+    ('INTERPOL-United States National Central Bureau',
+        'U.S. National Central Bureau - Interpol'),
+    ('Center for', 'Centers for'),
+    (' for the District of Columbia', ''),
+    (' - FOIA Program Office (ARSF)', ''),
+    (' - Main Office', ''),
+    (' Activity', ''),
+    (' - Headquarters Office', ''),
+    (' - Headquarters', ''),
+    ('U.S.', ''),
+    ('United States', ''),
+    (' & ', ' and '),
+    ('Bureau', ''),
+    ('Committee for ', ''),
+    ('Office of the ', ''),
+    ('/ICIO', ''),
+    (' of the ', ' of '),
+    ('Department of ', ''),
+)
 
 
-def load_all_usa_data():
-    """Loads data from all_usa_data.json file."""
-    with open('layering_data/all_usa_data.json', 'r') as f:
-        all_usa_data = json.loads(f.read())
-    data = {}
-    for office in all_usa_data:
-        if office.get('Language') == "en":
+def clean_name(name):
+    """ Cleans name to try to match it with names in yaml files """
 
-            data[office['Name']] = {
-                'description': office.get('Description', 'No Description'),
-                'id': office.get('Id', 'No Id'),
-                'acronym_usa_contacts': extract_acronym(office['Name'])}
-    return data
+    name = ACRONYM.sub('', name)
+    for item, replacement in REPLACEMENTS:
+        name = name.replace(item, replacement)
+    return name.strip(' ')
 
 
-def load_usacontacts():
-    """Loads data from usacontacts.xls """
-    data = {}
-    xls_path = "layering_data/foiaHub-usaContacts-matches.xlsx"
-    workbook = xlrd.open_workbook(xls_path)
-    sheet = workbook.sheet_by_name(workbook.sheet_names()[0])
-    header_names = [sheet.cell_value(0, i) for i in range(sheet.ncols)]
-    for row_num in range(1, sheet.nrows):
-        row = {
-            header_names[i]: sheet.cell_value(row_num, i)
-            for i in range(sheet.ncols)}
-        row['usa_id'] = float_to_int_str(row['usa_id'])
+def extract_abbreviation(name):
+    """ Extract abbreviation from name string """
 
-        if row.get('description', "No Description") == "":
-            row['description'] = "No Description"
-        data[row['fh_name']] = row
-    return data
+    match = ACRONYM.search(name)
+    if match:
+        return match.group(0).strip("() ")
 
 
-def merge_data():
-    """Merges usacontacts.xls and all_usa_data.json"""
-    usacontacts = load_usacontacts()
-    all_usa_data = load_all_usa_data()
-    for name_usacontacts in usacontacts:
-        found = False
-        # try to match on names and add description if there is none
-        if name_usacontacts in all_usa_data.keys():
-            usacontacts[name_usacontacts]['description'] = \
-                all_usa_data[name_usacontacts]['description']
-            found = True
-        # try to match on ids and add description if there is none
-        if not found:
-            current_id = usacontacts[name_usacontacts]['usa_id']
-            for name in all_usa_data.keys():
-                if all_usa_data[name]['id'] == current_id:
-                    usacontacts[name_usacontacts]['description'] = \
-                        all_usa_data[name]['description']
-                    break
-    return usacontacts
+def create_contact_dict(data):
+    """
+    Generates a dictionary containing a USA Contacts API ID, description, and
+    abbreviation when possible
+    """
+
+    new_dict = {'usa_id': data['Id']}
+    abbreviation = extract_abbreviation(name=data['Name'])
+    if abbreviation:
+        new_dict['abbreviation'] = abbreviation
+    description = data.get('Description')
+    if description:
+        new_dict['description'] = description
+    return new_dict
 
 
-def update_dict(old_dict, new_dict):
-    """Merge the data in the yaml files with the merged data
-    overwrites ids, acronyms, but not descriptions."""
+def transform_json_data(data):
+    """
+    Reformats data into a dictionary with name as key to allow for
+    easy matching to yaml files. This script also ensures that only
+    English language descriptons are stored in the yaml files.
+    """
 
-    if new_dict[old_dict['name']]['usa_id'] != '':
-        old_dict['usa_id'] = new_dict[old_dict['name']]['usa_id']
+    new_dict = {}
+    for contact_data in data:
+        # Limits descriptions to only English Language.
+        if contact_data['Language'] == "en":
+            cleaned_name = clean_name(name=contact_data['Name'])
+            new_dict[cleaned_name] = create_contact_dict(data=contact_data)
+            synonyms = contact_data.get('Synonym')
+            if synonyms:
+                for synonym in synonyms:
+                    cleaned_synonym = clean_name(name=synonym)
+                    new_dict[cleaned_synonym] = new_dict.get(cleaned_name)
+    return new_dict
 
-    if new_dict[old_dict['name']]['acronym'] != "None":
-        old_dict['abbreviation'] =\
-            new_dict[old_dict['name']]['acronym']
 
-    if 'description' not in old_dict.keys() or \
-            old_dict['description'] == "No Description":
-        old_dict['description'] = new_dict[old_dict['name']].get(
-            'description', "No Description")
-    logging.info("%s updated", old_dict['name'])
-    return old_dict, new_dict
+def update_dict(old_data, new_data):
+    """
+    Overwrites old usa_ids, descriptions, and abbreviation with data from
+    the USA contacts API
+    """
+
+    old_data['usa_id'] = new_data['usa_id']
+    if new_data.get('description'):
+        old_data['description'] = new_data['description']
+    if new_data.get('abbreviation'):
+        old_data['abbreviation'] = new_data['abbreviation']
+    return old_data
 
 
-def patch_yaml():
-    """Patches yaml files with usa_id, correct acronyms,
-    and descriptions if there is none."""
+def write_yaml(filename, data):
+    """ Exports the updated yaml file """
 
-    data = merge_data()
-    for filename in glob("data" + os.sep + "*.yaml"):
+    with open(filename, 'w') as f:
+        f.write(yaml.dump(
+            data, default_flow_style=False, allow_unicode=True))
+
+
+def patch_yamls(data, directory):
+    """
+    Loops through yaml files and matches them to USA contacts API data
+    """
+
+    for filename in glob(directory):
         with open(filename) as f:
-            yaml_data = yaml.load(f.read())
-            if yaml_data['name'] in data.keys():
-                yaml_data, data = update_dict(yaml_data, data)
-                del data[yaml_data['name']]
+            agency = yaml.load(f.read())
+        agency_name = clean_name(agency.get('name'))
+        if not agency.get('description'):
+            if agency_name in data:
+                agency = update_dict(agency, data[agency_name])
+                del data[agency_name]
+        for office in agency['departments']:
+            if not office.get('description'):
+                office_name = clean_name(office['name'])
+                if office_name in data:
+                    office = update_dict(office, data[office_name])
+        yield agency, filename
 
-        for internal_data in yaml_data['departments']:
-            if internal_data['name'] in data:
-                internal_data, data = update_dict(internal_data, data)
-        with open(filename, 'w') as f:
-            f.write(yaml.dump(
-                yaml_data, default_flow_style=False, allow_unicode=True))
+
+def get_api_data(url, cache):
+    """ Retrives data from USA Gov Contacts API """
+
+    client = CachedSession(cache)
+    request = client.get(url)
+    data = request.json().get('Contact')
+    if not data:
+        data = [request.json()]
+    data = transform_json_data(data)
+    return data
+
+
+def layer_with_data():
+    """ This function layers the data/yaml files with USA Contacts API data """
+
+    data = get_api_data(url=USA_CONTACTS_API, cache='usa_contacts')
+    for updated_yaml, filename in patch_yamls(
+            data=data, directory="data" + os.sep + "*.yaml"):
+        write_yaml(filename=filename, data=updated_yaml)
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
-    patch_yaml()
+    layer_with_data()

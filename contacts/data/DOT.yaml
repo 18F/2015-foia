@@ -397,6 +397,8 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: The Federal Highway Administration supports state and local government
+    in the design, construction, and maintenance of the highway system.
   emails:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1380
@@ -548,8 +550,10 @@ departments:
     phone:
     - 202-366-0948
   top_level: false
+  usa_id: '49296'
   website: http://www.fhwa.dot.gov/foia/index.htm
-- address:
+- abbreviation: FRA
+  address:
     address_lines:
     - Denise Kollehlon
     - FOIA/PA Contact, Office of the Chief Counsel
@@ -558,6 +562,9 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: The Federal Railroad Administration is charged with creating and enforcing
+    rail safety regulations, administering rail funding, and researching rail improvement
+    strategies and technologies.
   emails:
   - frafoia@dot.gov
   fax: 202-493-6068
@@ -655,8 +662,10 @@ departments:
     phone:
     - 202-493-6065
   top_level: false
+  usa_id: '49318'
   website: http://www.fra.dot.gov/Page/P0387
-- address:
+- abbreviation: FTA
+  address:
     address_lines:
     - Nancy Sipes
     - FOIA/PA Contact
@@ -665,6 +674,9 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: The Federal Transit Administration seeks to improve public transportation
+    by assisting state and local governments with planning, implementation, and financing
+    of public transportation projects.
   emails:
   - FTA.FOIA@dot.gov
   fax: 202-366-7164
@@ -760,8 +772,10 @@ departments:
     phone:
     - 202-366-2494
   top_level: false
+  usa_id: '49323'
   website: http://www.fta.dot.gov/newsroom/12814.html
-- address:
+- abbreviation: FMCSA
+  address:
     address_lines:
     - Tiffanie C. Coleman
     - FOIA/PA Contact (MC-MMI)
@@ -770,6 +784,10 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: The FMCSA provides information about your rights when moving across
+    state lines (interstate moves). Consumers should submit household goods commercial
+    complaints or dangerous safety violations involving a commercial truck or bus
+    to this agency.
   emails:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
@@ -916,6 +934,7 @@ departments:
     phone:
     - 202-366-2960
   top_level: false
+  usa_id: '49315'
   website: http://www.fmcsa.dot.gov/foia
 - abbreviation: NHTSA
   address:
@@ -1051,7 +1070,8 @@ departments:
   top_level: true
   usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
-- address:
+- abbreviation: MARAD
+  address:
     address_lines:
     - T. Mitchell Hudson, Jr.
     - FOIA Officer, Division of Legislation and Regulations
@@ -1060,6 +1080,10 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: Part of the Department of Transportation, the Maritime Commission works
+    to ensure the health of the U.S. merchant marine. The Maritime Administration
+    also works to improve port efficiency, and to maintain an adequate ship building
+    and repair infrastructure.
   emails:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
@@ -1181,6 +1205,7 @@ departments:
     phone:
     - 202-366-2666
   top_level: false
+  usa_id: '49448'
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
     address_lines:
@@ -1191,6 +1216,8 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
+  description: The Pipeline and Hazardous Materials Safety Administration regulates
+    the transport of hazardous materials.
   emails:
   - PHMSA.FOIA@dot.gov
   fax: 202-336-7041
@@ -1334,6 +1361,7 @@ departments:
     phone:
     - 202-366-4400
   top_level: false
+  usa_id: '49616'
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
     address_lines:
@@ -1343,6 +1371,9 @@ departments:
     state: NY
     street: P.O. Box 520
     zip: 13662-0520
+  description: Working in concert with its Canadian counterpart, the Saint Lawrence
+    Seaway Development Corporation works to operate and maintain a safe, reliable,
+    efficient waterway between the Great Lakes and the Atlantic Ocean.
   emails:
   - slsdc@dot.gov
   fax: 315-764-3235
@@ -1412,6 +1443,7 @@ departments:
     phone:
     - 315-764-3275
   top_level: false
+  usa_id: '49656'
   website: http://www.dot.gov/foia/foia_contacts.htm
 - abbreviation: STB
   address:
@@ -1517,10 +1549,9 @@ departments:
   top_level: false
   usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
-description: The Department's mission is to serve the United States by ensuring a
-  fast, safe, efficient, accessible and convenient transportation system that meets
-  our vital national interests and enhances the quality of life of the American people,
-  today and into the future.
+description: The Department of Transportation is responsible for planning and coordinating
+  federal transportation projects. It also sets safety regulations for all major modes
+  of transportation.
 emails:
 - ost.foia@dot.gov
 fax: 202-366-8536

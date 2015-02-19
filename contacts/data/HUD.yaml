@@ -935,12 +935,9 @@ departments:
     - 206-220-5101
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
-description: 'HUD´s mission is to create strong, sustainable, inclusive communities
-  and quality affordable homes for all. HUD is working to strengthen the housing market
-  to bolster the economy and protect consumers; meet the need for quality affordable
-  rental homes: utilize housing as a platform for improving quality of life; build
-  inclusive and sustainable communities free from discrimination; and transform the
-  way HUD does business.'
+description: The Department of Housing and Urban Development administers programs
+  that provide housing and community development assistance. The Department also works
+  to ensure fair and equal housing opportunity for all.
 emails:
 - foia_hud.gov
 fax: 202-619-8365
@@ -1167,5 +1164,5 @@ service_center:
   phone:
   - 202-708-3866
 top_level: false
-usa_id: '49376'
+usa_id: '49023'
 website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

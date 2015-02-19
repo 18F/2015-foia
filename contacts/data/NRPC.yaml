@@ -1,6 +1,7 @@
 abbreviation: AMTRAK
 departments:
-- address:
+- abbreviation: AMTRAK
+  address:
     address_lines:
     - Sharron H. Hawkins
     - FOIA Officer
@@ -8,6 +9,8 @@ departments:
     state: DC
     street: 60 Massachusetts Avenue, NE
     zip: '20002'
+  description: Amtrak, the National Railroad Passenger Corporation, provides intercity
+    rail passenger service.
   emails:
   - foiarequests@amtrak.com
   fax: 202-906-3285
@@ -104,10 +107,10 @@ departments:
     phone:
     - 202-906-3740
   top_level: false
+  usa_id: '49084'
   website: http://www.amtrak.com/servlet/ContentServer/Page/1241267362261/1241267362261
-description: The National Railroad Passenger Corporation, Amtrak is a government-owned
-  corporation striving to deliver a high quality, safe, on-time rail passenger service
-  that exceeds customer expectations. Learn all about Amtrak here from every angle.
+description: Amtrak, the National Railroad Passenger Corporation, provides intercity
+  rail passenger service.
 name: AMTRAK
 request_time_stats:
   '2008':

@@ -1,6 +1,7 @@
 abbreviation: OMB
 departments:
-- address:
+- abbreviation: OMB
+  address:
     address_lines:
     - Dionne Hardy
     - FOIA Officer
@@ -9,6 +10,8 @@ departments:
     state: DC
     street: 725 17th Street, NW
     zip: '20503'
+  description: The Office of Management and Budget oversees the performance of federal
+    agencies, and administers the federal budget.
   emails:
   - OMBFOIA@omb.eop.gov
   fax: 202-395-3504
@@ -85,9 +88,10 @@ departments:
     phone:
     - 202-395-3642
   top_level: false
+  usa_id: '49584'
   website: http://www.whitehouse.gov/omb/foia_default
-description: The core mission of OMB is to serve the President of the United States
-  in implementing his vision across the Executive Branch.
+description: The Office of Management and Budget oversees the performance of federal
+  agencies, and administers the federal budget.
 keywords:
 - Accounting
 - Administrative practice and procedure

@@ -405,7 +405,8 @@ departments:
     - 202-874-5602
   top_level: false
   website: http://www.fms.treas.gov/foia/index.html
-- address:
+- abbreviation: IRS
+  address:
     address_lines:
     - FOIA Contact
     - HQ FOIA Stop 211
@@ -413,6 +414,8 @@ departments:
     state: GA
     street: PO Box 621506
     zip: 30362-3006
+  description: The Internal Revenue Service (IRS) administers and enforces U.S. federal
+    tax laws.
   fax: 877-807-9215
   keywords:
   - Accounting
@@ -499,6 +502,7 @@ departments:
     phone:
     - 202-317-3475
   top_level: true
+  usa_id: '48068'
   website: http://www.irs.gov/uac/IRS-Freedom-of-Information
 - abbreviation: ''
   address:
@@ -564,11 +568,9 @@ departments:
     - 202-622-4068
   top_level: false
   website: http://www.treasury.gov/tigta/important_foia.shtml
-description: The Department's mission is to maintain a strong economy and create economic
-  and job opportunities by promoting the conditions that enable economic growth and
-  stability at home and abroad, strengthen national security by combating threats
-  and protecting the integrity of the financial system, and manage the U.S. Government´s
-  finances and resources effectively.
+description: The Department of the Treasury manages Federal finances by collecting
+  taxes and paying bills and by managing currency, government accounts and public
+  debt. The Department of the Treasury also enforces finance and tax laws.
 keywords:
 - Accountants
 - Accounting

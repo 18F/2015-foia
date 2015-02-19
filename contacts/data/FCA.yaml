@@ -8,6 +8,9 @@ departments:
     state: VA
     street: 1501 Farm Credit Drive
     zip: 22102-5090
+  description: The Farm Credit Administration is an independent financial regulatory
+    agency that oversees the various lending institutions and banks serving agricultural
+    and rural America.
   emails:
   - foiaofficer@fca.gov
   fax: 703-790-0052
@@ -84,14 +87,11 @@ departments:
     phone:
     - 703-883-4020
   top_level: false
+  usa_id: '52605'
   website: http://www.fca.gov/home/freedom_info.html
-description: 'FCA´s mission is to ensure a dependable source of credit for agriculture
-  and rural America. We do this in two ways:
-
-  ·1.By creating regulations for FCS institutions to follow
-
-  ·2.By examining FCS institutions to ensure their compliance with the Farm Credit
-  Act of 1971 (as amended), FCA regulations, and safe and sound banking practices'
+description: The Farm Credit Administration is an independent financial regulatory
+  agency that oversees the various lending institutions and banks serving agricultural
+  and rural America.
 keywords:
 - Accounting
 - Administrative practice and procedure

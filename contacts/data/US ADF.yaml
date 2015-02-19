@@ -8,6 +8,8 @@ departments:
     state: DC
     street: 1400 Eye Street, NW
     zip: 20005-2248
+  description: The African Development Foundation provides grants to community groups
+    and small enterprises that benefit under-served and marginalized groups in Africa.
   fax: 202-673-3810
   misc:
     FOIA Contact, Associate General Counsel:
@@ -76,9 +78,10 @@ departments:
     phone:
     - 202-673-3916
   top_level: false
+  usa_id: '52581'
   website: http://www.adf.gov/OpenGovernment.html
-description: USADF provides direct support to community organizations and enterprises
-  that benefit under served and marginalized communities in Africa.
+description: The African Development Foundation provides grants to community groups
+  and small enterprises that benefit under-served and marginalized groups in Africa.
 keywords:
 - Administrative practice and procedure
 - Government employees

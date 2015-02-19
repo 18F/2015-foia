@@ -9,6 +9,9 @@ departments:
     state: VA
     street: 1000 Wilson Boulevard
     zip: 22209-3901
+  description: The United States Trade and Development Agency links U.S. businesses
+    to export opportunities by funding project planning activities, pilot projects,
+    and reverse trade missions.
   fax: 703-875-4009
   misc:
     FOIA Contact:
@@ -73,12 +76,11 @@ departments:
     phone:
     - 703-875-5578
   top_level: false
+  usa_id: '49721'
   website: http://www.ustda.gov/pubs/foia/
-description: The U.S. Trade and Development Agency helps companies create U.S. jobs
-  through the export of U.S. goods and services for priority development projects
-  in emerging economies. USTDA links U.S. businesses to export opportunities by funding
-  project planning activities, pilot projects, and reverse trade missions while creating
-  sustainable infrastructure and economic growth in partner countries.
+description: The United States Trade and Development Agency links U.S. businesses
+  to export opportunities by funding project planning activities, pilot projects,
+  and reverse trade missions.
 name: United States Trade and Development Agency
 request_time_stats:
   '2010':

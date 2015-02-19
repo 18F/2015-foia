@@ -9,6 +9,9 @@ departments:
     state: VA
     street: 2300 Clarendon Boulevard
     zip: '22201'
+  description: The American Battle Monuments Commission manages 24 overseas military
+    cemeteries, and 25 memorials, monuments, and markers. Nearly all the cemeteries
+    and memorials honor those who served in World War I or World War II.
   misc:
     FOIA Assistant:
       name: Martha R. Sell
@@ -64,11 +67,11 @@ departments:
     phone:
     - 703-696-6897
   top_level: false
+  usa_id: '52584'
   website: http://www.abmc.gov/foia
-description: "The American Battle Monuments Commission, established by the Congress\
-  \ in 1923, is an agency of the Executive Branch of the Federal Government. \n\n\
-  The Commission-guardian of America´s overseas commemorative cemeteries and memorials-honors\
-  \ the service, achievements and sacrifice of United States Armed Forces."
+description: The American Battle Monuments Commission manages 24 overseas military
+  cemeteries, and 25 memorials, monuments, and markers. Nearly all the cemeteries
+  and memorials honor those who served in World War I or World War II.
 keywords:
 - Freedom of information
 - Monuments and memorials

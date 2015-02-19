@@ -142,6 +142,8 @@ departments:
     state: DC
     street: Rom 4836
     zip: '20230'
+  description: The Economics and Statistics Administration provides economic analysis,
+    distributes national economic indicators, and oversees the Census Bureau.
   emails:
   - pmoulder@doc.gov
   fax: 202-482-2889
@@ -236,8 +238,10 @@ departments:
     phone:
     - 202-482-5997
   top_level: false
+  usa_id: '49243'
   website: https://www.esa.doc.gov/freedom-information-act
-- address:
+- abbreviation: EDA
+  address:
     address_lines:
     - Stephen Kong
     - FOIA Officer
@@ -246,6 +250,9 @@ departments:
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
+  description: The Economic Development Administration provides grants to economically
+    distressed communities to generate new employment, and stimulate industrial and
+    commercial growth.
   emails:
   - SKong@eda.gov
   fax: 202-482-5671
@@ -362,6 +369,7 @@ departments:
     phone:
     - 202-482-3085
   top_level: false
+  usa_id: '49240'
   website: http://www.eda.gov/foia.htm
 - address:
     address_lines:
@@ -372,6 +380,9 @@ departments:
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
+  description: The Bureau of Industry and Security promotes the Nation’s economic
+    development and technological advancement by ensuring an effective export control
+    and treaty compliance system.
   emails:
   - efoiarequest@bis.doc.gov
   fax: 202-482-0326
@@ -498,6 +509,7 @@ departments:
     phone:
     - 202-482-0953
   top_level: false
+  usa_id: '49120'
   website: http://www.bis.doc.gov/foia/default.htm
 - abbreviation: ITA
   address:
@@ -988,6 +1000,10 @@ departments:
     state: DC
     street: 14th Street and Constitution Avenue, NW
     zip: '20230'
+  description: The National Telecommunications and Information Administration manages
+    federal spectrum use, makes grants to further develop and deploy broadband internet,
+    conducts telecommunications research, and advises the president on telecommunications
+    and information policy issues.
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
@@ -1104,6 +1120,7 @@ departments:
     phone:
     - 202-482-1816
   top_level: false
+  usa_id: '49551'
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
 - abbreviation: NOAA
   address:

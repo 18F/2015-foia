@@ -48,6 +48,9 @@ departments:
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
+  description: Contact the National Cemetery Administration for information about
+    burials, headstones or markers, the State Cemetery Grants Program, and presidential
+    memorial certificates for veterans.
   emails:
   - nca.foia@va.gov
   fax: 202-632-7572
@@ -112,6 +115,7 @@ departments:
     phone:
     - 202-461-6214
   top_level: false
+  usa_id: '48074'
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
@@ -122,6 +126,8 @@ departments:
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
+  description: The VBA helps veterans receive benefits, such as educational and financial
+    resources.
   emails:
   - foia.vbaco@va.gov
   fax: 202-275-5947
@@ -216,8 +222,10 @@ departments:
     phone:
     - 202-491-9439
   top_level: false
+  usa_id: '48156'
   website: http://oprm.va.gov/foia/
-- address:
+- abbreviation: VHA
+  address:
     address_lines:
     - Timothy Graham
     - FOIA Contact
@@ -226,6 +234,8 @@ departments:
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
+  description: VHA serves the needs of Americas veterans by providing primary care,
+    specialized care, and related medical and social support services.
   emails:
   - vhafoia2@va.gov
   fax: 202-273-9387
@@ -320,6 +330,7 @@ departments:
     phone:
     - 215-823-4146
   top_level: false
+  usa_id: '48159'
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
@@ -1739,9 +1750,8 @@ departments:
     - 202-303-3260 x5429
   top_level: false
   website: http://oprm.va.gov/foia/
-description: The Department's mission is to fulfill President Lincoln's promise "To
-  care for him who shall have borne the battle, and for his widow, and his orphan"
-  by serving and honoring the men and women who are America´s veterans.
+description: For information about VA medical care or benefits, write, call or visit
+  your nearest VA facility.
 fax: 202-632-7581
 keywords:
 - Accounting

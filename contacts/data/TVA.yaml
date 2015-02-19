@@ -9,6 +9,9 @@ departments:
     state: TN
     street: 400 West Summit Hill Drive WT 7C
     zip: 37902-1499
+  description: The Tennessee Valley Authority, a government owned corporation, provides
+    low-cost electricity in seven southeatern states and provides flood control, navigation,
+    and land management for the Tennessee River system.
   emails:
   - foia@tva.gov
   fax: 865-632-6901
@@ -96,10 +99,11 @@ departments:
     phone:
     - 865-632-6945
   top_level: false
+  usa_id: '52660'
   website: http://www.tva.gov/foia/
-description: TVA has renewed its vision to help lead the Tennessee Valley region and
-  the nation toward a cleaner and more secure energy future, relying more on nuclear
-  power and energy efficiency and relying less on coal.
+description: The Tennessee Valley Authority, a government owned corporation, provides
+  low-cost electricity in seven southeatern states and provides flood control, navigation,
+  and land management for the Tennessee River system.
 keywords:
 - Administrative practice and procedure
 - Aged

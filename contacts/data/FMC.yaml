@@ -8,6 +8,9 @@ departments:
     state: DC
     street: 800 North Capitol Street, NW
     zip: '20573'
+  description: The Federal Maritime Commission is responsible for regulating the U.S.
+    international ocean transportation system for the benefit of U.S. exporters, importers,
+    and the U.S. consumer.
   emails:
   - FOIA@fmc.gov
   fax: 202-523-0014
@@ -96,9 +99,11 @@ departments:
     phone:
     - 202-523-5707
   top_level: false
+  usa_id: '52615'
   website: http://www.fmc.gov/about/freedom_of_information_act.aspx
-description: The Commission is responsible for the regulation of ocean-borne transportation
-  in the foreign commerce of the U.S.
+description: The Federal Maritime Commission is responsible for regulating the U.S.
+  international ocean transportation system for the benefit of U.S. exporters, importers,
+  and the U.S. consumer.
 name: Federal Maritime Commission
 request_time_stats:
   '2008':
