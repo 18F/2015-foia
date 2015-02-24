@@ -5,3 +5,6 @@ departments:
   emails: []
 - name: San Francisco Regional Office
   emails: []
+- name: Denver Regional Office
+  emails:
+  - deromail@flra.gov

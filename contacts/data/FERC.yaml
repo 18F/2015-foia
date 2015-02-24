@@ -26,7 +26,7 @@ departments:
   reading_rooms:
   - - Reading Room Material
     - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
-  request_form: http://www.ferc.gov/legal/ceii-foia/foia/efoia.asp
+  request_form: http://www.ferc.gov/legal/ceii-foia/foia/foia-new-form/FOIARequest.aspx
   request_time_stats:
     '2008':
       complex_average_days: '25'

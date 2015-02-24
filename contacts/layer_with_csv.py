@@ -35,7 +35,7 @@ def organize_address(row):
             'city': row['City'].strip(),
             'state': row['State'].strip(),
             'zip': str(row['Zip Code']).replace('.0', '')
-            })
+        })
         return address_dict
 
 
@@ -85,9 +85,11 @@ def add_contact_info(contacts, row):
     address = organize_address(row)
     if address and 'address' not in office_struct:
         office_struct['address'] = address
-    if row['Email Address']:
-        office_struct['emails'].append(
-            row['Email Address'].replace('mailto:', ''))
+    email = row.get('Email Address')
+    if email:
+        email = email.replace('mailto:', '')
+        if email not in office_struct['emails']:
+            office_struct['emails'].append(email)
 
     # People
     lower_title = row['Title'].lower()
