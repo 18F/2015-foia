@@ -26,9 +26,6 @@ departments:
     name: Barry Lineback
     phone:
     - 703-603-7740
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.abilityone.gov/laws_and_regulations/foia_reading_room.html
   request_time_stats:
     '2008':
       complex_average_days: '16'

@@ -94,9 +94,6 @@ departments:
     name: Lubna Shirazi
     phone:
     - 650-604-1138
-  reading_rooms:
-  - - '> Electronic Reading Room'
-    - http://www.nasa.gov/centers/ames/business/foia/elec.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -184,9 +181,6 @@ departments:
     name: Kim Lewis-Bias
     phone:
     - 661-276-2704
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -371,9 +365,6 @@ departments:
     name: Joan Belt
     phone:
     - 301-286-4271
-  reading_rooms:
-  - - Electronic Reading Room  →
-    - https://foiaelibrary.gsfc.nasa.gov/index.cfm?fuseaction=foia.eReadingRoom
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -447,8 +438,7 @@ departments:
     - 301-286-4271
   top_level: false
   website: http://www.nasa.gov/centers/goddard/business/foia/index.html
-- abbreviation: JPL
-  address:
+- address:
     address_lines:
     - Dennis Mahon
     - JPL FOIA Officer
@@ -751,10 +741,6 @@ departments:
     name: Carissa Wheeler
     phone:
     - 757-864-4274
-  reading_rooms:
-  - - Electronic FOIA Library
-    - http://www.nasa.gov/centers/langley/reading/index.html
-  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '377'
@@ -843,9 +829,6 @@ departments:
     name: Judi Hollingsworth
     phone:
     - 256-544-1837
-  reading_rooms:
-  - - + FOIA Library
-    - http://foia.msfc.nasa.gov/reading.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -1023,9 +1006,6 @@ departments:
     name: Jamie Mettler
     phone:
     - 228-813-6174
-  reading_rooms:
-  - - FOIA Library
-    - https://answers.nssc.nasa.gov/app/answers/detail/a_id/6337
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -1115,9 +1095,6 @@ departments:
     name: Sally Bilbo
     phone:
     - 228-688-3182
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':

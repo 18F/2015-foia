@@ -24,9 +24,6 @@ departments:
     name: Renee Barley
     phone:
     - 202-220-5300
-  reading_rooms:
-  - - FOIA Electronic Reading Room
-    - http://www.csosa.gov/about/foia/reading-room.aspx
   request_form: http://www.csosa.gov/about/foia/foia-request-form.aspx
   request_time_stats:
     '2011':

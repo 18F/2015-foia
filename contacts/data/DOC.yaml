@@ -9,8 +9,7 @@ address:
   street: 14th Street and Constitution Avenue, NW
   zip: '20230'
 departments:
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Michael Toland, Ph.D.
     - Freedom of Information Act Officer
@@ -422,9 +421,6 @@ departments:
     name: Jennifer Kuo
     phone:
     - 202-482-0953
-  reading_rooms:
-  - - BIS' Electronic Reading Room
-    - http://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -565,9 +561,6 @@ departments:
     name: Justin Guz
     phone:
     - 202-482-7937
-  reading_rooms:
-  - - DOC's Electronic Reading Room
-    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -649,8 +642,7 @@ departments:
   top_level: true
   usa_id: '49409'
   website: http://www.ita.doc.gov/foia/
-- abbreviation: MBDA
-  address:
+- address:
     address_lines:
     - Clara Colbert
     - FOIA Officer
@@ -672,9 +664,6 @@ departments:
     name: Josephine Arnold
     phone:
     - 202-482-5461
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.mbda.gov/freedom-information-act-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -879,8 +868,7 @@ departments:
   top_level: true
   usa_id: '49517'
   website: http://www.nist.gov/director/foia/
-- abbreviation: NTIS
-  address:
+- address:
     address_lines:
     - Lee Halvorsen
     - FOIA Contact
@@ -907,9 +895,6 @@ departments:
     name: Steve Needle
     phone:
     - 703-605-6404
-  reading_rooms:
-  - - NTIS FOIA Electronic Reading Room
-    - http://www.ntis.gov/about/foia/
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1216,9 +1201,6 @@ departments:
     name: Robert Swisher
     phone:
     - 301-628-5755
-  reading_rooms:
-  - - Reading Room
-    - http://www.noaa.gov/foia/reading_room/index.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -1305,8 +1287,7 @@ departments:
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
-- abbreviation: USPTO
-  address:
+- address:
     address_lines:
     - Kathryn Siehndel
     - FOIA Contact
@@ -1453,9 +1434,6 @@ departments:
     name: Laura Bell
     phone:
     - 202-482-3470
-  reading_rooms:
-  - - FOIA Electronic Reading Room
-    - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   request_time_stats:
     '2008':
@@ -1834,9 +1812,6 @@ departments:
     name: Bobbie Parsons
     phone:
     - 202-482-3257
-  reading_rooms:
-  - - FOIA Electronic Library (Formerly E-Reading Room)
-    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -2147,9 +2122,6 @@ public_liaison:
   name: Brenda Dolan
   phone:
   - 202-482-3258
-reading_rooms:
-- - FOIA Electronic Library (Formerly E-Reading Room)
-  - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
 request_time_stats:
   '2008':
     complex_average_days: '109'

@@ -28,9 +28,6 @@ departments:
     name: Dawn S. Wiggins
     phone:
     - 410-965-1727
-  reading_rooms:
-  - - FOIA Library
-    - http://www.ssa.gov/foia/readingroom.html
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
   request_time_stats:
     '2008':

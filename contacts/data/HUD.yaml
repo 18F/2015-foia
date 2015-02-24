@@ -32,9 +32,6 @@ departments:
     name: Vicky J. Lewis
     phone:
     - 202-708-3054
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -117,9 +114,6 @@ departments:
     name: Kristine G. Foye
     phone:
     - 617-994-8218
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -201,9 +195,6 @@ departments:
     name: Mirza Morales
     phone:
     - 212-542-7109
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -285,9 +276,6 @@ departments:
     name: Brenda Laroche
     phone:
     - 215-656-0600
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -369,9 +357,6 @@ departments:
     name: Thomacina Brown
     phone:
     - 404-331-5001 x2380
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -454,9 +439,6 @@ departments:
     name: Beverly Bishop
     phone:
     - 312-353-5680 x2139
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -539,9 +521,6 @@ departments:
     name: Patricia Campbell
     phone:
     - 817-978-5974 x1010
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -622,9 +601,6 @@ departments:
     name: Eugene (Gene) Lipscomb
     phone:
     - 913-551-5476
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -705,9 +681,6 @@ departments:
     name: Deborah Griswold
     phone:
     - 303-672-5440 x1442
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -789,9 +762,6 @@ departments:
     name: Suzie Hernandez
     phone:
     - 916-498-7381
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -873,9 +843,6 @@ departments:
     name: Patty Huster
     phone:
     - 206-220-5101
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -1111,9 +1078,6 @@ public_liaison:
   name: Vicky J. Lewis
   phone:
   - 202-708-3054
-reading_rooms:
-- - E-FOIA Reading Room
-  - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
 request_form: https://hudpal.efoia-host.com/palMain.aspx
 request_time_stats:
   '2010':

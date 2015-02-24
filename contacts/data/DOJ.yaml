@@ -1,7 +1,6 @@
 abbreviation: DOJ
 departments:
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Carmen L. Mallon
     - Chief of Staff, Office of Information Policy
@@ -28,9 +27,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -137,9 +133,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -246,9 +239,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/asg/oasg-electronic-reading-room
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -350,9 +340,6 @@ departments:
     name: Ronald Wiercioch
     phone:
     - 202-514-2692
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.justice.gov/atr/foia/foiaroom.html
   request_time_stats:
     '2008':
       complex_average_days: '458'
@@ -418,8 +405,7 @@ departments:
   top_level: false
   usa_id: '52682'
   website: http://www.justice.gov/atr/foia/index.html
-- abbreviation: ATF
-  address:
+- address:
     address_lines:
     - Stephanie Boucher
     - Division Chief
@@ -754,9 +740,6 @@ departments:
     name: Irene Kho
     phone:
     - 202-305-2964
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/crs/crs-electronic-reading-room
   request_time_stats:
     '2008':
       simple_average_days: '9'
@@ -826,9 +809,6 @@ departments:
     name: Margaret Harris
     phone:
     - 202-616-0307
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/criminal/foia/elect-read-room.html
   request_time_stats:
     '2008':
       complex_average_days: '830'
@@ -905,8 +885,7 @@ departments:
     - 202-616-0307
   top_level: false
   website: http://www.justice.gov/criminal/foia/
-- abbreviation: DEA
-  address:
+- address:
     address_lines:
     - Katherine L. Myrick
     - Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section
@@ -956,7 +935,6 @@ departments:
     name: Wanda Jones
     phone:
     - 202-307-7623
-  reading_rooms: []
   request_time_stats:
     '2008':
       complex_average_days: '126.39'
@@ -1043,9 +1021,6 @@ departments:
     name: Amber Blaha
     phone:
     - 202-616-5515
-  reading_rooms:
-  - - 'FOIA Library:'
-    - http://www.justice.gov/enrd/Current_topics.html
   request_time_stats:
     '2008':
       complex_highest_days: '218'
@@ -1156,9 +1131,6 @@ departments:
     name: Crystal Souza
     phone:
     - 703-605-1297
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/eoir/foia-lib.html
   request_time_stats:
     '2008':
       complex_average_days: '84'
@@ -1325,9 +1297,6 @@ departments:
     name: Donna Preston
     phone:
     - 202-252-6020
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/usao/resources/foia-library
   request_time_stats:
     '2008':
       expedited_processing_average_days: '641.48'
@@ -1411,9 +1380,6 @@ departments:
     name: Mary Snyder Barry
     phone:
     - 202-307-1399
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/ust/eo/foia/foia_err.htm
   request_time_stats:
     '2008':
       complex_average_days: '142'
@@ -1487,12 +1453,10 @@ departments:
     state: VA
     street: 170 Marcel Drive
     zip: 22602-4843
-  description: As an intelligence-driven and a threat-focused national security organization
-    with both intelligence and law enforcement responsibilities, the mission of the
-    FBI is to protect and defend the United States against terrorist and foreign intelligence
-    threats, to uphold and enforce the criminal laws of the United States, and to
-    provide leadership and criminal justice services to federal, state, municipal,
-    and international agencies and partners.
+  description: The Federal Bureau of Investigation enforces federal law, investigating
+    a variety of criminal activity including terrorism, cybercrime, white collar crimes,
+    public corruption, civil rights violations, and other major crimes. </br></br><i>In
+    an emergency dial 911!</i>
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
@@ -1524,11 +1488,6 @@ departments:
     name: Dennis J. Argall
     phone:
     - 540-868-4516
-  reading_rooms:
-  - - FBI Headquarters Reading Room
-    - http://www.fbi.gov/foia/fbi-headquarters-reading-room
-  - - Vault
-    - http://vault.fbi.gov/
   request_time_stats:
     '2008':
       complex_average_days: '374'
@@ -1614,8 +1573,7 @@ departments:
   top_level: true
   usa_id: '49278'
   website: http://www.fbi.gov/foia/
-- abbreviation: BOP
-  address:
+- address:
     address_lines:
     - Wanda M. Hunt
     - Chief, FOIA/PA Section
@@ -1758,9 +1716,6 @@ departments:
     name: Jeremy LaFrancois
     phone:
     - 202-616-6975
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/fcsc/foia-library
   request_time_stats:
     '2008':
       simple_average_days: '15.7'
@@ -1821,9 +1776,6 @@ departments:
     name: Daniel Dembkowski
     phone:
     - 202-616-0201
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/interpol-washington/foia-library
   request_time_stats:
     '2008':
       complex_average_days: '23.16'
@@ -1926,9 +1878,6 @@ departments:
     name: Michael Allen
     phone:
     - 202-514-3101
-  reading_rooms:
-  - - 'FOIA Library:'
-    - http://www.justice.gov/jmd/foia-library
   request_time_stats:
     '2008':
       complex_average_days: '73.2'
@@ -2015,9 +1964,6 @@ departments:
     name: Patricia Matthews
     phone:
     - 202-233-0756
-  reading_rooms:
-  - - 'FOIA Library:'
-    - http://www.justice.gov/nsd/nsd-foia-library
   request_time_stats:
     '2008':
       complex_average_days: '136'
@@ -2276,9 +2222,6 @@ departments:
     name: Deborah M. Waller
     phone:
     - 202-616-0646
-  reading_rooms:
-  - - 'FOIA Library:'
-    - http://www.justice.gov/oig/foia/eroom.htm
   request_time_stats:
     '2008':
       simple_average_days: '23'
@@ -2392,9 +2335,6 @@ departments:
     name: George Pruden
     phone:
     - 202-616-3267
-  reading_rooms:
-  - - FOIA Library
-    - http://ojp.gov/about/foia/reading_room.htm
   request_time_stats:
     '2008':
       complex_average_days: '60.8'
@@ -2478,9 +2418,6 @@ departments:
     name: Lawan Robinson
     phone:
     - 202-353-0258
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.justice.gov/olc/olc-foia-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '253.5'
@@ -2576,9 +2513,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -2680,9 +2614,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - 'FOIA Library:'
-    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -2792,9 +2723,6 @@ departments:
     name: Linda M.V. Bowe
     phone:
     - 202-616-6070
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/pardon/readingroom.htm
   request_time_stats:
     '2008':
       expedited_processing_highest_days: '21'
@@ -2865,9 +2793,6 @@ departments:
     name: Ginae Barnett
     phone:
     - 202-514-3365
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.justice.gov/opr/readingroom/index.html
   request_time_stats:
     '2008':
       complex_average_days: '141'
@@ -2961,9 +2886,6 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/oip/available-documents-oip
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -3064,9 +2986,6 @@ departments:
     name: Valerie H. Hall
     phone:
     - 202-514-2203
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.justice.gov/osg/osg-freedom-information-act-0
   request_time_stats:
     '2008':
       expedited_processing_average_days: '5'
@@ -3153,9 +3072,6 @@ departments:
     name: Donna Preston
     phone:
     - 202-252-6020
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/usao/resources/foia-library
   service_center:
     phone:
     - 202-252-6020
@@ -3250,9 +3166,6 @@ departments:
     name: Michael Kingsley
     phone:
     - 202-514-0458
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/prao/foia-library
   request_time_stats:
     '2008':
       simple_average_days: '12.1'
@@ -3313,9 +3226,6 @@ departments:
     name: Billie Willis
     phone:
     - 202-307-0462
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/tax/readingroom/foia/tax.htm
   request_time_stats:
     '2008':
       complex_average_days: '132'
@@ -3380,8 +3290,7 @@ departments:
     - 202-616-3399
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - William E. Bordley
     - Associate General Counsel, Office of General Counsel
@@ -3523,9 +3432,6 @@ departments:
     name: Rockne Chickinell
     phone:
     - 202-346-7030
-  reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/uspc/reading-room.html
   request_time_stats:
     '2008':
       complex_average_days: '24'

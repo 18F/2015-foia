@@ -22,9 +22,6 @@ departments:
     name: Kevin Hagerty
     phone:
     - 202-586-5955
-  reading_rooms:
-  - - Reading Room
-    - http://energy.gov/management/office-management/operational-management/freedom-information-act/reading-room
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   request_time_stats:
     '2008':
@@ -131,11 +128,6 @@ departments:
     name: Brian Quirke
     phone:
     - 630-252-2423
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://science.energy.gov/isc/foia/electronic-reading-room/
-  - - ISC Conventional Reading Rooms
-    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   request_time_stats:
     '2008':
@@ -226,11 +218,6 @@ departments:
     name: Clayton Ogilvie
     phone:
     - 208-526-5190
-  reading_rooms:
-  - - Electronic Reading Room Documents
-    - http://www.id.doe.gov/foia/archive.htm
-  - - Reading Room
-    - http://www.id.doe.gov/foia/read.htm
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   request_time_stats:
     '2008':
@@ -317,11 +304,6 @@ departments:
     name: DiAnn Fields
     phone:
     - 865-576-0885
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://science.energy.gov/isc/foia/electronic-reading-room/
-  - - ISC Conventional Reading Rooms
-    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   request_time_stats:
     '2008':
@@ -407,8 +389,7 @@ departments:
     - 865-576-1216
   top_level: false
   website: http://science.energy.gov/isc/foia/
-- abbreviation: OSTI
-  address:
+- address:
     address_lines:
     - Madelyn Wilson
     - FOIA Officer
@@ -508,9 +489,6 @@ departments:
     name: Richard Buel
     phone:
     - 509-376-3375
-  reading_rooms:
-  - - Electronic FOIA Reading Room
-    - http://www.hanford.gov/?page=69
   request_form: http://www.hanford.gov/c.cfm/foia/
   request_time_stats:
     '2008':
@@ -642,11 +620,6 @@ departments:
     name: Cynthia Brown
     phone:
     - 866-747-5994
-  reading_rooms:
-  - - Virtual Reading Room after to 2000
-    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000
-  - - Virtual Reading Room prior to 2000
-    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   request_time_stats:
     '2008':
@@ -752,9 +725,6 @@ departments:
     name: George Hellstrom
     phone:
     - 575-234-7010
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.wipp.energy.gov/library/foia/FOIA_Reading_Room.htm
   request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
   service_center:
     phone:
@@ -783,9 +753,6 @@ departments:
     name: Derek Passarelli
     phone:
     - 720-356-1742
-  reading_rooms:
-  - - Golden Field Office Reading Room
-    - http://energy.gov/eere/golden-field-office-reading-room
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   request_time_stats:
     '2008':
@@ -958,9 +925,6 @@ departments:
     name: Kim Winn
     phone:
     - 503-230-5273
-  reading_rooms:
-  - - FOIA Library and Resources
-    - http://www.bpa.gov/news/FOIA/library/Pages/default.aspx
   request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
   request_time_stats:
     '2008':
@@ -1083,11 +1047,6 @@ departments:
     name: Larry Yadon
     phone:
     - 918-595-6607
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.swpa.gov/viewfoiarequests.aspx
-  - - Electronic Reading Room
-    - http://www.swpa.gov/viewfoiarequests.aspx#status
   request_form: http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm
   request_time_stats:
     '2008':
@@ -1171,9 +1130,6 @@ departments:
     name: John D. Bremer
     phone:
     - 720-962-7010
-  reading_rooms:
-  - - Reading Room
-    - http://ww2.wapa.gov/sites/Western/foia/Pages/Reading.aspx
   request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
   request_time_stats:
     '2008':
@@ -1248,9 +1204,6 @@ departments:
     name: Deanna Harvey
     phone:
     - 504-734-4316
-  reading_rooms:
-  - - Public Reading Room
-    - http://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html
   request_form: http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm
   request_time_stats:
     '2008':

@@ -22,9 +22,6 @@ departments:
     name: Denora Miller
     phone:
     - 202-692-1236
-  reading_rooms:
-  - - Reading Room
-    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
   service_center:
     phone:
@@ -52,9 +49,6 @@ departments:
     name: Jeffrey Reichert
     phone:
     - 202-692-2922
-  reading_rooms:
-  - - Reading Room
-    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
   request_time_stats:
     '2008':

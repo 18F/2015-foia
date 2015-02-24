@@ -28,9 +28,6 @@ departments:
       McInerney
     phone:
     - 202-551-7900
-  reading_rooms:
-  - - Conventional and Electronic Reading Rooms
-    - http://www.sec.gov/foia/efoiapg.htm
   request_form: https://tts.sec.gov/cgi-bin/request_public_docs
   request_time_stats:
     '2011':

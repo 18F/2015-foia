@@ -39,8 +39,7 @@ departments:
     - 866-431-0486
   top_level: false
   website: http://www.dhs.gov/xfoia/editorial_0579.shtm
-- abbreviation: USCIS
-  address:
+- address:
     address_lines:
     - Jill Eggleston
     - FOIA Officer
@@ -81,9 +80,6 @@ departments:
     name: Jill Eggleston
     phone:
     - 816-350-5521
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.uscis.gov/about-us/electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '291.8'
@@ -262,8 +258,7 @@ departments:
     - 202-357-1218
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
-- abbreviation: USCG
-  address:
+- address:
     address_lines:
     - Gaston Brewer
     - FOIA Officer
@@ -399,9 +394,6 @@ departments:
     name: Gaston Brewer
     phone:
     - 202-475-3522
-  reading_rooms:
-  - - FOIA Library
-    - http://www.uscg.mil/foia/FOIA_Library.asp
   request_time_stats:
     '2008':
       complex_average_days: '343'
@@ -476,8 +468,7 @@ departments:
   top_level: true
   usa_id: '49149'
   website: http://www.uscg.mil/foia/
-- abbreviation: CBP
-  address:
+- address:
     address_lines:
     - Sabrina Burroughs
     - FOIA Officer
@@ -911,8 +902,7 @@ departments:
   top_level: true
   usa_id: '48042'
   website: http://www.fema.gov/fema-freedom-information-act
-- abbreviation: FLETC
-  address:
+- address:
     address_lines:
     - Leslie A. Jensen
     - FOIA Officer
@@ -936,11 +926,6 @@ departments:
     name: Leslie A. Jensen
     phone:
     - 912-267-3103
-  reading_rooms:
-  - - FOIA Library
-    - https://www.fletc.gov/foia-library
-  - - Freedom of Information Library
-    - https://www.fletc.gov/freedom-information-library
   request_form: http://www.fletc.gov/about/freedom-information-act-request
   request_time_stats:
     '2008':
@@ -995,8 +980,7 @@ departments:
   top_level: true
   usa_id: '49308'
   website: http://www.fletc.gov/freedom-information-act-foia
-- abbreviation: ICE
-  address:
+- address:
     address_lines:
     - Catrina Pavlick-Keenan
     - FOIA Officer
@@ -1036,9 +1020,6 @@ departments:
     name: Fernando Pineiro
     phone:
     - 202-732-4265
-  reading_rooms:
-  - - FOIA Library
-    - http://www.ice.gov/foia/library
   request_form: http://www.ice.gov/webform/foia-request-form
   request_time_stats:
     '2008':
@@ -1182,9 +1163,6 @@ departments:
     name: Aneet Thind
     phone:
     - 202-254-4001
-  reading_rooms:
-  - - FOIA Electronic Reading Room
-    - http://www.dhs.gov/office-inspector-general-foia-documents
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -1283,9 +1261,6 @@ departments:
     name: Priscilla Waters
     phone:
     - 202-447-4190
-  reading_rooms:
-  - - FOIA Electronic Reading Room
-    - http://www.dhs.gov/foia-library
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -1634,8 +1609,7 @@ departments:
     - 202-254-6342
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Latita Payne
     - Disclosure Officer, FOIA/PA Program, Liaison Division
@@ -1661,9 +1635,6 @@ departments:
     name: Latita Payne
     phone:
     - 202-406-6370
-  reading_rooms:
-  - - FOIA Library
-    - http://www.secretservice.gov/foia_reading.shtml
   request_time_stats:
     '2008':
       complex_average_days: '309.44'
@@ -1821,9 +1792,6 @@ departments:
     name: Yvonne Coates
     phone:
     - 866-364-2872
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.tsa.gov/research-center/electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '55.42'

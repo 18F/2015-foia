@@ -30,11 +30,6 @@ departments:
     name: Richard Gold
     phone:
     - 202-326-3355
-  reading_rooms:
-  - - FOIA Reading Rooms
-    - http://www.ftc.gov/about-ftc/foia/foia-reading-rooms
-  - - OIG Reading Room
-    - http://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
   request_form: https://ftc.gov/ftc/foia.htm
   request_time_stats:
     '2008':

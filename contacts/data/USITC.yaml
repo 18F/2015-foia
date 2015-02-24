@@ -27,9 +27,6 @@ departments:
     name: Jacqueline N. Gross
     phone:
     - 202-205-1816
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.usitc.gov/secretary/foia/foia_ereadingroom.htm
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   request_time_stats:
     '2008':

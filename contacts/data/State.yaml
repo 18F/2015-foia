@@ -1,4 +1,4 @@
-abbreviation: DOS
+abbreviation: State
 departments:
 - abbreviation: DOS
   address:
@@ -25,9 +25,6 @@ departments:
     name: Marianne Manheim
     phone:
     - 202-261-8484
-  reading_rooms:
-  - - Virtual Reading Room Search
-    - http://foia.state.gov/Search/Search.aspx
   request_form: http://foia.state.gov/Request/Submit.aspx
   request_time_stats:
     '2008':
@@ -137,9 +134,6 @@ departments:
     name: Marianne Manheim
     phone:
     - 202-261-8359
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://oig.state.gov/foia-reading-room
   request_form: http://foia.state.gov/foiareq/foialetter.asp
   request_time_stats:
     '2008':

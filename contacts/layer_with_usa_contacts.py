@@ -111,8 +111,9 @@ def update_dict(old_data, new_data):
 
     old_data['usa_id'] = new_data['usa_id']
     if new_data.get('description'):
-        old_data['description'] = new_data['description']
-    if new_data.get('abbreviation'):
+        old_data['description'] = new_data.get('description')
+    if new_data.get('abbreviation') and not old_data.get('abbreviation'):
+        print(old_data.get('abbreviation'), new_data['abbreviation'])
         old_data['abbreviation'] = new_data['abbreviation']
     return old_data
 
@@ -134,15 +135,12 @@ def patch_yamls(data, directory):
         with open(filename) as f:
             agency = yaml.load(f.read())
         agency_name = clean_name(agency.get('name'))
-        if not agency.get('description'):
-            if agency_name in data:
-                agency = update_dict(agency, data[agency_name])
-                del data[agency_name]
+        if agency_name in data:
+            agency = update_dict(agency, data[agency_name])
         for office in agency['departments']:
-            if not office.get('description'):
-                office_name = clean_name(office['name'])
-                if office_name in data:
-                    office = update_dict(office, data[office_name])
+            office_name = clean_name(office['name'])
+            if office_name in data:
+                office = update_dict(office, data[office_name])
         yield agency, filename
 
 

@@ -33,9 +33,6 @@ departments:
     name: Gary Stern
     phone:
     - 301-837-2024
-  reading_rooms:
-  - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center:
     phone:
     - 301-837-3642
@@ -62,9 +59,6 @@ departments:
     name: John Simms
     phone:
     - 301-837-3197
-  reading_rooms:
-  - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center:
     phone:
     - 301-837-3000
@@ -93,9 +87,6 @@ departments:
     name: Steven Tilley
     phone:
     - 301-837-3059
-  reading_rooms:
-  - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
   service_center:
     phone:
     - 301-837-3190
@@ -500,9 +491,6 @@ public_liaison:
   name: Gary Stern
   phone:
   - 301-837-2024
-reading_rooms:
-- - Electronic (FOIA) Reading Room
-  - http://www.archives.gov/foia/electronic-reading-room.html
 request_time_stats:
   '2008':
     complex_average_days: '480.45'

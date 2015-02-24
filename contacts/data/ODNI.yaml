@@ -1,4 +1,4 @@
-abbreviation: DNI
+abbreviation: ODNI
 departments:
 - address:
     address_lines:
@@ -27,9 +27,6 @@ departments:
     name: Jennifer Hudson
     phone:
     - 703-874-8500
-  reading_rooms:
-  - - ODNI's Electronic Reading Room
-    - http://www.dni.gov/index.php/intelligence-community/ic-policies-reports
   request_time_stats:
     '2010':
       complex_average_days: '305.53'

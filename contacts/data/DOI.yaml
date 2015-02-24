@@ -1,7 +1,6 @@
 abbreviation: DOI
 departments:
-- abbreviation: BIA
-  address:
+- address:
     address_lines:
     - Daphne Berwald
     - Acting FOIA Officer
@@ -36,10 +35,12 @@ departments:
   - Government contracts
   - Government property management
   - Grant programs-Indians
+  - Grant programs-housing and community development
   - Grant programs-social programs
   - Grazing lands
   - Health care
   - Highways and roads
+  - Housing
   - Indians
   - Indians-business and finance
   - Indians-claims
@@ -67,9 +68,6 @@ departments:
     name: Monique Hartgrove
     phone:
     - 202-208-4174
-  reading_rooms:
-  - - Reading Room
-    - http://www.bia.gov/FOIA/ReadingRoom/index.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -216,9 +214,6 @@ departments:
     name: Ryan Witt
     phone:
     - 202-912-7650
-  reading_rooms:
-  - - Reading Room
-    - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -354,11 +349,6 @@ departments:
     name: Rosemary Melendy
     phone:
     - 703-787-1315
-  reading_rooms:
-  - - Deepwater Horizon Library and Reading Room
-    - http://www.boem.gov/Deepwater-Reading-Room/
-  - - Library and Reading Room
-    - http://www.boem.gov/BOEM-Newsroom/Library/Library.aspx
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -393,8 +383,7 @@ departments:
   top_level: true
   usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
-- abbreviation: USBR
-  address:
+- address:
     address_lines:
     - Regina Magno-Judd
     - FOIA Officer
@@ -438,9 +427,6 @@ departments:
     name: Regina Magno-Judd
     phone:
     - 303-445-2056
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.usbr.gov/foia/readroom.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -570,9 +556,6 @@ departments:
     name: Debbie Kimball
     phone:
     - 703-787-1689
-  reading_rooms:
-  - - BSEE FOIA Reading Room    (Frequently Requested Documents)
-    - http://www.bsee.gov/About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -692,9 +675,6 @@ departments:
     name: Johnny Hunt
     phone:
     - 703-358-2504
-  reading_rooms:
-  - - FWS FOIA Library
-    - http://www.fws.gov/irm/bpim/foiaread.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -869,8 +849,7 @@ departments:
   top_level: false
   usa_id: '49343'
   website: http://www.usgs.gov/foia/
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Charis Wilson
     - NPS FOIA Officer
@@ -931,9 +910,6 @@ departments:
     name: Charis Wilson
     phone:
     - 303-969-2959
-  reading_rooms:
-  - - NPS FOIA Library
-    - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1035,9 +1011,6 @@ departments:
   public_liaison:
     phone:
     - 202-208-0954
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1177,9 +1150,6 @@ departments:
     name: Richard Lopez
     phone:
     - 303-231-3078
-  reading_rooms:
-  - - Electronic Reading Room (EFOIA)
-    - http://www.onrr.gov/FOIA/EFOIA/default.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   service_center:
     phone:
@@ -1303,11 +1273,6 @@ departments:
     name: Lance Purvis
     phone:
     - 202-208-5817
-  reading_rooms:
-  - - DOI FOIA Library
-    - http://www.doi.gov/foia/doi-foia-library.cfm
-  - - OS FOIA Library
-    - http://www.doi.gov/foia/os/index.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1544,6 +1509,7 @@ keywords:
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-natural resources
 - Grant programs-recreation
 - Grant programs-social programs
@@ -1562,6 +1528,7 @@ keywords:
 - Homesteads
 - Hospitals
 - Hostages
+- Housing
 - Human research subjects
 - Hunting
 - Hydrocarbons

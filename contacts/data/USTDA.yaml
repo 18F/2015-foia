@@ -24,9 +24,6 @@ departments:
     name: Anna Kastelas
     phone:
     - 703-875-4357
-  reading_rooms:
-  - - USTDA FOIA Electronic Reading Room
-    - http://www.ustda.gov/foia/foiareadingroom.asp
   request_time_stats:
     '2010':
       complex_average_days: '105'

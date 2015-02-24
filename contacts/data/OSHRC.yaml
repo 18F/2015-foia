@@ -19,9 +19,6 @@ departments:
     name: Lyndsey Frushour
     phone:
     - 202-606-5700
-  reading_rooms:
-  - - OSHRC e-FOIA Reading Room
-    - http://www.oshrc.gov/foia/foia_reading_room.html
   request_time_stats:
     '2008':
       complex_average_days: '28'

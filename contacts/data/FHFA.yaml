@@ -25,9 +25,6 @@ departments:
     name: Stacy J. Easter
     phone:
     - 202-649-3803
-  reading_rooms:
-  - - Reading Room
-    - http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
   request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
   request_time_stats:
     '2009':

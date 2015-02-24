@@ -26,11 +26,6 @@ departments:
     name: AnDrea Choate
     phone:
     - 202-632-7003
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act/The_Freedom_of_Information_Act/Electronic_Reading_Room.aspx
-  - - Reading Room
-    - http://www.nigc.gov/Reading_Room.aspx
   request_time_stats:
     '2008':
       complex_average_days: '26'

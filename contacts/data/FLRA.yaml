@@ -26,9 +26,6 @@ departments:
       - 202-218-7770
   name: The Authority
   phone: 202-218-7770
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   service_center:
     phone:
     - 202-218-7770
@@ -50,9 +47,6 @@ departments:
       - 202-218-7910
   name: Office of the General Counsel
   phone: 202-218-7910
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '13'
@@ -129,9 +123,6 @@ departments:
       - 404-331-5300
   name: Atlanta Regional Office
   phone: 404-331-5300
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '10'
@@ -209,9 +200,6 @@ departments:
       - 617-565-5100
   name: Boston Regional Office
   phone: 617-565-5100
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '8'
@@ -289,9 +277,6 @@ departments:
       - 312-886-3465
   name: Chicago Regional Office
   phone: 312-886-3465
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '4'
@@ -369,9 +354,6 @@ departments:
       - 214-767-6266
   name: Dallas Regional Office
   phone: 214-767-6266
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '7'
@@ -449,9 +431,6 @@ departments:
       - 303-844-5226
   name: Denver Regional Office
   phone: 303-844-5226
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '9'
@@ -827,9 +806,6 @@ public_liaison:
   name: Gina Grippando
   phone:
   - 202-218-7776
-reading_rooms:
-- - Electronic Reading Room
-  - http://www.flra.gov/elibrary
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':

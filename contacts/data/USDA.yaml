@@ -266,11 +266,6 @@ departments:
     name: Tonya Woods
     phone:
     - 301-734-5267
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
-  - - Freedom of Information Act (FOIA) Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -353,9 +348,6 @@ departments:
     name: Phyllis Holmes
     phone:
     - 202-720-0068
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -434,6 +426,7 @@ departments:
   - Communications
   - Communications equipment
   - Community development
+  - Confidential business information
   - Conflict of interests
   - Cooperatives
   - Copyright
@@ -539,6 +532,7 @@ departments:
   - Oats
   - Oilseeds
   - Pacific Islands Trust Territory
+  - Packaging and containers
   - Peanuts
   - Penalties
   - Plants
@@ -600,9 +594,6 @@ departments:
     name: Sue Ellen Sloca
     phone:
     - 202-720-1598
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er
   request_form: http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia
   request_time_stats:
     '2010':
@@ -796,9 +787,6 @@ departments:
     name: Arianne M. Perkins
     phone:
     - 202-690-2760
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -887,9 +875,6 @@ departments:
     name: Sally Klusaritz
     phone:
     - 202-720-3448
-  reading_rooms:
-  - - FAS eFOIA Reading Room
-    - http://www.fas.usda.gov/foia-reading-room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1271,9 +1256,6 @@ departments:
     name: Shri Alsobrook, Sandy Francois
     phone:
     - 504-426-0327
-  reading_rooms:
-  - - Click here to access the NFC Electronic Reading Room
-    - https://www.nfc.usda.gov/FOIA/foiaereading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center:
     phone:
@@ -1399,9 +1381,6 @@ departments:
     name: Julie Hetrick
     phone:
     - 202-720-1269
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1548,9 +1527,6 @@ departments:
     name: Richard Saafeld
     phone:
     - 202-720-0995
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1618,9 +1594,6 @@ departments:
     name: Richard Ciampa
     phone:
     - 202-720-6355
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2011':
@@ -1676,9 +1649,6 @@ departments:
     name: Michael G. Watts
     phone:
     - 202-720-5212
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://www.ascr.usda.gov/efoia_cr.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1753,9 +1723,6 @@ departments:
     name: Assistant General Counsel for General Law Division
     phone:
     - 202-720-5565
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -1811,9 +1778,6 @@ departments:
     name: Ravoyne Peyton
     phone:
     - 202-720-8164
-  reading_rooms:
-  - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2010':
       complex_average_days: '43'
@@ -1859,9 +1823,6 @@ departments:
     name: Wes Azama
     phone:
     - 202-260-0080
-  reading_rooms:
-  - - RMA Electronic                              Reading Room
-    - http://www.rma.usda.gov/aboutrma/foia/reading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1924,7 +1885,6 @@ departments:
     street: 5601 Sunnyside Avenue
     zip: 20705-5128
   emails:
-  - REEFOIA@ars.usda.gov
   - REEFOIA@ars.usda.gov
   fax: 301-504-1647
   foia_officer:
@@ -2434,9 +2394,6 @@ public_liaison:
   name: Ray Payton
   phone:
   - 202-260-2657
-reading_rooms:
-- - USDA Agencies' FOIA Reading Rooms
-  - http://www.dm.usda.gov/foia/agencyfoia.htm
 request_time_stats:
   '2010':
     complex_average_days: '50.43'

@@ -21,9 +21,6 @@ departments:
     name: Rachael Leonard
     phone:
     - 202-456-6125
-  reading_rooms:
-  - - FOIA Library
-    - http://www.whitehouse.gov/administration/eop/ostp/library/foia/readingroom
   request_time_stats:
     '2008':
       complex_average_days: '359'

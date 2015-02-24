@@ -25,9 +25,6 @@ departments:
     name: Wilson Taylor, III
     phone:
     - 865-632-8133
-  reading_rooms:
-  - - Reading Room
-    - http://www.tva.gov/foia/foia_reading.htm
   request_time_stats:
     '2008':
       complex_average_days: '39'

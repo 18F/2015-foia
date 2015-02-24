@@ -20,9 +20,6 @@ departments:
     name: Michael J. Robinson
     phone:
     - 202-690-6885
-  reading_rooms:
-  - - Electronic  FOIA Reading Room
-    - http://www.hhs.gov/foia/reading/index.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008':
@@ -124,9 +121,6 @@ departments:
     name: Robin Brooks
     phone:
     - 202-619-2541
-  reading_rooms:
-  - - E-FOIA Reading Room
-    - http://oig.hhs.gov/foia/efoia.asp
   request_form: http://oig.hhs.gov/foia/submit.asp
   request_time_stats:
     '2008':
@@ -208,8 +202,7 @@ departments:
     - 202-619-2541
   top_level: false
   website: http://oig.hhs.gov/foia/
-- abbreviation: ACL
-  address:
+- address:
     address_lines:
     - FOIA Requester Service Center
     - Administration for Community Living
@@ -217,11 +210,8 @@ departments:
     state: DC
     street: ''
     zip: '20201'
-  description: ACL brings together the efforts and achievements of the Administration
-    on Aging, the Administration on Intellectual and Developmental Disabilities, and
-    the HHS Office on Disability to serve as the Federal agency responsible for increasing
-    access to community supports, while focusing attention and resources on the unique
-    needs of older Americans and people with disabilities across the lifespan.
+  description: The Administration for Community Living supports the needs of the aging
+    and disability populations, and improves access health care and long-term services.
   fax: 202-357-0129
   foia_officer:
     name: Jason Bennett
@@ -233,9 +223,6 @@ departments:
     name: Jason Bennett
     phone:
     - 202-401-4634
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
   request_time_stats:
     '2012':
       complex_average_days: '0'
@@ -327,9 +314,6 @@ departments:
     name: Kenneth Wolfe
     phone:
     - 202-401-9215
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.acf.hhs.gov/e-reading-room
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   request_time_stats:
     '2008':
@@ -441,9 +425,6 @@ departments:
     name: Carol Maloney
     phone:
     - 301-492-4800
-  reading_rooms:
-  - - Electronic Reading Room
-    - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008':
@@ -561,9 +542,6 @@ departments:
     name: Katherine Norris, Bruno Viana
     phone:
     - 770-488-6399
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.cdc.gov/od/foia/reading.htm
   request_form: http://www.cdc.gov/od/foia/request/
   request_time_stats:
     '2008':
@@ -674,9 +652,6 @@ departments:
     name: Katherine Norris, Bruno Viana
     phone:
     - 770-488-6399
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.cdc.gov/od/foia/reading.htm
   request_form: http://www.cdc.gov/od/foia/request/index.htm
   service_center:
     phone:
@@ -984,9 +959,6 @@ departments:
     name: Sarah Kotler
     phone:
     - 301-796-3900
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   request_time_stats:
     '2008':
@@ -1073,8 +1045,7 @@ departments:
   top_level: true
   usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
-- abbreviation: HRSA
-  address:
+- address:
     address_lines:
     - Tom Flavin
     - FOIA Officer
@@ -1207,8 +1178,7 @@ departments:
   top_level: true
   usa_id: '49359'
   website: http://www.hrsa.gov/foia/
-- abbreviation: IHS
-  address:
+- address:
     address_lines:
     - William Tibbits
     - FOIA Officer
@@ -1246,9 +1216,6 @@ departments:
     name: Janet Ingersoll
     phone:
     - 301-443-6177
-  reading_rooms:
-  - - EFOIA Reading Room
-    - http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_elec_read_room
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   request_time_stats:
     '2008':
@@ -1364,9 +1331,6 @@ departments:
     name: Susan Cornell
     phone:
     - 301-496-5633
-  reading_rooms:
-  - - NIH FOIA Library
-    - http://www.nih.gov/icd/od/foia/index.htm#foialibrary
   request_time_stats:
     '2008':
       complex_average_days: '40'
@@ -1469,9 +1433,6 @@ departments:
     name: Carol Maloney
     phone:
     - 301-492-4800
-  reading_rooms:
-  - - Electronic Reading Room
-    - https://www.psc.gov/psc_foia/electronic-reading-room.html
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats: {}
   service_center:
@@ -1479,8 +1440,7 @@ departments:
     - 301-492-4800
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- abbreviation: SAMSHA
-  address:
+- address:
     address_lines:
     - Jeanette Hite
     - FOIA Officer

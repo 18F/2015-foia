@@ -34,9 +34,6 @@ departments:
     phone:
     - 202-663-4634
     - 202-663-7026 (TTY)
-  reading_rooms:
-  - - EEOC's Reading Room
-    - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
   request_form: https://egov.eeoc.gov/foia/client/submit_request.aspx
   service_center:
     phone:
@@ -1349,9 +1346,6 @@ public_liaison:
   phone:
   - 202-663-4634
   - 202-663-7026 (TTY)
-reading_rooms:
-- - EEOC's Reading Room
-  - http://www.eeoc.gov/eeoc/foia/readingroom.cfm
 request_time_stats:
   '2010':
     complex_average_days: '0'

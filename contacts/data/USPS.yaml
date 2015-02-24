@@ -49,8 +49,7 @@ departments:
     - 314-345-5894
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - FOIA Contact
     - Office of Counsel
@@ -59,10 +58,11 @@ departments:
     state: DC
     street: 475 L´Enfant Plaza, SW
     zip: '20260'
-  description: The mission of the U.S. Postal Inspection Service is to support and
-    protect the U.S. Postal Service and its employees, infrastructure, and customers;
-    enforce the laws that defend the nation’s mail system from illegal or dangerous
-    use; and ensure public trust in the mail.
+  description: If you believe you have been the victim of a crime involving the U.S.
+    mail or need assistance with postal-related problems of a law enforcement nature,
+    you should contact your nearest Postal Inspection Service office.  Addresses and
+    telephone numbers can be found in the government pages of your telephone book
+    or by visiting the Postal Inspection Service website.
   fax: 202-268-4538
   misc:
     Office of Counsel:

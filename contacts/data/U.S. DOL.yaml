@@ -1,4 +1,4 @@
-abbreviation: DOL
+abbreviation: U.S. DOL
 address:
   address_lines:
   - Ramona Branch Oliver
@@ -27,16 +27,12 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - DOL-Wide FOIA Reading Room
-    - http://www.dol.gov/dol/foia/readroom.htm
   service_center:
     phone:
     - 202-693-5391
   top_level: false
   website: http://www.dol.gov/dol/foia/main.htm
-- abbreviation: ILAB
-  address:
+- address:
     address_lines:
     - FOIA Coordinator
     - Room S-5317
@@ -141,8 +137,7 @@ departments:
   top_level: true
   usa_id: '49121'
   website: http://www.dol.gov/ilab/
-- abbreviation: BLS
-  address:
+- address:
     address_lines:
     - FOIA Disclosure Officer
     - Room 4080 Postal Square Building
@@ -301,9 +296,6 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - Department of Labor FOIA Reading Room
-    - http://www.dol.gov/dol/foia/readroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '7.1'
@@ -389,8 +381,7 @@ departments:
   top_level: true
   usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
-- abbreviation: DOLETA
-  address:
+- address:
     address_lines:
     - FOIA Disclosure Officer
     city: Washington
@@ -610,8 +601,7 @@ departments:
   top_level: true
   usa_id: '48069'
   website: http://www.jobcorps.gov/foia.aspx
-- abbreviation: MSHA
-  address:
+- address:
     address_lines:
     - FOIA Officer
     - Room 2314
@@ -996,6 +986,7 @@ departments:
   - Religious discrimination
   - Reporting and recordkeeping requirements
   - Veterans
+  - Women
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
   public_liaison:
@@ -1294,9 +1285,6 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.oig.dol.gov/foiareadingroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '79'
@@ -1571,11 +1559,6 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.dol.gov/vets/foia/
-  - - Reading Room
-    - http://www.dol.gov/vets/usc/main.htm
   request_time_stats:
     '2008':
       complex_average_days: '28.7'
@@ -2152,9 +2135,6 @@ public_liaison:
   name: Thomas G. Hicks, Sr.
   phone:
   - 202-693-5427
-reading_rooms:
-- - DOL-Wide FOIA Reading Room
-  - http://www.dol.gov/dol/foia/readroom.htm
 service_center:
   phone:
   - 202-693-5391

@@ -36,6 +36,12 @@ class USALayerTests(TestCase):
         self.assertEqual(
             usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
 
+        # Testing two names with multiple extraneous elements
+        name_1 = 'American Battle Monuments Commission'
+        name_2 = 'American Battle Monuments Commission'
+        self.assertEqual(
+            usa_layer.clean_name(name_1), usa_layer.clean_name(name_2))
+
     def test_extract_abbreviation(self):
         """ Test if abbrivations are extracted properly from name """
 

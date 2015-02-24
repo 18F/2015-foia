@@ -23,9 +23,6 @@ departments:
     name: Nichole Cadiente
     phone:
     - 202-336-8400
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.opic.gov/content/foia-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '0'
