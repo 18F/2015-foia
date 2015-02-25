@@ -8,13 +8,8 @@ departments:
     state: DC
     street: 1155 Defense Pentagon
     zip: 20301-1155
-  description: This Requester Service Center (RSC) processes Freedom of Information
-    Act (FOIA) requests for records related to the Office of the Secretary of Defense
-    and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
-    and other specific OSD components.* This RSC does not process FOIA requests for
-    the entire Department of Defense (DoD). Please direct requests related to the
-    Military Services, Combatant Commands, or other Defense Agencies, to the appropriate
-    organization/component that maintains the record(s) of interest.
+  description: The Joint Chiefs of Staff coordinate planning and strategy across the
+    military services.
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 571-372-0500
@@ -563,6 +558,9 @@ departments:
     state: DC
     street: 3000 Marine Corps Pentagon
     zip: 20350-3000
+  description: A part of the Navy, the Marine Corps is the only branch of the armed
+    services specifically tasked by Congress to be able to fight on land, at sea,
+    or in the air.
   fax: 703-614-6287
   misc:
     Head, FOIA/PA:
@@ -587,6 +585,7 @@ departments:
     phone:
     - 703-614-4008
   top_level: true
+  usa_id: '49444'
   website: http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx
 - address:
     address_lines:
