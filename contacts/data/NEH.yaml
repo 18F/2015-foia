@@ -27,6 +27,9 @@ departments:
     name: Lisette Voyatzis
     phone:
     - 202-606-8322
+  reading_rooms:
+  - - FOIA Library
+    - http://www.neh.gov/about/foia/library
   request_form: http://www.neh.gov/about/foia/submit-request-online
   request_time_stats:
     '2008':

@@ -27,6 +27,9 @@ departments:
     name: Audrey Corbett Brooks
     phone:
     - 202-205-5912
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.gsa.gov/portal/content/103776
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
     phone:

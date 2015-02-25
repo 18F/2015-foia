@@ -23,6 +23,9 @@ departments:
     name: Michael G. Conley
     phone:
     - 703-696-6778
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.abmc.gov/node/1005/foia-reading-room
   request_time_stats:
     '2010':
       complex_average_days: '0'

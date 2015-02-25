@@ -26,6 +26,9 @@ departments:
     name: Diane Bridge
     phone:
     - 202-273-3851
+  reading_rooms:
+  - - E-Reading Room
+    - http://www.nlrb.gov/news-outreach/foia/e-reading-room
   request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
   request_time_stats:
     '2010':

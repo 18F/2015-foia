@@ -23,6 +23,9 @@ departments:
     name: Trina Porter
     phone:
     - 202-606-4417
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.opm.gov/information-management/freedom-of-information-act/#url=Electronic-Reading-Room
   request_time_stats:
     '2008':
       complex_average_days: '51'

@@ -13,6 +13,7 @@ departments:
     access to community supports, while focusing attention and resources on the unique
     needs of older Americans and people with disabilities across the lifespan.
   name: Administration for Community Living
+  abbreviation: ACL
   top_level: true
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
 - name: Agency for Healthcare Research and Quality
@@ -29,13 +30,16 @@ departments:
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   top_level: true
 - name: Health Resources and Services Administration
+  abbreviation: HRSA
   top_level: true
 - name: Indian Health Service
+  abbreviation: IHS
   top_level: true
   website: http://www.ihs.gov/FOIA/
 - name: National Institutes of Health
   top_level: true
 - name: Substance Abuse and Mental Health Services Administration
+  abbreviation: SAMSHA
   top_level: true
 - name: Administration for Children and Families
   website: https://www.acf.hhs.gov/freedom-of-information-act

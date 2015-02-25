@@ -1,19 +1,24 @@
 departments:
 - name: U.S. Citizenship & Immigration Services
+  abbreviation: USCIS
   top_level: true
 - name: U.S. Coast Guard
+  abbreviation: USCG
   top_level: true
 - name: U.S. Customs & Border Protection
   top_level: true
+  abbreviation: CBP
   website: http://www.cbp.gov/site-policy-notices/foia
 - name: Federal Emergency Management Agency
   top_level: true
   website: http://www.fema.gov/fema-freedom-information-act
 - name: Federal Law Enforcement Training Center
+  abbreviation: FLETC
   request_form: http://www.fletc.gov/about/freedom-information-act-request
   top_level: true
   website: http://www.fletc.gov/freedom-information-act-foia
 - name: U.S. Immigration & Customs Enforcement
+  abbreviation: ICE
   request_form: http://www.ice.gov/webform/foia-request-form
   top_level: true
 - name: United States Secret Service

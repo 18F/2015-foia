@@ -2,11 +2,13 @@ departments:
 - name: Federal Aviation Administration
   top_level: true
 - name: National Highway Traffic Safety Administration
+  abbreviation: NHTSA
   emails:
   - mary.sprague@dot.gov
   request_form: http://www.nhtsa.gov/FOIA
   top_level: true
 - name: Surface Transportation Board
+  abbreviation: STB
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
 - name: Federal Motor Carrier Safety Administration
   website: http://www.fmcsa.dot.gov/foia

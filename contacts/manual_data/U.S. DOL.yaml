@@ -3,22 +3,26 @@ departments:
   emails:
   - foiarequests@dol.gov
 - name: Bureau of International Labor Affairs
+  abbreviation: ILAB
   emails:
   - FOIARequest@dol.gov
   top_level: true
 - name: Bureau of Labor Statistics
+  abbreviation: BLS
   top_level: true
 - name: Employee Benefits Security Administration
   emails:
   - foiarequests@dol.gov
   top_level: true
 - name: Employment & Training Administration
+  abbreviation: DOLETA
   top_level: true
 - name: Jobs Corps
   emails:
   - foiarequests@dol.gov
   top_level: true
 - name: Mine Safety & Health Administration
+  abbreviation: MSHA
   top_level: true
   emails:
   - foiarequests@dol.gov

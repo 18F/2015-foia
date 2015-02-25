@@ -25,6 +25,9 @@ departments:
     name: Jake Sgambati
     phone:
     - 202-688-3047
+  reading_rooms:
+  - - FOIA E-reading Room
+    - http://www.iaf.gov/index.aspx?page=2170
   request_time_stats:
     '2008':
       complex_average_days: '0'

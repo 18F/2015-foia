@@ -31,6 +31,9 @@ departments:
     name: Fern Kaufman
     phone:
     - 202-366-8067
+  reading_rooms:
+  - - OST Electronic Reading Room
+    - http://www.dot.gov/foia/ost-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '287'
@@ -121,6 +124,9 @@ departments:
     name: David Wonnenberg
     phone:
     - 202-366-8751
+  reading_rooms:
+  - - OIG FOIA Electronic Reading Room
+    - https://www.oig.dot.gov/foia-electronic-reading-room
   request_form: https://www.oig.dot.gov/freedom-information-act
   request_time_stats:
     '2008':
@@ -293,6 +299,9 @@ departments:
     name: Melanie Yohe
     phone:
     - 202-267-7799
+  reading_rooms:
+  - - Visit the FOIA Library
+    - http://www.faa.gov/foia/electronic_reading_room/
   request_form: http://www.faa.gov/foia/foia_request/
   request_time_stats:
     '2008':
@@ -455,6 +464,9 @@ departments:
     name: Alla Shaw
     phone:
     - 202-366-1042
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fhwa.dot.gov/foia/err.htm
   request_time_stats:
     '2008':
       complex_average_days: '90'
@@ -604,6 +616,9 @@ departments:
     name: Warren Flatau
     phone:
     - 202-493-6019
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fra.dot.gov/Page/P0388
   request_time_stats:
     '2008':
       complex_average_days: '113'
@@ -707,6 +722,9 @@ departments:
     name: David Longo
     phone:
     - 202-366-0608
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.fta.dot.gov/legislation_law/12316_8574.html
   request_time_stats:
     '2008':
       simple_average_days: '24'
@@ -830,6 +848,9 @@ departments:
     name: Duane DeBruyne
     phone:
     - 202-366-9999
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '92'
@@ -915,7 +936,8 @@ departments:
   top_level: false
   usa_id: '49315'
   website: http://www.fmcsa.dot.gov/foia
-- address:
+- abbreviation: NHTSA
+  address:
     address_lines:
     - FOIA Contact
     - NHTSA Executive Secretariat
@@ -982,6 +1004,9 @@ departments:
     name: Mary Sprague
     phone:
     - 202-366-2330
+  reading_rooms:
+  - - NHTSA Electronic Reading Room (ERR)
+    - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
   request_form: http://www.nhtsa.gov/FOIA
   request_time_stats:
     '2008':
@@ -1118,6 +1143,9 @@ departments:
     name: Ann Herchenrider
     phone:
     - 202-366-5165
+  reading_rooms:
+  - - Maritime Administration Electronic Reading Room
+    - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
   request_time_stats:
     '2008':
       simple_average_days: '160'
@@ -1247,6 +1275,9 @@ departments:
     name: Patricia Klinger
     phone:
     - 202-366-4831
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.phmsa.dot.gov/foia/e-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '88'
@@ -1414,7 +1445,8 @@ departments:
   top_level: false
   usa_id: '49656'
   website: http://www.dot.gov/foia/foia_contacts.htm
-- address:
+- abbreviation: STB
+  address:
     address_lines:
     - Marilyn R. Levitt
     - FOIA/Privacy Act Officer

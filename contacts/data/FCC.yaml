@@ -28,6 +28,9 @@ departments:
     name: Stephanie Kost
     phone:
     - 202-418-1379
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
   request_form: http://transition.fcc.gov/foia/#reqform
   request_time_stats:
     '2008':

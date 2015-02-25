@@ -20,6 +20,9 @@ departments:
     name: Brooke Dorner
     phone:
     - 202-456-6224
+  reading_rooms:
+  - - Reading Room
+    - http://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
   request_time_stats:
     '2008':
       simple_average_days: '81'

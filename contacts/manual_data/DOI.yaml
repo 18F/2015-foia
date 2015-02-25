@@ -1,11 +1,13 @@
 departments:
 - name: Bureau of Indian Affairs
+  abbreviation: BIA
   top_level: true
 - name: Bureau of Land Management
   top_level: true
 - name: Bureau of Ocean Energy Management
   top_level: true
 - name: Bureau of Reclamation
+  abbreviation: USBR
   top_level: true
 - name: Bureau of Safety and Environmental Enforcement
   top_level: true

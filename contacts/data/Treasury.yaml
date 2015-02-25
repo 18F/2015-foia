@@ -25,13 +25,17 @@ departments:
     name: Ryan Law
     phone:
     - 202-622-8098
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.treasury.gov/FOIA/Pages/reading_room.aspx
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
     - 202-622-0930
   top_level: false
   website: http://www.treasury.gov/foia/Pages/index.aspx
-- address:
+- abbreviation: TTB
+  address:
     address_lines:
     - Quinton Mason
     - FOIA Contact, Disclosure Services
@@ -261,7 +265,8 @@ departments:
   top_level: true
   usa_id: '48126'
   website: http://www.occ.gov/about/foia/index-foia.html
-- address:
+- abbreviation: FINCEN
+  address:
     address_lines:
     - Amanda Michanczyk
     - Disclosure (FOIA) Office
@@ -301,6 +306,9 @@ departments:
     name: Ryan Law
     phone:
     - 202-622-8098
+  reading_rooms:
+  - - Reading Room Records
+    - http://www.fincen.gov/foia/foia_readingroom.html
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
@@ -487,6 +495,9 @@ departments:
   public_liaison:
     phone:
     - 202-317-3475
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.irs.gov/uac/Electronic-Reading-Room
   service_center:
     phone:
     - 202-317-3475
@@ -516,6 +527,9 @@ departments:
     name: Ryan Law
     phone:
     - 202-622-8098
+  reading_rooms:
+  - - The Electronic Reading Room
+    - http://www.usmint.gov/FOIA/?action=room
   service_center:
     phone:
     - 202-354-6788
@@ -545,6 +559,9 @@ departments:
     name: Amy P. Jones
     phone:
     - 202-622-4068
+  reading_rooms:
+  - - FOIA Library
+    - http://www.treasury.gov/tigta/important_foia_err.shtml
   service_center:
     phone:
     - 202-622-4068

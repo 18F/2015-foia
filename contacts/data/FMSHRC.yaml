@@ -25,6 +25,9 @@ departments:
     name: Emogene Johnson
     phone:
     - 202-434-9935
+  reading_rooms:
+  - - E-Reading Room
+    - http://www.fmshrc.gov/foia/e-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '0'

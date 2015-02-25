@@ -22,6 +22,9 @@ departments:
     name: Richard Flahavan
     phone:
     - 703-605-4100
+  reading_rooms:
+  - - Reading Room
+    - http://www.sss.gov/FOIA/readingrm.htm
   request_time_stats:
     '2008':
       complex_average_days: '0'

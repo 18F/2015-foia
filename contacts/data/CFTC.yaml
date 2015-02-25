@@ -31,6 +31,9 @@ departments:
     name: Linda Mauldin
     phone:
     - 202-418-5497
+  reading_rooms:
+  - - Conventional and Electronic Reading Rooms
+    - http://www.cftc.gov/FOI/foiareadingrooms
   request_form: https://www.cftc.gov/FOI/request/index.htm
   request_time_stats:
     '2008':

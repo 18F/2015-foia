@@ -28,6 +28,9 @@ departments:
     name: Lynn P. Winston
     phone:
     - 202-712-0960
+  reading_rooms:
+  - - FOIA Library
+    - http://www.usaid.gov/foia-requests/foia-library
   request_form: https://foiarequest.usaid.gov/index.aspx
   request_time_stats:
     '2010':

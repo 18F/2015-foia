@@ -24,6 +24,9 @@ departments:
   public_liaison:
     phone:
     - 202-682-5418
+  reading_rooms:
+  - - FOIA Reading Room, Frequently Requested Records
+    - http://arts.gov/foia/reading-room
   request_time_stats:
     '2010':
       complex_average_days: '34.9'

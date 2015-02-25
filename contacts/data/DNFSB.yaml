@@ -25,6 +25,9 @@ departments:
     name: Andrew L. Thibadeau
     phone:
     - 202-694-7088
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.dnfsb.gov/foia-reading-room
   request_time_stats:
     '2013':
       expedited_processing_average_days: '7'

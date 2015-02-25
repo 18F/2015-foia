@@ -26,6 +26,9 @@ departments:
     name: Cottrell L. Webster
     phone:
     - 703-562-6040
+  reading_rooms:
+  - - Reading Room
+    - https://www.fdic.gov/about/freedom/readingroom.html
   request_form: https://efoiarequest.fdic.gov/palMain.aspx?protocol=https
   request_time_stats:
     '2008':

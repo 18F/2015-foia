@@ -26,6 +26,9 @@ departments:
     name: Mae Ridges
     phone:
     - 202-653-4642
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - http://www.imls.gov/about/foia_electronic_reading_room.aspx
   request_form: http://www.imls.gov/about/foia_request_form.aspx
   request_time_stats:
     '2008':

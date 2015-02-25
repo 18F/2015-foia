@@ -23,6 +23,9 @@ departments:
     name: Andrew T. Krog
     phone:
     - 202-203-4550
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.bbg.gov/about-the-agency/research-reports/foia/electronic-reading-room/
   request_time_stats:
     '2010':
       complex_average_days: '79'

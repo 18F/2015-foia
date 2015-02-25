@@ -7,17 +7,20 @@ departments:
 - name: International Trade Administration
   top_level: true
 - name: Minority Business Development Agency
+  abbreviation: MBDA
   top_level: true
   website: http://www.mbda.gov/freedom-information-act-reading-room
 - name: National Institute of Standards and Technology
   top_level: true
 - name: National Technical Information Service
+  abbreviation: NTIS
   top_level: true
   website: http://www.ntis.gov/about/FOIA/
 - name: National Oceanic and Atmospheric Administration
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   top_level: true
 - name: U.S. Patent and Trademark Office
+  abbreviation: USPTO
   top_level: true
 - name: Economics and Statistics Administration Bureau
   emails:

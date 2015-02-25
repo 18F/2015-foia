@@ -19,6 +19,9 @@ departments:
     name: Marguerite P. Dadabo
     phone:
     - 312-751-4936
+  reading_rooms:
+  - - RRB Reading Room
+    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   service_center:
     phone:
@@ -42,6 +45,9 @@ departments:
   public_liaison:
     phone:
     - 312-751-4350
+  reading_rooms:
+  - - RRB Reading Room
+    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
   request_form: https://secure.rrb.gov/efoia/
   request_time_stats:
     '2008':

@@ -17,6 +17,13 @@ departments:
     name: Jacqueline B. Caldwell
     phone:
     - 202-395-3419
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://ustr.gov/about-us/reading-room/electronic-reading-room
+  - - Electronic Reading Room
+    - https://ustr.gov/about-us/reading-room/freedom-information-act-foia/electronic-reading-room
+  - - Reading Room
+    - https://ustr.gov/about-us/reading-room
   request_time_stats:
     '2010':
       complex_average_days: '269'

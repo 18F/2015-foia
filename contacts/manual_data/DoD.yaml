@@ -28,6 +28,7 @@ departments:
   top_level: true
   website: http://www.arng.army.mil/Pages/FOIA.aspx
 - name: National Reconnaissance Office
+  abbreviation: NRO
   top_level: true
 - name: National Security Agency
   top_level: true

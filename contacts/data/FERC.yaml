@@ -23,6 +23,9 @@ departments:
     name: Toyia Johnson
     phone:
     - 202-502-6088
+  reading_rooms:
+  - - Reading Room Material
+    - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
   request_form: http://www.ferc.gov/legal/ceii-foia/foia/foia-new-form/FOIARequest.aspx
   request_time_stats:
     '2008':

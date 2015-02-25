@@ -27,6 +27,9 @@ departments:
     name: Cheryl DuHart
     phone:
     - 202-295-1500
+  reading_rooms:
+  - - FOIA Electronic Public Reading Room
+    - http://www.lsc.gov/about/foia/electronic-public-reading-room
   request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
   request_time_stats:
     '2010':
