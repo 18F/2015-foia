@@ -47,6 +47,8 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
+  - - FOIA Library
+    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':

@@ -153,6 +153,12 @@ class LayerTests(TestCase):
         self.assertEqual(contact_dict["A"]["B"]["emails"],
                          ["a@b.com", "c@d.gov"])
 
+        # Check that no duplicate emails are added
+        row["Email Address"] = "c@d.gov"
+        layer.add_contact_info(contact_dict, row)
+        self.assertEqual(contact_dict["A"]["B"]["emails"],
+                         ["a@b.com", "c@d.gov"])
+
     def test_add_contact_info_people(self):
         """Verify that the title of a row indicates which field it should be
         placed in"""

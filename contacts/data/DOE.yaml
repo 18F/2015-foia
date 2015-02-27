@@ -226,11 +226,6 @@ departments:
     name: Clayton Ogilvie
     phone:
     - 208-526-5190
-  reading_rooms:
-  - - Electronic Reading Room Documents
-    - http://www.id.doe.gov/foia/archive.htm
-  - - Reading Room
-    - http://www.id.doe.gov/foia/read.htm
   request_form: http://www.id.energy.gov/foia/RequestForm.aspx
   request_time_stats:
     '2008':

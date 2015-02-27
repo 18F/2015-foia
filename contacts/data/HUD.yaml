@@ -32,6 +32,9 @@ departments:
     name: Vicky J. Lewis
     phone:
     - 202-708-3054
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
@@ -198,6 +201,9 @@ departments:
     name: Mirza Morales
     phone:
     - 212-542-7109
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
   request_form: https://hudpal.efoia-host.com/palMain.aspx
   request_time_stats:
     '2010':
