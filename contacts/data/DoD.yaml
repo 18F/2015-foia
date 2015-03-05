@@ -1,7 +1,6 @@
 abbreviation: DOD
 departments:
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - FOIA Contact
     - OSD/JS FOIA Requester Service Center, Office of Freedom of Information
@@ -334,7 +333,7 @@ departments:
     - 703-428-6462
   reading_rooms:
   - - Reading Room
-    - https://www.rmda.army.mil/foia/FOIA_ReadingRoom/index.aspx
+    - https://www.foia.army.mil/ReadingRoom/landing.aspx
   request_form: https://www.rmda.army.mil/foia/foiarequest/default.aspx
   request_time_stats:
     '2008':
@@ -564,6 +563,9 @@ departments:
     state: DC
     street: 3000 Marine Corps Pentagon
     zip: 20350-3000
+  description: A part of the Navy, the Marine Corps is the only branch of the armed
+    services specifically tasked by Congress to be able to fight on land, at sea,
+    or in the air.
   fax: 703-614-6287
   misc:
     Head, FOIA/PA:
@@ -1109,7 +1111,7 @@ departments:
     phone:
     - 301-225-6116
   reading_rooms:
-  - - Electronic Reading Room
+  - - Reading Room
     - http://www.disa.mil/About/Legal-and-Regulatory/Accessibility/FOIA-Reading-Room
   service_center:
     phone:
@@ -1743,8 +1745,7 @@ departments:
   top_level: true
   usa_id: '49504'
   website: http://www1.nga.mil/Pages/FOIA.aspx
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Jennifer Nikolaisen
     - Chief FOIA Officer
@@ -1841,7 +1842,6 @@ departments:
   description: The National Reconnaissance Office is responsible for designing, building,
     launching, and maintaining intelligence satellites.
   emails:
-  - foia@nro.mil
   - foia@nro.mil
   fax: 703-227-9198
   misc:
@@ -1950,7 +1950,6 @@ departments:
     and codebreakers" of the intelligence community, providing foreign signal and
     communications intelligence to decision makers.
   emails:
-  - foiarsc@nsa.gov
   - foiarsc@nsa.gov
   fax: 443-479-3612
   name: National Security Agency

@@ -938,9 +938,7 @@ departments:
     - 912-267-3103
   reading_rooms:
   - - FOIA Library
-    - https://www.fletc.gov/foia-library
-  - - Freedom of Information Library
-    - https://www.fletc.gov/freedom-information-library
+    - https://www.fletc.gov/archive/freedom-information-library
   request_form: http://www.fletc.gov/about/freedom-information-act-request
   request_time_stats:
     '2008':
@@ -1634,8 +1632,7 @@ departments:
     - 202-254-6342
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Latita Payne
     - Disclosure Officer, FOIA/PA Program, Liaison Division

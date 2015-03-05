@@ -31,9 +31,6 @@ departments:
     name: Deborah Williams
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - Reading Rooms
-    - http://www.epa.gov/foia/reading_rooms.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -143,7 +140,7 @@ departments:
     - 202-566-1667
   reading_rooms:
   - - Reading Room
-    - http://www.epa.gov/foia/reading.html
+    - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -463,7 +460,7 @@ departments:
   - - Electronic Reading Room
     - http://www.epa.gov/region4/foiapgs/readingroom/index.htm
   - - Reading Rooms
-    - http://www.epa.gov/foia/reading_rooms.html
+    - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -565,7 +562,7 @@ departments:
     - 202-566-1667
   reading_rooms:
   - - EPA Electronic Reading Room
-    - http://www.epa.gov/foia/reading.html
+    - http://www2.epa.gov/foia
   - - Reading Room
     - http://www.epa.gov/region5/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1365,9 +1362,11 @@ keywords:
 - Public health
 - Quarantine
 - Radiation protection
+- Radioactive materials
 - Radionuclides
 - Radon
 - Railroads
+- Reclamation
 - Recycling
 - Religious discrimination
 - Reporting and recordkeeping requirements
@@ -1430,9 +1429,6 @@ public_liaison:
   name: Deborah Williams
   phone:
   - 202-566-1667
-reading_rooms:
-- - Reading Rooms
-  - http://www.epa.gov/foia/reading_rooms.html
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':

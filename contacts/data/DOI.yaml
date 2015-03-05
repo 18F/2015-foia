@@ -36,10 +36,12 @@ departments:
   - Government contracts
   - Government property management
   - Grant programs-Indians
+  - Grant programs-housing and community development
   - Grant programs-social programs
   - Grazing lands
   - Health care
   - Highways and roads
+  - Housing
   - Indians
   - Indians-business and finance
   - Indians-claims
@@ -355,10 +357,8 @@ departments:
     phone:
     - 703-787-1315
   reading_rooms:
-  - - Deepwater Horizon Library and Reading Room
-    - http://www.boem.gov/Deepwater-Reading-Room/
-  - - Library and Reading Room
-    - http://www.boem.gov/BOEM-Newsroom/Library/Library.aspx
+  - - FOIA Reading Room
+    - http://www.boem.gov/FOIA-Reading-Room/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -869,8 +869,7 @@ departments:
   top_level: false
   usa_id: '49343'
   website: http://www.usgs.gov/foia/
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Charis Wilson
     - NPS FOIA Officer
@@ -1544,6 +1543,7 @@ keywords:
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-natural resources
 - Grant programs-recreation
 - Grant programs-social programs
@@ -1562,6 +1562,7 @@ keywords:
 - Homesteads
 - Hospitals
 - Hostages
+- Housing
 - Human research subjects
 - Hunting
 - Hydrocarbons

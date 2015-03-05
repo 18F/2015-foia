@@ -31,9 +31,6 @@ departments:
   public_liaison:
     phone:
     - 202-632-7465
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-632-7465
@@ -1950,6 +1947,9 @@ phone: 202-632-7465
 public_liaison:
   phone:
   - 202-632-7600
+reading_rooms:
+- - FOIA Library
+  - http://www.oprm.va.gov/foia/foia_library.aspx
 request_time_stats:
   '2008':
     complex_highest_days: '2104'

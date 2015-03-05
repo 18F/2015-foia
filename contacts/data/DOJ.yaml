@@ -1,7 +1,6 @@
 abbreviation: DOJ
 departments:
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Carmen L. Mallon
     - Chief of Staff, Office of Information Policy
@@ -1525,8 +1524,8 @@ departments:
     phone:
     - 540-868-4516
   reading_rooms:
-  - - FBI Headquarters Reading Room
-    - http://www.fbi.gov/foia/fbi-headquarters-reading-room
+  - - FBI Headquarters FOIA Library
+    - http://www.fbi.gov/foia/fbi-headquarters-foia-library
   - - Vault
     - http://vault.fbi.gov/
   request_time_stats:
@@ -2794,7 +2793,7 @@ departments:
     - 202-616-6070
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/pardon/readingroom.htm
+    - http://www.justice.gov/pardon/pardon-attorney-foia/foia-library
   request_time_stats:
     '2008':
       expedited_processing_highest_days: '21'
@@ -2867,7 +2866,7 @@ departments:
     - 202-514-3365
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.justice.gov/opr/readingroom/index.html
+    - http://www.justice.gov/opr/OPR-FOIA/opr-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '141'
@@ -3380,8 +3379,7 @@ departments:
     - 202-616-3399
   top_level: false
   website: http://www.justice.gov/tax/readingroom/foia/foia1.htm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - William E. Bordley
     - Associate General Counsel, Office of General Counsel
@@ -3525,7 +3523,7 @@ departments:
     - 202-346-7030
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/uspc/reading-room.html
+    - http://www.justice.gov/uspc/freedom-information-act-foia/foia-library
   request_time_stats:
     '2008':
       complex_average_days: '24'

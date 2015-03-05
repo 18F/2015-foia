@@ -472,6 +472,9 @@ departments:
     name: Dennis Mahon
     phone:
     - 818-393-6779
+  reading_rooms:
+  - - Electronic FOIA Library
+    - http://www.hq.nasa.gov/office/pao/FOIA/jpl/library.htm
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -540,7 +543,7 @@ departments:
     phone:
     - 818-393-6779
   top_level: true
-  website: http://www.jpl.nasa.gov/
+  website: http://www.hq.nasa.gov/office/pao/FOIA/jpl/index.htm
 - address:
     address_lines:
     - Jessica Cordero
@@ -754,7 +757,6 @@ departments:
   reading_rooms:
   - - Electronic FOIA Library
     - http://www.nasa.gov/centers/langley/reading/index.html
-  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '377'

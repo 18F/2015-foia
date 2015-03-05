@@ -996,6 +996,7 @@ departments:
   - Religious discrimination
   - Reporting and recordkeeping requirements
   - Veterans
+  - Women
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
   public_liaison:
@@ -1571,11 +1572,6 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.dol.gov/vets/foia/
-  - - Reading Room
-    - http://www.dol.gov/vets/usc/main.htm
   request_time_stats:
     '2008':
       complex_average_days: '28.7'

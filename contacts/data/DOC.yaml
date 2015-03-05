@@ -9,8 +9,7 @@ address:
   street: 14th Street and Constitution Avenue, NW
   zip: '20230'
 departments:
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - Michael Toland, Ph.D.
     - Freedom of Information Act Officer
@@ -48,6 +47,8 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
+  - - FOIA Library
+    - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
     '2008':
@@ -1346,6 +1347,9 @@ departments:
     name: Dahlia George
     phone:
     - 571-272-3000
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.uspto.gov/learning-and-resources/ip-policy/electronic-freedom-information-act-e-foia
   request_time_stats:
     '2008':
       complex_average_days: '0'

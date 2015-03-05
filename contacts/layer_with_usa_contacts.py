@@ -22,7 +22,6 @@ REPLACEMENTS = (
     ("Office of the Secretary and Joint Staff", "Joint Chiefs of Staff"),
     ("Department of the Army - Freedom of Information and Privacy Office",
         "U.S. Army"),
-    ("Marine Corps - FOIA Program Office (ARSF)", "U.S. Marines"),
     ('Federal Bureau of Prisons', 'Bureau of Prisons'),
     ('Office of Community Oriented Policing Services',
         'Community Oriented Policing Services'),
@@ -32,7 +31,7 @@ REPLACEMENTS = (
         'U.S. National Central Bureau - Interpol'),
     ('Center for', 'Centers for'),
     (' for the District of Columbia', ''),
-    (' - FOIA Program Office (ARSF)', ''),
+    (' - FOIA Program Office', ''),
     (' - Main Office', ''),
     (' Activity', ''),
     (' - Headquarters Office', ''),
@@ -109,10 +108,10 @@ def update_dict(old_data, new_data):
     the USA contacts API
     """
 
-    old_data['usa_id'] = new_data['usa_id']
+    old_data['usa_id'] = new_data.get('usa_id')
     if new_data.get('description'):
-        old_data['description'] = new_data['description']
-    if new_data.get('abbreviation'):
+        old_data['description'] = new_data.get('description')
+    if new_data.get('abbreviation') and not old_data.get('abbreviation'):
         old_data['abbreviation'] = new_data['abbreviation']
     return old_data
 
@@ -134,15 +133,12 @@ def patch_yamls(data, directory):
         with open(filename) as f:
             agency = yaml.load(f.read())
         agency_name = clean_name(agency.get('name'))
-        if not agency.get('description'):
-            if agency_name in data:
-                agency = update_dict(agency, data[agency_name])
-                del data[agency_name]
+        if agency_name in data:
+            agency = update_dict(agency, data[agency_name])
         for office in agency['departments']:
-            if not office.get('description'):
-                office_name = clean_name(office['name'])
-                if office_name in data:
-                    office = update_dict(office, data[office_name])
+            office_name = clean_name(office['name'])
+            if office_name in data:
+                office = update_dict(office, data[office_name])
         yield agency, filename
 
 

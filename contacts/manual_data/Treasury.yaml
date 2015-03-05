@@ -1,5 +1,6 @@
 departments:
 - name: Alcohol and Tobacco Tax and Trade Bureau
+  abbreviation: TTB
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Bureau of Engraving and Printing
@@ -12,6 +13,7 @@ departments:
     analysis, and dissemination of financial intelligence and strategic use of financial
     authorities.
   name: Financial Crimes Enforcement Network
+  abbreviation: FINCEN
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Internal Revenue Service - Headquarters Office

@@ -1,3 +1,4 @@
+abbreviation: DOD
 departments:
 - description: This Requester Service Center (RSC) processes Freedom of Information
     Act (FOIA) requests for records related to the Office of the Secretary of Defense
@@ -28,6 +29,7 @@ departments:
   top_level: true
   website: http://www.arng.army.mil/Pages/FOIA.aspx
 - name: National Reconnaissance Office
+  abbreviation: NRO
   top_level: true
 - name: National Security Agency
   top_level: true

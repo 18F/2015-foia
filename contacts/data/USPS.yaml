@@ -49,8 +49,7 @@ departments:
     - 314-345-5894
   top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
-- abbreviation: ''
-  address:
+- address:
     address_lines:
     - FOIA Contact
     - Office of Counsel

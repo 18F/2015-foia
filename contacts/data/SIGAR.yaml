@@ -23,7 +23,7 @@ departments:
     - 703-545-5993
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading%20Room
+    - http://www.sigar.mil/contact/foia/foia.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading%20Room
   request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
   request_time_stats:
     '2011':

@@ -28,9 +28,6 @@ departments:
     name: Lisa Babcock
     phone:
     - 202-401-8203
-  reading_rooms:
-  - - Online Reading Room
-    - http://archive.sba.gov/aboutsba/sbaprograms/foia/FOIA_ONLINE_READING_ROOM_INDEX.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
