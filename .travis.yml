@@ -1,14 +1,16 @@
 language: python
 python:
-  - "3.4"
+- '3.4'
 install:
-  - cd contacts
-  - pip install -r requirements.txt --use-mirrors
-  - pip install coveralls
-  - cd ..
+- cd contacts
+- pip install -r requirements.txt --use-mirrors
+- pip install coveralls
+- cd ..
 script:
-  - cd contacts
-  - nosetests --with-coverage
+- cd contacts
+- nosetests --with-coverage
 after_success:
-  - cd contacts
-  - coveralls
+- cd contacts
+- coveralls
+notifications:
+  webhooks: http://project-monitor.cf.18f.us/projects/foia/status
