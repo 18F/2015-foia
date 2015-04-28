@@ -100,6 +100,19 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '5'
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '15.33'
+      complex_highest_days: '19'
+      complex_lowest_days: '12'
+      complex_median_days: '15'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5.38'
+      simple_highest_days: '9'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     name: Wakita Wilson
     phone:
@@ -193,4 +206,17 @@ request_time_stats:
     simple_highest_days: '13'
     simple_lowest_days: '5'
     simple_median_days: '11'
+  '2014':
+    complex_average_days: '15.33'
+    complex_highest_days: '19'
+    complex_lowest_days: '12'
+    complex_median_days: '15'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '5.38'
+    simple_highest_days: '9'
+    simple_lowest_days: '1'
+    simple_median_days: '5'
 usa_id: '49157'

@@ -109,6 +109,15 @@ departments:
       simple_highest_days: '111'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '27.35'
+      complex_highest_days: '524'
+      complex_lowest_days: '1'
+      complex_median_days: '17'
+      simple_average_days: '5.2'
+      simple_highest_days: '51'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   top_level: false
   usa_id: '49047'
   website: http://www.ftc.gov/foia/
@@ -254,5 +263,14 @@ request_time_stats:
     simple_average_days: '7.36'
     simple_highest_days: '111'
     simple_lowest_days: '1'
+    simple_median_days: '4'
+  '2014':
+    complex_average_days: '27.35'
+    complex_highest_days: '524'
+    complex_lowest_days: '1'
+    complex_median_days: '17'
+    simple_average_days: '5.2'
+    simple_highest_days: '51'
+    simple_lowest_days: less than 1
     simple_median_days: '4'
 usa_id: '49047'

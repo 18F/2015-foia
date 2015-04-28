@@ -69,6 +69,11 @@ departments:
       simple_highest_days: '37'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2014':
+      simple_average_days: '2.39'
+      simple_highest_days: '16'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 928-779-2727 x145
@@ -124,3 +129,8 @@ request_time_stats:
     simple_highest_days: '37'
     simple_lowest_days: '1'
     simple_median_days: '6'
+  '2014':
+    simple_average_days: '2.39'
+    simple_highest_days: '16'
+    simple_lowest_days: '1'
+    simple_median_days: '1'

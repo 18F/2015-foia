@@ -91,6 +91,11 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: '2'
       simple_median_days: '17'
+    '2014':
+      simple_average_days: '32.88'
+      simple_highest_days: '61'
+      simple_lowest_days: '12'
+      simple_median_days: '31'
   service_center:
     phone:
     - 202-683-7117
@@ -176,4 +181,9 @@ request_time_stats:
     simple_highest_days: '35'
     simple_lowest_days: '2'
     simple_median_days: '17'
+  '2014':
+    simple_average_days: '32.88'
+    simple_highest_days: '61'
+    simple_lowest_days: '12'
+    simple_median_days: '31'
 usa_id: '49404'

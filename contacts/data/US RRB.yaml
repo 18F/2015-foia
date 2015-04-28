@@ -120,6 +120,11 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2014':
+      simple_average_days: '54'
+      simple_highest_days: '121'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 312-751-4350

@@ -95,6 +95,11 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '7'
+    '2014':
+      simple_average_days: '6'
+      simple_highest_days: '37'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     name: Tonya Kirksey
     phone:
@@ -182,4 +187,9 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: less than 1
     simple_median_days: '7'
+  '2014':
+    simple_average_days: '6'
+    simple_highest_days: '37'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'
 usa_id: '49526'

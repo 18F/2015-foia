@@ -52,6 +52,11 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2014':
+      simple_average_days: '6'
+      simple_highest_days: '19'
+      simple_lowest_days: '3'
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-541-7566
@@ -97,4 +102,9 @@ request_time_stats:
     simple_highest_days: '21'
     simple_lowest_days: '1'
     simple_median_days: '16'
+  '2014':
+    simple_average_days: '6'
+    simple_highest_days: '19'
+    simple_lowest_days: '3'
+    simple_median_days: '7'
 usa_id: '49093'

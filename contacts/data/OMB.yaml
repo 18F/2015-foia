@@ -84,6 +84,11 @@ departments:
       simple_highest_days: '233'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2014':
+      simple_average_days: '106'
+      simple_highest_days: '514'
+      simple_lowest_days: '1'
+      simple_median_days: '39'
   service_center:
     phone:
     - 202-395-3642
@@ -247,4 +252,9 @@ request_time_stats:
     simple_highest_days: '233'
     simple_lowest_days: '1'
     simple_median_days: '18'
+  '2014':
+    simple_average_days: '106'
+    simple_highest_days: '514'
+    simple_lowest_days: '1'
+    simple_median_days: '39'
 usa_id: '49584'

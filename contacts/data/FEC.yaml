@@ -100,6 +100,19 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: '1'
       simple_median_days: '17'
+    '2014':
+      complex_average_days: '162.6'
+      complex_highest_days: '511'
+      complex_lowest_days: '23'
+      complex_median_days: '29'
+      expedited_processing_average_days: '11.6'
+      expedited_processing_highest_days: '14'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '11'
+      simple_average_days: '23.5'
+      simple_highest_days: '125'
+      simple_lowest_days: '2'
+      simple_median_days: '20'
   service_center:
     name: Candace Salley
     phone:
@@ -211,4 +224,17 @@ request_time_stats:
     simple_highest_days: '35'
     simple_lowest_days: '1'
     simple_median_days: '17'
+  '2014':
+    complex_average_days: '162.6'
+    complex_highest_days: '511'
+    complex_lowest_days: '23'
+    complex_median_days: '29'
+    expedited_processing_average_days: '11.6'
+    expedited_processing_highest_days: '14'
+    expedited_processing_lowest_days: '10'
+    expedited_processing_median_days: '11'
+    simple_average_days: '23.5'
+    simple_highest_days: '125'
+    simple_lowest_days: '2'
+    simple_median_days: '20'
 usa_id: '52607'

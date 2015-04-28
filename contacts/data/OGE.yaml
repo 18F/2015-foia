@@ -90,6 +90,15 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2014':
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      simple_average_days: '14.7'
+      simple_highest_days: '41'
+      simple_lowest_days: '1'
+      simple_median_days: '16.5'
   service_center:
     phone:
     - 202-482-9267
@@ -180,4 +189,13 @@ request_time_stats:
     simple_highest_days: '30'
     simple_lowest_days: '1'
     simple_median_days: '7'
+  '2014':
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    simple_average_days: '14.7'
+    simple_highest_days: '41'
+    simple_lowest_days: '1'
+    simple_median_days: '16.5'
 usa_id: '52646'

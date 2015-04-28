@@ -95,6 +95,19 @@ departments:
       simple_highest_days: '406'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '32'
+      complex_highest_days: '526'
+      complex_lowest_days: '1'
+      complex_median_days: '30'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '434'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11'
+      simple_average_days: '8'
+      simple_highest_days: '451'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-606-3642
@@ -264,4 +277,17 @@ request_time_stats:
     simple_highest_days: '406'
     simple_lowest_days: '1'
     simple_median_days: '2'
+  '2014':
+    complex_average_days: '32'
+    complex_highest_days: '526'
+    complex_lowest_days: '1'
+    complex_median_days: '30'
+    expedited_processing_average_days: '25'
+    expedited_processing_highest_days: '434'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '11'
+    simple_average_days: '8'
+    simple_highest_days: '451'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
 usa_id: '48112'

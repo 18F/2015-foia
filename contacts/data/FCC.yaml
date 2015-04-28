@@ -111,6 +111,19 @@ departments:
       simple_highest_days: '902'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '359.17'
+      complex_highest_days: '626'
+      complex_lowest_days: '6'
+      complex_median_days: '543'
+      expedited_processing_average_days: '21.85'
+      expedited_processing_highest_days: '128'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '25.04'
+      simple_highest_days: '462'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-418-0440
@@ -283,6 +296,19 @@ request_time_stats:
     expedited_processing_median_days: '12'
     simple_average_days: '33.3'
     simple_highest_days: '902'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
+  '2014':
+    complex_average_days: '359.17'
+    complex_highest_days: '626'
+    complex_lowest_days: '6'
+    complex_median_days: '543'
+    expedited_processing_average_days: '21.85'
+    expedited_processing_highest_days: '128'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '7.5'
+    simple_average_days: '25.04'
+    simple_highest_days: '462'
     simple_lowest_days: less than 1
     simple_median_days: '19'
 usa_id: '49041'

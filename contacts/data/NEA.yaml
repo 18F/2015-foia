@@ -80,6 +80,15 @@ departments:
       simple_highest_days: '301'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2014':
+      complex_average_days: '192'
+      complex_highest_days: '710'
+      complex_lowest_days: '18'
+      complex_median_days: '35'
+      simple_average_days: '13'
+      simple_highest_days: '510'
+      simple_lowest_days: '2'
+      simple_median_days: '22'
   service_center:
     phone:
     - 202-682-5418
@@ -143,4 +152,13 @@ request_time_stats:
     simple_highest_days: '301'
     simple_lowest_days: '1'
     simple_median_days: '6'
+  '2014':
+    complex_average_days: '192'
+    complex_highest_days: '710'
+    complex_lowest_days: '18'
+    complex_median_days: '35'
+    simple_average_days: '13'
+    simple_highest_days: '510'
+    simple_lowest_days: '2'
+    simple_median_days: '22'
 usa_id: '52634'

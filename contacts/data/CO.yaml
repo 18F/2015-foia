@@ -94,6 +94,11 @@ departments:
       simple_highest_days: '94'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2014':
+      simple_average_days: '34.8'
+      simple_highest_days: '542'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-707-6800
@@ -174,4 +179,9 @@ request_time_stats:
     simple_highest_days: '94'
     simple_lowest_days: '1'
     simple_median_days: '10'
+  '2014':
+    simple_average_days: '34.8'
+    simple_highest_days: '542'
+    simple_lowest_days: '1'
+    simple_median_days: '15'
 usa_id: '49176'

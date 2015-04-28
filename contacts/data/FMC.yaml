@@ -95,6 +95,19 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '49'
+      complex_highest_days: '421'
+      complex_lowest_days: '2'
+      complex_median_days: '19'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '11.5'
+      simple_average_days: '9.8'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-523-5707
@@ -172,4 +185,17 @@ request_time_stats:
     simple_highest_days: '25'
     simple_lowest_days: '1'
     simple_median_days: '4'
+  '2014':
+    complex_average_days: '49'
+    complex_highest_days: '421'
+    complex_lowest_days: '2'
+    complex_median_days: '19'
+    expedited_processing_average_days: '14'
+    expedited_processing_highest_days: '24'
+    expedited_processing_lowest_days: '9'
+    expedited_processing_median_days: '11.5'
+    simple_average_days: '9.8'
+    simple_highest_days: '19'
+    simple_lowest_days: '1'
+    simple_median_days: '10'
 usa_id: '52615'
