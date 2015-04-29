@@ -134,4 +134,13 @@ request_time_stats:
     simple_highest_days: '257'
     simple_lowest_days: '1'
     simple_median_days: '59'
+  '2014':
+    complex_average_days: '169.85'
+    complex_highest_days: '789'
+    complex_lowest_days: '8'
+    complex_median_days: '59'
+    simple_average_days: '84.33'
+    simple_highest_days: '339'
+    simple_lowest_days: '2'
+    simple_median_days: '54'
 usa_id: '52603'

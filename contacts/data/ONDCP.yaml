@@ -41,6 +41,11 @@ departments:
       simple_highest_days: '148'
       simple_lowest_days: '1'
       simple_median_days: '42'
+    '2014':
+      simple_average_days: '39'
+      simple_highest_days: '182'
+      simple_lowest_days: '1'
+      simple_median_days: '33'
   service_center:
     name: Daniel Petersen
     phone:
@@ -205,4 +210,9 @@ request_time_stats:
     simple_highest_days: '148'
     simple_lowest_days: '1'
     simple_median_days: '42'
+  '2014':
+    simple_average_days: '39'
+    simple_highest_days: '182'
+    simple_lowest_days: '1'
+    simple_median_days: '33'
 usa_id: '49586'

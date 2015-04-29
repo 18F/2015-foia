@@ -366,6 +366,19 @@ request_time_stats:
     simple_highest_days: '440'
     simple_lowest_days: less than 1
     simple_median_days: '13'
+  '2014':
+    complex_average_days: '40.63'
+    complex_highest_days: '94'
+    complex_lowest_days: '17'
+    complex_median_days: '39'
+    expedited_processing_average_days: '14'
+    expedited_processing_highest_days: '14'
+    expedited_processing_lowest_days: '14'
+    expedited_processing_median_days: '14'
+    simple_average_days: '10.6'
+    simple_highest_days: '51'
+    simple_lowest_days: less than 1
+    simple_median_days: '8'
 service_center:
   name: Bernard Parker
   phone:

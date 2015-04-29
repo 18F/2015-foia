@@ -38,6 +38,19 @@ departments:
       simple_highest_days: '39'
       simple_lowest_days: '6'
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '35'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '18'
+      simple_average_days: '30.48'
+      simple_highest_days: '256'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
   service_center:
     name: Andrew L. Thibadeau
     phone:
@@ -130,4 +143,17 @@ request_time_stats:
     simple_highest_days: '39'
     simple_lowest_days: '6'
     simple_median_days: '14'
+  '2014':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '18'
+    expedited_processing_highest_days: '35'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '18'
+    simple_average_days: '30.48'
+    simple_highest_days: '256'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
 usa_id: '52601'

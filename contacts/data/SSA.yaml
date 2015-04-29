@@ -91,6 +91,15 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2014':
+      complex_average_days: '75'
+      complex_highest_days: '194'
+      complex_lowest_days: '2'
+      complex_median_days: '53'
+      simple_average_days: '21'
+      simple_highest_days: '264'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
   service_center:
     name: Rhonda Smith
     phone:
@@ -290,4 +299,13 @@ request_time_stats:
     simple_highest_days: '45'
     simple_lowest_days: '1'
     simple_median_days: '18'
+  '2014':
+    complex_average_days: '75'
+    complex_highest_days: '194'
+    complex_lowest_days: '2'
+    complex_median_days: '53'
+    simple_average_days: '21'
+    simple_highest_days: '264'
+    simple_lowest_days: '1'
+    simple_median_days: '12'
 usa_id: '49057'

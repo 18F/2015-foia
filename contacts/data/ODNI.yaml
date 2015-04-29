@@ -75,6 +75,17 @@ departments:
       simple_highest_days: '1407'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '301.85'
+      complex_highest_days: '1949'
+      complex_lowest_days: '0'
+      complex_median_days: '138'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      simple_average_days: '20.52'
+      simple_highest_days: '232'
+      simple_lowest_days: '0'
+      simple_median_days: '9'
   service_center:
     phone:
     - 703-874-8500
@@ -131,4 +142,15 @@ request_time_stats:
     simple_highest_days: '1407'
     simple_lowest_days: less than 1
     simple_median_days: '16'
+  '2014':
+    complex_average_days: '301.85'
+    complex_highest_days: '1949'
+    complex_lowest_days: '0'
+    complex_median_days: '138'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    simple_average_days: '20.52'
+    simple_highest_days: '232'
+    simple_lowest_days: '0'
+    simple_median_days: '9'
 usa_id: '49595'

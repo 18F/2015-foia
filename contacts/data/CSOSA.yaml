@@ -64,6 +64,11 @@ departments:
       simple_highest_days: '207'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2014':
+      simple_average_days: '30.3'
+      simple_highest_days: '401'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-220-5300
@@ -122,4 +127,9 @@ request_time_stats:
     simple_highest_days: '207'
     simple_lowest_days: '1'
     simple_median_days: '10'
+  '2014':
+    simple_average_days: '30.3'
+    simple_highest_days: '401'
+    simple_lowest_days: '1'
+    simple_median_days: '15'
 usa_id: '49191'

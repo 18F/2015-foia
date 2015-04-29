@@ -233,4 +233,17 @@ request_time_stats:
     simple_highest_days: '423'
     simple_lowest_days: less than 1
     simple_median_days: '12'
+  '2014':
+    complex_average_days: '40.96'
+    complex_highest_days: '1081'
+    complex_lowest_days: less than 1
+    complex_median_days: '21'
+    expedited_processing_average_days: less than 1
+    expedited_processing_highest_days: less than 1
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: less than 1
+    simple_average_days: '12.82'
+    simple_highest_days: '163'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'
 usa_id: '49018'

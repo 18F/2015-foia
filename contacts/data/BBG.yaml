@@ -67,6 +67,11 @@ departments:
       complex_highest_days: '99'
       complex_lowest_days: '6'
       complex_median_days: '38'
+    '2014':
+      complex_average_days: '35'
+      complex_highest_days: '354'
+      complex_lowest_days: '3'
+      complex_median_days: '8'
   service_center:
     phone:
     - 202-203-4550
@@ -127,4 +132,9 @@ request_time_stats:
     complex_highest_days: '99'
     complex_lowest_days: '6'
     complex_median_days: '38'
+  '2014':
+    complex_average_days: '35'
+    complex_highest_days: '354'
+    complex_lowest_days: '3'
+    complex_median_days: '8'
 usa_id: '49109'

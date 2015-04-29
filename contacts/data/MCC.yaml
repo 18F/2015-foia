@@ -69,6 +69,11 @@ departments:
       simple_highest_days: '55'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2014':
+      simple_average_days: '22.8'
+      simple_highest_days: '117'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     name: John Mantini
     phone:
@@ -131,4 +136,9 @@ request_time_stats:
     simple_highest_days: '55'
     simple_lowest_days: less than 1
     simple_median_days: '18'
+  '2014':
+    simple_average_days: '22.8'
+    simple_highest_days: '117'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
 usa_id: '49460'

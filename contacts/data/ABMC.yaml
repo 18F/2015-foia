@@ -63,6 +63,11 @@ departments:
       simple_highest_days: '193'
       simple_lowest_days: '10'
       simple_median_days: '11'
+    '2014':
+      simple_average_days: '22'
+      simple_highest_days: '142'
+      simple_lowest_days: '2'
+      simple_median_days: '7'
   service_center:
     phone:
     - 703-696-6897
@@ -113,4 +118,9 @@ request_time_stats:
     simple_highest_days: '193'
     simple_lowest_days: '10'
     simple_median_days: '11'
+  '2014':
+    simple_average_days: '22'
+    simple_highest_days: '142'
+    simple_lowest_days: '2'
+    simple_median_days: '7'
 usa_id: '52584'

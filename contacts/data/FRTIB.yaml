@@ -67,6 +67,11 @@ departments:
       simple_highest_days: '112'
       simple_lowest_days: '11'
       simple_median_days: '22'
+    '2014':
+      simple_average_days: '26.7'
+      simple_highest_days: '183'
+      simple_lowest_days: '1'
+      simple_median_days: '19.5'
   service_center:
     phone:
     - 202-942-1660
@@ -140,4 +145,9 @@ request_time_stats:
     simple_highest_days: '112'
     simple_lowest_days: '11'
     simple_median_days: '22'
+  '2014':
+    simple_average_days: '26.7'
+    simple_highest_days: '183'
+    simple_lowest_days: '1'
+    simple_median_days: '19.5'
 usa_id: '49320'
