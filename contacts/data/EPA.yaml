@@ -28,7 +28,6 @@ departments:
   name: National Headquarters
   phone: 202-566-1667
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -111,6 +110,19 @@ departments:
       simple_highest_days: '2044'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '172.97'
+      complex_highest_days: '2120'
+      complex_lowest_days: less than 1
+      complex_median_days: '65'
+      expedited_processing_average_days: '459'
+      expedited_processing_highest_days: '1790'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '129'
+      simple_average_days: '11.81'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-566-1667
@@ -135,7 +147,6 @@ departments:
   name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -213,6 +224,15 @@ departments:
       simple_highest_days: '74'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '72.55'
+      complex_highest_days: '737'
+      complex_lowest_days: '19'
+      complex_median_days: '31'
+      simple_average_days: '7.76'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 617-918-1102
@@ -237,7 +257,6 @@ departments:
   name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -319,6 +338,15 @@ departments:
       simple_highest_days: '88'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '44.47'
+      complex_highest_days: '359'
+      complex_lowest_days: '15'
+      complex_median_days: '31'
+      simple_average_days: '12.3'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 212-637-3668
@@ -343,7 +371,6 @@ departments:
   name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -429,6 +456,19 @@ departments:
       simple_highest_days: '97'
       simple_lowest_days: less than 1
       simple_median_days: '20'
+    '2014':
+      complex_average_days: '84.13'
+      complex_highest_days: '1075'
+      complex_lowest_days: '21'
+      complex_median_days: '65'
+      expedited_processing_average_days: '62'
+      expedited_processing_highest_days: '62'
+      expedited_processing_lowest_days: '62'
+      expedited_processing_median_days: '62'
+      simple_average_days: '12.99'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 215-814-3424
@@ -453,12 +493,11 @@ departments:
   name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.epa.gov/region4/foiapgs/readingroom/index.htm
+    - http://www2.epa.gov/foia/foia-library-information-specific-epa-region-4
   - - Reading Rooms
     - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
@@ -533,6 +572,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '45.58'
+      complex_highest_days: '754'
+      complex_lowest_days: less than 1
+      complex_median_days: '31'
+      simple_average_days: '13.65'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 404-562-9891
@@ -557,7 +605,6 @@ departments:
   name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -645,6 +692,19 @@ departments:
       simple_highest_days: '365'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '40.15'
+      complex_highest_days: '828'
+      complex_lowest_days: '6'
+      complex_median_days: '25'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '13'
+      simple_average_days: '14.19'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 312-886-6686
@@ -669,7 +729,6 @@ departments:
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -748,6 +807,19 @@ departments:
       simple_highest_days: '779'
       simple_lowest_days: less than 1
       simple_median_days: '220'
+    '2014':
+      complex_average_days: '43.79'
+      complex_highest_days: '1538'
+      complex_lowest_days: less than 1
+      complex_median_days: '22'
+      expedited_processing_average_days: '347'
+      expedited_processing_highest_days: '347'
+      expedited_processing_lowest_days: '347'
+      expedited_processing_median_days: '347'
+      simple_average_days: '11.56'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 214-665-7202
@@ -771,7 +843,6 @@ departments:
   name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -853,6 +924,15 @@ departments:
       simple_highest_days: '148'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '31.18'
+      complex_highest_days: '107'
+      complex_lowest_days: '2'
+      complex_median_days: '26'
+      simple_average_days: '16.15'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 913-551-7860
@@ -876,7 +956,6 @@ departments:
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -951,6 +1030,19 @@ departments:
       simple_highest_days: '390'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '78.78'
+      complex_highest_days: '638'
+      complex_lowest_days: less than 1
+      complex_median_days: '30'
+      expedited_processing_average_days: '34'
+      expedited_processing_highest_days: '34'
+      expedited_processing_lowest_days: '34'
+      expedited_processing_median_days: '34'
+      simple_average_days: '13.02'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 303-312-6856
@@ -975,7 +1067,6 @@ departments:
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1054,6 +1145,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '33.45'
+      complex_highest_days: '244'
+      complex_lowest_days: '21'
+      complex_median_days: '25'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '32'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '6'
+      simple_average_days: '12.87'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
   service_center:
     phone:
     - 415-947-4251
@@ -1078,7 +1182,6 @@ departments:
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1153,6 +1256,15 @@ departments:
       simple_highest_days: '666'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2014':
+      complex_average_days: '122.17'
+      complex_highest_days: '1320'
+      complex_lowest_days: '5'
+      complex_median_days: '50'
+      simple_average_days: '10.75'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 206-553-8665
@@ -1426,7 +1538,6 @@ keywords:
 name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison:
-  name: Deborah Williams
   phone:
   - 202-566-1667
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -1507,6 +1618,19 @@ request_time_stats:
     expedited_processing_median_days: '30'
     simple_average_days: '27.18'
     simple_highest_days: '2044'
+    simple_lowest_days: less than 1
+    simple_median_days: '15'
+  '2014':
+    complex_average_days: '79.49'
+    complex_highest_days: '2120'
+    complex_lowest_days: less than 1
+    complex_median_days: '33'
+    expedited_processing_average_days: '264.86'
+    expedited_processing_highest_days: '1790'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '34.5'
+    simple_average_days: '13.16'
+    simple_highest_days: '20'
     simple_lowest_days: less than 1
     simple_median_days: '15'
 service_center:

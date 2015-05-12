@@ -21,6 +21,10 @@ departments:
     FOIA Contact:
       phone:
       - 202-292-2600
+    Supervisory Government Information Specialist, Office of the Inspector General, U.S. Department of Justice:
+      name: Deborah Waller
+      phone:
+      - 202-616-1210
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
   reading_rooms:
@@ -79,9 +83,18 @@ departments:
       simple_highest_days: '44'
       simple_lowest_days: '6'
       simple_median_days: '22'
+    '2014':
+      complex_average_days: '290'
+      complex_highest_days: '509'
+      complex_lowest_days: '113'
+      complex_median_days: '269'
+      simple_average_days: '34'
+      simple_highest_days: '228'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
-    - 202-708-1613
+    - 202-616-1210
   top_level: false
   usa_id: '91390'
   website: https://www.ignet.gov/content/foia-0
@@ -141,4 +154,13 @@ request_time_stats:
     simple_highest_days: '44'
     simple_lowest_days: '6'
     simple_median_days: '22'
+  '2014':
+    complex_average_days: '290'
+    complex_highest_days: '509'
+    complex_lowest_days: '113'
+    complex_median_days: '269'
+    simple_average_days: '34'
+    simple_highest_days: '228'
+    simple_lowest_days: '1'
+    simple_median_days: '14'
 usa_id: '91390'

@@ -4,8 +4,8 @@ departments:
   address:
     address_lines:
     - Vanessa Lamb
-    - FOIA Contact
-    - Room 1-B135
+    - Deputy Associate Managing Director - FOIA Program
+    - Room 1-A834
     city: Washington
     state: DC
     street: 445 12th Street, SW
@@ -30,7 +30,7 @@ departments:
     - 202-418-1379
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
+    - https://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
   request_form: http://transition.fcc.gov/foia/#reqform
   request_time_stats:
     '2008':
@@ -111,10 +111,22 @@ departments:
       simple_highest_days: '902'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '359.17'
+      complex_highest_days: '626'
+      complex_lowest_days: '6'
+      complex_median_days: '543'
+      expedited_processing_average_days: '21.85'
+      expedited_processing_highest_days: '128'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '25.04'
+      simple_highest_days: '462'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-418-0440
-    - 202-418-0212
   top_level: false
   usa_id: '49041'
   website: http://www.fcc.gov/foia/
@@ -283,6 +295,19 @@ request_time_stats:
     expedited_processing_median_days: '12'
     simple_average_days: '33.3'
     simple_highest_days: '902'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
+  '2014':
+    complex_average_days: '359.17'
+    complex_highest_days: '626'
+    complex_lowest_days: '6'
+    complex_median_days: '543'
+    expedited_processing_average_days: '21.85'
+    expedited_processing_highest_days: '128'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '7.5'
+    simple_average_days: '25.04'
+    simple_highest_days: '462'
     simple_lowest_days: less than 1
     simple_median_days: '19'
 usa_id: '49041'

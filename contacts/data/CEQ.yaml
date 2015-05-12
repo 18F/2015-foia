@@ -22,7 +22,7 @@ departments:
     - 202-456-6224
   reading_rooms:
   - - Reading Room
-    - http://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
+    - https://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
   request_time_stats:
     '2008':
       simple_average_days: '81'
@@ -86,6 +86,19 @@ departments:
       simple_highest_days: '236'
       simple_lowest_days: less than 1
       simple_median_days: '35'
+    '2014':
+      complex_average_days: '138.25'
+      complex_highest_days: '248'
+      complex_lowest_days: '54'
+      complex_median_days: '125.5'
+      expedited_processing_average_days: '9.4'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '24.68'
+      simple_highest_days: '80'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-456-6224
@@ -166,4 +179,17 @@ request_time_stats:
     simple_highest_days: '236'
     simple_lowest_days: less than 1
     simple_median_days: '35'
+  '2014':
+    complex_average_days: '138.25'
+    complex_highest_days: '248'
+    complex_lowest_days: '54'
+    complex_median_days: '125.5'
+    expedited_processing_average_days: '9.4'
+    expedited_processing_highest_days: '21'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '6'
+    simple_average_days: '24.68'
+    simple_highest_days: '80'
+    simple_lowest_days: '1'
+    simple_median_days: '11'
 usa_id: '49181'

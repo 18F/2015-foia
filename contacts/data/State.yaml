@@ -108,6 +108,19 @@ departments:
       simple_highest_days: '1631'
       simple_lowest_days: less than 1
       simple_median_days: '90'
+    '2014':
+      complex_average_days: '534.8'
+      complex_highest_days: '2237'
+      complex_lowest_days: '11.4'
+      complex_median_days: '333'
+      expedited_processing_average_days: '385.6'
+      expedited_processing_highest_days: '1482'
+      expedited_processing_lowest_days: '45.6'
+      expedited_processing_median_days: '100.4'
+      simple_average_days: '91'
+      simple_highest_days: '1576'
+      simple_lowest_days: '3.56'
+      simple_median_days: '66.2'
   service_center:
     phone:
     - 202-261-8484
@@ -139,8 +152,8 @@ departments:
     - 202-261-8359
   reading_rooms:
   - - FOIA Reading Room
-    - http://oig.state.gov/readingroom
-  request_form: http://foia.state.gov/foiareq/foialetter.asp
+    - https://oig.state.gov/readingroom
+  request_form: oigfoia@state.gov
   request_time_stats:
     '2008':
       expedited_processing_average_days: '1'
@@ -184,6 +197,11 @@ departments:
       simple_highest_days: '155'
       simple_lowest_days: '1'
       simple_median_days: '17'
+    '2014':
+      simple_average_days: '21'
+      simple_highest_days: '108'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-261-8484
@@ -412,4 +430,17 @@ request_time_stats:
     simple_highest_days: '1631'
     simple_lowest_days: less than 1
     simple_median_days: '90'
+  '2014':
+    complex_average_days: '534.8'
+    complex_highest_days: '2237'
+    complex_lowest_days: '11.4'
+    complex_median_days: '333'
+    expedited_processing_average_days: '385.6'
+    expedited_processing_highest_days: '1482'
+    expedited_processing_lowest_days: '45.6'
+    expedited_processing_median_days: '100.4'
+    simple_average_days: '90'
+    simple_highest_days: '1576'
+    simple_lowest_days: '1'
+    simple_median_days: '66'
 usa_id: '49030'

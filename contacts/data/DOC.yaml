@@ -46,8 +46,6 @@ departments:
     - 301-763-2127
   reading_rooms:
   - - FOIA Library
-    - http://www.census.gov/foia/foia_library/
-  - - FOIA Library
     - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
   request_time_stats:
@@ -129,6 +127,19 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '0'
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '16'
+      complex_highest_days: '162'
+      complex_lowest_days: '2'
+      complex_median_days: '7'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '308'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '4'
+      simple_highest_days: '20'
+      simple_lowest_days: '0'
+      simple_median_days: '3'
   service_center:
     phone:
     - 301-763-2127
@@ -137,11 +148,11 @@ departments:
   website: http://www.census.gov/foia/
 - address:
     address_lines:
-    - Pamela Moulder
+    - Jacque Mason
     - Office of the Under Secretary for Economic Affairs
     city: Washington
     state: DC
-    street: Rom 4836
+    street: Rom 4857
     zip: '20230'
   description: The Economics and Statistics Administration provides economic analysis,
     distributes national economic indicators, and oversees the Census Bureau.
@@ -154,11 +165,11 @@ departments:
       phone:
       - 202-482-5997
   name: Economics and Statistics Administration Bureau
-  phone: 202-482-5997
+  phone: 202-482-5641
   public_liaison:
-    name: Pamela Moulder
+    name: Jacque Mason
     phone:
-    - 202-482-5997
+    - 202-482-5641
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -235,9 +246,22 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '2'
       simple_median_days: '6'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4'
+      simple_highest_days: '8'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
-    - 202-482-5997
+    - 202-482-5641
   top_level: false
   usa_id: '49243'
   website: https://www.esa.doc.gov/freedom-information-act
@@ -364,6 +388,19 @@ departments:
       complex_median_days: '33'
       simple_average_days: '10'
       simple_highest_days: '18'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
+    '2014':
+      complex_average_days: '27'
+      complex_highest_days: '41'
+      complex_lowest_days: '21'
+      complex_median_days: '24'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10'
+      simple_highest_days: '20'
       simple_lowest_days: '2'
       simple_median_days: '10'
   service_center:
@@ -506,6 +543,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2014':
+      complex_average_days: '33'
+      complex_highest_days: '99'
+      complex_lowest_days: '1'
+      complex_median_days: '25'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
   service_center:
     phone:
     - 202-482-0953
@@ -545,6 +595,7 @@ departments:
   - Customs duties and inspection
   - Educational facilities
   - Emergency powers
+  - Foreign trade
   - Freedom of information
   - Guam
   - Imports
@@ -644,6 +695,19 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2014':
+      complex_average_days: '119'
+      complex_highest_days: '361'
+      complex_lowest_days: '41'
+      complex_median_days: '78'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4'
+      simple_highest_days: '11'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-482-7937
@@ -653,26 +717,28 @@ departments:
 - abbreviation: MBDA
   address:
     address_lines:
-    - Clara Colbert
+    - Josephine Arnold
     - FOIA Officer
     city: Washington
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
-  description: By providing technical assistance and access to capital, contract opportunities,
+  description: By providing techincal assistance and access to capital, contract opportunities,
     and new markets, the Minority Business Development Agency promotes the growth
     of businesses owned and operated by members of the minority and Diaspora communities.
-  fax: 202-482-2798
+  emails:
+  - FOIA@mbda.gov
+  fax: 202-482-2419
   foia_officer:
     name: Clara Colbert
     phone:
     - 202-481-5045
   name: Minority Business Development Agency
-  phone: 202-481-5045
+  phone: 202-482-2419
   public_liaison:
     name: Josephine Arnold
     phone:
-    - 202-482-5461
+    - 202-482-2419
   reading_rooms:
   - - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
@@ -751,9 +817,22 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '20'
       simple_median_days: '20'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '38'
+      simple_highest_days: '90'
+      simple_lowest_days: '15'
+      simple_median_days: '37'
   service_center:
     phone:
-    - 202-482-5045
+    - 202-482-2419
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/freedom-information-act-reading-room
@@ -874,6 +953,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2014':
+      complex_average_days: '81'
+      complex_highest_days: '1058'
+      complex_lowest_days: '1'
+      complex_median_days: '38'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '20'
+      simple_lowest_days: '0'
+      simple_median_days: '3'
   service_center:
     phone:
     - 301-975-4074
@@ -897,6 +989,8 @@ departments:
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
+  keywords:
+  - Administrative practice and procedure
   misc:
     FOIA Contact:
       name: Lee Halvorsen
@@ -905,9 +999,9 @@ departments:
   name: National Technical Information Service
   phone: 703-605-6710
   public_liaison:
-    name: Steve Needle
+    name: Lee Halvorsen
     phone:
-    - 703-605-6404
+    - 703-605-6710
   reading_rooms:
   - - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
@@ -986,9 +1080,22 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '61'
+      expedited_processing_highest_days: '61'
+      expedited_processing_lowest_days: '61'
+      expedited_processing_median_days: '61'
+      simple_average_days: '43'
+      simple_highest_days: '148'
+      simple_lowest_days: '0'
+      simple_median_days: '18'
   service_center:
     phone:
-    - 703-605-6404
+    - 703-605-6710
   top_level: true
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
@@ -1117,6 +1224,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2014':
+      complex_average_days: '107'
+      complex_highest_days: '576'
+      complex_lowest_days: '1'
+      complex_median_days: '30'
+      expedited_processing_average_days: '200'
+      expedited_processing_highest_days: '331'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '231'
+      simple_average_days: '9'
+      simple_highest_days: '49'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-482-1816
@@ -1126,7 +1246,7 @@ departments:
 - abbreviation: NOAA
   address:
     address_lines:
-    - Wendy Schumacher
+    - Robert Swisher
     - FOIA Contact
     - Room 9719 - NOAA FOIA Office (SOU 10000)
     city: Silver Spring
@@ -1212,7 +1332,7 @@ departments:
       phone:
       - 301-713-3540
   name: National Oceanic and Atmospheric Administration
-  phone: 301-713-3540
+  phone: 301-628-5755
   public_liaison:
     name: Robert Swisher
     phone:
@@ -1300,16 +1420,29 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2014':
+      complex_average_days: '111'
+      complex_highest_days: '892'
+      complex_lowest_days: '21'
+      complex_median_days: '63'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
     phone:
-    - 301-713-3540
+    - 301-628-5755
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
   address:
     address_lines:
-    - Kathryn Siehndel
+    - Ricou Heaton
     - FOIA Contact
     city: Alexandria
     state: VA
@@ -1322,6 +1455,7 @@ departments:
   fax: 571-501-7335
   keywords:
   - Administrative practice and procedure
+  - Authority delegations (Government agencies)
   - Biologics
   - Claims
   - Classified information
@@ -1429,6 +1563,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '32'
+      complex_highest_days: '143'
+      complex_lowest_days: '21'
+      complex_median_days: '29'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '9'
+      simple_average_days: '11'
+      simple_highest_days: '20'
+      simple_lowest_days: '0'
+      simple_median_days: '12'
   service_center:
     phone:
     - 571-272-3000
@@ -1437,7 +1584,7 @@ departments:
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
     address_lines:
-    - Laura Bell
+    - Raman Santra
     - FOIA Officer
     - Room 7099
     city: Washington
@@ -1452,11 +1599,11 @@ departments:
     phone:
     - 202-482-3470
   name: Office of Inspector General
-  phone: 202-482-3470
+  phone: 202-482-5992
   public_liaison:
-    name: Laura Bell
+    name: Raman Santra
     phone:
-    - 202-482-3470
+    - 202-482-5992
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
@@ -1540,9 +1687,22 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '42'
+      complex_highest_days: '164'
+      complex_lowest_days: '1'
+      complex_median_days: '29'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '15'
+      simple_highest_days: '51'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
-    - 202-482-3470
+    - 202-482-5992
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
@@ -1590,6 +1750,7 @@ departments:
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
+  - Banks, banking
   - Black lung benefits
   - Blind
   - Brokers
@@ -1608,9 +1769,11 @@ departments:
   - Claims
   - Classified information
   - Coal
+  - Coastal zone
   - Colleges and universities
   - Communications equipment
   - Community development
+  - Community development block grants
   - Computer technology
   - Concessions
   - Confidential business information
@@ -1631,6 +1794,7 @@ departments:
   - Defense communications
   - Dental health
   - Disability benefits
+  - Domestic violence
   - Drug abuse
   - Drug testing
   - Drugs
@@ -1659,6 +1823,7 @@ departments:
   - Fire prevention
   - Firefighters
   - Fisheries
+  - Flood plains
   - Food assistance programs
   - Foreign relations
   - Forests and forest products
@@ -1921,6 +2086,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2014':
+      complex_average_days: '146'
+      complex_highest_days: '535'
+      complex_lowest_days: '21'
+      complex_median_days: '105'
+      expedited_processing_average_days: '57'
+      expedited_processing_highest_days: '158'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '13'
+      simple_average_days: '5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-482-3257
@@ -1949,6 +2127,7 @@ keywords:
 - Antarctica
 - Antidumping
 - Arms and munitions
+- Authority delegations (Government agencies)
 - Biologics
 - Blind
 - Boycotts
@@ -2233,6 +2412,19 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '8'
+  '2014':
+    complex_average_days: '89'
+    complex_highest_days: '1058'
+    complex_lowest_days: '1'
+    complex_median_days: '45'
+    expedited_processing_average_days: '26'
+    expedited_processing_highest_days: '331'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '2'
+    simple_average_days: '8'
+    simple_highest_days: '148'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
 service_center:
   phone:
   - 202-482-3258

@@ -25,7 +25,7 @@ departments:
     - 202-336-8400
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.opic.gov/content/foia-reading-room
+    - https://www.opic.gov/content/foia-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -93,6 +93,15 @@ departments:
       simple_highest_days: '322'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2014':
+      expedited_processing_average_days: '184'
+      expedited_processing_highest_days: '184'
+      expedited_processing_lowest_days: '184'
+      expedited_processing_median_days: '184'
+      simple_average_days: '14'
+      simple_highest_days: '191'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-336-8400
@@ -176,4 +185,13 @@ request_time_stats:
     simple_highest_days: '322'
     simple_lowest_days: less than 1
     simple_median_days: '5'
+  '2014':
+    expedited_processing_average_days: '184'
+    expedited_processing_highest_days: '184'
+    expedited_processing_lowest_days: '184'
+    expedited_processing_median_days: '184'
+    simple_average_days: '14'
+    simple_highest_days: '191'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'
 usa_id: '52651'

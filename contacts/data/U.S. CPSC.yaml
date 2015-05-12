@@ -26,7 +26,7 @@ departments:
   public_liaison:
     name: Deborah Acosta
     phone:
-    - 301-504-6890
+    - 301-504-6821
   request_time_stats:
     '2008':
       complex_average_days: '85'
@@ -102,6 +102,15 @@ departments:
       simple_highest_days: '402'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '81'
+      complex_highest_days: '729'
+      complex_lowest_days: '1'
+      complex_median_days: '50'
+      simple_average_days: '32'
+      simple_highest_days: '481'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
   service_center:
     phone:
     - 301-504-7923
@@ -120,6 +129,7 @@ keywords:
 - Drugs
 - Fire prevention
 - Flammable materials
+- Gasoline
 - Hazardous substances
 - Household appliances
 - Human research subjects
@@ -215,4 +225,13 @@ request_time_stats:
     simple_highest_days: '402'
     simple_lowest_days: '1'
     simple_median_days: '11'
+  '2014':
+    complex_average_days: '81'
+    complex_highest_days: '729'
+    complex_lowest_days: '1'
+    complex_median_days: '50'
+    simple_average_days: '32'
+    simple_highest_days: '481'
+    simple_lowest_days: '1'
+    simple_median_days: '18'
 usa_id: '49013'

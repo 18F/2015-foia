@@ -19,7 +19,7 @@ departments:
     street: 8601 Adelphi Road
     zip: '20740'
   emails:
-  - foia@nara.gov
+  - joseph.scanlon@nara.gov
   fax: 301-837-0293
   foia_officer:
     name: Joseph Scanlon
@@ -73,8 +73,8 @@ departments:
 - address:
     address_lines:
     - FOIA Contact
-    - Special Access and FOIA Staff (NWCTF)
-    - Room 6350
+    - Special Access and FOIA Staff (RD-F)
+    - Room 5500
     city: College Park
     state: MD
     street: 8601 Adelphi Road
@@ -90,9 +90,9 @@ departments:
   name: Accessioned Executive Branch Agency Records - Washington, DC Area
   phone: 301-837-3190
   public_liaison:
-    name: Steven Tilley
+    name: Ann Cummings
     phone:
-    - 301-837-3059
+    - 301-837-1931
   reading_rooms:
   - - Electronic (FOIA) Reading Room
     - http://www.archives.gov/foia/electronic-reading-room.html
@@ -103,32 +103,7 @@ departments:
   website: http://www.archives.gov/foia/index.html
 - address:
     address_lines:
-    - Regional Director
-    city: Anchorage
-    state: AK
-    street: 654 West Third Avenue
-    zip: 99501-2145
-  emails:
-  - alaska.archives@nara.gov
-  fax: 907-261-7813
-  misc:
-    Regional Director:
-      phone:
-      - 907-261-7820
-  name: Pacific Alaska Region (Anchorage)
-  phone: 907-261-7820
-  public_liaison:
-    name: R. Bruce Parham
-    phone:
-    - 907-261-7801
-  service_center:
-    phone:
-    - 979-691-4000
-  top_level: false
-  website: http://www.archives.gov/pacific-alaska/anchorage/
-- address:
-    address_lines:
-    - Regional Director
+    - Director
     city: Morrow
     state: GA
     street: 57800 Jonesboro Road
@@ -136,24 +111,20 @@ departments:
   emails:
   - atlanta.archives@nara.gov
   fax: 770-968-2547
-  misc:
-    Regional Director:
-      phone:
-      - 770-968-2100
-  name: Southeast Region (Atlanta)
+  name: National Archives at Atlanta
   phone: 770-968-2100
   public_liaison:
-    name: Richard Rayburn
+    name: Rob Richards
     phone:
-    - 770-968-2547
+    - 770-968-2485
   service_center:
     phone:
     - 770-968-2100
   top_level: false
-  website: http://www.archives.gov/southeast/
+  website: http://www.archives.gov/atlanta/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     - Frederick C. Murphy Federal Center
     city: Waltham
     state: MA
@@ -162,23 +133,20 @@ departments:
   emails:
   - boston.archives@nara.gov
   fax: 781-663-0154
-  misc:
-    Regional Director:
-      phone:
-      - 781-663-0130
-  name: Northeast Region (Boston)
+  name: National Archives at Boston
   phone: 781-663-0130
   public_liaison:
-    name: Patricia Foley
+    name: Priscilla Foley
     phone:
     - 781-663-0121
   service_center:
     phone:
     - 781-663-0130
   top_level: false
+  website: http://www.archives.gov/boston/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     city: Chicago
     state: IL
     street: 7358 South Pulaski Road
@@ -186,11 +154,7 @@ departments:
   emails:
   - chicago.archives@nara.gov
   fax: 773-948-9050
-  misc:
-    Regional Director:
-      phone:
-      - 773-948-9001
-  name: Great Lakes Region (Chicago)
+  name: National Archives at Chicago
   phone: 773-948-9001
   public_liaison:
     name: Douglas Bicknese
@@ -200,35 +164,31 @@ departments:
     phone:
     - 773-581-7816
   top_level: false
-  website: http://www.archives.gov/great-lakes/
+  website: http://www.archives.gov/chicago/
 - address:
     address_lines:
-    - Regional Director
-    city: Denver
+    - Director
+    city: Broomfield
     state: CO
-    street: P.O. Box 25307
-    zip: '80225'
+    street: 17101 Huron St.
+    zip: '80223'
   emails:
   - denver.archives@nara.gov
   fax: 303-407-5709
-  misc:
-    Regional Director:
-      phone:
-      - 303-407-5740
-  name: Rocky Mountain Region (Denver)
+  name: National Archives at Denver
   phone: 303-407-5740
   public_liaison:
     name: Eileen Bolger
     phone:
-    - 303-407-5749
+    - 303-604-4740
   service_center:
     phone:
     - 303-407-5740
   top_level: false
-  website: http://www.archives.gov/rocky-mountain/
+  website: http://www.archives.gov/denver/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     city: Fort Worth
     state: TX
     street: 1400 John Burgess Drive
@@ -236,11 +196,7 @@ departments:
   emails:
   - ftworth.archives@nara.gov
   fax: 817-551-2034
-  misc:
-    Regional Director:
-      phone:
-      - 817-831-5620
-  name: Southwest Region (Fort Worth)
+  name: National Archives at Fort Worth
   phone: 817-831-5620
   public_liaison:
     name: Meg Hacker
@@ -250,10 +206,10 @@ departments:
     phone:
     - 817-334-5525
   top_level: false
-  website: http://www.archives.gov/southwest/
+  website: http://www.archives.gov/fort-worth/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     city: Kansas City
     state: MO
     street: 400 West Pershing Road
@@ -261,74 +217,128 @@ departments:
   emails:
   - kansascity.archives@nara.gov
   fax: 816-268-8038
-  misc:
-    Regional Director:
-      phone:
-      - 816-268-8000
-  name: Central Plains Region (Kansas City)
+  name: National Archives at Kansas City
   phone: 816-268-8000
   public_liaison:
+    name: Lori Cox-Paul
     phone:
     - 816-268-8017
   service_center:
     phone:
     - 816-268-8000
   top_level: false
-  website: http://www.archives.gov/locations/regional-archives.html
+  website: http://www.archives.gov/kansas-city/
 - address:
     address_lines:
-    - Regional Director
-    - 12th Floor
+    - Director
+    city: Lee's Summit
+    state: MO
+    street: 200 Space Center Drive
+    zip: 64064-1182
+  emails:
+  - LeesSummit.reference.nara
+  fax: 816-268-8160
+  name: National Archives at Lee's Summit
+  phone: 816-268-8100
+  public_liaison:
+    name: Dean Donovan
+    phone:
+    - 816-268-8141
+  service_center:
+    phone:
+    - 816-268-8100
+  top_level: false
+  website: http://www.archives.gov/frc/lees-summit/
+- address:
+    address_lines:
+    - Director
+    - Suites 3150 & 4748
+    city: Lenexa
+    state: MO
+    street: 17501 W. 98th
+    zip: '66219'
+  emails:
+  - kansascity.reference@nara.gov
+  fax: 913-563-7693
+  name: National Archives at Lenexa
+  phone: 913-563-7600
+  public_liaison:
+    name: Rosemarie Weisz
+    phone:
+    - 913-825-7809
+  service_center:
+    phone:
+    - 913-563-7605
+  top_level: false
+  website: http://www.archives.gov/frc/lenexa/
+- address:
+    address_lines:
+    - Director
+    - 3rd Floor
     city: New York
     state: NY
-    street: 201 Varick Street
-    zip: '10014'
+    street: 1 Bowling Green
+    zip: '10004'
   emails:
   - newyork.archives@nara.gov
   fax: 212-401-1638
-  misc:
-    Regional Director:
-      phone:
-      - 212-401-1620
-  name: Northeast Region (New York)
+  name: National Archives at New York City
   phone: 212-401-1620
   public_liaison:
-    name: Nancy Shader
+    name: Chris Gushman
     phone:
-    - 212-401-1626
+    - 212-401-1625
   service_center:
     phone:
     - 212-401-1620
   top_level: false
-  website: http://www.archives.gov/northeast/nyc/
+  website: http://www.archives.gov/nyc/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     city: Philadelphia
     state: PA
-    street: 900 Market Street
-    zip: 19107-4292
+    street: 14700 Townsend Road
+    zip: 19154-1096
   emails:
   - philadelphia.archives@nara.gov
-  fax: 215-606-0116
-  misc:
-    Regional Director:
-      phone:
-      - 215-606-0100
-  name: Mid-Atlantic Region (City Center Philadelphia)
-  phone: 215-606-0100
+  fax: 215-305-2038
+  name: National Archives at Philadelphia
+  phone: 215-305-2044
   public_liaison:
-    name: John McEvoy
+    name: Leslie Simon
     phone:
-    - 215-305-2005
+    - 215-669-9303
   service_center:
     phone:
-    - 215-305-2000
+    - 215-305-2044
   top_level: false
-  website: http://www.archives.gov/midatlantic/
+  website: http://www.archives.gov/philadelphia/
 - address:
     address_lines:
-    - Regional Director
+    - Director
+    city: Perris
+    state: CA
+    street: 23123 Cajalco Road
+    zip: '92570'
+  emails:
+  - riverside.archives@nara.gov
+  fax: 951-956-2049
+  name: National Archives at Riverside
+  phone: 951-956-2000
+  public_liaison:
+    name: Gwen Granados
+    phone:
+    - 951-956-2040
+  service_center:
+    phone:
+    - 951-956-2000
+  top_level: false
+  website: http://www.archives.gov/riverside/
+- address:
+    address_lines:
+    - Director
+    - Leo J. Ryan Memorial Federal Bldg
     city: San Bruno
     state: CA
     street: 100 Commodore Drive
@@ -336,24 +346,20 @@ departments:
   emails:
   - sanbruno.archives@nara.gov
   fax: 650-238-3510
-  misc:
-    Regional Director:
-      phone:
-      - 650-238-3501
-  name: Pacific Region (San Francisco)
+  name: National Archives at San Francisco
   phone: 650-238-3501
   public_liaison:
-    name: Dan Nealand
+    name: Michelle Bradley
     phone:
     - 650-238-3478
   service_center:
     phone:
-    - 949-360-2641
+    - 650-238-3501
   top_level: false
-  website: http://www.archives.gov/pacific/san-francisco/
+  website: http://www.archives.gov/san-francisco/
 - address:
     address_lines:
-    - Regional Director
+    - Director
     city: Seattle
     state: WA
     street: 6125 Sand Point Way, NE
@@ -361,11 +367,7 @@ departments:
   emails:
   - seattle.archives@nara.gov
   fax: 206-336-5112
-  misc:
-    Regional Director:
-      phone:
-      - 206-336-5115
-  name: Pacific Region (Seattle)
+  name: National Archives at Seattle
   phone: 206-336-5115
   public_liaison:
     name: Sue Karren
@@ -375,7 +377,7 @@ departments:
     phone:
     - 206-336-5115
   top_level: false
-  website: http://www.archives.gov/pacific-alaska/seattle/
+  website: http://www.archives.gov/seattle/
 description: The National Archives and Records Administration preserves U.S. government
   records, manages the Presidential Libraries system, and publishes laws, regulations,
   Presidential, and other public documents.
@@ -564,6 +566,19 @@ request_time_stats:
     expedited_processing_median_days: '6'
     simple_average_days: '42.2'
     simple_highest_days: '3994'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'
+  '2014':
+    complex_average_days: '965'
+    complex_highest_days: '5223'
+    complex_lowest_days: less than 1
+    complex_median_days: '603'
+    expedited_processing_average_days: '4'
+    expedited_processing_highest_days: '29'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: less than 1
+    simple_average_days: '13.6'
+    simple_highest_days: '3894'
     simple_lowest_days: less than 1
     simple_median_days: '6'
 service_center:

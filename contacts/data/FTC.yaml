@@ -25,16 +25,16 @@ departments:
       phone:
       - 202-326-2430
   name: Federal Trade Commission
-  phone: 202-326-3254
+  phone: 202-326-2735
   public_liaison:
     name: Richard Gold
     phone:
     - 202-326-3355
   reading_rooms:
   - - FOIA Reading Rooms
-    - http://www.ftc.gov/about-ftc/foia/foia-reading-rooms
+    - https://www.ftc.gov/about-ftc/foia/foia-reading-rooms
   - - OIG Reading Room
-    - http://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
+    - https://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
   request_form: https://ftc.gov/ftc/foia.htm
   request_time_stats:
     '2008':
@@ -109,6 +109,15 @@ departments:
       simple_highest_days: '111'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '27.35'
+      complex_highest_days: '524'
+      complex_lowest_days: '1'
+      complex_median_days: '17'
+      simple_average_days: '5.2'
+      simple_highest_days: '51'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   top_level: false
   usa_id: '49047'
   website: http://www.ftc.gov/foia/
@@ -120,6 +129,7 @@ keywords:
 - Advertising
 - Antitrust
 - Bank deposit insurance
+- Banks, banking
 - Blind
 - Brokers
 - Business and industry
@@ -254,5 +264,14 @@ request_time_stats:
     simple_average_days: '7.36'
     simple_highest_days: '111'
     simple_lowest_days: '1'
+    simple_median_days: '4'
+  '2014':
+    complex_average_days: '27.35'
+    complex_highest_days: '524'
+    complex_lowest_days: '1'
+    complex_median_days: '17'
+    simple_average_days: '5.2'
+    simple_highest_days: '51'
+    simple_lowest_days: less than 1
     simple_median_days: '4'
 usa_id: '49047'

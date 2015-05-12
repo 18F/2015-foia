@@ -63,6 +63,19 @@ departments:
       simple_highest_days: '666'
       simple_lowest_days: less than 1
       simple_median_days: '20'
+    '2014':
+      complex_average_days: '141.54'
+      complex_highest_days: '1343'
+      complex_lowest_days: less than 1
+      complex_median_days: '28'
+      expedited_processing_average_days: '268.89'
+      expedited_processing_highest_days: '272'
+      expedited_processing_lowest_days: '263'
+      expedited_processing_median_days: '271'
+      simple_average_days: '12.46'
+      simple_highest_days: '322'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-314-6540
@@ -87,10 +100,13 @@ keywords:
 - Investigations
 - Lawyers
 - Marine safety
+- Organization and functions (Government agencies)
 - Pipeline safety
 - Privacy
 - Railroad safety
 - Reporting and recordkeeping requirements
+- Safety
+- Transportation
 name: National Transportation Safety Board
 request_time_stats:
   '2010':
@@ -133,4 +149,17 @@ request_time_stats:
     simple_highest_days: '666'
     simple_lowest_days: less than 1
     simple_median_days: '20'
+  '2014':
+    complex_average_days: '141.54'
+    complex_highest_days: '1343'
+    complex_lowest_days: less than 1
+    complex_median_days: '28'
+    expedited_processing_average_days: '268.89'
+    expedited_processing_highest_days: '272'
+    expedited_processing_lowest_days: '263'
+    expedited_processing_median_days: '271'
+    simple_average_days: '12.46'
+    simple_highest_days: '322'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
 usa_id: '52641'

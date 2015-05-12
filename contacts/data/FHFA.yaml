@@ -14,7 +14,7 @@ departments:
     Loan Banks.
   emails:
   - FOIA@fhfa.gov
-  fax: 202-649-1703
+  fax: 202-649-1073
   foia_officer:
     name: Stacy J. Easter
     phone:
@@ -69,6 +69,7 @@ keywords:
 - Advertising
 - Agriculture
 - Archives and records
+- Banks, banking
 - Claims
 - Community development
 - Confidential business information
@@ -166,6 +167,15 @@ request_time_stats:
     complex_median_days: '33'
     simple_average_days: '15.4'
     simple_highest_days: '109'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'
+  '2014':
+    complex_average_days: '58.41'
+    complex_highest_days: '208'
+    complex_lowest_days: less than 1
+    complex_median_days: '45'
+    simple_average_days: '18.62'
+    simple_highest_days: '215'
     simple_lowest_days: less than 1
     simple_median_days: '10'
 usa_id: '52611'

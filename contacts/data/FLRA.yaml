@@ -1,7 +1,7 @@
 abbreviation: FLRA
 address:
   address_lines:
-  - Rosa M. Koppel
+  - Fred B. Jacob
   - Solicitor, Office of the Solicitor
   city: Washington
   state: DC
@@ -10,7 +10,7 @@ address:
 departments:
 - address:
     address_lines:
-    - Rosa M. Koppel
+    - Fred B. Jacob
     - Solicitor, Office of the Solicitor
     city: Washington
     state: DC
@@ -108,6 +108,11 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2014':
+      simple_average_days: '13'
+      simple_highest_days: '13'
+      simple_lowest_days: '13'
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-218-7910
@@ -187,6 +192,11 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '4'
       simple_median_days: '10'
+    '2014':
+      simple_average_days: '4'
+      simple_highest_days: '4'
+      simple_lowest_days: '4'
+      simple_median_days: '4'
   service_center:
     phone:
     - 404-331-5300
@@ -267,6 +277,11 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: '3'
       simple_median_days: '3'
+    '2014':
+      simple_average_days: '15'
+      simple_highest_days: '34'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
   service_center:
     phone:
     - 617-565-5100
@@ -503,6 +518,11 @@ departments:
       simple_highest_days: less than 1
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2014':
+      simple_average_days: '30'
+      simple_highest_days: '30'
+      simple_lowest_days: '30'
+      simple_median_days: '30'
   service_center:
     phone:
     - 303-844-5226
@@ -579,6 +599,11 @@ departments:
       simple_highest_days: '8'
       simple_lowest_days: less than 1
       simple_median_days: '3.5'
+    '2014':
+      simple_average_days: '3.2'
+      simple_highest_days: '8'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 415-356-5000
@@ -651,6 +676,11 @@ departments:
       simple_highest_days: '2'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2014':
+      simple_average_days: '23.5'
+      simple_highest_days: '29'
+      simple_lowest_days: '18'
+      simple_median_days: '23.5'
   service_center:
     phone:
     - 202-482-6700
@@ -727,6 +757,11 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      simple_average_days: '4.1'
+      simple_highest_days: '14'
+      simple_lowest_days: less than 1
+      simple_median_days: '1.5'
   service_center:
     phone:
     - 202-218-7790
@@ -804,6 +839,11 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '2'
       simple_median_days: '16'
+    '2014':
+      simple_average_days: '17'
+      simple_highest_days: '17'
+      simple_lowest_days: '17'
+      simple_median_days: '17'
   service_center:
     phone:
     - 202-218-7770 x7744
@@ -894,6 +934,15 @@ request_time_stats:
     simple_highest_days: '51'
     simple_lowest_days: less than 1
     simple_median_days: '9'
+  '2014':
+    expedited_processing_average_days: '7'
+    expedited_processing_highest_days: '11'
+    expedited_processing_lowest_days: '4'
+    expedited_processing_median_days: '6.5'
+    simple_average_days: '8.4'
+    simple_highest_days: '34'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'
 service_center:
   phone:
   - 202-218-7770

@@ -68,6 +68,15 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '15.15'
+      complex_highest_days: '90'
+      complex_lowest_days: less than 1
+      complex_median_days: '11'
+      simple_average_days: '4.27'
+      simple_highest_days: '39'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-358-2562
@@ -94,9 +103,6 @@ departments:
     name: Lubna Shirazi
     phone:
     - 650-604-1138
-  reading_rooms:
-  - - '> Electronic Reading Room'
-    - http://www.nasa.gov/centers/ames/business/foia/elec.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -157,6 +163,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '34.89'
+      complex_highest_days: '350'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      simple_average_days: '8.12'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '4.5'
   service_center:
     phone:
     - 650-604-3273
@@ -165,7 +180,7 @@ departments:
 - address:
     address_lines:
     - Kim Lewis-Bias
-    - DFRC FOIA Officer
+    - AFRC FOIA Officer
     - Building 4839
     city: Edwards
     state: CA
@@ -174,95 +189,30 @@ departments:
   emails:
   - dfrc-foia@nasa.gov
   fax: 661-276-3566
-  foia_officer:
-    name: Kim Lewis-Bias
-    phone:
-    - 661-276-2704
-  name: Dryden Flight Research Center
+  name: Armstrong Flight Research Center
   phone: 661-276-2704
   public_liaison:
     name: Kim Lewis-Bias
     phone:
     - 661-276-2704
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nasa.gov/centers/armstrong/about/FOIA/readroom.html
-  request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
-    '2008':
-      complex_average_days: '35'
-      complex_highest_days: '46'
-      complex_lowest_days: '29'
-      complex_median_days: '177'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '51'
-      simple_highest_days: '286'
-      simple_lowest_days: '3'
-      simple_median_days: '515'
-    '2009':
-      complex_average_days: '35'
-      complex_highest_days: '46'
-      complex_lowest_days: '29'
-      complex_median_days: '177'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '51'
-      simple_highest_days: '286'
-      simple_lowest_days: '3'
-      simple_median_days: '515'
-    '2010':
-      complex_average_days: '244'
-      complex_highest_days: '244'
-      complex_lowest_days: '244'
-      complex_median_days: '244'
-      expedited_processing_average_days: '12.5'
-      expedited_processing_highest_days: '19'
-      expedited_processing_lowest_days: '6'
-      expedited_processing_median_days: '12.5'
-      simple_average_days: '28.48'
-      simple_highest_days: '169'
+    '2014':
+      complex_average_days: '25.33'
+      complex_highest_days: '36'
+      complex_lowest_days: '13'
+      complex_median_days: '26'
+      simple_average_days: '8.73'
+      simple_highest_days: '20'
       simple_lowest_days: less than 1
-      simple_median_days: '15'
-    '2011':
-      complex_average_days: '30'
-      complex_highest_days: '30'
-      complex_lowest_days: '30'
-      complex_median_days: '30'
-      simple_average_days: '21.33'
-      simple_highest_days: '93'
-      simple_lowest_days: '1'
-      simple_median_days: '12'
-    '2012':
-      complex_average_days: '85.88'
-      complex_highest_days: '288'
-      complex_lowest_days: '26'
-      complex_median_days: '45'
-      simple_average_days: '25.58'
-      simple_highest_days: '103'
-      simple_lowest_days: less than 1
-      simple_median_days: '15.5'
-    '2013':
-      complex_average_days: '34.86'
-      complex_highest_days: '150'
-      complex_lowest_days: '3'
-      complex_median_days: '17'
-      simple_average_days: '1'
-      simple_highest_days: '3'
-      simple_lowest_days: less than 1
-      simple_median_days: '0.5'
+      simple_median_days: '7'
   service_center:
     phone:
     - 661-276-2704
   top_level: false
-  website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
+  website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
 - address:
     address_lines:
-    - Angela Pierce
+    - Jaclyn Facinelli
     - GRC FOIA Officer
     city: Cleveland
     state: OH
@@ -276,11 +226,11 @@ departments:
     phone:
     - 216-443-2813
   name: Glenn Research Center
-  phone: 216-443-2813
+  phone: 216-443-2315
   public_liaison:
-    name: Angela Pierce
+    name: Jaclyn Facinelli
     phone:
-    - 216-443-2813
+    - 216-443-2315
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -345,9 +295,18 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '12.36'
+      complex_highest_days: '46'
+      complex_lowest_days: less than 1
+      complex_median_days: '4'
+      simple_average_days: '3.43'
+      simple_highest_days: '12'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
-    - 216-443-2813
+    - 216-443-2315
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
@@ -371,9 +330,6 @@ departments:
     name: Joan Belt
     phone:
     - 301-286-4271
-  reading_rooms:
-  - - Electronic Reading Room  →
-    - https://foiaelibrary.gsfc.nasa.gov/index.cfm?fuseaction=foia.eReadingRoom
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -442,6 +398,15 @@ departments:
       simple_highest_days: '23'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '27.29'
+      complex_highest_days: '95'
+      complex_lowest_days: less than 1
+      complex_median_days: '21'
+      simple_average_days: '5.11'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 301-286-4271
@@ -472,9 +437,6 @@ departments:
     name: Dennis Mahon
     phone:
     - 818-393-6779
-  reading_rooms:
-  - - Electronic FOIA Library
-    - http://www.hq.nasa.gov/office/pao/FOIA/jpl/library.htm
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -539,6 +501,15 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '12.95'
+      complex_highest_days: '21'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      simple_average_days: '2.86'
+      simple_highest_days: '15'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 818-393-6779
@@ -633,6 +604,15 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2014':
+      complex_average_days: '20.54'
+      complex_highest_days: '99'
+      complex_lowest_days: less than 1
+      complex_median_days: '10'
+      simple_average_days: '4.11'
+      simple_highest_days: '25'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 281-483-8252
@@ -727,6 +707,15 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: less than 1
       simple_median_days: '2.5'
+    '2014':
+      complex_average_days: '24.79'
+      complex_highest_days: '131'
+      complex_lowest_days: less than 1
+      complex_median_days: '8'
+      simple_average_days: '5.23'
+      simple_highest_days: '48'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 321-867-9280
@@ -754,9 +743,6 @@ departments:
     name: Carissa Wheeler
     phone:
     - 757-864-4274
-  reading_rooms:
-  - - Electronic FOIA Library
-    - http://www.nasa.gov/centers/langley/reading/index.html
   request_time_stats:
     '2008':
       complex_average_days: '377'
@@ -820,6 +806,15 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '16.82'
+      complex_highest_days: '44'
+      complex_lowest_days: less than 1
+      complex_median_days: '14'
+      simple_average_days: '3.25'
+      simple_highest_days: '9'
+      simple_lowest_days: less than 1
+      simple_median_days: '2.5'
   service_center:
     phone:
     - 757-864-4274
@@ -845,9 +840,6 @@ departments:
     name: Judi Hollingsworth
     phone:
     - 256-544-1837
-  reading_rooms:
-  - - + FOIA Library
-    - http://foia.msfc.nasa.gov/reading.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -916,6 +908,15 @@ departments:
       simple_highest_days: '29'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2014':
+      complex_average_days: '27.6'
+      complex_highest_days: '54'
+      complex_lowest_days: '3'
+      complex_median_days: '28'
+      simple_average_days: '6.96'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 256-544-1837
@@ -999,6 +1000,15 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: less than 1
       simple_median_days: '9.5'
+    '2014':
+      complex_average_days: '19.33'
+      complex_highest_days: '39'
+      complex_lowest_days: '10'
+      complex_median_days: '17'
+      simple_average_days: '13'
+      simple_highest_days: '23'
+      simple_lowest_days: less than 1
+      simple_median_days: '14.5'
   service_center:
     phone:
     - 202-358-2582
@@ -1092,6 +1102,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '6'
       simple_median_days: '8'
+    '2014':
+      complex_average_days: '19.22'
+      complex_highest_days: '42'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      simple_average_days: '23.4'
+      simple_highest_days: '36'
+      simple_lowest_days: '16'
+      simple_median_days: '20'
   service_center:
     phone:
     - 228-813-6174
@@ -1117,9 +1136,6 @@ departments:
     name: Sally Bilbo
     phone:
     - 228-688-3182
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nasa.gov/centers/stennis/about/foia/reading/index.html
   request_form: http://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
@@ -1188,6 +1204,11 @@ departments:
       simple_highest_days: '11'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      simple_average_days: '6.08'
+      simple_highest_days: '26'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 228-688-3182
@@ -1195,7 +1216,7 @@ departments:
   website: http://www.nasa.gov/centers/stennis/about/foia/index.html
 - address:
     address_lines:
-    - Miriam BrownLam
+    - Miriam Brown-Lam
     - Agency
     - Room 5P 32
     city: S.W. Washington
@@ -1423,4 +1444,13 @@ request_time_stats:
     simple_highest_days: '35'
     simple_lowest_days: less than 1
     simple_median_days: '4'
+  '2014':
+    complex_average_days: '21.9'
+    complex_highest_days: '350'
+    complex_lowest_days: less than 1
+    complex_median_days: '13'
+    simple_average_days: '5.78'
+    simple_highest_days: '48'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
 usa_id: '49476'

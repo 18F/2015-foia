@@ -3,9 +3,9 @@ departments:
 - abbreviation: BIA
   address:
     address_lines:
-    - Daphne Berwald
-    - Acting FOIA Officer
-    - MS-3071, MIB
+    - Daniel Largo
+    - FOIA Officer
+    - MS-3070, MIB
     city: Washington
     state: DC
     street: 1849 C Street, NW
@@ -64,11 +64,11 @@ departments:
   name: Bureau of Indian Affairs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-208-4174
+  phone: 202-208-5097
   public_liaison:
-    name: Monique Hartgrove
+    name: Daniel Largo
     phone:
-    - 202-208-4174
+    - 202-208-5097
   reading_rooms:
   - - Reading Room
     - http://www.bia.gov/FOIA/ReadingRoom/index.htm
@@ -134,6 +134,19 @@ departments:
       simple_highest_days: '22'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2014':
+      complex_average_days: '24'
+      complex_highest_days: '508'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: less than 1
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: less than 1
+      simple_average_days: '2'
+      simple_highest_days: '36'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-208-4174
@@ -153,7 +166,7 @@ departments:
   description: The Bureau of Land Management manages outdoor recreation, livestock
     grazing, mineral development, and energy production on public lands.
   emails:
-  - BLM_WO_FOIA@blm.gov
+  - wo_FOIA@blm.gov
   foia_officer:
     name: Ryan Witt
     phone:
@@ -213,11 +226,11 @@ departments:
   name: Bureau of Land Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-912-7650
+  phone: 202-912-7652
   public_liaison:
     name: Ryan Witt
     phone:
-    - 202-912-7650
+    - 202-912-7652
   reading_rooms:
   - - Reading Room
     - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
@@ -295,9 +308,18 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '54'
+      complex_highest_days: '887'
+      complex_lowest_days: less than 1
+      complex_median_days: '27'
+      simple_average_days: '6'
+      simple_highest_days: '26'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
-    - 202-912-7650
+    - 202-912-7652
   top_level: true
   usa_id: '49125'
   website: http://www.blm.gov/wo/st/en/res/FOIA.html
@@ -305,8 +327,8 @@ departments:
   address:
     address_lines:
     - Rosemary Melendy
-    - FOIA Contact
-    - HM3127
+    - FOIA Officer
+    - MS-HM 3127
     city: Herndon
     state: VA
     street: 381 Elden Street
@@ -319,6 +341,7 @@ departments:
   fax: 703-787-1209
   keywords:
   - Administrative practice and procedure
+  - Bonds
   - Civil rights
   - Coastal zone
   - Continental shelf
@@ -333,10 +356,13 @@ departments:
   - Investigations
   - Marine resources
   - Mineral royalties
+  - Natural gas
   - Natural resources
   - Oil and gas exploration
+  - Oil and gas reserves
   - Oil pollution
   - Penalties
+  - Petroleum
   - Pipelines
   - Public lands
   - Reporting and recordkeeping requirements
@@ -387,17 +413,26 @@ departments:
       simple_highest_days: '10'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '60'
+      complex_highest_days: '389'
+      complex_lowest_days: less than 1
+      complex_median_days: '17'
+      simple_average_days: '5'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
-    - 703-787-1327
+    - 703-787-1315
   top_level: true
   usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
 - abbreviation: USBR
   address:
     address_lines:
-    - Regina Magno-Judd
-    - FOIA Officer
+    - James Judd
+    - Acting FOIA Officer
     city: Denver
     state: CO
     street: P.O. Box 25007
@@ -433,9 +468,9 @@ departments:
   name: Bureau of Reclamation
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 303-445-2056
+  phone: 303-445-2092
   public_liaison:
-    name: Regina Magno-Judd
+    name: James Judd
     phone:
     - 303-445-2056
   reading_rooms:
@@ -515,6 +550,15 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '20'
+      complex_highest_days: '167'
+      complex_lowest_days: less than 1
+      complex_median_days: '13'
+      simple_average_days: '4'
+      simple_highest_days: '11'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 303-445-2056
@@ -525,8 +569,8 @@ departments:
   address:
     address_lines:
     - Debbie Kimball
-    - FOIA Contact
-    - 'MS:  HE-2204'
+    - FOIA Officer
+    - MS-HE 2204
     city: Herndon
     state: VA
     street: 381 Elden Street
@@ -539,8 +583,10 @@ departments:
   fax: 703-787-1207
   keywords:
   - Administrative practice and procedure
+  - Bonds
   - Civil rights
   - Continental shelf
+  - Energy
   - Environmental impact statements
   - Environmental protection
   - Freedom of information
@@ -549,9 +595,13 @@ departments:
   - Intergovernmental relations
   - Investigations
   - Mineral royalties
+  - Natural gas
+  - Natural resources
   - Oil and gas exploration
+  - Oil and gas reserves
   - Oil pollution
   - Penalties
+  - Petroleum
   - Pipelines
   - Public lands
   - Reporting and recordkeeping requirements
@@ -597,6 +647,19 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '68'
+      complex_highest_days: '775'
+      complex_lowest_days: '2'
+      complex_median_days: '26'
+      expedited_processing_average_days: '819'
+      expedited_processing_highest_days: '819'
+      expedited_processing_lowest_days: '819'
+      expedited_processing_median_days: '819'
+      simple_average_days: '1'
+      simple_highest_days: '3'
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
   service_center:
     phone:
     - 703-787-1689
@@ -607,11 +670,11 @@ departments:
   address:
     address_lines:
     - Melissa Allen
-    - FWS FOIA Officer
+    - FOIA Officer
     - MS-IRTM
     city: Falls Church
     state: VA
-    street: 5725 Leesburg Pike
+    street: 5275 Leesburg Pike
     zip: '22041'
   description: The Fish and Wildlife Service works to conserve, protect and enhance
     fish, wildlife and plants and their habitats.
@@ -689,9 +752,9 @@ departments:
     visiting its website.
   phone: 703-358-2470
   public_liaison:
-    name: Johnny Hunt
+    name: Melissa Allen
     phone:
-    - 703-358-2504
+    - 703-358-2470
   reading_rooms:
   - - FWS FOIA Library
     - http://www.fws.gov/irm/bpim/foiaread.html
@@ -773,9 +836,22 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '36'
+      complex_highest_days: '522'
+      complex_lowest_days: less than 1
+      complex_median_days: '17'
+      expedited_processing_average_days: less than 1
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: less than 1
+      simple_average_days: '7'
+      simple_highest_days: '50'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
-    - 703-358-2504
+    - 703-358-2470
   top_level: true
   usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
@@ -783,19 +859,18 @@ departments:
   address:
     address_lines:
     - Brian May
-    - FOIA Contact
-    - MS-807, National Center
-    city: Reston
-    state: VA
-    street: 12201 Sunrise Valley Drive Room 2B116
-    zip: '20192'
+    - FOIA Officer
+    city: Baltimore
+    state: MD
+    street: 5522 Research Park Drive
+    zip: '21228'
   description: The U.S. Geological Survey is the nation's largest water, earth, and
     biological science and civilian mapping agency. It collects, monitors, analyzes,
     and provides scientific understanding of natural resource conditions, issues,
     and problems.
   emails:
   - foia@usgs.gov
-  fax: 703-648-7199
+  fax: 443-498-5510
   misc:
     FOIA Contact:
       name: Brian May
@@ -804,11 +879,11 @@ departments:
   name: U.S. Geological Survey
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 703-648-7196
+  phone: 443-498-5521
   public_liaison:
-    name: Joye Durant
+    name: Brian May
     phone:
-    - 703-648-7196
+    - 443-498-5521
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -863,16 +938,25 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '35'
+      complex_highest_days: '227'
+      complex_lowest_days: less than 1
+      complex_median_days: '9'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
-    - 703-648-7196
+    - 443-498-5521
   top_level: false
   usa_id: '49343'
   website: http://www.usgs.gov/foia/
 - address:
     address_lines:
     - Charis Wilson
-    - NPS FOIA Officer
+    - FOIA Officer
     - P.O. Box 25287
     city: Denver
     state: CO
@@ -888,6 +972,7 @@ departments:
   foia_officer:
     name: Charis Wilson
   keywords:
+  - Administrative practice and procedure
   - Alaska
   - Alcohol and alcoholic beverages
   - Archives and records
@@ -1007,16 +1092,29 @@ departments:
       simple_highest_days: '27'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '35'
+      complex_highest_days: '786'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: '23'
+      expedited_processing_highest_days: '50'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '15'
+      simple_average_days: '10'
+      simple_highest_days: '45'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
-    - 202-354-1925
+    - 303-969-2959
   top_level: true
   usa_id: '49539'
   website: http://www.nps.gov/foia.htm
 - address:
     address_lines:
     - Kevin Krebs
-    - FOIA Contact
+    - FOIA Officer
     - MS-4428, MIB
     city: Washington
     state: DC
@@ -1032,6 +1130,7 @@ departments:
   name: Office of the Inspector General
   phone: 202-208-0954
   public_liaison:
+    name: Kevin Krebs
     phone:
     - 202-208-0954
   reading_rooms:
@@ -1107,6 +1206,19 @@ departments:
       simple_highest_days: '120'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '139'
+      complex_highest_days: '1316'
+      complex_lowest_days: less than 1
+      complex_median_days: '21'
+      expedited_processing_average_days: '234'
+      expedited_processing_highest_days: '488'
+      expedited_processing_lowest_days: '16'
+      expedited_processing_median_days: '202'
+      simple_average_days: '1'
+      simple_highest_days: '3'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-208-0954
@@ -1114,86 +1226,12 @@ departments:
   website: http://www.doi.gov/oig/foia/index.cfm
 - address:
     address_lines:
-    - Richard Lopez
-    - FOIA Contact
-    - MS-61023A
-    city: Denver
-    state: CO
-    street: PO Box 25165
-    zip: 80225-0165
-  description: The Office of Natural Resources Revenue manages the revenues from energy
-    and mineral leases for the use of public natural resources on the Outer Continental
-    Shelf and onshore Federal and American Indian lands.
-  emails:
-  - os_foia@ios.doi.gov
-  fax: 303-445-4288
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Civil rights
-  - Coal
-  - Continental shelf
-  - Electronic funds transfers
-  - Environmental impact statements
-  - Environmental protection
-  - Equal access to justice
-  - Estates
-  - Geothermal energy
-  - Government contracts
-  - Grazing lands
-  - Indians
-  - Indians-lands
-  - Intergovernmental relations
-  - Investigations
-  - Lawyers
-  - Mineral resources
-  - Mineral royalties
-  - Mines
-  - Natural gas
-  - Oil and gas exploration
-  - Penalties
-  - Petroleum
-  - Phosphate
-  - Pipelines
-  - Public lands
-  - Reporting and recordkeeping requirements
-  - Small businesses
-  - Sulfur
-  - Surety bonds
-  - Surface mining
-  - Whistleblowing
-  misc:
-    FOIA Contact:
-      name: Richard Lopez
-      phone:
-      - 303-231-3078
-  name: Office of Natural Resources Revenue
-  notes: This office has additional FOIA contact information that can be found by
-    visiting its website.
-  phone: 303-231-3078
-  public_liaison:
-    name: Richard Lopez
-    phone:
-    - 303-231-3078
-  reading_rooms:
-  - - Electronic Reading Room (EFOIA)
-    - http://www.onrr.gov/FOIA/EFOIA/default.htm
-  request_form: http://www.doi.gov/foia/foia-request-form.cfm
-  service_center:
-    phone:
-    - 303-231-3078
-  top_level: false
-  usa_id: '85148'
-  website: http://www.onrr.gov/FOIA/
-- address:
-    address_lines:
     - Clarice Julka
-    - FOIA Contact
-    - MS-116, SIB
+    - FOIA Officer
+    - MS-7328, MIB
     city: Washington
     state: DC
-    street: 1951 Constitution Avenue, NW
+    street: 1849 C Street, NW
     zip: '20240'
   emails: []
   fax: 202-219-2374
@@ -1203,11 +1241,14 @@ departments:
       phone:
       - 202-513-0756
   name: Office of the Secretary
-  phone: 202-513-0756
+  phone: 202-208-6045
   public_liaison:
     name: Clarice Julka
     phone:
-    - 202-565-1076
+    - 202-208-6045
+  reading_rooms:
+  - - Departmental FOIA Library
+    - http://www.doi.gov/foia/doi-foia-library.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1274,16 +1315,29 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '16'
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '44'
+      complex_highest_days: '925'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: '202'
+      expedited_processing_highest_days: '718'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '40'
+      simple_average_days: '8'
+      simple_highest_days: '10'
+      simple_lowest_days: '6'
+      simple_median_days: '8'
   service_center:
     phone:
-    - 202-513-0756
+    - 202-513-0765
   top_level: false
-  website: http://www.doi.gov/foia/OS-FOIA-Office.cfm
+  website: http://www.doi.gov/foia/os/index.cfm
 - address:
     address_lines:
     - Lance Purvis
-    - Acting FOIA Contact
-    - MS-6429, M1B
+    - FOIA Officer
+    - MS-6429, MIB
     city: Washington
     state: DC
     street: 1849 C Street, NW
@@ -1302,11 +1356,6 @@ departments:
     name: Lance Purvis
     phone:
     - 202-208-5817
-  reading_rooms:
-  - - DOI FOIA Library
-    - http://www.doi.gov/foia/doi-foia-library.cfm
-  - - OS FOIA Library
-    - http://www.doi.gov/foia/os/index.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1343,16 +1392,25 @@ departments:
       complex_highest_days: '1140'
       complex_lowest_days: less than 1
       complex_median_days: '44'
+    '2014':
+      complex_average_days: '98'
+      complex_highest_days: '1279'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      simple_average_days: '6'
+      simple_highest_days: '6'
+      simple_lowest_days: '6'
+      simple_median_days: '6'
   service_center:
     phone:
-    - 202-208-6503
+    - 202-208-5817
   top_level: false
-  website: http://www.doi.gov/foia/
+  website: http://www.doi.gov/solicitor/index.html
 - address:
     address_lines:
     - Dele Awoniyi
-    - FOIA Contact
-    - MS-233, S1B
+    - FOIA Officer
+    - MS-233, SIB
     city: Washington
     state: DC
     street: 1951 Constitution Avenue, NW
@@ -1372,7 +1430,7 @@ departments:
   public_liaison:
     name: Dele Awoniyi
     phone:
-    - 202-208-2909
+    - 202-208-5840
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1419,22 +1477,30 @@ departments:
       complex_highest_days: '766'
       complex_lowest_days: less than 1
       complex_median_days: '18'
+    '2014':
+      complex_average_days: '47'
+      complex_highest_days: '653'
+      complex_lowest_days: less than 1
+      complex_median_days: '16'
+      simple_average_days: '7'
+      simple_highest_days: '7'
+      simple_lowest_days: '7'
+      simple_median_days: '7'
   service_center:
     phone:
-    - 202-208-2909
+    - 202-208-5840
   top_level: false
-  website: http://www.osmre.gov/contacts/Foia.shtm
+  website: http://www.osmre.gov/lrg/foia.shtm
 - address:
     address_lines:
     - Veronica Herkshan
-    - FOIA Contact
-    - MS-5140, MIB
-    city: Washington
-    state: DC
-    street: 1849 C Street, NW
-    zip: '20240'
+    - FOIA Officer
+    city: Albuquerque
+    state: NM
+    street: 4400 Masthead Street N.E.
+    zip: '87109'
   emails:
-  - Veronica_Herkshan@ost.doi.gov
+  - ost_foia@ost.doi.gov
   misc:
     FOIA Contact:
       name: Veronica Herkshan
@@ -1773,6 +1839,19 @@ request_time_stats:
     expedited_processing_median_days: '19'
     simple_average_days: '3'
     simple_highest_days: '120'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'
+  '2014':
+    complex_average_days: '39'
+    complex_highest_days: '1316'
+    complex_lowest_days: less than 1
+    complex_median_days: '17'
+    expedited_processing_average_days: '165'
+    expedited_processing_highest_days: '819'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '49'
+    simple_average_days: '4'
+    simple_highest_days: '50'
     simple_lowest_days: less than 1
     simple_median_days: '1'
 usa_id: '49033'

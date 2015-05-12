@@ -4,7 +4,7 @@ departments:
   address:
     address_lines:
     - Sharron H. Hawkins
-    - FOIA Officer
+    - Lead FOIA Specialist
     city: Washington
     state: DC
     street: 60 Massachusetts Avenue, NE
@@ -13,7 +13,7 @@ departments:
     rail passenger service.
   emails:
   - foiarequests@amtrak.com
-  fax: 202-906-3285
+  fax: 202-906-2004
   foia_officer:
     name: Sharron H. Hawkins
     phone:
@@ -103,6 +103,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2014':
+      complex_average_days: '42.15'
+      complex_highest_days: '465'
+      complex_lowest_days: '1'
+      complex_median_days: '19.5'
+      expedited_processing_average_days: '41.5'
+      expedited_processing_highest_days: '46'
+      expedited_processing_lowest_days: '37'
+      expedited_processing_median_days: '41.5'
+      simple_average_days: '7.69'
+      simple_highest_days: '62'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-906-3740
@@ -191,4 +204,17 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '1'
+  '2014':
+    complex_average_days: '42.15'
+    complex_highest_days: '465'
+    complex_lowest_days: '1'
+    complex_median_days: '19.5'
+    expedited_processing_average_days: '41.5'
+    expedited_processing_highest_days: '46'
+    expedited_processing_lowest_days: '37'
+    expedited_processing_median_days: '41.5'
+    simple_average_days: '7.69'
+    simple_highest_days: '62'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
 usa_id: '49084'

@@ -8,22 +8,24 @@ departments:
     - General Counsel
     city: Washington
     state: DC
-    street: 1650 Pennsylvania, NW
-    zip: '20504'
+    street: 1650 Pennsylvania Avenue, NW
+    zip: '20502'
   description: The Office of Science and Technology Policy advises the president on
     the effects of science and technology on domestic and international affairs. It
     also develops, coordinates, and implements science and technology policies and
     budgets.
+  emails:
+  - ostpfoia@ostp.eop.gov
   fax: 202-395-1224
   name: Office of Science and Technology Policy
-  phone: 202-456-6125
+  phone: 202-456-4444
   public_liaison:
-    name: Rachael Leonard
+    name: Jennifer Lee
     phone:
-    - 202-456-6125
+    - 202-456-4444
   reading_rooms:
   - - FOIA Library
-    - http://www.whitehouse.gov/administration/eop/ostp/library/foia/readingroom
+    - https://www.whitehouse.gov/administration/eop/ostp/library/foia/readingroom
   request_time_stats:
     '2008':
       complex_average_days: '359'
@@ -103,9 +105,23 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: less than 1
       simple_median_days: '8'
+    '2014':
+      complex_average_days: '71.8'
+      complex_highest_days: '162'
+      complex_lowest_days: '2'
+      complex_median_days: '34'
+      expedited_processing_average_days: '162'
+      expedited_processing_highest_days: '162'
+      expedited_processing_lowest_days: '162'
+      expedited_processing_median_days: '162'
+      simple_average_days: '14.4'
+      simple_highest_days: '85'
+      simple_lowest_days: less than 1
+      simple_median_days: '0'
   service_center:
+    name: Jennifer Lee
     phone:
-    - 202-456-6125
+    - 202-456-4444
   top_level: false
   usa_id: '49590'
   website: http://www.whitehouse.gov/administration/eop/ostp/library/foia
@@ -198,4 +214,17 @@ request_time_stats:
     simple_highest_days: '40'
     simple_lowest_days: less than 1
     simple_median_days: '8'
+  '2014':
+    complex_average_days: '71.8'
+    complex_highest_days: '162'
+    complex_lowest_days: '2'
+    complex_median_days: '34'
+    expedited_processing_average_days: '162'
+    expedited_processing_highest_days: '162'
+    expedited_processing_lowest_days: '162'
+    expedited_processing_median_days: '162'
+    simple_average_days: '14.4'
+    simple_highest_days: '85'
+    simple_lowest_days: less than 1
+    simple_median_days: '0'
 usa_id: '49590'

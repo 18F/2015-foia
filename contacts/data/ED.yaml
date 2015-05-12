@@ -5,7 +5,7 @@ departments:
     address_lines:
     - Gregory Smith
     - Director, FOIA Service Center, Office of Management
-    - LBJ 2E305
+    - LBJ 2E320
     city: Washington
     state: DC
     street: 400 Maryland Avenue, SW
@@ -20,8 +20,7 @@ departments:
     visiting its website.
   phone: 202-401-8365
   public_liaison:
-    name: Elise Cook, Marie-Teresa Cueva, Linda Darby, Bennie Jessup, Robert Wehausen,
-      or Christie Swafford
+    name: Elise Cook, Linda Darby, Elizabeth Hunziker, Christie Swafford, Arthur Caliguiran
     phone:
     - 202-401-8365
   reading_rooms:
@@ -85,6 +84,7 @@ keywords:
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-health
+- Grant programs-labor
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -121,6 +121,7 @@ keywords:
 - Northern Mariana Islands
 - Pacific Islands Trust Territory
 - Penalties
+- Prisoners
 - Privacy
 - Private schools
 - Public housing
@@ -153,6 +154,7 @@ keywords:
 - Water supply
 - Watersheds
 - Women
+- Youth
 name: Department of Education
 request_time_stats:
   '2008':
@@ -233,4 +235,17 @@ request_time_stats:
     simple_highest_days: '423'
     simple_lowest_days: less than 1
     simple_median_days: '12'
+  '2014':
+    complex_average_days: '40.96'
+    complex_highest_days: '1081'
+    complex_lowest_days: less than 1
+    complex_median_days: '21'
+    expedited_processing_average_days: less than 1
+    expedited_processing_highest_days: less than 1
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: less than 1
+    simple_average_days: '12.82'
+    simple_highest_days: '163'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'
 usa_id: '49018'

@@ -45,6 +45,11 @@ departments:
       simple_highest_days: '29'
       simple_lowest_days: '2'
       simple_median_days: '6.5'
+    '2014':
+      simple_average_days: '17.6'
+      simple_highest_days: '27'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-254-7900
@@ -88,3 +93,8 @@ request_time_stats:
     simple_highest_days: '29'
     simple_lowest_days: '2'
     simple_median_days: '6.5'
+  '2014':
+    simple_average_days: '17.6'
+    simple_highest_days: '27'
+    simple_lowest_days: '1'
+    simple_median_days: '19'

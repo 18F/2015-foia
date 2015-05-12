@@ -2,14 +2,17 @@ abbreviation: USTR
 departments:
 - address:
     address_lines:
-    - Jacqueline B. Caldwell
+    - Melissa J. Keppel
     - FOIA Officer
+    - '513'
     city: Washington
     state: DC
-    street: 1724 F Street, NW
+    street: 1724 F Street NW
     zip: '20508'
   description: Under the Executive Office of the President, the U.S. Trade Representative
     negotiates with foreign governments to craft trade agreements and resolve disputes.
+  emails:
+  - foia@ustr.eop.gov
   fax: 202-395-9458
   name: Office of the United States Trade Representative
   phone: 202-395-3419
@@ -73,7 +76,17 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '225'
+      complex_highest_days: '814'
+      complex_lowest_days: '17'
+      complex_median_days: '277'
+      simple_average_days: '31'
+      simple_highest_days: '98'
+      simple_lowest_days: '1'
+      simple_median_days: '33'
   service_center:
+    name: Jacqueline B. Caldwell
     phone:
     - 202-395-3419
   top_level: false
@@ -136,4 +149,13 @@ request_time_stats:
     simple_highest_days: '41'
     simple_lowest_days: '1'
     simple_median_days: '16'
+  '2014':
+    complex_average_days: '225'
+    complex_highest_days: '814'
+    complex_lowest_days: '17'
+    complex_median_days: '277'
+    simple_average_days: '31'
+    simple_highest_days: '98'
+    simple_lowest_days: '1'
+    simple_median_days: '33'
 usa_id: '49724'

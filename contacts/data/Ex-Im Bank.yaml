@@ -2,7 +2,7 @@ abbreviation: EXIM
 departments:
 - address:
     address_lines:
-    - Dawn R. Kral
+    - Lennell C. Jackson
     - FOIA Contact
     city: Washington
     state: DC
@@ -21,11 +21,11 @@ departments:
       phone:
       - 202-565-3248
   name: Export-Import Bank of the U.S.
-  phone: 202-565-3248
+  phone: 202-565-3290
   public_liaison:
-    name: Dawn R. Kral
+    name: Lennell C. Jackson
     phone:
-    - 202-565-3248
+    - 202-565-3290
   request_form: http://www.exim.gov/about/library/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -43,7 +43,7 @@ departments:
       simple_median_days: '15'
   service_center:
     phone:
-    - 202-565-3248
+    - 202-565-3290
   top_level: false
   usa_id: '52603'
   website: http://www.exim.gov/about/disclosure/foia.cfm
@@ -134,4 +134,13 @@ request_time_stats:
     simple_highest_days: '257'
     simple_lowest_days: '1'
     simple_median_days: '59'
+  '2014':
+    complex_average_days: '169.85'
+    complex_highest_days: '789'
+    complex_lowest_days: '8'
+    complex_median_days: '59'
+    simple_average_days: '84.33'
+    simple_highest_days: '339'
+    simple_lowest_days: '2'
+    simple_median_days: '54'
 usa_id: '52603'

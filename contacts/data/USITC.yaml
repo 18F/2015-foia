@@ -15,14 +15,14 @@ departments:
     may implement corrective measures. The Commission also provides the President
     and Congress impartial information on international trade to inform trade policy.
   emails:
-  - jackie.gross@usitc.gov
+  - lisa.barton@usitc.gov
   fax: 202-205-2104
   foia_officer:
     name: Lisa R. Barton
     phone:
     - 202-205-2000
   name: United States International Trade Commission
-  phone: 202-205-2000
+  phone: 202-205-2595
   public_liaison:
     name: Jacqueline N. Gross
     phone:
@@ -110,7 +110,21 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '8'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
+    name: N/A
     phone:
     - 202-205-2595
   top_level: false
@@ -201,4 +215,17 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '8'
+  '2014':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '12'
+    simple_highest_days: '21'
+    simple_lowest_days: '1'
+    simple_median_days: '11'
 usa_id: '49712'

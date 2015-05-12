@@ -274,7 +274,7 @@ def parse_department(elem, name):
         if ('phone' in lower and 'public liaison' not in lower
                 and 'service center' not in lower and 'phone' not in data):
             data['phone'] = clean_phone_number(line)
-        elif 'fax' in lower and 'fax' not in data:
+        elif 'fax' in lower and 'fax' not in data and PHONE_RE.match(line):
             data['fax'] = clean_phone_number(line)
     emails = find_emails(lines, ps)
     if emails:

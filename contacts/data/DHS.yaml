@@ -161,6 +161,19 @@ departments:
       simple_highest_days: '397'
       simple_lowest_days: '1'
       simple_median_days: '15.76'
+    '2014':
+      complex_average_days: '28.37'
+      complex_highest_days: '393'
+      complex_lowest_days: '3'
+      complex_median_days: '32.2'
+      expedited_processing_average_days: '43.54'
+      expedited_processing_highest_days: '110'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '28.09'
+      simple_average_days: '20.32'
+      simple_highest_days: '357'
+      simple_lowest_days: '1'
+      simple_median_days: '19.18'
   service_center:
     phone:
     - 816-350-5521
@@ -257,6 +270,15 @@ departments:
       simple_highest_days: '12'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2014':
+      complex_average_days: '24.43'
+      complex_highest_days: '83'
+      complex_lowest_days: '4'
+      complex_median_days: '15'
+      simple_average_days: '9.61'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-357-1218
@@ -469,6 +491,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '92.77'
+      complex_highest_days: '1153'
+      complex_lowest_days: '4'
+      complex_median_days: '48'
+      expedited_processing_average_days: '39.33'
+      expedited_processing_highest_days: '91'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '24'
+      simple_average_days: '9.21'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
     name: Amanda Ackerson
     phone:
@@ -671,6 +706,19 @@ departments:
       simple_highest_days: '544'
       simple_lowest_days: '1'
       simple_median_days: '129'
+    '2014':
+      complex_average_days: '262.52'
+      complex_highest_days: '1055'
+      complex_lowest_days: '1'
+      complex_median_days: '277'
+      expedited_processing_average_days: '42.8'
+      expedited_processing_highest_days: '194'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '6.83'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-325-0150
@@ -680,8 +728,8 @@ departments:
 - abbreviation: FEMA
   address:
     address_lines:
-    - Terry Cochran
-    - FOIA Officer
+    - Charlene Myrthil
+    - Acting FOIA Officer
     - Room 840
     city: Washington
     state: DC
@@ -707,6 +755,7 @@ departments:
   - Airports
   - Aliens
   - American Samoa
+  - Authority delegations (Government agencies)
   - Blind
   - Broadband
   - Buildings and facilities
@@ -826,7 +875,7 @@ departments:
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison:
-    name: Terry Cochran
+    name: Charlene Myrthil
     phone:
     - 202-646-3323
   request_form: https://faq.fema.gov/ci/documents/submit
@@ -905,6 +954,19 @@ departments:
       simple_highest_days: '923'
       simple_lowest_days: '1'
       simple_median_days: '100.5'
+    '2014':
+      complex_average_days: '213.82'
+      complex_highest_days: '1770'
+      complex_lowest_days: '21'
+      complex_median_days: '154'
+      expedited_processing_average_days: '468'
+      expedited_processing_highest_days: '855'
+      expedited_processing_lowest_days: '81'
+      expedited_processing_median_days: '468'
+      simple_average_days: '10.9'
+      simple_highest_days: '20'
+      simple_lowest_days: '2'
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-646-3323
@@ -987,6 +1049,11 @@ departments:
       simple_highest_days: '181'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2014':
+      simple_average_days: '18.31'
+      simple_highest_days: '122'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
     phone:
     - 912-267-3103
@@ -1117,8 +1184,21 @@ departments:
       simple_highest_days: '273'
       simple_lowest_days: '1'
       simple_median_days: '45'
+    '2014':
+      complex_average_days: '69.88'
+      complex_highest_days: '643'
+      complex_lowest_days: '1'
+      complex_median_days: '30'
+      expedited_processing_average_days: '98.7'
+      expedited_processing_highest_days: '632'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '63'
+      simple_average_days: '35.37'
+      simple_highest_days: '550'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
-    name: Louis Todd Fuss
+    name: Fernando Pineiro
     phone:
     - 202-732-4265
   top_level: true
@@ -1255,6 +1335,19 @@ departments:
       simple_highest_days: '119'
       simple_lowest_days: '1'
       simple_median_days: '22'
+    '2014':
+      complex_average_days: '124.55'
+      complex_highest_days: '654'
+      complex_lowest_days: '12'
+      complex_median_days: '100'
+      expedited_processing_average_days: '141'
+      expedited_processing_highest_days: '203'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '177.5'
+      simple_average_days: '31.52'
+      simple_highest_days: '248'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-254-4001
@@ -1348,6 +1441,15 @@ departments:
       simple_highest_days: '49'
       simple_lowest_days: '7'
       simple_median_days: '32'
+    '2014':
+      complex_average_days: '56.31'
+      complex_highest_days: '427'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      simple_average_days: '29.84'
+      simple_highest_days: '134'
+      simple_lowest_days: '1'
+      simple_median_days: '23'
   service_center:
     phone:
     - 202-282-8191
@@ -1446,6 +1548,19 @@ departments:
       simple_highest_days: '243'
       simple_lowest_days: '1'
       simple_median_days: '35'
+    '2014':
+      complex_average_days: '44.93'
+      complex_highest_days: '480'
+      complex_lowest_days: '1'
+      complex_median_days: '30'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '101.35'
+      simple_highest_days: '236'
+      simple_lowest_days: '1'
+      simple_median_days: '116'
   service_center:
     phone:
     - 703-235-2211
@@ -1536,6 +1651,15 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '8'
+      complex_highest_days: '19'
+      complex_lowest_days: '1'
+      complex_median_days: '7'
+      simple_average_days: '2.55'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-447-4156
@@ -1627,6 +1751,19 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2014':
+      complex_average_days: '87.13'
+      complex_highest_days: '342'
+      complex_lowest_days: '19'
+      complex_median_days: '56.5'
+      expedited_processing_average_days: '17.5'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '15'
+      expedited_processing_median_days: '17.5'
+      simple_average_days: '8.83'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '6.5'
   service_center:
     phone:
     - 202-254-6342
@@ -1732,6 +1869,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '207.12'
+      complex_highest_days: '1820'
+      complex_lowest_days: '21'
+      complex_median_days: '93.5'
+      simple_average_days: '12.58'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
   service_center:
     phone:
     - 202-406-6370
@@ -1741,8 +1887,8 @@ departments:
 - abbreviation: TSA
   address:
     address_lines:
-    - Yvonne Coates
-    - FOIA Officer
+    - Teri Miller
+    - Acting FOIA Officer
     - 11th Floor, East Tower, TSA-20
     city: Arlington
     state: VA
@@ -1755,7 +1901,7 @@ departments:
   - FOIA@tsa.dhs.gov
   fax: 571-227-1406
   foia_officer:
-    name: Yvonne Coates
+    name: Amanda Deplitch
     phone:
     - 866-364-2872
     - 571-227-2300
@@ -1815,7 +1961,7 @@ departments:
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison:
-    name: Yvonne Coates
+    name: Amanda Deplitch
     phone:
     - 866-364-2872
   reading_rooms:
@@ -1888,6 +2034,19 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2014':
+      complex_average_days: '259.47'
+      complex_highest_days: '1235'
+      complex_lowest_days: '21'
+      complex_median_days: '130.5'
+      expedited_processing_average_days: '172'
+      expedited_processing_highest_days: '172'
+      expedited_processing_lowest_days: '172'
+      expedited_processing_median_days: '172'
+      simple_average_days: '2.89'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 866-364-2872
@@ -2055,6 +2214,7 @@ keywords:
 - Homeless
 - Hospitals
 - Housing
+- Housing standards
 - Human research subjects
 - Immigration
 - Imports
@@ -2273,6 +2433,19 @@ request_time_stats:
     simple_highest_days: '923'
     simple_lowest_days: '1'
     simple_median_days: '11'
+  '2014':
+    complex_average_days: '111.59'
+    complex_highest_days: '1820'
+    complex_lowest_days: '1'
+    complex_median_days: '48'
+    expedited_processing_average_days: '103.49'
+    expedited_processing_highest_days: '855'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '24'
+    simple_average_days: '20.37'
+    simple_highest_days: '550'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
 service_center:
   phone:
   - 202-343-1743

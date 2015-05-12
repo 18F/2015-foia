@@ -127,6 +127,11 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: '3'
       simple_median_days: '20'
+    '2014':
+      simple_average_days: '17'
+      simple_highest_days: '43'
+      simple_lowest_days: '5'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-692-2922
@@ -228,4 +233,13 @@ request_time_stats:
     simple_highest_days: '105'
     simple_lowest_days: '1'
     simple_median_days: '26'
+  '2014':
+    complex_average_days: '113'
+    complex_highest_days: '552'
+    complex_lowest_days: '5'
+    complex_median_days: '51'
+    simple_average_days: '82'
+    simple_highest_days: '409'
+    simple_lowest_days: less than 1
+    simple_median_days: '38'
 usa_id: '52652'

@@ -1,13 +1,4 @@
 abbreviation: HUD
-address:
-  address_lines:
-  - Dolores W. Cole
-  - Office of the Executive Secretariat, Headquarters
-  - Room 10139
-  city: Washington
-  state: DC
-  street: 451 7th Street, SW
-  zip: 20410-3000
 departments:
 - address:
     address_lines:
@@ -18,8 +9,12 @@ departments:
     state: DC
     street: 451 7th Street, SW
     zip: 20410-3000
-  fax: 202-619-8365
+  fax: 202-708-1353
   misc:
+    Chief, FOIA Branch:
+      name: Deborah Snowden
+      phone:
+      - 202-402-7606
     Office of the Executive Secretariat:
       name: Dolores Cole
       phone:
@@ -27,11 +22,11 @@ departments:
   name: Headquarters
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-708-3866
+  phone: 202-402-2671
   public_liaison:
     name: Vicky J. Lewis
     phone:
-    - 202-708-3054
+    - 202-402-6147
   reading_rooms:
   - - E-FOIA Reading Room
     - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
@@ -89,6 +84,19 @@ departments:
       simple_highest_days: '276'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '115.23'
+      complex_highest_days: '577'
+      complex_lowest_days: '1'
+      complex_median_days: '76'
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '22'
+      simple_average_days: '33.26'
+      simple_highest_days: '439'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
   service_center:
     name: Eugenia Harris
     phone:
@@ -97,18 +105,21 @@ departments:
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
 - address:
     address_lines:
-    - Kristine G. Foye
-    - Deputy Regional Administrator
     - Room 301
     city: Boston
     state: MA
     street: 10 Causeway Street
     zip: 02222-1092
+  fax: 617-565-6558
   misc:
     Deputy Regional Administrator:
       name: Kristine G. Foye
       phone:
       - 617-994-8218
+    FOIA Liaison:
+      name: William Matthews
+      phone:
+      - 617-994-8213
   name: Region I (Boston, Hartford, Manchester, Providence)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -174,6 +185,15 @@ departments:
       simple_highest_days: '31'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '18.33'
+      complex_highest_days: '28'
+      complex_lowest_days: '5'
+      complex_median_days: '22'
+      simple_average_days: '9.25'
+      simple_highest_days: '64'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
     phone:
     - 617-994-8218
@@ -182,17 +202,22 @@ departments:
 - address:
     address_lines:
     - Mirza Morales
-    - Deputy Regional Administrator
+    - FOIA Public Liaison
     - Suite 3541
     city: New York
     state: NY
     street: 26 Federal Plaza
     zip: 10278-0068
+  fax: 212-264-0246
   misc:
     Deputy Regional Administrator:
       name: Mirza Morales
       phone:
       - 212-542-7109
+    FOIA Liaison:
+      name: Adam Glantz
+      phone:
+      - 212-542-7158
   name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -258,29 +283,44 @@ departments:
       simple_highest_days: '79'
       simple_lowest_days: '1'
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '20.41'
+      complex_highest_days: '45'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '18.97'
+      simple_highest_days: '154'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 212-542-7109
   top_level: false
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
-    address_lines:
-    - Brenda Laroche
-    - Deputy Regional Administrator
     city: Philadelphia
     state: PA
     street: 100 Penn Square East Building
     zip: '10107'
+  fax: 215-656-3445
   misc:
     Deputy Regional Administrator:
       name: Brenda Laroche
       phone:
       - 215-656-0600
+    FOIA Liaison:
+      name: Sheppard Van Williams
+      phone:
+      - 215-430-6628
   name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
     Charleston, Wilmington)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 215-656-0600
+  phone: 215-430-6628
   public_liaison:
     name: Brenda Laroche
     phone:
@@ -342,6 +382,19 @@ departments:
       simple_highest_days: '54'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2014':
+      complex_average_days: '37.11'
+      complex_highest_days: '67'
+      complex_lowest_days: less than 1
+      complex_median_days: '32.5'
+      expedited_processing_average_days: '4.5'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4.5'
+      simple_average_days: '13.84'
+      simple_highest_days: '71'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 215-656-0600
@@ -350,12 +403,17 @@ departments:
 - address:
     address_lines:
     - Thomacina Brown
-    - Supervisory Operations Officer
+    - FOIA Public Liaison
     city: Atlanta
     state: GA
-    street: 40 Marietta Street
+    street: 40  Marietta Street
     zip: '30303'
+  fax: 305-536-5765
   misc:
+    FOIA Liaison:
+      name: Joy Beslow
+      phone:
+      - 678-732-2010
     Supervisory Operations Officer:
       name: Thomacina Brown
       phone:
@@ -364,7 +422,7 @@ departments:
     Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 404-331-5001 x2380
+  phone: 305-520-5003
   public_liaison:
     name: Thomacina Brown
     phone:
@@ -426,6 +484,19 @@ departments:
       simple_highest_days: '96'
       simple_lowest_days: '1'
       simple_median_days: '15'
+    '2014':
+      complex_average_days: '21.62'
+      complex_highest_days: '49'
+      complex_lowest_days: '2'
+      complex_median_days: '20'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '16.6'
+      simple_highest_days: '154'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 404-331-5001 x2380
@@ -434,7 +505,7 @@ departments:
 - address:
     address_lines:
     - Beverly Bishop
-    - Deputy Regional Director
+    - FOIA Public Liaison
     - Suite 2608
     city: Chicago
     state: IL
@@ -445,6 +516,10 @@ departments:
       name: Beverly Bishop
       phone:
       - 312-353-5680 x2139
+    FOIA Liaison:
+      name: Debbie Wills
+      phone:
+      - 312-913-8178
   name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
     Minneapolis-St. Paul)
   notes: This office has additional FOIA contact information that can be found by
@@ -511,6 +586,15 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '5'
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '8.12'
+      complex_highest_days: '20'
+      complex_lowest_days: less than 1
+      complex_median_days: '5.5'
+      simple_average_days: '16.29'
+      simple_highest_days: '43'
+      simple_lowest_days: less than 1
+      simple_median_days: '14.5'
   service_center:
     phone:
     - 312-353-5680 x2139
@@ -519,12 +603,13 @@ departments:
 - address:
     address_lines:
     - Patricia Campbell
-    - FOIA Liaison
-    - 'Unit #45, Suite 2500'
+    - FOIA Public Liaison
+    - 'Suite 2500 Unit #45'
     city: Ft. Worth
     state: TX
     street: 801 Cherry Street
     zip: '76102'
+  fax: 817-978-5669
   misc:
     FOIA Liaison:
       name: Patricia Campbell
@@ -596,6 +681,19 @@ departments:
       simple_highest_days: '72'
       simple_lowest_days: '1'
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '11.33'
+      complex_highest_days: '38'
+      complex_lowest_days: less than 1
+      complex_median_days: '6'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '17'
+      expedited_processing_median_days: '17'
+      simple_average_days: '14.87'
+      simple_highest_days: '93'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 817-978-5974 x1010
@@ -603,17 +701,22 @@ departments:
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
     address_lines:
-    - Eugene (Gene) Lipscomb
-    - Deputy Regional Administrator
+    - Theresa Porter
+    - FOIA Public Liaison
     city: Kansas City
     state: KS
     street: 400 State Avenue
     zip: '66101'
+  fax: 913-551-5469
   misc:
     Deputy Regional Administrator:
       name: Eugene (Gene) Lipscomb
       phone:
       - 913-551-5476
+    FOIA Liaison:
+      name: Bradley Streeter
+      phone:
+      - 314-418-5410
   name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -679,6 +782,15 @@ departments:
       simple_highest_days: '54'
       simple_lowest_days: '1'
       simple_median_days: '11.5'
+    '2014':
+      complex_average_days: '18.5'
+      complex_highest_days: '25'
+      complex_lowest_days: '12'
+      complex_median_days: '18.5'
+      simple_average_days: '13.15'
+      simple_highest_days: '38'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
   service_center:
     phone:
     - 913-551-5476
@@ -686,21 +798,26 @@ departments:
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
     address_lines:
-    - Deborah Griswold
-    - Deputy Regional Director
+    - Daniel R. Gomez, Jr.
+    - FOIA Public Liaison
     city: Denver
     state: CO
     street: 1670 Broadway
     zip: 80202-4801
+  fax: 303-672-5004
   misc:
     Deputy Regional Director:
       name: Deborah Griswold
       phone:
       - 303-672-5440 x1442
+    FOIA Liaison:
+      name: Denise Hernandez
+      phone:
+      - 303-672-5440 x1485
   name: Region VIII (Denver)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 303-672-5440 x1442
+  phone: 303-672-5440
   public_liaison:
     name: Deborah Griswold
     phone:
@@ -762,6 +879,11 @@ departments:
       simple_highest_days: '92'
       simple_lowest_days: '24'
       simple_median_days: '20'
+    '2014':
+      simple_average_days: '33.47'
+      simple_highest_days: '240'
+      simple_lowest_days: less than 1
+      simple_median_days: '21'
   service_center:
     phone:
     - 303-672-5440 x1442
@@ -769,8 +891,6 @@ departments:
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
     address_lines:
-    - Suzie Hernandez
-    - FOIA Liaison
     - John E. Moss Federal Building, Suite 4-200
     city: Sacramento
     state: CA
@@ -784,7 +904,7 @@ departments:
   name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 916-498-7381
+  phone: 415-489-6416
   public_liaison:
     name: Suzie Hernandez
     phone:
@@ -846,6 +966,19 @@ departments:
       simple_highest_days: '72'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '37.5'
+      complex_highest_days: '141'
+      complex_lowest_days: '2'
+      complex_median_days: '22'
+      expedited_processing_average_days: '16.5'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '16.5'
+      simple_average_days: '21.64'
+      simple_highest_days: '174'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
   service_center:
     phone:
     - 916-498-7381
@@ -853,14 +986,19 @@ departments:
   website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
 - address:
     address_lines:
-    - Patty Huster
-    - Regional Lead
+    - Patricia Leong
+    - FOIA Public Liaison
     - Suite 200
     city: Seattle
     state: WA
     street: 909 First Avenue
     zip: 98104-1000
+  fax: 206-220-5108
   misc:
+    FOIA Liaison:
+      name: Patricia Leong
+      phone:
+      - 206-220-5358
     Regional Lead:
       name: Patty Huster
       phone:
@@ -868,7 +1006,7 @@ departments:
   name: Region X (Seattle, Anchorage, Portland)
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 206-220-5101
+  phone: 206-220-5358
   public_liaison:
     name: Patty Huster
     phone:
@@ -930,6 +1068,15 @@ departments:
       simple_highest_days: '81'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2014':
+      complex_average_days: '39.8'
+      complex_highest_days: '120'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      simple_average_days: '15.1'
+      simple_highest_days: '55'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 206-220-5101
@@ -938,9 +1085,6 @@ departments:
 description: The Department of Housing and Urban Development administers programs
   that provide housing and community development assistance. The Department also works
   to ensure fair and equal housing opportunity for all.
-emails:
-- foia_hud.gov
-fax: 202-619-8365
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -951,6 +1095,7 @@ keywords:
 - Alaska
 - American Samoa
 - Archives and records
+- Banks, banking
 - Blind
 - Broadband
 - Buildings and facilities
@@ -1104,16 +1249,6 @@ keywords:
 - Watersheds
 - Women
 name: Department of Housing and Urban Development
-notes: This office has additional FOIA contact information that can be found by visiting
-  its website.
-phone: 202-708-3866
-public_liaison:
-  name: Vicky J. Lewis
-  phone:
-  - 202-708-3054
-reading_rooms:
-- - E-FOIA Reading Room
-  - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
 request_form: https://hudpal.efoia-host.com/palMain.aspx
 request_time_stats:
   '2010':
@@ -1159,10 +1294,17 @@ request_time_stats:
     simple_highest_days: '276'
     simple_lowest_days: '1'
     simple_median_days: '14'
-service_center:
-  name: Eugenia Harris
-  phone:
-  - 202-708-3866
-top_level: false
+  '2014':
+    complex_average_days: '85.15'
+    complex_highest_days: '577'
+    complex_lowest_days: less than 1
+    complex_median_days: '44.5'
+    expedited_processing_average_days: '12'
+    expedited_processing_highest_days: '23'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '10'
+    simple_average_days: '22.88'
+    simple_highest_days: '439'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
 usa_id: '49023'
-website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia

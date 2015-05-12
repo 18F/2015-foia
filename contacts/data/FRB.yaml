@@ -19,11 +19,18 @@ departments:
       phone:
       - 202-452-3648
   name: Federal Reserve System
-  phone: 202-452-3648
+  phone: 202-452-3684
   public_liaison:
     name: Jeanne McLaughlin
     phone:
-    - 202-452-3236
+    - 202-452-2407
+  reading_rooms:
+  - - Reading Rooms
+    - http://www.federalreserve.gov/foia/readingrooms.htm
+  - - conventional reading room
+    - http://www.federalreserve.gov/foia/readingrooms.htm#rr3
+  - - electronic reading room
+    - http://www.federalreserve.gov/foia/readingrooms.htm#rr1
   request_form: http://www.federalreserve.gov/forms/efoiaform.aspx
   request_time_stats:
     '2008':
@@ -104,12 +111,25 @@ departments:
       simple_highest_days: '164'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '43'
+      complex_highest_days: '480'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      expedited_processing_average_days: '290'
+      expedited_processing_highest_days: '523'
+      expedited_processing_lowest_days: '58'
+      expedited_processing_median_days: '290'
+      simple_average_days: '9'
+      simple_highest_days: '213'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
-    - 202-452-3648
+    - 202-452-3684
   top_level: false
   usa_id: '49046'
-  website: http://www.federalreserve.gov/generalinfo/foia/default.cfm
+  website: http://www.federalreserve.gov/foia/about_foia.htm
 description: The Federal Reserve is the central bank of the United States. It formulates
   and administers credit and monetary policy.
 keywords:
@@ -122,6 +142,7 @@ keywords:
 - Antitrust
 - Authority delegations (Government agencies)
 - Bank deposit insurance
+- Banks, banking
 - Brokers
 - Business and industry
 - Civil rights
@@ -267,4 +288,17 @@ request_time_stats:
     simple_highest_days: '164'
     simple_lowest_days: less than 1
     simple_median_days: '2'
+  '2014':
+    complex_average_days: '43'
+    complex_highest_days: '480'
+    complex_lowest_days: '1'
+    complex_median_days: '28'
+    expedited_processing_average_days: '290'
+    expedited_processing_highest_days: '523'
+    expedited_processing_lowest_days: '58'
+    expedited_processing_median_days: '290'
+    simple_average_days: '9'
+    simple_highest_days: '213'
+    simple_lowest_days: '1'
+    simple_median_days: '4'
 usa_id: '49046'

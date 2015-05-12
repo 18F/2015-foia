@@ -2,8 +2,8 @@ abbreviation: DOJ
 departments:
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -110,6 +110,19 @@ departments:
       simple_highest_days: '197'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2014':
+      complex_average_days: '362.77'
+      complex_highest_days: '1243'
+      complex_lowest_days: '8'
+      complex_median_days: '301'
+      expedited_processing_average_days: '718.33'
+      expedited_processing_highest_days: '937'
+      expedited_processing_lowest_days: '517'
+      expedited_processing_median_days: '701'
+      simple_average_days: '29.58'
+      simple_highest_days: '226'
+      simple_lowest_days: '2'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-616-5459
@@ -117,8 +130,8 @@ departments:
   website: http://www.justice.gov/ag/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -219,6 +232,19 @@ departments:
       simple_highest_days: '195'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2014':
+      complex_average_days: '418.43'
+      complex_highest_days: '1100'
+      complex_lowest_days: '19'
+      complex_median_days: '311'
+      expedited_processing_average_days: '726'
+      expedited_processing_highest_days: '935'
+      expedited_processing_lowest_days: '517'
+      expedited_processing_median_days: '726'
+      simple_average_days: '33.19'
+      simple_highest_days: '361'
+      simple_lowest_days: '4'
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-616-5459
@@ -226,8 +252,8 @@ departments:
   website: http://www.justice.gov/dag/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -319,6 +345,15 @@ departments:
       simple_highest_days: '195'
       simple_lowest_days: '4'
       simple_median_days: '18'
+    '2014':
+      complex_average_days: '361.36'
+      complex_highest_days: '624'
+      complex_lowest_days: '19'
+      complex_median_days: '392'
+      simple_average_days: '33.64'
+      simple_highest_days: '226'
+      simple_lowest_days: '4'
+      simple_median_days: '21'
   service_center:
     phone:
     - 202-616-5459
@@ -350,7 +385,7 @@ departments:
     phone:
     - 202-514-2692
   reading_rooms:
-  - - Electronic Reading Room
+  - - FOIA Library
     - http://www.justice.gov/atr/foia/foiaroom.html
   request_time_stats:
     '2008':
@@ -411,6 +446,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '251.49'
+      complex_highest_days: '743'
+      complex_lowest_days: '4'
+      complex_median_days: '106'
+      simple_average_days: '7.91'
+      simple_highest_days: '27'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-514-2692
@@ -552,6 +596,19 @@ departments:
       expedited_processing_highest_days: '95'
       expedited_processing_lowest_days: '95'
       expedited_processing_median_days: '95'
+    '2014':
+      complex_average_days: '115.05'
+      complex_highest_days: '420'
+      complex_lowest_days: '1'
+      complex_median_days: '83'
+      expedited_processing_average_days: '64'
+      expedited_processing_highest_days: '105'
+      expedited_processing_lowest_days: '24'
+      expedited_processing_median_days: '63'
+      simple_average_days: '59.2'
+      simple_highest_days: '332'
+      simple_lowest_days: less than 1
+      simple_median_days: '44'
   service_center:
     phone:
     - 202-648-8740
@@ -635,6 +692,19 @@ departments:
       simple_highest_days: '114'
       simple_lowest_days: less than 1
       simple_median_days: '1.5'
+    '2014':
+      complex_average_days: '66.19'
+      complex_highest_days: '691'
+      complex_lowest_days: less than 1
+      complex_median_days: '12'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '30'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '16'
+      simple_average_days: '15.52'
+      simple_highest_days: '209'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-514-2319
@@ -644,7 +714,7 @@ departments:
     address_lines:
     - Nelson D. Hermilla
     - Chief, FOI/PA Branch
-    - BICN Bldg., Room 3219B
+    - BICN Bldg., Room 3234
     city: Washington
     state: DC
     street: 950 Pennsylvania Avenue, NW
@@ -660,7 +730,7 @@ departments:
   name: Civil Rights Division
   phone: 202-514-4209
   public_liaison:
-    name: Sylvia Cabrera
+    name: April Freeman
     phone:
     - 202-514-4210
   request_time_stats:
@@ -726,6 +796,15 @@ departments:
       simple_highest_days: '135'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '65.9'
+      complex_highest_days: '959'
+      complex_lowest_days: less than 1
+      complex_median_days: '10'
+      simple_average_days: '5.26'
+      simple_highest_days: '46'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-514-4210
@@ -799,6 +878,11 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: less than 1
       simple_median_days: '8'
+    '2014':
+      simple_average_days: '16.33'
+      simple_highest_days: '20'
+      simple_lowest_days: '13'
+      simple_median_days: '16'
   service_center:
     phone:
     - 202-305-2935
@@ -826,8 +910,8 @@ departments:
     phone:
     - 202-616-0307
   reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/criminal/foia/elect-read-room.html
+  - - FOIA Reading Room
+    - http://www.justice.gov/criminal/foia/foia-reading-room-tab.html
   request_time_stats:
     '2008':
       complex_average_days: '830'
@@ -899,6 +983,19 @@ departments:
       simple_highest_days: '306'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '231.95'
+      complex_highest_days: '707'
+      complex_lowest_days: '6'
+      complex_median_days: '202'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '4'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '4'
+      simple_average_days: '30.98'
+      simple_highest_days: '337'
+      simple_lowest_days: '2'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-616-0307
@@ -950,11 +1047,11 @@ departments:
       phone:
       - 202-305-7596
   name: Drug Enforcement Administration
-  phone: 202-305-7596
+  phone: 202-307-7596
   public_liaison:
-    name: Wanda Jones
+    name: Phyllis Scott-Drewery
     phone:
-    - 202-307-7623
+    - 202-307-7618
   reading_rooms: []
   request_time_stats:
     '2008':
@@ -1014,6 +1111,19 @@ departments:
       simple_highest_days: '198'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '64.28'
+      complex_highest_days: '633'
+      complex_lowest_days: '1'
+      complex_median_days: '34'
+      expedited_processing_average_days: '258.5'
+      expedited_processing_highest_days: '416'
+      expedited_processing_lowest_days: '101'
+      expedited_processing_median_days: '258.5'
+      simple_average_days: '11.63'
+      simple_highest_days: '136'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-307-7596
@@ -1044,7 +1154,7 @@ departments:
     - 202-616-5515
   reading_rooms:
   - - 'FOIA Library:'
-    - http://www.justice.gov/enrd/Current_topics.html
+    - http://www.justice.gov/enrd/selected-publications
   request_time_stats:
     '2008':
       complex_highest_days: '218'
@@ -1110,6 +1220,19 @@ departments:
       simple_highest_days: '169'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2014':
+      complex_average_days: '189'
+      complex_highest_days: '603'
+      complex_lowest_days: '57'
+      complex_median_days: '156'
+      expedited_processing_average_days: '15'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '15'
+      simple_average_days: '26.79'
+      simple_highest_days: '177'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-514-0424
@@ -1157,7 +1280,7 @@ departments:
     - 703-605-1297
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/eoir/foia-lib.html
+    - http://www.justice.gov/eoir/freedom-of-information-act-library
   request_time_stats:
     '2008':
       complex_average_days: '84'
@@ -1237,6 +1360,19 @@ departments:
       simple_highest_days: '662'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '36.58'
+      complex_highest_days: '65'
+      complex_lowest_days: '1'
+      complex_median_days: '36.5'
+      expedited_processing_average_days: '36.94'
+      expedited_processing_highest_days: '99'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '34'
+      simple_average_days: '28.6'
+      simple_highest_days: '662'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 703-605-1297
@@ -1297,6 +1433,15 @@ departments:
       simple_highest_days: '156'
       simple_lowest_days: '2'
       simple_median_days: '21.5'
+    '2014':
+      complex_average_days: '90.64'
+      complex_highest_days: '606'
+      complex_lowest_days: '23'
+      complex_median_days: '41'
+      simple_average_days: '15.95'
+      simple_highest_days: '44'
+      simple_lowest_days: '3'
+      simple_median_days: '12'
   service_center:
     phone:
     - 202-514-0296
@@ -1382,6 +1527,11 @@ departments:
       expedited_processing_highest_days: '802'
       expedited_processing_lowest_days: '23'
       expedited_processing_median_days: '28'
+    '2014':
+      complex_average_days: '132.32'
+      complex_highest_days: '1029'
+      complex_lowest_days: less than 1
+      complex_median_days: '90'
   service_center:
     phone:
     - 202-252-6020
@@ -1472,6 +1622,15 @@ departments:
       simple_highest_days: '49'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2014':
+      complex_average_days: '45.5'
+      complex_highest_days: '188'
+      complex_lowest_days: less than 1
+      complex_median_days: '22.5'
+      simple_average_days: '8.92'
+      simple_highest_days: '47'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-307-1399
@@ -1486,12 +1645,10 @@ departments:
     state: VA
     street: 170 Marcel Drive
     zip: 22602-4843
-  description: As an intelligence-driven and a threat-focused national security organization
-    with both intelligence and law enforcement responsibilities, the mission of the
-    FBI is to protect and defend the United States against terrorist and foreign intelligence
-    threats, to uphold and enforce the criminal laws of the United States, and to
-    provide leadership and criminal justice services to federal, state, municipal,
-    and international agencies and partners.
+  description: The Federal Bureau of Investigation enforces federal law, investigating
+    a variety of criminal activity including terrorism, cybercrime, white collar crimes,
+    public corruption, civil rights violations, and other major crimes. </br></br><i>In
+    an emergency dial 911!</i>
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
@@ -1524,8 +1681,6 @@ departments:
     phone:
     - 540-868-4516
   reading_rooms:
-  - - FBI Headquarters FOIA Library
-    - http://www.fbi.gov/foia/fbi-headquarters-foia-library
   - - Vault
     - http://vault.fbi.gov/
   request_time_stats:
@@ -1607,6 +1762,19 @@ departments:
       simple_highest_days: '815'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2014':
+      complex_average_days: '210.91'
+      complex_highest_days: '938'
+      complex_lowest_days: '1'
+      complex_median_days: '187'
+      expedited_processing_average_days: '245.56'
+      expedited_processing_highest_days: '815'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '223'
+      simple_average_days: '44.37'
+      simple_highest_days: '689'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 540-868-1535
@@ -1616,8 +1784,8 @@ departments:
 - abbreviation: BOP
   address:
     address_lines:
-    - Wanda M. Hunt
-    - Chief, FOIA/PA Section
+    - Eugene Baime
+    - Supervisory Attorney
     - Room 924, HOLC Building
     city: Washington
     state: DC
@@ -1642,9 +1810,9 @@ departments:
   name: Federal Bureau of Prisons
   phone: 202-514-6655
   public_liaison:
-    name: Wilson Moorer
+    name: C. Darnell Stroble
     phone:
-    - 202-514-6655
+    - 202-616-7750
   request_form: http://www.bop.gov/foia/submit.jsp
   request_time_stats:
     '2008':
@@ -1725,6 +1893,19 @@ departments:
       simple_highest_days: '545'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '93.27'
+      complex_highest_days: '718'
+      complex_lowest_days: less than 1
+      complex_median_days: '46.5'
+      expedited_processing_average_days: '56.7'
+      expedited_processing_highest_days: '202'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '30'
+      simple_average_days: '29.46'
+      simple_highest_days: '628'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-616-7750
@@ -1791,6 +1972,11 @@ departments:
       complex_highest_days: '124'
       complex_lowest_days: less than 1
       complex_median_days: '9'
+    '2014':
+      simple_average_days: '10.1'
+      simple_highest_days: '26'
+      simple_lowest_days: '2'
+      simple_median_days: '7.5'
   service_center:
     phone:
     - 202-616-6975
@@ -1894,6 +2080,15 @@ departments:
       simple_highest_days: '450'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '25'
+      complex_highest_days: '25'
+      complex_lowest_days: '25'
+      complex_median_days: '25'
+      simple_average_days: '6.02'
+      simple_highest_days: '163'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-616-0201
@@ -1904,11 +2099,11 @@ departments:
     address_lines:
     - Karen McFadden
     - FOIA Contact
-    - Room 8E.104, 2 Consitution Square
+    - Room 1111 RFK
     city: Washington
     state: DC
-    street: 145 N Street, NE
-    zip: '20530'
+    street: 950 Pennsylvania Avenue NW
+    zip: 20530-0001
   emails:
   - JMDFOIA@usdoj.gov
   fax: 202-616-6695
@@ -1922,7 +2117,7 @@ departments:
     & Management
   phone: 202-514-3101
   public_liaison:
-    name: Michael Allen
+    name: Karen McFadden
     phone:
     - 202-514-3101
   reading_rooms:
@@ -1987,6 +2182,19 @@ departments:
       simple_highest_days: '325'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2014':
+      complex_average_days: '61.77'
+      complex_highest_days: '297'
+      complex_lowest_days: '6'
+      complex_median_days: '42'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: '16'
+      expedited_processing_median_days: '16'
+      simple_average_days: '20.57'
+      simple_highest_days: '140'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
   service_center:
     phone:
     - 202-514-3101
@@ -2090,6 +2298,19 @@ departments:
       simple_highest_days: '249'
       simple_lowest_days: less than 1
       simple_median_days: '7.5'
+    '2014':
+      complex_average_days: '306.71'
+      complex_highest_days: '1136'
+      complex_lowest_days: '21'
+      complex_median_days: '295.5'
+      expedited_processing_average_days: '146.5'
+      expedited_processing_highest_days: '240'
+      expedited_processing_lowest_days: '40'
+      expedited_processing_median_days: '171'
+      simple_average_days: '129.16'
+      simple_highest_days: '498'
+      simple_lowest_days: less than 1
+      simple_median_days: '88.5'
   service_center:
     phone:
     - 202-233-0754
@@ -2098,9 +2319,9 @@ departments:
 - abbreviation: COPS
   address:
     address_lines:
-    - Melissa Fieri-Fetrow
-    - FOIA/PA Officer - Legal Division
-    - 'Two Constitution Square, #11E 1405'
+    - Chaun E. Eason
+    - FOIA Officer, Legal Division
+    - 'Two Constitution Square, #11E 129'
     city: Washington
     state: DC
     street: 145 N Street, NE
@@ -2117,9 +2338,9 @@ departments:
       phone:
       - 202-353-9864
   name: Office of Community Oriented Policing Services
-  phone: 202-514-1873
+  phone: 202-616-0825
   public_liaison:
-    name: Melissa Fieri-Fetrow
+    name: Melissa FieriFetrow
     phone:
     - 202-514-1873
   request_time_stats:
@@ -2153,6 +2374,11 @@ departments:
       complex_highest_days: '48'
       complex_lowest_days: less than 1
       complex_median_days: '6'
+    '2014':
+      complex_average_days: '6.89'
+      complex_highest_days: '26'
+      complex_lowest_days: less than 1
+      complex_median_days: '4'
   service_center:
     phone:
     - 202-514-1873
@@ -2161,8 +2387,8 @@ departments:
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -2180,6 +2406,9 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
+  reading_rooms:
+  - - FOIA Library
+    - http://www.justice.gov/oip/foia-library
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -2247,11 +2476,20 @@ departments:
       simple_highest_days: '602'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '185.24'
+      complex_highest_days: '661'
+      complex_lowest_days: '10'
+      complex_median_days: '40'
+      simple_average_days: '27.54'
+      simple_highest_days: '633'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-616-5459
   top_level: false
-  website: http://www.justice.gov/oip/
+  website: http://www.justice.gov/oip/oip-foia
 - address:
     address_lines:
     - Deborah M. Waller
@@ -2277,7 +2515,7 @@ departments:
     - 202-616-0646
   reading_rooms:
   - - 'FOIA Library:'
-    - http://www.justice.gov/oig/foia/eroom.htm
+    - https://oig.justice.gov/foia/eroom.htm
   request_time_stats:
     '2008':
       simple_average_days: '23'
@@ -2337,6 +2575,15 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '95.12'
+      complex_highest_days: '717'
+      complex_lowest_days: less than 1
+      complex_median_days: '67.5'
+      simple_average_days: '15.92'
+      simple_highest_days: '65'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 202-616-0646
@@ -2386,11 +2633,11 @@ departments:
       phone:
       - 202-616-3267
   name: Office of Justice Programs
-  phone: 202-616-3267
+  phone: 202-307-6235
   public_liaison:
-    name: George Pruden
+    name: Carolyn Kennedy
     phone:
-    - 202-616-3267
+    - 202-307-0790
   reading_rooms:
   - - FOIA Library
     - http://ojp.gov/about/foia/reading_room.htm
@@ -2449,6 +2696,15 @@ departments:
       simple_highest_days: '135'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '92.18'
+      complex_highest_days: '542'
+      complex_lowest_days: '3'
+      complex_median_days: '49'
+      simple_average_days: '22.47'
+      simple_highest_days: '141'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
   service_center:
     phone:
     - 202-307-6235
@@ -2457,8 +2713,8 @@ departments:
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - address:
     address_lines:
-    - Bette Farris
-    - Supervisory Paralegal
+    - Melissa Kassier
+    - Lead Paralegal and FOIA Specialist
     - Room 5515
     city: Washington
     state: DC
@@ -2474,7 +2730,7 @@ departments:
   name: Office of Legal Counsel
   phone: 202-514-2038
   public_liaison:
-    name: Lawan Robinson
+    name: Melissa Kassier
     phone:
     - 202-353-0258
   reading_rooms:
@@ -2549,6 +2805,19 @@ departments:
       simple_highest_days: '145'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2014':
+      complex_average_days: '282.86'
+      complex_highest_days: '1110'
+      complex_lowest_days: '6'
+      complex_median_days: '193'
+      expedited_processing_average_days: '161.08'
+      expedited_processing_highest_days: '625'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '46.5'
+      simple_average_days: '27.24'
+      simple_highest_days: '261'
+      simple_lowest_days: less than 1
+      simple_median_days: '11.5'
   service_center:
     phone:
     - 202-353-0258
@@ -2556,8 +2825,8 @@ departments:
   website: http://www.justice.gov/olc/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -2652,6 +2921,15 @@ departments:
       simple_highest_days: '70'
       simple_lowest_days: '3'
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '277.83'
+      complex_highest_days: '786'
+      complex_lowest_days: '23'
+      complex_median_days: '205'
+      simple_average_days: '20.05'
+      simple_highest_days: '53'
+      simple_lowest_days: '8'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-616-5459
@@ -2659,8 +2937,8 @@ departments:
   website: http://www.justice.gov/olp/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -2762,6 +3040,19 @@ departments:
       simple_highest_days: '196'
       simple_lowest_days: less than 1
       simple_median_days: '21'
+    '2014':
+      complex_average_days: '360.08'
+      complex_highest_days: '793'
+      complex_lowest_days: '4'
+      complex_median_days: '293'
+      expedited_processing_average_days: '666'
+      expedited_processing_highest_days: '830'
+      expedited_processing_lowest_days: '517'
+      expedited_processing_median_days: '651'
+      simple_average_days: '36.9'
+      simple_highest_days: '190'
+      simple_lowest_days: '7'
+      simple_median_days: '22.5'
   service_center:
     phone:
     - 202-616-5459
@@ -2769,13 +3060,13 @@ departments:
   website: http://www.justice.gov/ola/ola-foia.htm
 - address:
     address_lines:
-    - Linda M.V. Bowe
-    - FOIA Officer
-    - Suite 11000
+    - Eva Torrales
+    - Paralegal Specialist
+    - '#5E.508'
     city: Washington
     state: DC
-    street: 1425 New York Avenue, NW
-    zip: 20530-0001
+    street: 145 N Street, NE
+    zip: '20530'
   description: The Office of the Pardon Attorney assists the president in the exercise
     of executive clemency by reviewing clemency applications and making recommendations.
   emails:
@@ -2788,7 +3079,7 @@ departments:
   name: Office of the Pardon Attorney
   phone: 202-616-6070
   public_liaison:
-    name: Linda M.V. Bowe
+    name: Eva Torrales
     phone:
     - 202-616-6070
   reading_rooms:
@@ -2833,6 +3124,11 @@ departments:
     '2013':
       simple_average_days: '3.46'
       simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2014':
+      simple_average_days: '6.77'
+      simple_highest_days: '97'
       simple_lowest_days: less than 1
       simple_median_days: '2'
   service_center:
@@ -2934,6 +3230,19 @@ departments:
       simple_highest_days: '323'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      complex_average_days: '527.45'
+      complex_highest_days: '1149'
+      complex_lowest_days: '8'
+      complex_median_days: '507'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '28'
+      expedited_processing_median_days: '28'
+      simple_average_days: '25.56'
+      simple_highest_days: '384'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-514-3365
@@ -2941,8 +3250,8 @@ departments:
   website: http://www.justice.gov/opr/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -3037,6 +3346,15 @@ departments:
       simple_highest_days: '44'
       simple_lowest_days: '15'
       simple_median_days: '19'
+    '2014':
+      complex_average_days: '370.29'
+      complex_highest_days: '514'
+      complex_lowest_days: '4'
+      complex_median_days: '465'
+      simple_average_days: '21'
+      simple_highest_days: '21'
+      simple_lowest_days: '21'
+      simple_median_days: '21'
   service_center:
     phone:
     - 202-616-5459
@@ -3044,7 +3362,7 @@ departments:
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
 - address:
     address_lines:
-    - James K. Davis
+    - Mary Cornaby
     - FOIA Coordinator
     city: Washington
     state: DC
@@ -3125,6 +3443,15 @@ departments:
       simple_highest_days: '340'
       simple_lowest_days: '2'
       simple_median_days: '22'
+    '2014':
+      complex_average_days: '185'
+      complex_highest_days: '430'
+      complex_lowest_days: '64'
+      complex_median_days: '123'
+      simple_average_days: '44.77'
+      simple_highest_days: '156'
+      simple_lowest_days: less than 1
+      simple_median_days: '40'
   service_center:
     phone:
     - 202-616-9406
@@ -3221,6 +3548,11 @@ departments:
       simple_highest_days: '154'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2014':
+      simple_average_days: '16.69'
+      simple_highest_days: '52'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
   service_center:
     phone:
     - 202-307-6026
@@ -3287,6 +3619,11 @@ departments:
       simple_highest_days: '149'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2014':
+      simple_average_days: '12.55'
+      simple_highest_days: '36'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-514-0458
@@ -3314,7 +3651,7 @@ departments:
     - 202-307-0462
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/tax/readingroom/foia/tax.htm
+    - http://www.justice.gov/tax/foia-library
   request_time_stats:
     '2008':
       complex_average_days: '132'
@@ -3374,6 +3711,15 @@ departments:
       simple_highest_days: '77'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2014':
+      complex_average_days: '68.77'
+      complex_highest_days: '281'
+      complex_lowest_days: '1'
+      complex_median_days: '42'
+      simple_average_days: '31.65'
+      simple_highest_days: '243'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-616-3399
@@ -3383,11 +3729,10 @@ departments:
     address_lines:
     - William E. Bordley
     - Associate General Counsel, Office of General Counsel
-    - FOIA/PA, CS 4, 10th Floor
-    city: Alexandria
-    state: VA
-    street: 2604 Jefferson Davis Highway
-    zip: '22301'
+    city: Washington
+    state: DC
+    street: FOIA/PA, CS 4 10th Floor
+    zip: 20530-1000
   description: Part of the Department of Justice, the Marshals Service is responsible
     for providing security to the federal judiciary, managing the witness security
     program, managing and selling the seized or forfeited assets of criminals, is
@@ -3485,6 +3830,19 @@ departments:
       simple_highest_days: '688'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '202.78'
+      complex_highest_days: '1198'
+      complex_lowest_days: '2'
+      complex_median_days: '148.5'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6'
+      simple_average_days: '24.46'
+      simple_highest_days: '465'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-307-9054
@@ -3575,6 +3933,15 @@ departments:
       simple_highest_days: '124'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2014':
+      complex_average_days: '67.93'
+      complex_highest_days: '279'
+      complex_lowest_days: less than 1
+      complex_median_days: '56'
+      simple_average_days: '21.69'
+      simple_highest_days: '163'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 202-346-7030
@@ -3586,7 +3953,6 @@ description: The Department of Justice works to enforce federal law, to seek jus
   justice.
 emails:
 - MRUFOIA.Requests@usdoj.gov
-fax: 301-341-0772
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -3686,6 +4052,7 @@ keywords:
 - Hospitals
 - Human research subjects
 - Immigration
+- Immunization
 - Imports
 - Income taxes
 - Indians
@@ -3719,6 +4086,7 @@ keywords:
 - Motor vehicles
 - Nonprofit organizations
 - Northern Mariana Islands
+- Nuclear energy
 - Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
@@ -3784,10 +4152,10 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Justice
-phone: 301-583-7354
+phone: 202-616-3847
 public_liaison:
   phone:
-  - 301-583-7354
+  - 202-616-3847
 request_time_stats:
   '2008':
     complex_average_days: '272.69'
@@ -3867,8 +4235,21 @@ request_time_stats:
     simple_highest_days: '815'
     simple_lowest_days: less than 1
     simple_median_days: '12'
+  '2014':
+    complex_average_days: '136.78'
+    complex_highest_days: '1243'
+    complex_lowest_days: less than 1
+    complex_median_days: '87'
+    expedited_processing_average_days: '155.47'
+    expedited_processing_highest_days: '937'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '51'
+    simple_average_days: '31.72'
+    simple_highest_days: '689'
+    simple_lowest_days: less than 1
+    simple_median_days: '16'
 service_center:
   phone:
-  - 301-583-7354
+  - 202-616-3847
 top_level: false
 usa_id: '52686'

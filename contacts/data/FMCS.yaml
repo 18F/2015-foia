@@ -3,7 +3,7 @@ departments:
 - address:
     address_lines:
     - Michael J. Bartlett
-    - Deputy General Counsel
+    - Chief FOIA Officer
     city: Washington
     state: DC
     street: 2100 K Street, NW
@@ -105,8 +105,16 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '42.9'
+      complex_highest_days: '135'
+      complex_lowest_days: '2'
+      complex_median_days: '32'
+      simple_average_days: '7.3'
+      simple_highest_days: '59'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
-    name: Mery Skolochenko
     phone:
     - 202-606-5444
   top_level: false
@@ -207,6 +215,15 @@ request_time_stats:
     expedited_processing_median_days: '2'
     simple_average_days: '3.5'
     simple_highest_days: '16'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'
+  '2014':
+    complex_average_days: '42.9'
+    complex_highest_days: '135'
+    complex_lowest_days: '2'
+    complex_median_days: '32'
+    simple_average_days: '7.3'
+    simple_highest_days: '59'
     simple_lowest_days: less than 1
     simple_median_days: '2'
 usa_id: '49312'

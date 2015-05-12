@@ -2,12 +2,12 @@ abbreviation: HHS
 departments:
 - address:
     address_lines:
-    - Michael Bell
-    - Acting FOIA Officer
+    - Michael S. Marquis
+    - FOIA Officer / Director, Freedom of Information and Privacy Acts Division
     - Mary E. Switzer Building, Room 2221
     city: Washington
     state: DC
-    street: 300 C Street, SW
+    street: 330 C Street, SW
     zip: '20201'
   fax: 202-690-8320
   foia_officer:
@@ -17,9 +17,9 @@ departments:
   name: Office of the Secretary
   phone: 202-690-7453
   public_liaison:
-    name: Michael J. Robinson
+    name: Michael Bell
     phone:
-    - 202-690-6885
+    - 202-690-7453
   reading_rooms:
   - - Electronic  FOIA Reading Room
     - http://www.hhs.gov/foia/reading/index.html
@@ -99,6 +99,19 @@ departments:
       expedited_processing_highest_days: '303'
       expedited_processing_lowest_days: '1'
       expedited_processing_median_days: '1'
+    '2014':
+      complex_average_days: '98'
+      complex_highest_days: '1681'
+      complex_lowest_days: '1'
+      complex_median_days: '1'
+      expedited_processing_average_days: '59'
+      expedited_processing_highest_days: '871'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '3'
+      simple_highest_days: '40'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-690-7453
@@ -203,6 +216,15 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2014':
+      complex_average_days: '28'
+      complex_highest_days: '173'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      simple_average_days: '3'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-619-2541
@@ -217,22 +239,19 @@ departments:
     state: DC
     street: ''
     zip: '20201'
-  description: ACL brings together the efforts and achievements of the Administration
-    on Aging, the Administration on Intellectual and Developmental Disabilities, and
-    the HHS Office on Disability to serve as the Federal agency responsible for increasing
-    access to community supports, while focusing attention and resources on the unique
-    needs of older Americans and people with disabilities across the lifespan.
+  description: The Administration for Community Living supports the needs of the aging
+    and disability populations, and improves access health care and long-term services.
   fax: 202-357-0129
   foia_officer:
     name: Jason Bennett
     phone:
     - 202-401-4634
   name: Administration for Community Living
-  phone: 202-401-4634
+  phone: 202-357-3408
   public_liaison:
-    name: Jason Bennett
+    name: Rick Nicholls
     phone:
-    - 202-401-4634
+    - 202-357-3408
   reading_rooms:
   - - Electronic Reading Room
     - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
@@ -255,9 +274,14 @@ departments:
       simple_highest_days: '60'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2014':
+      simple_average_days: '20'
+      simple_highest_days: '28'
+      simple_lowest_days: '25'
+      simple_median_days: '20'
   service_center:
     phone:
-    - 202-401-4634
+    - 202-357-3408
   top_level: true
   usa_id: '91836'
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
@@ -315,6 +339,7 @@ departments:
   - Public assistance programs
   - Real property acquisition
   - Reporting and recordkeeping requirements
+  - Research
   - Social security
   - Technical assistance
   - Transportation
@@ -410,6 +435,19 @@ departments:
       simple_highest_days: '1260'
       simple_lowest_days: '1'
       simple_median_days: '488'
+    '2014':
+      complex_average_days: '108'
+      complex_highest_days: '670'
+      complex_lowest_days: '1'
+      complex_median_days: '83'
+      expedited_processing_average_days: '86'
+      expedited_processing_highest_days: '86'
+      expedited_processing_lowest_days: '86'
+      expedited_processing_median_days: '86'
+      simple_average_days: '62'
+      simple_highest_days: '903'
+      simple_lowest_days: '1'
+      simple_median_days: '62'
   service_center:
     phone:
     - 888-747-1861
@@ -419,8 +457,8 @@ departments:
 - abbreviation: AHRQ
   address:
     address_lines:
-    - Carol Maloney
-    - FOIA Officer
+    - Tim Brown
+    - Acting FOIA Officer
     - Suite 920
     city: Bethesda
     state: MD
@@ -432,7 +470,7 @@ departments:
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer:
-    name: Carol Maloney
+    name: Tim Brown
     phone:
     - 301-492-4800
   name: Agency for Healthcare Research and Quality
@@ -644,6 +682,19 @@ departments:
       simple_highest_days: '1041'
       simple_lowest_days: '1'
       simple_median_days: '21'
+    '2014':
+      complex_average_days: '153'
+      complex_highest_days: '1427'
+      complex_lowest_days: less than 1
+      complex_median_days: '41'
+      expedited_processing_average_days: '37'
+      expedited_processing_highest_days: '51'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '41'
+      simple_average_days: '47'
+      simple_highest_days: '930'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 770-488-6399
@@ -687,7 +738,7 @@ departments:
 - abbreviation: CMS
   address:
     address_lines:
-    - Michael Marquis
+    - Hugh Gilmore
     - FOIA Officer
     - North Building, Room N2-20-06
     city: Baltimore
@@ -863,6 +914,19 @@ departments:
       simple_highest_days: '634'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2014':
+      complex_average_days: '34'
+      complex_highest_days: '829'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '90'
+      expedited_processing_highest_days: '690'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '58'
+      simple_average_days: '22'
+      simple_highest_days: '842'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 410-786-5353
@@ -873,9 +937,10 @@ departments:
   address:
     address_lines:
     - Sarah Kotler
-    - Director, Division of Freedom of Information Office of the Executive Secretariat
-      Office of the Commissioner
-    - Room 1033
+    - Director, Division of Freedom of Information
+    - Office of the Executive Secretariat
+    - Office of the Commissioner
+    - Room 1035
     city: Rockville
     state: MD
     street: 5630 Fishers Lane
@@ -1067,6 +1132,19 @@ departments:
       simple_highest_days: '1220'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2014':
+      complex_average_days: '138'
+      complex_highest_days: '1561'
+      complex_lowest_days: '1'
+      complex_median_days: '51'
+      expedited_processing_average_days: '693'
+      expedited_processing_highest_days: '693'
+      expedited_processing_lowest_days: '693'
+      expedited_processing_median_days: '693'
+      simple_average_days: '24'
+      simple_highest_days: '1167'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
     - 301-796-3900
@@ -1201,6 +1279,11 @@ departments:
       complex_highest_days: '252'
       complex_lowest_days: '1'
       complex_median_days: '64'
+    '2014':
+      complex_average_days: '107'
+      complex_highest_days: '605'
+      complex_lowest_days: '1'
+      complex_median_days: '37'
   service_center:
     phone:
     - 301-443-3376
@@ -1210,8 +1293,8 @@ departments:
 - abbreviation: IHS
   address:
     address_lines:
-    - William Tibbits
-    - FOIA Officer
+    - Carl Mitchell
+    - Acting FOIA Officer
     - Suite 450 TMP
     city: Rockville
     state: MD
@@ -1324,6 +1407,15 @@ departments:
       simple_average_days: '15'
       simple_highest_days: '30'
       simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2014':
+      complex_average_days: '60'
+      complex_highest_days: '172'
+      complex_lowest_days: '14'
+      complex_median_days: '42'
+      simple_average_days: '15'
+      simple_highest_days: '80'
+      simple_lowest_days: '5'
       simple_median_days: '10'
   service_center:
     phone:
@@ -1442,6 +1534,15 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2014':
+      complex_average_days: '56'
+      complex_highest_days: '430'
+      complex_lowest_days: '1'
+      complex_median_days: '43'
+      simple_average_days: '14'
+      simple_highest_days: '98'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
   service_center:
     phone:
     - 301-496-5633
@@ -1450,8 +1551,8 @@ departments:
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
     address_lines:
-    - Carol Maloney
-    - FOIA Officer
+    - Tim Brown
+    - Acting FOIA Officer
     - Suite 920
     city: Bethesda
     state: MD
@@ -1466,7 +1567,7 @@ departments:
   name: Program Support Center
   phone: 301-492-4800
   public_liaison:
-    name: Carol Maloney
+    name: Tim Brown
     phone:
     - 301-492-4800
   reading_rooms:
@@ -1482,7 +1583,7 @@ departments:
 - abbreviation: SAMSHA
   address:
     address_lines:
-    - Jeanette Hite
+    - Wakema Williams
     - FOIA Officer
     - Room 8-1042
     city: Rockville
@@ -1515,11 +1616,11 @@ departments:
   - Privacy
   - Reporting and recordkeeping requirements
   name: Substance Abuse and Mental Health Services Administration
-  phone: 240-276-2137
+  phone: 240-276-2000
   public_liaison:
-    name: Jeanette Hite
+    name: Wakema Williams
     phone:
-    - 240-276-2137
+    - 240-276-2000
   request_time_stats:
     '2008':
       complex_average_days: '75'
@@ -1595,9 +1696,22 @@ departments:
       simple_highest_days: '710'
       simple_lowest_days: '1'
       simple_median_days: '100'
+    '2014':
+      complex_average_days: '138'
+      complex_highest_days: '569'
+      complex_lowest_days: '1'
+      complex_median_days: '100'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '123'
+      simple_highest_days: '494'
+      simple_lowest_days: '1'
+      simple_median_days: '72'
   service_center:
     phone:
-    - 240-276-2137
+    - 240-276-2000
   top_level: true
   usa_id: '49687'
   website: http://www.samhsa.gov/foia/
@@ -1647,6 +1761,7 @@ keywords:
 - Communicable diseases
 - Communications
 - Community development
+- Community development block grants
 - Computer technology
 - Confidential business information
 - Conflict of interests
@@ -1750,6 +1865,7 @@ keywords:
 - Laboratories
 - Law enforcement
 - Lebanon
+- Legal services
 - Libraries
 - Loan programs
 - Loan programs-agriculture
@@ -1931,4 +2047,14 @@ request_time_stats:
     simple_average_days: '29'
     simple_highest_days: '1260'
     simple_median_days: '10'
+  '2014':
+    complex_average_days: '87'
+    complex_highest_days: '1561'
+    complex_median_days: '26'
+    expedited_processing_average_days: '40'
+    expedited_processing_highest_days: '871'
+    expedited_processing_median_days: '90'
+    simple_average_days: '24'
+    simple_highest_days: '1167'
+    simple_median_days: '14'
 usa_id: '49021'

@@ -80,6 +80,11 @@ departments:
       simple_highest_days: '97'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2014':
+      simple_average_days: '16.5'
+      simple_highest_days: '67'
+      simple_lowest_days: less than 1
+      simple_median_days: '7.5'
   service_center:
     phone:
     - 202-401-8203
@@ -272,4 +277,9 @@ request_time_stats:
     simple_highest_days: '97'
     simple_lowest_days: less than 1
     simple_median_days: '5'
+  '2014':
+    simple_average_days: '16.5'
+    simple_highest_days: '67'
+    simple_lowest_days: less than 1
+    simple_median_days: '7.5'
 usa_id: '48139'
