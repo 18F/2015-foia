@@ -2328,6 +2328,76 @@ departments:
     - 703-681-7500
   request_form: http://www.tricare.mil/tma/privacy/FOIARequestForm.aspx
   request_time_stats:
+    '2008':
+      complex_average_days: '89'
+      complex_highest_days: '382'
+      complex_lowest_days: '21'
+      complex_median_days: '47'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '22'
+      simple_highest_days: '164'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2009':
+      complex_average_days: '67'
+      complex_highest_days: '156'
+      complex_lowest_days: '23'
+      complex_median_days: '40'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '13'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '65'
+      complex_highest_days: '432'
+      complex_lowest_days: less than 1
+      complex_median_days: '30'
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2011':
+      complex_average_days: '127'
+      complex_highest_days: '412'
+      complex_lowest_days: less than 1
+      complex_median_days: '95'
+      simple_average_days: '16'
+      simple_highest_days: '83'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+    '2012':
+      complex_average_days: '59'
+      complex_highest_days: '253'
+      complex_lowest_days: '0'
+      complex_median_days: '41'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '19'
+      simple_highest_days: '161'
+      simple_lowest_days: '0'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '59'
+      complex_highest_days: '298'
+      complex_lowest_days: '16'
+      complex_median_days: '40'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '18'
+      expedited_processing_median_days: '18'
+      simple_average_days: '21'
+      simple_highest_days: '369'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
     '2014':
       complex_average_days: '57'
       complex_highest_days: '296'

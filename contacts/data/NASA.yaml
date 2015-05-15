@@ -196,6 +196,72 @@ departments:
     phone:
     - 661-276-2704
   request_time_stats:
+    '2008':
+      complex_average_days: '35'
+      complex_highest_days: '46'
+      complex_lowest_days: '29'
+      complex_median_days: '177'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '51'
+      simple_highest_days: '286'
+      simple_lowest_days: '3'
+      simple_median_days: '515'
+    '2009':
+      complex_average_days: '35'
+      complex_highest_days: '46'
+      complex_lowest_days: '29'
+      complex_median_days: '177'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '51'
+      simple_highest_days: '286'
+      simple_lowest_days: '3'
+      simple_median_days: '515'
+    '2010':
+      complex_average_days: '244'
+      complex_highest_days: '244'
+      complex_lowest_days: '244'
+      complex_median_days: '244'
+      expedited_processing_average_days: '12.5'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '12.5'
+      simple_average_days: '28.48'
+      simple_highest_days: '169'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
+    '2011':
+      complex_average_days: '30'
+      complex_highest_days: '30'
+      complex_lowest_days: '30'
+      complex_median_days: '30'
+      simple_average_days: '21.33'
+      simple_highest_days: '93'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2012':
+      complex_average_days: '85.88'
+      complex_highest_days: '288'
+      complex_lowest_days: '26'
+      complex_median_days: '45'
+      simple_average_days: '25.58'
+      simple_highest_days: '103'
+      simple_lowest_days: less than 1
+      simple_median_days: '15.5'
+    '2013':
+      complex_average_days: '34.86'
+      complex_highest_days: '150'
+      complex_lowest_days: '3'
+      complex_median_days: '17'
+      simple_average_days: '1'
+      simple_highest_days: '3'
+      simple_lowest_days: less than 1
+      simple_median_days: '0.5'
     '2014':
       complex_average_days: '25.33'
       complex_highest_days: '36'

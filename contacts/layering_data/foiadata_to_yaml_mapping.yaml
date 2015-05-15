@@ -6,6 +6,8 @@ Animal & Plant Health Inspection_USDA:
 - animal and plant health inspection service_usda
 Armed Services Board of Contract Appeals_DoD:
 - armed service board of contract appeals_dod
+Armstrong Flight Research Center_NASA:
+- dryden flight research center_nasa
 Atlanta District Office (Savanna Local Office)_EEOC:
 - atlanta district office_eeoc
 Birmingham District Office (Mobile Local Office, Jackson Area Office)_EEOC:
@@ -36,7 +38,11 @@ Dallas District Office (San Antonio Field Office, El Paso Area Office)_EEOC:
 - dallas district office_eeoc
 Defense Contract Audit Agency - Headquarters_DoD:
 - defense contract audit agency_dod
-Defense Logistics Agency - Headquarters_DoD:
+Defense Health Agency_DoD:
+- defense health agency_dod
+Defense Health Agency_DoD:
+- tricare management agency, dod health care system_dod
+Defense Logistics Agency_DoD:
 - defense logistic agency_dod
 Department of Agriculture_USDA:
 - united states department of agriculture_usda
@@ -50,12 +56,14 @@ Department of Interior_DOI:
 - department of the interior_doi
 Department of State_State:
 - united states department of state_state
-Department of the Air Force - Headquarters/ICIO (FOIA)_DoD:
+Department of the Air Force_DoD:
 - united states department of the air force_dod
-Department of the Army - Freedom of Information and Privacy Office_DoD:
+Department of the Army_DoD:
 - united states department of the army_dod
-Department of the Navy - Main Office_DoD:
+Department of the Navy_DoD:
 - united states department of the navy_dod
+Departmental Management (OSEC/OCIO/ FOIA Service Center)_USDA:
+- departmental management_usda
 Directorate for National Protection and Programs_DHS:
 - national protection and programs directorate_dhs
 Economics and Statistics Administration Bureau_DOC:
@@ -137,7 +145,7 @@ Office of Assistant Secretary for Human Resources and Administration_VA:
 Office of Assistant Secretary for Information and Technology_VA:
 - office of information and technology (005)_va
 - office of information and technology_va
-Office of Assistant Secretary for Policy and Intergovernmental Affairs_VA:
+Office of Assistant Secretary for Public and Intergovernmental Affairs_VA:
 - office of the assistant secretary for public & intergovernmental affairs_va
 Office of Budget & Program Analysis_USDA:
 - office of budget and program analysis_usda
@@ -181,7 +189,7 @@ Office of the Administrative Law Judges_U.S. DOL:
 Office of the Assistant Secretary for Operations, Security, and Preparedness_VA:
 - office of operations, security, and preparedness (formerly s&le - security & law
   enforcement)_va
-Office of the Chief Information Officer_USDA:
+Office of the Chief Information Officer (OSEC/OCIO/ FOIA Service Center)_USDA:
 - office of the secretary / office of the chief information officer_usda
 Office of the Deputy Assistant Secretary for Intergovernmental Affairs_VA:
 - office of the deputy assistant secretary for intergovernmenal affairs_va
@@ -272,8 +280,6 @@ Surface Transportation Board_DOT:
 - surface transportation board_stb
 Surface Transportation Board_STB:
 - surface transportation board_stb
-TRICARE Management Activity_DoD:
-- tricare management agency, dod health care system_dod
 The Authority_FLRA:
 - Authority Member
 The Federal Service Impasses Panel_FLRA:
