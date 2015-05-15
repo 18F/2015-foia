@@ -362,6 +362,35 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_time_stats:
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '36'
+      simple_highest_days: '96'
+      simple_lowest_days: '1'
+      simple_median_days: '22.5'
+    '2011':
+      expedited_processing_highest_days: '0'
+      simple_average_days: '33'
+      simple_highest_days: '103'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2012':
+      complex_average_days: '10.33'
+      complex_highest_days: '24'
+      complex_lowest_days: '1'
+      complex_median_days: '6'
+      simple_average_days: '14.95'
+      simple_highest_days: '92'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-720-0068
@@ -1708,6 +1737,33 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_time_stats:
+    '2011':
+      complex_average_days: '50.6'
+      complex_highest_days: '242'
+      complex_lowest_days: '4'
+      complex_median_days: '29'
+      expedited_processing_average_days: '8.3'
+      expedited_processing_highest_days: '15'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '8'
+      simple_average_days: '11.5'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2012':
+      complex_average_days: '168.4'
+      complex_highest_days: '642'
+      complex_lowest_days: '1'
+      complex_median_days: '102'
+      expedited_processing_average_days: '71'
+      expedited_processing_highest_days: '97'
+      expedited_processing_lowest_days: '45'
+      expedited_processing_median_days: '71'
+      simple_average_days: '142.36'
+      simple_highest_days: '774'
+      simple_lowest_days: '1'
+      simple_median_days: '28'
   service_center:
     phone:
     - 301-504-4154
