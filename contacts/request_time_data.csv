@@ -59,8 +59,8 @@ commodity futures trading commission,2011,CFTC,28.39,13.5,less than 1,145,119.26
 commodity futures trading commission,2012,CFTC,46.52,18,less than 1,333,146.47,108,3,471,,,,,agency
 commodity futures trading commission,2013,CFTC,65,40,1,401,239.27,216,26,838,,,,,agency
 commodity futures trading commission,2014,CFTC,30.92,23,1,126,102.25,55,2,566,,,,,agency
-consumer financial protection bureau,2013,CFPB,8.36,6.5,less than 1,41,31.07,28,less than 1,128,,,,,agency
 consumer financial protection bureau,2014,CFPB,9.46,7,less than 1,46,22.53,20,5,68,11,11,11,11,agency
+consumer protection financial board,2013,CFPB,8.36,6.5,less than 1,41,31.07,28,less than 1,128,,,,,agency
 corporation for national and community service,2008,CNCS,9,7,1,20,0,0,0,0,0,0,0,0,agency
 corporation for national and community service,2009,CNCS,9.72,6,1,40,0,0,0,0,0,0,0,0,agency
 corporation for national and community service,2010,CNCS,20,17,less than 1,82,40.3,17,17,147,18,18,18,18,agency
@@ -298,11 +298,11 @@ inter-american foundation,2011,IAF,13.9,15,4,33,0,0,0,0,0,0,0,0,agency
 inter-american foundation,2012,IAF,13.9,8,2,57,0,0,0,0,0,0,0,0,agency
 inter-american foundation,2013,IAF,16.36,17,2,35,,,,,,,,,agency
 inter-american foundation,2014,IAF,32.88,31,12,61,,,,,,,,,agency
-legal services corporation ,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41,agency
-legal services corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31,agency
-legal services corporation ,2012,LSC,8.11,6,1,30,22,21,17,29,9,6,1,19,agency
-legal services corporation ,2013,LSC,9.94,7,1,53,,,,,,,,,agency
-legal services corporation ,2014,LSC,14.5,15,1,34,,,,,15.7,12,11,24,agency
+legal services corporation ,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41,agency
+legal services corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31,agency
+legal services corporation ,2012,LSC,8.11,6,1,30,22,21,17,29,9,6,1,19,agency
+legal services corporation ,2013,LSC,9.94,7,1,53,,,,,,,,,agency
+legal services corporation ,2014,LSC,14.5,15,1,34,,,,,15.7,12,11,24,agency
 millennium challenge corporation,2010,MCC,17,6,less than 1,259,0,0,0,0,0,0,0,0,agency
 millennium challenge corporation,2011,MCC,14,16,1,21,0,0,0,0,0,0,0,0,agency
 millennium challenge corporation,2012,MCC,15,17,3,21,0,0,0,0,0,0,0,0,agency
@@ -985,8 +985,8 @@ community relations service,2011,DOJ,10.3,8.5,less than 1,29,33,33,33,33,,,,,off
 community relations service,2012,DOJ,10.57,8,4,42,31,30,25,38,,,,,office
 community relations service,2013,DOJ,8.13,8,less than 1,19,16,16,11,21,,,,,office
 community relations service,2014,DOJ,16.33,16,13,20,,,,,,,,,office
-consumer financial protection bureau,2013,CFPB,8.36,6.5,less than 1,41,31.07,28,less than 1,128,,,,,office
 consumer financial protection bureau,2014,CFPB,9.46,7,less than 1,46,22.53,20,5,68,11,11,11,11,office
+consumer protection financial board,2013,CFPB,8.36,6.5,less than 1,41,31.07,28,less than 1,128,,,,,office
 consumer protection financial board,2011,Treasury,11,13,6,13,13,13,6,91,,,,,office
 consumer protection financial board,2012,Treasury,8.5,8,1,39,48.5,48,1,180,0,0,0,0,office
 corporation for national and community service,2008,CNCS,9,7,1,20,0,0,0,0,0,0,0,0,office
@@ -1665,8 +1665,8 @@ langley research center,2012,NASA,2.77,2,less than 1,10,18.61,11.5,less than 1,7
 langley research center,2013,NASA,3.37,2,less than 1,15,19.75,12,less than 1,120,,,,,office
 langley research center,2014,NASA,3.25,2.5,less than 1,9,16.82,14,less than 1,44,,,,,office
 law department appeals only,2010,USPS,,,,,,,,,,,,,office
-legal services corporation ,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41,office
-legal services corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31,office
+legal services corporation ,2010,LSC,156,77,21,482,101,77,28,222,0,0,41,41,office
+legal services corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,,31,31,office
 los angeles district office,2010,EEOC,1.97154,1,1,35,0,0,0,0,0,0,0,0,office
 los angeles district office,2011,EEOC,8.3125,8,1,20,0,0,0,0,0,0,0,0,office
 los angeles district office,2012,EEOC,9.85,9,1,20,0,0,0,0,0,0,0,0,office
