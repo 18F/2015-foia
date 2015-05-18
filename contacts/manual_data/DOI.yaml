@@ -19,6 +19,7 @@ departments:
   website: http://www.doi.gov/oig/foia/index.cfm
 - name: Office of the Secretary
   emails: []
+  website: http://www.doi.gov/foia/os/index.cfm
 - name: Office of Natural Resources Revenue
   emails:
   - os_foia@ios.doi.gov
