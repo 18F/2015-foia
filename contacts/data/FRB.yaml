@@ -19,11 +19,18 @@ departments:
       phone:
       - 202-452-3648
   name: Federal Reserve System
-  phone: 202-452-3648
+  phone: 202-452-3684
   public_liaison:
     name: Jeanne McLaughlin
     phone:
-    - 202-452-3236
+    - 202-452-2407
+  reading_rooms:
+  - - Reading Rooms
+    - http://www.federalreserve.gov/foia/readingrooms.htm
+  - - conventional reading room
+    - http://www.federalreserve.gov/foia/readingrooms.htm#rr3
+  - - electronic reading room
+    - http://www.federalreserve.gov/foia/readingrooms.htm#rr1
   request_form: http://www.federalreserve.gov/forms/efoiaform.aspx
   request_time_stats:
     '2008':
@@ -119,10 +126,10 @@ departments:
       simple_median_days: '4'
   service_center:
     phone:
-    - 202-452-3648
+    - 202-452-3684
   top_level: false
   usa_id: '49046'
-  website: http://www.federalreserve.gov/generalinfo/foia/default.cfm
+  website: http://www.federalreserve.gov/foia/about_foia.htm
 description: The Federal Reserve is the central bank of the United States. It formulates
   and administers credit and monetary policy.
 keywords:
@@ -135,6 +142,7 @@ keywords:
 - Antitrust
 - Authority delegations (Government agencies)
 - Bank deposit insurance
+- Banks, banking
 - Brokers
 - Business and industry
 - Civil rights

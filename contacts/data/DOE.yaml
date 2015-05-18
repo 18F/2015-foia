@@ -533,6 +533,7 @@ departments:
     - 865-576-1261
   top_level: true
   usa_id: '49592'
+  website: http://www.osti.gov/home/freedom-information-act-foia/
 - address:
     address_lines:
     - Dorothy Riehle
@@ -542,6 +543,8 @@ departments:
     state: WA
     street: P.O. Box 550
     zip: '99352'
+  emails:
+  - dorothy.riehle.rl.doe.gov
   fax: 509-376-9704
   foia_officer:
     name: Dorothy Riehle
@@ -631,6 +634,8 @@ departments:
     state: SC
     street: P.O. Box A
     zip: '29801'
+  emails:
+  - pauline.conner@srs.gov
   fax: 803-952-8271
   foia_officer:
     name: Pauline Conner
@@ -677,7 +682,7 @@ departments:
   website: http://sro.srs.gov/foia.htm
 - address:
     address_lines:
-    - Elizabeth Osheim
+    - Jane Summerson
     - FOIA Officer
     city: Albuquerque
     state: NM
@@ -691,9 +696,9 @@ departments:
     phone:
     - 505-845-6265
   name: National Nuclear Security Administration Service Center
-  phone: 505-845-6265
+  phone: 505-845-4091
   public_liaison:
-    name: Cynthia Brown
+    name: Delilah Perez
     phone:
     - 866-747-5994
   reading_rooms:
@@ -742,6 +747,8 @@ departments:
     state: PA
     street: P.O. Box 109
     zip: 15122-0109
+  emails:
+  - Clifford.Nunn@nrp.doe.gov
   fax: 412-476-7675
   foia_officer:
     name: Clifford Nunn
@@ -811,8 +818,9 @@ departments:
     - http://www.wipp.energy.gov/library/foia/FOIA_Reading_Room.htm
   request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
   service_center:
+    name: Lea Chism
     phone:
-    - 575-234-7406
+    - 575-234-7442
   top_level: false
   website: http://www.wipp.energy.gov/library/foia/index.htm
 - address:
@@ -1008,7 +1016,7 @@ departments:
   website: https://www.emcbc.doe.gov/About/FOIA
 - address:
     address_lines:
-    - Christy Munro
+    - Christopher Frost
     - FOIA Officer
     - D-1
     city: Portland
@@ -1018,7 +1026,7 @@ departments:
   description: The Bonneville Power Administration creates and delivers a reliable
     power supply to the Pacific Northwest.
   emails:
-  - cjmunro@bpa.gov
+  - cmfrost@bpa.gov
   fax: 503-230-4019
   foia_officer:
     name: Christy Munro
@@ -1244,6 +1252,8 @@ departments:
   description: The Western Area Power Administration markets hydroelectric power generated
     by federal dams and associated services to public entities in the Western United
     States.
+  emails:
+  - land@wapa.gov
   fax: 720-962-7009
   foia_officer:
     name: Patricia S. Land
@@ -1332,6 +1342,8 @@ departments:
     state: LA
     street: 900 Commerce Road East
     zip: '70123'
+  emails:
+  - deanna.harvey.spr.doe.gov
   fax: 504-818-5316
   foia_officer:
     name: Deanna Harvey

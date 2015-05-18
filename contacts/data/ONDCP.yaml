@@ -3,20 +3,21 @@ departments:
 - abbreviation: ONDCP
   address:
     address_lines:
-    - General Counsel
-    - Office of Legal Counsel
+    - Michael Passante
+    - Chief FOIA Officer
     city: Washington
     state: DC
-    street: 750 17th Street, NW
+    street: 750 17th Street NW
     zip: '20503'
   description: The Office of National Drug Control Policy coordinates drug-control
     efforts and funding, and advises the president on drug-control issues.
+  fax: 202-395-5543
   name: Office of National Drug Control Policy
   phone: 202-395-6622
   public_liaison:
-    name: Daniel Petersen
+    name: Michael Passante
     phone:
-    - 202-395-6745
+    - 202-395-6622
   request_time_stats:
     '2011':
       complex_average_days: '0'
@@ -47,7 +48,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '33'
   service_center:
-    name: Daniel Petersen
+    name: Sandy Slater
     phone:
     - 202-395-6622
   top_level: false

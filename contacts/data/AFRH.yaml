@@ -3,7 +3,8 @@ departments:
 - address:
     address_lines:
     - Pebbles P. Young
-    - P.O. Box 2875
+    - FOIA Offixer
+    - Box 580
     - 3700 North Capitol Street NW
     city: Washington
     state: DC
@@ -17,7 +18,7 @@ departments:
   name: Armed Forces Retirement Home
   phone: 202-541-7716
   public_liaison:
-    name: Sheila Abarr
+    name: Pebbles P. Young
     phone:
     - 202-541-7550
   request_time_stats:
@@ -58,6 +59,7 @@ departments:
       simple_lowest_days: '3'
       simple_median_days: '7'
   service_center:
+    name: Pebbles P. Young
     phone:
     - 202-541-7566
   top_level: false

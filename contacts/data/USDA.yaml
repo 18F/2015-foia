@@ -1,18 +1,9 @@
 abbreviation: USDA
-address:
-  address_lines:
-  - Ray Payton
-  - Departmental FOIA Officer, Office of the Secretary
-  - 10th Floor
-  city: Washington
-  state: DC
-  street: 355 E Street SW
-  zip: '20024'
 departments:
 - address:
     address_lines:
-    - William D. Allen IV
-    - Acting FOIA officer
+    - Carrie Helmold
+    - FOIA Officer
     - AG Stop 0202, Room 3521-S
     city: Washington
     state: DC
@@ -21,7 +12,7 @@ departments:
   description: The Agricultural Marketing Service supports the fair marketing of U.S.
     agricultural products.
   emails:
-  - AMS.FOIA@usda.gov
+  - carrie.helmold@ams.usda.gov
   fax: 202-690-3767
   foia_officer:
     name: William D. Allen IV
@@ -118,7 +109,7 @@ departments:
   - Warehouses
   - Watermelons
   name: Agricultural Marketing Service
-  phone: 202-720-3785
+  phone: 202-720-2498
   public_liaison:
     name: Christine Sarcone
     phone:
@@ -184,7 +175,7 @@ departments:
       simple_median_days: '17'
   service_center:
     phone:
-    - 202-720-3785
+    - 202-720-2498
   top_level: false
   usa_id: '49077'
   website: ''
@@ -198,7 +189,7 @@ departments:
     street: 4700 River Road
     zip: 20737-1232
   emails:
-  - foia.officer@aphis.usda.gov
+  - tonya.g.woods@aphis.usda.gov
   fax: 301-734-5941
   keywords:
   - Administrative practice and procedure
@@ -270,16 +261,15 @@ departments:
       phone:
       - 301-734-8296
   name: Animal & Plant Health Inspection
-  phone: 301-734-8296
+  phone: 301-851-4102
   public_liaison:
-    name: Tonya Woods
     phone:
-    - 301-734-5267
+    - 301-851-4102
   reading_rooms:
   - - FOIA Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   - - Freedom of Information Act (FOIA) Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
+    - http://www.aphis.usda.gov/wps/portal/aphis/resources/lawsandregs?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -349,30 +339,24 @@ departments:
       simple_median_days: '46'
   service_center:
     phone:
-    - 301-734-8296
+    - 301-851-4102
   top_level: false
-  website: http://www.aphis.usda.gov/foia/
+  website: http://www.aphis.usda.gov/wps/portal/aphis/resources/lawsandregs?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
 - address:
     address_lines:
-    - Phyllis Holmes
-    - FOIA Contact
-    - Room 2916
+    - Alexis R. Graves
+    - Department FOIA Officer
+    - Room 428-W
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
-    zip: '20250'
+    zip: 20250-0706
   emails:
-  - phyllis.holmes@usda.gov
-  fax: 202-720-0105
-  misc:
-    FOIA Contact:
-      name: Phyllis Holmes
-      phone:
-      - 202-720-0068
-  name: Departmental Management
-  phone: 202-720-0068
+  - usdafoia@ocio.usda.gov
+  fax: 202-690-0068
+  name: Departmental Management (OSEC/OCIO/ FOIA Service Center)
+  phone: 202-690-3318
   public_liaison:
-    name: Phyllis Holmes
     phone:
     - 202-720-0068
   reading_rooms:
@@ -414,7 +398,7 @@ departments:
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - Sue Ellen Sloca
+    - Kent Politsch
     - FOIA Officer
     - Stop 0506
     city: Washington
@@ -425,13 +409,14 @@ departments:
     through a variety of programs including disaster relief, conservation programs,
     commodity price guarantee programs, and loan programs.
   emails:
-  - fsa.foia@wdc.usda.gov
-  fax: 202-690-2828
+  - kent.politsch@wdc.usda.gov
+  fax: 202-720-2979
   foia_officer:
     name: Sue Ellen Sloca
     phone:
     - 202-720-1598
   keywords:
+  - Accountants
   - Accounting
   - Acreage allotments
   - Administrative practice and procedure
@@ -442,7 +427,9 @@ departments:
   - American Samoa
   - Animal feeds
   - Apples
+  - Authority delegations (Government agencies)
   - Bankruptcy
+  - Banks, banking
   - Barley
   - Beans
   - Blind
@@ -488,6 +475,7 @@ departments:
   - Fair housing
   - Federally affected areas
   - Feed grains
+  - Fire prevention
   - Fish
   - Flood insurance
   - Flood plains
@@ -523,9 +511,11 @@ departments:
   - Housing standards
   - Human research subjects
   - Imports
+  - Income taxes
   - Indemnity payments
   - Indians
   - Indians-education
+  - Individuals with disabilities
   - Insurance
   - Intergovernmental relations
   - International organizations
@@ -550,6 +540,7 @@ departments:
   - Migrant labor
   - Military personnel
   - Milk
+  - Minimum wages
   - Mortgage insurance
   - Mortgages
   - National defense
@@ -570,6 +561,7 @@ departments:
   - Privacy
   - Private schools
   - Public housing
+  - Religious discrimination
   - Rent subsidies
   - Reporting and recordkeeping requirements
   - Rice
@@ -599,12 +591,14 @@ departments:
   - Transportation
   - Trees
   - Truth in lending
+  - Uranium
   - Urban areas
   - Veterans
   - Virgin Islands
   - Vocational education
   - Vocational rehabilitation
   - Volunteers
+  - Wages
   - Warehouses
   - Waste treatment and disposal
   - Water pollution control
@@ -619,9 +613,8 @@ departments:
   name: Farm Service Agency
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-720-1598
+  phone: 202-720-7163
   public_liaison:
-    name: Sue Ellen Sloca
     phone:
     - 202-720-1598
   reading_rooms:
@@ -710,7 +703,7 @@ departments:
     street: 3101 Park Center Drive
     zip: '22302'
   emails:
-  - foia@fns.usda.gov
+  - jennifer.weatherly@fns.usda.gov
   fax: 703-605-0793
   foia_officer:
     name: Jennifer Weatherly
@@ -719,7 +712,6 @@ departments:
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
   public_liaison:
-    name: Joseph X. Tangredi
     phone:
     - 703-605-0773
   request_form: https://efoia-pal.usda.gov/palMain.aspx
@@ -794,9 +786,9 @@ departments:
   website: http://www.fns.usda.gov/foia/
 - address:
     address_lines:
-    - Shelia Wright
-    - FOIA Contact
-    - Room 1140-South Building
+    - Arianne Perkins
+    - Acting, FOIA Officer
+    - Room 1142-South Building
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
@@ -843,11 +835,10 @@ departments:
   name: Food Safety & Inspection Service
   phone: 202-690-2760
   public_liaison:
-    name: Arianne M. Perkins
     phone:
     - 202-690-2760
   reading_rooms:
-  - - Electronic Reading Room
+  - - FOIA Electronic Reading Room
     - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
@@ -912,9 +903,9 @@ departments:
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - address:
     address_lines:
-    - Henry Noland
+    - Rochelle Foster
     - FOIA Officer
-    - Stop 1004
+    - Room 5607-S, Stop 1004
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
@@ -941,7 +932,7 @@ departments:
   - Reporting and recordkeeping requirements
   - Trade adjustment assistance
   name: Foreign Agricultural Service
-  phone: 202-720-0154
+  phone: 202-720-2936
   public_liaison:
     name: Sally Klusaritz
     phone:
@@ -1024,7 +1015,7 @@ departments:
   website: http://www.fas.usda.gov/freedom-information-act-foia
 - address:
     address_lines:
-    - Sherry Turner
+    - George Vargas
     - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
     - Stop 1143
     city: Washington
@@ -1034,8 +1025,8 @@ departments:
   description: The Forest Service works to sustain the health, diversity, and productivity
     of the nation's forests and grasslands.
   emails:
-  - wo_foia@fs.fed.us
-  fax: 202-260-3245
+  - gvargas@fs.fed.us
+  fax: 202-649-1167
   keywords:
   - Administrative practice and procedure
   - Agriculture
@@ -1097,11 +1088,10 @@ departments:
   name: Forest Service - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-205-2497
+  phone: 202-205-0444
   public_liaison:
-    name: Sherry Turner
     phone:
-    - 202-205-2497
+    - 202-205-0444
   request_time_stats:
     '2010':
       complex_average_days: '38.5'
@@ -1178,7 +1168,7 @@ departments:
     address_lines:
     - Joanne Peterson
     - FOIA/PA Officer
-    - Room 1647 - AG Stop 3604
+    - Room 2548 - AG Stop 3642
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
@@ -1218,9 +1208,9 @@ departments:
   name: Grain Inspection, Packers & Stockyards Administration
   phone: 202-720-8087
   public_liaison:
-    name: Albert Conerly
+    name: Dexter Thomas
     phone:
-    - 202-720-0234
+    - 202-720-6529
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1291,7 +1281,7 @@ departments:
     address_lines:
     - Brenda V. Seegars
     - FOIA Officer and Legal Affairs Officer
-    - Rom 1100
+    - Room 1100
     city: Alexandria
     state: VA
     street: 3101 Park Center Drive
@@ -1348,19 +1338,21 @@ departments:
   website: http://www.nad.usda.gov/foia.html
 - address:
     address_lines:
-    - John Hemstreet
+    - Cheri Alsobrook
     - FOIA Officer
     city: New Orleans
     state: LA
     street: P.O. Box 60000
     zip: '70160'
-  fax: 504-426-9703
+  emails:
+  - cheri.alsobrook@nfc.usda.gov
+  fax: 504-426-9706
   foia_officer:
     name: John Hemstreet
     phone:
     - 504-426-0168
   name: National Finance Center
-  phone: 504-426-0168
+  phone: 504-426-0374
   public_liaison:
     name: Shri Alsobrook, Sandy Francois
     phone:
@@ -1370,8 +1362,9 @@ departments:
     - https://www.nfc.usda.gov/FOIA/foiaereading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center:
+    name: Sandy Francois
     phone:
-    - 504-426-0162
+    - 504-426-0300
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
 - address:
@@ -1387,7 +1380,7 @@ departments:
     Service works with landowners through conservation planning and assistance to
     foster healthy ecosystems.
   emails:
-  - NRCS-foia@wdc.usda.gov
+  - deryl.richardson@wdc.usda.gov
   fax: 202-720-9030
   foia_officer:
     name: Deryl Richardson
@@ -1395,6 +1388,7 @@ departments:
     - 202-690-4985
   keywords:
   - Administrative practice and procedure
+  - Agricultural commodities
   - Agriculture
   - Animals
   - Disaster assistance
@@ -1415,11 +1409,11 @@ departments:
   - State and local governments
   - Technical assistance
   - Water resources
+  - Watersheds
   - Wildlife
   name: Natural Resources Conservation Service
   phone: 202-690-4985
   public_liaison:
-    name: Deryl Richardson
     phone:
     - 202-690-4985
   request_form: https://efoia-pal.usda.gov/palMain.aspx
@@ -1494,6 +1488,8 @@ departments:
     state: DC
     street: Whitten Building
     zip: '20250'
+  emails:
+  - FOIA@obpa.usda.gov
   fax: 202-690-3673
   misc:
     FOIA/PA Officer:
@@ -1503,9 +1499,9 @@ departments:
   name: Office of Budget & Program Analysis
   phone: 202-720-1269
   public_liaison:
-    name: Julie Hetrick
+    name: Andrew Perry
     phone:
-    - 202-720-1269
+    - 202-720-1276
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
@@ -1557,19 +1553,22 @@ departments:
       simple_lowest_days: '2'
       simple_median_days: '11'
   service_center:
+    name: Julie Hetrick
     phone:
     - 202-720-1269
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - Richard Saafeld
-    - FOIA Officer, Planning and Accountability Division
-    - Room 3444B-South Building
+    - James Macko
+    - FOIA Officer
+    - Room 3414-South Building
     city: Washington
     state: DC
     street: Stop Box 9020
     zip: '20250'
+  emails:
+  - james.macko@cfo.usda.gov
   fax: 202-690-3536
   foia_officer:
     name: Richard Saafeld
@@ -1659,9 +1658,8 @@ departments:
   - Watersheds
   - Women
   name: Office of the Chief Financial Officer
-  phone: 202-720-0995
+  phone: 202-720-1221
   public_liaison:
-    name: Richard Saafeld
     phone:
     - 202-720-0995
   reading_rooms:
@@ -1721,28 +1719,24 @@ departments:
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - Wilbur Crawley
-    - FOIA/PA Officer
-    - Room 555 - Reporters Building
+    - Alexis R. Graves
+    - Department FOIA Officer
+    - Room 428-W
     city: Washington
     state: DC
-    street: 300 7th Street, SW
-    zip: '20024'
-  misc:
-    FOIA/PA Officer:
-      name: Wilbur Crawley
-      phone:
-      - 202-690-0028
-  name: Office of the Chief Information Officer
-  phone: 202-690-0028
+    street: 1400 Independence Avenue, SW
+    zip: 20250-0706
+  emails:
+  - usdafoia@ocio.usda.gov
+  fax: 202-690-0068
+  name: Office of the Chief Information Officer (OSEC/OCIO/ FOIA Service Center)
+  phone: 202-690-3318
   public_liaison:
-    name: Richard Ciampa
     phone:
     - 202-720-6355
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
-  request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2011':
       complex_average_days: '50.6'
@@ -1777,15 +1771,15 @@ departments:
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - Michael G. Watts
-    - Director, Office of Adjudication and Compliance
+    - Carl-Martin Ruiz
+    - FOIA Officer
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-9410
   emails:
   - ascrfoia@ascr.usda.gov
-  fax: 202-720-0953
+  fax: 202-690-7442
   misc:
     Director, Office of Adjudication and Compliance:
       name: Michael G. Watts
@@ -1794,7 +1788,7 @@ departments:
   name: Office of Civil Rights
   phone: 202-720-5212
   public_liaison:
-    name: Michael G. Watts
+    name: Samantha Jones
     phone:
     - 202-720-5212
   reading_rooms:
@@ -1860,18 +1854,21 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '10'
   service_center:
+    name: Samantha Jones
     phone:
     - 202-720-5212
   top_level: false
   website: http://www.ascr.usda.gov/foia_cr.html
 - address:
     address_lines:
-    - Betty Ollila
+    - Shawn McGruder
     - FOIA Officer, General Law Division
     city: Washington
     state: DC
     street: Room 3311-South Building
     zip: 20250-1400
+  emails:
+  - foiaofficerogc@ogc.usda.gov
   fax: 202-720-5837
   foia_officer:
     name: Betty Ollila
@@ -1880,7 +1877,6 @@ departments:
   name: Office of the General Counsel
   phone: 202-720-5824
   public_liaison:
-    name: Assistant General Counsel for General Law Division
     phone:
     - 202-720-5565
   reading_rooms:
@@ -1922,47 +1918,98 @@ departments:
       simple_median_days: '40'
   service_center:
     phone:
-    - 202-720-5824
+    - 202-720-5565
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - Ravoyne Peyton
-    - Departmental FOIA Officer
-    - 10th Floor
+    - Alison Decker
+    - FOIA Officer
+    - Room 441-E Whitten Bldg.
     city: Washington
     state: DC
-    street: 355 E Street SW
-    zip: '20024'
+    street: 1400 Independence Avenue, SW
+    zip: '20250'
+  emails:
+  - alison.decker@oig.usda.gov
+  fax: 202-690-6305
+  name: Office of the Inspector General
+  phone: 202-720-5677
+  request_time_stats:
+    '2010':
+      complex_average_days: '156'
+      complex_highest_days: '778'
+      complex_lowest_days: '41'
+      complex_median_days: '100'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14'
+      simple_highest_days: '34'
+      simple_lowest_days: '2'
+      simple_median_days: '8'
+    '2011':
+      complex_average_days: '47'
+      complex_highest_days: '489'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '22'
+      simple_highest_days: '305'
+      simple_lowest_days: '2'
+      simple_median_days: '16'
+    '2012':
+      complex_average_days: '68'
+      complex_highest_days: '133'
+      complex_lowest_days: '31'
+      complex_median_days: '64'
+      simple_average_days: '13'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '46'
+      complex_highest_days: '283'
+      complex_lowest_days: '33'
+      complex_median_days: '42'
+      simple_average_days: '25'
+      simple_highest_days: '79'
+      simple_lowest_days: '6'
+      simple_median_days: '22'
+    '2014':
+      complex_average_days: '214'
+      complex_highest_days: '682'
+      complex_lowest_days: '42'
+      complex_median_days: '141'
+      simple_average_days: '85'
+      simple_highest_days: '413'
+      simple_lowest_days: '2'
+      simple_median_days: '61'
+  top_level: false
+- address:
+    address_lines:
+    - Alexis R. Graves
+    - Department FOIA Officer
+    - Room 428-W
+    city: Washington
+    state: DC
+    street: 1400 Independence Avenue, SW
+    zip: 20250-0706
   emails:
   - usdafoia@ocio.usda.gov
-  foia_officer:
-    name: Ravoyne Peyton
-    phone:
-    - 202-260-2657
-  name: Office of the Secretary
-  phone: 202-260-2657
+  fax: 202-690-0068
+  name: Office of the Secretary (OSEC/OCIO/ FOIA Service Center)
+  phone: 202-690-3318
   public_liaison:
-    name: Ravoyne Peyton
     phone:
     - 202-720-8164
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
-  request_time_stats:
-    '2010':
-      complex_average_days: '43'
-      complex_highest_days: '106'
-      complex_lowest_days: '4'
-      complex_median_days: '39'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '21'
-      simple_highest_days: '93'
-      simple_lowest_days: '1'
-      simple_median_days: '20'
   service_center:
     phone:
     - 202-720-8164
@@ -1971,9 +2018,9 @@ departments:
 - abbreviation: Agriculture Department
   address:
     address_lines:
-    - Bill Crews
+    - Bill Crews & Kimberly Morris
     - FOIA Officer
-    - Stop 0821
+    - Room 6628-S, Stop 0821
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
@@ -1982,7 +2029,9 @@ departments:
     the Federal Crop Insurance Corporation and provides risk management information
     and services to farmers and producers.
   emails:
-  - bill.crews@rma.usda.gov
+  - 'bill.crews@rma.usda.gov
+
+    kimberly.morris@rma.usda.gov'
   fax: 202-720-1162
   foia_officer:
     name: Bill Crews
@@ -1995,7 +2044,7 @@ departments:
     phone:
     - 202-260-0080
   reading_rooms:
-  - - RMA Electronic                              Reading Room
+  - - RMA Electronic  Reading Room
     - http://www.rma.usda.gov/aboutrma/foia/reading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
@@ -2064,15 +2113,15 @@ departments:
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - address:
     address_lines:
-    - Stasia Hutchison and Monica Williams
-    - FOIA Officers
+    - Stasia Hutchison
+    - FOIA Officer
     - Room 1-2248 - Building GWCC, Mail Stop 5128
     city: Beltsville
     state: MD
     street: 5601 Sunnyside Avenue
     zip: 20705-5128
   emails:
-  - REEFOIA@ars.usda.gov
+  - stasia.hutchison@ars.usda.gov
   fax: 301-504-1647
   foia_officer:
     name: Stasia Hutchison and Monica Williams
@@ -2085,10 +2134,9 @@ departments:
     Statistics Service, and National Institute of Food and Agriculture.
   phone: 301-504-1655
   public_liaison:
-    name: Stasia Hutchison, Monica Williams
     phone:
     - 301-504-1743
-  request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
+  request_form: http://www.ars.usda.gov/is/foia/foiaform.htm
   request_time_stats:
     '2010':
       complex_average_days: '13'
@@ -2154,16 +2202,16 @@ departments:
   website: http://www.ars.usda.gov/is/foia/foiaform.htm
 - address:
     address_lines:
-    - Sara Bradshaw
+    - Lolita Ellis
     - FOIA/PA Officer
-    - Stop 0706-Room 3028
+    - Stop 0706
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-0706
   description: Through various programs, the Department of Agriculture's Rural Development
     works to improve the economy and quality of life of rural America.
-  fax: 202-205-5053
+  fax: 202-692-0034
   misc:
     FOIA/PA Officer:
       name: Sara Bradshaw
@@ -2172,7 +2220,7 @@ departments:
   name: Rural Development
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-692-0015
+  phone: 202-692-0004
   public_liaison:
     name: Joseph Shunk
     phone:
@@ -2225,16 +2273,16 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '63.5'
   service_center:
+    name: Doloras Johnson
     phone:
-    - 202-692-0004
+    - 202-692-0015
   top_level: false
   usa_id: '49653'
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
 description: The Department of Agriculture provides leadership on food, agriculture,
   natural resources, and related issues.
-emails:
-- usdafoia@ocio.usda.gov
 keywords:
+- Accountants
 - Accounting
 - Acreage allotments
 - Administrative practice and procedure
@@ -2262,6 +2310,7 @@ keywords:
 - Authority delegations (Government agencies)
 - Avocados
 - Bankruptcy
+- Banks, banking
 - Barley
 - Beans
 - Bees
@@ -2281,6 +2330,7 @@ keywords:
 - Claims
 - Classified information
 - Coal
+- Coastal zone
 - Coffee
 - Colleges and universities
 - Commodity futures
@@ -2458,6 +2508,7 @@ keywords:
 - Mineral royalties
 - Miners
 - Mines
+- Minimum wages
 - Mortgage insurance
 - Mortgages
 - Motion pictures
@@ -2568,6 +2619,7 @@ keywords:
 - Tuberculosis
 - Unemployment compensation
 - Uniform System of Accounts
+- Uranium
 - Urban areas
 - Vegetables
 - Veterans
@@ -2594,14 +2646,6 @@ keywords:
 - Wool
 - Youth
 name: Department of Agriculture
-phone: 202-260-2657
-public_liaison:
-  name: Ray Payton
-  phone:
-  - 202-260-2657
-reading_rooms:
-- - USDA Agencies' FOIA Reading Rooms
-  - http://www.dm.usda.gov/foia/agencyfoia.htm
 request_time_stats:
   '2010':
     complex_average_days: '50.43'
@@ -2668,9 +2712,4 @@ request_time_stats:
     simple_highest_days: '1476'
     simple_lowest_days: '1'
     simple_median_days: '1'
-service_center:
-  phone:
-  - 202-260-2657
-top_level: false
 usa_id: '49015'
-website: http://www.dm.usda.gov/foia.htm

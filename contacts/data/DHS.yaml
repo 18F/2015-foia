@@ -728,8 +728,8 @@ departments:
 - abbreviation: FEMA
   address:
     address_lines:
-    - Terry Cochran
-    - FOIA Officer
+    - Charlene Myrthil
+    - Acting FOIA Officer
     - Room 840
     city: Washington
     state: DC
@@ -755,6 +755,7 @@ departments:
   - Airports
   - Aliens
   - American Samoa
+  - Authority delegations (Government agencies)
   - Blind
   - Broadband
   - Buildings and facilities
@@ -874,7 +875,7 @@ departments:
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison:
-    name: Terry Cochran
+    name: Charlene Myrthil
     phone:
     - 202-646-3323
   request_form: https://faq.fema.gov/ci/documents/submit
@@ -1197,7 +1198,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '3'
   service_center:
-    name: Louis Todd Fuss
+    name: Fernando Pineiro
     phone:
     - 202-732-4265
   top_level: true
@@ -1886,8 +1887,8 @@ departments:
 - abbreviation: TSA
   address:
     address_lines:
-    - Yvonne Coates
-    - FOIA Officer
+    - Teri Miller
+    - Acting FOIA Officer
     - 11th Floor, East Tower, TSA-20
     city: Arlington
     state: VA
@@ -1900,7 +1901,7 @@ departments:
   - FOIA@tsa.dhs.gov
   fax: 571-227-1406
   foia_officer:
-    name: Yvonne Coates
+    name: Amanda Deplitch
     phone:
     - 866-364-2872
     - 571-227-2300
@@ -1960,7 +1961,7 @@ departments:
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison:
-    name: Yvonne Coates
+    name: Amanda Deplitch
     phone:
     - 866-364-2872
   reading_rooms:
@@ -2213,6 +2214,7 @@ keywords:
 - Homeless
 - Hospitals
 - Housing
+- Housing standards
 - Human research subjects
 - Immigration
 - Imports

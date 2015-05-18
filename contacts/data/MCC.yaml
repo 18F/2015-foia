@@ -3,7 +3,7 @@ departments:
 - address:
     address_lines:
     - John Mantini
-    - Chief FOIA Officer
+    - Acting Chief FOIA Officer
     city: Washington
     state: DC
     street: 875 15th Street, NW
@@ -19,11 +19,11 @@ departments:
     phone:
     - 202-521-3863
   name: Millennium Challenge Corporation
-  phone: 202-521-3863
+  phone: 202-521-7235
   public_liaison:
     name: John Mantini
     phone:
-    - 202-521-3863
+    - 202-521-7235
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -77,7 +77,7 @@ departments:
   service_center:
     name: John Mantini
     phone:
-    - 202-521-3863
+    - 202-521-7235
   top_level: false
   usa_id: '49460'
   website: http://www.mcc.gov/pages/foia

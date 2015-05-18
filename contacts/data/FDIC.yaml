@@ -29,7 +29,7 @@ departments:
   reading_rooms:
   - - Reading Room
     - https://www.fdic.gov/about/freedom/readingroom.html
-  request_form: https://efoiarequest.fdic.gov/palMain.aspx?protocol=https
+  request_form: https://efoiarequest.fdic.gov/palMain.aspx
   request_time_stats:
     '2008':
       complex_average_days: '15'
@@ -127,7 +127,7 @@ departments:
     - 202-898-7021
   top_level: false
   usa_id: '49043'
-  website: http://www.fdic.gov/about/freedom/index.html
+  website: https://www.fdic.gov/about/freedom/
 description: FDIC responds to questions about federal deposit insurance coverage and
   handles complaints and inquiries about FDIC-insured state banks which are not members
   of the Federal Reserve System.
@@ -141,6 +141,7 @@ keywords:
 - Antitrust
 - Authority delegations (Government agencies)
 - Bank deposit insurance
+- Banks, banking
 - Brokers
 - Business and industry
 - Civil rights

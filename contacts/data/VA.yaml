@@ -29,6 +29,7 @@ departments:
   name: Central Office FOIA/Privacy Act Office
   phone: 202-632-7465
   public_liaison:
+    name: James Horan
     phone:
     - 202-632-7465
   service_center:
@@ -59,7 +60,7 @@ departments:
   name: National Cemetery Administration
   phone: 202-632-7728
   public_liaison:
-    name: Raynell Lazier
+    name: James Killens III
     phone:
     - 202-461-6214
   reading_rooms:
@@ -125,7 +126,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Sean Burns
+    - Gwendolyn Smith
     - FOIA Contact
     - (20M33) VACO
     city: Washington
@@ -147,7 +148,7 @@ departments:
     visiting its website.
   phone: 202-491-9439
   public_liaison:
-    name: Sean Burns
+    name: Gwendolyn Smith
     phone:
     - 202-491-9439
   reading_rooms:
@@ -248,10 +249,9 @@ departments:
     address_lines:
     - Timothy Graham
     - FOIA Contact
-    - (19F2) VACO
     city: Washington
     state: DC
-    street: 810 Vermont Avenue, NW
+    street: (19F2) VACO
     zip: '20420'
   description: VHA serves the needs of Americas veterans by providing primary care,
     specialized care, and related medical and social support services.
@@ -366,7 +366,32 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Inez Sidbury
+    - Lisa Matuszczak
+    - FOIA Contact
+    - 002B VACO
+    city: Washington
+    state: DC
+    street: 810 Vermont Avenue, NW
+    zip: '20420'
+  emails:
+  - OSVAFOIA@va.gov
+  fax: 202-273-4880
+  name: Office of the Executive Secretary
+  phone: 202-461-4857
+  public_liaison:
+    phone:
+    - 202-461-4857
+  reading_rooms:
+  - - FOIA Library
+    - http://www.oprm.va.gov/foia/foia_library.aspx
+  service_center:
+    phone:
+    - 202-461-4857
+  top_level: false
+  website: http://www.foia.va.gov/
+- address:
+    address_lines:
+    - Lyndon Johnson
     - FOIA Contact
     - (002B) VACO
     city: Washington
@@ -374,20 +399,15 @@ departments:
     street: 810 Vermont Avenue, NW
     zip: '20420'
   fax: 202-273-7635
-  misc:
-    'FOIA Contact ':
-      name: Inez Sidbury
-      phone:
-      - 202-461-7442
-  name: Office of Assistant Secretary for Policy and Intergovernmental Affairs
+  name: Office of Assistant Secretary for Public and Intergovernmental Affairs
   phone: 202-461-7442
   public_liaison:
-    name: Inez Sidbury
+    name: James Horan
     phone:
     - 202-461-7442
   reading_rooms:
   - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+    - http://www.oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -448,7 +468,7 @@ departments:
     phone:
     - 202-461-7442
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Gary Tallman
@@ -467,7 +487,7 @@ departments:
   name: Office of Deputy Assistant Secretary for Public Affairs
   phone: 202-461-7430
   public_liaison:
-    name: Nathan Naylor
+    name: James Horan
     phone:
     - 202-461-7430
   reading_rooms:
@@ -500,9 +520,9 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Susan McCrea
+    - Jason Cain
     - FOIA Contact
-    - (075) VACO
+    - (075C) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
@@ -516,7 +536,7 @@ departments:
   name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
   phone: 202-461-7379
   public_liaison:
-    name: Fran Heimrich
+    name: James Horan
     phone:
     - 202-461-7379
   reading_rooms:
@@ -562,9 +582,9 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Miriam Smith
+    - James Chung
     - FOIA Contact
-    - (004A) VACO
+    - (004) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
@@ -576,9 +596,9 @@ departments:
       phone:
       - 202-461-6677
   name: Office of Assistant Secretary for Management
-  phone: 202-461-6677
+  phone: 202-461-7305
   public_liaison:
-    name: Miriam Smith
+    name: James Horan
     phone:
     - 202-461-6677
   reading_rooms:
@@ -607,7 +627,7 @@ departments:
   name: Office of Asset Enterprise Management
   phone: 202-590-8793
   public_liaison:
-    name: Kelli Emery
+    name: James Horan
     phone:
     - 202-590-8793
   reading_rooms:
@@ -620,7 +640,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Cynthia Manurs
+    - Sarah Kalis
     - FOIA Contact
     - (041C/D) VACO
     city: Washington
@@ -636,7 +656,6 @@ departments:
   name: Office of Deputy Assistant Secretary for Budget
   phone: 202-461-5170
   public_liaison:
-    name: Cynthia Manurs
     phone:
     - 202-461-5170
   reading_rooms:
@@ -678,7 +697,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Karen Barber
+    - Carol Watson
     - FOIA Contact
     - (047GC1) VACO
     city: Washington
@@ -694,7 +713,7 @@ departments:
   name: Office of Deputy Assistant Secretary for Finance
   phone: 202-461-6432
   public_liaison:
-    name: Karen Barber
+    name: James Horan
     phone:
     - 202-461-6432
   reading_rooms:
@@ -759,7 +778,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Timothy Clifton
+    - Thomas Barnasevitch
     - FOIA Contact
     - Philadelphia Information Technology Center
     city: Philadelphia
@@ -769,25 +788,20 @@ departments:
   emails:
   - cdcofoia@va.gov
   fax: 215-381-3527
-  misc:
-    'FOIA Contact ':
-      name: Timothy Clifton
-      phone:
-      - 215-842-2000 x4503
-  name: Corporate Data Center Operations
+  name: Enterprise Operations
   phone: 215-842-2000 x4503
   public_liaison:
-    name: Timothy Clifton
+    name: James Horan
     phone:
     - 215-842-2000 x4503
   reading_rooms:
   - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+    - http://www.oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 215-842-2000 x4503
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Laurie Karnay
@@ -875,23 +889,23 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Yolanda Johnson
+    - Teresa Days
     - FOIA Contact
-    - (006V) VACO
+    - (006) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  fax: 202-632-7536
+  fax: 202-273-4914
   misc:
     'FOIA Contact ':
       name: Yolanda Johnson
       phone:
       - 202-632-7310
   name: Office of Assistant Secretary for Human Resources and Administration
-  phone: 202-632-7310
+  phone: 202-461-7754
   public_liaison:
-    name: Yolanda Johnson
+    name: James Horan
     phone:
     - 202-632-7310
   reading_rooms:
@@ -967,7 +981,7 @@ departments:
   name: Office of Deputy Assistant Secretary for Human Resources Management
   phone: 202-461-7863
   public_liaison:
-    name: Jean Hayes
+    name: James Horan
     phone:
     - 202-461-7863
   reading_rooms:
@@ -1036,23 +1050,23 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Betty Cook
+    - Angela Dunn
     - FOIA Contact
     - (06) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  fax: 202-501-1970
+  fax: 202-501-2145
   misc:
     'FOIA Contact ':
       name: Betty Cook
       phone:
       - 202-461-4010
   name: Office of Deputy Assistant Secretary for Diversity and Inclusion
-  phone: 202-461-4010
+  phone: 202-461-4237
   public_liaison:
-    name: Betty Cook
+    name: James Horan
     phone:
     - 202-461-4010
   reading_rooms:
@@ -1097,16 +1111,16 @@ departments:
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  fax: 202-501-2885
+  fax: 202-501-2811
   misc:
     'FOIA Contact ':
       name: Nigel Collie
       phone:
       - 202-501-2827
   name: Office of Resolution Management
-  phone: 202-501-2827
+  phone: 202-461-0227
   public_liaison:
-    name: Nigel Collie
+    name: James Horan
     phone:
     - 202-501-2827
   reading_rooms:
@@ -1171,7 +1185,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Shelia Gaskins
+    - Jacques Larochelle
     - FOIA Contact
     - (032A) VACO
     city: Washington
@@ -1185,11 +1199,9 @@ departments:
       phone:
       - 202-461-5046
   name: Office of Deputy Assistant Secretary for Administration
-  phone: 202-461-5046
+  phone: 202-461-5041
   public_liaison:
-    name: Shelia Gaskins
-    phone:
-    - 202-461-5046
+    name: james Horan
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1304,9 +1316,7 @@ departments:
   name: Office of the Assistant Secretary for Operations, Security, and Preparedness
   phone: 202-461-6587
   public_liaison:
-    name: Tanya Al-Khateeb
-    phone:
-    - 202-461-6587
+    name: James Horan
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1348,7 +1358,7 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Stephanie Way
+    - Jon Abboud
     - FOIA Contact
     - (008) VACO, Room 314
     city: Washington
@@ -1362,11 +1372,9 @@ departments:
       phone:
       - 202-461-5918
   name: Office of Policy and Planning
-  phone: 202-461-5918
+  phone: 202-461-5853
   public_liaison:
-    name: Stephanie Way
-    phone:
-    - 202-461-5198
+    name: James Horan
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1420,25 +1428,23 @@ departments:
   website: http://oprm.va.gov/foia/
 - address:
     address_lines:
-    - Pamela Balsley
+    - Regina Mack-Abney
     - FOIA Contact
     - (009) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  fax: 202-273-6792
+  fax: 202-273-6791
   misc:
     'FOIA Contact ':
       name: Pamela Balsley
       phone:
       - 202-461-6619
   name: Office of Assistant Secretary for Congressional and Legislative Affairs
-  phone: 202-461-6619
+  phone: 202-461-6459
   public_liaison:
-    name: Pamela Balsley
-    phone:
-    - 202-461-6619
+    name: James Horan
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1514,9 +1520,7 @@ departments:
   name: Office of Construction & Facilities Management
   phone: 202-461-8212
   public_liaison:
-    name: Lynn Buell
-    phone:
-    - 202-461-8212
+    name: James Horan
   reading_rooms:
   - - FOIA Library
     - http://oprm.va.gov/foia/foia_library.aspx
@@ -1589,75 +1593,21 @@ departments:
   emails:
   - VA_OAL_FOIA@va.gov
   fax: 202-343-1434
-  foia_officer:
-    name: Richard Ha
-    phone:
-    - 202-632-5286
-  name: Office of Acquisition & Logistics
+  keywords:
+  - Accounting
+  - Government procurement
+  name: Office of Procurement Policy Services
   phone: 202-632-5286
   public_liaison:
-    name: Richard Ha
-    phone:
-    - 202-632-5286
+    name: James Horan
   reading_rooms:
   - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
-  request_time_stats:
-    '2009':
-      complex_average_days: '354'
-      complex_highest_days: '1583'
-      complex_lowest_days: '1'
-      complex_median_days: '352'
-    '2010':
-      complex_average_days: '59.8'
-      complex_highest_days: '571'
-      complex_lowest_days: less than 1
-      complex_median_days: '12.5'
-      expedited_processing_average_days: '21'
-      expedited_processing_highest_days: '21'
-      expedited_processing_lowest_days: '21'
-      expedited_processing_median_days: '21'
-    '2011':
-      complex_average_days: '32.38'
-      complex_highest_days: '321'
-      complex_lowest_days: less than 1
-      complex_median_days: '11'
-    '2012':
-      complex_average_days: '15.91'
-      complex_highest_days: '133'
-      complex_lowest_days: less than 1
-      complex_median_days: '6'
-      simple_average_days: '18.57'
-      simple_highest_days: '77'
-      simple_lowest_days: less than 1
-      simple_median_days: '5'
-    '2013':
-      complex_average_days: '37.76'
-      complex_highest_days: '313'
-      complex_lowest_days: less than 1
-      complex_median_days: '14.5'
-      expedited_processing_average_days: '65'
-      expedited_processing_highest_days: '87'
-      expedited_processing_lowest_days: '43'
-      expedited_processing_median_days: '65'
-      simple_average_days: '35.73'
-      simple_highest_days: '210'
-      simple_lowest_days: less than 1
-      simple_median_days: '12'
-    '2014':
-      complex_average_days: '26.25'
-      complex_highest_days: '673'
-      complex_lowest_days: less than 1
-      complex_median_days: '13'
-      simple_average_days: '18.58'
-      simple_highest_days: '100'
-      simple_lowest_days: less than 1
-      simple_median_days: '14'
+    - http://www.oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-632-5286
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Margaret L. Peak
@@ -1903,7 +1853,7 @@ departments:
   name: Office of Small and Disadvantaged Business Utilization
   phone: 202-303-3260 x5429
   public_liaison:
-    name: Karen Zhussanbay
+    name: James Horan
     phone:
     - 202-303-3260 x5429
   reading_rooms:
@@ -2149,9 +2099,6 @@ phone: 202-632-7465
 public_liaison:
   phone:
   - 202-632-7600
-reading_rooms:
-- - FOIA Library
-  - http://www.oprm.va.gov/foia/foia_library.aspx
 request_time_stats:
   '2008':
     complex_highest_days: '2104'

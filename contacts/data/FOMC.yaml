@@ -3,7 +3,7 @@ departments:
 - address:
     address_lines:
     - Matthew Luecke
-    - FOMC FOIA Service Center Manager
+    - Chief FOIA Officer
     - Mail Stop 55
     city: Washington
     state: DC
@@ -106,7 +106,7 @@ departments:
       simple_median_days: '13'
   service_center:
     phone:
-    - 202-452-2576
+    - 202-973-7400
   top_level: false
   website: http://www.federalreserve.gov/foia/fomc/about_fomcfoia.htm
 description: Monetary policy is made by the Federal Open Market Committee (FOMC),

@@ -28,7 +28,6 @@ departments:
   name: National Headquarters
   phone: 202-566-1667
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -148,7 +147,6 @@ departments:
   name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -259,7 +257,6 @@ departments:
   name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -374,7 +371,6 @@ departments:
   name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -497,12 +493,11 @@ departments:
   name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.epa.gov/region4/foiapgs/readingroom/index.htm
+    - http://www2.epa.gov/foia/foia-library-information-specific-epa-region-4
   - - Reading Rooms
     - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
@@ -610,7 +605,6 @@ departments:
   name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -735,7 +729,6 @@ departments:
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -850,7 +843,6 @@ departments:
   name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   reading_rooms:
@@ -964,7 +956,6 @@ departments:
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1076,7 +1067,6 @@ departments:
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1192,7 +1182,6 @@ departments:
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
   public_liaison:
-    name: Deborah Williams
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1549,7 +1538,6 @@ keywords:
 name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison:
-  name: Deborah Williams
   phone:
   - 202-566-1667
 request_form: https://foiaonline.regulations.gov/foia/action/public/home

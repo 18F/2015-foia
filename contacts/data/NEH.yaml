@@ -4,7 +4,7 @@ departments:
     address_lines:
     - Katherine Griffin
     - Principal FOIA Contact
-    - 4th Floor
+    - '4060'
     city: Washington
     state: DC
     street: 400 7th Street SW
@@ -13,8 +13,7 @@ departments:
     in the United States such as museums, archives, libraries, colleges, universities,
     public television, and radio stations, and individual scholars.
   emails:
-  - gencounsel@neh.gov
-  - evoyatzis@neh.gov
+  - kgriffin@neh.gov
   fax: 202-606-8600
   misc:
     Principal FOIA Contact:
@@ -120,7 +119,7 @@ departments:
     - 202-606-8322
   top_level: false
   usa_id: '52636'
-  website: http://www.neh.gov/whoweare/foiamain.html
+  website: http://www.neh.gov/about/foia
 description: The National Endowment for the Humanities funds humanities programs in
   the United States such as museums, archives, libraries, colleges, universities,
   public television, and radio stations, and individual scholars.

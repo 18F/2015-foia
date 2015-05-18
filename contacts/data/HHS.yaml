@@ -2,12 +2,12 @@ abbreviation: HHS
 departments:
 - address:
     address_lines:
-    - Michael Bell
-    - Acting FOIA Officer
+    - Michael S. Marquis
+    - FOIA Officer / Director, Freedom of Information and Privacy Acts Division
     - Mary E. Switzer Building, Room 2221
     city: Washington
     state: DC
-    street: 300 C Street, SW
+    street: 330 C Street, SW
     zip: '20201'
   fax: 202-690-8320
   foia_officer:
@@ -17,9 +17,9 @@ departments:
   name: Office of the Secretary
   phone: 202-690-7453
   public_liaison:
-    name: Michael J. Robinson
+    name: Michael Bell
     phone:
-    - 202-690-6885
+    - 202-690-7453
   reading_rooms:
   - - Electronic  FOIA Reading Room
     - http://www.hhs.gov/foia/reading/index.html
@@ -239,22 +239,19 @@ departments:
     state: DC
     street: ''
     zip: '20201'
-  description: ACL brings together the efforts and achievements of the Administration
-    on Aging, the Administration on Intellectual and Developmental Disabilities, and
-    the HHS Office on Disability to serve as the Federal agency responsible for increasing
-    access to community supports, while focusing attention and resources on the unique
-    needs of older Americans and people with disabilities across the lifespan.
+  description: The Administration for Community Living supports the needs of the aging
+    and disability populations, and improves access health care and long-term services.
   fax: 202-357-0129
   foia_officer:
     name: Jason Bennett
     phone:
     - 202-401-4634
   name: Administration for Community Living
-  phone: 202-401-4634
+  phone: 202-357-3408
   public_liaison:
-    name: Jason Bennett
+    name: Rick Nicholls
     phone:
-    - 202-401-4634
+    - 202-357-3408
   reading_rooms:
   - - Electronic Reading Room
     - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
@@ -284,7 +281,7 @@ departments:
       simple_median_days: '20'
   service_center:
     phone:
-    - 202-401-4634
+    - 202-357-3408
   top_level: true
   usa_id: '91836'
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
@@ -342,6 +339,7 @@ departments:
   - Public assistance programs
   - Real property acquisition
   - Reporting and recordkeeping requirements
+  - Research
   - Social security
   - Technical assistance
   - Transportation
@@ -459,8 +457,8 @@ departments:
 - abbreviation: AHRQ
   address:
     address_lines:
-    - Carol Maloney
-    - FOIA Officer
+    - Tim Brown
+    - Acting FOIA Officer
     - Suite 920
     city: Bethesda
     state: MD
@@ -472,7 +470,7 @@ departments:
   emails:
   - FOIArequest@psc.hhs.gov
   foia_officer:
-    name: Carol Maloney
+    name: Tim Brown
     phone:
     - 301-492-4800
   name: Agency for Healthcare Research and Quality
@@ -740,7 +738,7 @@ departments:
 - abbreviation: CMS
   address:
     address_lines:
-    - Michael Marquis
+    - Hugh Gilmore
     - FOIA Officer
     - North Building, Room N2-20-06
     city: Baltimore
@@ -939,9 +937,10 @@ departments:
   address:
     address_lines:
     - Sarah Kotler
-    - Director, Division of Freedom of Information Office of the Executive Secretariat
-      Office of the Commissioner
-    - Room 1033
+    - Director, Division of Freedom of Information
+    - Office of the Executive Secretariat
+    - Office of the Commissioner
+    - Room 1035
     city: Rockville
     state: MD
     street: 5630 Fishers Lane
@@ -1294,8 +1293,8 @@ departments:
 - abbreviation: IHS
   address:
     address_lines:
-    - William Tibbits
-    - FOIA Officer
+    - Carl Mitchell
+    - Acting FOIA Officer
     - Suite 450 TMP
     city: Rockville
     state: MD
@@ -1552,8 +1551,8 @@ departments:
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
     address_lines:
-    - Carol Maloney
-    - FOIA Officer
+    - Tim Brown
+    - Acting FOIA Officer
     - Suite 920
     city: Bethesda
     state: MD
@@ -1568,7 +1567,7 @@ departments:
   name: Program Support Center
   phone: 301-492-4800
   public_liaison:
-    name: Carol Maloney
+    name: Tim Brown
     phone:
     - 301-492-4800
   reading_rooms:
@@ -1584,7 +1583,7 @@ departments:
 - abbreviation: SAMSHA
   address:
     address_lines:
-    - Jeanette Hite
+    - Wakema Williams
     - FOIA Officer
     - Room 8-1042
     city: Rockville
@@ -1617,11 +1616,11 @@ departments:
   - Privacy
   - Reporting and recordkeeping requirements
   name: Substance Abuse and Mental Health Services Administration
-  phone: 240-276-2137
+  phone: 240-276-2000
   public_liaison:
-    name: Jeanette Hite
+    name: Wakema Williams
     phone:
-    - 240-276-2137
+    - 240-276-2000
   request_time_stats:
     '2008':
       complex_average_days: '75'
@@ -1712,7 +1711,7 @@ departments:
       simple_median_days: '72'
   service_center:
     phone:
-    - 240-276-2137
+    - 240-276-2000
   top_level: true
   usa_id: '49687'
   website: http://www.samhsa.gov/foia/
@@ -1762,6 +1761,7 @@ keywords:
 - Communicable diseases
 - Communications
 - Community development
+- Community development block grants
 - Computer technology
 - Confidential business information
 - Conflict of interests
@@ -1865,6 +1865,7 @@ keywords:
 - Laboratories
 - Law enforcement
 - Lebanon
+- Legal services
 - Libraries
 - Loan programs
 - Loan programs-agriculture

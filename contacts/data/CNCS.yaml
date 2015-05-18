@@ -2,6 +2,7 @@ abbreviation: CNCS
 departments:
 - address:
     address_lines:
+    - Stephanie A. Soper
     - Freedom of Information Act Officer, Office of the General Counsel
     - Room 10606
     city: Washington
@@ -18,7 +19,7 @@ departments:
       phone:
       - 202-606-6671
   name: Corporation for National and Community Service
-  phone: 202-606-6671
+  phone: 202-606-6747
   public_liaison:
     name: Wilsie Y. Minor
     phone:
@@ -103,8 +104,9 @@ departments:
       simple_lowest_days: less than 1
       simple_median_days: '7'
   service_center:
+    name: Stephanie A. Soper
     phone:
-    - 202-606-6671
+    - 202-606-6747
   top_level: false
   usa_id: '52593'
   website: http://www.nationalservice.gov/home/foia/index.asp

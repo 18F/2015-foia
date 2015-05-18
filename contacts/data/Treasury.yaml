@@ -3,11 +3,13 @@ departments:
 - address:
     address_lines:
     - Ryan Law
-    - Director, Disclosure Services
+    - Director, FOIA and Transparency
     city: Washington
     state: DC
     street: 1500 Pennsylvania Avenue, NW
     zip: '20220'
+  emails:
+  - TreasFOIA@Treasury.gov
   fax: 202-622-3895
   keywords:
   - Courts
@@ -24,16 +26,16 @@ departments:
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
+    - 202-622-0930
   reading_rooms:
   - - Electronic Reading Room
     - http://www.treasury.gov/FOIA/Pages/reading_room.aspx
-  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+  request_form: Treas FOIA On Line Request Form
   service_center:
     phone:
     - 202-622-0930
   top_level: false
-  website: http://www.treasury.gov/foia/Pages/index.aspx
+  website: http://www.treasury.gov/foia
 - abbreviation: TTB
   address:
     address_lines:
@@ -114,7 +116,7 @@ departments:
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
+    - 202-622-0930
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
@@ -148,19 +150,19 @@ departments:
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
-  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+    - 202-622-0930
+  request_form: BEP FOIA On Line Request Form
   service_center:
     phone:
     - 202-874-2058
   top_level: true
   usa_id: '91587'
-  website: http://www.bep.treas.gov/foia.html
+  website: http://www.moneyfactory.gov/foia.html
 - abbreviation: OCC
   address:
     address_lines:
     - Frank Vance
-    - Disclosures Services
+    - Disclosure Manager
     - Communications Division
     - Suite 3-E218Mail Stop 6W-11
     city: Washington
@@ -182,6 +184,7 @@ departments:
   - Antitrust
   - Authority delegations (Government agencies)
   - Bank deposit insurance
+  - Banks, banking
   - Brokers
   - Business and industry
   - Civil rights
@@ -245,24 +248,16 @@ departments:
   - Truth in lending
   - United States investments abroad
   - Women
-  misc:
-    ? 'Disclosures Services
-
-      Communications Division'
-    : name: Frank Vance
-      phone:
-      - 202-649-6758
-  name: Comptroller of the Currency
+  name: Office of the Comptroller of the Currency
   phone: 202-649-6758
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
-  request_form: https://foia-pal.occ.gov/palMain.aspx
+    - 202-622-0930
   service_center:
     phone:
     - 202-874-4700
-  top_level: true
+  top_level: false
   usa_id: '48126'
   website: http://www.occ.gov/about/foia/index-foia.html
 - abbreviation: FINCEN
@@ -282,6 +277,7 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Authority delegations (Government agencies)
+  - Banks, banking
   - Brokers
   - Currency
   - Federal home loan banks
@@ -305,7 +301,7 @@ departments:
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
+    - 202-622-0930
   reading_rooms:
   - - Reading Room Records
     - http://www.fincen.gov/foia/foia_readingroom.html
@@ -324,6 +320,9 @@ departments:
     state: DC
     street: 401 14th Street, SW
     zip: '20227'
+  description: The Bureau of the Fiscal Service manages all federal payments and collections,
+    and provides government-wide accounting and reporting services. You can contact
+    them to buy bonds or to check on the maturity of bonds you own.
   fax: 202-874-2391
   keywords:
   - Accounting
@@ -333,6 +332,7 @@ departments:
   - Alcoholism
   - Alimony
   - Archives and records
+  - Banks, banking
   - Black lung benefits
   - Blind
   - Bonds
@@ -388,26 +388,23 @@ departments:
   - Veterans
   - Vocational rehabilitation
   - Wages
-  misc:
-    Disclosure Officer:
-      name: Cynthia Sydnor/Denise Nelson
-      phone:
-      - 202-874-5602
-  name: Bureau of Fiscal Services
+  name: Bureau of the Fiscal Service
   phone: 202-874-5602
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
-  request_form: http://www.fms.treas.gov/foia/request.html
+    - 202-622-0930
+  request_form: Fiscal Service FOIA On Line Request Form
   service_center:
     phone:
     - 202-874-5602
   top_level: false
-  website: http://www.fms.treas.gov/foia/index.html
+  usa_id: '88999'
+  website: http://www.fiscal.treasury.gov/
 - abbreviation: IRS
   address:
     address_lines:
+    - Rhonda O'Reilly
     - FOIA Contact
     - HQ FOIA Stop 211
     city: Atlanta
@@ -491,19 +488,21 @@ departments:
   name: Internal Revenue Service - Headquarters Office
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-317-3475
+  phone: 860-756-4673
   public_liaison:
+    name: Rhonda O'Reilly
     phone:
-    - 202-317-3475
+    - 860-756-4673
   reading_rooms:
   - - Electronic Reading Room
     - http://www.irs.gov/uac/Electronic-Reading-Room
+  request_form: IRS FOIA Fax Request
   service_center:
     phone:
-    - 202-317-3475
+    - 860-756-4673
   top_level: true
   usa_id: '48068'
-  website: http://www.irs.gov/uac/IRS-Freedom-of-Information
+  website: http://www.irs.gov/foia
 - address:
     address_lines:
     - Kathleen Saunders-Mitchell
@@ -526,16 +525,17 @@ departments:
   public_liaison:
     name: Ryan Law
     phone:
-    - 202-622-8098
+    - 202-622-0930
   reading_rooms:
   - - The Electronic Reading Room
     - http://www.usmint.gov/FOIA/?action=room
+  request_form: US Mint FOIA On Line Request Form
   service_center:
     phone:
     - 202-354-6788
   top_level: true
   usa_id: '48150'
-  website: http://www.usmint.gov/FOIA/
+  website: http://www.usmint.gov/FOIA
 - address:
     address_lines:
     - Amy P. Jones
@@ -559,14 +559,12 @@ departments:
     name: Amy P. Jones
     phone:
     - 202-622-4068
-  reading_rooms:
-  - - FOIA Library
-    - http://www.treasury.gov/tigta/important_foia_err.shtml
+  request_form: TIGTA FOIA On Line Request Form
   service_center:
     phone:
     - 202-622-4068
   top_level: false
-  website: http://www.treasury.gov/tigta/important_foia.shtml
+  website: http://www.treasury.gov/tigta/important_foia
 description: The Department of the Treasury manages Federal finances by collecting
   taxes and paying bills and by managing currency, government accounts and public
   debt. The Department of the Treasury also enforces finance and tax laws.
@@ -602,6 +600,7 @@ keywords:
 - Authority delegations (Government agencies)
 - Bank deposit insurance
 - Bankruptcy
+- Banks, banking
 - Beer
 - Biologics
 - Black lung benefits

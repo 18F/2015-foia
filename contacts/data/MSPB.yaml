@@ -1,16 +1,8 @@
 abbreviation: MSPB
-address:
-  address_lines:
-  - Bernard Parker
-  - FOIA Public Liaiso, Office of the Clerk
-  city: Washington
-  state: DC
-  street: 1615 M Street, NW
-  zip: '20419'
 departments:
 - address:
     address_lines:
-    - Bernard Parker
+    - Darryl Aaron
     - FOIA Public Liaison, Office of the Clerk
     city: Washington
     state: DC
@@ -27,7 +19,7 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Darryl Aaron
     phone:
     - 202-254-4475
   top_level: false
@@ -57,14 +49,14 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Yvonnie Ellis
     phone:
     - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
     address_lines:
-    - Betty Capis
+    - Darryl Aaron
     - FOIA Liaison
     - 31st Floor
     city: Chicago
@@ -82,12 +74,12 @@ departments:
   name: Central Regional Office
   phone: 312-353-2924 x3113
   public_liaison:
-    name: Betty Caplis
+    name: Darryl Aaron
     phone:
     - 312-353-2924 x3113
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Darryl Aaron
     phone:
     - 202-254-4475
   top_level: false
@@ -117,7 +109,7 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Marie Sumner
     phone:
     - 202-254-4475
   top_level: false
@@ -147,14 +139,14 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Dennis Matthews
     phone:
     - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
     address_lines:
-    - Bobbie Williams
+    - Ann Fluellen
     - FOIA Liaison
     - Room 620
     city: Dallas
@@ -172,19 +164,19 @@ departments:
   name: Dallas Regional Office
   phone: 214-767-0810 x5100
   public_liaison:
-    name: Crystal Wilson
+    name: Darryl Aaron
     phone:
     - 214-767-0810 x5100
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Ann Fluellen
     phone:
     - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/contact/contact.htm#FOIA
 - address:
     address_lines:
-    - Joyce Thomas
+    - Nancy Bui
     - FOIA Liaison
     - Suite 2130
     city: San Francisco
@@ -207,7 +199,7 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Nancy Bui
     phone:
     - 202-254-4475
   top_level: false
@@ -237,7 +229,7 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Gwendolyn Gatling
     phone:
     - 202-254-4475
   top_level: false
@@ -266,7 +258,7 @@ departments:
     - 202-254-4474
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Bernard Parker
+    name: Nicole Remmich
     phone:
     - 202-254-4475
   top_level: false
@@ -276,7 +268,6 @@ description: 'The Merit Systems Protection Board is a quasi-judicial agency with
   merit systems in an effort to protect the rights of federal employees. '
 emails:
 - foiahq@mspb.gov
-fax: 202-653-7130
 keywords:
 - Administrative practice and procedure
 - Civil rights
@@ -289,11 +280,6 @@ keywords:
 - Veterans
 - Whistleblowing
 name: Merit Systems Protection Board
-phone: 202-653-7200
-public_liaison:
-  name: Bernard Parker
-  phone:
-  - 202-254-4475
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
@@ -379,10 +365,4 @@ request_time_stats:
     simple_highest_days: '51'
     simple_lowest_days: less than 1
     simple_median_days: '8'
-service_center:
-  name: Bernard Parker
-  phone:
-  - 202-254-4475
-top_level: false
 usa_id: '52630'
-website: http://www.mspb.gov/FOIA/foia.htm

@@ -20,6 +20,10 @@ departments:
       name: Tina Ballard
       phone:
       - 703-603-7740
+    FOIA Administrator:
+      name: Wakita C. Wilson
+      phone:
+      - 703-603-7740
   name: Committee for Purchase from People Who Are Blind or Severely Disabled
   phone: 703-603-7740
   public_liaison:
@@ -28,7 +32,7 @@ departments:
     - 703-603-7740
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.abilityone.gov/laws_and_regulations/foia_reading_room.html
+    - http://www.abilityone.gov/laws,_regulations_and_policy/foia_reading_room.html
   request_time_stats:
     '2008':
       complex_average_days: '16'
@@ -119,7 +123,7 @@ departments:
     - 703-603-7740
   top_level: false
   usa_id: '49157'
-  website: http://www.abilityone.gov/laws_and_regulations/foia.html
+  website: http://www.abilityone.gov/laws,_regulations_and_policy/foia.html
 description: The AbilityOne Commission creates job opportunities for people who are
   blind or have other significant disabilities in the manufacture and delivery of
   products and services to the Federal Government.

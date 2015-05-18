@@ -21,6 +21,10 @@ departments:
     FOIA Contact:
       phone:
       - 202-292-2600
+    Supervisory Government Information Specialist, Office of the Inspector General, U.S. Department of Justice:
+      name: Deborah Waller
+      phone:
+      - 202-616-1210
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
   reading_rooms:
@@ -90,7 +94,7 @@ departments:
       simple_median_days: '14'
   service_center:
     phone:
-    - 202-708-1613
+    - 202-616-1210
   top_level: false
   usa_id: '91390'
   website: https://www.ignet.gov/content/foia-0

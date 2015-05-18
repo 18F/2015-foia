@@ -21,15 +21,15 @@ departments:
   name: National Labor Relations Board
   notes: This agency has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-273-3840
+  phone: 202-273-3842
   public_liaison:
-    name: Diane Bridge
+    name: Diane L. Bridge
     phone:
     - 202-273-3851
   reading_rooms:
   - - E-Reading Room
     - http://www.nlrb.gov/news-outreach/foia/e-reading-room
-  request_form: http://www.nlrb.gov/news-outreach/foia/e-foia-request-form
+  request_form: http://www.nlrb.gov/e-foia-request-form
   request_time_stats:
     '2010':
       expedited_processing_average_days: '3'
@@ -86,7 +86,7 @@ departments:
       simple_median_days: '5'
   service_center:
     phone:
-    - 202-273-3843
+    - 202-273-1991
   top_level: false
   usa_id: '49523'
   website: http://www.nlrb.gov/FOIA/

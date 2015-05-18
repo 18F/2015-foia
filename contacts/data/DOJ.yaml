@@ -2,8 +2,8 @@ abbreviation: DOJ
 departments:
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -130,8 +130,8 @@ departments:
   website: http://www.justice.gov/ag/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -252,8 +252,8 @@ departments:
   website: http://www.justice.gov/dag/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -385,7 +385,7 @@ departments:
     phone:
     - 202-514-2692
   reading_rooms:
-  - - Electronic Reading Room
+  - - FOIA Library
     - http://www.justice.gov/atr/foia/foiaroom.html
   request_time_stats:
     '2008':
@@ -714,7 +714,7 @@ departments:
     address_lines:
     - Nelson D. Hermilla
     - Chief, FOI/PA Branch
-    - BICN Bldg., Room 3219B
+    - BICN Bldg., Room 3234
     city: Washington
     state: DC
     street: 950 Pennsylvania Avenue, NW
@@ -730,7 +730,7 @@ departments:
   name: Civil Rights Division
   phone: 202-514-4209
   public_liaison:
-    name: Sylvia Cabrera
+    name: April Freeman
     phone:
     - 202-514-4210
   request_time_stats:
@@ -910,8 +910,8 @@ departments:
     phone:
     - 202-616-0307
   reading_rooms:
-  - - FOIA Library
-    - http://www.justice.gov/criminal/foia/elect-read-room.html
+  - - FOIA Reading Room
+    - http://www.justice.gov/criminal/foia/foia-reading-room-tab.html
   request_time_stats:
     '2008':
       complex_average_days: '830'
@@ -1047,11 +1047,11 @@ departments:
       phone:
       - 202-305-7596
   name: Drug Enforcement Administration
-  phone: 202-305-7596
+  phone: 202-307-7596
   public_liaison:
-    name: Wanda Jones
+    name: Phyllis Scott-Drewery
     phone:
-    - 202-307-7623
+    - 202-307-7618
   reading_rooms: []
   request_time_stats:
     '2008':
@@ -1154,7 +1154,7 @@ departments:
     - 202-616-5515
   reading_rooms:
   - - 'FOIA Library:'
-    - http://www.justice.gov/enrd/Current_topics.html
+    - http://www.justice.gov/enrd/selected-publications
   request_time_stats:
     '2008':
       complex_highest_days: '218'
@@ -1280,7 +1280,7 @@ departments:
     - 703-605-1297
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/eoir/foia-lib.html
+    - http://www.justice.gov/eoir/freedom-of-information-act-library
   request_time_stats:
     '2008':
       complex_average_days: '84'
@@ -1645,12 +1645,10 @@ departments:
     state: VA
     street: 170 Marcel Drive
     zip: 22602-4843
-  description: As an intelligence-driven and a threat-focused national security organization
-    with both intelligence and law enforcement responsibilities, the mission of the
-    FBI is to protect and defend the United States against terrorist and foreign intelligence
-    threats, to uphold and enforce the criminal laws of the United States, and to
-    provide leadership and criminal justice services to federal, state, municipal,
-    and international agencies and partners.
+  description: The Federal Bureau of Investigation enforces federal law, investigating
+    a variety of criminal activity including terrorism, cybercrime, white collar crimes,
+    public corruption, civil rights violations, and other major crimes. </br></br><i>In
+    an emergency dial 911!</i>
   emails:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
@@ -1683,8 +1681,6 @@ departments:
     phone:
     - 540-868-4516
   reading_rooms:
-  - - FBI Headquarters FOIA Library
-    - http://www.fbi.gov/foia/fbi-headquarters-foia-library
   - - Vault
     - http://vault.fbi.gov/
   request_time_stats:
@@ -1788,8 +1784,8 @@ departments:
 - abbreviation: BOP
   address:
     address_lines:
-    - Wanda M. Hunt
-    - Chief, FOIA/PA Section
+    - Eugene Baime
+    - Supervisory Attorney
     - Room 924, HOLC Building
     city: Washington
     state: DC
@@ -1814,9 +1810,9 @@ departments:
   name: Federal Bureau of Prisons
   phone: 202-514-6655
   public_liaison:
-    name: Wilson Moorer
+    name: C. Darnell Stroble
     phone:
-    - 202-514-6655
+    - 202-616-7750
   request_form: http://www.bop.gov/foia/submit.jsp
   request_time_stats:
     '2008':
@@ -2103,11 +2099,11 @@ departments:
     address_lines:
     - Karen McFadden
     - FOIA Contact
-    - Room 8E.104, 2 Consitution Square
+    - Room 1111 RFK
     city: Washington
     state: DC
-    street: 145 N Street, NE
-    zip: '20530'
+    street: 950 Pennsylvania Avenue NW
+    zip: 20530-0001
   emails:
   - JMDFOIA@usdoj.gov
   fax: 202-616-6695
@@ -2121,7 +2117,7 @@ departments:
     & Management
   phone: 202-514-3101
   public_liaison:
-    name: Michael Allen
+    name: Karen McFadden
     phone:
     - 202-514-3101
   reading_rooms:
@@ -2323,9 +2319,9 @@ departments:
 - abbreviation: COPS
   address:
     address_lines:
-    - Melissa Fieri-Fetrow
-    - FOIA/PA Officer - Legal Division
-    - 'Two Constitution Square, #11E 1405'
+    - Chaun E. Eason
+    - FOIA Officer, Legal Division
+    - 'Two Constitution Square, #11E 129'
     city: Washington
     state: DC
     street: 145 N Street, NE
@@ -2342,9 +2338,9 @@ departments:
       phone:
       - 202-353-9864
   name: Office of Community Oriented Policing Services
-  phone: 202-514-1873
+  phone: 202-616-0825
   public_liaison:
-    name: Melissa Fieri-Fetrow
+    name: Melissa FieriFetrow
     phone:
     - 202-514-1873
   request_time_stats:
@@ -2391,8 +2387,8 @@ departments:
   website: http://www.cops.usdoj.gov/Default.asp?Item=40
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -2410,6 +2406,9 @@ departments:
     name: Laurie A. Day
     phone:
     - 202-514-3642
+  reading_rooms:
+  - - FOIA Library
+    - http://www.justice.gov/oip/foia-library
   request_form: http://www.justice.gov/oip/oip-request.html
   request_time_stats:
     '2008':
@@ -2490,7 +2489,7 @@ departments:
     phone:
     - 202-616-5459
   top_level: false
-  website: http://www.justice.gov/oip/
+  website: http://www.justice.gov/oip/oip-foia
 - address:
     address_lines:
     - Deborah M. Waller
@@ -2516,7 +2515,7 @@ departments:
     - 202-616-0646
   reading_rooms:
   - - 'FOIA Library:'
-    - http://www.justice.gov/oig/foia/eroom.htm
+    - https://oig.justice.gov/foia/eroom.htm
   request_time_stats:
     '2008':
       simple_average_days: '23'
@@ -2634,11 +2633,11 @@ departments:
       phone:
       - 202-616-3267
   name: Office of Justice Programs
-  phone: 202-616-3267
+  phone: 202-307-6235
   public_liaison:
-    name: George Pruden
+    name: Carolyn Kennedy
     phone:
-    - 202-616-3267
+    - 202-307-0790
   reading_rooms:
   - - FOIA Library
     - http://ojp.gov/about/foia/reading_room.htm
@@ -2714,8 +2713,8 @@ departments:
   website: http://www.ojp.usdoj.gov/about/foia/foia.htm
 - address:
     address_lines:
-    - Bette Farris
-    - Supervisory Paralegal
+    - Melissa Kassier
+    - Lead Paralegal and FOIA Specialist
     - Room 5515
     city: Washington
     state: DC
@@ -2731,7 +2730,7 @@ departments:
   name: Office of Legal Counsel
   phone: 202-514-2038
   public_liaison:
-    name: Lawan Robinson
+    name: Melissa Kassier
     phone:
     - 202-353-0258
   reading_rooms:
@@ -2826,8 +2825,8 @@ departments:
   website: http://www.justice.gov/olc/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -2938,8 +2937,8 @@ departments:
   website: http://www.justice.gov/olp/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -3061,13 +3060,13 @@ departments:
   website: http://www.justice.gov/ola/ola-foia.htm
 - address:
     address_lines:
-    - Linda M.V. Bowe
-    - FOIA Officer
-    - Suite 11000
+    - Eva Torrales
+    - Paralegal Specialist
+    - '#5E.508'
     city: Washington
     state: DC
-    street: 1425 New York Avenue, NW
-    zip: 20530-0001
+    street: 145 N Street, NE
+    zip: '20530'
   description: The Office of the Pardon Attorney assists the president in the exercise
     of executive clemency by reviewing clemency applications and making recommendations.
   emails:
@@ -3080,7 +3079,7 @@ departments:
   name: Office of the Pardon Attorney
   phone: 202-616-6070
   public_liaison:
-    name: Linda M.V. Bowe
+    name: Eva Torrales
     phone:
     - 202-616-6070
   reading_rooms:
@@ -3251,8 +3250,8 @@ departments:
   website: http://www.justice.gov/opr/foia.htm
 - address:
     address_lines:
-    - Carmen L. Mallon
-    - Chief of Staff, Office of Information Policy
+    - Laurie Day
+    - Chief, Initial Request Staff
     - Suite 11050
     city: Washington
     state: DC
@@ -3363,7 +3362,7 @@ departments:
   website: http://www.justice.gov/opa/readingroom/pub_aff.htm
 - address:
     address_lines:
-    - James K. Davis
+    - Mary Cornaby
     - FOIA Coordinator
     city: Washington
     state: DC
@@ -3652,7 +3651,7 @@ departments:
     - 202-307-0462
   reading_rooms:
   - - FOIA Library
-    - http://www.justice.gov/tax/readingroom/foia/tax.htm
+    - http://www.justice.gov/tax/foia-library
   request_time_stats:
     '2008':
       complex_average_days: '132'
@@ -3730,11 +3729,10 @@ departments:
     address_lines:
     - William E. Bordley
     - Associate General Counsel, Office of General Counsel
-    - FOIA/PA, CS 4, 10th Floor
-    city: Alexandria
-    state: VA
-    street: 2604 Jefferson Davis Highway
-    zip: '22301'
+    city: Washington
+    state: DC
+    street: FOIA/PA, CS 4 10th Floor
+    zip: 20530-1000
   description: Part of the Department of Justice, the Marshals Service is responsible
     for providing security to the federal judiciary, managing the witness security
     program, managing and selling the seized or forfeited assets of criminals, is
@@ -3955,7 +3953,6 @@ description: The Department of Justice works to enforce federal law, to seek jus
   justice.
 emails:
 - MRUFOIA.Requests@usdoj.gov
-fax: 301-341-0772
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -4055,6 +4052,7 @@ keywords:
 - Hospitals
 - Human research subjects
 - Immigration
+- Immunization
 - Imports
 - Income taxes
 - Indians
@@ -4088,6 +4086,7 @@ keywords:
 - Motor vehicles
 - Nonprofit organizations
 - Northern Mariana Islands
+- Nuclear energy
 - Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
@@ -4153,10 +4152,10 @@ keywords:
 - Wiretapping and electronic surveillance
 - Women
 name: Department of Justice
-phone: 301-583-7354
+phone: 202-616-3847
 public_liaison:
   phone:
-  - 301-583-7354
+  - 202-616-3847
 request_time_stats:
   '2008':
     complex_average_days: '272.69'
@@ -4251,6 +4250,6 @@ request_time_stats:
     simple_median_days: '16'
 service_center:
   phone:
-  - 301-583-7354
+  - 202-616-3847
 top_level: false
 usa_id: '52686'

@@ -4,7 +4,7 @@ departments:
     address_lines:
     - Paul Zimmerman
     - General Counsel
-    - 12th Floor North, Suite 1200
+    - Suite 1200 North
     city: Washington
     state: DC
     street: 1331 Pennsylvania, NW
@@ -22,7 +22,7 @@ departments:
   name: Inter-American Foundation
   phone: 202-683-7118
   public_liaison:
-    name: Jake Sgambati
+    name: Lesley Duncan
     phone:
     - 202-688-3047
   reading_rooms:
@@ -97,8 +97,7 @@ departments:
       simple_lowest_days: '12'
       simple_median_days: '31'
   service_center:
-    phone:
-    - 202-683-7117
+    name: Paul Zimmerman
   top_level: false
   usa_id: '49404'
   website: http://www.iaf.gov/index.aspx?page=22

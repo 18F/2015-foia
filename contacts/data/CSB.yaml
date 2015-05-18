@@ -2,9 +2,9 @@ abbreviation: CSB
 departments:
 - address:
     address_lines:
-    - Chris Warner
-    - CSB FOIA Officer
-    - Suite C-100
+    - Richard C. Loeb
+    - CSB Chief FOIA Officer
+    - Suite 400
     city: Washington
     state: DC
     street: 2175 K Street, NW
@@ -12,15 +12,15 @@ departments:
   description: The Chemical Safety and Hazard Investigation Board investigates industrial
     chemical accidents.
   emails: []
-  fax: 202-974-7619
+  fax: 202-974-7623
   foia_officer:
     name: Chris Warner
     phone:
     - 202-261-7619
   name: Chemical Safety and Hazard Investigation Board
-  phone: 202-261-7619
+  phone: 202-261-7623
   public_liaison:
-    name: Chris Warner
+    name: Richard C. Loeb
     phone:
     - 202-261-7619
   request_time_stats:
@@ -112,6 +112,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '1'
   service_center:
+    name: Michele Bouziane
     phone:
     - 202-261-7619
   top_level: false

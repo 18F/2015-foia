@@ -25,16 +25,16 @@ departments:
       phone:
       - 202-326-2430
   name: Federal Trade Commission
-  phone: 202-326-3254
+  phone: 202-326-2735
   public_liaison:
     name: Richard Gold
     phone:
     - 202-326-3355
   reading_rooms:
   - - FOIA Reading Rooms
-    - http://www.ftc.gov/about-ftc/foia/foia-reading-rooms
+    - https://www.ftc.gov/about-ftc/foia/foia-reading-rooms
   - - OIG Reading Room
-    - http://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
+    - https://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
   request_form: https://ftc.gov/ftc/foia.htm
   request_time_stats:
     '2008':
@@ -129,6 +129,7 @@ keywords:
 - Advertising
 - Antitrust
 - Bank deposit insurance
+- Banks, banking
 - Blind
 - Brokers
 - Business and industry

@@ -114,7 +114,7 @@ departments:
   website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
 - address:
     address_lines:
-    - Angel Simmons
+    - Vacant
     - FOIA Officer
     - 7th Floor
     city: Washington
@@ -206,7 +206,7 @@ departments:
       simple_lowest_days: less than 1
       simple_median_days: '12'
   service_center:
-    name: Angel Simmons
+    name: Vacant
     phone:
     - 202-366-6131
   top_level: false
@@ -214,6 +214,7 @@ departments:
 - abbreviation: FAA
   address:
     address_lines:
+    - Duke Taylor
     - FOIA Coordinator
     - National FOIA Staff (AFN-140)
     city: Washington
@@ -314,7 +315,7 @@ departments:
     visiting its website.
   phone: 202-267-9165
   public_liaison:
-    name: Melanie Yohe
+    name: Duke Taylor
     phone:
     - 202-267-7799
   reading_rooms:
@@ -432,7 +433,7 @@ departments:
     in the design, construction, and maintenance of the highway system.
   emails:
   - foia.officer@fhwa.dot.gov
-  fax: 202-366-1380
+  fax: 202-366-1938
   keywords:
   - Accounting
   - Alcohol and alcoholic beverages
@@ -716,7 +717,7 @@ departments:
     - 202-493-6065
   top_level: false
   usa_id: '49318'
-  website: http://www.fra.dot.gov/Page/P0387
+  website: http://www.fra.dot.gov/Page/P0386
 - abbreviation: FTA
   address:
     address_lines:
@@ -1298,7 +1299,7 @@ departments:
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
     address_lines:
-    - Vacant
+    - Madeline Bush
     - FOIA Officer
     - E23-306
     city: Washington
@@ -1359,7 +1360,7 @@ departments:
   - Uranium
   - Water pollution control
   name: Pipeline and Hazardous Materials Safety Administration
-  phone: 202-366-6119
+  phone: 202-366-0273
   public_liaison:
     name: Patricia Klinger
     phone:
@@ -1467,18 +1468,18 @@ departments:
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
     address_lines:
-    - Carrie Lavigne
+    - Ian Serguson
     - FOIA/PA Contact
-    city: Massena
-    state: NY
-    street: P.O. Box 520
-    zip: 13662-0520
+    city: Washington
+    state: DC
+    street: 1200 New Jersey Avenue, SE
+    zip: '20590'
   description: Working in concert with its Canadian counterpart, the Saint Lawrence
     Seaway Development Corporation works to operate and maintain a safe, reliable,
     efficient waterway between the Great Lakes and the Atlantic Ocean.
   emails:
   - slsdc@dot.gov
-  fax: 315-764-3235
+  fax: 202-366-6448
   keywords:
   - Hazardous materials transportation
   - Navigation (water)
@@ -1493,11 +1494,14 @@ departments:
       phone:
       - 315-764-3210
   name: Saint Lawrence Seaway Development Corporation
-  phone: 315-764-3210
+  phone: 202-366-6510
   public_liaison:
     name: Fern Kaufman
     phone:
     - 202-366-8067
+  reading_rooms:
+  - - Electronic Reading Room
+    - http://www.seaway.dot.gov/publications/electronic-reading-room
   request_time_stats:
     '2008':
       simple_average_days: '25'
@@ -1548,10 +1552,10 @@ departments:
       simple_median_days: '12'
   service_center:
     phone:
-    - 315-764-3275
+    - 202-366-6510
   top_level: false
   usa_id: '49656'
-  website: http://www.dot.gov/foia/foia_contacts.htm
+  website: http://www.seaway.dot.gov/publications/electronic-reading-room
 - abbreviation: STB
   address:
     address_lines:

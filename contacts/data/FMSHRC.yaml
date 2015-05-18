@@ -2,7 +2,7 @@ abbreviation: FMSHRC
 departments:
 - address:
     address_lines:
-    - Linda H. Ghosal
+    - Stacey Demps-Barrett
     - Chief FOIA Officer
     - Suite 520N
     city: Washington
@@ -28,6 +28,7 @@ departments:
   reading_rooms:
   - - E-Reading Room
     - http://www.fmshrc.gov/foia/e-reading-room
+  request_form: http://www.fmshrc.gov/foia/foia-request-form
   request_time_stats:
     '2008':
       complex_average_days: '0'

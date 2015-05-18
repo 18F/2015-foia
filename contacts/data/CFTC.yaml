@@ -4,11 +4,11 @@ departments:
   address:
     address_lines:
     - FOIA Contact
-    - CFTC FOIA Compliance Office
-    - Three Lafayette Centre,
+    - CFTC FOIA Office
+    - Three Lafayette Centre
     city: Washington
     state: DC
-    street: 1155 21st Street, NW
+    street: 1155 21st Street, N.W.
     zip: '20581'
   description: The mission of the CFTC is to protect market users and the public from
     fraud, manipulation, and abusive practices related to the sale of commodity and
@@ -121,6 +121,7 @@ keywords:
 - Antitrust
 - Authority delegations (Government agencies)
 - Bankruptcy
+- Banks, banking
 - Brokers
 - Business and industry
 - Claims

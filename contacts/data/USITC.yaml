@@ -15,14 +15,14 @@ departments:
     may implement corrective measures. The Commission also provides the President
     and Congress impartial information on international trade to inform trade policy.
   emails:
-  - jackie.gross@usitc.gov
+  - lisa.barton@usitc.gov
   fax: 202-205-2104
   foia_officer:
     name: Lisa R. Barton
     phone:
     - 202-205-2000
   name: United States International Trade Commission
-  phone: 202-205-2000
+  phone: 202-205-2595
   public_liaison:
     name: Jacqueline N. Gross
     phone:
@@ -124,6 +124,7 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '11'
   service_center:
+    name: N/A
     phone:
     - 202-205-2595
   top_level: false

@@ -2,8 +2,8 @@ abbreviation: NCUA
 departments:
 - address:
     address_lines:
-    - Lara Rodriguez
-    - Staff Attorney/FOIA Officer, Office of General Counsel
+    - Regina Metz
+    - FOIA Officer / Staff Attorney
     city: Alexandria
     state: VA
     street: 1775 Duke Street
@@ -22,7 +22,7 @@ departments:
     phone:
     - 703-518-6540
   service_center:
-    name: Regina Metz
+    name: Charles Smith
     phone:
     - 703-518-6540
   top_level: false
@@ -30,26 +30,26 @@ departments:
 - address:
     address_lines:
     - Sharon Separ
-    - Staff Attorney/FOIA Officer, Office of the Inspector General
+    - Counsel to the Inspector General / Assistant IG for Investigations
     city: Alexandria
     state: VA
     street: 1775 Duke Street
     zip: '22314'
   emails:
-  - FOIA@ncua.gov
+  - oigmail@ncua.gov
   fax: 703-518-6349
   foia_officer:
     name: Sharon Separ
     phone:
     - 703-518-6540
   name: Office of the Inspector General
-  phone: 703-518-6540
+  phone: 703-518-6350
   public_liaison:
     phone:
-    - 703-518-6540
+    - 703-518-6350
   service_center:
     phone:
-    - 703-518-6540
+    - 703-518-6350
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
 description: NCUA is the federal agency that charters and supervises federal credit
@@ -65,6 +65,7 @@ keywords:
 - Archives and records
 - Authority delegations (Government agencies)
 - Bank deposit insurance
+- Banks, banking
 - Bonds
 - Brokers
 - Civil rights

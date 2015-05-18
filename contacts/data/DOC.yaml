@@ -148,11 +148,11 @@ departments:
   website: http://www.census.gov/foia/
 - address:
     address_lines:
-    - Pamela Moulder
+    - Jacque Mason
     - Office of the Under Secretary for Economic Affairs
     city: Washington
     state: DC
-    street: Rom 4836
+    street: Rom 4857
     zip: '20230'
   description: The Economics and Statistics Administration provides economic analysis,
     distributes national economic indicators, and oversees the Census Bureau.
@@ -165,11 +165,11 @@ departments:
       phone:
       - 202-482-5997
   name: Economics and Statistics Administration Bureau
-  phone: 202-482-5997
+  phone: 202-482-5641
   public_liaison:
-    name: Pamela Moulder
+    name: Jacque Mason
     phone:
-    - 202-482-5997
+    - 202-482-5641
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -261,7 +261,7 @@ departments:
       simple_median_days: '4'
   service_center:
     phone:
-    - 202-482-5997
+    - 202-482-5641
   top_level: false
   usa_id: '49243'
   website: https://www.esa.doc.gov/freedom-information-act
@@ -595,6 +595,7 @@ departments:
   - Customs duties and inspection
   - Educational facilities
   - Emergency powers
+  - Foreign trade
   - Freedom of information
   - Guam
   - Imports
@@ -716,26 +717,28 @@ departments:
 - abbreviation: MBDA
   address:
     address_lines:
-    - Clara Colbert
+    - Josephine Arnold
     - FOIA Officer
     city: Washington
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
-  description: By providing technical assistance and access to capital, contract opportunities,
+  description: By providing techincal assistance and access to capital, contract opportunities,
     and new markets, the Minority Business Development Agency promotes the growth
     of businesses owned and operated by members of the minority and Diaspora communities.
-  fax: 202-482-2798
+  emails:
+  - FOIA@mbda.gov
+  fax: 202-482-2419
   foia_officer:
     name: Clara Colbert
     phone:
     - 202-481-5045
   name: Minority Business Development Agency
-  phone: 202-481-5045
+  phone: 202-482-2419
   public_liaison:
     name: Josephine Arnold
     phone:
-    - 202-482-5461
+    - 202-482-2419
   reading_rooms:
   - - FOIA Reading Room
     - http://www.mbda.gov/freedom-information-act-reading-room
@@ -829,7 +832,7 @@ departments:
       simple_median_days: '37'
   service_center:
     phone:
-    - 202-482-5045
+    - 202-482-2419
   top_level: true
   usa_id: '49464'
   website: http://www.mbda.gov/freedom-information-act-reading-room
@@ -986,6 +989,8 @@ departments:
   emails:
   - LHalvorsen@ntis.gov
   fax: 703-605-6764
+  keywords:
+  - Administrative practice and procedure
   misc:
     FOIA Contact:
       name: Lee Halvorsen
@@ -994,9 +999,9 @@ departments:
   name: National Technical Information Service
   phone: 703-605-6710
   public_liaison:
-    name: Steve Needle
+    name: Lee Halvorsen
     phone:
-    - 703-605-6404
+    - 703-605-6710
   reading_rooms:
   - - NTIS FOIA Electronic Reading Room
     - http://www.ntis.gov/about/foia/
@@ -1090,7 +1095,7 @@ departments:
       simple_median_days: '18'
   service_center:
     phone:
-    - 703-605-6404
+    - 703-605-6710
   top_level: true
   usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
@@ -1241,7 +1246,7 @@ departments:
 - abbreviation: NOAA
   address:
     address_lines:
-    - Wendy Schumacher
+    - Robert Swisher
     - FOIA Contact
     - Room 9719 - NOAA FOIA Office (SOU 10000)
     city: Silver Spring
@@ -1327,7 +1332,7 @@ departments:
       phone:
       - 301-713-3540
   name: National Oceanic and Atmospheric Administration
-  phone: 301-713-3540
+  phone: 301-628-5755
   public_liaison:
     name: Robert Swisher
     phone:
@@ -1430,14 +1435,14 @@ departments:
       simple_median_days: '9'
   service_center:
     phone:
-    - 301-713-3540
+    - 301-628-5755
   top_level: true
   usa_id: '49530'
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
   address:
     address_lines:
-    - Kathryn Siehndel
+    - Ricou Heaton
     - FOIA Contact
     city: Alexandria
     state: VA
@@ -1450,6 +1455,7 @@ departments:
   fax: 571-501-7335
   keywords:
   - Administrative practice and procedure
+  - Authority delegations (Government agencies)
   - Biologics
   - Claims
   - Classified information
@@ -1578,7 +1584,7 @@ departments:
   website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
 - address:
     address_lines:
-    - Laura Bell
+    - Raman Santra
     - FOIA Officer
     - Room 7099
     city: Washington
@@ -1593,11 +1599,11 @@ departments:
     phone:
     - 202-482-3470
   name: Office of Inspector General
-  phone: 202-482-3470
+  phone: 202-482-5992
   public_liaison:
-    name: Laura Bell
+    name: Raman Santra
     phone:
-    - 202-482-3470
+    - 202-482-5992
   reading_rooms:
   - - FOIA Electronic Reading Room
     - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
@@ -1696,7 +1702,7 @@ departments:
       simple_median_days: '1'
   service_center:
     phone:
-    - 202-482-3470
+    - 202-482-5992
   top_level: false
   website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
@@ -1744,6 +1750,7 @@ departments:
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
+  - Banks, banking
   - Black lung benefits
   - Blind
   - Brokers
@@ -1762,9 +1769,11 @@ departments:
   - Claims
   - Classified information
   - Coal
+  - Coastal zone
   - Colleges and universities
   - Communications equipment
   - Community development
+  - Community development block grants
   - Computer technology
   - Concessions
   - Confidential business information
@@ -1785,6 +1794,7 @@ departments:
   - Defense communications
   - Dental health
   - Disability benefits
+  - Domestic violence
   - Drug abuse
   - Drug testing
   - Drugs
@@ -1813,6 +1823,7 @@ departments:
   - Fire prevention
   - Firefighters
   - Fisheries
+  - Flood plains
   - Food assistance programs
   - Foreign relations
   - Forests and forest products
@@ -2116,6 +2127,7 @@ keywords:
 - Antarctica
 - Antidumping
 - Arms and munitions
+- Authority delegations (Government agencies)
 - Biologics
 - Blind
 - Boycotts
