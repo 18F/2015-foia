@@ -144,6 +144,15 @@ class USALayerTests(TestCase):
             expected_data
         )
 
+    def test_update_dict_descriptions(self):
+        """ Check that description are not overwritten """
+        old_data = {'description': 'des'}
+        new_data = {'description': 'new description', 'usa_id': '1'}
+        self.assertEqual(
+            usa_layer.update_dict(old_data=old_data, new_data=new_data),
+            {'description': 'des', 'usa_id': '1'}
+        )
+
     def test_write_yaml(self):
         """ Test if yaml file is written """
 

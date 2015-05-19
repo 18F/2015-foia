@@ -109,7 +109,7 @@ def update_dict(old_data, new_data):
     """
 
     old_data['usa_id'] = new_data.get('usa_id')
-    if new_data.get('description'):
+    if new_data.get('description') and not old_data.get('description'):
         old_data['description'] = new_data.get('description')
     if new_data.get('abbreviation') and not old_data.get('abbreviation'):
         old_data['abbreviation'] = new_data['abbreviation']

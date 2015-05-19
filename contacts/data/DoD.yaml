@@ -9,8 +9,13 @@ departments:
     state: DC
     street: 1155 Defense Pentagon
     zip: 20301-1155
-  description: The Joint Chiefs of Staff coordinate planning and strategy across the
-    military services.
+  description: This Requester Service Center (RSC) processes Freedom of Information
+    Act (FOIA) requests for records related to the Office of the Secretary of Defense
+    and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM),
+    and other specific OSD components.* This RSC does not process FOIA requests for
+    the entire Department of Defense (DoD). Please direct requests related to the
+    Military Services, Combatant Commands, or other Defense Agencies, to the appropriate
+    organization/component that maintains the record(s) of interest.
   emails:
   - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
   fax: 571-372-0500
