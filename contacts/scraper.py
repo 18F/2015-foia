@@ -427,7 +427,7 @@ def save_agency(abb):
         body = ""
         body = download_agency(abb)
         if body:
-            with open(html_path, 'w') as f:
+            with open(html_path, 'wb') as f:
                 f.write(body)
             logging.info("[%s] Downloaded.", abb)
         else:
@@ -436,7 +436,7 @@ def save_agency(abb):
     else:
         logging.info("[%s] Already downloaded.", abb)
 
-    with open(html_path, 'r') as f:
+    with open(html_path, 'rb') as f:
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
@@ -473,7 +473,7 @@ def agency_url(abb):
 def download_agency(abb):
     """Agency HTML files"""
     url = agency_url(abb)
-    return urlopen(url).read().decode("utf-8")
+    return urlopen(url).read()
 
 
 if __name__ == "__main__":

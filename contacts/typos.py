@@ -2,5 +2,6 @@
 
 # see http://foia.msfc.nasa.gov/reading.html
 REPLACEMENTS = {
-    "(256) 544-007 ": "(256) 544-0007 "
+    #TODO this typo still exists in NASA.html
+    #"(256) 544-007 ": "(256) 544-0007 "
 }
