@@ -15,7 +15,7 @@ import yaml
 import typos
 
 
-# http://www.foia.gov/foiareport.js
+# https://www.foia.gov/foiareport.js
 # Excludes "ALL" (All agencies, though it's not, really).
 # Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
 # General for Iraq Reconstruction, which no longer accepts FOIA requests.
@@ -176,7 +176,7 @@ def find_emails(lines, ps):
             a = ps[idx].a
             if a:
                 emails_str = a["href"].replace("mailto:", "").strip()
-                if "http://" not in emails_str:
+                if not re.search('https?://', emails_str):
                     emails.extend(re.split(r";\s*", emails_str))
             else:
                 raise Exception("Error extracting email", line, idx,
@@ -467,7 +467,7 @@ def save_agencies():
 def agency_url(abb):
     """Construct download url, add cache busting -- the site does this too"""
     params = {"agency": abb, "Random": randint(1, 1000)}
-    return "http://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
+    return "https://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
 
 
 def download_agency(abb):
