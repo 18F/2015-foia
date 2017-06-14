@@ -158,6 +158,8 @@ def split_address_from(lines):
             remaining.append(line)
         elif PHONE_RE.search(line) and any(q in line.lower() for q in cues):
             remaining.append(line)
+        elif re.match('Website:', line):
+            remaining.append(line)
         else:
             # Separate line breaks
             address_list.extend(re.split(r"[\n\r]+", line))
