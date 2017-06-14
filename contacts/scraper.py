@@ -29,7 +29,7 @@ AGENCIES = [
     'FOMC', 'FRB', 'FRTIB', 'FTC', 'GSA', 'IMLS', 'IAF', 'LSC', 'MSPB', 'MCC',
     'NASA', 'NARA', 'NCPC', 'NCUA', 'NEA', 'NEH', 'NIGC', 'NLRB', 'NMB',
     'NSF', 'NTSB', 'USNRC', 'OSHRC', 'OGE', 'ONHIR', 'OPM', 'OSC', 'ODNI',
-    'OPIC', 'PC', 'PCLOB', 'PBGC', 'PRC', 'US RRB', 'SEC', 'SSS',
+    'OPIC', 'PC', 'PCLOB', 'PBGC', 'PRC', 'RATB', 'US RRB', 'SEC', 'SSS',
     'SBA', 'SSA', 'SIGAR', 'STB', 'TVA', 'US ADF', 'CO', 'USIBWC', 'USITC',
     'USPS', 'USTDA']
 
@@ -426,10 +426,14 @@ def save_agency(abb):
     os.makedirs('html', exist_ok=True)
     html_path = "html" + os.sep + "%s.html" % abb
     if not os.path.isfile(html_path):
-        body = ""
-        body = download_agency(abb)
+        try:
+            body = download_agency(abb)
+        except AssertionError:
+            # Ignore any download errors for a single agency and continue on
+            body = None
+
         if body:
-            with open(html_path, 'wb') as f:
+            with open(html_path, 'w', encoding='utf8') as f:
                 f.write(body)
             logging.info("[%s] Downloaded.", abb)
         else:
@@ -438,7 +442,7 @@ def save_agency(abb):
     else:
         logging.info("[%s] Already downloaded.", abb)
 
-    with open(html_path, 'rb') as f:
+    with open(html_path, 'r', encoding='utf8') as f:
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
@@ -475,7 +479,14 @@ def agency_url(abb):
 def download_agency(abb):
     """Agency HTML files"""
     url = agency_url(abb)
-    return urlopen(url).read()
+    response = urlopen(url)
+    assert response.status == 200, "Unexpected HTTP status."
+
+    # No encoding is specified, but at least USDA's National Finance Center is known to contain latin1 encoding
+    body = response.read().decode('latin1')
+    assert not re.search('<title>Request Rejected</title>', body), "Request rejected error."
+
+    return body
 
 
 if __name__ == "__main__":
