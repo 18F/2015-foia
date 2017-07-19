@@ -15,7 +15,7 @@ import yaml
 import typos
 
 
-# http://www.foia.gov/foiareport.js
+# https://www.foia.gov/foiareport.js
 # Excludes "ALL" (All agencies, though it's not, really).
 # Excludes " ", which in `agenciesAb` is "SIGIR", the Special Inspector
 # General for Iraq Reconstruction, which no longer accepts FOIA requests.
@@ -158,6 +158,8 @@ def split_address_from(lines):
             remaining.append(line)
         elif PHONE_RE.search(line) and any(q in line.lower() for q in cues):
             remaining.append(line)
+        elif re.match('Website:', line):
+            remaining.append(line)
         else:
             # Separate line breaks
             address_list.extend(re.split(r"[\n\r]+", line))
@@ -176,7 +178,7 @@ def find_emails(lines, ps):
             a = ps[idx].a
             if a:
                 emails_str = a["href"].replace("mailto:", "").strip()
-                if "http://" not in emails_str:
+                if not re.search('https?://', emails_str):
                     emails.extend(re.split(r";\s*", emails_str))
             else:
                 raise Exception("Error extracting email", line, idx,
@@ -424,10 +426,14 @@ def save_agency(abb):
     os.makedirs('html', exist_ok=True)
     html_path = "html" + os.sep + "%s.html" % abb
     if not os.path.isfile(html_path):
-        body = ""
-        body = download_agency(abb)
+        try:
+            body = download_agency(abb)
+        except AssertionError:
+            # Ignore any download errors for a single agency and continue on
+            body = None
+
         if body:
-            with open(html_path, 'w') as f:
+            with open(html_path, 'w', encoding='utf8') as f:
                 f.write(body)
             logging.info("[%s] Downloaded.", abb)
         else:
@@ -436,7 +442,7 @@ def save_agency(abb):
     else:
         logging.info("[%s] Already downloaded.", abb)
 
-    with open(html_path, 'r') as f:
+    with open(html_path, 'r', encoding='utf8') as f:
         text = f.read()
     text = fix_known_typos(text)
     data = parse_agency(abb, BeautifulSoup(text))
@@ -467,13 +473,20 @@ def save_agencies():
 def agency_url(abb):
     """Construct download url, add cache busting -- the site does this too"""
     params = {"agency": abb, "Random": randint(1, 1000)}
-    return "http://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
+    return "https://www.foia.gov/foia/FoiaMakeRequest?" + urlencode(params)
 
 
 def download_agency(abb):
     """Agency HTML files"""
     url = agency_url(abb)
-    return urlopen(url).read().decode("utf-8")
+    response = urlopen(url)
+    assert response.status == 200, "Unexpected HTTP status."
+
+    # No encoding is specified, but at least USDA's National Finance Center is known to contain latin1 encoding
+    body = response.read().decode('latin1')
+    assert not re.search('<title>Request Rejected</title>', body), "Request rejected error."
+
+    return body
 
 
 if __name__ == "__main__":
