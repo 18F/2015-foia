@@ -12,8 +12,8 @@ import yaml
 """ This script scrapes processing times data from foia.gov and dumps
     the data in both the yaml files and `request_time_data.csv`."""
 
-PROCESSING_TIMES_URL = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
-YEARS_URL = 'http://www.foia.gov/data.html'
+PROCESSING_TIMES_URL = "https://www.foia.gov/foia/Services/DataProcessTime.jsp"
+YEARS_URL = 'https://www.foia.gov/data.html'
 
 
 def load_mapping(years=None):
@@ -222,7 +222,7 @@ def get_key_values(row_items, columns, year, title):
 def parse_html(html, params, data):
     """ Gets, caches, and parses html from foia.gov """
 
-    soup = BeautifulSoup(clean_html(html))
+    soup = BeautifulSoup(clean_html(html), 'html.parser')
     year = params['requestYear']
     table = soup.find("table", {"id": "agencyInfo0"})
     columns = clean_names([column.text for column in table.findAll("th")])
@@ -240,9 +240,10 @@ def get_years(html=None):
 
     if html is None:
         r = requests.get(YEARS_URL)
+        assert r.status_code == 200
         html = r.text
 
-    soup = BeautifulSoup(html)
+    soup = BeautifulSoup(html, 'html.parser')
     boxes = soup.findAll("input", {"type": "checkbox"})
     years = []
     for box in boxes:

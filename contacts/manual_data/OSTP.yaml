@@ -1,8 +1,5 @@
 common_requests:
 - Records on OSTP's scientific advice and correspondance.
-departments:
-- name: Office of Science and Technology Policy
-  website: http://www.whitehouse.gov/administration/eop/ostp/library/foia
 keywords:
 - white house
 - cto

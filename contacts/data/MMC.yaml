@@ -1,0 +1,39 @@
+abbreviation: MMC
+departments:
+- address:
+    address_lines:
+    - Michael Gosliner
+    - FOIA Officer
+    - Suite 700
+    city: Bethesda
+    state: MD
+    street: 4340 East-West Highway
+    zip: '20814'
+  emails:
+  - mgosliner@mmc.gov
+  fax: 202-504-0099
+  name: Marine Mammal Commission
+  phone: 301-504-0087
+  public_liaison:
+    name: Cathy Shrestha
+    phone:
+    - 301-504-0087
+  request_time_stats: {}
+  service_center:
+    name: Michael Gosliner
+    phone:
+    - 301-504-0087
+  top_level: false
+  website: https://www.mmc.gov/
+description: The Marine Mammal Commission provides independent, science-based oversight
+  of domestic and international policies and actions of federal agencies addressing
+  human impacts on marine mammals and their ecosystems. Our mission is largely driven
+  by the Marine Mammal Protection Act (MMPA). The MMPA was enacted in October 1972
+  in partial response to growing concerns among scientists and the general public
+  that certain species and populations of marine mammals were in danger of extinction
+  or depletion as a result of human activities. The MMPA set forth a national policy
+  to prevent marine mammal species and population stocks from diminishing beyond the
+  point at which they cease to be significant functioning elements of the ecosystems
+  of which they are a part.
+name: Marine Mammal Commission
+request_time_stats: {}

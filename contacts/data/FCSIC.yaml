@@ -2,15 +2,12 @@ abbreviation: FCSIC
 departments:
 - address:
     address_lines:
-    - Jeffrey C. Pienta
+    - Autumn R. Agans
     - Freedom of Information Officer
     city: McLean
     state: VA
     street: 1501 Farm Credit Drive
     zip: 22102-5090
-  description: The Farm Credit System Insurance Corporation ensures timely payment
-    of interest and principal on Systemwide and consolidated bonds and other obligations
-    issued by Farm Credit System banks.
   emails:
   - FCSICFOIAOfficer@fcsic.gov
   fax: 703-790-0052
@@ -20,14 +17,14 @@ departments:
       phone:
       - 703-883-4431
   name: Farm Credit System Insurance Corporation
-  phone: 703-883-4431
+  phone: 703-883-4082
   public_liaison:
     name: Christine D. Quinn
     phone:
     - 703-883-4020
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.fcsic.gov/FCSIC%20FOIA%20Reading%20Room.html
+    - https://www.fcsic.gov/FCSIC%20FOIA%20Reading%20Room.html
   request_time_stats:
     '2008':
       simple_average_days: '10'
@@ -84,17 +81,35 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '5'
       simple_median_days: '8'
+    '2015':
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6.5'
+      simple_average_days: '10.1'
+      simple_highest_days: '16'
+      simple_lowest_days: '5'
+      simple_median_days: '8'
+    '2016':
+      simple_average_days: '5.8'
+      simple_highest_days: '12'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
-    phone:
-    - 703-883-4020
+    name: Vacant
   top_level: false
-  usa_id: '72913'
   website: http://www.fcsic.gov/FCSIC%20FOIA.html
-description: The Farm Credit System Insurance Corporation ensures timely payment of
-  interest and principal on Systemwide and consolidated bonds and other obligations
-  issued by Farm Credit System banks.
+description: The Farm Credit System Insurance Corporation (Corporation) is a Federal
+  government-controlled corporation established by the Agricultural Credit Act of
+  1987 (1987 Act). Congress created the Insurance Corporation to enhance the financial
+  integrity of the Farm Credit System (System). The Corporation insures the timely
+  payment of principal and interest on certain System notes, bonds, and other obligations
+  issued to investors and is administered by a board of directors who serve concurrently
+  as the Farm Credit Administration (FCA) Board.
 keywords:
+- Archives and records
 - Banks, banking
+- Freedom of information
 - Insurance
 - Penalties
 - Reporting and recordkeeping requirements
@@ -155,4 +170,17 @@ request_time_stats:
     simple_highest_days: '16'
     simple_lowest_days: '5'
     simple_median_days: '8'
-usa_id: '72913'
+  '2015':
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '13'
+    expedited_processing_lowest_days: '6'
+    expedited_processing_median_days: '6.5'
+    simple_average_days: '10.1'
+    simple_highest_days: '16'
+    simple_lowest_days: '5'
+    simple_median_days: '8'
+  '2016':
+    simple_average_days: '5.8'
+    simple_highest_days: '12'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'

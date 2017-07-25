@@ -1,9 +1,9 @@
 abbreviation: DOC
 address:
   address_lines:
-  - Brenda Dolan
-  - Departmental FOIA Officer, Office of Privacy and Open Government
-  - Mail Stop H6204
+  - Michael Toland, Ph.D.
+  - Deputy Chief FOIA Officer, Office of Privacy and Open Government
+  - Room 52010
   city: Washington
   state: DC
   street: 14th Street and Constitution Avenue, NW
@@ -12,14 +12,74 @@ departments:
 - address:
     address_lines:
     - Michael Toland, Ph.D.
-    - Freedom of Information Act Officer
+    - Deputy Chief FOIA Officer, Office of Privacy and Open Government
+    - Room 52010
+    city: Washington
+    state: DC
+    street: 14th Street and Constitution Avenue, NW
+    zip: '20230'
+  emails:
+  - Efoia@doc.gov
+  keywords:
+  - Courts
+  - Freedom of information
+  - Government employees
+  - Privacy
+  name: Departmental Offices
+  phone: 202-482-3842
+  public_liaison:
+    name: Michael Toland, Ph.D.
+    phone:
+    - 202-482-3842
+  reading_rooms:
+  - - Electronic FOIA Library
+    - http://www.osec.doc.gov/opog/FOIA/FOIA_elibrary.html
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+  service_center:
+    phone:
+    - 202-482-3842
+  top_level: false
+  website: http://www.osec.doc.gov/opog/FOIA/default.html
+- address:
+    address_lines:
+    - Dondi Staunton
+    - FOIA Officer
+    - Room 8K120C
+    city: Washington
+    state: DC
+    street: 4600 Silver Hill Road
+    zip: '20233'
+  emails:
+  - dondi.staunton@bea.gov
+  keywords:
+  - Economic statistics
+  - Foreign investments in United States
+  - Foreign trade
+  - Libraries
+  - Penalties
+  - Reporting and recordkeeping requirements
+  - Travel and transportation expenses
+  - United States investments abroad
+  name: Bureau of Economic Analysis
+  phone: 301-278-9798
+  public_liaison:
+    name: Dondi Staunton
+    phone:
+    - 301-278-9798
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
+  service_center:
+    phone:
+    - 301-278-9798
+  top_level: false
+- address:
+    address_lines:
+    - Vernon Curry
+    - FOIA Officer
     - Room 8H207
     city: Washington
     state: DC
     street: 4600 Silver Hill Road
     zip: 20233-3700
-  description: The U.S. Census Bureau provides data about the nation's people and
-    economy.
   emails:
   - census.efoia@census.gov
   fax: 301-763-6239
@@ -39,12 +99,14 @@ departments:
       phone:
       - 301-763-2127
   name: Census Bureau
-  phone: 301-763-2127
+  phone: 301-763-7127
   public_liaison:
-    name: Jennifer Goode, PH.D.
+    name: Iris Boone
     phone:
-    - 301-763-2127
+    - 301-763-7127
   reading_rooms:
+  - - FOIA Library
+    - https://www.census.gov/about/policies/foia/foia_library.html?sec_ak_reference=18.33951645.1500998250.93c566
   - - FOIA Library
     - http://www.census.gov/about/policies/foia/foia_library.html
   request_form: http://www.census.gov/foia/foia_request.php
@@ -140,144 +202,68 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '0'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '11.67'
+      complex_highest_days: '67'
+      complex_lowest_days: less than 1
+      complex_median_days: '7'
+      expedited_processing_average_days: '6.25'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '5'
+      simple_average_days: '5.34'
+      simple_highest_days: '23'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '27.24'
+      complex_highest_days: '211'
+      complex_lowest_days: less than 1
+      complex_median_days: '6'
+      expedited_processing_average_days: '4.22'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '4'
+      simple_average_days: '7.33'
+      simple_highest_days: '24'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
-    - 301-763-2127
+    - 301-763-7127
   top_level: true
-  usa_id: '48005'
   website: http://www.census.gov/foia/
 - address:
     address_lines:
-    - Jacque Mason
-    - Office of the Under Secretary for Economic Affairs
+    - Pamela Moulder
+    - FOIA Officer, Office of the Under Secretary for Economic Affairs
     city: Washington
     state: DC
-    street: Rom 4857
+    street: Room 4341
     zip: '20230'
-  description: The Economics and Statistics Administration provides economic analysis,
-    distributes national economic indicators, and oversees the Census Bureau.
   emails:
   - pmoulder@doc.gov
   fax: 202-482-2889
-  misc:
-    Office of the Under Secretary for Economic Affairs:
-      name: Pamela Moulder
-      phone:
-      - 202-482-5997
-  name: Economics and Statistics Administration Bureau
-  phone: 202-482-5641
+  name: Economics and Statistics Administration
+  phone: 202-482-5997
   public_liaison:
-    name: Jacque Mason
+    name: Pamela Moulder
     phone:
-    - 202-482-5641
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  request_time_stats:
-    '2008':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '17'
-      simple_highest_days: '35'
-      simple_lowest_days: '1'
-      simple_median_days: '7'
-    '2009':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '10'
-      simple_highest_days: '25'
-      simple_lowest_days: '1'
-      simple_median_days: '9'
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '7'
-      simple_highest_days: '19'
-      simple_lowest_days: '1'
-      simple_median_days: '6'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '6'
-      simple_highest_days: '22'
-      simple_lowest_days: '1'
-      simple_median_days: '3'
-    '2012':
-      complex_average_days: '38'
-      complex_highest_days: '46'
-      complex_lowest_days: '29'
-      complex_median_days: '17'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '3'
-      simple_highest_days: '6'
-      simple_lowest_days: '1'
-      simple_median_days: '1'
-    '2013':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      simple_average_days: '8'
-      simple_highest_days: '19'
-      simple_lowest_days: '2'
-      simple_median_days: '6'
-    '2014':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '4'
-      simple_highest_days: '8'
-      simple_lowest_days: '1'
-      simple_median_days: '4'
+    - 202-482-5997
   service_center:
     phone:
-    - 202-482-5641
+    - 202-482-5997
   top_level: false
-  usa_id: '49243'
   website: https://www.esa.doc.gov/freedom-information-act
-- abbreviation: EDA
-  address:
+- address:
     address_lines:
     - Stephen Kong
     - FOIA Officer
-    - Room 7325
+    - Room 72023
     city: Washington
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
-  description: The Economic Development Administration provides grants to economically
-    distressed communities to generate new employment, and stimulate industrial and
-    commercial growth.
   emails:
   - SKong@eda.gov
   fax: 202-482-5671
@@ -291,18 +277,22 @@ departments:
   - Business and industry
   - Civil rights
   - Community development
+  - Conflict of interests
   - Environmental protection
   - Equal employment opportunity
   - Freedom of information
+  - Grant administrations
   - Grant programs
   - Grant programs-business
   - Grant programs-housing and community development
+  - Indians
   - Individuals with disabilities
   - Loan programs-business
   - Loan programs-housing and community development
   - Manpower training programs
   - Mortgages
   - Organization and functions (Government agencies)
+  - Penalties
   - Reporting and recordkeeping requirements
   - Research
   - Sex discrimination
@@ -403,11 +393,28 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '2'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '35.3'
+      complex_highest_days: '145'
+      complex_lowest_days: '21'
+      complex_median_days: '24.5'
+      simple_average_days: '10.67'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '79.2'
+      complex_highest_days: '418'
+      complex_lowest_days: '21'
+      complex_median_days: '52.5'
+      simple_average_days: '13'
+      simple_highest_days: '20'
+      simple_lowest_days: '2'
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-482-3085
   top_level: false
-  usa_id: '49240'
   website: http://www.eda.gov/foia.htm
 - address:
     address_lines:
@@ -418,12 +425,9 @@ departments:
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
-  description: The Bureau of Industry and Security promotes the Nation’s economic
-    development and technological advancement by ensuring an effective export control
-    and treaty compliance system.
   emails:
   - efoiarequest@bis.doc.gov
-  fax: 202-482-0326
+  fax: 202-482-0800
   foia_officer:
     name: Jennifer Kuo
     phone:
@@ -434,9 +438,12 @@ departments:
   - Agricultural commodities
   - Arms and munitions
   - Boycotts
+  - Burma
   - Business and industry
   - Chemicals
+  - Classified information
   - Confidential business information
+  - Employment
   - Exports
   - Foreign trade
   - Forests and forest products
@@ -444,6 +451,7 @@ departments:
   - Horses
   - Imports
   - Inventions and patents
+  - Investigations
   - Law enforcement
   - National defense
   - Penalties
@@ -462,7 +470,7 @@ departments:
     - 202-482-0953
   reading_rooms:
   - - BIS' Electronic Reading Room
-    - http://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
+    - https://efoia.bis.doc.gov/index.php/electronic-foia/index-of-documents
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -556,14 +564,30 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '8'
+    '2015':
+      complex_average_days: '56'
+      complex_highest_days: '234'
+      complex_lowest_days: '7'
+      complex_median_days: '27'
+      simple_average_days: '7.23'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '108.89'
+      complex_highest_days: '545'
+      complex_lowest_days: '10'
+      complex_median_days: '57.5'
+      simple_average_days: '12.39'
+      simple_highest_days: '20'
+      simple_lowest_days: '3'
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-482-0953
   top_level: false
-  usa_id: '49120'
-  website: http://www.bis.doc.gov/foia/default.htm
-- abbreviation: ITA
-  address:
+  website: https://efoia.bis.doc.gov/
+- address:
     address_lines:
     - Justin Guz
     - ITA FOIA Officer
@@ -572,9 +596,6 @@ departments:
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
-  description: The International Trade Administration works to promote U.S. exports
-    by providing diplomatic support, helping to shape trade policy, removing trade
-    barriers, and enforcing U.S. trade laws and agreements.
   emails:
   - FOIA@trade.gov
   fax: 202-482-1584
@@ -590,6 +611,8 @@ departments:
   - Business and industry
   - Canada
   - Cheese
+  - Claims
+  - Classified information
   - Confidential business information
   - Countervailing duties
   - Customs duties and inspection
@@ -602,8 +625,10 @@ departments:
   - Investigations
   - Marketing quotas
   - Mexico
+  - Nicaragua
   - Nonprofit organizations
   - Northern Mariana Islands
+  - Privacy
   - Reporting and recordkeeping requirements
   - Scientific equipment
   - Steel
@@ -617,9 +642,6 @@ departments:
     name: Justin Guz
     phone:
     - 202-482-7937
-  reading_rooms:
-  - - DOC's Electronic Reading Room
-    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -708,17 +730,35 @@ departments:
       simple_highest_days: '11'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '177.8'
+      complex_highest_days: '434'
+      complex_lowest_days: '65'
+      complex_median_days: '157'
+      simple_average_days: '12'
+      simple_highest_days: '15'
+      simple_lowest_days: '9'
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '697.45'
+      complex_highest_days: '1447'
+      complex_lowest_days: '4'
+      complex_median_days: '671.5'
+      simple_average_days: '263.13'
+      simple_highest_days: '1144'
+      simple_lowest_days: '1'
+      simple_median_days: '208'
   service_center:
     phone:
     - 202-482-7937
   top_level: true
-  usa_id: '49409'
-  website: http://www.ita.doc.gov/foia/
+  website: http://www.trade.gov/ooms/foia/
 - abbreviation: MBDA
   address:
     address_lines:
     - Josephine Arnold
     - FOIA Officer
+    - Room 5093
     city: Washington
     state: DC
     street: 1401 Constitution Avenue, NW
@@ -734,14 +774,11 @@ departments:
     phone:
     - 202-481-5045
   name: Minority Business Development Agency
-  phone: 202-482-2419
+  phone: 202-482-2332
   public_liaison:
     name: Josephine Arnold
     phone:
-    - 202-482-2419
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.mbda.gov/freedom-information-act-reading-room
+    - 202-482-2332
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -830,25 +867,30 @@ departments:
       simple_highest_days: '90'
       simple_lowest_days: '15'
       simple_median_days: '37'
+    '2015':
+      simple_average_days: '19.4'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '25'
+    '2016':
+      simple_average_days: '10.2'
+      simple_highest_days: '38'
+      simple_lowest_days: less than 1
+      simple_median_days: '0'
   service_center:
     phone:
-    - 202-482-2419
+    - 202-482-2332
   top_level: true
-  usa_id: '49464'
   website: http://www.mbda.gov/freedom-information-act-reading-room
-- abbreviation: NIST
-  address:
+- address:
     address_lines:
     - Catherine S. Fletcher
-    - FOIA & Privacy Act Officer
-    - Stop 1710
+    - FOIA Officer
+    - Mail Stop 1710
     city: Gaithersburg
     state: MD
     street: 100 Bureau Drive
     zip: 20899-1710
-  description: The National Institute of Standards and Technology promotes measurement
-    standards, conducts a wide array of scientifc research, and offers smaller manufacturers
-    technical and business assistance.
   emails:
   - foia@nist.gov
   fax: 301-975-5301
@@ -857,6 +899,9 @@ departments:
   - Buildings and facilities
   - Business and industry
   - Disaster assistance
+  - Government employees
+  - Government procurement
+  - Grant programs
   - Grant programs-science and technology
   - Imports
   - Inventions and patents
@@ -867,6 +912,7 @@ departments:
   - Reporting and recordkeeping requirements
   - Research
   - Science and technology
+  - Voluntary standards
   misc:
     FOIA & Privacy Act Officer:
       name: Catherine S. Fletcher
@@ -966,45 +1012,59 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '0'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '170'
+      complex_highest_days: '2020'
+      complex_lowest_days: '21'
+      complex_median_days: '56'
+      simple_average_days: '6.03'
+      simple_highest_days: '18'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '194.08'
+      complex_highest_days: '1741'
+      complex_lowest_days: '21'
+      complex_median_days: '58'
+      expedited_processing_average_days: '45.5'
+      expedited_processing_highest_days: '86'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '45.5'
+      simple_average_days: '7.76'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '6.5'
   service_center:
     phone:
     - 301-975-4074
   top_level: true
-  usa_id: '49517'
-  website: http://www.nist.gov/director/foia/
+  website: https://www.nist.gov/office-director/freedom-information-act
 - abbreviation: NTIS
   address:
     address_lines:
-    - Lee Halvorsen
+    - Wayne Strickland
     - FOIA Contact
-    - Number 305 - Sils Building
     city: Alexandria
     state: VA
     street: 5301 Shawnee Road
     zip: '22312'
-  description: The National Technical Information Service provides businesses, universities,
-    and the public access to government-funded scientific, engineering, technical,
-    and business related information. The service does not use appropriated funds,
-    so charges a fee for its services.
   emails:
-  - LHalvorsen@ntis.gov
+  - waynes@ntis.gov
   fax: 703-605-6764
   keywords:
   - Administrative practice and procedure
+  - Penalties
   misc:
     FOIA Contact:
       name: Lee Halvorsen
       phone:
       - 703-605-6710
   name: National Technical Information Service
-  phone: 703-605-6710
+  phone: 703-605-6543
   public_liaison:
-    name: Lee Halvorsen
+    name: Wayne Strickland
     phone:
-    - 703-605-6710
-  reading_rooms:
-  - - NTIS FOIA Electronic Reading Room
-    - http://www.ntis.gov/about/foia/
+    - 703-605-6543
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1093,25 +1153,29 @@ departments:
       simple_highest_days: '148'
       simple_lowest_days: '0'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '65'
+      complex_highest_days: '65'
+      complex_lowest_days: '65'
+      complex_median_days: '65'
+      simple_average_days: '6.03'
+      simple_highest_days: '31'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
-    - 703-605-6710
+    - 703-605-6543
   top_level: true
-  usa_id: '49549'
   website: http://www.ntis.gov/about/FOIA/
 - address:
     address_lines:
     - Stacy Cheney
-    - FOIA Officer, Office of the Chief Counsel
+    - FOIA Contact, Office of the Chief Counsel
     - Room 4713
     city: Washington
     state: DC
     street: 14th Street and Constitution Avenue, NW
     zip: '20230'
-  description: The National Telecommunications and Information Administration manages
-    federal spectrum use, makes grants to further develop and deploy broadband internet,
-    conducts telecommunications research, and advises the president on telecommunications
-    and information policy issues.
   emails:
   - eFOIA@ntia.doc.gov
   fax: 202-501-8013
@@ -1138,12 +1202,17 @@ departments:
   - Telecommunications
   - Telephone
   - Television
+  misc:
+    FOIA Contact, Office of the Chief Counsel:
+      name: Stacy Cheney
+      phone:
+      - 202-482-1816
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
   public_liaison:
-    name: Stacy Cheney
+    name: Michael Toland, Ph.D.
     phone:
-    - 202-482-1816
+    - 202-482-3842
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -1237,26 +1306,46 @@ departments:
       simple_highest_days: '49'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '46.23'
+      complex_highest_days: '335'
+      complex_lowest_days: '2'
+      complex_median_days: '23'
+      expedited_processing_average_days: '193'
+      expedited_processing_highest_days: '403'
+      expedited_processing_lowest_days: '27'
+      expedited_processing_median_days: '149'
+      simple_average_days: '5.84'
+      simple_highest_days: '25'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '72.17'
+      complex_highest_days: '747'
+      complex_lowest_days: '1'
+      complex_median_days: '27'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6'
+      simple_average_days: '6.47'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 202-482-1816
   top_level: false
-  usa_id: '49551'
   website: http://www.ntia.doc.gov/ntiahome/occ/foia.html
-- abbreviation: NOAA
-  address:
+- address:
     address_lines:
-    - Robert Swisher
-    - FOIA Contact
+    - Mark Graff
+    - FOIA Officer
     - Room 9719 - NOAA FOIA Office (SOU 10000)
     city: Silver Spring
     state: MD
     street: 1315 East-West Highway
     zip: '20910'
-  description: The National Oceanic and Atmospheric Administration's mission is to
-    understand and predict changes in climate, weather, oceans, and coasts. The products
-    and services produced by the administration support a number of functions, including
-    severe weather preparedness, and international trade through shipping.
   emails:
   - FOIA@noaa.gov
   fax: 301-713-1169
@@ -1272,6 +1361,7 @@ departments:
   - Courts
   - Disaster assistance
   - Education
+  - Electric power
   - Endangered and threatened species
   - Environmental protection
   - Exports
@@ -1292,6 +1382,7 @@ departments:
   - Indians
   - Indians-lands
   - Intergovernmental relations
+  - International organizations
   - Labeling
   - Loan programs
   - Loan programs-business
@@ -1307,6 +1398,8 @@ departments:
   - Oil pollution
   - Organization and functions (Government agencies)
   - Penalties
+  - Plants
+  - Public lands
   - Puerto Rico
   - Reporting and recordkeeping requirements
   - Research
@@ -1316,10 +1409,12 @@ departments:
   - Scientific equipment
   - Seafood
   - Seizures and forfeitures
+  - Small businesses
   - Space transportation and exploration
   - Statistics
   - Transportation
   - Treaties
+  - Vessels
   - Virgin Islands
   - Water pollution control
   - Water resources
@@ -1332,14 +1427,14 @@ departments:
       phone:
       - 301-713-3540
   name: National Oceanic and Atmospheric Administration
-  phone: 301-628-5755
+  phone: 301-628-5658
   public_liaison:
-    name: Robert Swisher
+    name: Rob Swisher
     phone:
     - 301-628-5755
   reading_rooms:
-  - - Reading Room
-    - http://www.noaa.gov/foia/reading_room/index.html
+  - - NOAA's FOIA Reading Room
+    - http://www.noaa.gov/foia-reading-room
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -1433,11 +1528,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '108.47'
+      complex_highest_days: '96'
+      complex_lowest_days: '12'
+      complex_median_days: '75'
+      expedited_processing_average_days: '27.8'
+      expedited_processing_highest_days: '60'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '17'
+      simple_average_days: '124.23'
+      simple_highest_days: '1163'
+      simple_lowest_days: less than 1
+      simple_median_days: '66'
+    '2016':
+      complex_average_days: '115'
+      complex_highest_days: '703'
+      complex_lowest_days: less than 1
+      complex_median_days: '40'
+      simple_average_days: '59.42'
+      simple_highest_days: '816'
+      simple_lowest_days: less than 1
+      simple_median_days: '25'
   service_center:
     phone:
-    - 301-628-5755
+    - 301-628-5658
   top_level: true
-  usa_id: '49530'
   website: http://www.noaa.gov/foia/
 - abbreviation: USPTO
   address:
@@ -1448,8 +1564,6 @@ departments:
     state: VA
     street: P.O. Box 1450
     zip: 22313-1450
-  description: The U.S. Patent and Trademark Office is the agency responsible for
-    granting U.S. patents and registering trademarks.
   emails:
   - efoia@uspto.gov
   fax: 571-501-7335
@@ -1478,12 +1592,9 @@ departments:
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
   public_liaison:
-    name: Dahlia George
+    name: Ricou Heaton
     phone:
     - 571-272-3000
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.uspto.gov/learning-and-resources/ip-policy/electronic-freedom-information-act-e-foia
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1576,24 +1687,41 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '0'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '38.32'
+      complex_highest_days: '96'
+      complex_lowest_days: '10'
+      complex_median_days: '33'
+      simple_average_days: '14.56'
+      simple_highest_days: '60'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '43.24'
+      complex_highest_days: '133'
+      complex_lowest_days: '19'
+      complex_median_days: '31'
+      simple_average_days: '17.93'
+      simple_highest_days: '75'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
   service_center:
     phone:
     - 571-272-3000
   top_level: true
-  usa_id: '48151'
-  website: http://www.uspto.gov/ip/boards/foia_rr/index.jsp
+  website: https://www.uspto.gov/learning-and-resources/ip-policy/electronic-freedom-information-act-e-foia
 - address:
     address_lines:
     - Raman Santra
     - FOIA Officer
-    - Room 7099
+    - Room 7898C
     city: Washington
     state: DC
     street: 1401 Constitution Avenue, NW
     zip: '20230'
   emails:
   - FOIA@oig.doc.gov
-  fax: 202-501-7921
+  fax: 202-501-7335
   foia_officer:
     name: Laura Bell
     phone:
@@ -1606,7 +1734,7 @@ departments:
     - 202-482-5992
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
+    - https://www.oig.doc.gov/Pages/FOIA-Electronic-Reading-Room.aspx
   request_form: http://www.oig.doc.gov/Pages/Online-FOIA-Request-Form.aspx
   request_time_stats:
     '2008':
@@ -1700,17 +1828,43 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '32.47'
+      complex_highest_days: '177'
+      complex_lowest_days: '5'
+      complex_median_days: '27'
+      expedited_processing_average_days: '9.67'
+      expedited_processing_highest_days: '90'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '1'
+      simple_average_days: '13.68'
+      simple_highest_days: '63'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '63.16'
+      complex_highest_days: '176'
+      complex_lowest_days: '6'
+      complex_median_days: '53'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '15.1'
+      simple_highest_days: '38'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-482-5992
   top_level: false
-  website: http://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
+  website: https://www.oig.doc.gov/pages/Freedom-of-Information-Act.aspx
 - address:
     address_lines:
     - Bobbie Parsons
-    - FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open
+    - FOIA Officer, Immediate Office of the Secretary, Office of Privacy and Open
       Government
-    - Mail Stop H6204
+    - Room 52010
     city: Washington
     state: DC
     street: 14th Street and Constitution Avenue, NW
@@ -1718,280 +1872,6 @@ departments:
   emails:
   - Efoia@doc.gov
   fax: 202-482-0827
-  keywords:
-  - Accountants
-  - Accounting
-  - Administrative practice and procedure
-  - Adult education
-  - Advertising
-  - Advisory committees
-  - Aged
-  - Agricultural commodities
-  - Agricultural research
-  - Agriculture
-  - Aid to Families with Dependent Children
-  - Air carriers
-  - Air rates and fares
-  - Air taxis
-  - Air traffic control
-  - Air transportation
-  - Aircraft
-  - Airmen
-  - Airports
-  - Airspace
-  - Alcohol abuse
-  - Alcohol and alcoholic beverages
-  - Aliens
-  - Alimony
-  - Antitrust
-  - Archives and records
-  - Armed forces
-  - Armed forces reserves
-  - Arms and munitions
-  - Authority delegations (Government agencies)
-  - Aviation safety
-  - Banks, banking
-  - Black lung benefits
-  - Blind
-  - Brokers
-  - Buildings and facilities
-  - Buses
-  - Business and industry
-  - Canada
-  - Charter flights
-  - Cheese
-  - Chemicals
-  - Child labor
-  - Child support
-  - Child welfare
-  - Civil defense
-  - Civil rights
-  - Claims
-  - Classified information
-  - Coal
-  - Coastal zone
-  - Colleges and universities
-  - Communications equipment
-  - Community development
-  - Community development block grants
-  - Computer technology
-  - Concessions
-  - Confidential business information
-  - Conflict of interests
-  - Conscientious objectors
-  - Construction industry
-  - Consumer protection
-  - Continental shelf
-  - Cooperatives
-  - Courts
-  - Credit
-  - Credit unions
-  - Crime
-  - Crop insurance
-  - Cultural exchange programs
-  - Customs duties and inspection
-  - Dairy products
-  - Defense communications
-  - Dental health
-  - Disability benefits
-  - Domestic violence
-  - Drug abuse
-  - Drug testing
-  - Drugs
-  - Education
-  - Education of disadvantaged
-  - Education of individuals with disabilities
-  - Educational study programs
-  - Elections
-  - Electric power
-  - Elementary and secondary education
-  - Emergency medical services
-  - Employee benefit plans
-  - Employment
-  - Energy
-  - Environmental impact statements
-  - Environmental protection
-  - Equal access to justice
-  - Equal educational opportunity
-  - Equal employment opportunity
-  - Estates
-  - Excise taxes
-  - Explosives
-  - Exports
-  - Federal buildings and facilities
-  - Federally affected areas
-  - Fire prevention
-  - Firefighters
-  - Fisheries
-  - Flood plains
-  - Food assistance programs
-  - Foreign relations
-  - Forests and forest products
-  - Fraud
-  - Freedom of information
-  - Freight
-  - Gases
-  - Government contracts
-  - Government employees
-  - Government procurement
-  - Government property
-  - Government publications
-  - Grant programs
-  - Grant programs-business
-  - Grant programs-education
-  - Grant programs-health
-  - Grant programs-housing and community development
-  - Grant programs-labor
-  - Grant programs-natural resources
-  - Grant programs-social programs
-  - Grant programs-transportation
-  - Grazing lands
-  - Guam
-  - HIV/AIDS
-  - Hawaiian Natives
-  - Hazardous materials transportation
-  - Hazardous substances
-  - Health
-  - Health care
-  - Health facilities
-  - Health insurance
-  - Health maintenance organizations (HMO)
-  - Health professions
-  - Health records
-  - Highway safety
-  - Highways and roads
-  - Historic preservation
-  - Homeless
-  - Hospitals
-  - Housing
-  - Immigration
-  - Imports
-  - Income taxes
-  - Indemnity payments
-  - Indians
-  - Indians-claims
-  - Indians-lands
-  - Indians-law
-  - Indians-tribal government
-  - Individuals with disabilities
-  - Insurance
-  - Intergovernmental relations
-  - Intermodal transportation
-  - International organizations
-  - Investigations
-  - Investments
-  - Irrigation
-  - Labor
-  - Labor management relations
-  - Laboratories
-  - Land Management Bureau
-  - Law enforcement
-  - Law enforcement officers
-  - Lawyers
-  - Life insurance
-  - Livestock
-  - Loan programs
-  - Loan programs-agriculture
-  - Loan programs-business
-  - Loan programs-communications
-  - Loan programs-energy
-  - Loan programs-health
-  - Loan programs-natural resources
-  - Lobbying
-  - Manpower training programs
-  - Manufactured homes
-  - Mass transportation
-  - Maternal and child health
-  - Medicaid
-  - Medical research
-  - Medicare
-  - Metals
-  - Migrant labor
-  - Military law
-  - Military personnel
-  - Mine safety and health
-  - Mines
-  - Minimum wages
-  - Minority businesses
-  - Motion pictures
-  - Motor vehicle safety
-  - Museums
-  - National defense
-  - National forests
-  - National parks
-  - Natural resources
-  - Navigation (air)
-  - Noise control
-  - Nonprofit organizations
-  - Nuclear energy
-  - Occupational safety and health
-  - Organization and functions (Government agencies)
-  - Pacific Islands Trust Territory
-  - Passenger vessels
-  - Passports and visas
-  - Penalties
-  - Price support programs
-  - Privacy
-  - Public assistance programs
-  - Public health
-  - Public lands
-  - Puerto Rico
-  - Radiation protection
-  - Radio
-  - Railroads
-  - Range management
-  - Real property acquisition
-  - Recordings
-  - Religious discrimination
-  - Relocation assistance
-  - Reporting and recordkeeping requirements
-  - Research
-  - Rural areas
-  - Safety
-  - Science and technology
-  - Seamen
-  - Security measures
-  - Seizures and forfeitures
-  - Sex discrimination
-  - Small businesses
-  - Smoking
-  - Social security
-  - Soil conservation
-  - State and local governments
-  - Statistics
-  - Strategic and critical materials
-  - Student aid
-  - Students
-  - Sunshine Act
-  - Supplemental Security Income (SSI)
-  - Surety bonds
-  - Surface mining
-  - Surplus Government property
-  - Taxes
-  - Teachers
-  - Technical assistance
-  - Telecommunications
-  - Television
-  - Time
-  - Transportation
-  - Transportation Department
-  - Travel restrictions
-  - Trusts and trustees
-  - Truth in lending
-  - Uniform System of Accounts
-  - Virgin Islands
-  - Wages
-  - Waste treatment and disposal
-  - Water resources
-  - Water supply
-  - Waterways
-  - Whistleblowing
-  - Wildlife
-  - Wildlife refuges
-  - Wiretapping and electronic surveillance
-  - Women
-  - Workers' compensation
-  - Youth
   misc:
     FOIA Contact, Immediate Office of the Secretary, Office of Privacy and Open Government:
       name: Bobbie Parsons
@@ -2004,8 +1884,8 @@ departments:
     phone:
     - 202-482-3257
   reading_rooms:
-  - - FOIA Electronic Library (Formerly E-Reading Room)
-    - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
+  - - Electronic FOIA Library
+    - http://www.osec.doc.gov/opog/FOIA/FOIA_elibrary.html
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
@@ -2099,11 +1979,37 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '292.38'
+      complex_highest_days: '976'
+      complex_lowest_days: less than 1
+      complex_median_days: '253'
+      expedited_processing_average_days: '145'
+      expedited_processing_highest_days: '338'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '117'
+      simple_average_days: '76.49'
+      simple_highest_days: '503'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '198.59'
+      complex_highest_days: '641'
+      complex_lowest_days: less than 1
+      complex_median_days: '169'
+      expedited_processing_average_days: '430'
+      expedited_processing_highest_days: '485'
+      expedited_processing_lowest_days: '375'
+      expedited_processing_median_days: '430'
+      simple_average_days: '9.07'
+      simple_highest_days: '82'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-482-3257
   top_level: false
-  website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
+  website: http://www.osec.doc.gov/opog/FOIA/default.html
 description: The historic mission of the Department of Commerce is "to foster, promote,
   and develop the foreign and domestic commerce" of the United States. This has evolved,
   as a result of legislative and administrative additions, to encompass broadly the
@@ -2111,7 +2017,6 @@ description: The historic mission of the Department of Commerce is "to foster, p
   technological advancement.
 emails:
 - Efoia@doc.gov
-fax: 202-482-0827
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -2133,6 +2038,7 @@ keywords:
 - Boycotts
 - Broadband
 - Buildings and facilities
+- Burma
 - Business and industry
 - Cable television
 - Canada
@@ -2197,8 +2103,11 @@ keywords:
 - Government procurement
 - Government property
 - Government property management
+- Grant administrations
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-business
+- Grant programs-communications
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
@@ -2268,8 +2177,10 @@ keywords:
 - Pacific Islands Trust Territory
 - Penalties
 - Petroleum
+- Plants
 - Privacy
 - Private schools
+- Public lands
 - Puerto Rico
 - Radio
 - Railroads
@@ -2296,6 +2207,7 @@ keywords:
 - Steel
 - Strategic and critical materials
 - Student aid
+- Surety bonds
 - Teachers
 - Technical assistance
 - Telecommunications
@@ -2306,13 +2218,16 @@ keywords:
 - Trade adjustment assistance
 - Trademarks
 - Transportation
+- Travel and transportation expenses
 - Treaties
 - United States investments abroad
 - Urban areas
+- Vessels
 - Veterans
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Voluntary standards
 - Wages
 - Waste treatment and disposal
 - Watches and jewelry
@@ -2325,14 +2240,15 @@ keywords:
 - Wildlife refuges
 - Women
 name: Department of Commerce
-phone: 202-482-3258
+phone: 202-482-3842
 public_liaison:
-  name: Brenda Dolan
+  name: Michael Toland, Ph.D.
   phone:
-  - 202-482-3258
+  - 202-482-3842
 reading_rooms:
-- - FOIA Electronic Library (Formerly E-Reading Room)
-  - http://www.osec.doc.gov/omo/FOIA/ereadingroom.htm
+- - Electronic FOIA Library
+  - http://www.osec.doc.gov/opog/FOIA/FOIA_elibrary.html
+request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
     complex_average_days: '109'
@@ -2425,9 +2341,34 @@ request_time_stats:
     simple_highest_days: '148'
     simple_lowest_days: '1'
     simple_median_days: '7'
+  '2015':
+    complex_average_days: '133.72'
+    complex_highest_days: '2020'
+    complex_lowest_days: less than 1
+    complex_median_days: '36'
+    expedited_processing_average_days: '32.58'
+    expedited_processing_highest_days: '403'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '6'
+    simple_average_days: '45.41'
+    simple_highest_days: '1163'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'
+  '2016':
+    complex_average_days: '136.31'
+    complex_highest_days: '1741'
+    complex_lowest_days: less than 1
+    complex_median_days: '47'
+    expedited_processing_average_days: '36.71'
+    expedited_processing_highest_days: '485'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '5'
+    simple_average_days: '36.55'
+    simple_highest_days: '1194'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
 service_center:
   phone:
-  - 202-482-3258
+  - 202-482-3842
 top_level: false
-usa_id: '52668'
-website: http://www.osec.doc.gov/omo/FOIA/FOIAWebsite.htm
+website: http://www.osec.doc.gov/opog/FOIA/default.html

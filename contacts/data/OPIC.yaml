@@ -2,14 +2,12 @@ abbreviation: OPIC
 departments:
 - address:
     address_lines:
-    - Nichole Cadiente
+    - Nichole Skoyles
     - FOIA Director
     city: Washington
     state: DC
     street: 1100 New York Avenue, NW
     zip: '20527'
-  description: The Overseas Private Investment Corporation works with the U.S. private
-    sector to help solve critical world challenges.
   emails:
   - FOIA@opic.gov
   misc:
@@ -20,12 +18,9 @@ departments:
   name: Overseas Private Investment Corporation
   phone: 202-336-8400
   public_liaison:
-    name: Nichole Cadiente
+    name: Nichole Skoyles
     phone:
     - 202-336-8400
-  reading_rooms:
-  - - FOIA Reading Room
-    - https://www.opic.gov/content/foia-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -102,14 +97,25 @@ departments:
       simple_highest_days: '191'
       simple_lowest_days: less than 1
       simple_median_days: '6'
+    '2015':
+      simple_average_days: '13.37'
+      simple_highest_days: '87'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      simple_average_days: '60.25'
+      simple_highest_days: '399'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-336-8400
   top_level: false
-  usa_id: '52651'
   website: http://www.opic.gov/publications/foia
-description: The Overseas Private Investment Corporation works with the U.S. private
-  sector to help solve critical world challenges.
+description: The Overseas Private Investment Corporation's (OPIC) mission is to solve
+  critical world challenges by catalyzing markets in developing nations. OPIC accomplishes
+  its mission by delivering finance innovations that help ambitious U.S. businesses
+  successfully enter, grow and compete in emerging markets.
 keywords:
 - Administrative practice and procedure
 - Confidential business information
@@ -194,4 +200,13 @@ request_time_stats:
     simple_highest_days: '191'
     simple_lowest_days: less than 1
     simple_median_days: '6'
-usa_id: '52651'
+  '2015':
+    simple_average_days: '13.37'
+    simple_highest_days: '87'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'
+  '2016':
+    simple_average_days: '60.25'
+    simple_highest_days: '399'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'

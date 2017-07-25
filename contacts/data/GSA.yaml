@@ -28,17 +28,17 @@ departments:
     phone:
     - 202-205-5912
   reading_rooms:
-  - - FOIA Reading Room
-    - http://www.gsa.gov/portal/content/103776
+  - - Electronic Reading Room
+    - https://www.gsa.gov/portal/content/305477
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
     phone:
     - 855-675-3642
   top_level: false
   website: http://www.gsa.gov/portal/category/21416
-description: The General Services Administration manages federal property, including
-  operating and maintaining buildings, supplies and transportation acquisition, and
-  communications management.
+description: GSA's mission is to use expertise to provide innovative solutions for
+  our customers in support of their missions and by so doing, foster an effective,
+  sustainable, and transparent government for the American people.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -50,8 +50,10 @@ keywords:
 - Antitrust
 - Architecture
 - Archives and records
+- Arts and crafts
 - Artwork in Government Buildings
 - Assisted Acquisition
+- Authority delegations (Government agencies)
 - Aviation safety
 - Blind
 - Building Maintenance Reports
@@ -71,6 +73,7 @@ keywords:
 - Contractual Awards and selection
 - Courthouses
 - Crime
+- Decorations, medals, awards
 - Donation Program
 - Education
 - Education of individuals with disabilities
@@ -158,6 +161,7 @@ keywords:
 - Railroads
 - Real property acquisition
 - Religious discrimination
+- Relocation assistance
 - Renovation
 - Reporting and recordkeeping requirements
 - Security measures
@@ -269,4 +273,29 @@ request_time_stats:
     simple_highest_days: '40'
     simple_lowest_days: less than 1
     simple_median_days: '13'
-usa_id: '49048'
+  '2015':
+    complex_average_days: '32.56'
+    complex_highest_days: '221'
+    complex_lowest_days: less than 1
+    complex_median_days: '27'
+    expedited_processing_average_days: '20.14'
+    expedited_processing_highest_days: '89'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '19'
+    simple_average_days: '21.74'
+    simple_highest_days: '40'
+    simple_lowest_days: less than 1
+    simple_median_days: '17'
+  '2016':
+    complex_average_days: '58.71'
+    complex_highest_days: '331'
+    complex_lowest_days: less than 1
+    complex_median_days: '34'
+    expedited_processing_average_days: '11'
+    expedited_processing_highest_days: '30'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '6.5'
+    simple_average_days: '9.97'
+    simple_highest_days: '20'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'

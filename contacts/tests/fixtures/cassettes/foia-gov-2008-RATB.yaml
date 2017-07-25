@@ -7,7 +7,7 @@ interactions:
       Connection: [keep-alive]
       User-Agent: [python-requests/2.5.1 CPython/3.4.2 Linux/3.16.0-4-amd64]
     method: GET
-    uri: http://www.foia.gov/foia/Services/DataProcessTime.jsp?requestYear=2008&agencyName=RATB&advanceSearch=71001.gt.-999999
+    uri: https://www.foia.gov/foia/Services/DataProcessTime.jsp?requestYear=2008&agencyName=RATB&advanceSearch=71001.gt.-999999
   response:
     body: {string: "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"foiaReports\">\r\
         \n\t\r\n\t\t\r\n\t\t\r\n\r\n\r\n<div id=\"foiaReportsTable\">\r\n<div class=\"\

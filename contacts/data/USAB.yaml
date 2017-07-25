@@ -1,0 +1,46 @@
+abbreviation: USAB
+departments:
+- address:
+    address_lines:
+    - FOIA Officer
+    - FOIA Officer/Deputy General Counsel
+    - Suite 1000
+    city: Washington
+    state: DC
+    street: 1331 F Street, NW
+    zip: '20004'
+  emails:
+  - FOIA@access-board.gov
+  fax: 202-272-0081
+  name: U.S. Access Board
+  phone: 202-272-0046
+  public_liaison:
+    name: FOIA Officer
+    phone:
+    - 202-272-0046
+  request_time_stats:
+    '2015':
+      simple_average_days: '12'
+      simple_highest_days: '70'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2016':
+      simple_average_days: '18'
+      simple_highest_days: '163'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+  service_center:
+    name: FOIA Officer
+    phone:
+    - 202-272-0046
+  top_level: false
+  website: http://www.access-board.gov
+description: "The U.S. Access Board promotes equality for people with disabilities\
+  \ through leadership in accessible design and the development of accessibility guidelines\
+  \ and standards under the Americans with Disabilities Act and other laws.  The Board\x92\
+  s guidelines and standards cover access to the built environment, transit vehicles,\
+  \ information and communication technology, and medical diagnostic equipment.  The\
+  \ Board also provides technical assistance and training to the public on these requirements\
+  \ and enforces accessibility standards that apply to federally funded facilities\
+  \ under the Architectural Barriers Act."
+name: United States Access Board

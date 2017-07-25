@@ -9,10 +9,6 @@ departments:
     state: DC
     street: 3333 K Street, NW
     zip: '20007'
-  description: The Legal Services Corporation is an independent corporation founded
-    by Congress that provides grant funds, training, and technical assistance to civil
-    legal aid programs. The goal of the corporation is to ensure low income individuals
-    and families have access to quality legal aid in civil matters.
   emails:
   - FOIA@lsc.gov
   fax: 202-337-6519
@@ -24,12 +20,12 @@ departments:
   name: Legal Services Corporation
   phone: 202-295-1500
   public_liaison:
-    name: Cheryl DuHart
+    name: Helen Gerostathos Guyton
     phone:
     - 202-295-1500
   reading_rooms:
   - - FOIA Electronic Public Reading Room
-    - http://www.lsc.gov/about/foia/electronic-public-reading-room
+    - http://www.lsc.gov/about-lsc/foia/foia-electronic-public-reading-room
   request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
   request_time_stats:
     '2010':
@@ -61,25 +57,30 @@ departments:
     phone:
     - 202-295-1500
   top_level: false
-  usa_id: '49442'
-  website: http://www.lsc.gov/foia2/
-description: The Legal Services Corporation is an independent corporation founded
-  by Congress that provides grant funds, training, and technical assistance to civil
-  legal aid programs. The goal of the corporation is to ensure low income individuals
-  and families have access to quality legal aid in civil matters.
+  website: http://www.lsc.gov/about-lsc/foia
+description: LSC is the single largest provider of civil legal aid for the poor in
+  the nation. Established in 1974, LSC operates as an independent 501(c)(3) nonprofit
+  corporation that promotes equal access to justice and provides grants for high-quality
+  civil legal assistance to low-income Americans.
 keywords:
+- Accounting
 - Administrative practice and procedure
 - Aliens
 - Civil rights
 - Crime
 - Fraud
 - Freedom of information
+- Government contracts
+- Grant programs
 - Grant programs-law
 - Individuals with disabilities
+- Insurance
 - Lawyers
 - Legal services
 - Migrant labor
+- Real property acquisition
 - Reporting and recordkeeping requirements
+- Surety bonds
 name: Legal Services Corporation
 request_time_stats:
   '2010':
@@ -134,4 +135,21 @@ request_time_stats:
     simple_highest_days: '34'
     simple_lowest_days: '1'
     simple_median_days: '15'
-usa_id: '49442'
+  '2015':
+    expedited_processing_average_days: '12'
+    expedited_processing_highest_days: '27'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '8'
+    simple_average_days: '12.41'
+    simple_highest_days: '27'
+    simple_lowest_days: '1'
+    simple_median_days: '13.5'
+  '2016':
+    expedited_processing_average_days: '16.3'
+    expedited_processing_highest_days: '40'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '12'
+    simple_average_days: '10.7'
+    simple_highest_days: '65'
+    simple_lowest_days: '1'
+    simple_median_days: '9.5'

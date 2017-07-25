@@ -75,7 +75,7 @@ def unique_links(links):
 
 
 def scrape_reading_room_links(content, website_url):
-    doc = BeautifulSoup(content)
+    doc = BeautifulSoup(content, 'html.parser')
     all_as = doc.find_all('a')
     links = []
     for link in all_as:

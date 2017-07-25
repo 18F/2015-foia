@@ -2,9 +2,6 @@ common_requests:
 - Federal contracts
 - Purchase card use
 - Government forms
-departments:
-- name: Headquarters
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
 keywords:
 - purchase cards
 - federal contracts

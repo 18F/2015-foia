@@ -1,7 +1,6 @@
 abbreviation: USAID
 departments:
-- abbreviation: USAID
-  address:
+- address:
     address_lines:
     - Alecia S. Sillah
     - Team Lead, Government Information Specialist (FOIA), Bureau for Management,
@@ -11,9 +10,6 @@ departments:
     state: DC
     street: 1300 Pennsylvania Avenue, N.W.
     zip: 20523-2701
-  description: 'The U.S. Agency for International Development (USAID) is the principal
-    U.S. agency to extend assistance to countries recovering from disaster, trying
-    to escape poverty, and engaging in democratic reforms. '
   emails:
   - FOIA@usaid.gov
   misc:
@@ -30,7 +26,7 @@ departments:
     - 202-712-0960
   reading_rooms:
   - - FOIA Library
-    - http://www.usaid.gov/foia-requests/foia-library
+    - https://www.usaid.gov/foia-requests/foia-library-old
   request_form: https://foiarequest.usaid.gov/index.aspx
   request_time_stats:
     '2010':
@@ -98,15 +94,40 @@ departments:
       simple_highest_days: '221'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '265.59'
+      complex_highest_days: '1137'
+      complex_lowest_days: less than 1
+      complex_median_days: '161'
+      expedited_processing_average_days: '60.83'
+      expedited_processing_highest_days: '119'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '55'
+      simple_average_days: '28.68'
+      simple_highest_days: '227'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '232.22'
+      complex_highest_days: '1334'
+      complex_lowest_days: less than 1
+      complex_median_days: '109'
+      expedited_processing_average_days: '201.75'
+      expedited_processing_highest_days: '369'
+      expedited_processing_lowest_days: '47'
+      expedited_processing_median_days: '187'
+      simple_average_days: '30.77'
+      simple_highest_days: '252'
+      simple_lowest_days: less than 1
+      simple_median_days: '12.5'
   service_center:
     phone:
     - 202-712-0960
   top_level: false
-  usa_id: '52583'
   website: http://www.usaid.gov/foia-requests
-description: 'The U.S. Agency for International Development (USAID) is the principal
-  U.S. agency to extend assistance to countries recovering from disaster, trying to
-  escape poverty, and engaging in democratic reforms. '
+description: The U.S. Agency for International Development (USAID) is an independent
+  agency that provides economic, development and humanitarian assistance around the
+  world in support of the foreign policy goals of the United States.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -115,6 +136,9 @@ keywords:
 - Agricultural commodities
 - Agriculture
 - Airports
+- Alaska
+- Alcohol abuse
+- Alcoholism
 - American Samoa
 - Antitrust
 - Blind
@@ -126,9 +150,16 @@ keywords:
 - Colleges and universities
 - Communications
 - Community development
+- Community development block grants
+- Conflict of interests
 - Copyright
+- Courts
 - Credit
+- Crime
 - Cultural exchange programs
+- Day care
+- Dental health
+- Disability benefits
 - Disaster assistance
 - Drug abuse
 - Education
@@ -142,6 +173,7 @@ keywords:
 - Electric utilities
 - Elementary and secondary education
 - Employment
+- Energy conservation
 - Environmental impact statements
 - Environmental protection
 - Equal educational opportunity
@@ -157,23 +189,36 @@ keywords:
 - Government employees
 - Government procurement
 - Government property management
+- Grant administrations
 - Grant programs
+- Grant programs-Indians
+- Grant programs-agriculture
+- Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-foreign relations
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
+- Grant programs-veterans
 - Guam
+- Health
+- Health care
 - Health facilities
 - Health insurance
 - Health professions
+- Health records
 - Highways and roads
 - Home improvement
 - Homeless
 - Hospitals
 - Hostages
+- Housing
 - Human research subjects
 - Indians
 - Indians-education
+- Indians-lands
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
@@ -185,13 +230,20 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-foreign relations
+- Loan programs-health
 - Loan programs-housing and community development
+- Loan programs-social programs
+- Low and moderate income housing
 - Manpower training programs
 - Maritime carriers
 - Mass transportation
+- Medicaid
+- Medicare
+- Mental health programs
 - Migrant labor
 - Mortgage insurance
 - Mortgages
@@ -199,10 +251,17 @@ keywords:
 - Northern Mariana Islands
 - Pacific Islands Trust Territory
 - Penalties
+- Pets
+- Prisons
 - Privacy
 - Private schools
+- Public assistance programs
+- Public housing
+- Puerto Rico
 - Railroads
 - Religious discrimination
+- Relocation assistance
+- Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Rural areas
@@ -213,16 +272,21 @@ keywords:
 - Securities
 - Sex discrimination
 - Small businesses
+- Social security
 - State and local governments
 - Student aid
+- Supplemental Security Income (SSI)
 - Teachers
 - Telecommunications
 - Telephone
+- Travel and transportation expenses
+- Unemployment compensation
 - Urban areas
 - Veterans
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Wages
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
@@ -296,4 +360,29 @@ request_time_stats:
     simple_highest_days: '221'
     simple_lowest_days: less than 1
     simple_median_days: '10'
-usa_id: '52583'
+  '2015':
+    complex_average_days: '265.59'
+    complex_highest_days: '1137'
+    complex_lowest_days: less than 1
+    complex_median_days: '161'
+    expedited_processing_average_days: '60.83'
+    expedited_processing_highest_days: '119'
+    expedited_processing_lowest_days: '14'
+    expedited_processing_median_days: '55'
+    simple_average_days: '28.68'
+    simple_highest_days: '227'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'
+  '2016':
+    complex_average_days: '232.22'
+    complex_highest_days: '1334'
+    complex_lowest_days: less than 1
+    complex_median_days: '109'
+    expedited_processing_average_days: '201.75'
+    expedited_processing_highest_days: '369'
+    expedited_processing_lowest_days: '47'
+    expedited_processing_median_days: '187'
+    simple_average_days: '30.77'
+    simple_highest_days: '252'
+    simple_lowest_days: less than 1
+    simple_median_days: '12.5'

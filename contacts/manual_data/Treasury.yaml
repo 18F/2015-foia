@@ -1,12 +1,10 @@
 departments:
 - name: Alcohol and Tobacco Tax and Trade Bureau
   abbreviation: TTB
-  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Bureau of Engraving and Printing
   top_level: true
 - name: Comptroller of the Currency
-  request_form: https://foia-pal.occ.gov/palMain.aspx
   top_level: true
 - description: FinCEN’s mission is to safeguard the financial system from illicit
     use and combat money laundering and promote national security through the collection,
@@ -14,7 +12,6 @@ departments:
     authorities.
   name: Financial Crimes Enforcement Network
   abbreviation: FINCEN
-  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   top_level: true
 - name: Internal Revenue Service - Headquarters Office
   top_level: true

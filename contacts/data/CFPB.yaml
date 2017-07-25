@@ -2,29 +2,32 @@ abbreviation: CFPB
 departments:
 - address:
     address_lines:
+    - Raynell Lazier
     - Chief FOIA Officer
     city: Washington
     state: DC
     street: 1700 G Street, NW
     zip: '20552'
-  description: The Consumer Financial Protection Bureau ensures that financial products
-    and services work for consumers. The Bureau helps consumers by providing educational
-    materials and accepts complaints. They supervise banks, lenders, as well as large
-    non bank entities, such as credit reporting agencies and debt collection companies.
-    the Bureau also works to make credit card, mortgage, and other loan disclosures
-    clearer so consumers can understand their rights and responsibilities.
   emails:
-  - foia@cfpb.gov
+  - Raynell.Lazier@cfpb.gov
   fax: 855-329-3642
   foia_officer:
     phone:
     - 855-444-3642
+  misc:
+    Government Information Specialist:
+      name: Ryan McDonald
+      phone:
+      - 202-435-9133
   name: Consumer Financial Protection Bureau
   phone: 855-444-3642
   public_liaison:
     name: Mark Vugrinovich
     phone:
     - 202-435-9499
+  reading_rooms:
+  - - Browse our electronic reading room
+    - https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/
   request_time_stats:
     '2013':
       complex_average_days: '31.07'
@@ -48,18 +51,37 @@ departments:
       simple_highest_days: '46'
       simple_lowest_days: less than 1
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '29.9'
+      complex_highest_days: '57'
+      complex_lowest_days: '14'
+      complex_median_days: '29.5'
+      expedited_processing_average_days: '27'
+      expedited_processing_highest_days: '27'
+      expedited_processing_lowest_days: '27'
+      expedited_processing_median_days: '27'
+      simple_average_days: '9.77'
+      simple_highest_days: '48'
+      simple_lowest_days: less than 1
+      simple_median_days: '8.5'
+    '2016':
+      complex_average_days: '41.57'
+      complex_highest_days: '114'
+      complex_lowest_days: '6'
+      complex_median_days: '34'
+      simple_average_days: '10.09'
+      simple_highest_days: '50'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     phone:
     - 855-444-3642
   top_level: false
-  usa_id: '49113'
   website: http://www.consumerfinance.gov/foia/
-description: The Consumer Financial Protection Bureau ensures that financial products
-  and services work for consumers. The Bureau helps consumers by providing educational
-  materials and accepts complaints. They supervise banks, lenders, as well as large
-  non bank entities, such as credit reporting agencies and debt collection companies.
-  the Bureau also works to make credit card, mortgage, and other loan disclosures
-  clearer so consumers can understand their rights and responsibilities.
+description: The central mission of the Consumer Financial Protection Bureau is to
+  make markets for consumer financial products and services work for Americans - whether
+  they are applying for a mortgage, choosing among credit cards, or using any number
+  of other consumer financial products.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -104,6 +126,7 @@ keywords:
 - Marital status discrimination
 - Mortgages
 - National banks
+- Organization and functions (Government agencies)
 - Penalties
 - Privacy
 - Religious discrimination
@@ -144,4 +167,25 @@ request_time_stats:
     simple_highest_days: '46'
     simple_lowest_days: less than 1
     simple_median_days: '7'
-usa_id: '49113'
+  '2015':
+    complex_average_days: '29.9'
+    complex_highest_days: '57'
+    complex_lowest_days: '14'
+    complex_median_days: '29.5'
+    expedited_processing_average_days: '27'
+    expedited_processing_highest_days: '27'
+    expedited_processing_lowest_days: '27'
+    expedited_processing_median_days: '27'
+    simple_average_days: '9.77'
+    simple_highest_days: '48'
+    simple_lowest_days: less than 1
+    simple_median_days: '8.5'
+  '2016':
+    complex_average_days: '41.57'
+    complex_highest_days: '114'
+    complex_lowest_days: '6'
+    complex_median_days: '34'
+    simple_average_days: '10.09'
+    simple_highest_days: '50'
+    simple_lowest_days: less than 1
+    simple_median_days: '8'

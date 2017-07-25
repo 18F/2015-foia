@@ -2,29 +2,25 @@ abbreviation: USTR
 departments:
 - address:
     address_lines:
-    - Melissa J. Keppel
+    - Janice A. Kaye
     - FOIA Officer
-    - '513'
+    - Anacostia Naval Annex Building 410/Door 123
     city: Washington
     state: DC
-    street: 1724 F Street NW
-    zip: '20508'
-  description: Under the Executive Office of the President, the U.S. Trade Representative
-    negotiates with foreign governments to craft trade agreements and resolve disputes.
+    street: 250 Murray Lane SW
+    zip: '20509'
   emails:
   - foia@ustr.eop.gov
   fax: 202-395-9458
   name: Office of the United States Trade Representative
   phone: 202-395-3419
   public_liaison:
-    name: Jacqueline B. Caldwell
+    name: Monique Ricker
     phone:
     - 202-395-3419
   reading_rooms:
-  - - Electronic Reading Room
-    - https://ustr.gov/about-us/reading-room/electronic-reading-room
-  - - Electronic Reading Room
-    - https://ustr.gov/about-us/reading-room/freedom-information-act-foia/electronic-reading-room
+  - - FOIA Library
+    - https://ustr.gov/about-us/reading-room/freedom-information-act-foia/foia-library
   - - Reading Room
     - https://ustr.gov/about-us/reading-room
   request_time_stats:
@@ -85,20 +81,42 @@ departments:
       simple_highest_days: '98'
       simple_lowest_days: '1'
       simple_median_days: '33'
+    '2015':
+      complex_average_days: '245'
+      complex_highest_days: '1400'
+      complex_lowest_days: '17'
+      complex_median_days: '74'
+      simple_average_days: '25'
+      simple_highest_days: '99'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '154'
+      complex_highest_days: '540'
+      complex_lowest_days: '59'
+      complex_median_days: '104'
+      simple_average_days: '24'
+      simple_highest_days: '91'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
   service_center:
-    name: Jacqueline B. Caldwell
+    name: Melissa Keppel
     phone:
     - 202-395-3419
   top_level: false
-  usa_id: '49724'
-  website: http://www.ustr.gov/about-us/reading-room/freedom-information-act-foia
-description: Under the Executive Office of the President, the U.S. Trade Representative
-  negotiates with foreign governments to craft trade agreements and resolve disputes.
+  website: https://ustr.gov/about-us/reading-room/foia
+description: The Office of the U.S. Trade Representative (USTR) is responsible for
+  developing and coordinating U.S. international trade, commodity, and direct investment
+  policy, and overseeing negotiations with other countries.
 keywords:
 - Administrative practice and procedure
 - Confidential business information
+- Courts
 - Foreign trade
+- Freedom of information
+- Government employees
 - Imports
+- Privacy
 name: Office of the United States Trade Representative
 request_time_stats:
   '2010':
@@ -158,4 +176,21 @@ request_time_stats:
     simple_highest_days: '98'
     simple_lowest_days: '1'
     simple_median_days: '33'
-usa_id: '49724'
+  '2015':
+    complex_average_days: '245'
+    complex_highest_days: '1400'
+    complex_lowest_days: '17'
+    complex_median_days: '74'
+    simple_average_days: '25'
+    simple_highest_days: '99'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+  '2016':
+    complex_average_days: '154'
+    complex_highest_days: '540'
+    complex_lowest_days: '59'
+    complex_median_days: '104'
+    simple_average_days: '24'
+    simple_highest_days: '91'
+    simple_lowest_days: '1'
+    simple_median_days: '19'

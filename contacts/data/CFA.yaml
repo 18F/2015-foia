@@ -1,0 +1,54 @@
+abbreviation: CFA
+departments:
+- address:
+    address_lines:
+    - Frederick Lindstrom
+    - FOIA Officer
+    - '312'
+    city: Washington
+    state: DC
+    street: 401 F St., NW
+    zip: '20001'
+  emails:
+  - flindstrom@cfa.gov
+  fax: 202-504-2195
+  name: Commission of Fine Arts
+  phone: 202-504-2200
+  public_liaison:
+    name: Susan Raposa
+    phone:
+    - 202-504-2200
+  request_time_stats:
+    '2016':
+      complex_average_days: '29'
+      complex_highest_days: '30'
+      complex_lowest_days: '28'
+      complex_median_days: '29'
+      simple_average_days: '18'
+      simple_highest_days: '18'
+      simple_lowest_days: '18'
+      simple_median_days: '18'
+  service_center:
+    phone:
+    - 202-504-2200
+  top_level: false
+  website: https://www.cfa.gov
+description: Through its unique work as the only federal commission dedicated to design
+  review and aesthetic excellence, the Commission of Fine Arts serves the American
+  people, international visitors, and those who live and work in the nation?s capital,
+  contributing to the beauty and dignity of this international symbol of American
+  democracy.
+keywords:
+- Administrative practice and procedure
+- Sunshine Act
+name: Commission of Fine Arts
+request_time_stats:
+  '2016':
+    complex_average_days: '29'
+    complex_highest_days: '30'
+    complex_lowest_days: '28'
+    complex_median_days: '29'
+    simple_average_days: '18'
+    simple_highest_days: '18'
+    simple_lowest_days: '18'
+    simple_median_days: '18'

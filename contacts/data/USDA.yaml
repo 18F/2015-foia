@@ -2,23 +2,22 @@ abbreviation: USDA
 departments:
 - address:
     address_lines:
-    - Carrie Helmold
+    - Shelly Busky
     - FOIA Officer
-    - AG Stop 0202, Room 3521-S
+    - AG Stop 0203, Room 2095-S
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-0273
-  description: The Agricultural Marketing Service supports the fair marketing of U.S.
-    agricultural products.
   emails:
-  - carrie.helmold@ams.usda.gov
-  fax: 202-690-3767
+  - AMS.FOIA@USDA.gov
+  fax: 202-690-6469
   foia_officer:
     name: William D. Allen IV
     phone:
     - 202-720-3785
   keywords:
+  - Accounting
   - Administrative practice and procedure
   - Advertising
   - Advisory committees
@@ -50,10 +49,12 @@ departments:
   - Food grades and standards
   - Food labeling
   - Food packaging
+  - Foods
   - Freedom of information
   - Frozen foods
   - Fruit juices
   - Fruits
+  - Goats
   - Government publications
   - Grapefruit
   - Grapes
@@ -67,6 +68,7 @@ departments:
   - Laboratories
   - Limes
   - Livestock
+  - Mango
   - Marketing agreements
   - Meat and meat products
   - Melons
@@ -97,6 +99,7 @@ departments:
   - Seeds
   - Sheep
   - Soil conservation
+  - Sorghum
   - Soybeans
   - Spearmint oil
   - Tangelos
@@ -105,15 +108,19 @@ departments:
   - Tomatoes
   - Trees
   - Vegetables
+  - Voluntary standards
   - Walnuts
   - Warehouses
   - Watermelons
   name: Agricultural Marketing Service
-  phone: 202-720-2498
+  phone: 202-720-2763
   public_liaison:
-    name: Christine Sarcone
+    name: William Allen
     phone:
-    - 202-720-3203
+    - 202-720-2498
+  reading_rooms:
+  - - FOIA Reading Room
+    - https://www.ams.usda.gov/about-ams/foia/reading-room
   request_form: http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm
   request_time_stats:
     '2010':
@@ -173,12 +180,29 @@ departments:
       simple_highest_days: '514'
       simple_lowest_days: '1'
       simple_median_days: '17'
+    '2015':
+      complex_average_days: '112.67'
+      complex_highest_days: '751'
+      complex_lowest_days: '1'
+      complex_median_days: '48'
+      simple_average_days: '25.43'
+      simple_highest_days: '91'
+      simple_lowest_days: '1'
+      simple_median_days: '25'
+    '2016':
+      complex_average_days: '94.58'
+      complex_highest_days: '328'
+      complex_lowest_days: '1'
+      complex_median_days: '59'
+      simple_average_days: '36.69'
+      simple_highest_days: '359'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
   service_center:
     phone:
-    - 202-720-2498
+    - 202-720-2763
   top_level: false
-  usa_id: '49077'
-  website: ''
+  website: http://www.ams.usda.gov/about-ams/foia
 - address:
     address_lines:
     - Tonya Woods
@@ -189,7 +213,7 @@ departments:
     street: 4700 River Road
     zip: 20737-1232
   emails:
-  - tonya.g.woods@aphis.usda.gov
+  - foia.officer@aphis.usda.gov
   fax: 301-734-5941
   keywords:
   - Administrative practice and procedure
@@ -212,6 +236,7 @@ departments:
   - Customs duties and inspection
   - District of Columbia
   - Endangered and threatened species
+  - Environmental impact statements
   - Equal access to justice
   - Exports
   - Fruits
@@ -238,6 +263,7 @@ departments:
   - Packaging and containers
   - Pets
   - Plant diseases and pests
+  - Plants
   - Postal Service
   - Poultry and poultry products
   - Puerto Rico
@@ -255,21 +281,19 @@ departments:
   - Vegetables
   - Veterinarians
   - Virgin Islands
+  - Wildlife
   misc:
     FOIA Director:
       name: Tonya Woods
       phone:
       - 301-734-8296
   name: Animal & Plant Health Inspection
+  notes: '* Please mail requests to FOIA.Officer@aphis.usda.gov only'
   phone: 301-851-4102
   public_liaison:
+    name: James Ivy
     phone:
     - 301-851-4102
-  reading_rooms:
-  - - FOIA Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources/foia?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
-  - - Freedom of Information Act (FOIA) Reading Room
-    - http://www.aphis.usda.gov/wps/portal/aphis/resources/lawsandregs?1dmy&urile=wcm%3apath%3a%2Faphis_content_library%2Fsa_resources%2Fsa_laws_and_regulations%2Fsa_foia%2Fct_foia_reading_room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -337,11 +361,38 @@ departments:
       simple_highest_days: '864'
       simple_lowest_days: '1'
       simple_median_days: '46'
+    '2015':
+      complex_average_days: '280.2'
+      complex_highest_days: '1265'
+      complex_lowest_days: '14'
+      complex_median_days: '188'
+      expedited_processing_average_days: '75'
+      expedited_processing_highest_days: '75'
+      expedited_processing_lowest_days: '75'
+      expedited_processing_median_days: '75'
+      simple_average_days: '96.46'
+      simple_highest_days: '1101'
+      simple_lowest_days: '1'
+      simple_median_days: '42'
+    '2016':
+      complex_average_days: '233.58'
+      complex_highest_days: '1201'
+      complex_lowest_days: '1'
+      complex_median_days: '122.5'
+      expedited_processing_average_days: '109.33'
+      expedited_processing_highest_days: '157'
+      expedited_processing_lowest_days: '36'
+      expedited_processing_median_days: '135'
+      simple_average_days: '93.66'
+      simple_highest_days: '836'
+      simple_lowest_days: '1'
+      simple_median_days: '50.5'
   service_center:
+    name: Tonya Woods
     phone:
     - 301-851-4102
   top_level: false
-  website: http://www.aphis.usda.gov/wps/portal/aphis/resources/lawsandregs?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
+  website: http://USDA APHIS | FOIA
 - address:
     address_lines:
     - Alexis R. Graves
@@ -357,11 +408,12 @@ departments:
   name: Departmental Management (OSEC/OCIO/ FOIA Service Center)
   phone: 202-690-3318
   public_liaison:
+    name: Ravoyne Payton
     phone:
-    - 202-720-0068
+    - 202-690-0048
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -392,8 +444,9 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '7'
   service_center:
+    name: Marqui Barnes
     phone:
-    - 202-720-0068
+    - 202-694-1802
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -405,9 +458,6 @@ departments:
     state: DC
     street: 1400 Independence Avenue, SW
     zip: '20250'
-  description: The Farm Service Agency aims to support farms and farming communities
-    through a variety of programs including disaster relief, conservation programs,
-    commodity price guarantee programs, and loan programs.
   emails:
   - kent.politsch@wdc.usda.gov
   fax: 202-720-2979
@@ -424,6 +474,7 @@ departments:
   - Aged
   - Agricultural commodities
   - Agriculture
+  - Alaska
   - American Samoa
   - Animal feeds
   - Apples
@@ -434,7 +485,9 @@ departments:
   - Beans
   - Blind
   - Broadband
+  - Buildings and facilities
   - Business and industry
+  - Cigars and cigarettes
   - Citrus fruits
   - Civil rights
   - Claims
@@ -467,6 +520,7 @@ departments:
   - Electric utilities
   - Elementary and secondary education
   - Employment
+  - Endangered and threatened species
   - Energy
   - Energy conservation
   - Environmental impact statements
@@ -539,11 +593,12 @@ departments:
   - Marketing quotas
   - Migrant labor
   - Military personnel
-  - Milk
   - Minimum wages
+  - Mohair
   - Mortgage insurance
   - Mortgages
   - National defense
+  - National wild and scenic rivers system
   - Natural resources
   - Nonprofit organizations
   - Northern Mariana Islands
@@ -557,6 +612,7 @@ departments:
   - Peanuts
   - Penalties
   - Plants
+  - Price controls
   - Price support programs
   - Privacy
   - Private schools
@@ -572,6 +628,7 @@ departments:
   - Science and technology
   - Securities
   - Seeds
+  - Sewage disposal
   - Sex discrimination
   - Sheep
   - Small businesses
@@ -584,6 +641,7 @@ departments:
   - Surplus Government property
   - Taxes
   - Teachers
+  - Technical assistance
   - Telecommunications
   - Telephone
   - Television
@@ -593,6 +651,7 @@ departments:
   - Truth in lending
   - Uranium
   - Urban areas
+  - Utilities
   - Veterans
   - Virgin Islands
   - Vocational education
@@ -615,11 +674,12 @@ departments:
     visiting its website.
   phone: 202-720-7163
   public_liaison:
+    name: Barbara McLean
     phone:
-    - 202-720-1598
+    - 202-720-6788
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er
+    - https://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er
   request_form: http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia
   request_time_stats:
     '2010':
@@ -687,11 +747,36 @@ departments:
       simple_highest_days: '1448'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '17.49'
+      complex_highest_days: '505'
+      complex_lowest_days: '1'
+      complex_median_days: '4'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '3.26'
+      simple_highest_days: '677'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '12.67'
+      complex_highest_days: '96'
+      complex_lowest_days: '1'
+      complex_median_days: '6'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11'
+      simple_average_days: '1'
+      simple_highest_days: '615'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-720-5534
   top_level: false
-  usa_id: '49272'
   website: http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi
 - address:
     address_lines:
@@ -712,6 +797,7 @@ departments:
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
   public_liaison:
+    name: Vacant
     phone:
     - 703-605-0773
   request_form: https://efoia-pal.usda.gov/palMain.aspx
@@ -779,6 +865,28 @@ departments:
       simple_highest_days: '225'
       simple_lowest_days: '1'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '27'
+      complex_highest_days: '27'
+      complex_lowest_days: '27'
+      complex_median_days: '27'
+      expedited_processing_average_days: '349'
+      expedited_processing_highest_days: '349'
+      expedited_processing_lowest_days: '349'
+      expedited_processing_median_days: '349'
+      simple_average_days: '34.95'
+      simple_highest_days: '292'
+      simple_lowest_days: '1'
+      simple_median_days: '23'
+    '2016':
+      complex_average_days: '116.62'
+      complex_highest_days: '617'
+      complex_lowest_days: '25'
+      complex_median_days: '38'
+      simple_average_days: '28.39'
+      simple_highest_days: '485'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
   service_center:
     phone:
     - 703-605-0773
@@ -787,16 +895,14 @@ departments:
 - address:
     address_lines:
     - Arianne Perkins
-    - Acting, FOIA Officer
-    - Room 1142-South Building
+    - FOIA Director
+    - Room 2170-South Building
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-3700
-  description: The Food Safety and Inspection Service is responsible for ensuring
-    that meat, poultry, and eggs are safe and are properly labeled and packaged.
   emails:
-  - fsis.foia@usda.gov
+  - arianne.perkins@fsis.usda.gov
   fax: 202-690-3023
   keywords:
   - Administrative practice and procedure
@@ -822,10 +928,13 @@ departments:
   - Meat inspection
   - Nutrition
   - Oils and fats
+  - Penalties
+  - Polychlorinated biphenyls (PCB's)
   - Poultry and poultry products
   - Reporting and recordkeeping requirements
   - Seizures and forfeitures
   - Signs and symbols
+  - Technical assistance
   - Transportation
   misc:
     FOIA Contact:
@@ -833,13 +942,14 @@ departments:
       phone:
       - 202-690-2760
   name: Food Safety & Inspection Service
-  phone: 202-690-2760
+  phone: 202-690-1787
   public_liaison:
+    name: Mark Brook
     phone:
-    - 202-690-2760
+    - 202-690-1787
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
+    - https://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -895,11 +1005,28 @@ departments:
       simple_highest_days: '792'
       simple_lowest_days: '1'
       simple_median_days: '23'
+    '2015':
+      complex_average_days: '309'
+      complex_highest_days: '309'
+      complex_lowest_days: '309'
+      complex_median_days: '309'
+      simple_average_days: '108.13'
+      simple_highest_days: '636'
+      simple_lowest_days: '1'
+      simple_median_days: '63'
+    '2016':
+      complex_average_days: '252'
+      complex_highest_days: '395'
+      complex_lowest_days: '126'
+      complex_median_days: '225'
+      simple_average_days: '95.36'
+      simple_highest_days: '543'
+      simple_lowest_days: '1'
+      simple_median_days: '50.5'
   service_center:
     phone:
     - 202-690-3882
   top_level: false
-  usa_id: '49331'
   website: http://www.fsis.usda.gov/FOIA/index.asp
 - address:
     address_lines:
@@ -908,13 +1035,8 @@ departments:
     - Room 5607-S, Stop 1004
     city: Washington
     state: DC
-    street: 1400 Independence Avenue, SW
+    street: (202) 690-5261
     zip: 20250-1004
-  description: The Foreign Agricultural Service helps bring U.S. agricultural products
-    to international markets by prodviding resource and market intelligence assistance
-    to exporters. The Foreign Agricultural Service also assists in the administration
-    of foreign food aid, including helping to boost the agricultural capabilities
-    of aid recipients.
   emails:
   - Rochelle.Foster@fas.usda.gov
   foia_officer:
@@ -922,24 +1044,29 @@ departments:
     phone:
     - 202-720-0154
   keywords:
+  - Administrative practice and procedure
   - Agricultural commodities
   - Cheese
   - Exports
   - Food assistance programs
   - Foreign aid
   - Government procurement
+  - Grant programs
+  - Grant programs-agriculture
   - Imports
   - Reporting and recordkeeping requirements
+  - Sugar
+  - Technical assistance
   - Trade adjustment assistance
   name: Foreign Agricultural Service
   phone: 202-720-2936
   public_liaison:
-    name: Sally Klusaritz
+    name: Ellen Dougherty
     phone:
     - 202-720-3448
   reading_rooms:
-  - - FAS eFOIA Reading Room
-    - http://www.fas.usda.gov/foia-reading-room
+  - - FAS FOIA Reading Room
+    - https://www.fas.usda.gov/foia-reading-room
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1007,25 +1134,40 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '89.8'
+      complex_highest_days: '185'
+      complex_lowest_days: '34'
+      complex_median_days: '78'
+      expedited_processing_average_days: '128.5'
+      expedited_processing_highest_days: '181'
+      expedited_processing_lowest_days: '76'
+      expedited_processing_median_days: '128.5'
+      simple_average_days: '16'
+      simple_highest_days: '76'
+      simple_lowest_days: '3'
+      simple_median_days: '12'
+    '2016':
+      simple_average_days: '25'
+      simple_highest_days: '25'
+      simple_lowest_days: '25'
+      simple_median_days: '25'
   service_center:
     phone:
     - 202-720-3101
   top_level: false
-  usa_id: '49334'
   website: http://www.fas.usda.gov/freedom-information-act-foia
 - address:
     address_lines:
-    - George Vargas
+    - Linda Lasko
     - 'FOIA/PA Officer - ATTN: FOIA/PA Team'
     - Stop 1143
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-1143
-  description: The Forest Service works to sustain the health, diversity, and productivity
-    of the nation's forests and grasslands.
   emails:
-  - gvargas@fs.fed.us
+  - wo_foia@fs.fed.us
   fax: 202-649-1167
   keywords:
   - Administrative practice and procedure
@@ -1049,8 +1191,10 @@ departments:
   - Highways and roads
   - Indians
   - Indians-lands
+  - Indians-tribal government
   - Intergovernmental relations
   - Investigations
+  - Land sales
   - Law enforcement
   - Mineral resources
   - Mineral royalties
@@ -1065,6 +1209,8 @@ departments:
   - Organization and functions (Government agencies)
   - Penalties
   - Public lands
+  - Public lands_mineral resources
+  - Public lands_rights-of-way
   - Range management
   - Reclamation
   - Reporting and recordkeeping requirements
@@ -1088,10 +1234,10 @@ departments:
   name: Forest Service - Headquarters
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-205-0444
+  phone: 202-205-1542
   public_liaison:
     phone:
-    - 202-205-0444
+    - 202-205-1542
   request_time_stats:
     '2010':
       complex_average_days: '38.5'
@@ -1158,27 +1304,49 @@ departments:
       simple_highest_days: '705'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2015':
+      complex_average_days: '57.2'
+      complex_highest_days: '1074'
+      complex_lowest_days: '1'
+      complex_median_days: '38'
+      expedited_processing_average_days: '13.83'
+      expedited_processing_highest_days: '62'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '30.97'
+      simple_highest_days: '801'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '79.59'
+      complex_highest_days: '1682'
+      complex_lowest_days: '1'
+      complex_median_days: '36'
+      expedited_processing_average_days: '72.67'
+      expedited_processing_highest_days: '213'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '33.01'
+      simple_highest_days: '1207'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-205-1542
   top_level: false
-  usa_id: '49339'
   website: http://www.fs.fed.us/im/foia/
 - address:
     address_lines:
-    - Joanne Peterson
-    - FOIA/PA Officer
-    - Room 2548 - AG Stop 3642
+    - Dexter Thomas
+    - FOIA Officer
+    - Room 2526
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
-    zip: 20250-3604
-  description: The Grain Inspection, Packers and Stockyards Administration was created
-    to promote fair and competitive markets for the agricultural sector. It accomplishes
-    this goal through standardization and inspection services.
+    zip: 20250-3642
   emails:
-  - joanne.c.peterson@usda.gov
-  fax: 202-690-2755
+  - R.Dexter.Thomas@usda.gov
+  fax: 202-720-0774
   keywords:
   - Administrative practice and procedure
   - Agricultural commodities
@@ -1187,6 +1355,7 @@ departments:
   - Conflict of interests
   - Exports
   - Freedom of information
+  - Government contracts
   - Grains
   - Hogs
   - Intergovernmental relations
@@ -1206,11 +1375,14 @@ departments:
       phone:
       - 202-720-8087
   name: Grain Inspection, Packers & Stockyards Administration
-  phone: 202-720-8087
+  phone: 202-720-6529
   public_liaison:
     name: Dexter Thomas
     phone:
     - 202-720-6529
+  reading_rooms:
+  - - FOIA Reading Room
+    - https://www.gipsa.usda.gov/foia/foia.aspx
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1270,13 +1442,29 @@ departments:
       simple_highest_days: '27'
       simple_lowest_days: '1'
       simple_median_days: '6.5'
+    '2015':
+      complex_average_days: '21.96'
+      complex_highest_days: '52'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      simple_average_days: '5.47'
+      simple_highest_days: '25'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '30.89'
+      complex_highest_days: '110'
+      complex_lowest_days: '4'
+      complex_median_days: '24'
+      simple_average_days: '4.33'
+      simple_highest_days: '17'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
-    name: Joanne Peterson
     phone:
-    - 202-720-8087
+    - 202-720-6529
   top_level: false
-  usa_id: '49354'
-  website: http://www.gipsa.usda.gov/foia.html
+  website: https://www.gipsa.usda.gov/foia/foia_guide.aspx
 - address:
     address_lines:
     - Brenda V. Seegars
@@ -1338,50 +1526,43 @@ departments:
   website: http://www.nad.usda.gov/foia.html
 - address:
     address_lines:
-    - Cheri Alsobrook
+    - Cheri Alsobrook/Sandy Fran?ois
     - FOIA Officer
     city: New Orleans
     state: LA
     street: P.O. Box 60000
     zip: '70160'
   emails:
-  - cheri.alsobrook@nfc.usda.gov
-  fax: 504-426-9706
+  - sandy.francois@nfc.usda.gov
+  fax: 303-205-3202
   foia_officer:
     name: John Hemstreet
     phone:
     - 504-426-0168
   name: National Finance Center
-  phone: 504-426-0374
+  phone: 504-426-0300
   public_liaison:
-    name: Shri Alsobrook, Sandy Francois
+    name: Cheri Alsobrook
     phone:
-    - 504-426-0327
-  reading_rooms:
-  - - Click here to access the NFC Electronic Reading Room
-    - https://www.nfc.usda.gov/FOIA/foiaereading.html
+    - 504-426-0374
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   service_center:
-    name: Sandy Francois
+    name: Sandy Fran?ois
     phone:
     - 504-426-0300
   top_level: false
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
 - address:
     address_lines:
-    - Deryl Richardson
+    - Patrick McLoughlin
     - National FOIA Officer
-    - Room 4242-S
-    city: Washington
-    state: DC
-    street: 1400 Independence Avenue, SW
-    zip: '20250'
-  description: From the U.S. Department of Agriculture, the Natural Resources Conservation
-    Service works with landowners through conservation planning and assistance to
-    foster healthy ecosystems.
+    city: St Paul
+    state: MN
+    street: 375 Jackson St., Ste. 600
+    zip: '55101'
   emails:
-  - deryl.richardson@wdc.usda.gov
-  fax: 202-720-9030
+  - patrick.mcloughlin@wdc.usda.gov
+  fax: 651-602-7914
   foia_officer:
     name: Deryl Richardson
     phone:
@@ -1398,11 +1579,14 @@ departments:
   - Fishing
   - Flood plains
   - Forests and forest products
+  - Government contracts
   - Grant programs
   - Hunting
   - Indians
+  - Indians-lands
   - Natural Resources Conservation Service
   - Natural resources
+  - Plants
   - Reporting and recordkeeping requirements
   - Rural areas
   - Soil conservation
@@ -1412,10 +1596,14 @@ departments:
   - Watersheds
   - Wildlife
   name: Natural Resources Conservation Service
-  phone: 202-690-4985
+  phone: 202-590-6168
   public_liaison:
+    name: Philip Buchan
     phone:
-    - 202-690-4985
+    - 301-504-1701
+  reading_rooms:
+  - - Freedom of Information Act (FOIA) Reading Room
+    - https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=nrcseprd815406%20
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1475,12 +1663,34 @@ departments:
       simple_highest_days: '549'
       simple_lowest_days: '1'
       simple_median_days: '26'
+    '2015':
+      complex_average_days: '46.09'
+      complex_highest_days: '523'
+      complex_lowest_days: '1'
+      complex_median_days: '22.5'
+      simple_average_days: '27.62'
+      simple_highest_days: '572'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '53.9'
+      complex_highest_days: '282'
+      complex_lowest_days: '1'
+      complex_median_days: '29.5'
+      expedited_processing_average_days: '83.33'
+      expedited_processing_highest_days: '236'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '13'
+      simple_average_days: '50.66'
+      simple_highest_days: '762'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
   service_center:
+    name: Patrick McLoughlin
     phone:
-    - 202-690-4985
+    - 202-590-6168
   top_level: false
-  usa_id: '49560'
-  website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=NRCS143_021450
+  website: http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=nrcs143_021450
 - address:
     address_lines:
     - Room 102-E
@@ -1504,7 +1714,7 @@ departments:
     - 202-720-1276
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1552,6 +1762,20 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '2'
       simple_median_days: '11'
+    '2015':
+      simple_average_days: '5.1'
+      simple_highest_days: '12'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '1'
+      complex_highest_days: '1'
+      complex_lowest_days: '1'
+      complex_median_days: '1'
+      simple_average_days: '3.2'
+      simple_highest_days: '9'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     name: Julie Hetrick
     phone:
@@ -1560,7 +1784,7 @@ departments:
   website: http://www.dm.usda.gov/foia.htm
 - address:
     address_lines:
-    - James Macko
+    - Iris Roseboro
     - FOIA Officer
     - Room 3414-South Building
     city: Washington
@@ -1568,7 +1792,7 @@ departments:
     street: Stop Box 9020
     zip: '20250'
   emails:
-  - james.macko@cfo.usda.gov
+  - iris.roseboro@cfo.usda.gov
   fax: 202-690-3536
   foia_officer:
     name: Richard Saafeld
@@ -1608,6 +1832,7 @@ departments:
   - Grant programs
   - Grant programs-education
   - Grant programs-health
+  - Grant programs-housing and community development
   - Grant programs-social programs
   - Guam
   - Home improvement
@@ -1622,6 +1847,7 @@ departments:
   - Inventions and patents
   - Loan programs
   - Loan programs-agriculture
+  - Loan programs-business
   - Loan programs-communications
   - Loan programs-energy
   - Loan programs-housing and community development
@@ -1641,6 +1867,7 @@ departments:
   - Schools
   - Science and technology
   - Securities
+  - Small businesses
   - State and local governments
   - Student aid
   - Teachers
@@ -1658,13 +1885,14 @@ departments:
   - Watersheds
   - Women
   name: Office of the Chief Financial Officer
-  phone: 202-720-1221
+  phone: 202-720-6257
   public_liaison:
+    name: Cheri Alsobrook
     phone:
-    - 202-720-0995
+    - 504-426-0374
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1712,9 +1940,15 @@ departments:
       simple_highest_days: '234'
       simple_lowest_days: '1'
       simple_median_days: '130.5'
+    '2015':
+      simple_average_days: '55.6'
+      simple_highest_days: '143'
+      simple_lowest_days: '3'
+      simple_median_days: '19'
   service_center:
+    name: Cheri Alsobrook
     phone:
-    - 202-720-1893
+    - 504-426-0374
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1732,11 +1966,12 @@ departments:
   name: Office of the Chief Information Officer (OSEC/OCIO/ FOIA Service Center)
   phone: 202-690-3318
   public_liaison:
+    name: Ravoyne Payton
     phone:
     - 202-720-6355
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2011':
       complex_average_days: '50.6'
@@ -1765,8 +2000,9 @@ departments:
       simple_lowest_days: '1'
       simple_median_days: '28'
   service_center:
+    name: Marqui Barnes
     phone:
-    - 301-504-4154
+    - 202-694-1802
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
 - address:
@@ -1778,8 +2014,22 @@ departments:
     street: 1400 Independence Avenue, SW
     zip: 20250-9410
   emails:
-  - ascrfoia@ascr.usda.gov
+  - ascrfoia@usda.gov
   fax: 202-690-7442
+  keywords:
+  - Administrative practice and procedure
+  - Advisory committees
+  - Civil rights
+  - Claims
+  - Conflict of interests
+  - Equal employment opportunity
+  - Federal buildings and facilities
+  - Freedom of information
+  - Government employees
+  - Individuals with disabilities
+  - Organization and functions (Government agencies)
+  - Privacy
+  - Sunshine Act
   misc:
     Director, Office of Adjudication and Compliance:
       name: Michael G. Watts
@@ -1792,8 +2042,8 @@ departments:
     phone:
     - 202-720-5212
   reading_rooms:
-  - - E-FOIA Reading Room
-    - http://www.ascr.usda.gov/efoia_cr.html
+  - - Electronic FOIA Reading Room (E-FOIA)
+    - https://www.ascr.usda.gov/electronic-foia-reading-room-e-foia
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -1853,20 +2103,39 @@ departments:
       simple_highest_days: '32'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '6.5'
+      complex_highest_days: '9'
+      complex_lowest_days: '3'
+      complex_median_days: '7'
+      simple_average_days: '13.79'
+      simple_highest_days: '111'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '36.17'
+      complex_highest_days: '76'
+      complex_lowest_days: '8'
+      complex_median_days: '27'
+      simple_average_days: '11.33'
+      simple_highest_days: '32'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     name: Samantha Jones
     phone:
     - 202-720-5212
   top_level: false
-  website: http://www.ascr.usda.gov/foia_cr.html
+  website: https://www.ascr.usda.gov/freedom-information-act-foia
 - address:
     address_lines:
-    - Shawn McGruder
-    - FOIA Officer, General Law Division
+    - Danielle Duvall Adams
+    - FOIA Officer
+    - Room 2023-A
     city: Washington
     state: DC
-    street: Room 3311-South Building
-    zip: 20250-1400
+    street: 1400 Independence Avenue, SW
+    zip: 20250-1415
   emails:
   - foiaofficerogc@ogc.usda.gov
   fax: 202-720-5837
@@ -1875,13 +2144,14 @@ departments:
     phone:
     - 202-720-5824
   name: Office of the General Counsel
-  phone: 202-720-5824
+  phone: 202-378-1074
   public_liaison:
+    name: Karen M. Carrington
     phone:
     - 202-720-5565
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -1916,6 +2186,16 @@ departments:
       simple_highest_days: '1476'
       simple_lowest_days: '1'
       simple_median_days: '40'
+    '2015':
+      simple_average_days: '144'
+      simple_highest_days: '547'
+      simple_lowest_days: '1'
+      simple_median_days: '31'
+    '2016':
+      simple_average_days: '51'
+      simple_highest_days: '128'
+      simple_lowest_days: '14'
+      simple_median_days: '44'
   service_center:
     phone:
     - 202-720-5565
@@ -1935,6 +2215,10 @@ departments:
   fax: 202-690-6305
   name: Office of the Inspector General
   phone: 202-720-5677
+  public_liaison:
+    name: Albert Stewart
+    phone:
+    - 202-690-0048
   request_time_stats:
     '2010':
       complex_average_days: '156'
@@ -1989,6 +2273,24 @@ departments:
       simple_highest_days: '413'
       simple_lowest_days: '2'
       simple_median_days: '61'
+    '2015':
+      complex_average_days: '254'
+      complex_highest_days: '606'
+      complex_lowest_days: '46'
+      complex_median_days: '200'
+      simple_average_days: '115'
+      simple_highest_days: '612'
+      simple_lowest_days: '4'
+      simple_median_days: '76'
+    '2016':
+      complex_average_days: '284.85'
+      complex_highest_days: '950'
+      complex_lowest_days: '1'
+      complex_median_days: '187'
+      simple_average_days: '51'
+      simple_highest_days: '294'
+      simple_lowest_days: '3'
+      simple_median_days: '31.5'
   top_level: false
 - address:
     address_lines:
@@ -2005,47 +2307,43 @@ departments:
   name: Office of the Secretary (OSEC/OCIO/ FOIA Service Center)
   phone: 202-690-3318
   public_liaison:
+    name: Ravoyne Payton
     phone:
-    - 202-720-8164
+    - 202-690-0048
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
-    - http://www.dm.usda.gov/foia/agencyfoia.htm
+    - https://www.dm.usda.gov/foia/agencyfoia.htm
   service_center:
+    name: Marqui Barnes
     phone:
-    - 202-720-8164
+    - 202-694-1802
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
-- abbreviation: Agriculture Department
-  address:
+- address:
     address_lines:
-    - Bill Crews & Kimberly Morris
+    - Kimberly Morris
     - FOIA Officer
-    - Room 6628-S, Stop 0821
+    - Room 6609-S, Stop 0801
     city: Washington
     state: DC
     street: 1400 Independence Avenue, SW
     zip: '20250'
-  description: The Department of Agriculture's Risk Management Agency administers
-    the Federal Crop Insurance Corporation and provides risk management information
-    and services to farmers and producers.
   emails:
-  - 'bill.crews@rma.usda.gov
-
-    kimberly.morris@rma.usda.gov'
+  - FOIA@rma.usda.gov
   fax: 202-720-1162
   foia_officer:
     name: Bill Crews
     phone:
     - 202-720-9507
   name: Risk Management Agency
-  phone: 202-720-9507
+  phone: 202-690-3041
   public_liaison:
-    name: Wes Azama
+    name: Vacant
     phone:
-    - 202-260-0080
+    - 202-260-8252
   reading_rooms:
-  - - RMA Electronic  Reading Room
-    - http://www.rma.usda.gov/aboutrma/foia/reading.html
+  - - RMA Electronic Reading Room
+    - https://www.rma.usda.gov/aboutrma/foia/reading.html
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   request_time_stats:
     '2010':
@@ -2105,11 +2403,32 @@ departments:
       simple_highest_days: '317'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '100.97'
+      complex_highest_days: '753'
+      complex_lowest_days: '1'
+      complex_median_days: '7'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '11'
+      simple_average_days: '12.11'
+      simple_highest_days: '82'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '60.6'
+      complex_highest_days: '509'
+      complex_lowest_days: '1'
+      complex_median_days: '9'
+      simple_average_days: '14.06'
+      simple_highest_days: '408'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     phone:
-    - 202-720-9507
+    - 202-690-3041
   top_level: false
-  usa_id: '49649'
   website: http://www.rma.usda.gov/aboutrma/foia/foia.html
 - address:
     address_lines:
@@ -2134,8 +2453,12 @@ departments:
     Statistics Service, and National Institute of Food and Agriculture.
   phone: 301-504-1655
   public_liaison:
+    name: Chris Bentley
     phone:
     - 301-504-1743
+  reading_rooms:
+  - - Reading room
+    - https://www.ars.usda.gov/oc/foia/foia-reference-guide-reading-room/
   request_form: http://www.ars.usda.gov/is/foia/foiaform.htm
   request_time_stats:
     '2010':
@@ -2195,11 +2518,29 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '19.04'
+      complex_highest_days: '70'
+      complex_lowest_days: '1'
+      complex_median_days: '19'
+      simple_average_days: '10.51'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '26.55'
+      complex_highest_days: '106'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      simple_average_days: '12.69'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 301-504-1743
   top_level: false
-  website: http://www.ars.usda.gov/is/foia/foiaform.htm
+  website: http://www.ars.usda.gov/Services/docs.htm?docid=1398
 - address:
     address_lines:
     - Lolita Ellis
@@ -2209,8 +2550,6 @@ departments:
     state: DC
     street: 1400 Independence Avenue, SW
     zip: 20250-0706
-  description: Through various programs, the Department of Agriculture's Rural Development
-    works to improve the economy and quality of life of rural America.
   fax: 202-692-0034
   misc:
     FOIA/PA Officer:
@@ -2272,15 +2611,41 @@ departments:
       simple_highest_days: '1097'
       simple_lowest_days: '1'
       simple_median_days: '63.5'
+    '2015':
+      complex_average_days: '396.39'
+      complex_highest_days: '1162'
+      complex_lowest_days: '1'
+      complex_median_days: '478'
+      expedited_processing_average_days: '10.5'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '10.5'
+      simple_average_days: '188.05'
+      simple_highest_days: '961'
+      simple_lowest_days: '1'
+      simple_median_days: '38'
+    '2016':
+      complex_average_days: '110.8'
+      complex_highest_days: '1461'
+      complex_lowest_days: '3'
+      complex_median_days: '27'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6'
+      simple_average_days: '22.58'
+      simple_highest_days: '456'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
   service_center:
-    name: Doloras Johnson
+    name: Stephen Grady
     phone:
-    - 202-692-0015
+    - 202-690-5261
   top_level: false
-  usa_id: '49653'
   website: http://www.rurdev.usda.gov/RD_EFOIA.html
-description: The Department of Agriculture provides leadership on food, agriculture,
-  natural resources, and related issues.
+description: USDA provides leadership on food, agriculture, natural resources, and
+  related issues based on sound public policy, the best available science, and efficient
+  management.
 keywords:
 - Accountants
 - Accounting
@@ -2290,11 +2655,14 @@ keywords:
 - Advertising
 - Advisory committees
 - Aged
+- Agency for International Development
 - Agricultural commodities
 - Agricultural research
 - Agriculture
 - Airports
 - Alaska
+- Alcohol abuse
+- Alcoholism
 - Aliens
 - Almonds
 - American Samoa
@@ -2325,6 +2693,7 @@ keywords:
 - Cervids
 - Cheese
 - Cherries
+- Cigars and cigarettes
 - Citrus fruits
 - Civil rights
 - Claims
@@ -2337,6 +2706,7 @@ keywords:
 - Communications
 - Communications equipment
 - Community development
+- Community development block grants
 - Computer technology
 - Concessions
 - Confidential business information
@@ -2355,6 +2725,8 @@ keywords:
 - Dairy products
 - Dates
 - Day care
+- Dental health
+- Disability benefits
 - Disaster assistance
 - District of Columbia
 - Drug abuse
@@ -2400,6 +2772,7 @@ keywords:
 - Food labeling
 - Food packaging
 - Food stamps
+- Foods
 - Foreign aid
 - Forests and forest products
 - Fraud
@@ -2418,6 +2791,7 @@ keywords:
 - Government publications
 - Government securities
 - Grains
+- Grant administrations
 - Grant programs
 - Grant programs-Indians
 - Grant programs-agriculture
@@ -2429,15 +2803,19 @@ keywords:
 - Grant programs-housing and community development
 - Grant programs-natural resources
 - Grant programs-social programs
+- Grant programs-veterans
 - Grapefruit
 - Grapes
 - Grazing lands
 - Guam
 - Hay
 - Hazelnuts
+- Health
+- Health care
 - Health facilities
 - Health insurance
 - Health professions
+- Health records
 - Highways and roads
 - Historic preservation
 - Hogs
@@ -2445,6 +2823,7 @@ keywords:
 - Homeless
 - Honey
 - Horses
+- Hospice care
 - Hospitals
 - Hostages
 - Housing
@@ -2457,6 +2836,7 @@ keywords:
 - Indians
 - Indians-education
 - Indians-lands
+- Indians-tribal government
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
@@ -2465,10 +2845,12 @@ keywords:
 - Investigations
 - Investments
 - Iraq
+- Kidney diseases
 - Kiwifruit
 - Kuwait
 - Labeling
 - Laboratories
+- Land sales
 - Law enforcement
 - Lawyers
 - Lebanon
@@ -2482,10 +2864,13 @@ keywords:
 - Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
+- Loan programs-health
 - Loan programs-housing and community development
 - Loan programs-natural resources
+- Loan programs-social programs
 - Lobbying
 - Low and moderate income housing
+- Mango
 - Manpower training programs
 - Manufactured homes
 - Marine mammals
@@ -2498,8 +2883,11 @@ keywords:
 - Measurement standards
 - Meat and meat products
 - Meat inspection
+- Medicaid
 - Medical research
+- Medicare
 - Melons
+- Mental health programs
 - Migrant labor
 - Military personnel
 - Milk
@@ -2509,6 +2897,7 @@ keywords:
 - Miners
 - Mines
 - Minimum wages
+- Mohair
 - Mortgage insurance
 - Mortgages
 - Motion pictures
@@ -2518,6 +2907,7 @@ keywords:
 - National defense
 - National forests
 - National parks
+- National wild and scenic rivers system
 - Natural Resources Conservation Service
 - Natural resources
 - Navigation (air)
@@ -2526,6 +2916,7 @@ keywords:
 - Northern Mariana Islands
 - Nuclear energy
 - Nursery stock
+- Nursing homes
 - Nutrition
 - Nuts
 - Oats
@@ -2547,17 +2938,22 @@ keywords:
 - Plant diseases and pests
 - Plants
 - Plums
+- Polychlorinated biphenyls (PCB's)
 - Popcorn
 - Postal Service
 - Potatoes
 - Poultry and poultry products
+- Price controls
 - Price support programs
+- Prisons
 - Privacy
 - Private schools
 - Prunes
 - Public assistance programs
 - Public housing
 - Public lands
+- Public lands_mineral resources
+- Public lands_rights-of-way
 - Puerto Rico
 - Quarantine
 - Railroads
@@ -2566,12 +2962,14 @@ keywords:
 - Real property acquisition
 - Reclamation
 - Religious discrimination
+- Relocation assistance
 - Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Rice
 - Rights-of-way
 - Rural areas
+- Safety
 - Scholarships and fellowships
 - School breakfast and lunch programs
 - School construction
@@ -2583,12 +2981,14 @@ keywords:
 - Seeds
 - Seismic safety
 - Seizures and forfeitures
+- Sewage disposal
 - Sex discrimination
 - Sheep
 - Signs and symbols
 - Small businesses
 - Social security
 - Soil conservation
+- Sorghum
 - Soybeans
 - Spearmint oil
 - State and local governments
@@ -2597,6 +2997,7 @@ keywords:
 - Student aid
 - Students
 - Sugar
+- Supplemental Security Income (SSI)
 - Surety bonds
 - Surplus Government property
 - Tangelos
@@ -2621,12 +3022,14 @@ keywords:
 - Uniform System of Accounts
 - Uranium
 - Urban areas
+- Utilities
 - Vegetables
 - Veterans
 - Veterinarians
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Voluntary standards
 - Volunteers
 - Wages
 - Walnuts
@@ -2712,4 +3115,29 @@ request_time_stats:
     simple_highest_days: '1476'
     simple_lowest_days: '1'
     simple_median_days: '1'
-usa_id: '49015'
+  '2015':
+    complex_average_days: '51.14'
+    complex_highest_days: '1393'
+    complex_lowest_days: '1'
+    complex_median_days: '24'
+    expedited_processing_average_days: '49'
+    expedited_processing_highest_days: '349'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '11'
+    simple_average_days: '11.2'
+    simple_highest_days: '1101'
+    simple_lowest_days: '1'
+    simple_median_days: '20'
+  '2016':
+    complex_average_days: '72.65'
+    complex_highest_days: '1682'
+    complex_lowest_days: '1'
+    complex_median_days: '24'
+    expedited_processing_average_days: '83.33'
+    expedited_processing_highest_days: '236'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '13'
+    simple_average_days: '6.66'
+    simple_highest_days: '1207'
+    simple_lowest_days: '1'
+    simple_median_days: '1'

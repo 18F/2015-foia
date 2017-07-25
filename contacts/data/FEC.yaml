@@ -9,9 +9,6 @@ departments:
     state: DC
     street: 999 E Street, NW
     zip: '20463'
-  description: The Federal Election Commission enforces federal campaign finance laws,
-    including monitoring donation prohibitions and limits and overseeing public funding
-    for presidential campaigns.
   emails:
   - FOIA@fec.gov
   fax: 202-219-1043
@@ -113,27 +110,54 @@ departments:
       simple_highest_days: '125'
       simple_lowest_days: '2'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '125'
+      complex_highest_days: '452'
+      complex_lowest_days: '23'
+      complex_median_days: '64'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '10'
+      simple_average_days: '23.7'
+      simple_highest_days: '158'
+      simple_lowest_days: '2'
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '68.6'
+      complex_highest_days: '321'
+      complex_lowest_days: '9'
+      complex_median_days: '37'
+      simple_average_days: '21.3'
+      simple_highest_days: '240'
+      simple_lowest_days: '2'
+      simple_median_days: '14'
   service_center:
     name: Candace Salley
     phone:
     - 202-694-1650
   top_level: false
-  usa_id: '52607'
   website: http://www.fec.gov/press/foia.shtml
-description: The Federal Election Commission enforces federal campaign finance laws,
-  including monitoring donation prohibitions and limits and overseeing public funding
-  for presidential campaigns.
+description: In 1975, Congress created the Federal Election Commission (FEC) to administer
+  and enforce the Federal Election Campaign Act (FECA) - the statute that governs
+  the financing of federal elections. The duties of the FEC, which is an independent
+  regulatory agency, are to disclose campaign finance information, to enforce the
+  provisions of the law such as the limits and prohibitions on contributions, and
+  to oversee the public funding of Presidential elections.
 keywords:
 - Administrative practice and procedure
 - Archives and records
+- Banks, banking
 - Business and industry
 - Campaign funds
+- Civil rights
 - Conflict of interests
 - Credit
 - Elections
 - Freedom of information
 - Government contracts
 - Government employees
+- Individuals with disabilities
 - Labor
 - Law enforcement
 - Nonprofit organizations
@@ -237,4 +261,25 @@ request_time_stats:
     simple_highest_days: '125'
     simple_lowest_days: '2'
     simple_median_days: '20'
-usa_id: '52607'
+  '2015':
+    complex_average_days: '125'
+    complex_highest_days: '452'
+    complex_lowest_days: '23'
+    complex_median_days: '64'
+    expedited_processing_average_days: '11'
+    expedited_processing_highest_days: '18'
+    expedited_processing_lowest_days: '5'
+    expedited_processing_median_days: '10'
+    simple_average_days: '23.7'
+    simple_highest_days: '158'
+    simple_lowest_days: '2'
+    simple_median_days: '13'
+  '2016':
+    complex_average_days: '68.6'
+    complex_highest_days: '321'
+    complex_lowest_days: '9'
+    complex_median_days: '37'
+    simple_average_days: '21.3'
+    simple_highest_days: '240'
+    simple_lowest_days: '2'
+    simple_median_days: '14'

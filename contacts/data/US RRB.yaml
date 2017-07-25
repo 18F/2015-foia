@@ -2,26 +2,25 @@ abbreviation: RRB
 departments:
 - address:
     address_lines:
-    - Eric Wooden
+    - Eric T. Wooden
     - FOIA Officer
     city: Chicago
     state: IL
     street: 844 North Rush Street
     zip: 60611-2092
+  emails:
+  - Eric.Wooden@rrb.gov
   fax: 312-751-7102
   foia_officer:
     name: Eric Wooden
     phone:
     - 312-751-4936
   name: Main Office
-  phone: 312-751-4936
+  phone: 312-751-7131
   public_liaison:
     name: Marguerite P. Dadabo
     phone:
-    - 312-751-4936
-  reading_rooms:
-  - - RRB Reading Room
-    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
+    - 312-751-4945
   request_form: https://secure.rrb.gov/efoia/
   service_center:
     phone:
@@ -30,24 +29,26 @@ departments:
   website: http://www.rrb.gov/blaw/foia/foia.asp
 - address:
     address_lines:
+    - Patricia Marshall
     - Freedom of Information Officer
     - Room 450
     city: Chicago
     state: IL
     street: 844 North Rush Street
     zip: 60611-2092
+  emails:
+  - Patricia.Marshall@oig.rrb.gov
+  fax: 312-751-4342
   misc:
     Freedom of Information Officer:
       phone:
       - 312-751-4350
   name: Office of the Inspector General
-  phone: 312-751-4350
+  phone: 312-751-4690
   public_liaison:
+    name: Lauren A. McLees
     phone:
-    - 312-751-4350
-  reading_rooms:
-  - - RRB Reading Room
-    - http://www.rrb.gov/blaw/foia/foia_guide.asp#reading
+    - 312-751-4690
   request_form: https://secure.rrb.gov/efoia/
   request_time_stats:
     '2008':
@@ -125,13 +126,28 @@ departments:
       simple_highest_days: '121'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2015':
+      simple_average_days: '45.5'
+      simple_highest_days: '141'
+      simple_lowest_days: '7'
+      simple_median_days: '17'
+    '2016':
+      simple_average_days: '8.8'
+      simple_highest_days: '30'
+      simple_lowest_days: '7'
+      simple_median_days: '6'
   service_center:
     phone:
-    - 312-751-4350
+    - 312-751-4690
   top_level: false
   website: http://www.rrb.gov/blaw/foia/foia.asp
-description: The Railroad Retirement Board administers retirement and survivor, unemployment
-  and sickness benefits for U.S. railroad workers and their families.
+description: The Railroad Retirement Board (RRB) is an independent agency in the executive
+  branch of the Federal Government. The RRB's primary function is to administer comprehensive
+  retirement-survivor and unemployment-sickness benefit programs for the nation's
+  railroad workers and their families, under the Railroad Retirement and Railroad
+  Unemployment Insurance Acts. In connection with the retirement program, the RRB
+  has administrative responsibilities under the Social Security Act for certain benefit
+  payments and railroad workers' Medicare coverage.
 keywords:
 - Administrative practice and procedure
 - Aged
@@ -181,4 +197,3 @@ keywords:
 - Wages
 name: Railroad Retirement Board
 request_form: https://secure.rrb.gov/efoia/
-usa_id: '52657'

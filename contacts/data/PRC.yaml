@@ -9,9 +9,8 @@ departments:
     state: DC
     street: 901 New York Avenue, NW
     zip: '20268'
-  description: The Postal Regulatory Commission is responsible for oversight of the
-    U.S. Postal Service, including oversight of rates and services, and ensuring the
-    Postal Service meets all of its legal requirements.
+  emails:
+  - ruth.a.abrams@prc.gov
   fax: 202-789-6891
   misc:
     Assistant Secretary:
@@ -19,12 +18,12 @@ departments:
       phone:
       - 202-789-6800
   name: Postal Regulatory Commission
-  phone: 202-789-6800
+  phone: 202-789-6843
   public_liaison:
-    name: Jennie Jbara
+    name: Jennie L. Jbara
     phone:
-    - 202-789-6800
-  request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
+    - 202-789-6865
+  request_form: http://www.prc.gov/foia/onlinerequest
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -113,18 +112,33 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '0'
       simple_median_days: '12'
+    '2015':
+      simple_average_days: '13'
+      simple_highest_days: '20'
+      simple_lowest_days: '3'
+      simple_median_days: '13'
+    '2016':
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '13'
+      simple_highest_days: '47'
+      simple_lowest_days: '3'
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-789-6800
   top_level: false
-  usa_id: '49621'
-  website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
-description: The Postal Regulatory Commission is responsible for oversight of the
-  U.S. Postal Service, including oversight of rates and services, and ensuring the
-  Postal Service meets all of its legal requirements.
+  website: http://www.prc.gov/foia
+description: The mission of the Postal Regulatory Commission is to ensure transparency
+  and accountability for the United States Postal Service and foster a vital and efficient
+  universal mail system.
 keywords:
 - Administrative practice and procedure
+- Archives and records
 - Confidential business information
+- Conflict of interests
 - Freedom of information
 - Organization and functions (Government agencies)
 - Postal Service
@@ -133,6 +147,7 @@ keywords:
 - Seals and insignia
 - Sunshine Act
 - Trademarks
+- Treaties
 name: Postal Regulatory Commission
 request_time_stats:
   '2008':
@@ -222,4 +237,17 @@ request_time_stats:
     simple_highest_days: '21'
     simple_lowest_days: '0'
     simple_median_days: '12'
-usa_id: '49621'
+  '2015':
+    simple_average_days: '13'
+    simple_highest_days: '20'
+    simple_lowest_days: '3'
+    simple_median_days: '13'
+  '2016':
+    expedited_processing_average_days: '9'
+    expedited_processing_highest_days: '9'
+    expedited_processing_lowest_days: '9'
+    expedited_processing_median_days: '9'
+    simple_average_days: '13'
+    simple_highest_days: '47'
+    simple_lowest_days: '3'
+    simple_median_days: '15'

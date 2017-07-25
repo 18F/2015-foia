@@ -2,30 +2,33 @@ abbreviation: ABMC
 departments:
 - address:
     address_lines:
-    - Martha R. Sell
+    - Beatriz Collazo
     - FOIA Assistant
     - Suite 500
     city: Arlington
     state: VA
     street: 2300 Clarendon Boulevard
     zip: '22201'
-  description: The American Battle Monuments Commission manages 24 overseas military
-    cemeteries, and 25 memorials, monuments, and markers. Nearly all the cemeteries
-    and memorials honor those who served in World War I or World War II.
+  emails:
+  - FOIA@abmc.gov
+  foia_officer:
+    name: Monique Ceruti
+    phone:
+    - 703-696-6890
   misc:
     FOIA Assistant:
       name: Martha R. Sell
       phone:
       - 703-696-6897
   name: American Battle Monuments Commission
-  phone: 703-696-6897
+  phone: 703-696-8384
   public_liaison:
-    name: Timothy Nosal
+    name: Michael G. Conley
     phone:
     - 703-696-6778
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.abmc.gov/node/1005/foia-reading-room
+    - https://www.abmc.gov/node/1005/foia-reading-room
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -68,15 +71,25 @@ departments:
       simple_highest_days: '142'
       simple_lowest_days: '2'
       simple_median_days: '7'
+    '2015':
+      simple_average_days: '8'
+      simple_highest_days: '11'
+      simple_lowest_days: '4'
+      simple_median_days: '11'
+    '2016':
+      simple_average_days: '10'
+      simple_highest_days: '22'
+      simple_lowest_days: '4'
+      simple_median_days: '12'
   service_center:
     phone:
-    - 703-696-6897
+    - 703-696-8384
   top_level: false
-  usa_id: '52584'
   website: http://www.abmc.gov/foia
-description: The American Battle Monuments Commission manages 24 overseas military
-  cemeteries, and 25 memorials, monuments, and markers. Nearly all the cemeteries
-  and memorials honor those who served in World War I or World War II.
+description: "The American Battle Monuments Commission, established by the Congress\
+  \ in 1923, is an agency of the Executive Branch of the Federal Government. \n\n\
+  The Commission-guardian of America´s overseas commemorative cemeteries and memorials-honors\
+  \ the service, achievements and sacrifice of United States Armed Forces."
 keywords:
 - Freedom of information
 - Monuments and memorials
@@ -123,4 +136,13 @@ request_time_stats:
     simple_highest_days: '142'
     simple_lowest_days: '2'
     simple_median_days: '7'
-usa_id: '52584'
+  '2015':
+    simple_average_days: '8'
+    simple_highest_days: '11'
+    simple_lowest_days: '4'
+    simple_median_days: '11'
+  '2016':
+    simple_average_days: '10'
+    simple_highest_days: '22'
+    simple_lowest_days: '4'
+    simple_median_days: '12'

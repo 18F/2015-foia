@@ -2,14 +2,13 @@ abbreviation: FERC
 departments:
 - address:
     address_lines:
-    - FOIA Contact
+    - Leonard  Tao
+    - FOIA Officer
+    - 11-H24
     city: Washington
     state: DC
     street: 888 First Street NE, Code EA1
     zip: '20426'
-  description: The Federal Energy Regulatory Commission regulates interstate transmission
-    of electricity, natural gas, and oil, and also regulates hydropower projects and
-    natural gas terminals.
   emails:
   - foia-ceii@ferc.gov
   fax: 202-208-2106
@@ -22,10 +21,10 @@ departments:
   public_liaison:
     name: Toyia Johnson
     phone:
-    - 202-502-6088
+    - 202-502-8389
   reading_rooms:
   - - Reading Room Material
-    - http://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
+    - https://www.ferc.gov/legal/ceii-foia/foia/reading-room.asp
   request_form: http://www.ferc.gov/legal/ceii-foia/foia/foia-new-form/FOIARequest.aspx
   request_time_stats:
     '2008':
@@ -111,22 +110,43 @@ departments:
       simple_highest_days: '36'
       simple_lowest_days: '3'
       simple_median_days: '25'
+    '2015':
+      complex_average_days: '41'
+      complex_highest_days: '453'
+      complex_lowest_days: '4'
+      complex_median_days: '24'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '25'
+      simple_highest_days: '137'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2016':
+      complex_average_days: '177'
+      complex_highest_days: '638'
+      complex_lowest_days: '11'
+      complex_median_days: '131'
+      simple_average_days: '34'
+      simple_highest_days: '345'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-502-6088
   top_level: false
-  usa_id: '52608'
   website: http://www.ferc.gov/legal/ceii-foia.asp
-description: The Federal Energy Regulatory Commission regulates interstate transmission
-  of electricity, natural gas, and oil, and also regulates hydropower projects and
-  natural gas terminals.
+description: The Federal Energy Regulatory Commission, or FERC, is an independent
+  agency that regulates the interstate transmission of electricity, natural gas, and
+  oil. FERC also reviews proposals to build liquefied natural gas (LNG) terminals
+  and interstate natural gas pipelines as well as licensing hydropower projects.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Alaska
 - Authority delegations (Government agencies)
 - Civil defense
-- Classified information
 - Confidential business information
 - Conflict of interests
 - Continental shelf
@@ -136,22 +156,18 @@ keywords:
 - Electric power rates
 - Electric utilities
 - Environmental impact statements
-- Environmental protection
 - Exports
 - Freedom of information
 - Government employees
-- Hazardous substances
-- Historic preservation
 - Imports
 - Indians-lands
 - Investigations
-- Livestock
 - Maritime carriers
 - Natural gas
-- Natural resources
 - Organization and functions (Government agencies)
 - Penalties
 - Pipelines
+- Price controls
 - Privacy
 - Public lands
 - Reporting and recordkeeping requirements
@@ -159,9 +175,6 @@ keywords:
 - Securities
 - Sunshine Act
 - Uniform System of Accounts
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
 name: Federal Energy Regulatory Commission
 request_time_stats:
   '2008':
@@ -247,4 +260,25 @@ request_time_stats:
     simple_highest_days: '36'
     simple_lowest_days: '3'
     simple_median_days: '25'
-usa_id: '52608'
+  '2015':
+    complex_average_days: '41'
+    complex_highest_days: '453'
+    complex_lowest_days: '4'
+    complex_median_days: '24'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '25'
+    simple_highest_days: '137'
+    simple_lowest_days: '1'
+    simple_median_days: '20'
+  '2016':
+    complex_average_days: '177'
+    complex_highest_days: '638'
+    complex_lowest_days: '11'
+    complex_median_days: '131'
+    simple_average_days: '34'
+    simple_highest_days: '345'
+    simple_lowest_days: '1'
+    simple_median_days: '20'

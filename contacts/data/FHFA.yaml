@@ -8,18 +8,11 @@ departments:
     city: Washington
     state: DC
     street: 400 7th Street, SW
-    zip: '20024'
-  description: The Federal Housing Finance Agency provides supervision, regulation,
-    and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home
-    Loan Banks.
+    zip: '20219'
   emails:
   - FOIA@fhfa.gov
   fax: 202-649-1073
-  foia_officer:
-    name: Stacy J. Easter
-    phone:
-    - 202-649-3803
-  name: Federal Housing Finance Agency
+  name: Headquarters
   phone: 202-649-3803
   public_liaison:
     name: Stacy J. Easter
@@ -27,42 +20,39 @@ departments:
     - 202-649-3803
   reading_rooms:
   - - Reading Room
-    - http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
-  request_form: https://www.publicaccesslink.fhfa.gov/palMain.aspx
-  request_time_stats:
-    '2009':
-      complex_average_days: '40'
-      complex_highest_days: '139'
-      complex_lowest_days: '8'
-      complex_median_days: '34'
-      expedited_processing_average_days: '31'
-      expedited_processing_highest_days: '52'
-      expedited_processing_lowest_days: '4'
-      expedited_processing_median_days: '33'
-      simple_average_days: '14'
-      simple_highest_days: '48'
-      simple_lowest_days: less than 1
-      simple_median_days: '33'
-    '2010':
-      complex_average_days: '174'
-      complex_highest_days: '356'
-      complex_lowest_days: '33'
-      complex_median_days: '170'
-      expedited_processing_highest_days: '2'
-      expedited_processing_lowest_days: '2'
-      simple_average_days: '48'
-      simple_highest_days: '178'
-      simple_lowest_days: '1'
-      simple_median_days: '29'
+    - https://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx
   service_center:
     phone:
     - 202-649-3803
   top_level: false
-  usa_id: '52611'
   website: http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/FOIA.aspx
-description: The Federal Housing Finance Agency provides supervision, regulation,
-  and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home Loan
-  Banks.
+- address:
+    address_lines:
+    - Katarina Hake
+    - FOIA Officer
+    - Constitution Center
+    city: Washington
+    state: DC
+    street: 400 7th Street, SW
+    zip: '20219'
+  emails:
+  - FOIA@fhfaoig.gov
+  fax: 202-318-8602
+  name: Office of Inspector General
+  phone: 202-730-0399
+  public_liaison:
+    name: Katarina Hake
+    phone:
+    - 202-730-0399
+  service_center:
+    phone:
+    - 202-730-0399
+  top_level: false
+  website: https://www.fhfaoig.gov/FOIA
+description: The FHFA provides effective supervision, regulation and housing mission
+  oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks to promote
+  their safety and soundness, support housing finance and affordable housing, and
+  support a stable and liquid mortgage market.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -75,6 +65,7 @@ keywords:
 - Confidential business information
 - Conflict of interests
 - Consumer protection
+- Cooperatives
 - Courts
 - Credit
 - Credit unions
@@ -105,6 +96,7 @@ keywords:
 - Penalties
 - Privacy
 - Reporting and recordkeeping requirements
+- Rural areas
 - Savings associations
 - Seals and insignia
 - Securities
@@ -178,4 +170,21 @@ request_time_stats:
     simple_highest_days: '215'
     simple_lowest_days: less than 1
     simple_median_days: '10'
-usa_id: '52611'
+  '2015':
+    complex_average_days: '76.54'
+    complex_highest_days: '481'
+    complex_lowest_days: less than 1
+    complex_median_days: '47'
+    simple_average_days: '12.35'
+    simple_highest_days: '112'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'
+  '2016':
+    complex_average_days: '47.06'
+    complex_highest_days: '194'
+    complex_lowest_days: less than 1
+    complex_median_days: '35.5'
+    simple_average_days: '8.48'
+    simple_highest_days: '60'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'

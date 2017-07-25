@@ -3,19 +3,14 @@ departments:
 - address:
     address_lines:
     - Ryan Law
-    - Director, FOIA and Transparency
+    - Acting Director, FOIA and Transparency
     city: Washington
     state: DC
-    street: 1500 Pennsylvania Avenue, NW
+    street: 1750 Pennsylvania Avenue, NW
     zip: '20220'
   emails:
   - TreasFOIA@Treasury.gov
   fax: 202-622-3895
-  keywords:
-  - Courts
-  - Freedom of information
-  - Government employees
-  - Privacy
   misc:
     Director, Disclosure Services:
       name: Ryan Law
@@ -29,8 +24,8 @@ departments:
     - 202-622-0930
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.treasury.gov/FOIA/Pages/reading_room.aspx
-  request_form: Treas FOIA On Line Request Form
+    - https://www.treasury.gov/FOIA/Pages/reading_room.aspx
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
     - 202-622-0930
@@ -45,9 +40,7 @@ departments:
     city: Washington
     state: DC
     street: 1310 G Street, NW
-    zip: '20220'
-  description: The Alcohol and Tobacco Tax and Trade Bureau collects taxes and enforces
-    regulations on alcohol, tobacco, firearms, and ammunition.
+    zip: '20005'
   emails:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
@@ -80,6 +73,7 @@ departments:
   - Fruit juices
   - Fruits
   - Gasohol
+  - Grains
   - Health
   - Imports
   - Labeling
@@ -101,6 +95,7 @@ departments:
   - Tobacco
   - Trade practices
   - Transportation
+  - Treaties
   - Vessels
   - Vinegar
   - Virgin Islands
@@ -122,24 +117,20 @@ departments:
     phone:
     - 202-927-1024
   top_level: true
-  usa_id: '49082'
   website: http://www.ttb.gov/foia/index.shtml
-- abbreviation: BEP
-  address:
+- address:
     address_lines:
-    - Disclosure Officer
+    - Leslie Rivera-Pagan
     - FOIA Contact, FOIA Office
     - 419 A
     city: Washington
     state: DC
-    street: Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW
+    street: 14th & C Streets, SW
     zip: '20228'
-  description: The Bureau of Engraving and Printing produces United States currency
-    notes, operates as the nation's central bank, and serves to ensure that adequate
-    amounts of currency and coin are in circulation.
   fax: 202-874-2951
   keywords:
   - Currency
+  - Federal buildings and facilities
   misc:
     FOIA Contact, FOIA Office:
       name: Disclosure Officer
@@ -151,29 +142,24 @@ departments:
     name: Ryan Law
     phone:
     - 202-622-0930
-  request_form: BEP FOIA On Line Request Form
+  reading_rooms:
+  - - BEP FOIA Library
+    - http://www.moneyfactory.gov/bepfoialibrary.html
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
     - 202-874-2058
   top_level: true
-  usa_id: '91587'
   website: http://www.moneyfactory.gov/foia.html
-- abbreviation: OCC
-  address:
+- address:
     address_lines:
     - Frank Vance
-    - Disclosure Manager
-    - Communications Division
-    - Suite 3-E218Mail Stop 6W-11
+    - Freedom of Information Act Officer
+    - Suite 3-E218
     city: Washington
     state: DC
     street: 400 7th Street, SW
     zip: '20219'
-  description: The Office of the Comptroller of the Currency charters, regulates,
-    and supervises all national banks. It also supervises the Federal branches and
-    agencies of foreign banks.
-  emails:
-  - foia-pa@occ.treas.gov
   keywords:
   - Accountants
   - Accounting
@@ -194,6 +180,7 @@ departments:
   - Confidential business information
   - Conflict of interests
   - Consumer protection
+  - Cooperatives
   - Credit
   - Credit unions
   - Crime
@@ -205,6 +192,7 @@ departments:
   - Ethics
   - Exports
   - Fair housing
+  - Federal Deposit Insurance Corporation
   - Federal Reserve System
   - Flood insurance
   - Foreign banking
@@ -212,6 +200,7 @@ departments:
   - Foreign trade
   - Freedom of information
   - Gambling
+  - Government employees
   - Government securities
   - Holding companies
   - Individuals with disabilities
@@ -226,6 +215,7 @@ departments:
   - Low and moderate income housing
   - Manufactured homes
   - Marital status discrimination
+  - Metals
   - Minority businesses
   - Mortgages
   - National banks
@@ -251,19 +241,19 @@ departments:
   name: Office of the Comptroller of the Currency
   phone: 202-649-6758
   public_liaison:
-    name: Ryan Law
+    name: Frank Vance
     phone:
-    - 202-622-0930
+    - 202-649-6758
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
-    - 202-874-4700
+    - 202-649-6700
   top_level: false
-  usa_id: '48126'
-  website: http://www.occ.gov/about/foia/index-foia.html
+  website: http://www.occ.gov/about/contact-us/freedom-of-information-act-requests/index-foia.html
 - abbreviation: FINCEN
   address:
     address_lines:
-    - Amanda Michanczyk
+    - Gilbert Paist
     - Disclosure (FOIA) Office
     city: Vienna
     state: VA
@@ -278,18 +268,23 @@ departments:
   - Administrative practice and procedure
   - Authority delegations (Government agencies)
   - Banks, banking
+  - Blocking of assets
   - Brokers
   - Currency
+  - Exports
   - Federal home loan banks
   - Foreign banking
   - Foreign currencies
+  - Foreign trade
   - Gambling
+  - Insurance
   - Investigations
   - Law enforcement
   - Mortgages
   - Penalties
   - Reporting and recordkeeping requirements
   - Securities
+  - Taxes
   - Terrorism
   misc:
     Disclosure (FOIA) Office:
@@ -297,14 +292,11 @@ departments:
       phone:
       - 703-905-3537
   name: Financial Crimes Enforcement Network
-  phone: 703-905-3537
+  phone: 703-905-5034
   public_liaison:
     name: Ryan Law
     phone:
     - 202-622-0930
-  reading_rooms:
-  - - Reading Room Records
-    - http://www.fincen.gov/foia/foia_readingroom.html
   request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
@@ -315,15 +307,12 @@ departments:
     address_lines:
     - Cynthia Sydnor/Denise Nelson
     - Disclosure Officer
-    - Room 508C
+    - Room 508B
     city: Washington
     state: DC
     street: 401 14th Street, SW
     zip: '20227'
-  description: The Bureau of the Fiscal Service manages all federal payments and collections,
-    and provides government-wide accounting and reporting services. You can contact
-    them to buy bonds or to check on the maturity of bonds you own.
-  fax: 202-874-2391
+  fax: 202-874-5484
   keywords:
   - Accounting
   - Administrative practice and procedure
@@ -394,25 +383,81 @@ departments:
     name: Ryan Law
     phone:
     - 202-622-0930
-  request_form: Fiscal Service FOIA On Line Request Form
+  reading_rooms:
+  - - FOIA Electronic Reading Room
+    - https://www.fiscal.treasury.gov/foia/foia_readingroom.htm
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
   service_center:
     phone:
     - 202-874-5602
   top_level: false
-  usa_id: '88999'
-  website: http://www.fiscal.treasury.gov/
-- abbreviation: IRS
-  address:
+  website: https://www.fiscal.treasury.gov/foia/foia_home.htm
+- address:
     address_lines:
-    - Rhonda O'Reilly
+    - Kathleen Saunders-Mitchell
     - FOIA Contact
-    - HQ FOIA Stop 211
+    - 8th Floor
+    city: Washington
+    state: DC
+    street: 801 9th Street, NW
+    zip: '20220'
+  fax: 202-354-4600
+  misc:
+    FOIA Contact:
+      name: Kathleen Saunders-Mitchell
+      phone:
+      - 202-354-4600
+  name: United States Mint
+  phone: 202-756-6153
+  public_liaison:
+    name: Ryan Law
+    phone:
+    - 202-622-0930
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+  service_center:
+    phone:
+    - 202-354-6788
+  top_level: true
+  website: http://www.usmint.gov/FOIA
+- address:
+    address_lines:
+    - Amy P. Jones
+    - Disclosure Officer
+    - Suite 469
+    city: Washington
+    state: DC
+    street: 'ATTN: FOIA Request, TIGTA Office of Chief Counsel, Disclosure Branch,
+      City Center Building, 1401 H Street, NW'
+    zip: '20005'
+  emails:
+  - FOIA.Reading.Room@tigta.treas.gov
+  fax: 202-622-3339
+  misc:
+    FOIA Contact, Office of the Chief Counsel, Disclosure Branch:
+      name: Amy P. Jones
+      phone:
+      - 202-622-4068
+  name: Treasury Inspector General for Tax Administration
+  phone: 202-622-4068
+  public_liaison:
+    name: Amy P. Jones
+    phone:
+    - 202-622-4068
+  request_form: https://www.treasury.gov/foia/pages/gofoia.aspx
+  service_center:
+    phone:
+    - 202-622-4068
+  top_level: false
+  website: http://www.treasury.gov/tigta/important_foia
+- address:
+    address_lines:
+    - Denise Higley
+    - FOIA Contact
+    - IRS FOIA Request, Stop 211
     city: Atlanta
     state: GA
     street: PO Box 621506
     zip: 30362-3006
-  description: The Internal Revenue Service (IRS) administers and enforces U.S. federal
-    tax laws.
   fax: 877-807-9215
   keywords:
   - Accounting
@@ -426,6 +471,7 @@ departments:
   - Brokers
   - Campaign funds
   - Child support
+  - Conflict of interests
   - Consumer protection
   - Continental shelf
   - Courts
@@ -446,9 +492,11 @@ departments:
   - Grant programs-health
   - Health care
   - Health insurance
+  - Health maintenance organizations (HMO)
   - Health records
   - Hospitals
   - Income taxes
+  - Indians
   - Individuals with disabilities
   - Insurance
   - Investigations
@@ -488,86 +536,24 @@ departments:
   name: Internal Revenue Service - Headquarters Office
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 860-756-4673
+  phone: 801-620-7638
   public_liaison:
-    name: Rhonda O'Reilly
+    name: Denise Higley
     phone:
-    - 860-756-4673
+    - 801-620-7638
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.irs.gov/uac/Electronic-Reading-Room
-  request_form: IRS FOIA Fax Request
+    - https://www.irs.gov/uac/electronic-reading-room
   service_center:
     phone:
-    - 860-756-4673
+    - 801-620-7638
   top_level: true
-  usa_id: '48068'
   website: http://www.irs.gov/foia
-- address:
-    address_lines:
-    - Kathleen Saunders-Mitchell
-    - FOIA Contact
-    - 8th Floor
-    city: Washington
-    state: DC
-    street: 801 9th Street, NW
-    zip: '20220'
-  description: The Mint produces the the coins that circulate throughout the US. They
-    also produce special edition coinage that can be purchased for coin collections.
-  fax: 202-756-6153
-  misc:
-    FOIA Contact:
-      name: Kathleen Saunders-Mitchell
-      phone:
-      - 202-354-4600
-  name: United States Mint
-  phone: 202-354-4600
-  public_liaison:
-    name: Ryan Law
-    phone:
-    - 202-622-0930
-  reading_rooms:
-  - - The Electronic Reading Room
-    - http://www.usmint.gov/FOIA/?action=room
-  request_form: US Mint FOIA On Line Request Form
-  service_center:
-    phone:
-    - 202-354-6788
-  top_level: true
-  usa_id: '48150'
-  website: http://www.usmint.gov/FOIA
-- address:
-    address_lines:
-    - Amy P. Jones
-    - FOIA Contact, Office of the Chief Counsel, Disclosure Branch
-    - Suite 469
-    city: Washington
-    state: DC
-    street: 'ATTN: FOIA Request TIGTA Chief Counsel 1401 H Street, NW'
-    zip: '20005'
-  emails:
-  - FOIA.Reading.Room@tigta.treas.gov
-  fax: 202-622-3339
-  misc:
-    FOIA Contact, Office of the Chief Counsel, Disclosure Branch:
-      name: Amy P. Jones
-      phone:
-      - 202-622-4068
-  name: Treasury Inspector General for Tax Administration
-  phone: 202-622-4068
-  public_liaison:
-    name: Amy P. Jones
-    phone:
-    - 202-622-4068
-  request_form: TIGTA FOIA On Line Request Form
-  service_center:
-    phone:
-    - 202-622-4068
-  top_level: false
-  website: http://www.treasury.gov/tigta/important_foia
-description: The Department of the Treasury manages Federal finances by collecting
-  taxes and paying bills and by managing currency, government accounts and public
-  debt. The Department of the Treasury also enforces finance and tax laws.
+description: The Department's mission is to maintain a strong economy and create economic
+  and job opportunities by promoting the conditions that enable economic growth and
+  stability at home and abroad, strengthen national security by combating threats
+  and protecting the integrity of the financial system, and manage the U.S. Government´s
+  finances and resources effectively.
 keywords:
 - Accountants
 - Accounting
@@ -584,6 +570,7 @@ keywords:
 - Air traffic controllers
 - Air transportation
 - Aircraft
+- Airmen
 - Airports
 - Alcohol and alcoholic beverages
 - Alcoholism
@@ -597,6 +584,7 @@ keywords:
 - Armed forces
 - Arms and munitions
 - Arson
+- Arts and crafts
 - Authority delegations (Government agencies)
 - Bank deposit insurance
 - Bankruptcy
@@ -617,6 +605,7 @@ keywords:
 - Canada
 - Cargo vessels
 - Caribbean Basin initiative
+- Carpets and rugs
 - Cemeteries
 - Chemicals
 - Child support
@@ -626,6 +615,7 @@ keywords:
 - Claims
 - Classified information
 - Coastal zone
+- Coffee
 - Colleges and universities
 - Commodity futures
 - Common carriers
@@ -636,8 +626,10 @@ keywords:
 - Conflict of interests
 - Consumer protection
 - Continental shelf
+- Cooperatives
 - Copyright
 - Cosmetics
+- Cotton
 - Countervailing duties
 - Courts
 - Credit
@@ -679,7 +671,9 @@ keywords:
 - Explosives
 - Exports
 - Fair housing
+- Federal Deposit Insurance Corporation
 - Federal Reserve System
+- Federal buildings and facilities
 - Federal home loan banks
 - Federally affected areas
 - Firefighters
@@ -693,6 +687,7 @@ keywords:
 - Foreign claims
 - Foreign currencies
 - Foreign investments in United States
+- Foreign officials
 - Foreign relations
 - Foreign trade
 - Foreign trade zones
@@ -714,18 +709,21 @@ keywords:
 - Government procurement
 - Government property
 - Government securities
+- Grains
 - Grant programs
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
+- Guantanamo Bay Naval Station, Cuba
 - Harbors
 - Hazardous substances
 - Health
 - Health care
 - Health facilities
 - Health insurance
+- Health maintenance organizations (HMO)
 - Health professions
 - Health records
 - Holding companies
@@ -744,6 +742,7 @@ keywords:
 - Insurance
 - Insurance companies
 - Intergovernmental relations
+- International boundaries
 - International organizations
 - Inventions and patents
 - Investigations
@@ -751,6 +750,7 @@ keywords:
 - Investments
 - Iran
 - Iraq
+- Kingman Reef
 - Labeling
 - Laboratories
 - Law enforcement
@@ -762,19 +762,23 @@ keywords:
 - Liquors
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-health
 - Loan programs-housing and community development
 - Lobbying
+- Lotteries
 - Low and moderate income housing
 - Manpower training programs
 - Manufactured homes
 - Marine resources
 - Marital status discrimination
 - Maritime carriers
+- Measurement standards
 - Medicaid
 - Medical devices
+- Metals
 - Mexico
 - Midway Islands
 - Migrant labor
@@ -821,6 +825,7 @@ keywords:
 - Science and technology
 - Scientific equipment
 - Seals and insignia
+- Seamen
 - Securities
 - Security measures
 - Seizures and forfeitures
@@ -836,6 +841,7 @@ keywords:
 - Stills
 - Student aid
 - Sudan
+- Sugar
 - Sunshine Act
 - Supplemental Security Income (SSI)
 - Surety bonds
@@ -847,6 +853,7 @@ keywords:
 - Terrorism
 - Tobacco
 - Trade agreements
+- Trade names
 - Trade practices
 - Trademarks
 - Transportation
@@ -870,15 +877,17 @@ keywords:
 - Wake Island
 - Warehouses
 - Waste treatment and disposal
+- Watches and jewelry
 - Water pollution control
 - Water resources
 - Water supply
 - Watersheds
 - Western Balkans
+- Wheat
 - Wildlife
 - Wine
 - Women
+- Wool
 - Youth
 - Yugoslavia
 name: Department of the Treasury
-usa_id: '49034'

@@ -1,24 +1,20 @@
 abbreviation: OMB
 departments:
-- abbreviation: OMB
-  address:
+- address:
     address_lines:
     - Dionne Hardy
     - FOIA Officer
-    - Room 9026
+    - 9th Floor
     city: Washington
     state: DC
     street: 725 17th Street, NW
     zip: '20503'
-  description: The Office of Management and Budget oversees the performance of federal
-    agencies, and administers the federal budget.
   emails:
   - OMBFOIA@omb.eop.gov
-  fax: 202-395-3504
   name: Office of Management and Budget
   phone: 202-395-3642
   public_liaison:
-    name: Lauren Wright
+    name: Sarah Spooner
     phone:
     - 202-395-7250
   request_time_stats:
@@ -89,21 +85,28 @@ departments:
       simple_highest_days: '514'
       simple_lowest_days: '1'
       simple_median_days: '39'
+    '2015':
+      simple_average_days: '80'
+      simple_highest_days: '406'
+      simple_lowest_days: '1'
+      simple_median_days: '40'
+    '2016':
+      simple_average_days: '131'
+      simple_highest_days: '838'
+      simple_lowest_days: '1'
+      simple_median_days: '38'
   service_center:
     phone:
     - 202-395-3642
   top_level: false
-  usa_id: '49584'
-  website: http://www.whitehouse.gov/omb/foia_default
-description: The Office of Management and Budget oversees the performance of federal
-  agencies, and administers the federal budget.
+description: The core mission of OMB is to serve the President of the United States
+  in implementing his vision across the Executive Branch.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Adult education
 - Aged
 - Agriculture
-- Air carriers
 - American Samoa
 - Blind
 - Broadband
@@ -115,7 +118,6 @@ keywords:
 - Copyright
 - Credit
 - Cultural exchange programs
-- Disaster assistance
 - Drug abuse
 - Education
 - Education of disadvantaged
@@ -133,9 +135,11 @@ keywords:
 - Government contracts
 - Government employees
 - Government procurement
+- Grant administrations
 - Grant programs
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Home improvement
@@ -151,10 +155,10 @@ keywords:
 - Inventions and patents
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
-- Loan programs-transportation
 - Manpower training programs
 - Migrant labor
 - Mortgage insurance
@@ -172,8 +176,10 @@ keywords:
 - Schools
 - Science and technology
 - Securities
+- Small businesses
 - State and local governments
 - Student aid
+- Students
 - Teachers
 - Telecommunications
 - Telephone
@@ -182,6 +188,7 @@ keywords:
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Wages
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
@@ -257,4 +264,13 @@ request_time_stats:
     simple_highest_days: '514'
     simple_lowest_days: '1'
     simple_median_days: '39'
-usa_id: '49584'
+  '2015':
+    simple_average_days: '80'
+    simple_highest_days: '406'
+    simple_lowest_days: '1'
+    simple_median_days: '40'
+  '2016':
+    simple_average_days: '131'
+    simple_highest_days: '838'
+    simple_lowest_days: '1'
+    simple_median_days: '38'

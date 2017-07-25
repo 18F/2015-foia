@@ -8,8 +8,6 @@ departments:
     state: DC
     street: 1717 H Street, NW
     zip: '20006'
-  description: The Council of the Inspectors General on Integrity and Efficiency address
-    integrity, economy, and effectiveness issues in the federal government.
   emails:
   - FOIAStaff@cigie.gov
   fax: 202-254-0162
@@ -24,7 +22,7 @@ departments:
     Supervisory Government Information Specialist, Office of the Inspector General, U.S. Department of Justice:
       name: Deborah Waller
       phone:
-      - 202-616-1210
+      - 202-616-0646
   name: Council of the Inspectors General on Integrity and Efficiency
   phone: 202-292-2600
   reading_rooms:
@@ -92,14 +90,32 @@ departments:
       simple_highest_days: '228'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '69.47'
+      complex_highest_days: '304'
+      complex_lowest_days: '3'
+      complex_median_days: '25'
+    '2016':
+      complex_average_days: '82.95'
+      complex_highest_days: '318'
+      complex_lowest_days: '2'
+      complex_median_days: '36'
   service_center:
     phone:
-    - 202-616-1210
+    - 202-616-0646
   top_level: false
-  usa_id: '91390'
   website: https://www.ignet.gov/content/foia-0
-description: The Council of the Inspectors General on Integrity and Efficiency address
-  integrity, economy, and effectiveness issues in the federal government.
+description: 'The Council of the Inspectors General on Integrity and Efficiency (CIGIE)
+  was statutorily established as an independent entity within the executive to:
+
+  ·address integrity, economy, and effectiveness issues that transcend individual
+  Government agencies; and
+
+  ·increase the professionalism and effectiveness of personnel by developing policies,
+  standards, and approaches to aid in the establishment of a well-trained and highly
+  skilled workforce in the offices of the Inspectors General.'
+keywords:
+- Privacy
 name: Council of the Inspectors General on Integrity and Efficiency
 request_time_stats:
   '2010':
@@ -163,4 +179,13 @@ request_time_stats:
     simple_highest_days: '228'
     simple_lowest_days: '1'
     simple_median_days: '14'
-usa_id: '91390'
+  '2015':
+    complex_average_days: '69.47'
+    complex_highest_days: '304'
+    complex_lowest_days: '3'
+    complex_median_days: '25'
+  '2016':
+    complex_average_days: '82.95'
+    complex_highest_days: '318'
+    complex_lowest_days: '2'
+    complex_median_days: '36'

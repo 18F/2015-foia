@@ -1,18 +1,9 @@
 abbreviation: VA
-address:
-  address_lines:
-  - Laurie Karnay
-  - FOIA Team Lead
-  - (005R1C) VACO
-  city: Washington
-  state: DC
-  street: 810 Vermont Avenue, NW
-  zip: '20420'
 departments:
 - address:
     address_lines:
-    - Laurie Karnay
-    - FOIA Team Lead
+    - James Horan
+    - FOIA Service Director
     - (005R1C) VACO
     city: Washington
     state: DC
@@ -27,45 +18,39 @@ departments:
       phone:
       - 202-632-7465
   name: Central Office FOIA/Privacy Act Office
-  phone: 202-632-7465
+  phone: 202-632-7453
   public_liaison:
     name: James Horan
     phone:
-    - 202-632-7465
+    - 202-632-7453
   service_center:
     phone:
-    - 202-632-7465
+    - 877-750-3642
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - James Killens III
+    - Nikki Benns
     - FOIA Contact
     - (43D) VACO
     city: Washington
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  description: Contact the National Cemetery Administration for information about
-    burials, headstones or markers, the State Cemetery Grants Program, and presidential
-    memorial certificates for veterans.
   emails:
   - nca.foia@va.gov
-  fax: 202-632-7572
+  fax: 703-441-3011
   misc:
     FOIA Contact:
       name: James Killens III
       phone:
       - 202-632-7728
   name: National Cemetery Administration
-  phone: 202-632-7728
+  phone: 703-441-4027
   public_liaison:
-    name: James Killens III
+    name: Raynell Lazier
     phone:
     - 202-461-6214
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '14'
@@ -118,12 +103,29 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '15'
       simple_median_days: '16.5'
+    '2015':
+      complex_average_days: '77.08'
+      complex_highest_days: '232'
+      complex_lowest_days: '16'
+      complex_median_days: '78.5'
+      simple_average_days: '21.5'
+      simple_highest_days: '28'
+      simple_lowest_days: '15'
+      simple_median_days: '21.5'
+    '2016':
+      complex_average_days: '76'
+      complex_highest_days: '226'
+      complex_lowest_days: '3'
+      complex_median_days: '58'
+      simple_average_days: '28'
+      simple_highest_days: '190'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-461-6214
   top_level: false
-  usa_id: '48074'
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Gwendolyn Smith
@@ -133,8 +135,6 @@ departments:
     state: DC
     street: 810 Vermont Avenue, NW
     zip: '20420'
-  description: The VBA helps veterans receive benefits, such as educational and financial
-    resources.
   emails:
   - foia.vbaco@va.gov
   fax: 202-275-5947
@@ -151,9 +151,6 @@ departments:
     name: Gwendolyn Smith
     phone:
     - 202-491-9439
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '29'
@@ -238,23 +235,45 @@ departments:
       simple_highest_days: '632'
       simple_lowest_days: less than 1
       simple_median_days: '63'
+    '2015':
+      complex_average_days: '47.83'
+      complex_highest_days: '858'
+      complex_lowest_days: less than 1
+      complex_median_days: '10'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '6.5'
+      simple_average_days: '159.01'
+      simple_highest_days: '793'
+      simple_lowest_days: less than 1
+      simple_median_days: '179'
+    '2016':
+      complex_average_days: '114'
+      complex_highest_days: '954'
+      complex_lowest_days: less than 1
+      complex_median_days: '63'
+      expedited_processing_average_days: '151'
+      expedited_processing_highest_days: '228'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '216'
+      simple_average_days: '98'
+      simple_highest_days: '3399'
+      simple_lowest_days: less than 1
+      simple_median_days: '70'
   service_center:
     phone:
     - 202-491-9439
   top_level: false
-  usa_id: '48156'
-  website: http://oprm.va.gov/foia/
-- abbreviation: VHA
-  address:
+  website: http://www.foia.va.gov/
+- address:
     address_lines:
-    - Timothy Graham
+    - Stephanie Graham
     - FOIA Contact
     city: Washington
     state: DC
     street: (19F2) VACO
     zip: '20420'
-  description: VHA serves the needs of Americas veterans by providing primary care,
-    specialized care, and related medical and social support services.
   emails:
   - vhafoia2@va.gov
   fax: 202-273-9387
@@ -266,14 +285,11 @@ departments:
   name: Veterans Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 215-823-4146
+  phone: 704-245-2492
   public_liaison:
-    name: Timothy Graham
+    name: James Horan
     phone:
     - 215-823-4146
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '10'
@@ -358,12 +374,37 @@ departments:
       simple_highest_days: '752'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '36.98'
+      complex_highest_days: '649'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: '37'
+      expedited_processing_highest_days: '322'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '6'
+      simple_average_days: '14.08'
+      simple_highest_days: '674'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '38'
+      complex_highest_days: '864'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '42'
+      expedited_processing_highest_days: '440'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '6'
+      simple_average_days: '13'
+      simple_highest_days: '1739'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 215-823-4146
   top_level: false
-  usa_id: '48159'
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Lisa Matuszczak
@@ -379,11 +420,9 @@ departments:
   name: Office of the Executive Secretary
   phone: 202-461-4857
   public_liaison:
+    name: James Horan
     phone:
     - 202-461-4857
-  reading_rooms:
-  - - FOIA Library
-    - http://www.oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-461-4857
@@ -391,7 +430,7 @@ departments:
   website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Lyndon Johnson
+    - Anita Major
     - FOIA Contact
     - (002B) VACO
     city: Washington
@@ -400,14 +439,11 @@ departments:
     zip: '20420'
   fax: 202-273-7635
   name: Office of Assistant Secretary for Public and Intergovernmental Affairs
-  phone: 202-461-7442
+  phone: 202-461-7430
   public_liaison:
     name: James Horan
     phone:
     - 202-461-7442
-  reading_rooms:
-  - - FOIA Library
-    - http://www.oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -464,122 +500,29 @@ departments:
       simple_highest_days: '350'
       simple_lowest_days: '26'
       simple_median_days: '87'
+    '2015':
+      complex_average_days: '75.5'
+      complex_highest_days: '115'
+      complex_lowest_days: '36'
+      complex_median_days: '75.5'
+      simple_average_days: less than 1
+      simple_highest_days: less than 1
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
+    '2016':
+      complex_average_days: '696'
+      complex_highest_days: '1216'
+      complex_lowest_days: '303'
+      complex_median_days: '645'
+      simple_average_days: '365'
+      simple_highest_days: '957'
+      simple_lowest_days: '90'
+      simple_median_days: '238'
   service_center:
     phone:
     - 202-461-7442
   top_level: false
   website: http://www.foia.va.gov/
-- address:
-    address_lines:
-    - Gary Tallman
-    - FOIA Contact
-    - (80A) VACO
-    city: Washington
-    state: DC
-    street: 810 Vermont Avenue, NW
-    zip: '20420'
-  fax: 202-273-6705
-  misc:
-    'FOIA Contact ':
-      name: Gary Tallman
-      phone:
-      - 202-461-7430
-  name: Office of Deputy Assistant Secretary for Public Affairs
-  phone: 202-461-7430
-  public_liaison:
-    name: James Horan
-    phone:
-    - 202-461-7430
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
-  request_time_stats:
-    '2009':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-    '2010':
-      complex_average_days: less than 1
-      complex_highest_days: less than 1
-      complex_lowest_days: less than 1
-      complex_median_days: less than 1
-    '2014':
-      complex_average_days: '428.5'
-      complex_highest_days: '783'
-      complex_lowest_days: '31'
-      complex_median_days: '450'
-  service_center:
-    phone:
-    - 202-461-7430
-  top_level: false
-  website: http://oprm.va.gov/foia/
-- address:
-    address_lines:
-    - Jason Cain
-    - FOIA Contact
-    - (075C) VACO
-    city: Washington
-    state: DC
-    street: 810 Vermont Avenue, NW
-    zip: '20420'
-  fax: 202-273-5716
-  misc:
-    'FOIA Contact ':
-      name: Susan McCrea
-      phone:
-      - 202-461-7379
-  name: Office of the Deputy Assistant Secretary for Intergovernmental Affairs
-  phone: 202-461-7379
-  public_liaison:
-    name: James Horan
-    phone:
-    - 202-461-7379
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
-  request_time_stats:
-    '2008':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '0'
-      simple_highest_days: '0'
-      simple_lowest_days: '0'
-      simple_median_days: '0'
-    '2009':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-    '2011':
-      complex_average_days: '21.5'
-      complex_highest_days: '35'
-      complex_lowest_days: '8'
-      complex_median_days: '21.5'
-    '2014':
-      simple_average_days: '297.86'
-      simple_highest_days: '745'
-      simple_lowest_days: '170'
-      simple_median_days: '297'
-  service_center:
-    phone:
-    - 202-461-7379
-  top_level: false
-  website: http://oprm.va.gov/foia/
 - address:
     address_lines:
     - James Chung
@@ -601,14 +544,11 @@ departments:
     name: James Horan
     phone:
     - 202-461-6677
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-461-6677
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Kelli Emery
@@ -630,14 +570,11 @@ departments:
     name: James Horan
     phone:
     - 202-590-8793
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-590-8793
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Sarah Kalis
@@ -656,11 +593,9 @@ departments:
   name: Office of Deputy Assistant Secretary for Budget
   phone: 202-461-5170
   public_liaison:
+    name: James Horan
     phone:
     - 202-461-5170
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -690,14 +625,19 @@ departments:
       simple_highest_days: '473'
       simple_lowest_days: '7'
       simple_median_days: '452'
+    '2016':
+      simple_average_days: '42'
+      simple_highest_days: '62'
+      simple_lowest_days: less than 1
+      simple_median_days: '25'
   service_center:
     phone:
     - 202-461-5170
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Carol Watson
+    - Kevin Cone
     - FOIA Contact
     - (047GC1) VACO
     city: Washington
@@ -711,14 +651,11 @@ departments:
       phone:
       - 202-461-6432
   name: Office of Deputy Assistant Secretary for Finance
-  phone: 202-461-6432
+  phone: 202-461-5035
   public_liaison:
     name: James Horan
     phone:
     - 202-461-6432
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '31.2'
@@ -775,7 +712,7 @@ departments:
     phone:
     - 202-461-6432
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Thomas Barnasevitch
@@ -788,23 +725,19 @@ departments:
   emails:
   - cdcofoia@va.gov
   fax: 215-381-3527
-  name: Enterprise Operations
+  name: Corporate Data Center Operations (CDCO)
   phone: 215-842-2000 x4503
+  top_level: false
+  website: http://www.foia.va.gov/
+- name: Enterprise Operations
   public_liaison:
     name: James Horan
     phone:
     - 215-842-2000 x4503
-  reading_rooms:
-  - - FOIA Library
-    - http://www.oprm.va.gov/foia/foia_library.aspx
-  service_center:
-    phone:
-    - 215-842-2000 x4503
   top_level: false
-  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Laurie Karnay
+    - Doloras Johnson
     - FOIA Team Lead
     - (005R1C) VACO
     city: Washington
@@ -820,14 +753,11 @@ departments:
       phone:
       - 202-632-7465
   name: Office of Assistant Secretary for Information and Technology
-  phone: 202-632-7465
+  phone: 202-632-7233
   public_liaison:
     name: James Horan
     phone:
     - 877-750-3642
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '16'
@@ -882,11 +812,33 @@ departments:
       simple_highest_days: '195'
       simple_lowest_days: less than 1
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '107.36'
+      complex_highest_days: '602'
+      complex_lowest_days: less than 1
+      complex_median_days: '63'
+      simple_average_days: '13.16'
+      simple_highest_days: '180'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '63'
+      complex_highest_days: '560'
+      complex_lowest_days: less than 1
+      complex_median_days: '25'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '9'
+      simple_average_days: '15'
+      simple_highest_days: '152'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 877-750-3642
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Teresa Days
@@ -908,9 +860,6 @@ departments:
     name: James Horan
     phone:
     - 202-632-7310
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -958,11 +907,25 @@ departments:
       simple_highest_days: '88'
       simple_lowest_days: '41'
       simple_median_days: '48'
+    '2015':
+      complex_average_days: '327.33'
+      complex_highest_days: '687'
+      complex_lowest_days: '114'
+      complex_median_days: '181'
+      simple_average_days: '22'
+      simple_highest_days: '22'
+      simple_lowest_days: '22'
+      simple_median_days: '22'
+    '2016':
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '3'
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-632-7310
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Jean Hayes
@@ -984,9 +947,6 @@ departments:
     name: James Horan
     phone:
     - 202-461-7863
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '3'
@@ -1043,11 +1003,29 @@ departments:
       simple_highest_days: '402'
       simple_lowest_days: '5'
       simple_median_days: '265'
+    '2015':
+      complex_average_days: '93.33'
+      complex_highest_days: '171'
+      complex_lowest_days: '26'
+      complex_median_days: '100.5'
+      simple_average_days: '108.71'
+      simple_highest_days: '535'
+      simple_lowest_days: '5'
+      simple_median_days: '67'
+    '2016':
+      complex_average_days: '259'
+      complex_highest_days: '394'
+      complex_lowest_days: '125'
+      complex_median_days: '259'
+      simple_average_days: '6'
+      simple_highest_days: '6'
+      simple_lowest_days: '6'
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-461-7863
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Angela Dunn
@@ -1069,9 +1047,6 @@ departments:
     name: James Horan
     phone:
     - 202-461-4010
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
       complex_average_days: '0'
@@ -1097,11 +1072,25 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '30'
       simple_median_days: '30'
+    '2015':
+      complex_average_days: '10'
+      complex_highest_days: '10'
+      complex_lowest_days: '10'
+      complex_median_days: '10'
+    '2016':
+      complex_average_days: '366'
+      complex_highest_days: '627'
+      complex_lowest_days: '106'
+      complex_median_days: '366'
+      simple_average_days: '52'
+      simple_highest_days: '120'
+      simple_lowest_days: '2'
+      simple_median_days: '35'
   service_center:
     phone:
     - 202-461-4010
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Nigel Collie
@@ -1123,9 +1112,6 @@ departments:
     name: James Horan
     phone:
     - 202-501-2827
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '5'
@@ -1178,14 +1164,36 @@ departments:
       simple_highest_days: '467'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '34.33'
+      complex_highest_days: '85'
+      complex_lowest_days: '8'
+      complex_median_days: '10'
+      simple_average_days: '10.61'
+      simple_highest_days: '25'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '3'
+      complex_highest_days: '3'
+      complex_lowest_days: '3'
+      complex_median_days: '3'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '32'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '20'
+      simple_average_days: '10'
+      simple_highest_days: '21'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 202-501-2827
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Jacques Larochelle
+    - Jacqurs Larochelle
     - FOIA Contact
     - (032A) VACO
     city: Washington
@@ -1201,10 +1209,7 @@ departments:
   name: Office of Deputy Assistant Secretary for Administration
   phone: 202-461-5041
   public_liaison:
-    name: james Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
+    name: James Horan
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -1293,11 +1298,37 @@ departments:
       simple_highest_days: '140'
       simple_lowest_days: '4'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '50.7'
+      complex_highest_days: '576'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '5'
+      simple_average_days: '36.9'
+      simple_highest_days: '122'
+      simple_lowest_days: '3'
+      simple_median_days: '26.5'
+    '2016':
+      complex_average_days: '92.4'
+      complex_highest_days: '2230'
+      complex_lowest_days: less than 1
+      complex_median_days: '42'
+      expedited_processing_average_days: '33'
+      expedited_processing_highest_days: '36'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '33'
+      simple_average_days: '40.5'
+      simple_highest_days: '164'
+      simple_lowest_days: less than 1
+      simple_median_days: '21'
   service_center:
     phone:
     - 202-461-5046
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Tanya Al-Khateeb
@@ -1317,9 +1348,6 @@ departments:
   phone: 202-461-6587
   public_liaison:
     name: James Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
       complex_average_days: '12'
@@ -1351,14 +1379,32 @@ departments:
       complex_highest_days: '73'
       complex_lowest_days: '3'
       complex_median_days: '44'
+    '2015':
+      complex_average_days: '10.5'
+      complex_highest_days: '13'
+      complex_lowest_days: '8'
+      complex_median_days: '10.5'
+      simple_average_days: '13'
+      simple_highest_days: '17'
+      simple_lowest_days: '9'
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '18'
+      complex_highest_days: '24'
+      complex_lowest_days: '13'
+      complex_median_days: '17'
+      simple_average_days: '34'
+      simple_highest_days: '34'
+      simple_lowest_days: '34'
+      simple_median_days: '34'
   service_center:
     phone:
     - 202-461-6587
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Jon Abboud
+    - Belinda Alvies
     - FOIA Contact
     - (008) VACO, Room 314
     city: Washington
@@ -1366,66 +1412,15 @@ departments:
     street: 810 Vermont Avenue, NW
     zip: '20420'
   fax: 202-273-5993
-  misc:
-    'FOIA Contact ':
-      name: Stephanie Way
-      phone:
-      - 202-461-5918
-  name: Office of Policy and Planning
-  phone: 202-461-5853
+  name: Office of Enterprise Integration
+  phone: 202-461-7513
   public_liaison:
     name: James Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
-  request_time_stats:
-    '2009':
-      complex_average_days: '20'
-      complex_highest_days: '20'
-      complex_lowest_days: '20'
-      complex_median_days: '20'
-    '2010':
-      complex_average_days: '160'
-      complex_highest_days: '180'
-      complex_lowest_days: '125'
-      complex_median_days: '175'
-    '2011':
-      complex_average_days: '8'
-      complex_highest_days: '8'
-      complex_lowest_days: '8'
-      complex_median_days: '8'
-    '2012':
-      complex_average_days: '77.5'
-      complex_highest_days: '142'
-      complex_lowest_days: '13'
-      complex_median_days: '77.5'
-      simple_average_days: '82.5'
-      simple_highest_days: '135'
-      simple_lowest_days: '30'
-      simple_median_days: '82.5'
-    '2013':
-      complex_average_days: '74'
-      complex_highest_days: '74'
-      complex_lowest_days: '74'
-      complex_median_days: '74'
-      expedited_processing_average_days: '5'
-      expedited_processing_highest_days: '5'
-      expedited_processing_lowest_days: '5'
-      expedited_processing_median_days: '5'
-      simple_average_days: '13'
-      simple_highest_days: '13'
-      simple_lowest_days: '13'
-      simple_median_days: '13'
-    '2014':
-      complex_average_days: '22.5'
-      complex_highest_days: '45'
-      complex_lowest_days: less than 1
-      complex_median_days: '22.5'
   service_center:
     phone:
     - 202-461-5198
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Regina Mack-Abney
@@ -1445,9 +1440,6 @@ departments:
   phone: 202-461-6459
   public_liaison:
     name: James Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
       complex_average_days: '46'
@@ -1495,11 +1487,29 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '10'
       simple_median_days: '22'
+    '2015':
+      complex_average_days: '62.75'
+      complex_highest_days: '150'
+      complex_lowest_days: '1'
+      complex_median_days: '50'
+      simple_average_days: '31.61'
+      simple_highest_days: '135'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
+    '2016':
+      complex_average_days: '48'
+      complex_highest_days: '48'
+      complex_lowest_days: '48'
+      complex_median_days: '48'
+      simple_average_days: '104'
+      simple_highest_days: '277'
+      simple_lowest_days: '3'
+      simple_median_days: '88'
   service_center:
     phone:
     - 202-461-6619
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Lynn Buell
@@ -1521,9 +1531,6 @@ departments:
   phone: 202-461-8212
   public_liaison:
     name: James Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '14.4'
@@ -1576,11 +1583,29 @@ departments:
       simple_highest_days: '509'
       simple_lowest_days: '17'
       simple_median_days: '334'
+    '2015':
+      complex_average_days: '225.93'
+      complex_highest_days: '558'
+      complex_lowest_days: less than 1
+      complex_median_days: '235'
+      simple_average_days: '217.62'
+      simple_highest_days: '706'
+      simple_lowest_days: '1'
+      simple_median_days: '30.5'
+    '2016':
+      complex_average_days: '89'
+      complex_highest_days: '588'
+      complex_lowest_days: less than 1
+      complex_median_days: '64'
+      simple_average_days: '31'
+      simple_highest_days: '209'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     phone:
     - 202-461-8212
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
     - Richard Ha
@@ -1600,9 +1625,6 @@ departments:
   phone: 202-632-5286
   public_liaison:
     name: James Horan
-  reading_rooms:
-  - - FOIA Library
-    - http://www.oprm.va.gov/foia/foia_library.aspx
   service_center:
     phone:
     - 202-632-5286
@@ -1629,9 +1651,6 @@ departments:
     name: Margaret L. Peak
     phone:
     - 202-461-8111
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '10'
@@ -1646,10 +1665,10 @@ departments:
     phone:
     - 202-461-8111
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - J. Thomas Burch, Jr.
+    - M.Renee Baxter
     - FOIA Contact
     - (026H) VACO
     city: Washington
@@ -1665,14 +1684,11 @@ departments:
       phone:
       - 202-461-7717
   name: Office of the General Counsel
-  phone: 202-461-7717
+  phone: 202-461-7862
   public_liaison:
-    name: J. Thomas Burch, Jr.
+    name: M.Renee Baxter
     phone:
     - 202-461-7717
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '10'
@@ -1737,14 +1753,36 @@ departments:
       simple_highest_days: '102'
       simple_lowest_days: '2'
       simple_median_days: '37'
+    '2015':
+      complex_average_days: '47.79'
+      complex_highest_days: '207'
+      complex_lowest_days: less than 1
+      complex_median_days: '28'
+      simple_average_days: '18.7'
+      simple_highest_days: '133'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '84'
+      complex_highest_days: '391'
+      complex_lowest_days: '2'
+      complex_median_days: '65'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '19'
+      expedited_processing_median_days: '19'
+      simple_average_days: '49'
+      simple_highest_days: '168'
+      simple_lowest_days: less than 1
+      simple_median_days: '39'
   service_center:
     phone:
     - 202-461-7717
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Darryl Joe
+    - Michael Soybel
     - FOIA Contact
     - (50CI) VACO
     city: Washington
@@ -1760,14 +1798,11 @@ departments:
       phone:
       - 202-461-4591
   name: Office of Inspector General
-  phone: 202-461-4591
+  phone: 202-461-4631
   public_liaison:
-    name: Darryl Joe
+    name: Michael Soybel
     phone:
     - 202-461-4591
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2008':
       complex_average_days: '7'
@@ -1828,14 +1863,40 @@ departments:
       simple_highest_days: '81'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2015':
+      complex_average_days: '32.74'
+      complex_highest_days: '193'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '13'
+      simple_average_days: '14.12'
+      simple_highest_days: '70'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '21'
+      complex_highest_days: '224'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '10'
+      simple_highest_days: '46'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-461-4591
   top_level: false
-  website: http://oprm.va.gov/foia/
+  website: http://www.foia.va.gov/
 - address:
     address_lines:
-    - Karen Zhussanbay
+    - Linda Sitney
     - FOIA Contact
     - (00SB) VACO
     city: Washington
@@ -1844,21 +1905,16 @@ departments:
     zip: '20420'
   emails:
   - osbdufoia@va.gov
-  fax: 202-303-3313
+  fax: 202-461-4301
   misc:
     'FOIA Contact ':
       name: Karen Zhussanbay
       phone:
       - 202-303-3260 x5429
   name: Office of Small and Disadvantaged Business Utilization
-  phone: 202-303-3260 x5429
+  phone: 202-461-4300
   public_liaison:
     name: James Horan
-    phone:
-    - 202-303-3260 x5429
-  reading_rooms:
-  - - FOIA Library
-    - http://oprm.va.gov/foia/foia_library.aspx
   request_time_stats:
     '2009':
       complex_average_days: '0'
@@ -1894,14 +1950,32 @@ departments:
       complex_highest_days: '406'
       complex_lowest_days: less than 1
       complex_median_days: '5.5'
+    '2015':
+      complex_average_days: '57.18'
+      complex_highest_days: '743'
+      complex_lowest_days: '2'
+      complex_median_days: '6'
+      simple_average_days: '15.31'
+      simple_highest_days: '45'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '25'
+      complex_highest_days: '29'
+      complex_lowest_days: '21'
+      complex_median_days: '25'
+      simple_average_days: '11'
+      simple_highest_days: '69'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-303-3260 x5429
   top_level: false
-  website: http://oprm.va.gov/foia/
-description: For information about VA medical care or benefits, write, call or visit
-  your nearest VA facility.
-fax: 202-632-7581
+  website: http://www.foia.va.gov/
+description: The Department's mission is to fulfill President Lincoln's promise "To
+  care for him who shall have borne the battle, and for his widow, and his orphan"
+  by serving and honoring the men and women who are America´s veterans.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -1910,6 +1984,7 @@ keywords:
 - Agriculture
 - Air traffic controllers
 - Airports
+- Alaska
 - Alcohol abuse
 - Alcoholism
 - Alimony
@@ -1917,7 +1992,6 @@ keywords:
 - Antitrust
 - Archives and records
 - Armed forces
-- Asbestos
 - Authority delegations (Government agencies)
 - Blind
 - Broadband
@@ -1930,6 +2004,7 @@ keywords:
 - Colleges and universities
 - Communications
 - Community development
+- Community development block grants
 - Condominiums
 - Conflict of interests
 - Copyright
@@ -1953,6 +2028,7 @@ keywords:
 - Electric utilities
 - Elementary and secondary education
 - Employment
+- Energy conservation
 - Equal educational opportunity
 - Equal employment opportunity
 - Estates
@@ -1961,23 +2037,31 @@ keywords:
 - Firefighters
 - Flags
 - Flood insurance
+- Foreign aid
 - Foreign currencies
 - Foreign relations
 - Foreign trade
 - Freedom of information
-- Frozen foods
 - Government contracts
 - Government employees
 - Government procurement
 - Government property
 - Government property management
+- Grant administrations
 - Grant programs
+- Grant programs-Indians
+- Grant programs-agriculture
+- Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Grant programs-transportation
 - Grant programs-veterans
 - Guam
+- Health
 - Health care
 - Health facilities
 - Health insurance
@@ -2011,9 +2095,11 @@ keywords:
 - Loan programs
 - Loan programs-Indians
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
+- Loan programs-health
 - Loan programs-housing and community development
 - Loan programs-social programs
 - Loan programs-veterans
@@ -2038,12 +2124,15 @@ keywords:
 - Pacific Islands Trust Territory
 - Parking
 - Penalties
+- Pets
 - Philippines
 - Postal Service
+- Prisons
 - Privacy
 - Private schools
 - Public assistance programs
 - Public housing
+- Puerto Rico
 - Radioactive materials
 - Railroad retirement
 - Railroad unemployment insurance
@@ -2069,11 +2158,9 @@ keywords:
 - Student aid
 - Supplemental Security Income (SSI)
 - Surety bonds
-- Taxes
 - Teachers
 - Telecommunications
 - Telephone
-- Transportation
 - Travel
 - Travel and transportation expenses
 - Treaties
@@ -2095,10 +2182,6 @@ keywords:
 - Watersheds
 - Women
 name: Department of Veterans Affairs
-phone: 202-632-7465
-public_liaison:
-  phone:
-  - 202-632-7600
 request_time_stats:
   '2008':
     complex_highest_days: '2104'
@@ -2179,9 +2262,29 @@ request_time_stats:
     simple_highest_days: '822'
     simple_lowest_days: less than 1
     simple_median_days: '5'
-service_center:
-  phone:
-  - 202-632-7600
-top_level: false
-usa_id: '48027'
-website: http://www.foia.va.gov/
+  '2015':
+    complex_average_days: '46.16'
+    complex_highest_days: '858'
+    complex_lowest_days: less than 1
+    complex_median_days: '15'
+    expedited_processing_average_days: '37.83'
+    expedited_processing_highest_days: '322'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '6'
+    simple_average_days: '24.88'
+    simple_highest_days: '793'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'
+  '2016':
+    complex_average_days: '57'
+    complex_highest_days: '1216'
+    complex_lowest_days: less than 1
+    complex_median_days: '20'
+    expedited_processing_average_days: '65'
+    expedited_processing_highest_days: '440'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '17'
+    simple_average_days: '21'
+    simple_highest_days: '3399'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'

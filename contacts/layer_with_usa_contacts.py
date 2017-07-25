@@ -147,6 +147,8 @@ def get_api_data(url, cache):
 
     client = CachedSession(cache)
     request = client.get(url)
+    assert request.status_code == 200, \
+        'USAgov contacts API returned invalid response'
     data = request.json().get('Contact')
     if not data:
         data = [request.json()]

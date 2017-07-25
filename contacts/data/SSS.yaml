@@ -1,16 +1,12 @@
 abbreviation: SSS
 departments:
-- abbreviation: SSS
-  address:
+- address:
     city: Arlington
     state: VA
     street: National Headquarters
     zip: 22209-2425
-  description: The Selective Service System is charged with providing the Department
-    of Defense trained and untrained personnel in the event of a national emergency.
-    Almost all male citizens and immigrants between the agees of 18-25 must register
-    with the Selective Service. The Selective Service also provides alternative service
-    options for concientious objectors.
+  emails:
+  - Information@sss.gov
   fax: 703-605-4106
   foia_officer:
     name: Paula A. Sweeney
@@ -22,9 +18,6 @@ departments:
     name: Richard Flahavan
     phone:
     - 703-605-4100
-  reading_rooms:
-  - - Reading Room
-    - http://www.sss.gov/FOIA/readingrm.htm
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -101,17 +94,26 @@ departments:
       simple_highest_days: '12'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2015':
+      simple_average_days: '10'
+      simple_highest_days: '18'
+      simple_lowest_days: '4'
+      simple_median_days: '11'
+    '2016':
+      simple_average_days: '4'
+      simple_highest_days: '13'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
+    name: Richard Flahavan
     phone:
     - 703-605-4100
   top_level: false
-  usa_id: '52658'
-  website: http://www.sss.gov/freedomhome.htm
-description: The Selective Service System is charged with providing the Department
-  of Defense trained and untrained personnel in the event of a national emergency.
-  Almost all male citizens and immigrants between the agees of 18-25 must register
-  with the Selective Service. The Selective Service also provides alternative service
-  options for concientious objectors.
+  website: www.sss.gov
+description: The statutory missions of Selective Service are to be prepared to provide
+  trained and untrained personnel to the DoD in the event of a national emergency
+  and to be prepared to implement an Alternative Service Program for registrants classified
+  as conscientious objectors.
 keywords:
 - Administrative practice and procedure
 - Privacy
@@ -193,4 +195,13 @@ request_time_stats:
     simple_highest_days: '12'
     simple_lowest_days: '1'
     simple_median_days: '6'
-usa_id: '52658'
+  '2015':
+    simple_average_days: '10'
+    simple_highest_days: '18'
+    simple_lowest_days: '4'
+    simple_median_days: '11'
+  '2016':
+    simple_average_days: '4'
+    simple_highest_days: '13'
+    simple_lowest_days: '1'
+    simple_median_days: '3'

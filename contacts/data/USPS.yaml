@@ -4,7 +4,7 @@ departments:
     address_lines:
     - FOIA Contact
     - Deputy Chief FOIA Officer
-    - Room 9431
+    - Room IP830
     city: Washington
     state: DC
     street: 475 L'Enfant Plaza, SW
@@ -26,7 +26,7 @@ departments:
     phone:
     - 202-268-2608
   top_level: false
-  website: http://about.usps.com/who-we-are/foia/welcome.htm
+  website: http://www.usps.com/foia/welcome.htm
 - address:
     address_lines:
     - FOIA Contact
@@ -40,7 +40,7 @@ departments:
   name: USPS Field Office
   phone: 314-345-5894
   public_liaison:
-    name: Brittany Lindsay
+    name: Linda Crump
     phone:
     - 314-345-5894
   request_form: https://pfoiapal.usps.com/palMain.aspx
@@ -48,7 +48,7 @@ departments:
     phone:
     - 314-345-5894
   top_level: false
-  website: http://about.usps.com/who-we-are/foia/welcome.htm
+  website: http://www.usps.com/foia/welcome.htm
 - address:
     address_lines:
     - FOIA Contact
@@ -56,14 +56,18 @@ departments:
     - Room 3301
     city: Washington
     state: DC
-    street: 475 L´Enfant Plaza, SW
-    zip: '20260'
+    street: 475 L'Enfant Plaza, SW
+    zip: 20260-2101
   description: The mission of the U.S. Postal Inspection Service is to support and
     protect the U.S. Postal Service and its employees, infrastructure, and customers;
     enforce the laws that defend the nation’s mail system from illegal or dangerous
     use; and ensure public trust in the mail.
   fax: 202-268-4538
   misc:
+    Inspector Attorney:
+      name: Steven Sultan
+      phone:
+      - 202-268-7528
     Office of Counsel:
       name: FOIA Contact
       phone:
@@ -71,7 +75,7 @@ departments:
   name: Postal Inspection Service
   phone: 202-268-7004
   public_liaison:
-    name: Tammy Warner
+    name: Betty White
     phone:
     - 202-268-7004
   request_form: https://pfoiapal.usps.com/palMain.aspx
@@ -133,12 +137,33 @@ departments:
       simple_highest_days: '215'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '63.48'
+      complex_highest_days: '220'
+      complex_lowest_days: '1'
+      complex_median_days: '68'
+      simple_average_days: '20.3'
+      simple_highest_days: '122'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '87'
+      complex_highest_days: '269'
+      complex_lowest_days: '1'
+      complex_median_days: '40'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '7'
+      simple_average_days: '14'
+      simple_highest_days: '215'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
-    - 202-268-7004
+    - 202-268-7528
   top_level: false
-  usa_id: '48154'
-  website: http://about.usps.com/who-we-are/foia/welcome.htm
+  website: http://www.usps.com/foia/welcome.htm
 - address:
     address_lines:
     - FOIA Contact
@@ -159,7 +184,7 @@ departments:
   name: Office of the Inspector General
   phone: 703-248-2100
   public_liaison:
-    name: Betsy Cuthbertson
+    name: Kathy Kikel
     phone:
     - 703-248-2100
   request_form: https://pfoiapal.usps.com/palMain.aspx
@@ -225,13 +250,39 @@ departments:
       simple_highest_days: '127'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '10.5'
+      complex_highest_days: '20'
+      complex_lowest_days: '1'
+      complex_median_days: '10.5'
+      simple_average_days: '8.22'
+      simple_highest_days: '26'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '44'
+      complex_highest_days: '98'
+      complex_lowest_days: '20'
+      complex_median_days: '29'
+      expedited_processing_average_days: '29'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '29'
+      expedited_processing_median_days: '29'
+      simple_average_days: '7'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 703-248-2100
   top_level: false
   website: https://uspsoig.gov/general/foia
-description: The Postal Service provides mail processing and delivery services to
-  individuals and businesses in the U.S.
+description: The USPS OIG achieves its mission of helping maintain confidence in the
+  postal system and improving the Postal Service´s bottom line through independent
+  audits and investigations. Audits of postal programs and operations help to determine
+  whether the programs and operations are efficient and cost-effective. Investigations
+  help prevent and detect fraud, waste, and misconduct and have a deterrent effect
+  on postal crimes.
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -242,7 +293,6 @@ keywords:
 - Buildings and facilities
 - Civil rights
 - Claims
-- Classified information
 - Computer technology
 - Conflict of interests
 - Courts
@@ -264,6 +314,7 @@ keywords:
 - Law enforcement officers
 - Lotteries
 - Maritime carriers
+- Newspapers and magazines
 - Organization and functions (Government agencies)
 - Penalties
 - Postal Service
@@ -339,4 +390,29 @@ request_time_stats:
     simple_highest_days: '544'
     simple_lowest_days: '1'
     simple_median_days: '7'
-usa_id: '49061'
+  '2015':
+    complex_average_days: '70.24'
+    complex_highest_days: '1032'
+    complex_lowest_days: '1'
+    complex_median_days: '26'
+    expedited_processing_average_days: '3.83'
+    expedited_processing_highest_days: '10'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '3.5'
+    simple_average_days: '18.91'
+    simple_highest_days: '501'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
+  '2016':
+    complex_average_days: '55'
+    complex_highest_days: '1331'
+    complex_lowest_days: '1'
+    complex_median_days: '26'
+    expedited_processing_average_days: '14'
+    expedited_processing_highest_days: '29'
+    expedited_processing_lowest_days: '4'
+    expedited_processing_median_days: '11'
+    simple_average_days: '12'
+    simple_highest_days: '390'
+    simple_lowest_days: '1'
+    simple_median_days: '7'

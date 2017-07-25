@@ -2,7 +2,7 @@ abbreviation: MSPB
 departments:
 - address:
     address_lines:
-    - Darryl Aaron
+    - Fon Muttamara
     - FOIA Public Liaison, Office of the Clerk
     city: Washington
     state: DC
@@ -17,255 +17,19 @@ departments:
     name: Darryl Aaron
     phone:
     - 202-254-4474
+  reading_rooms:
+  - - e-FOIA Reading Room
+    - https://www.mspb.gov/FOIA/e-foiareadingroom.htm
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
   service_center:
-    name: Darryl Aaron
+    name: Karin Kelly
     phone:
     - 202-254-4475
   top_level: false
   website: http://www.mspb.gov/FOIA/foia.htm
-- address:
-    address_lines:
-    - Yvonnie Ellis
-    - FOIA Liaison
-    - 10th Floor
-    city: Atlanta
-    state: GA
-    street: 401 W. Peachtree Street, NW
-    zip: 20208-3519
-  emails:
-  - FOIAAT@mspb.gov
-  fax: 404-730-2767
-  misc:
-    FOIA Liaison:
-      name: Yvonnie Ellis
-      phone:
-      - 404-730-2755 x8019
-  name: Atlanta Regional Office
-  phone: 404-730-2755 x8019
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Yvonnie Ellis
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Darryl Aaron
-    - FOIA Liaison
-    - 31st Floor
-    city: Chicago
-    state: IL
-    street: 230 South Dearborn Street
-    zip: 60604-1669
-  emails:
-  - FOIACH@mspb.gov
-  fax: 313-886-4231
-  misc:
-    FOIA Liaison:
-      name: Betty Capis
-      phone:
-      - 312-353-2924 x3113
-  name: Central Regional Office
-  phone: 312-353-2924 x3113
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 312-353-2924 x3113
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Marie Sumner
-    - FOIA Liaison
-    - Suite 205
-    city: Alexandria
-    state: VA
-    street: 1800 Diagonal Road
-    zip: 22314-2480
-  emails:
-  - FOIADC@mspb.gov
-  fax: 703-756-7112
-  misc:
-    FOIA Liaison:
-      name: Marie Sumner
-      phone:
-      - 703-756-7104 x4109
-  name: Washington DC Regional Office
-  phone: 703-756-7104 x4109
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Marie Sumner
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Dennis Matthews
-    - FOIA Liaison
-    - Suite 1700
-    city: Philadelphia
-    state: PA
-    street: 1601 Market Street
-    zip: '19103'
-  emails:
-  - FOIAPH@mspb.gov
-  fax: 215-597-3456
-  misc:
-    FOIA Liaison:
-      name: Dennis Matthews
-      phone:
-      - 215-597-9960 x7108
-  name: Northeastern Regional Office
-  phone: 215-597-9960 x7108
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Dennis Matthews
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Ann Fluellen
-    - FOIA Liaison
-    - Room 620
-    city: Dallas
-    state: TX
-    street: 1100 Commerce Street
-    zip: 75242-9979
-  emails:
-  - FOIADA@mspb.gov
-  fax: 214-767-0102
-  misc:
-    FOIA Liaison:
-      name: Bobbie Williams
-      phone:
-      - 214-767-0810 x5100
-  name: Dallas Regional Office
-  phone: 214-767-0810 x5100
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 214-767-0810 x5100
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Ann Fluellen
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Nancy Bui
-    - FOIA Liaison
-    - Suite 2130
-    city: San Francisco
-    state: CA
-    street: 201 Mission Street
-    zip: 94105-1831
-  emails:
-  - FOIASF@mspb.gov
-  fax: 415-904-0580
-  misc:
-    FOIA Liaison:
-      name: Joyce Thomas
-      phone:
-      - 415-904-6772 x2101
-  name: Western Regional Office
-  phone: 415-904-6772 x2101
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Nancy Bui
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Gwendolyn Gatling
-    - FOIA Liaison
-    - Room 3137-A
-    city: New York
-    state: NY
-    street: 26 Federal Plaza
-    zip: 10278-0022
-  emails:
-  - FOIANY@mspb.gov
-  fax: 212-264-1417
-  misc:
-    FOIA Liaison:
-      name: Gwendolyn Gatling
-      phone:
-      - 212-264-6183 x7504
-  name: New York Field Office
-  phone: 212-264-6183 x7504
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Gwendolyn Gatling
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-- address:
-    address_lines:
-    - Nicole Remmich
-    - FOIA Liaison
-    - Suite 318
-    city: Lakewood
-    state: CO
-    street: 165 South Union Boulevard
-    zip: 80228-2211
-  emails: []
-  fax: 303-969-5109
-  misc:
-    FOIA Liaison:
-      name: Nicole Remmich
-      phone:
-      - 303-969-5101 x6104
-  name: Denver Field Office
-  phone: 303-969-5101 x6104
-  public_liaison:
-    name: Darryl Aaron
-    phone:
-    - 202-254-4474
-  request_form: https://foiaonline.regulations.gov/foia/action/public/home
-  service_center:
-    name: Nicole Remmich
-    phone:
-    - 202-254-4475
-  top_level: false
-  website: http://www.mspb.gov/contact/contact.htm#FOIA
-description: 'The Merit Systems Protection Board is a quasi-judicial agency within
-  the executive branch that hears appeals from federal employees and studies federal
-  merit systems in an effort to protect the rights of federal employees. '
+description: The Merit Systems Protection Board is an independent, quasi-judicial
+  agency whose mission is to protect the Merit Systems Principles and promote an effective
+  Federal workforce free of Prohibited Personnel Practices.
 emails:
 - foiahq@mspb.gov
 keywords:
@@ -365,4 +129,29 @@ request_time_stats:
     simple_highest_days: '51'
     simple_lowest_days: less than 1
     simple_median_days: '8'
-usa_id: '52630'
+  '2015':
+    complex_average_days: '191.17'
+    complex_highest_days: '239'
+    complex_lowest_days: '68'
+    complex_median_days: '215'
+    expedited_processing_average_days: '15.67'
+    expedited_processing_highest_days: '35'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '14.5'
+    simple_average_days: '27.05'
+    simple_highest_days: '145'
+    simple_lowest_days: less than 1
+    simple_median_days: '18'
+  '2016':
+    complex_average_days: '132'
+    complex_highest_days: '386'
+    complex_lowest_days: '3'
+    complex_median_days: '17'
+    expedited_processing_average_days: '19'
+    expedited_processing_highest_days: '101'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '6'
+    simple_average_days: '53.7'
+    simple_highest_days: '460'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'

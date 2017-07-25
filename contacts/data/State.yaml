@@ -1,18 +1,16 @@
 abbreviation: DOS
 departments:
-- abbreviation: DOS
-  address:
+- address:
     address_lines:
-    - John F. Hackett
-    - Acting Director, Office of Information Programs and Services
+    - Eric F. Stein
+    - Director, Office of Information Programs and Services
     - Building SA-2
     city: Washington
     state: DC
     street: 515 22nd Street, NW
     zip: 20522-8100
-  description: The Department of State advises the President and leads the nation
-    in foreign policy issues. The State Department negotiates treaties and agreements
-    with foreign entities, and represents the United States at the United Nations.
+  emails:
+  - SteinEF@state.gov
   fax: 202-261-8579
   misc:
     Acting Director, Office of Information Programs and Services:
@@ -20,14 +18,14 @@ departments:
       phone:
       - 202-261-8484
   name: Department of State
-  phone: 202-261-8484
+  phone: 202-663-2190
   public_liaison:
-    name: Marianne Manheim
+    name: Kellie Robinson
     phone:
-    - 202-261-8484
+    - 202-663-2222
   reading_rooms:
   - - Virtual Reading Room Search
-    - http://foia.state.gov/Search/Search.aspx
+    - https://foia.state.gov/Search/Search.aspx
   request_form: http://foia.state.gov/Request/Submit.aspx
   request_time_stats:
     '2008':
@@ -121,23 +119,48 @@ departments:
       simple_highest_days: '1576'
       simple_lowest_days: '3.56'
       simple_median_days: '66.2'
+    '2015':
+      complex_average_days: '511'
+      complex_highest_days: '2374'
+      complex_lowest_days: '11'
+      complex_median_days: '373'
+      expedited_processing_average_days: '102'
+      expedited_processing_highest_days: '203'
+      expedited_processing_lowest_days: '41'
+      expedited_processing_median_days: '61'
+      simple_average_days: '113'
+      simple_highest_days: '1781'
+      simple_lowest_days: '5'
+      simple_median_days: '84'
+    '2016':
+      complex_average_days: '517'
+      complex_highest_days: '2642'
+      complex_lowest_days: '9'
+      complex_median_days: '392'
+      expedited_processing_average_days: '139'
+      expedited_processing_highest_days: '359'
+      expedited_processing_lowest_days: '18'
+      expedited_processing_median_days: '135'
+      simple_average_days: '342'
+      simple_highest_days: '1871'
+      simple_lowest_days: '2'
+      simple_median_days: '166'
   service_center:
     phone:
     - 202-261-8484
   top_level: false
-  usa_id: '49030'
   website: http://foia.state.gov/
 - address:
     address_lines:
-    - Department of State
+    - Stephanie Fox
+    - FOIA Officer
+    - Building SA-3
     city: Washington
     state: DC
-    street: 'Office of Inspector General
-
-      Office of General Counsel'
+    street: 2201 C Street, N.W
     zip: 20520-0308
   emails:
-  - oigfoia@state.gov
+  - foia@stateoig.gov
   fax: 202-663-0390
   misc:
     FOIA Office:
@@ -145,15 +168,15 @@ departments:
       phone:
       - 202-663-0383
   name: Office of Inspector General
-  phone: 202-663-0383
+  phone: 202-663-0389
   public_liaison:
-    name: Marianne Manheim
+    name: Stephanie Fox
     phone:
-    - 202-261-8359
+    - 202-663-0389
   reading_rooms:
   - - FOIA Reading Room
     - https://oig.state.gov/readingroom
-  request_form: oigfoia@state.gov
+  request_form: http://foia.state.gov/foiareq/foialetter.asp
   request_time_stats:
     '2008':
       expedited_processing_average_days: '1'
@@ -202,21 +225,43 @@ departments:
       simple_highest_days: '108'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2015':
+      simple_average_days: '30'
+      simple_highest_days: '132'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2016':
+      complex_average_days: '37.27'
+      complex_highest_days: '155'
+      complex_lowest_days: '4'
+      complex_median_days: '27'
+      expedited_processing_average_days: '15.33'
+      expedited_processing_highest_days: '66'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '8'
+      simple_average_days: '20.1'
+      simple_highest_days: '66'
+      simple_lowest_days: '3'
+      simple_median_days: '16'
   service_center:
     phone:
-    - 202-261-8484
+    - 202-663-0389
   top_level: false
-  website: http://oig.state.gov/foia
-description: The Department of State advises the President and leads the nation in
-  foreign policy issues. The State Department negotiates treaties and agreements with
-  foreign entities, and represents the United States at the United Nations.
+  website: https://oig.state.gov/foia
+description: The Department's mission is to advance freedom for the benefit of the
+  American people and the international community by helping to build and sustain
+  a more democratic, secure, and prosperous world composed of well-governed states
+  that respond to the needs of their people, reduce widespread poverty, and act responsibly
+  within the international system.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Adoption and foster care
 - Adult education
 - Aged
+- Agency for International Development
 - Agriculture
+- Aircraft
 - Airports
 - Alien property
 - Aliens
@@ -228,14 +273,19 @@ keywords:
 - Buildings and facilities
 - Business and industry
 - Campaign funds
+- Chemicals
 - Child welfare
+- Citizenship and naturalization
 - Civil rights
 - Claims
 - Classified information
 - Colleges and universities
 - Communications
+- Communications equipment
 - Community development
+- Computer technology
 - Confidential business information
+- Conflict of interests
 - Copyright
 - Credit
 - Crime
@@ -261,14 +311,18 @@ keywords:
 - Foreign Service
 - Foreign officials
 - Foreign relations
+- Fraud
 - Freedom of information
 - Government contracts
 - Government employees
 - Government procurement
 - Government property management
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-education
+- Grant programs-foreign relations
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -289,17 +343,21 @@ keywords:
 - International organizations
 - Inventions and patents
 - Investigations
+- Investments
 - Iraq
 - Kuwait
 - Labor
+- Law
 - Law enforcement
 - Law enforcement officers
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
+- Lobbying
 - Longshore and harbor workers
 - Manpower training programs
 - Mass transportation
@@ -443,4 +501,29 @@ request_time_stats:
     simple_highest_days: '1576'
     simple_lowest_days: '1'
     simple_median_days: '66'
-usa_id: '49030'
+  '2015':
+    complex_average_days: '511'
+    complex_highest_days: '2374'
+    complex_lowest_days: '11'
+    complex_median_days: '373'
+    expedited_processing_average_days: '102'
+    expedited_processing_highest_days: '203'
+    expedited_processing_lowest_days: '41'
+    expedited_processing_median_days: '61'
+    simple_average_days: '111'
+    simple_highest_days: '1781'
+    simple_lowest_days: '1'
+    simple_median_days: '84'
+  '2016':
+    complex_average_days: '517'
+    complex_highest_days: '2642'
+    complex_lowest_days: '9'
+    complex_median_days: '392'
+    expedited_processing_average_days: '139'
+    expedited_processing_highest_days: '359'
+    expedited_processing_lowest_days: '18'
+    expedited_processing_median_days: '135'
+    simple_average_days: '342'
+    simple_highest_days: '1871'
+    simple_lowest_days: '2'
+    simple_median_days: '166'

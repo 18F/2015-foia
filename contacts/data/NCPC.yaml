@@ -9,10 +9,6 @@ departments:
     state: DC
     street: 401 9th Street, NW
     zip: '20004'
-  description: The National Capital Planning Commission crafts long-range plans and
-    policies for the National Capital Region. The Commission provides building and
-    zoning advice to Washington DC and the surrounding area, and approves various
-    federal construction plans.
   emails:
   - anne.schuyler@ncpc.gov
   fax: 202-482-7272
@@ -73,17 +69,40 @@ departments:
       simple_highest_days: '8'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2015':
+      simple_average_days: '6.5'
+      simple_highest_days: '9'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4.87'
+      simple_highest_days: '13'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     name: Marcella Brown
     phone:
     - 202-482-7227
   top_level: false
-  usa_id: '52633'
   website: http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html
-description: The National Capital Planning Commission crafts long-range plans and
-  policies for the National Capital Region. The Commission provides building and zoning
-  advice to Washington DC and the surrounding area, and approves various federal construction
-  plans.
+description: 'NCPC protects and enhances the historic, cultural, and natural resources
+  of the national capital by
+
+  ·Creating and updating the Comprehensive Plan for the National Capital Region
+
+  ·Crafting long-range plans and planning policies
+
+  ·Reviewing a variety of federal and District of Columbia development projects
+
+  ·Producing the annual Federal Capital Improvements Program (FCIP)'
 keywords:
 - Freedom of information
 name: National Capital Planning Commission
@@ -133,4 +152,21 @@ request_time_stats:
     simple_highest_days: '8'
     simple_lowest_days: '1'
     simple_median_days: '4'
-usa_id: '52633'
+  '2015':
+    simple_average_days: '6.5'
+    simple_highest_days: '9'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2016':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '4.87'
+    simple_highest_days: '13'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'

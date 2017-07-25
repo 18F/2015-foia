@@ -9,9 +9,6 @@ departments:
     state: DC
     street: 400 7th Street, SW
     zip: '20506'
-  description: A grant-making organization, to date the National Endowment for the
-    Arts has awarded more than $4 billion to support artistic excellence, creativity,
-    and innovation for the benefit of individuals and communities.
   emails:
   - foia@arts.gov
   fax: 202-682-5572
@@ -22,11 +19,12 @@ departments:
   name: National Endowment for the Arts
   phone: 202-682-5418
   public_liaison:
+    name: Sarah Weingast
     phone:
-    - 202-682-5418
+    - 202-682-5796
   reading_rooms:
-  - - FOIA Reading Room, Frequently Requested Records
-    - http://arts.gov/foia/reading-room
+  - - FOIA Reading Room
+    - https://www.arts.gov/foia/reading-room
   request_time_stats:
     '2010':
       complex_average_days: '34.9'
@@ -89,15 +87,148 @@ departments:
       simple_highest_days: '510'
       simple_lowest_days: '2'
       simple_median_days: '22'
+    '2015':
+      complex_average_days: '282'
+      complex_highest_days: '923'
+      complex_lowest_days: '18'
+      complex_median_days: '470'
+      simple_average_days: '26'
+      simple_highest_days: '52'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '373'
+      complex_highest_days: '1065'
+      complex_lowest_days: '25'
+      complex_median_days: '30'
+      simple_average_days: '12'
+      simple_highest_days: '27'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-682-5418
   top_level: false
-  usa_id: '52634'
   website: http://www.arts.gov/about/FOIA/index.html
-description: A grant-making organization, to date the National Endowment for the Arts
-  has awarded more than $4 billion to support artistic excellence, creativity, and
-  innovation for the benefit of individuals and communities.
+description: The National Endowment for the Arts was established by Congress in 1965
+  as an independent agency of the federal government. To date, the NEA has awarded
+  more than $4 billion to support artistic excellence, creativity, and innovation
+  for the benefit of individuals and communities. The NEA extends its work through
+  partnerships with state arts agencies, local leaders, other federal agencies, and
+  the philanthropic sector.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Aged
+- Agriculture
+- Airports
+- American Samoa
+- Archives and records
+- Blind
+- Broadband
+- Business and industry
+- Civil rights
+- Claims
+- Colleges and universities
+- Communications
+- Community development
+- Copyright
+- Credit
+- Cultural exchange programs
+- Drug abuse
+- Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
+- Employment
+- Equal educational opportunity
+- Equal employment opportunity
+- Federal buildings and facilities
+- Federally affected areas
+- Fraud
+- Freedom of information
+- Government contracts
+- Government employees
+- Government property management
+- Grant programs
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Guam
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Home improvement
+- Homeless
+- Hospitals
+- Hostages
+- Human research subjects
+- Indians
+- Indians-education
+- Individuals with disabilities
+- Insurance
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Lebanon
+- Loan programs
+- Loan programs-agriculture
+- Loan programs-business
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-housing and community development
+- Lobbying
+- Manpower training programs
+- Mass transportation
+- Migrant labor
+- Mortgage insurance
+- Mortgages
+- Nonprofit organizations
+- Northern Mariana Islands
+- Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
+- Penalties
+- Privacy
+- Private schools
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Rural areas
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
+- Securities
+- Sex discrimination
+- Small businesses
+- State and local governments
+- Student aid
+- Teachers
+- Telecommunications
+- Telephone
+- Urban areas
+- Veterans
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Women
 name: National Endowment for the Arts
 request_time_stats:
   '2010':
@@ -161,4 +292,21 @@ request_time_stats:
     simple_highest_days: '510'
     simple_lowest_days: '2'
     simple_median_days: '22'
-usa_id: '52634'
+  '2015':
+    complex_average_days: '282'
+    complex_highest_days: '923'
+    complex_lowest_days: '18'
+    complex_median_days: '470'
+    simple_average_days: '26'
+    simple_highest_days: '52'
+    simple_lowest_days: '1'
+    simple_median_days: '12'
+  '2016':
+    complex_average_days: '373'
+    complex_highest_days: '1065'
+    complex_lowest_days: '25'
+    complex_median_days: '30'
+    simple_average_days: '12'
+    simple_highest_days: '27'
+    simple_lowest_days: '1'
+    simple_median_days: '11'

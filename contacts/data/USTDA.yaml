@@ -2,16 +2,15 @@ abbreviation: USTDA
 departments:
 - address:
     address_lines:
-    - Ziyang Fan
+    - Doug Choi
     - FOIA Contact
     - Suite 1600
     city: Arlington
     state: VA
     street: 1000 Wilson Boulevard
     zip: 22209-3901
-  description: The United States Trade and Development Agency links U.S. businesses
-    to export opportunities by funding project planning activities, pilot projects,
-    and reverse trade missions.
+  emails:
+  - dchoi@ustda.gov
   fax: 703-875-4009
   misc:
     FOIA Contact:
@@ -21,12 +20,9 @@ departments:
   name: United States Trade and Development Agency
   phone: 703-875-4357
   public_liaison:
-    name: Ziyang Fan
+    name: Doug Choi
     phone:
     - 703-875-4357
-  reading_rooms:
-  - - USTDA FOIA Electronic Reading Room
-    - http://www.ustda.gov/foia/foiareadingroom.asp
   request_time_stats:
     '2010':
       complex_average_days: '105'
@@ -77,15 +73,26 @@ departments:
       complex_highest_days: '342'
       complex_lowest_days: '11'
       complex_median_days: '32'
+    '2015':
+      complex_average_days: '53'
+      complex_highest_days: '116'
+      complex_lowest_days: '22'
+      complex_median_days: '37'
+    '2016':
+      complex_average_days: '174'
+      complex_highest_days: '764'
+      complex_lowest_days: '2'
+      complex_median_days: '87'
   service_center:
     phone:
     - 703-875-5578
   top_level: false
-  usa_id: '49721'
   website: http://www.ustda.gov/pubs/foia/
-description: The United States Trade and Development Agency links U.S. businesses
-  to export opportunities by funding project planning activities, pilot projects,
-  and reverse trade missions.
+description: The U.S. Trade and Development Agency helps companies create U.S. jobs
+  through the export of U.S. goods and services for priority development projects
+  in emerging economies. USTDA links U.S. businesses to export opportunities by funding
+  project planning activities, pilot projects, and reverse trade missions while creating
+  sustainable infrastructure and economic growth in partner countries.
 name: United States Trade and Development Agency
 request_time_stats:
   '2010':
@@ -137,4 +144,13 @@ request_time_stats:
     complex_highest_days: '342'
     complex_lowest_days: '11'
     complex_median_days: '32'
-usa_id: '49721'
+  '2015':
+    complex_average_days: '53'
+    complex_highest_days: '116'
+    complex_lowest_days: '22'
+    complex_median_days: '37'
+  '2016':
+    complex_average_days: '174'
+    complex_highest_days: '764'
+    complex_lowest_days: '2'
+    complex_median_days: '87'

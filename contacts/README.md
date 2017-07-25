@@ -11,11 +11,11 @@ then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
 
 Building the FOIA contacts database is a multi-step process:
 
-1. Scraping the [FOIA.gov request form](http://www.foia.gov/report-makerequest.html) for contact data and adding in some additional manually curated data, stored in `manual_data/`.
-2. Filling in missing data using a CSV rendition of an [Excel spreadsheet](http://www.foia.gov/full-foia-contacts.xls) hosted on FOIA.gov.
+1. Scraping the [FOIA.gov request form](https://www.foia.gov/report-makerequest.html) for contact data and adding in some additional manually curated data, stored in `manual_data/`.
+2. Filling in missing data using a CSV rendition of an [Excel spreadsheet](https://www.foia.gov/full-foia-contacts.xls) hosted on FOIA.gov.
 3. Downloading and adding descriptions, abbreviations, and IDs from the
 [USA Contacts API](http://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
-4. Downloading and adding processing time data from [foia.gov/data](http://www.foia.gov/data.html)
+4. Downloading and adding processing time data from [foia.gov/data](https://www.foia.gov/data.html)
 5. Downloading keywords for agencies from the Federal Register.
 6. Scraping agency and office FOIA websites to collect reading room urls.
 
@@ -32,7 +32,7 @@ Then run the following scripts in order:
 ```bash
 python scraper.py
 python layer_with_csv.py
-python layer_with_usa_contacts.py
+# python layer_with_usa_contacts.py # USAGov contacts no longer supports this API
 python processing_time_scraper.py
 python keywords_from_fr.py
 python layer_with_reading_room.py
@@ -52,11 +52,11 @@ processing_time_scraper.py -> html/
 keywords_from_fr.py -> fr.sqlite
 ```
 
-##Script Details
+## Script Details
 
 ### scraper.py
 
-scraper.py collects contact data from [foia.gov's contacts pages](http://www.foia.gov/report-makerequest.html) and create the [data yaml files](https://github.com/18F/foia/tree/master/contacts/data) for each department. This script operates in two modes. Without any command line arguments it will
+scraper.py collects contact data from [foia.gov's contacts pages](https://www.foia.gov/report-makerequest.html) and create the [data yaml files](https://github.com/18F/foia/tree/master/contacts/data) for each department. This script operates in two modes. Without any command line arguments it will
 reprocess the data for all agencies. You can however provide an agency
 abbreviation as a parameter, and it will only process the data for that agency.
 
@@ -65,7 +65,7 @@ Agency abbreviations are currently listed
 
 ### layer_with_csv.py
 
-layer_with_csv.py updates the [data yaml files](https://github.com/18F/foia/tree/master/contacts/data) with the [foia.gov's contacts spreadsheet](http://www.foia.gov/full-foia-contacts.xls).
+layer_with_csv.py updates the [data yaml files](https://github.com/18F/foia/tree/master/contacts/data) with the [foia.gov's contacts spreadsheet](https://www.foia.gov/full-foia-contacts.xls).
 
 ### layer_with_usa_contacts.py
 

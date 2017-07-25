@@ -7,12 +7,8 @@ departments:
     - CIO-40
     city: Washington
     state: DC
-    street: 490 L´Enfant Plaza, SW
+    street: 490 L'Enfant Plaza, SW
     zip: '20594'
-  description: The National Transportation Safety Board investigates every civil aviation
-    accident in the U.S. and significant accidents in other modes of transporation.
-    Based on their investigative findings and special studies, the board makes recommendations
-    aimed at preventing future accidents.
   emails:
   - foia@ntsb.gov
   fax: 240-752-6257
@@ -29,8 +25,8 @@ departments:
     - 202-314-6540
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.ntsb.gov/foia/foia_err.html
-  request_form: http://www.ntsb.gov/pubmail/pubmail.aspx
+    - https://www.ntsb.gov/about/foia/Pages/foia_err.aspx
+  request_form: https://foiarequest.ntsb.gov/palMain.aspx
   request_time_stats:
     '2011':
       complex_average_days: '75.05'
@@ -76,22 +72,54 @@ departments:
       simple_highest_days: '322'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '276.19'
+      complex_highest_days: '913'
+      complex_lowest_days: less than 1
+      complex_median_days: '200'
+      expedited_processing_average_days: '100'
+      expedited_processing_highest_days: '266'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '66.5'
+      simple_average_days: '28.75'
+      simple_highest_days: '490'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '253.81'
+      complex_highest_days: '983'
+      complex_lowest_days: less than 1
+      complex_median_days: '90'
+      expedited_processing_average_days: '41'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '41'
+      expedited_processing_median_days: '41'
+      simple_average_days: '332.36'
+      simple_highest_days: '682'
+      simple_lowest_days: less than 1
+      simple_median_days: '441'
   service_center:
     phone:
     - 202-314-6540
   top_level: false
-  usa_id: '52641'
-  website: http://www.ntsb.gov/foia/index.html
-description: The National Transportation Safety Board investigates every civil aviation
-  accident in the U.S. and significant accidents in other modes of transporation.
-  Based on their investigative findings and special studies, the board makes recommendations
-  aimed at preventing future accidents.
+  website: http://www.ntsb.gov/about/foia/Pages/default.aspx
+description: The National Transportation Safety Board (NTSB) is an independent federal
+  agency charged with determining the probable cause of transportation accidents and
+  promoting transportation safety, and assisting victims of transportation accidents
+  and their families. The NTSB investigates accidents, conducts safety studies, evaluates
+  the effectiveness of other government agencies programs for preventing transportation
+  accidents, and reviews the appeals of enforcement actions involving aviation and
+  mariner certificates issued by the Federal Aviation Administration (FAA) and the
+  U.S. Coast Guard (USCG), as well as the appeals of civil penalty actions taken by
+  the FAA.
 keywords:
 - Administrative practice and procedure
 - Airmen
 - Archives and records
+- Authority delegations (Government agencies)
 - Aviation safety
 - Claims
+- Conflict of interests
 - Equal access to justice
 - Freedom of information
 - Government employees
@@ -106,6 +134,8 @@ keywords:
 - Railroad safety
 - Reporting and recordkeeping requirements
 - Safety
+- Seals and insignia
+- Sunshine Act
 - Transportation
 name: National Transportation Safety Board
 request_time_stats:
@@ -162,4 +192,29 @@ request_time_stats:
     simple_highest_days: '322'
     simple_lowest_days: less than 1
     simple_median_days: '3'
-usa_id: '52641'
+  '2015':
+    complex_average_days: '276.19'
+    complex_highest_days: '913'
+    complex_lowest_days: less than 1
+    complex_median_days: '200'
+    expedited_processing_average_days: '100'
+    expedited_processing_highest_days: '266'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '66.5'
+    simple_average_days: '28.75'
+    simple_highest_days: '490'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'
+  '2016':
+    complex_average_days: '253.81'
+    complex_highest_days: '983'
+    complex_lowest_days: less than 1
+    complex_median_days: '90'
+    expedited_processing_average_days: '41'
+    expedited_processing_highest_days: '41'
+    expedited_processing_lowest_days: '41'
+    expedited_processing_median_days: '41'
+    simple_average_days: '332.36'
+    simple_highest_days: '682'
+    simple_lowest_days: less than 1
+    simple_median_days: '441'

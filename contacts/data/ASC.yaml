@@ -1,0 +1,34 @@
+abbreviation: ASC
+departments:
+- address:
+    address_lines:
+    - Alice M. Ritter
+    - FOIA Officer
+    - Suite 760
+    city: Washington
+    state: DC
+    street: 1401 H Street NW
+    zip: '20005'
+  emails:
+  - alice@asc.gov
+  fax: 202-289-2735
+  name: Appraisal Subcommittee
+  notes: FOIA Rules are in Subpart D.
+  phone: 202-595-7577
+  public_liaison:
+    name: James R. Park
+    phone:
+    - 202-289-2735
+  request_time_stats: {}
+  service_center:
+    phone:
+    - 202-289-2735
+  top_level: false
+  website: https://www.asc.gov/Documents/Rules/ASC%20Rules.pdf
+description: 'The Appraisal Subcommittee''s (ASC) Mission Statement:  To provide federal
+  oversight of State appraiser regulatory programs and a monitoring framework for
+  the Appraisal Foundation and the Federal Financial Institutions Regulatory Agencies
+  in their roles to protect federal financial and public policy interests in real
+  estate appraisals utilized in federally related transactions.'
+name: Appraisal Subcommittee
+request_time_stats: {}

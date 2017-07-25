@@ -1,7 +1,6 @@
 abbreviation: FTC
 departments:
-- abbreviation: FTC
-  address:
+- address:
     address_lines:
     - Dione Stearns
     - Assistant General Counsel for Information & Legal Support
@@ -9,9 +8,6 @@ departments:
     state: DC
     street: 600 Pennsylvania Avenue, NW H-585
     zip: '20580'
-  description: 'The Federal Trade Commission works to prevent fraudulent, deceptive,
-    and unfair business practices. They also provide information to help consumers
-    spot, stop, and avoid scams and fraud. '
   emails:
   - foia@ftc.gov
   fax: 202-326-2477
@@ -35,7 +31,7 @@ departments:
     - https://www.ftc.gov/about-ftc/foia/foia-reading-rooms
   - - OIG Reading Room
     - https://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room
-  request_form: https://ftc.gov/ftc/foia.htm
+  request_form: https://www.ftc.gov/foia/request-form
   request_time_stats:
     '2008':
       complex_average_days: '33.02'
@@ -118,15 +114,40 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '25.15'
+      complex_highest_days: '328'
+      complex_lowest_days: less than 1
+      complex_median_days: '16'
+      simple_average_days: '5.73'
+      simple_highest_days: '52'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '26.61'
+      complex_highest_days: '296'
+      complex_lowest_days: less than 1
+      complex_median_days: '16'
+      expedited_processing_average_days: '19.7'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '21'
+      simple_average_days: '5.91'
+      simple_highest_days: '55'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   top_level: false
-  usa_id: '49047'
   website: http://www.ftc.gov/foia/
-description: 'The Federal Trade Commission works to prevent fraudulent, deceptive,
-  and unfair business practices. They also provide information to help consumers spot,
-  stop, and avoid scams and fraud. '
+description: The FTC pursues vigorous and effective law enforcement; advances consumers´
+  interests by sharing its expertise with federal and state legislatures and U.S.
+  and international government agencies; develops policy and research tools through
+  hearings, workshops, and conferences; and creates practical and plain-language educational
+  programs for consumers and businesses in a global marketplace with constantly changing
+  technologies.
 keywords:
 - Administrative practice and procedure
 - Advertising
+- Agency for International Development
 - Antitrust
 - Bank deposit insurance
 - Banks, banking
@@ -150,6 +171,7 @@ keywords:
 - Federal buildings and facilities
 - Foods
 - Foreign banking
+- Forests and forest products
 - Freedom of information
 - Fuel economy
 - Furniture industry
@@ -161,6 +183,7 @@ keywords:
 - Hobbies
 - Holding companies
 - Household appliances
+- Individuals with disabilities
 - Insulation
 - Intergovernmental relations
 - Investigations
@@ -190,6 +213,8 @@ keywords:
 - Tobacco
 - Trade practices
 - Wages
+- Watches and jewelry
+- Wool
 - Youth
 name: Federal Trade Commission
 request_time_stats:
@@ -274,4 +299,25 @@ request_time_stats:
     simple_highest_days: '51'
     simple_lowest_days: less than 1
     simple_median_days: '4'
-usa_id: '49047'
+  '2015':
+    complex_average_days: '25.15'
+    complex_highest_days: '328'
+    complex_lowest_days: less than 1
+    complex_median_days: '16'
+    simple_average_days: '5.73'
+    simple_highest_days: '52'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'
+  '2016':
+    complex_average_days: '26.61'
+    complex_highest_days: '296'
+    complex_lowest_days: less than 1
+    complex_median_days: '16'
+    expedited_processing_average_days: '19.7'
+    expedited_processing_highest_days: '28'
+    expedited_processing_lowest_days: '10'
+    expedited_processing_median_days: '21'
+    simple_average_days: '5.91'
+    simple_highest_days: '55'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'

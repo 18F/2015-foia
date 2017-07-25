@@ -4,13 +4,11 @@ departments:
     address_lines:
     - Stephanie A. Soper
     - Freedom of Information Act Officer, Office of the General Counsel
-    - Room 10606
+    - Room 2253B
     city: Washington
     state: DC
-    street: 1201 New York Avenue, NW
+    street: 250 E Street, SW
     zip: '20525'
-  description: The Corporation for National and Community Service encourages and provides
-    community service opportunities, including AmeriCorps and Senior Corps.
   emails:
   - foia@cns.gov
   fax: 202-606-3467
@@ -21,9 +19,9 @@ departments:
   name: Corporation for National and Community Service
   phone: 202-606-6747
   public_liaison:
-    name: Wilsie Y. Minor
+    name: Thomas Bryant
     phone:
-    - 202-606-6673
+    - 202-606-6678
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -103,15 +101,34 @@ departments:
       simple_highest_days: '53'
       simple_lowest_days: less than 1
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '104'
+      complex_highest_days: '505'
+      complex_lowest_days: '3'
+      complex_median_days: '39'
+      simple_average_days: '8'
+      simple_highest_days: '40'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '48.7'
+      complex_highest_days: '170'
+      complex_lowest_days: '1'
+      complex_median_days: '35.5'
+      simple_average_days: '7'
+      simple_highest_days: '21'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     name: Stephanie A. Soper
     phone:
     - 202-606-6747
   top_level: false
-  usa_id: '52593'
   website: http://www.nationalservice.gov/home/foia/index.asp
-description: The Corporation for National and Community Service encourages and provides
-  community service opportunities, including AmeriCorps and Senior Corps.
+description: The Corporation for National and Community Service is a federal agency
+  that engages more than five million Americans in service through Senior Corps, AmeriCorps,
+  and Learn and Serve America, and leads President Obama's national call to service
+  initiative, United We Serve.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -130,6 +147,7 @@ keywords:
 - Communications
 - Community development
 - Copyright
+- Courts
 - Credit
 - Cultural exchange programs
 - Drug abuse
@@ -139,6 +157,7 @@ keywords:
 - Educational facilities
 - Educational research
 - Educational study programs
+- Elections
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -149,12 +168,14 @@ keywords:
 - Federal buildings and facilities
 - Federally affected areas
 - Fraud
+- Freedom of information
 - Government contracts
 - Government employees
 - Government property management
 - Grant programs
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -179,9 +200,11 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
+- Lobbying
 - Manpower training programs
 - Mass transportation
 - Migrant labor
@@ -189,6 +212,7 @@ keywords:
 - Mortgages
 - Nonprofit organizations
 - Northern Mariana Islands
+- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Penalties
 - Privacy
@@ -206,6 +230,7 @@ keywords:
 - Small businesses
 - State and local governments
 - Student aid
+- Sunshine Act
 - Teachers
 - Technical assistance
 - Telecommunications
@@ -316,4 +341,21 @@ request_time_stats:
     simple_highest_days: '53'
     simple_lowest_days: less than 1
     simple_median_days: '7'
-usa_id: '52593'
+  '2015':
+    complex_average_days: '104'
+    complex_highest_days: '505'
+    complex_lowest_days: '3'
+    complex_median_days: '39'
+    simple_average_days: '8'
+    simple_highest_days: '40'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
+  '2016':
+    complex_average_days: '48.7'
+    complex_highest_days: '170'
+    complex_lowest_days: '1'
+    complex_median_days: '35.5'
+    simple_average_days: '7'
+    simple_highest_days: '21'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

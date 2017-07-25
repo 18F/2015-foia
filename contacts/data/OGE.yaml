@@ -2,15 +2,13 @@ abbreviation: OGE
 departments:
 - address:
     address_lines:
-    - Diana J. Veilleux
+    - Rachel K. Dowell
     - OGE FOIA Officer
     - Suite 500
     city: Washington
     state: DC
     street: 1201 New York Avenue, NW
     zip: 20005-3917
-  description: The Office of Government Ethics provides oversight, policy, and guidance
-    to the Executive Branch regarding ethics laws and policies.
   emails:
   - usoge@oge.gov
   fax: 202-482-9237
@@ -19,10 +17,10 @@ departments:
     phone:
     - 202-482-9203
   name: Office of Government Ethics
-  phone: 202-482-9203
+  phone: 202-482-9267
   public_liaison:
     phone:
-    - 202-482-9203
+    - 202-482-9267
   request_time_stats:
     '2008':
       simple_average_days: '11'
@@ -99,14 +97,27 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: '1'
       simple_median_days: '16.5'
+    '2015':
+      simple_average_days: '24'
+      simple_highest_days: '559'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      simple_average_days: '12.6'
+      simple_highest_days: '107'
+      simple_lowest_days: '1'
+      simple_median_days: '7.5'
   service_center:
     phone:
-    - 202-482-9267
+    - 202-482-9211
   top_level: false
-  usa_id: '52646'
-  website: http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/
-description: The Office of Government Ethics provides oversight, policy, and guidance
-  to the Executive Branch regarding ethics laws and policies.
+  website: https://www.oge.gov/web/oge.nsf/FOIA+&+Privacy+Act?OpenView
+description: The Office of Government Ethics exercises leadership in the executive
+  branch to prevent conflicts of interest on the part of Government employees, and
+  to resolve those conflicts of interest that do occur. In partnership with executive
+  branch agencies and departments, OGE fosters high ethical standards for employees
+  and strengthens the public's confidence that the Government's business is conducted
+  with impartiality and integrity.
 keywords:
 - Administrative practice and procedure
 - Archives and records
@@ -198,4 +209,13 @@ request_time_stats:
     simple_highest_days: '41'
     simple_lowest_days: '1'
     simple_median_days: '16.5'
-usa_id: '52646'
+  '2015':
+    simple_average_days: '24'
+    simple_highest_days: '559'
+    simple_lowest_days: '1'
+    simple_median_days: '11'
+  '2016':
+    simple_average_days: '12.6'
+    simple_highest_days: '107'
+    simple_lowest_days: '1'
+    simple_median_days: '7.5'

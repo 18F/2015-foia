@@ -3,17 +3,13 @@ departments:
 - abbreviation: BIA
   address:
     address_lines:
-    - Daniel Largo
+    - Jessica R. Rogers
     - FOIA Officer
-    - MS-3070, MIB
+    - MS-4600, MIB
     city: Washington
     state: DC
     street: 1849 C Street, NW
     zip: '20240'
-  description: The Bureau of Indian Affairs’ mission is to enhance the quality of
-    life, to promote economic opportunity, and to carry out the responsibility to
-    protect and improve the trust assets of American Indians, Indian tribes and Alaska
-    Natives.
   emails:
   - foia@bia.gov
   fax: 202-208-6597
@@ -26,16 +22,26 @@ departments:
   - Administrative practice and procedure
   - Alaska
   - Buildings and facilities
+  - Business and industry
   - Child welfare
   - Claims
+  - Colleges and universities
   - Courts
+  - Credit
   - Educational facilities
+  - Elections
+  - Elementary and secondary education
   - Employment
   - Equal access to justice
   - Estates
+  - Fishing
+  - Gambling
+  - Geothermal energy
   - Government contracts
   - Government property management
   - Grant programs-Indians
+  - Grant programs-business
+  - Grant programs-education
   - Grant programs-housing and community development
   - Grant programs-social programs
   - Grazing lands
@@ -46,6 +52,7 @@ departments:
   - Indians-business and finance
   - Indians-claims
   - Indians-education
+  - Indians-judgment funds
   - Indians-lands
   - Indians-law
   - Indians-tribal government
@@ -53,25 +60,28 @@ departments:
   - Law enforcement
   - Lawyers
   - Livestock
+  - Manpower training programs
+  - Mineral resources
+  - Mines
+  - Oil and gas exploration
   - Penalties
   - Public assistance programs
+  - Reindeer
   - Reporting and recordkeeping requirements
   - Rights-of-way
   - School construction
   - Schools
   - Students
+  - Surety bonds
   - Trusts and trustees
   name: Bureau of Indian Affairs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-208-5097
+  phone: 202-208-4223
   public_liaison:
-    name: Daniel Largo
+    name: Jessica R. Rogers
     phone:
-    - 202-208-5097
-  reading_rooms:
-  - - Reading Room
-    - http://www.bia.gov/FOIA/ReadingRoom/index.htm
+    - 202-208-4223
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -147,24 +157,46 @@ departments:
       simple_highest_days: '36'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '23'
+      complex_highest_days: '907'
+      complex_lowest_days: less than 1
+      complex_median_days: '12'
+      expedited_processing_average_days: '40'
+      expedited_processing_highest_days: '238'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '1'
+      simple_highest_days: '24'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '24'
+      complex_highest_days: '1061'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '18'
+      simple_average_days: '6'
+      simple_highest_days: '192'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
-    - 202-208-4174
+    - 202-208-3135
   top_level: true
-  usa_id: '49117'
   website: http://www.bia.gov/FOIA/index.htm
-- abbreviation: BLM
-  address:
+- address:
     address_lines:
     - Ryan Witt
     - FOIA Officer
     - 'Attn: FOIA, Washington Office Coorindators'
     city: Washington
     state: DC
-    street: 'MS: WO-560, 1849 C Street, NW'
+    street: 'MS: WO-640, 1849 C Street, NW'
     zip: '20240'
-  description: The Bureau of Land Management manages outdoor recreation, livestock
-    grazing, mineral development, and energy production on public lands.
   emails:
   - wo_FOIA@blm.gov
   foia_officer:
@@ -205,8 +237,10 @@ departments:
   - Mineral royalties
   - Mines
   - Monuments and memorials
+  - Museums
   - National forests
   - National parks
+  - Natural resources
   - Navigation (air)
   - Oil and gas exploration
   - Oil and gas reserves
@@ -214,26 +248,35 @@ departments:
   - Phosphate
   - Pipelines
   - Public lands
+  - Public lands_classification
+  - Public lands_mineral resources
+  - Public lands_rights-of-way
+  - Public lands_sale
+  - Public lands_withdrawal
   - Range management
   - Reporting and recordkeeping requirements
+  - Research
   - Seashores
+  - Sodium
+  - State and local governments
   - Sulfur
   - Surety bonds
   - Traffic regulations
   - Water resources
   - Wilderness areas
   - Wildlife
+  - Wildlife refuges
   name: Bureau of Land Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-912-7652
+  phone: 202-912-7562
   public_liaison:
     name: Ryan Witt
     phone:
-    - 202-912-7652
+    - 202-912-7562
   reading_rooms:
-  - - Reading Room
-    - http://www.blm.gov/wo/st/en/res/FOIA/Reading_Room.html
+  - - FOIA Reading Room
+    - https://www.blm.gov/about/foia/foia-reading-room
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -317,30 +360,48 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '53'
+      complex_highest_days: '990'
+      complex_lowest_days: less than 1
+      complex_median_days: '27'
+      simple_average_days: '7'
+      simple_highest_days: '26'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '56'
+      complex_highest_days: '1117'
+      complex_lowest_days: less than 1
+      complex_median_days: '25'
+      expedited_processing_average_days: '78'
+      expedited_processing_highest_days: '143'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '78'
+      simple_average_days: '9'
+      simple_highest_days: '19'
+      simple_lowest_days: '4'
+      simple_median_days: '7'
   service_center:
     phone:
-    - 202-912-7652
+    - 202-912-7650
   top_level: true
-  usa_id: '49125'
-  website: http://www.blm.gov/wo/st/en/res/FOIA.html
-- abbreviation: BOEM
-  address:
+  website: https://www.blm.gov/about/foia
+- address:
     address_lines:
-    - Rosemary Melendy
+    - Tasha Alcantara
     - FOIA Officer
-    - MS-HM 3127
-    city: Herndon
+    - VAM-BOEM DIR
+    city: Sterling
     state: VA
-    street: 381 Elden Street
-    zip: 20170-4817
-  description: The Bureau of Ocean Energy Management promotes energy independence,
-    environmental protection, and economic development by managing offshore energy
-    resources.
+    street: 45600 Woodland Road
+    zip: '20166'
   emails:
   - BOEMFOIA@boem.gov
   fax: 703-787-1209
   keywords:
   - Administrative practice and procedure
+  - Air pollution control
   - Bonds
   - Civil rights
   - Coastal zone
@@ -355,19 +416,26 @@ departments:
   - Intergovernmental relations
   - Investigations
   - Marine resources
+  - Mineral resources
   - Mineral royalties
   - Natural gas
   - Natural resources
   - Oil and gas exploration
   - Oil and gas reserves
   - Oil pollution
+  - Ozone
   - Penalties
   - Petroleum
   - Pipelines
   - Public lands
+  - Public lands_mineral resources
+  - Public lands_rights-of-way
   - Reporting and recordkeeping requirements
   - Research
+  - Rights-of-way
+  - Securities
   - Solar energy
+  - Sulfur
   - Surety bonds
   misc:
     FOIA Contact:
@@ -377,14 +445,14 @@ departments:
   name: Bureau of Ocean Energy Management
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 703-787-1315
+  phone: 703-787-1818
   public_liaison:
-    name: Rosemary Melendy
+    name: Tasha Alcantara
     phone:
-    - 703-787-1315
+    - 703-787-1818
   reading_rooms:
-  - - FOIA Reading Room
-    - http://www.boem.gov/FOIA-Reading-Room/
+  - - FOIA Library
+    - https://www.boem.gov/FOIA-Library/
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -422,23 +490,47 @@ departments:
       simple_highest_days: '14'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '51'
+      complex_highest_days: '316'
+      complex_lowest_days: less than 1
+      complex_median_days: '26'
+      expedited_processing_average_days: '44'
+      expedited_processing_highest_days: '86'
+      expedited_processing_lowest_days: '21'
+      expedited_processing_median_days: '26'
+      simple_average_days: '7'
+      simple_highest_days: '46'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '80'
+      complex_highest_days: '1208'
+      complex_lowest_days: less than 1
+      complex_median_days: '8'
+      expedited_processing_average_days: '92'
+      expedited_processing_highest_days: '92'
+      expedited_processing_lowest_days: '92'
+      expedited_processing_median_days: '92'
+      simple_average_days: '6'
+      simple_highest_days: '10'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
   service_center:
     phone:
-    - 703-787-1315
+    - 703-787-1084
   top_level: true
-  usa_id: '85122'
   website: http://www.boem.gov/About-BOEM/FOIA/FOIA.aspx
 - abbreviation: USBR
   address:
     address_lines:
-    - James Judd
-    - Acting FOIA Officer
+    - Debbie Suehr
+    - FOIA Officer
+    - 84-21200
     city: Denver
     state: CO
     street: P.O. Box 25007
     zip: 80225-0007
-  description: 'The Bureau of Reclamation is a provider of wholesale water, and hydroelectric
-    power in the U.S. '
   emails:
   - bor_foia@usbr.gov
   fax: 303-445-6575
@@ -457,9 +549,11 @@ departments:
   - Natural resources
   - Penalties
   - Public lands
+  - Public lands_rights-of-way
   - Reclamation
   - Reporting and recordkeeping requirements
   - Reservoirs
+  - Rights-of-way
   - Rural areas
   - Security measures
   - Water resources
@@ -468,14 +562,14 @@ departments:
   name: Bureau of Reclamation
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 303-445-2092
+  phone: 303-445-3292
   public_liaison:
-    name: James Judd
+    name: Debbie Suehr
     phone:
-    - 303-445-2056
+    - 303-445-3292
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.usbr.gov/foia/readroom.html
+    - https://www.usbr.gov/foia/readroom.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -559,33 +653,51 @@ departments:
       simple_highest_days: '11'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '26'
+      complex_highest_days: '273'
+      complex_lowest_days: less than 1
+      complex_median_days: '17'
+      simple_average_days: '3'
+      simple_highest_days: '28'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '27'
+      complex_highest_days: '269'
+      complex_lowest_days: less than 1
+      complex_median_days: '16'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '28'
+      expedited_processing_median_days: '28'
+      simple_average_days: '3'
+      simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
-    - 303-445-2056
+    - 303-445-3292
   top_level: true
-  usa_id: '49128'
   website: http://www.usbr.gov/foia/
-- abbreviation: BSEE
-  address:
+- address:
     address_lines:
-    - Debbie Kimball
-    - FOIA Officer
-    - MS-HE 2204
-    city: Herndon
+    - Dorothy Tinker
+    - FOIA Officer (Acting)
+    - VAE-BSEE-FOIA
+    city: Sterling
     state: VA
-    street: 381 Elden Street
-    zip: 20170-4817
-  description: The Bureau of Safety and Environmental Enforcement provides oversight
-    and enforcement to promote safety, protect the environment, and conserve offshore
-    resources.
+    street: 45600 Woodland Road
+    zip: '20166'
   emails:
   - BSEEFOIA@bsee.gov
   fax: 703-787-1207
   keywords:
   - Administrative practice and procedure
   - Bonds
-  - Civil rights
+  - Confidential business information
   - Continental shelf
+  - Courts
   - Energy
   - Environmental impact statements
   - Environmental protection
@@ -603,9 +715,12 @@ departments:
   - Penalties
   - Petroleum
   - Pipelines
-  - Public lands
+  - Privacy
+  - Public lands_mineral resources
+  - Public lands_rights-of-way
   - Reporting and recordkeeping requirements
   - Research
+  - Sulfur
   - Surety bonds
   misc:
     FOIA Contact:
@@ -615,14 +730,14 @@ departments:
   name: Bureau of Safety and Environmental Enforcement
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 703-787-1689
+  phone: 703-787-1404
   public_liaison:
-    name: Debbie Kimball
+    name: Dorothy Tinker
     phone:
-    - 703-787-1689
+    - 703-787-1404
   reading_rooms:
-  - - BSEE FOIA Reading Room    (Frequently Requested Documents)
-    - http://www.bsee.gov/About-BSEE/FOIA/BSEE-FOIA-Reading-Room/
+  - - FOIA Reading Room
+    - https://www.bsee.gov/newsroom/library/FOIA-Reading-Rooom
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2012':
@@ -660,24 +775,42 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: less than 1
       simple_median_days: less than 1
+    '2015':
+      complex_average_days: '32'
+      complex_highest_days: '293'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '4'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '4'
+      simple_average_days: '4'
+      simple_highest_days: '15'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '42'
+      complex_highest_days: '313'
+      complex_lowest_days: '3'
+      complex_median_days: '17'
+      simple_average_days: '4'
+      simple_highest_days: '9'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     phone:
-    - 703-787-1689
+    - 703-787-1404
   top_level: true
-  usa_id: '85146'
   website: http://www.bsee.gov/About-BSEE/FOIA/FOIA.aspx
-- abbreviation: FWS
-  address:
+- address:
     address_lines:
-    - Melissa Allen
+    - Carrie Hyde-Michaels
     - FOIA Officer
     - MS-IRTM
     city: Falls Church
     state: VA
     street: 5275 Leesburg Pike
     zip: '22041'
-  description: The Fish and Wildlife Service works to conserve, protect and enhance
-    fish, wildlife and plants and their habitats.
   emails:
   - fwhq_foia@fws.gov
   fax: 703-358-2251
@@ -705,6 +838,8 @@ departments:
   - Fishing
   - Foreign officials
   - Foreign trade
+  - Forests and forest products
+  - Grant administrations
   - Grant programs
   - Grant programs-natural resources
   - Grant programs-recreation
@@ -722,22 +857,28 @@ departments:
   - Marine safety
   - Monuments and memorials
   - Motion pictures
+  - Museums
   - National forests
   - National parks
   - Natural resources
   - Navigation (water)
   - Oil and gas exploration
   - Organization and functions (Government agencies)
+  - Penalties
   - Plants
   - Public lands
+  - Public lands_mineral resources
+  - Public lands_rights-of-way
   - Real property acquisition
   - Recordings
   - Reporting and recordkeeping requirements
   - Research
   - Rivers
   - Safety
+  - Seizures and forfeitures
   - Sewage disposal
   - Signs and symbols
+  - Surety bonds
   - Television
   - Transportation
   - Treaties
@@ -750,14 +891,14 @@ departments:
   name: U.S. Fish and Wildlife Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 703-358-2470
+  phone: 703-358-2291
   public_liaison:
-    name: Melissa Allen
+    name: Carrie Hyde-Michaels
     phone:
-    - 703-358-2470
+    - 703-358-2291
   reading_rooms:
   - - FWS FOIA Library
-    - http://www.fws.gov/irm/bpim/foiaread.html
+    - https://www.fws.gov/irm/bpim/foiaread.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -849,14 +990,38 @@ departments:
       simple_highest_days: '50'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '46'
+      complex_highest_days: '1109'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '9'
+      simple_average_days: '4'
+      simple_highest_days: '37'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '48'
+      complex_highest_days: '680'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '15'
+      simple_average_days: '5'
+      simple_highest_days: '47'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
-    - 703-358-2470
+    - 703-358-2291
   top_level: true
-  usa_id: '48057'
   website: http://www.fws.gov/irm/bpim/foia.html
-- abbreviation: USGS
-  address:
+- address:
     address_lines:
     - Brian May
     - FOIA Officer
@@ -864,10 +1029,6 @@ departments:
     state: MD
     street: 5522 Research Park Drive
     zip: '21228'
-  description: The U.S. Geological Survey is the nation's largest water, earth, and
-    biological science and civilian mapping agency. It collects, monitors, analyzes,
-    and provides scientific understanding of natural resource conditions, issues,
-    and problems.
   emails:
   - foia@usgs.gov
   fax: 443-498-5510
@@ -947,11 +1108,32 @@ departments:
       simple_highest_days: '1'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '47'
+      complex_highest_days: '445'
+      complex_lowest_days: less than 1
+      complex_median_days: '13'
+      simple_average_days: '4'
+      simple_highest_days: '14'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '63'
+      complex_highest_days: '651'
+      complex_lowest_days: less than 1
+      complex_median_days: '34'
+      expedited_processing_average_days: '145'
+      expedited_processing_highest_days: '145'
+      expedited_processing_lowest_days: '145'
+      expedited_processing_median_days: '145'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 443-498-5521
   top_level: false
-  usa_id: '49343'
   website: http://www.usgs.gov/foia/
 - address:
     address_lines:
@@ -962,10 +1144,6 @@ departments:
     state: CO
     street: 12795 W. Alameda Parkway
     zip: '80225'
-  description: The National Park Service cares for the more than 400 national parks
-    in the U.S. The National Park Service also partners with local communities to
-    assist in historic preservaton and the creation and maintenance of recreational
-    spaces.
   emails:
   - npsfoia@nps.gov
   fax: 303-969-2557
@@ -996,6 +1174,8 @@ departments:
   - Motion pictures
   - Museums
   - National parks
+  - Natural resources
+  - Oil and gas exploration
   - Penalties
   - Public lands
   - Recordings
@@ -1006,6 +1186,7 @@ departments:
   - Traffic regulations
   - Transportation
   - Veterans
+  - Waste treatment and disposal
   - Wildlife refuges
   name: National Park Service
   notes: This office has additional FOIA contact information that can be found by
@@ -1017,7 +1198,7 @@ departments:
     - 303-969-2959
   reading_rooms:
   - - NPS FOIA Library
-    - http://www.nps.gov/aboutus/foia/foia-reading-room.htm
+    - https://www.nps.gov/aboutus/foia/foia-reading-room.htm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1105,15 +1286,40 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '50'
+      complex_highest_days: '1157'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '82'
+      expedited_processing_highest_days: '227'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '69'
+      simple_average_days: '43'
+      simple_highest_days: '1004'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '40'
+      complex_highest_days: '486'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '10'
+      simple_average_days: '37'
+      simple_highest_days: '506'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 303-969-2959
   top_level: true
-  usa_id: '49539'
   website: http://www.nps.gov/foia.htm
 - address:
     address_lines:
-    - Kevin Krebs
+    - Stefanie Jewett
     - FOIA Officer
     - MS-4428, MIB
     city: Washington
@@ -1130,12 +1336,9 @@ departments:
   name: Office of the Inspector General
   phone: 202-208-0954
   public_liaison:
-    name: Kevin Krebs
+    name: Stefanie Jewett
     phone:
     - 202-208-0954
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.doi.gov/oig/Electronic-Reading-Room.cfm
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1219,9 +1422,31 @@ departments:
       simple_highest_days: '3'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '51'
+      complex_highest_days: '856'
+      complex_lowest_days: less than 1
+      complex_median_days: '8'
+      simple_average_days: '2'
+      simple_highest_days: '28'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '55'
+      complex_highest_days: '507'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '19'
+      expedited_processing_median_days: '19'
+      simple_average_days: '6'
+      simple_highest_days: '18'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
-    - 202-208-0954
+    - 202-208-6742
   top_level: false
   website: http://www.doi.gov/oig/foia/index.cfm
 - address:
@@ -1248,7 +1473,7 @@ departments:
     - 202-208-6045
   reading_rooms:
   - - Departmental FOIA Library
-    - http://www.doi.gov/foia/doi-foia-library.cfm
+    - https://www.doi.gov/foia/doi-foia-library
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
   request_time_stats:
     '2008':
@@ -1328,6 +1553,32 @@ departments:
       simple_highest_days: '10'
       simple_lowest_days: '6'
       simple_median_days: '8'
+    '2015':
+      complex_average_days: '43'
+      complex_highest_days: '1008'
+      complex_lowest_days: less than 1
+      complex_median_days: '11'
+      expedited_processing_average_days: '224'
+      expedited_processing_highest_days: '479'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '313'
+      simple_average_days: '99'
+      simple_highest_days: '1'
+      simple_lowest_days: less than 1
+      simple_median_days: '99'
+    '2016':
+      complex_average_days: '56'
+      complex_highest_days: '1162'
+      complex_lowest_days: less than 1
+      complex_median_days: '10'
+      expedited_processing_average_days: '26'
+      expedited_processing_highest_days: '51'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '26'
+      simple_average_days: '2'
+      simple_highest_days: '4'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-513-0765
@@ -1337,7 +1588,7 @@ departments:
     address_lines:
     - Lance Purvis
     - FOIA Officer
-    - MS-6429, MIB
+    - MS-6540, MIB
     city: Washington
     state: DC
     street: 1849 C Street, NW
@@ -1401,6 +1652,24 @@ departments:
       simple_highest_days: '6'
       simple_lowest_days: '6'
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '151'
+      complex_highest_days: '1130'
+      complex_lowest_days: less than 1
+      complex_median_days: '32'
+      simple_average_days: '16'
+      simple_highest_days: '51'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '62'
+      complex_highest_days: '818'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      simple_average_days: '98'
+      simple_highest_days: '265'
+      simple_lowest_days: '5'
+      simple_median_days: '92'
   service_center:
     phone:
     - 202-208-5817
@@ -1486,6 +1755,24 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: '7'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '40'
+      complex_highest_days: '506'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '63'
+      complex_highest_days: '294'
+      complex_lowest_days: less than 1
+      complex_median_days: '33'
   service_center:
     phone:
     - 202-208-5840
@@ -1520,16 +1807,16 @@ departments:
     - 505-816-1645
   top_level: false
   website: http://www.ost.doi.gov/
-description: The Department of the Interior manages public lands and minerals, national
-  parks, and wildlife refuges and upholds Federal trust responsibilities to Indian
-  tribes and Native Alaskans. Additionally, Interior is responsible for endangered
-  species conservation and other environmental conservation efforts.
+description: The U.S. Department of the Interior protects America´s natural resources
+  and heritage, honors our cultures and tribal communities, and supplies the energy
+  to power our future.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Adult education
 - Aged
 - Agriculture
+- Air pollution control
 - Airports
 - Airspace
 - Alaska
@@ -1557,6 +1844,8 @@ keywords:
 - Communications
 - Community development
 - Concessions
+- Confidential business information
+- Conflict of interests
 - Continental shelf
 - Copyright
 - Courts
@@ -1572,6 +1861,7 @@ keywords:
 - Educational facilities
 - Educational research
 - Educational study programs
+- Elections
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -1605,8 +1895,11 @@ keywords:
 - Government employees
 - Government procurement
 - Government property management
+- Grant administrations
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
+- Grant programs-business
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
@@ -1617,6 +1910,7 @@ keywords:
 - Guam
 - Harbors
 - Hawaiian Natives
+- Hazardous substances
 - Health care
 - Health facilities
 - Health insurance
@@ -1639,6 +1933,7 @@ keywords:
 - Indians-business and finance
 - Indians-claims
 - Indians-education
+- Indians-judgment funds
 - Indians-lands
 - Indians-law
 - Indians-tribal government
@@ -1660,6 +1955,7 @@ keywords:
 - Livestock
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -1693,6 +1989,7 @@ keywords:
 - Oil and gas reserves
 - Oil pollution
 - Organization and functions (Government agencies)
+- Ozone
 - Pacific Islands Trust Territory
 - Penalties
 - Petroleum
@@ -1701,13 +1998,20 @@ keywords:
 - Plants
 - Privacy
 - Private schools
+- Probation and parole
 - Public assistance programs
 - Public lands
+- Public lands_classification
+- Public lands_mineral resources
+- Public lands_rights-of-way
+- Public lands_sale
+- Public lands_withdrawal
 - Railroads
 - Range management
 - Real property acquisition
 - Reclamation
 - Recordings
+- Reindeer
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Research
@@ -1723,10 +2027,12 @@ keywords:
 - Seashores
 - Securities
 - Security measures
+- Seizures and forfeitures
 - Sewage disposal
 - Sex discrimination
 - Signs and symbols
 - Small businesses
+- Sodium
 - Solar energy
 - State and local governments
 - Student aid
@@ -1751,6 +2057,7 @@ keywords:
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Wages
 - Waste treatment and disposal
 - Watches and jewelry
 - Water pollution control
@@ -1854,4 +2161,29 @@ request_time_stats:
     simple_highest_days: '50'
     simple_lowest_days: less than 1
     simple_median_days: '1'
-usa_id: '49033'
+  '2015':
+    complex_average_days: '41'
+    complex_highest_days: '1157'
+    complex_lowest_days: less than 1
+    complex_median_days: '17'
+    expedited_processing_average_days: '77'
+    expedited_processing_highest_days: '479'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '17'
+    simple_average_days: '10'
+    simple_highest_days: '1004'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'
+  '2016':
+    complex_average_days: '42'
+    complex_highest_days: '1208'
+    complex_lowest_days: less than 1
+    complex_median_days: '17'
+    expedited_processing_average_days: '29'
+    expedited_processing_highest_days: '145'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '15'
+    simple_average_days: '12'
+    simple_highest_days: '506'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'

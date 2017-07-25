@@ -1,7 +1,6 @@
 abbreviation: NSF
 departments:
-- abbreviation: NSF
-  address:
+- address:
     address_lines:
     - Sandra Evans
     - FOIA Officer
@@ -10,10 +9,8 @@ departments:
     state: VA
     street: 4201 Wilson Boulevard
     zip: '22230'
-  description: The National Science Foundation supports research and education across
-    all fields of science and technology, primarily through grants.
   emails:
-  - sevans@nsf.gov
+  - foia@nsf.gov
   fax: 703-292-9242
   foia_officer:
     name: Sandra Evans
@@ -22,17 +19,18 @@ departments:
   name: National Science Foundation
   phone: 703-292-8060
   public_liaison:
-    name: Sandra Evans
+    name: justin Guz
     phone:
     - 703-292-8060
   service_center:
+    name: Justin Guz
     phone:
     - 703-292-8060
   top_level: false
-  usa_id: '52640'
   website: http://www.nsf.gov/policies/foia.jsp
-description: The National Science Foundation supports research and education across
-  all fields of science and technology, primarily through grants.
+description: The National Science Foundation (NSF) is an independent federal agency
+  created by Congress in 1950 "to promote the progress of science; to advance the
+  national health, prosperity, and welfare; to secure the national defense???"
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -80,6 +78,7 @@ keywords:
 - Grant programs
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-science and technology
 - Grant programs-social programs
 - Guam
@@ -106,6 +105,7 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -221,4 +221,21 @@ request_time_stats:
     simple_highest_days: '185'
     simple_lowest_days: '1'
     simple_median_days: '22'
-usa_id: '52640'
+  '2015':
+    complex_average_days: '123'
+    complex_highest_days: '1301'
+    complex_lowest_days: '1'
+    complex_median_days: '33'
+    simple_average_days: '15'
+    simple_highest_days: '26'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+  '2016':
+    complex_average_days: '155'
+    complex_highest_days: '1334'
+    complex_lowest_days: '1'
+    complex_median_days: '31'
+    simple_average_days: '39'
+    simple_highest_days: '701'
+    simple_lowest_days: '1'
+    simple_median_days: '17'

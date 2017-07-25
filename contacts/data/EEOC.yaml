@@ -117,6 +117,20 @@ departments:
       simple_highest_days: '61'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      simple_average_days: '2.7'
+      simple_highest_days: '245'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '1'
+      complex_highest_days: '1'
+      complex_lowest_days: '1'
+      complex_median_days: '1'
+      simple_average_days: '4.82'
+      simple_highest_days: '101'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-663-4500
@@ -203,6 +217,20 @@ departments:
       simple_highest_days: '89'
       simple_lowest_days: '1'
       simple_median_days: '29'
+    '2015':
+      simple_average_days: '20.38'
+      simple_highest_days: '45'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2016':
+      complex_average_days: '36.17'
+      complex_highest_days: '45'
+      complex_lowest_days: '28'
+      complex_median_days: '38'
+      simple_average_days: '29.88'
+      simple_highest_days: '62'
+      simple_lowest_days: less than 1
+      simple_median_days: '29'
   service_center:
     phone:
     - 202-663-4500
@@ -211,7 +239,7 @@ departments:
   website: http://www.eeoc.gov/field/birmingham/foia.cfm
 - address:
     address_lines:
-    - Joyce Deloach
+    - Francine Michaelson
     - Records Disclosure Coordinator
     - Suite 400
     city: Charlotte
@@ -229,7 +257,7 @@ departments:
       - 704-344-6684 (TTY)
   name: Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local
     Offices; Raleigh Area Office
-  phone: 704-954-6488
+  phone: 704-954-6424
   public_liaison:
     name: Stephanie Garner
     phone:
@@ -294,6 +322,16 @@ departments:
       simple_highest_days: '267'
       simple_lowest_days: '1'
       simple_median_days: '17'
+    '2015':
+      simple_average_days: '19.2'
+      simple_highest_days: '55'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2016':
+      simple_average_days: '22.23'
+      simple_highest_days: '94'
+      simple_lowest_days: less than 1
+      simple_median_days: '21'
   service_center:
     phone:
     - 202-663-4500
@@ -376,6 +414,16 @@ departments:
       simple_highest_days: '70'
       simple_lowest_days: '1'
       simple_median_days: '15'
+    '2015':
+      simple_average_days: '12.78'
+      simple_highest_days: '50'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2016':
+      simple_average_days: '18.04'
+      simple_highest_days: '79'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-663-4500
@@ -392,7 +440,7 @@ departments:
     street: 207 S. Houston Street
     zip: 75202-4726
   emails:
-  - dallasfoia@eeoc.gov
+  - DALLASFOIA@eeoc.gov
   fax: 214-253-2749
   misc:
     Records Disclosure Coordinator:
@@ -462,6 +510,16 @@ departments:
       simple_highest_days: '161'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2015':
+      simple_average_days: '19.71'
+      simple_highest_days: '168'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      simple_average_days: '32.29'
+      simple_highest_days: '243'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 202-663-4500
@@ -548,6 +606,20 @@ departments:
       simple_highest_days: '107'
       simple_lowest_days: '1'
       simple_median_days: '12.5'
+    '2015':
+      simple_average_days: '19.22'
+      simple_highest_days: '154'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '175'
+      complex_highest_days: '196'
+      complex_lowest_days: '154'
+      complex_median_days: '175'
+      simple_average_days: '43.42'
+      simple_highest_days: '183'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-663-4500
@@ -636,6 +708,20 @@ departments:
       simple_highest_days: '34'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2015':
+      simple_average_days: '6.16'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '49'
+      complex_highest_days: '94'
+      complex_lowest_days: '4'
+      complex_median_days: '49'
+      simple_average_days: '10.91'
+      simple_highest_days: '145'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 202-663-4500
@@ -644,7 +730,7 @@ departments:
   website: http://www.eeoc.gov/field/indianapolis/foia.cfm
 - address:
     address_lines:
-    - Lenee Sweeney
+    - Karen Reuter
     - Records Disclosure Coordinator
     - 4th Floor
     city: Los Angeles
@@ -662,7 +748,7 @@ departments:
       - 213-894-1121
   name: Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local
     Offices)
-  phone: 213-894-1712
+  phone: 213-894-1042
   public_liaison:
     name: Stephanie Garner
     phone:
@@ -723,6 +809,20 @@ departments:
       simple_highest_days: '226'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      simple_average_days: '1.87'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '11'
+      complex_highest_days: '11'
+      complex_lowest_days: '11'
+      complex_median_days: '11'
+      simple_average_days: '5.6'
+      simple_highest_days: '60'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-663-4500
@@ -731,7 +831,7 @@ departments:
   website: http://www.eeoc.gov/field/losangeles/foia.cfm
 - address:
     address_lines:
-    - Clarence Manuel
+    - John Cooper
     - Enforcement Manager
     - Suite 900
     city: Memphis
@@ -805,6 +905,20 @@ departments:
       simple_highest_days: '57'
       simple_lowest_days: '1'
       simple_median_days: '19'
+    '2015':
+      simple_average_days: '13.77'
+      simple_highest_days: '59'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '25'
+      complex_highest_days: '28'
+      complex_lowest_days: '22'
+      complex_median_days: '25'
+      simple_average_days: '14.25'
+      simple_highest_days: '31'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-663-4500
@@ -813,7 +927,7 @@ departments:
   website: http://www.eeoc.gov/field/memphis/foia.cfm
 - address:
     address_lines:
-    - Carmen Figueroa-Martinez
+    - Fredricka Warren
     - Records Disclosure Coordinator
     - Suite 1500
     city: Miami
@@ -891,6 +1005,20 @@ departments:
       simple_highest_days: '63'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2015':
+      simple_average_days: '17.7'
+      simple_highest_days: '65'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2016':
+      complex_average_days: '27.5'
+      complex_highest_days: '40'
+      complex_lowest_days: '15'
+      complex_median_days: '27.5'
+      simple_average_days: '18.74'
+      simple_highest_days: '190'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-663-4500
@@ -977,6 +1105,16 @@ departments:
       simple_highest_days: '176'
       simple_lowest_days: '1'
       simple_median_days: '23'
+    '2015':
+      simple_average_days: '20.53'
+      simple_highest_days: '78'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2016':
+      simple_average_days: '33.87'
+      simple_highest_days: '162'
+      simple_lowest_days: less than 1
+      simple_median_days: '28'
   service_center:
     phone:
     - 202-663-4500
@@ -1003,7 +1141,7 @@ departments:
       - 215-440-2610 (TTY)
   name: Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh
     Area Office)
-  phone: 215-440-2800
+  phone: 215-440-2840
   public_liaison:
     name: Stephanie Garner
     phone:
@@ -1060,6 +1198,16 @@ departments:
       simple_highest_days: '316'
       simple_lowest_days: '1'
       simple_median_days: '25.5'
+    '2015':
+      simple_average_days: '30.41'
+      simple_highest_days: '86'
+      simple_lowest_days: '1'
+      simple_median_days: '28'
+    '2016':
+      simple_average_days: '49.3'
+      simple_highest_days: '157'
+      simple_lowest_days: less than 1
+      simple_median_days: '52'
   service_center:
     phone:
     - 202-663-4500
@@ -1068,7 +1216,7 @@ departments:
   website: http://www.eeoc.gov/field/philadelphia/foia.cfm
 - address:
     address_lines:
-    - Pam Pershing
+    - Joseph Stier
     - Records Disclosure Officer
     - Suite 690
     city: Phoenix
@@ -1141,6 +1289,16 @@ departments:
       simple_average_days: '14.06'
       simple_highest_days: '30'
       simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2015':
+      simple_average_days: '33.63'
+      simple_highest_days: '143'
+      simple_lowest_days: '1'
+      simple_median_days: '37'
+    '2016':
+      simple_average_days: '17.8'
+      simple_highest_days: '61'
+      simple_lowest_days: less than 1
       simple_median_days: '15'
   service_center:
     phone:
@@ -1225,6 +1383,20 @@ departments:
       simple_highest_days: '232'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2015':
+      simple_average_days: '41.79'
+      simple_highest_days: '370'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '37'
+      complex_highest_days: '37'
+      complex_lowest_days: '37'
+      complex_median_days: '37'
+      simple_average_days: '7.91'
+      simple_highest_days: '252'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-663-4500
@@ -1233,7 +1405,7 @@ departments:
   website: http://www.eeoc.gov/field/sanfrancisco/foia.cfm
 - address:
     address_lines:
-    - Sylvia Smith
+    - Sherlyn Metzler
     - Records Disclosure Coordinator
     - Room 8100
     city: St. Louis
@@ -1250,7 +1422,7 @@ departments:
       - 314-539-7846
       - 314-539-7803 (TTY)
   name: St. Louis District Office (Kansas City and Oklahoma Area Offices)
-  phone: 314-539-7834
+  phone: 314-539-7908
   public_liaison:
     name: Stephanie Garner
     phone:
@@ -1307,6 +1479,24 @@ departments:
       simple_highest_days: '91'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      simple_average_days: '15.99'
+      simple_highest_days: '75'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: less than 1
+      complex_highest_days: less than 1
+      complex_lowest_days: less than 1
+      complex_median_days: less than 1
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '22'
+      simple_average_days: '32.91'
+      simple_highest_days: '254'
+      simple_lowest_days: less than 1
+      simple_median_days: '31'
   service_center:
     phone:
     - 202-663-4500
@@ -1315,7 +1505,7 @@ departments:
   website: http://www.eeoc.gov/field/stlouis/foia.cfm
 - address:
     address_lines:
-    - Louise Dixon
+    - Tonya Bowens
     - Records Disclosure Coordinator
     - Suite 4NE29F
     city: Washington
@@ -1388,14 +1578,29 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '1'
       simple_median_days: '19'
+    '2015':
+      simple_average_days: '17.23'
+      simple_highest_days: '53'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2016':
+      complex_average_days: '37'
+      complex_highest_days: '37'
+      complex_lowest_days: '37'
+      complex_median_days: '37'
+      simple_average_days: '23.86'
+      simple_highest_days: '111'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-663-4500
   top_level: false
   website: http://www.eeoc.gov/field/washington/foia.cfm
-description: The EEOC enforces laws that make discrimination illegal in the workplace.
-  The commission oversees all types of work situations including hiring, firing, promotions,
-  harassment, training, wages, and benefits.
+description: The U.S. Equal Employment Opportunity Commission (EEOC) is responsible
+  for enforcing federal laws that make it illegal to discriminate against a job applicant
+  or an employee because of the person's race, color, religion, sex (including pregnancy),
+  national origin, age (40 or older), disability or genetic information
 emails:
 - FOIA@EEOC.gov
 fax: 202-653-6034
@@ -1414,11 +1619,13 @@ keywords:
 - Individuals with disabilities
 - Intergovernmental relations
 - Investigations
+- Privacy
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Retirement
 - Sex discrimination
 - State and local governments
+- Sunshine Act
 name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison:
@@ -1484,10 +1691,27 @@ request_time_stats:
     simple_highest_days: '316'
     simple_lowest_days: '1'
     simple_median_days: '13'
+  '2015':
+    simple_average_days: '18.42'
+    simple_highest_days: '357'
+    simple_lowest_days: '1'
+    simple_median_days: '17'
+  '2016':
+    complex_average_days: '45.52'
+    complex_highest_days: '226'
+    complex_lowest_days: less than 1
+    complex_median_days: '30'
+    expedited_processing_average_days: '22'
+    expedited_processing_highest_days: '22'
+    expedited_processing_lowest_days: '22'
+    expedited_processing_median_days: '22'
+    simple_average_days: '23.6'
+    simple_highest_days: '350'
+    simple_lowest_days: less than 1
+    simple_median_days: '18'
 service_center:
   phone:
   - 202-663-4500
   - 202-663-7026 (TTY)
 top_level: false
-usa_id: '48032'
 website: http://www.eeoc.gov/eeoc/foia/

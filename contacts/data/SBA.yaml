@@ -1,17 +1,13 @@
 abbreviation: SBA
 departments:
-- abbreviation: SBA
-  address:
+- address:
     address_lines:
-    - Lisa Babcock
+    - Laura L. Magere
     - Chief, Office of FOI/PA
     city: Washington
     state: DC
     street: 409 3rd Street, SW
     zip: '20416'
-  description: The SBA helps Americans start, build and grow businesses. Through an
-    extensive network of field offices and partnerships the SBA aids, counsels, assists
-    and protects the interests of small business concerns.
   emails:
   - foia@sba.gov
   fax: 202-205-7059
@@ -25,7 +21,7 @@ departments:
     visiting its website.
   phone: 202-401-8203
   public_liaison:
-    name: Lisa Babcock
+    name: Laura L. Magere
     phone:
     - 202-401-8203
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -85,15 +81,37 @@ departments:
       simple_highest_days: '67'
       simple_lowest_days: less than 1
       simple_median_days: '7.5'
+    '2015':
+      expedited_processing_average_days: '35'
+      expedited_processing_highest_days: '35'
+      expedited_processing_lowest_days: '35'
+      expedited_processing_median_days: '35'
+      simple_average_days: '12.29'
+      simple_highest_days: '127'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '18.33'
+      complex_highest_days: '22'
+      complex_lowest_days: '11'
+      complex_median_days: '22'
+      expedited_processing_average_days: '12.6'
+      expedited_processing_highest_days: '30'
+      expedited_processing_lowest_days: '9.67'
+      expedited_processing_median_days: '8'
+      simple_average_days: '12.47'
+      simple_highest_days: '333'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-401-8203
   top_level: false
-  usa_id: '48139'
-  website: http://archive.sba.gov/aboutsba/sbaprograms/foia/index.html
-description: The SBA helps Americans start, build and grow businesses. Through an
-  extensive network of field offices and partnerships the SBA aids, counsels, assists
-  and protects the interests of small business concerns.
+  website: http://www.sba.gov/foia
+description: The U.S. Small Business Administration (SBA) was created in 1953 as an
+  independent agency of the federal government to aid, counsel, assist and protect
+  the interests of small business concerns, to preserve free competitive enterprise
+  and to maintain and strengthen the overall economy of our nation.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -135,6 +153,7 @@ keywords:
 - Exports
 - Federal buildings and facilities
 - Federally affected areas
+- Fraud
 - Freedom of information
 - Government contracts
 - Government employees
@@ -142,10 +161,12 @@ keywords:
 - Government property
 - Government property management
 - Government securities
+- Grant administrations
 - Grant programs
 - Grant programs-business
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Hawaiian Natives
@@ -180,6 +201,7 @@ keywords:
 - Loan programs-energy
 - Loan programs-housing and community development
 - Loan programs-veterans
+- Lobbying
 - Manpower training programs
 - Mass transportation
 - Migrant labor
@@ -282,4 +304,25 @@ request_time_stats:
     simple_highest_days: '67'
     simple_lowest_days: less than 1
     simple_median_days: '7.5'
-usa_id: '48139'
+  '2015':
+    expedited_processing_average_days: '35'
+    expedited_processing_highest_days: '35'
+    expedited_processing_lowest_days: '35'
+    expedited_processing_median_days: '35'
+    simple_average_days: '12.29'
+    simple_highest_days: '127'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'
+  '2016':
+    complex_average_days: '18.33'
+    complex_highest_days: '22'
+    complex_lowest_days: '11'
+    complex_median_days: '22'
+    expedited_processing_average_days: '12.6'
+    expedited_processing_highest_days: '30'
+    expedited_processing_lowest_days: '9.67'
+    expedited_processing_median_days: '8'
+    simple_average_days: '12.47'
+    simple_highest_days: '333'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'

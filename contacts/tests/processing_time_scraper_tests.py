@@ -58,7 +58,7 @@ class ProcessingTimeScaperTests(TestCase):
     def test_get_key_values(self):
         """ Should convert a row in header into a unique key """
 
-        test_row = BeautifulSoup('<span>1</span><span>Agency</span>')
+        test_row = BeautifulSoup('<span>1</span><span>Agency</span>', 'html.parser')
         test_row = test_row.findAll('span')
         key, value = processing_time_scraper.get_key_values(
             test_row, ['a', 'agency'], 'year', 'name')

@@ -1,19 +1,14 @@
 abbreviation: OPM
 departments:
-- abbreviation: OPM
-  address:
+- address:
     address_lines:
     - Trina Porter
     - FOIA Requester Service Center
-    - Room 5415
+    - Room 4458
     city: Washington
     state: DC
     street: 1900 E Street, NW
     zip: 20415-7900
-  description: OPM manages the civil service of the federal government, coordinates
-    recruiting of new government employees, and manages their health insurance and
-    retirement benefits programs. OPM also provides resources for locating student
-    jobs, summer jobs, scholarships, and internships.
   emails:
   - foia@opm.gov
   fax: 202-418-3251
@@ -25,7 +20,7 @@ departments:
     - 202-606-4417
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.opm.gov/information-management/freedom-of-information-act/#url=Electronic-Reading-Room
+    - https://www.opm.gov/information-management/freedom-of-information-act/#url=Electronic-Reading-Room
   request_time_stats:
     '2008':
       complex_average_days: '51'
@@ -106,16 +101,39 @@ departments:
       simple_highest_days: '451'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '27'
+      complex_highest_days: '766'
+      complex_lowest_days: '1'
+      complex_median_days: '25'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '190'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10'
+      simple_average_days: '2.4'
+      simple_highest_days: '399'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '34.4'
+      complex_highest_days: '1200'
+      complex_lowest_days: '1'
+      complex_median_days: '22'
+      expedited_processing_average_days: '31.8'
+      expedited_processing_highest_days: '579'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '13'
+      simple_average_days: '2'
+      simple_highest_days: '715'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-606-3642
   top_level: false
-  usa_id: '48112'
   website: http://www.opm.gov/information-management/freedom-of-information-act
-description: OPM manages the civil service of the federal government, coordinates
-  recruiting of new government employees, and manages their health insurance and retirement
-  benefits programs. OPM also provides resources for locating student jobs, summer
-  jobs, scholarships, and internships.
+description: The Office of Personnel Management's mission is to recruit, retain and
+  honor a world-class workforce to serve the american people
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -140,6 +158,7 @@ keywords:
 - Courts
 - Crime
 - Day care
+- Decorations, medals, awards
 - Disability benefits
 - District of Columbia
 - Drug abuse
@@ -150,6 +169,7 @@ keywords:
 - Equal employment opportunity
 - Firefighters
 - Flags
+- Fraud
 - Freedom of information
 - Government contracts
 - Government employees
@@ -173,6 +193,7 @@ keywords:
 - Intergovernmental relations
 - Inventions and patents
 - Investigations
+- Investments
 - Iraq
 - Kuwait
 - Labor management relations
@@ -190,6 +211,7 @@ keywords:
 - Organization and functions (Government agencies)
 - Parking
 - Penalties
+- Personnel Management Office
 - Political activities (Government employees)
 - Privacy
 - Railroad retirement
@@ -207,6 +229,7 @@ keywords:
 - Treaties
 - Veterans
 - Vocational rehabilitation
+- Voting rights
 - Wages
 name: Office of Personnel Management
 request_time_stats:
@@ -289,4 +312,29 @@ request_time_stats:
     simple_highest_days: '451'
     simple_lowest_days: '1'
     simple_median_days: '1'
-usa_id: '48112'
+  '2015':
+    complex_average_days: '27'
+    complex_highest_days: '766'
+    complex_lowest_days: '1'
+    complex_median_days: '25'
+    expedited_processing_average_days: '25'
+    expedited_processing_highest_days: '190'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '10'
+    simple_average_days: '2.4'
+    simple_highest_days: '399'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2016':
+    complex_average_days: '34.4'
+    complex_highest_days: '1200'
+    complex_lowest_days: '1'
+    complex_median_days: '22'
+    expedited_processing_average_days: '31.8'
+    expedited_processing_highest_days: '579'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '13'
+    simple_average_days: '2'
+    simple_highest_days: '715'
+    simple_lowest_days: '1'
+    simple_median_days: '1'

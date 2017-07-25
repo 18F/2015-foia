@@ -9,8 +9,8 @@ departments:
     state: DC
     street: 330 Independence Avenue, SW
     zip: '20237'
-  description: The Broadcasting Board of Governors broadcasts news and information
-    about the United States and the world to audiences abroad.
+  emails:
+  - akrog@bbg.gov
   fax: 202-203-4585
   misc:
     FOIA/Privacy Act Officer, BBG/FOIA/PA Unit:
@@ -20,12 +20,12 @@ departments:
   name: Broadcasting Board of Governors
   phone: 202-203-4550
   public_liaison:
-    name: Andrew T. Krog
+    name: Patricia A. Hargrave
     phone:
     - 202-203-4550
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.bbg.gov/about-the-agency/research-reports/foia/electronic-reading-room/
+    - https://www.bbg.gov/foia/electronic-reading-room/
   request_time_stats:
     '2010':
       complex_average_days: '79'
@@ -72,16 +72,29 @@ departments:
       complex_highest_days: '354'
       complex_lowest_days: '3'
       complex_median_days: '8'
+    '2015':
+      complex_average_days: '117'
+      complex_highest_days: '473'
+      complex_lowest_days: '8'
+      complex_median_days: '92'
+    '2016':
+      complex_average_days: '50'
+      complex_highest_days: '124'
+      complex_lowest_days: less than 1
+      complex_median_days: '48'
   service_center:
+    name: Andrew T. Krog
     phone:
     - 202-203-4550
   top_level: false
-  usa_id: '49109'
   website: http://www.bbg.gov/reports/foia/
-description: The Broadcasting Board of Governors broadcasts news and information about
-  the United States and the world to audiences abroad.
+description: The Broadcasting Board of Governor's mission is to promote freedom and
+  democracy and to enhance understanding through multimedia communication of accurate,
+  objective, and balanced news, information, and other programming about America and
+  the world to audiences overseas.
 keywords:
 - Administrative practice and procedure
+- Courts
 - Foreign relations
 - Freedom of information
 - News media
@@ -137,4 +150,13 @@ request_time_stats:
     complex_highest_days: '354'
     complex_lowest_days: '3'
     complex_median_days: '8'
-usa_id: '49109'
+  '2015':
+    complex_average_days: '117'
+    complex_highest_days: '473'
+    complex_lowest_days: '8'
+    complex_median_days: '92'
+  '2016':
+    complex_average_days: '50'
+    complex_highest_days: '124'
+    complex_lowest_days: less than 1
+    complex_median_days: '48'

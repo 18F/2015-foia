@@ -9,27 +9,20 @@ departments:
     state: DC
     street: ''
     zip: '20511'
-  description: The goal of the Office of the Director of National Intelligence is
-    to integrate the intelligence gathering and analysis functions performed across
-    the intelligence community in order to provide the best intelligence in the timeliest
-    manner to decision makers.
   emails:
   - dni-foia@dni.gov
-  fax: 703-874-8910
+  fax: 301-243-0716
   misc:
     Director, Information Management Office:
       name: Jennifer Hudson
       phone:
       - 703-874-8500
   name: Office of the Director of National Intelligence
-  phone: 703-874-8500
+  phone: 301-243-1499
   public_liaison:
-    name: Jennifer Hudson
+    name: Sally A. Nicholson
     phone:
-    - 703-874-8500
-  reading_rooms:
-  - - ODNI's Electronic Reading Room
-    - http://www.dni.gov/index.php/intelligence-community/ic-policies-reports
+    - 301-243-1499
   request_time_stats:
     '2010':
       complex_average_days: '305.53'
@@ -86,16 +79,41 @@ departments:
       simple_highest_days: '232'
       simple_lowest_days: '0'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '191.06'
+      complex_highest_days: '1911'
+      complex_lowest_days: less than 1
+      complex_median_days: '39'
+      simple_average_days: '46.21'
+      simple_highest_days: '1162'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '289.61'
+      complex_highest_days: '1210'
+      complex_lowest_days: less than 1
+      complex_median_days: '233'
+      expedited_processing_average_days: '299.5'
+      expedited_processing_highest_days: '344'
+      expedited_processing_lowest_days: '255'
+      expedited_processing_median_days: '299.5'
+      simple_average_days: '46.65'
+      simple_highest_days: '529'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
-    - 703-874-8500
+    - 301-243-1499
   top_level: false
-  usa_id: '49595'
   website: http://www.dni.gov/foia.htm
-description: The goal of the Office of the Director of National Intelligence is to
-  integrate the intelligence gathering and analysis functions performed across the
-  intelligence community in order to provide the best intelligence in the timeliest
-  manner to decision makers.
+description: The Director of National Intelligence (DNI) serves as the head of the
+  Intelligence Community (IC), overseeing and directing the implementation of the
+  National Intelligence Program and acting as the principal advisor to the President,
+  the National Security Council, and the Homeland Security Council for intelligence
+  matters related to the national security. Working together with the Principal Deputy
+  DNI (PDDNI) and with the assistance of Mission Managers and four Deputy Directors,
+  the Office of the DNI's goal is to effectively integrate foreign, military and domestic
+  intelligence in defense of the homeland and of United States interests abroad.
 name: Office of the Director of National Intelligence
 request_time_stats:
   '2010':
@@ -153,4 +171,25 @@ request_time_stats:
     simple_highest_days: '232'
     simple_lowest_days: '0'
     simple_median_days: '9'
-usa_id: '49595'
+  '2015':
+    complex_average_days: '191.06'
+    complex_highest_days: '1911'
+    complex_lowest_days: less than 1
+    complex_median_days: '39'
+    simple_average_days: '46.21'
+    simple_highest_days: '1162'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'
+  '2016':
+    complex_average_days: '289.61'
+    complex_highest_days: '1210'
+    complex_lowest_days: less than 1
+    complex_median_days: '233'
+    expedited_processing_average_days: '299.5'
+    expedited_processing_highest_days: '344'
+    expedited_processing_lowest_days: '255'
+    expedited_processing_median_days: '299.5'
+    simple_average_days: '46.65'
+    simple_highest_days: '529'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

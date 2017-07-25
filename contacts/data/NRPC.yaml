@@ -1,7 +1,6 @@
 abbreviation: AMTRAK
 departments:
-- abbreviation: AMTRAK
-  address:
+- address:
     address_lines:
     - Sharron H. Hawkins
     - Lead FOIA Specialist
@@ -9,8 +8,6 @@ departments:
     state: DC
     street: 60 Massachusetts Avenue, NE
     zip: '20002'
-  description: Amtrak, the National Railroad Passenger Corporation, provides intercity
-    rail passenger service.
   emails:
   - foiarequests@amtrak.com
   fax: 202-906-2004
@@ -21,7 +18,7 @@ departments:
   name: AMTRAK (National Railroad Passenger Corporation)
   phone: 202-906-3741
   public_liaison:
-    name: Sharron H. Hawkins
+    name: Cheryl Stultz
     phone:
     - 202-906-3740
   request_time_stats:
@@ -116,14 +113,40 @@ departments:
       simple_highest_days: '62'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '48.34'
+      complex_highest_days: '489'
+      complex_lowest_days: '1'
+      complex_median_days: '19.5'
+      expedited_processing_average_days: '33.86'
+      expedited_processing_highest_days: '62'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '41'
+      simple_average_days: '23.63'
+      simple_highest_days: '130'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '77.54'
+      complex_highest_days: '646'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      expedited_processing_average_days: '74.75'
+      expedited_processing_highest_days: '199'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '46'
+      simple_average_days: '20.98'
+      simple_highest_days: '336'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
   service_center:
     phone:
     - 202-906-3740
   top_level: false
-  usa_id: '49084'
   website: http://www.amtrak.com/servlet/ContentServer/Page/1241267362261/1241267362261
-description: Amtrak, the National Railroad Passenger Corporation, provides intercity
-  rail passenger service.
+description: The National Railroad Passenger Corporation, Amtrak is a government-owned
+  corporation striving to deliver a high quality, safe, on-time rail passenger service
+  that exceeds customer expectations. Learn all about Amtrak here from every angle.
 name: AMTRAK
 request_time_stats:
   '2008':
@@ -217,4 +240,29 @@ request_time_stats:
     simple_highest_days: '62'
     simple_lowest_days: '1'
     simple_median_days: '3'
-usa_id: '49084'
+  '2015':
+    complex_average_days: '48.34'
+    complex_highest_days: '489'
+    complex_lowest_days: '1'
+    complex_median_days: '19.5'
+    expedited_processing_average_days: '33.86'
+    expedited_processing_highest_days: '62'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '41'
+    simple_average_days: '23.63'
+    simple_highest_days: '130'
+    simple_lowest_days: '1'
+    simple_median_days: '9'
+  '2016':
+    complex_average_days: '77.54'
+    complex_highest_days: '646'
+    complex_lowest_days: '1'
+    complex_median_days: '13'
+    expedited_processing_average_days: '74.75'
+    expedited_processing_highest_days: '199'
+    expedited_processing_lowest_days: '8'
+    expedited_processing_median_days: '46'
+    simple_average_days: '20.98'
+    simple_highest_days: '336'
+    simple_lowest_days: '1'
+    simple_median_days: '6'

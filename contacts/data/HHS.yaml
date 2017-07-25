@@ -4,16 +4,346 @@ departments:
     address_lines:
     - Michael S. Marquis
     - FOIA Officer / Director, Freedom of Information and Privacy Acts Division
-    - Mary E. Switzer Building, Room 2221
+    - Hubert H. Humphrey Building, Suite 729H
     city: Washington
     state: DC
-    street: 330 C Street, SW
+    street: 200 Independence Avenue, SW
     zip: '20201'
   fax: 202-690-8320
   foia_officer:
     name: Michael Bell
     phone:
     - 202-690-7453
+  keywords:
+  - Accountants
+  - Accounting
+  - Administrative practice and procedure
+  - Adult education
+  - Advertising
+  - Advisory committees
+  - Aged
+  - Agency for International Development
+  - Agricultural commodities
+  - Agricultural research
+  - Agriculture
+  - Aid to Families with Dependent Children
+  - Air carriers
+  - Air rates and fares
+  - Air taxis
+  - Air traffic control
+  - Air transportation
+  - Aircraft
+  - Airmen
+  - Airports
+  - Airspace
+  - Alaska
+  - Alcohol abuse
+  - Alcohol and alcoholic beverages
+  - Alcoholism
+  - Aliens
+  - Alimony
+  - Antitrust
+  - Archives and records
+  - Armed forces
+  - Armed forces reserves
+  - Arms and munitions
+  - Arts and crafts
+  - Authority delegations (Government agencies)
+  - Aviation safety
+  - Banks, banking
+  - Black lung benefits
+  - Blind
+  - Broadband
+  - Brokers
+  - Buildings and facilities
+  - Buses
+  - Business and industry
+  - Canada
+  - Charter flights
+  - Cheese
+  - Chemicals
+  - Child labor
+  - Child support
+  - Child welfare
+  - Civil defense
+  - Civil rights
+  - Claims
+  - Classified information
+  - Clothing
+  - Coal
+  - Coastal zone
+  - Colleges and universities
+  - Communications
+  - Communications equipment
+  - Community development
+  - Community development block grants
+  - Computer technology
+  - Concessions
+  - Confidential business information
+  - Conflict of interests
+  - Conscientious objectors
+  - Construction industry
+  - Consumer protection
+  - Cooperatives
+  - Courts
+  - Credit
+  - Credit unions
+  - Crime
+  - Crop insurance
+  - Cultural exchange programs
+  - Customs duties and inspection
+  - Dairy products
+  - Dental health
+  - Disability benefits
+  - Domestic violence
+  - Drug abuse
+  - Drug testing
+  - Drugs
+  - Economic statistics
+  - Education
+  - Education of disadvantaged
+  - Education of individuals with disabilities
+  - Educational study programs
+  - Elections
+  - Electric power
+  - Electric power rates
+  - Electric utilities
+  - Elementary and secondary education
+  - Emergency medical services
+  - Employee benefit plans
+  - Employment
+  - Energy
+  - Energy conservation
+  - Environmental impact statements
+  - Environmental protection
+  - Equal access to justice
+  - Equal educational opportunity
+  - Equal employment opportunity
+  - Estates
+  - Excise taxes
+  - Explosives
+  - Exports
+  - Fair housing
+  - Federal buildings and facilities
+  - Federally affected areas
+  - Fire prevention
+  - Firefighters
+  - Fish
+  - Fisheries
+  - Flood insurance
+  - Flood plains
+  - Food assistance programs
+  - Foreign relations
+  - Forests and forest products
+  - Fraud
+  - Freedom of information
+  - Freight
+  - Gases
+  - Government contracts
+  - Government employees
+  - Government procurement
+  - Government property
+  - Government property management
+  - Government securities
+  - Grant administrations
+  - Grant programs
+  - Grant programs-agriculture
+  - Grant programs-business
+  - Grant programs-communications
+  - Grant programs-education
+  - Grant programs-energy
+  - Grant programs-health
+  - Grant programs-housing and community development
+  - Grant programs-labor
+  - Grant programs-natural resources
+  - Grant programs-social programs
+  - Grant programs-transportation
+  - Grazing lands
+  - Guam
+  - HIV/AIDS
+  - Hawaiian Natives
+  - Hazardous materials transportation
+  - Hazardous substances
+  - Health
+  - Health care
+  - Health facilities
+  - Health insurance
+  - Health maintenance organizations (HMO)
+  - Health professions
+  - Health records
+  - Highway safety
+  - Highways and roads
+  - Historic preservation
+  - Home improvement
+  - Homeless
+  - Homeworkers
+  - Hospitals
+  - Housing
+  - Housing standards
+  - Human research subjects
+  - Immigration
+  - Imports
+  - Income taxes
+  - Indemnity payments
+  - Indians
+  - Indians-arts and crafts
+  - Indians-claims
+  - Indians-lands
+  - Indians-law
+  - Indians-tribal government
+  - Individuals with disabilities
+  - Insurance
+  - Intergovernmental relations
+  - Intermodal transportation
+  - Investigations
+  - Investments
+  - Irrigation
+  - Job Corps
+  - Kidney diseases
+  - Labor
+  - Labor management relations
+  - Laboratories
+  - Land Management Bureau
+  - Law enforcement
+  - Law enforcement officers
+  - Lawyers
+  - Legal services
+  - Lie detector tests
+  - Life insurance
+  - Livestock
+  - Loan programs
+  - Loan programs-agriculture
+  - Loan programs-business
+  - Loan programs-communications
+  - Loan programs-energy
+  - Loan programs-health
+  - Loan programs-housing and community development
+  - Loan programs-natural resources
+  - Lobbying
+  - Longshore and harbor workers
+  - Low and moderate income housing
+  - Manpower training programs
+  - Manufactured homes
+  - Marine resources
+  - Mass transportation
+  - Maternal and child health
+  - Medicaid
+  - Medical research
+  - Medicare
+  - Mental health programs
+  - Metals
+  - Migrant labor
+  - Military law
+  - Military personnel
+  - Mine safety and health
+  - Mineral resources
+  - Miners
+  - Mines
+  - Minimum wages
+  - Minority businesses
+  - Mortgage insurance
+  - Mortgages
+  - Motion pictures
+  - Motor vehicle safety
+  - Museums
+  - National Foundation on Arts and Humanities
+  - National defense
+  - National forests
+  - National parks
+  - Natural resources
+  - Navigation (air)
+  - Noise control
+  - Nonprofit organizations
+  - Nuclear energy
+  - Nursing homes
+  - Nutrition
+  - Occupational safety and health
+  - Organization and functions (Government agencies)
+  - Pacific Islands Trust Territory
+  - Passenger vessels
+  - Passports and visas
+  - Penalties
+  - Price support programs
+  - Prisons
+  - Privacy
+  - Public assistance programs
+  - Public health
+  - Public housing
+  - Public lands
+  - Public lands_mineral resources
+  - Puerto Rico
+  - Radiation protection
+  - Radio
+  - Railroads
+  - Range management
+  - Real property acquisition
+  - Recordings
+  - Religious discrimination
+  - Relocation assistance
+  - Rent subsidies
+  - Reporting and recordkeeping requirements
+  - Research
+  - Rural areas
+  - Safety
+  - Scholarships and fellowships
+  - Science and technology
+  - Seamen
+  - Seashores
+  - Securities
+  - Security measures
+  - Seizures and forfeitures
+  - Sewage disposal
+  - Sex discrimination
+  - Small businesses
+  - Smoking
+  - Social security
+  - Soil conservation
+  - State and local governments
+  - Statistics
+  - Strategic and critical materials
+  - Student aid
+  - Students
+  - Sugar
+  - Sunshine Act
+  - Supplemental Security Income (SSI)
+  - Surety bonds
+  - Surface mining
+  - Surplus Government property
+  - Taxes
+  - Teachers
+  - Technical assistance
+  - Telecommunications
+  - Telephone
+  - Television
+  - Terrorism
+  - Time
+  - Trade names
+  - Transportation
+  - Transportation Department
+  - Travel restrictions
+  - Trusts and trustees
+  - Truth in lending
+  - Uniform System of Accounts
+  - Utilities
+  - Virgin Islands
+  - Vocational rehabilitation
+  - Volunteers
+  - Voting rights
+  - Wages
+  - Waste treatment and disposal
+  - Watches and jewelry
+  - Water pollution control
+  - Water resources
+  - Water supply
+  - Watersheds
+  - Waterways
+  - Whistleblowing
+  - Wildlife
+  - Wildlife refuges
+  - Wiretapping and electronic surveillance
+  - Women
+  - Workers' compensation
+  - Youth
   name: Office of the Secretary
   phone: 202-690-7453
   public_liaison:
@@ -21,9 +351,9 @@ departments:
     phone:
     - 202-690-7453
   reading_rooms:
-  - - Electronic  FOIA Reading Room
-    - http://www.hhs.gov/foia/reading/index.html
-  request_form: http://wcdapps.hhs.gov/FoiaRequest/
+  - - FOIA Library / Electronic Reading Room
+    - https://www.hhs.gov/foia/electronic-reading-room/index.html
+  request_form: https://requests.publiclink.hhs.gov/palMain.aspx
   request_time_stats:
     '2008':
       complex_average_days: '259'
@@ -112,6 +442,32 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '211.68'
+      complex_highest_days: '1395'
+      complex_lowest_days: '22'
+      complex_median_days: '133'
+      expedited_processing_average_days: '70.5'
+      expedited_processing_highest_days: '76'
+      expedited_processing_lowest_days: '65'
+      expedited_processing_median_days: '70.5'
+      simple_average_days: '3.3'
+      simple_highest_days: '37'
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
+    '2016':
+      complex_average_days: '221.58'
+      complex_highest_days: '1139'
+      complex_lowest_days: '5'
+      complex_median_days: '122'
+      expedited_processing_average_days: '98.55'
+      expedited_processing_highest_days: '302'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '42'
+      simple_average_days: '4.91'
+      simple_highest_days: '98'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-690-7453
@@ -131,6 +487,68 @@ departments:
     name: Robin Brooks
     phone:
     - 202-619-2541
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Advertising
+  - Advisory committees
+  - Aged
+  - Authority delegations (Government agencies)
+  - Biologics
+  - Brokers
+  - Child support
+  - Civil rights
+  - Claims
+  - Computer technology
+  - Conflict of interests
+  - Consumer protection
+  - Drugs
+  - Education of disadvantaged
+  - Emergency medical services
+  - Fraud
+  - Freedom of information
+  - Government contracts
+  - Grant programs-health
+  - Grant programs-social programs
+  - Health care
+  - Health facilities
+  - Health insurance
+  - Health maintenance organizations (HMO)
+  - Health professions
+  - Health records
+  - Hospitals
+  - Indians
+  - Individuals with disabilities
+  - Intergovernmental relations
+  - Investigations
+  - Kidney diseases
+  - Laboratories
+  - Loan programs
+  - Loan programs-health
+  - Lobbying
+  - Maternal and child health
+  - Medicaid
+  - Medical devices
+  - Medicare
+  - Nursing homes
+  - Nutrition
+  - Organization and functions (Government agencies)
+  - Packaging and containers
+  - Penalties
+  - Privacy
+  - Public assistance programs
+  - Puerto Rico
+  - Reporting and recordkeeping requirements
+  - Rural areas
+  - Safety
+  - Social security
+  - State and local governments
+  - Sunshine Act
+  - Technical assistance
+  - Transportation
+  - Women
+  - X-rays
+  - Youth
   name: Office of the Inspector General
   phone: 202-619-2541
   public_liaison:
@@ -139,7 +557,7 @@ departments:
     - 202-619-2541
   reading_rooms:
   - - E-FOIA Reading Room
-    - http://oig.hhs.gov/foia/efoia.asp
+    - https://oig.hhs.gov/foia/efoia.asp
   request_form: http://oig.hhs.gov/foia/submit.asp
   request_time_stats:
     '2008':
@@ -225,6 +643,24 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '28'
+      complex_highest_days: '287'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      simple_average_days: '4'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '31'
+      complex_highest_days: '251'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-619-2541
@@ -249,15 +685,25 @@ departments:
     name: Jason Bennett
     phone:
     - 202-401-4634
+  keywords:
+  - Administrative practice and procedure
+  - Aged
+  - Colleges and universities
+  - Grant programs-Indians
+  - Grant programs-education
+  - Grant programs-social programs
+  - Indians
+  - Individuals with disabilities
+  - Legal services
+  - Nutrition
+  - Reporting and recordkeeping requirements
+  - Research
   name: Administration for Community Living
   phone: 202-357-3408
   public_liaison:
     name: Rick Nicholls
     phone:
     - 202-357-3408
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.acl.gov/Site_Utilities/FOIA/index.aspx#Eroom
   request_time_stats:
     '2012':
       complex_average_days: '0'
@@ -282,25 +728,30 @@ departments:
       simple_highest_days: '28'
       simple_lowest_days: '25'
       simple_median_days: '20'
+    '2015':
+      simple_average_days: '33'
+      simple_highest_days: '90'
+      simple_lowest_days: '13'
+      simple_median_days: '23'
+    '2016':
+      simple_average_days: '11.4'
+      simple_highest_days: '23'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-357-3408
   top_level: true
-  usa_id: '91836'
   website: http://www.acl.gov/Site_Utilities/FOIA/index.aspx
-- abbreviation: ACF
-  address:
+- address:
     address_lines:
     - Kimberly N. Epstein
     - FOIA Officer
-    - 7th Floor East, Aerospace Building
+    - Mary E. Switzer Building, Room 4004
     city: Washington
     state: DC
-    street: 370 L'Enfant Promenade, S.W.
-    zip: '20447'
-  description: The ACF funds state, territory, local, and tribal organizations to
-    provide family assistance (welfare), child support, child care, Head Start, child
-    welfare, and other programs relating to children and families.
+    street: 330 C Street, S.W.
+    zip: '20201'
   emails:
   - foia@acf.hhs.gov
   fax: 202-401-4829
@@ -312,42 +763,70 @@ departments:
   - Accounting
   - Administrative practice and procedure
   - Adoption and foster care
+  - Advertising
+  - Advisory committees
+  - Aged
+  - Brokers
   - Child support
   - Child welfare
   - Claims
   - Computer technology
+  - Conflict of interests
+  - Consumer protection
+  - Courts
   - Day care
   - Dental health
+  - Domestic violence
   - Education of disadvantaged
+  - Emergency medical services
   - Employment
   - Fraud
+  - Government contracts
+  - Government employees
   - Grant programs
   - Grant programs-health
   - Grant programs-social programs
   - Health care
   - Health facilities
+  - Health insurance
+  - Health maintenance organizations (HMO)
   - Health professions
+  - Health records
   - Homeless
+  - Hospitals
   - Immigration
   - Indians
   - Individuals with disabilities
+  - Intergovernmental relations
+  - Kidney diseases
+  - Laboratories
+  - Loan programs
+  - Loan programs-health
   - Loan programs-social programs
+  - Lobbying
   - Manpower training programs
-  - Maternal and child health
   - Medicaid
   - Medicare
   - Mental health programs
+  - Nursing homes
   - Nutrition
+  - Organization and functions (Government agencies)
   - Penalties
+  - Privacy
   - Public assistance programs
+  - Puerto Rico
   - Real property acquisition
+  - Religious discrimination
   - Reporting and recordkeeping requirements
   - Research
-  - Social security
+  - Safety
+  - State and local governments
+  - Sunshine Act
   - Technical assistance
   - Transportation
   - Unemployment compensation
   - Vocational education
+  - Women
   - Youth
   name: Administration for Children and Families
   phone: 888-747-1861
@@ -357,7 +836,7 @@ departments:
     - 202-401-9215
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.acf.hhs.gov/e-reading-room
+    - https://www.acf.hhs.gov/e-reading-room
   request_form: http://www.acf.hhs.gov/foia/foia_request.html
   request_time_stats:
     '2008':
@@ -451,40 +930,62 @@ departments:
       simple_highest_days: '903'
       simple_lowest_days: '1'
       simple_median_days: '62'
+    '2015':
+      complex_average_days: '143'
+      complex_highest_days: '765'
+      complex_lowest_days: '1'
+      complex_median_days: '63'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '302'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '10'
+      simple_average_days: '78'
+      simple_highest_days: '791'
+      simple_lowest_days: '1'
+      simple_median_days: '27'
+    '2016':
+      complex_average_days: '384.99'
+      complex_highest_days: '901'
+      complex_lowest_days: less than 1
+      complex_median_days: '462'
+      expedited_processing_average_days: '23'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '23'
+      expedited_processing_median_days: '23'
+      simple_average_days: '378.09'
+      simple_highest_days: '1796'
+      simple_lowest_days: less than 1
+      simple_median_days: '385.5'
   service_center:
     phone:
     - 888-747-1861
   top_level: false
-  usa_id: '47994'
   website: https://www.acf.hhs.gov/freedom-of-information-act
-- abbreviation: AHRQ
-  address:
+- address:
     address_lines:
-    - Tim Brown
-    - Acting FOIA Officer
-    - Suite 920
-    city: Bethesda
-    state: MD
-    street: 7700 Wisconsin Avenue
-    zip: '20857'
-  description: The Agency for Healthcare Research and Quality supports research to
-    improve the quality, safety, efficiency, and effectiveness of health care for
-    all Americans.
+    - Michael S. Marquis
+    - FOIA Officer
+    - Hubert H. Humphrey Building, Suite 729H
+    city: Washington
+    state: DC
+    street: 200 Independence Avenue, SW
+    zip: '20201'
   emails:
   - FOIArequest@psc.hhs.gov
+  fax: 202-260-6108
   foia_officer:
-    name: Tim Brown
-    phone:
-    - 301-492-4800
-  name: Agency for Healthcare Research and Quality
-  phone: 301-492-4800
-  public_liaison:
     name: Carol Maloney
     phone:
     - 301-492-4800
+  name: Agency for Healthcare Research and Quality
+  phone: 202-260-6933
+  public_liaison:
+    name: Michael Bell
+    phone:
+    - 202-690-7453
   reading_rooms:
   - - Electronic Reading Room
-    - https://www.psc.gov/psc_foia/electronic-reading-room.html
+    - https://www.psc.gov/additional-resources/foia/electronic-reading-room
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats:
     '2008':
@@ -554,24 +1055,18 @@ departments:
       simple_median_days: '6'
   service_center:
     phone:
-    - 301-492-4800
+    - 202-260-6933
   top_level: true
-  usa_id: '49074'
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
-- abbreviation: CDC
-  address:
+- address:
     address_lines:
-    - Katherine Norris
+    - Roger Andoh
     - FOIA Officer
     - Building 16, D-54
     city: Atlanta
     state: GA
     street: 1600 Clifton Road, N.E.
     zip: '30333'
-  description: CDC collaborates to create the expertise, information, and tools that
-    people and communities need to protect their health through health promotion,
-    prevention of disease, injury and disability, and preparedness for new health
-    threats.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -596,15 +1091,16 @@ departments:
   - Public health
   - Reporting and recordkeeping requirements
   - Transportation
+  - Underground mining
   name: Centers for Disease Control and Prevention
   phone: 770-488-6399
   public_liaison:
-    name: Katherine Norris, Bruno Viana
+    name: Roger Andoh
     phone:
     - 770-488-6399
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.cdc.gov/od/foia/reading.htm
+    - https://www.cdc.gov/od/foia/reading/index.htm
   request_form: http://www.cdc.gov/od/foia/request/
   request_time_stats:
     '2008':
@@ -698,23 +1194,46 @@ departments:
       simple_highest_days: '930'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '159.52'
+      complex_highest_days: '1334'
+      complex_lowest_days: less than 1
+      complex_median_days: '22'
+      expedited_processing_average_days: '85.7'
+      expedited_processing_highest_days: '288'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '59.5'
+      simple_average_days: '101.39'
+      simple_highest_days: '1225'
+      simple_lowest_days: less than 1
+      simple_median_days: '33'
+    '2016':
+      complex_average_days: '307.26'
+      complex_highest_days: '1546'
+      complex_lowest_days: less than 1
+      complex_median_days: '231'
+      expedited_processing_average_days: '399.48'
+      expedited_processing_highest_days: '889'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '422'
+      simple_average_days: '55.2'
+      simple_highest_days: '963'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     phone:
     - 770-488-6399
   top_level: true
-  usa_id: '48013'
   website: http://www.cdc.gov/od/foia/index.htm
 - address:
     address_lines:
-    - Katherine Norris
+    - Roger Andoh
     - FOIA Officer
     - Building 16, D-54
     city: Atlanta
     state: GA
     street: 1600 Clifton Road, N.E.
     zip: '30333'
-  description: The Agency for Toxic Substances and Disease Registry responds to, and
-    protects people from harmful chemical exposures.
   emails:
   - FOIARequests@cdc.gov
   fax: 404-235-1852
@@ -725,21 +1244,19 @@ departments:
   name: Agency for Toxic Substances and Disease Registry
   phone: 770-488-6399
   public_liaison:
-    name: Katherine Norris, Bruno Viana
+    name: Roger Andoh
     phone:
     - 770-488-6399
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.cdc.gov/od/foia/reading.htm
+    - https://www.cdc.gov/od/foia/reading/index.htm
   request_form: http://www.cdc.gov/od/foia/request/index.htm
   service_center:
     phone:
     - 770-488-6399
   top_level: false
-  usa_id: '49076'
   website: http://www.cdc.gov/od/foia/index.htm
-- abbreviation: CMS
-  address:
+- address:
     address_lines:
     - Hugh Gilmore
     - FOIA Officer
@@ -748,11 +1265,6 @@ departments:
     state: MD
     street: 7500 Security Boulevard
     zip: '21244'
-  description: The Medicare Service Center answers your questions about Medicare topics,
-    manages your orders of Medicare publications, provides detailed information about
-    the Medicare managed care plans in your area, shares Medicare health plan quality
-    and customer satisfaction information. Contact the Center to obtain the phone
-    number to your state Medicaid office.
   fax: 410-786-0474
   foia_officer:
     name: Michael Marquis
@@ -765,11 +1277,13 @@ departments:
   - Advisory committees
   - Aged
   - Aid to Families with Dependent Children
+  - Biologics
   - Brokers
   - Child support
   - Civil rights
   - Claims
   - Computer technology
+  - Conflict of interests
   - Consumer protection
   - Drugs
   - Education of disadvantaged
@@ -779,6 +1293,7 @@ departments:
   - Family planning
   - Fraud
   - Freedom of information
+  - Government contracts
   - Grant programs
   - Grant programs-health
   - Grant programs-social programs
@@ -800,6 +1315,7 @@ departments:
   - Laboratories
   - Loan programs
   - Loan programs-health
+  - Lobbying
   - Maternal and child health
   - Medicaid
   - Medical devices
@@ -837,7 +1353,7 @@ departments:
     - 410-786-5353
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
+    - https://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
   request_time_stats:
     '2008':
       complex_average_days: '297.6'
@@ -930,34 +1446,55 @@ departments:
       simple_highest_days: '842'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '73'
+      complex_highest_days: '1109'
+      complex_lowest_days: '1'
+      complex_median_days: '22'
+      expedited_processing_average_days: '189'
+      expedited_processing_highest_days: '594'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '161'
+      simple_average_days: '10'
+      simple_highest_days: '191'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '46'
+      complex_highest_days: '1803'
+      complex_lowest_days: '1'
+      complex_median_days: '9'
+      expedited_processing_average_days: '250'
+      expedited_processing_highest_days: '803'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '194'
+      simple_average_days: '34'
+      simple_highest_days: '1030'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
   service_center:
     phone:
     - 410-786-5353
   top_level: true
-  usa_id: '49134'
   website: http://www.cms.gov/foia/
-- abbreviation: FDA
-  address:
+- address:
     address_lines:
     - Sarah Kotler
     - Director, Division of Freedom of Information
     - Office of the Executive Secretariat
     - Office of the Commissioner
-    - Room 1035
+    - Room 1020
     city: Rockville
     state: MD
-    street: 5630 Fishers Lane
+    street: 12420 Parklawn Drive
     zip: '20857'
-  description: The FDA is responsible for protecting the public health by assuring
-    the safety, efficacy, and security of human and veterinary drugs, biological products,
-    medical devices, our nations food supply, cosmetics, and products that emit radiation.
-    The FDA also provides accurate, science-based health information to the public.
   fax: 301-827-9267
   keywords:
   - Adhesives
   - Administrative practice and procedure
   - Advertising
   - Advisory committees
+  - Agricultural research
   - Animal drugs
   - Animal feeds
   - Animal foods
@@ -989,6 +1526,7 @@ departments:
   - Foods
   - Foreign relations
   - Freedom of information
+  - Frozen foods
   - Fruit juices
   - Fruits
   - Government employees
@@ -998,6 +1536,7 @@ departments:
   - Health facilities
   - Health records
   - Hospitals
+  - Human cells and tissue-based products
   - Human research subjects
   - Immunization
   - Imports
@@ -1005,8 +1544,10 @@ departments:
   - Investigations
   - Labeling
   - Laboratories
+  - Lasers
   - Medical devices
   - Medical research
+  - Microwave ovens
   - Milk
   - News media
   - Nutrition
@@ -1015,6 +1556,7 @@ departments:
   - Over-the-counter drugs
   - Packaging and containers
   - Penalties
+  - Polychlorinated biphenyls (PCB's)
   - Prescription drugs
   - Prisoners
   - Privacy
@@ -1031,6 +1573,8 @@ departments:
   - Television
   - Tobacco
   - Travel restrictions
+  - Vegetable juices
+  - Vegetables
   - Warehouses
   - Water supply
   - X-rays
@@ -1054,7 +1598,7 @@ departments:
     - 301-796-3900
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
+    - https://www.fda.gov/RegulatoryInformation/FOI/ElectronicReadingRoom/default.htm
   request_form: http://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm
   request_time_stats:
     '2008':
@@ -1148,24 +1692,43 @@ departments:
       simple_highest_days: '1167'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '186'
+      complex_highest_days: '1583'
+      complex_lowest_days: '1'
+      complex_median_days: '72'
+      expedited_processing_average_days: '862'
+      expedited_processing_highest_days: '862'
+      expedited_processing_lowest_days: '862'
+      expedited_processing_median_days: '862'
+      simple_average_days: '18'
+      simple_highest_days: '200'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '157.6'
+      complex_highest_days: '1442'
+      complex_lowest_days: '1'
+      complex_median_days: '62'
+      simple_average_days: '17.3'
+      simple_highest_days: '297'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 301-796-3900
   top_level: true
-  usa_id: '48058'
   website: http://www.fda.gov/RegulatoryInformation/foi/default.htm
 - abbreviation: HRSA
   address:
     address_lines:
     - Tom Flavin
     - FOIA Officer
-    - Parklawn Building, Room 6C-18
+    - Parklawn Building, Room 13N82
     city: Rockville
     state: MD
     street: 5600 Fishers Lane
     zip: '20857'
-  description: The Health Resources and Services Administration improves access to
-    healthcare for people who are uninsured, isolated, or medically vulnerable.
   emails:
   - foia@hrsa.gov
   fax: 301-480-5285
@@ -1182,6 +1745,7 @@ departments:
   - Courts
   - Dental health
   - Drugs
+  - Education of disadvantaged
   - Educational facilities
   - Educational study programs
   - Fraud
@@ -1192,6 +1756,7 @@ departments:
   - Health care
   - Health facilities
   - Health insurance
+  - Health maintenance organizations (HMO)
   - Health professions
   - Hospitals
   - Immunization
@@ -1287,11 +1852,28 @@ departments:
       complex_highest_days: '605'
       complex_lowest_days: '1'
       complex_median_days: '37'
+    '2015':
+      complex_average_days: '67'
+      complex_highest_days: '695'
+      complex_lowest_days: less than 1
+      complex_median_days: '25'
+      expedited_processing_average_days: '12'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '12'
+    '2016':
+      complex_average_days: '112'
+      complex_highest_days: '817'
+      complex_lowest_days: '21'
+      complex_median_days: '52'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 301-443-3376
   top_level: true
-  usa_id: '49359'
   website: http://www.hrsa.gov/foia/
 - abbreviation: IHS
   address:
@@ -1303,8 +1885,6 @@ departments:
     state: MD
     street: 801 Thompson Avenue
     zip: '20852'
-  description: The Indian Health Service provides federal health services to American
-    Indians and Alaska Natives.
   fax: 301-443-9879
   foia_officer:
     name: William Tibbits
@@ -1333,8 +1913,8 @@ departments:
     phone:
     - 301-443-6177
   reading_rooms:
-  - - EFOIA Reading Room
-    - http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_elec_read_room
+  - - eFOIA Reading Room
+    - https://www.ihs.gov/foia/readingroom/
   request_form: http://www.ihs.gov/FOIA/index.cfm?module=dsp_foia_make_request
   request_time_stats:
     '2008':
@@ -1420,24 +2000,38 @@ departments:
       simple_highest_days: '80'
       simple_lowest_days: '5'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '65'
+      complex_highest_days: '266'
+      complex_lowest_days: '70'
+      complex_median_days: '45'
+      simple_average_days: '15'
+      simple_highest_days: '60'
+      simple_lowest_days: '5'
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '106'
+      complex_highest_days: '314'
+      complex_lowest_days: '16'
+      complex_median_days: '98'
+      simple_average_days: '40'
+      simple_highest_days: '139'
+      simple_lowest_days: '1'
+      simple_median_days: '28'
   service_center:
     phone:
     - 301-443-1116
   top_level: true
-  usa_id: '49386'
   website: http://www.ihs.gov/FOIA/
-- abbreviation: NIH
-  address:
+- address:
     address_lines:
-    - Susan Cornell
+    - Katherine Uhl
     - FOIA Officer
     - Building 31, Room 5B35
     city: Bethesda
     state: MD
     street: 9000 Rockville Pike
     zip: '20892'
-  description: The National Institutes of Health (NIH) is the primary Federal agency
-    for conducting and supporting medical research.
   fax: 301-402-4541
   foia_officer:
     name: Susan Cornell
@@ -1456,12 +2050,12 @@ departments:
     visiting its website.
   phone: 301-496-5633
   public_liaison:
-    name: Susan Cornell
+    name: Marin Allen
     phone:
     - 301-496-5633
   reading_rooms:
   - - NIH FOIA Library
-    - http://www.nih.gov/icd/od/foia/index.htm#foialibrary
+    - https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office/nih-foia-library
   request_time_stats:
     '2008':
       complex_average_days: '40'
@@ -1546,56 +2140,79 @@ departments:
       simple_highest_days: '98'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '63'
+      complex_highest_days: '984'
+      complex_lowest_days: '1'
+      complex_median_days: '37'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '17'
+      simple_average_days: '13'
+      simple_highest_days: '78'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '61'
+      complex_highest_days: '418'
+      complex_lowest_days: '1'
+      complex_median_days: '36'
+      expedited_processing_average_days: '166'
+      expedited_processing_highest_days: '189'
+      expedited_processing_lowest_days: '141'
+      expedited_processing_median_days: '169'
+      simple_average_days: '13'
+      simple_highest_days: '55'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     phone:
     - 301-496-5633
   top_level: true
-  usa_id: '48089'
   website: http://www.nih.gov/icd/od/foia/index.htm
 - address:
     address_lines:
-    - Tim Brown
-    - Acting FOIA Officer
-    - Suite 920
-    city: Bethesda
-    state: MD
-    street: 7700 Wisconsin Avenue
-    zip: '20857'
+    - Michael S. Marquis
+    - FOIA Officer
+    - Hubert H. Humphrey Building, Suite 729H
+    city: Washington
+    state: DC
+    street: 200 Independence Avenue, SW
+    zip: '20201'
   emails:
   - FOIArequest@psc.hhs.gov
+  fax: 202-260-6108
   foia_officer:
     name: Carol Maloney
     phone:
     - 301-492-4800
   name: Program Support Center
-  phone: 301-492-4800
+  phone: 202-260-6933
   public_liaison:
-    name: Tim Brown
+    name: Michael Bell
     phone:
-    - 301-492-4800
+    - 202-690-7453
   reading_rooms:
   - - Electronic Reading Room
-    - https://www.psc.gov/psc_foia/electronic-reading-room.html
+    - https://www.psc.gov/additional-resources/foia/electronic-reading-room
   request_form: http://wcdapps.hhs.gov/FoiaRequest/
   request_time_stats: {}
   service_center:
     phone:
-    - 301-492-4800
+    - 202-260-6933
   top_level: false
   website: https://www.psc.gov/psc_foia/psc-freedom-of-information-act-foia-home
 - abbreviation: SAMSHA
   address:
     address_lines:
-    - Wakema Williams
-    - FOIA Officer
-    - Room 8-1042
+    - Siobhan Dugan
+    - Acting FOIA Officer
+    - Room 8-1041
     city: Rockville
     state: MD
     street: 1 Choke Cherry Road
     zip: '20857'
-  description: Through grants and research, the Substance Abuse and Mental Health
-    Services Administration works to improve substance abuse and mental health treatment
-    services to those who are most in need of them.
   emails:
   - foia@samhsa.hhs.gov
   fax: 240-276-2135
@@ -1621,7 +2238,7 @@ departments:
   name: Substance Abuse and Mental Health Services Administration
   phone: 240-276-2000
   public_liaison:
-    name: Wakema Williams
+    name: Siobhan Dugan
     phone:
     - 240-276-2000
   request_time_stats:
@@ -1712,14 +2329,32 @@ departments:
       simple_highest_days: '494'
       simple_lowest_days: '1'
       simple_median_days: '72'
+    '2015':
+      complex_average_days: '106'
+      complex_highest_days: '502'
+      complex_lowest_days: '1'
+      complex_median_days: '61'
+      simple_average_days: '35'
+      simple_highest_days: '429'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '114'
+      complex_highest_days: '686'
+      complex_lowest_days: '1'
+      complex_median_days: '73'
+      simple_average_days: '22'
+      simple_highest_days: '317'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 240-276-2000
   top_level: true
-  usa_id: '49687'
   website: http://www.samhsa.gov/foia/
-description: The Department of Health and Human Services protects the health of all
-  Americans and provides essential human services.
+description: The Department of Health and Human Services (HHS) is the United States
+  government´s principal agency for protecting the health of all Americans and providing
+  essential human services, especially for those who are least able to help themselves.
 keywords:
 - Accounting
 - Adhesives
@@ -1729,9 +2364,11 @@ keywords:
 - Advertising
 - Advisory committees
 - Aged
+- Agricultural research
 - Agriculture
 - Aid to Families with Dependent Children
 - Airports
+- Alaska
 - Alcohol abuse
 - Alcoholism
 - Aliens
@@ -1754,11 +2391,14 @@ keywords:
 - Buildings and facilities
 - Business and industry
 - Cancer
+- Census data
+- Centers for Medicare Medicaid Services
 - Child support
 - Child welfare
 - Civil rights
 - Claims
 - Coal
+- Code of Federal Regulations
 - Colleges and universities
 - Color additives
 - Communicable diseases
@@ -1774,12 +2414,14 @@ keywords:
 - Courts
 - Cream
 - Credit
-- Cuba
+- Crime
 - Cultural exchange programs
 - Day care
 - Dental health
 - Dietary foods
+- Disability benefits
 - Disaster assistance
+- Domestic violence
 - Drug abuse
 - Drugs
 - Education
@@ -1797,6 +2439,7 @@ keywords:
 - Emergency medical services
 - Employee benefit plans
 - Employment
+- Energy conservation
 - Environmental impact statements
 - Equal access to justice
 - Equal educational opportunity
@@ -1811,25 +2454,36 @@ keywords:
 - Food labeling
 - Food packaging
 - Foods
+- Foreign aid
 - Foreign relations
 - Fraud
 - Freedom of information
+- Frozen foods
 - Fruit juices
 - Fruits
+- Genetic diseases
 - Government contracts
 - Government employees
 - Government procurement
 - Government property
 - Government property management
+- Grant administrations
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
+- Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-science and technology
 - Grant programs-social programs
+- Grant programs-veterans
 - Guam
 - HIV/AIDS
 - Harbors
+- Hawaiian Natives
 - Hazardous materials transportation
 - Hazardous substances
 - Health
@@ -1845,14 +2499,18 @@ keywords:
 - Hospice care
 - Hospitals
 - Hostages
+- Housing
+- Human cells and tissue-based products
 - Human research subjects
 - Immigration
 - Immunization
 - Imports
+- Income taxes
 - Indemnity payments
 - Indians
 - Indians-business and finance
 - Indians-education
+- Indians-lands
 - Individuals with disabilities
 - Insurance
 - Insurance companies
@@ -1865,18 +2523,24 @@ keywords:
 - Kuwait
 - Labeling
 - Labor
+- Labor management relations
+- Labor unions
 - Laboratories
+- Lasers
 - Law enforcement
 - Lebanon
 - Legal services
 - Libraries
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-health
 - Loan programs-housing and community development
 - Loan programs-social programs
+- Lobbying
+- Low and moderate income housing
 - Lung diseases
 - Manpower training programs
 - Maternal and child health
@@ -1887,12 +2551,14 @@ keywords:
 - Medicare
 - Mental health programs
 - Methadone
+- Microwave ovens
 - Migrant labor
 - Milk
 - Mine safety and health
 - Miners
 - Mortgage insurance
 - Mortgages
+- National defense
 - News media
 - Nonprofit organizations
 - Northern Mariana Islands
@@ -1907,12 +2573,16 @@ keywords:
 - Packaging and containers
 - Passports and visas
 - Penalties
+- Pets
+- Polychlorinated biphenyls (PCB's)
 - Prescription drugs
 - Prisoners
+- Prisons
 - Privacy
 - Private schools
 - Public assistance programs
 - Public health
+- Public housing
 - Puerto Rico
 - Quarantine
 - Radiation protection
@@ -1920,6 +2590,8 @@ keywords:
 - Real property acquisition
 - Refugees
 - Religious discrimination
+- Relocation assistance
+- Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Rural areas
@@ -1940,6 +2612,7 @@ keywords:
 - Social security
 - Spices and flavorings
 - State and local governments
+- Strategic and critical materials
 - Student aid
 - Students
 - Sunshine Act
@@ -1953,9 +2626,14 @@ keywords:
 - Television
 - Tobacco
 - Transportation
+- Travel and transportation expenses
 - Travel restrictions
+- Underground mining
 - Unemployment compensation
 - Urban areas
+- Vegetable juices
+- Vegetables
+- Venereal diseases
 - Veterans
 - Virgin Islands
 - Vocational education
@@ -2060,4 +2738,29 @@ request_time_stats:
     simple_average_days: '24'
     simple_highest_days: '1167'
     simple_median_days: '14'
-usa_id: '49021'
+  '2015':
+    complex_average_days: '103.24'
+    complex_highest_days: '1583'
+    complex_lowest_days: less than 1
+    complex_median_days: '38'
+    expedited_processing_average_days: '315.65'
+    expedited_processing_highest_days: '862'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '298'
+    simple_average_days: '15.1'
+    simple_highest_days: '1225'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'
+  '2016':
+    complex_average_days: '115.36'
+    complex_highest_days: '1803'
+    complex_lowest_days: less than 1
+    complex_median_days: '44'
+    expedited_processing_average_days: '379.57'
+    expedited_processing_highest_days: '889'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '365'
+    simple_average_days: '27.5'
+    simple_highest_days: '1796'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'

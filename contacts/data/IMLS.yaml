@@ -2,33 +2,34 @@ abbreviation: IMLS
 departments:
 - address:
     address_lines:
-    - Direcor of Communications and Government Affairs
+    - Gladstone Payton
     - FOIA Officer
-    - 9th Floor
+    - Suite 4000
     city: Washington
     state: DC
-    street: 1800 M Street, NW
-    zip: 20036-5802
-  description: The Institute of Museum and Library Services is a grant making organization
-    that also conducts research and develops policy. The aim of the Institute is to
-    help libraries and museums advance innovation, foster lifelong learning and cultural
-    and civic engagement.
+    street: 955 L'Enfant Plaza, North
+    zip: 20024-2135
   emails:
-  - foia@imls.gov
-  fax: 202-653-4625
+  - gpayton@imls
+  fax: 202-653-4600
   foia_officer:
     name: Mamie Bittner
     phone:
     - 202-653-4630
+  misc:
+    FOIA Processor:
+      name: Mae Ridges
+      phone:
+      - 202-653-4642
   name: Institute of Museum and Library Services
-  phone: 202-653-4630
+  phone: 202-653-4628
   public_liaison:
     name: Mae Ridges
     phone:
     - 202-653-4642
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.imls.gov/about/foia_electronic_reading_room.aspx
+    - https://www.imls.gov/foia-electronic-reading-room
   request_form: http://www.imls.gov/about/foia_request_form.aspx
   request_time_stats:
     '2008':
@@ -114,17 +115,144 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '31.1'
+      complex_highest_days: '67'
+      complex_lowest_days: '20'
+      complex_median_days: '26'
+      simple_average_days: '5.92'
+      simple_highest_days: '17'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '39'
+      complex_highest_days: '87'
+      complex_lowest_days: '21'
+      complex_median_days: '25'
+      simple_average_days: '12.14'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center:
     name: Mae Ridges
     phone:
     - 202-653-4642
   top_level: false
-  usa_id: '52626'
   website: http://www.imls.gov/about/freedom_of_information_act_foia.aspx
-description: The Institute of Museum and Library Services is a grant making organization
-  that also conducts research and develops policy. The aim of the Institute is to
-  help libraries and museums advance innovation, foster lifelong learning and cultural
-  and civic engagement.
+description: The Institute of Museum and Library Services is the primary source of
+  federal support for the nation´s 123,000 libraries and 17,500 museums. The Institute's
+  mission is to create strong libraries and museums that connect people to information
+  and ideas.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Aged
+- Agriculture
+- Airports
+- American Samoa
+- Blind
+- Broadband
+- Business and industry
+- Civil rights
+- Colleges and universities
+- Communications
+- Community development
+- Copyright
+- Credit
+- Cultural exchange programs
+- Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
+- Employment
+- Equal educational opportunity
+- Equal employment opportunity
+- Federal buildings and facilities
+- Federally affected areas
+- Freedom of information
+- Government contracts
+- Government employees
+- Government property management
+- Grant programs
+- Grant programs-Indians
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Guam
+- Health facilities
+- Health insurance
+- Health professions
+- Highways and roads
+- Home improvement
+- Homeless
+- Hospitals
+- Hostages
+- Human research subjects
+- Indians
+- Indians-education
+- Individuals with disabilities
+- Insurance
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Iraq
+- Kuwait
+- Lebanon
+- Libraries
+- Loan programs
+- Loan programs-agriculture
+- Loan programs-business
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-housing and community development
+- Manpower training programs
+- Mass transportation
+- Migrant labor
+- Mortgage insurance
+- Mortgages
+- Museums
+- Nonprofit organizations
+- Northern Mariana Islands
+- Pacific Islands Trust Territory
+- Privacy
+- Private schools
+- Railroads
+- Religious discrimination
+- Reporting and recordkeeping requirements
+- Rural areas
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
+- Securities
+- Sex discrimination
+- Small businesses
+- State and local governments
+- Student aid
+- Sunshine Act
+- Teachers
+- Telecommunications
+- Telephone
+- Urban areas
+- Veterans
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Women
 name: Institute of Museum and Library Services
 request_time_stats:
   '2008':
@@ -210,4 +338,21 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '7'
-usa_id: '52626'
+  '2015':
+    complex_average_days: '31.1'
+    complex_highest_days: '67'
+    complex_lowest_days: '20'
+    complex_median_days: '26'
+    simple_average_days: '5.92'
+    simple_highest_days: '17'
+    simple_lowest_days: '1'
+    simple_median_days: '5'
+  '2016':
+    complex_average_days: '39'
+    complex_highest_days: '87'
+    complex_lowest_days: '21'
+    complex_median_days: '25'
+    simple_average_days: '12.14'
+    simple_highest_days: '21'
+    simple_lowest_days: '1'
+    simple_median_days: '11'

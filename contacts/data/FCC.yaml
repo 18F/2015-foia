@@ -1,7 +1,6 @@
 abbreviation: FCC
 departments:
-- abbreviation: FCC
-  address:
+- address:
     address_lines:
     - Vanessa Lamb
     - Deputy Associate Managing Director - FOIA Program
@@ -10,12 +9,8 @@ departments:
     state: DC
     street: 445 12th Street, SW
     zip: '20554'
-  description: An independent federal agency reporting to Congress, the Federal Communications
-    Commission regulates interstate and international communications through cable,
-    radio, television, satellite and wire. The goal of the Commission is to promote
-    connectivity and ensure a robust and competitive market.
   emails:
-  - FOIA@fcc.gov
+  - vanessa.lamb@fcc.gov
   fax: 202-418-0521
   misc:
     FOIA Contact:
@@ -30,8 +25,8 @@ departments:
     - 202-418-1379
   reading_rooms:
   - - Electronic Reading Room
-    - https://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
-  request_form: http://transition.fcc.gov/foia/#reqform
+    - https://www.fcc.gov/general/freedom-information-act-electronic-reading-room
+  request_form: https://foiaonline.regulations.gov/foia/action/public/home
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -124,16 +119,42 @@ departments:
       simple_highest_days: '462'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2015':
+      complex_average_days: '208.29'
+      complex_highest_days: '290'
+      complex_lowest_days: '30'
+      complex_median_days: '273'
+      expedited_processing_average_days: '4.07'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '3'
+      simple_average_days: '23.93'
+      simple_highest_days: '268'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
+    '2016':
+      complex_average_days: '144'
+      complex_highest_days: '144'
+      complex_lowest_days: '144'
+      complex_median_days: '144'
+      expedited_processing_average_days: '10.13'
+      expedited_processing_highest_days: '76'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '6'
+      simple_average_days: '22.57'
+      simple_highest_days: '433'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 202-418-0440
   top_level: false
-  usa_id: '49041'
   website: http://www.fcc.gov/foia/
-description: An independent federal agency reporting to Congress, the Federal Communications
-  Commission regulates interstate and international communications through cable,
-  radio, television, satellite and wire. The goal of the Commission is to promote
-  connectivity and ensure a robust and competitive market.
+description: The Federal Communications Commission (FCC) is an independent United
+  States government agency. The FCC was established by the Communications Act of 1934
+  and is charged with regulating interstate and international communications by radio,
+  television, wire, satellite and cable. The FCC's jurisdiction covers the 50 states,
+  the District of Columbia, and U.S. possessions.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -158,7 +179,9 @@ keywords:
 - Computer technology
 - Conflict of interests
 - Consumer protection
+- Credit
 - Cuba
+- Customs duties and inspection
 - Defense communications
 - Disaster assistance
 - Drug abuse
@@ -310,4 +333,29 @@ request_time_stats:
     simple_highest_days: '462'
     simple_lowest_days: less than 1
     simple_median_days: '19'
-usa_id: '49041'
+  '2015':
+    complex_average_days: '208.29'
+    complex_highest_days: '290'
+    complex_lowest_days: '30'
+    complex_median_days: '273'
+    expedited_processing_average_days: '4.07'
+    expedited_processing_highest_days: '11'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '3'
+    simple_average_days: '23.93'
+    simple_highest_days: '268'
+    simple_lowest_days: less than 1
+    simple_median_days: '20'
+  '2016':
+    complex_average_days: '144'
+    complex_highest_days: '144'
+    complex_lowest_days: '144'
+    complex_median_days: '144'
+    expedited_processing_average_days: '10.13'
+    expedited_processing_highest_days: '76'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '6'
+    simple_average_days: '22.57'
+    simple_highest_days: '433'
+    simple_lowest_days: less than 1
+    simple_median_days: '16'

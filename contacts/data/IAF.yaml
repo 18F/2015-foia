@@ -4,17 +4,18 @@ departments:
     address_lines:
     - Paul Zimmerman
     - General Counsel
-    - Suite 1200 North
+    - 12th Floor North, Suite 1200
     city: Washington
     state: DC
     street: 1331 Pennsylvania, NW
     zip: '20004'
-  description: The Inter-American Foundation provides grant support to Latin American
-    and Carribean grass-roots groups and non-governmental organizations with creative
-    self-help ideas.
   emails:
   - foia@iaf.gov
   misc:
+    Associate General Counsel:
+      name: Ravi  Kambhampaty
+      phone:
+      - 202-688-7117
     General Counsel:
       name: Paul Zimmerman
       phone:
@@ -25,9 +26,6 @@ departments:
     name: Lesley Duncan
     phone:
     - 202-688-3047
-  reading_rooms:
-  - - FOIA E-reading Room
-    - http://www.iaf.gov/index.aspx?page=2170
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -96,14 +94,25 @@ departments:
       simple_highest_days: '61'
       simple_lowest_days: '12'
       simple_median_days: '31'
+    '2015':
+      simple_average_days: '2.3'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      simple_average_days: '6.8'
+      simple_highest_days: '24'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
-    name: Paul Zimmerman
+    phone:
+    - 202-683-7118
   top_level: false
-  usa_id: '49404'
   website: http://www.iaf.gov/index.aspx?page=22
-description: The Inter-American Foundation provides grant support to Latin American
-  and Carribean grass-roots groups and non-governmental organizations with creative
-  self-help ideas.
+description: The Inter-American Foundation (IAF) is an independent agency of the United
+  States government that provides grants to nongovernmental and community-based organizations
+  in Latin America and the Caribbean for innovative, sustainable and participatory
+  self-help programs.
 keywords:
 - Administrative practice and procedure
 - Government employees
@@ -116,6 +125,7 @@ keywords:
 - Kuwait
 - Lebanon
 - Loan programs
+- Sunshine Act
 name: Inter-American Foundation
 request_time_stats:
   '2008':
@@ -185,4 +195,13 @@ request_time_stats:
     simple_highest_days: '61'
     simple_lowest_days: '12'
     simple_median_days: '31'
-usa_id: '49404'
+  '2015':
+    simple_average_days: '2.3'
+    simple_highest_days: '3'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2016':
+    simple_average_days: '6.8'
+    simple_highest_days: '24'
+    simple_lowest_days: '1'
+    simple_median_days: '1'

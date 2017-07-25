@@ -1,16 +1,12 @@
 abbreviation: NRC
 departments:
-- abbreviation: NRC
-  address:
+- address:
     address_lines:
-    - Stephanie A. Blaney
-    - Acting FOIA Officer
+    - FOIA Officer
     city: Washington
     state: DC
     street: Mail Stop T5-F09
     zip: 20555-0001
-  description: An independent agency, the Nuclear Regulatory Commission regulates
-    commercial nuclear power plants and other uses of nuclear materials.
   emails:
   - FOIA.resource@nrc.gov
   fax: 301-415-5130
@@ -21,9 +17,9 @@ departments:
   name: Nuclear Regulatory Commission
   phone: 301-415-7169
   public_liaison:
-    name: Pat Hirsch
+    name: Robert Webber
     phone:
-    - 301-415-0563
+    - 301-415-6054
   request_form: http://www.nrc.gov/reading-rm/foia/foia-submittal-form.html
   request_time_stats:
     '2008':
@@ -117,14 +113,43 @@ departments:
       simple_highest_days: '72'
       simple_lowest_days: less than 1
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '51'
+      complex_highest_days: '658'
+      complex_lowest_days: less than 1
+      complex_median_days: '26'
+      expedited_processing_average_days: '116'
+      expedited_processing_highest_days: '216'
+      expedited_processing_lowest_days: '15'
+      expedited_processing_median_days: '116'
+      simple_average_days: '9'
+      simple_highest_days: '52'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '35'
+      complex_highest_days: '214'
+      complex_lowest_days: less than 1
+      complex_median_days: '24'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '6'
+      simple_average_days: '8'
+      simple_highest_days: '109'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 301-415-7169
   top_level: false
-  usa_id: '52645'
   website: http://www.nrc.gov/reading-rm/foia/foia-privacy.html
-description: An independent agency, the Nuclear Regulatory Commission regulates commercial
-  nuclear power plants and other uses of nuclear materials.
+description: The U.S. Nuclear Regulatory Commission (NRC) was created as an independent
+  agency by Congress in 1974 to enable the nation to safely use radioactive materials
+  for beneficial civilian purposes while ensuring that people and the environment
+  are protected. The NRC regulates commercial nuclear power plants and other uses
+  of nuclear materials, such as in nuclear medicine, through licensing, inspection
+  and enforcement of its requirements
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -141,6 +166,8 @@ keywords:
 - Classified information
 - Colleges and universities
 - Confidential business information
+- Conflict of interests
+- Courts
 - Drug abuse
 - Drug testing
 - Drugs
@@ -149,13 +176,16 @@ keywords:
 - Educational facilities
 - Educational research
 - Educational study programs
+- Emergency medical services
 - Employment
+- Environmental impact statements
 - Environmental protection
 - Equal educational opportunity
 - Equal employment opportunity
 - Exports
 - Federal buildings and facilities
 - Fire prevention
+- Flags
 - Fraud
 - Freedom of information
 - Government contracts
@@ -170,6 +200,7 @@ keywords:
 - Health professions
 - Highways and roads
 - Imports
+- Indians
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
@@ -180,6 +211,7 @@ keywords:
 - Manpower training programs
 - Mass transportation
 - Medical devices
+- Nuclear energy
 - Nuclear materials
 - Nuclear power plants and reactors
 - Occupational safety and health
@@ -188,10 +220,12 @@ keywords:
 - Penalties
 - Privacy
 - Radiation protection
+- Radioactive materials
 - Railroads
 - Religious discrimination
 - Reporting and recordkeeping requirements
 - Scientific equipment
+- Seals and insignia
 - Security measures
 - Sex discrimination
 - Small businesses
@@ -296,4 +330,29 @@ request_time_stats:
     simple_highest_days: '72'
     simple_lowest_days: less than 1
     simple_median_days: '9'
-usa_id: '52645'
+  '2015':
+    complex_average_days: '51'
+    complex_highest_days: '658'
+    complex_lowest_days: less than 1
+    complex_median_days: '26'
+    expedited_processing_average_days: '116'
+    expedited_processing_highest_days: '216'
+    expedited_processing_lowest_days: '15'
+    expedited_processing_median_days: '116'
+    simple_average_days: '9'
+    simple_highest_days: '52'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'
+  '2016':
+    complex_average_days: '35'
+    complex_highest_days: '214'
+    complex_lowest_days: less than 1
+    complex_median_days: '24'
+    expedited_processing_average_days: '6'
+    expedited_processing_highest_days: '10'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '6'
+    simple_average_days: '8'
+    simple_highest_days: '109'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'

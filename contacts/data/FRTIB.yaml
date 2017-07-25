@@ -3,14 +3,12 @@ departments:
 - address:
     address_lines:
     - Amanda Haas
-    - Chief FOIA Officer
+    - FOIA Officer
     - 10th Floor
     city: Washington
     state: DC
     street: 77 K Street, NE
     zip: '20002'
-  description: The Federal Retirement Thrift Investment Board administers the Thrift
-    Savings Plan, a tax-deferred retirement account similar to a 401(k).
   emails:
   - foiarequest@tsp.gov
   fax: 202-942-1676
@@ -21,9 +19,12 @@ departments:
   name: Federal Retirement Thrift Investment Board
   phone: 202-942-1660
   public_liaison:
-    name: Amanda Haas
+    name: Dharmesh Vashee
     phone:
-    - 202-942-1660
+    - 202-639-4424
+  reading_rooms:
+  - - Reading Room
+    - https://www.frtib.gov/ReadingRoom/index.html
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -74,14 +75,25 @@ departments:
       simple_highest_days: '183'
       simple_lowest_days: '1'
       simple_median_days: '19.5'
+    '2015':
+      simple_average_days: '36'
+      simple_highest_days: '130'
+      simple_lowest_days: '6'
+      simple_median_days: '21'
+    '2016':
+      simple_average_days: '19'
+      simple_highest_days: '66'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
   service_center:
+    name: Amanda Haas
     phone:
     - 202-942-1660
   top_level: false
-  usa_id: '49320'
-  website: http://frtib.gov/ReadingRoom/FOIA/e-read_guide.pdf
-description: The Federal Retirement Thrift Investment Board administers the Thrift
-  Savings Plan, a tax-deferred retirement account similar to a 401(k).
+  website: http://www.frtib.gov/ReadingRoom/index.html
+description: The Agency was established to administer the Thrift Savings Plan (TSP),
+  which provides Federal employees the opportunity to save for additional retirement
+  security.
 keywords:
 - Administrative practice and procedure
 - Alimony
@@ -152,4 +164,13 @@ request_time_stats:
     simple_highest_days: '183'
     simple_lowest_days: '1'
     simple_median_days: '19.5'
-usa_id: '49320'
+  '2015':
+    simple_average_days: '36'
+    simple_highest_days: '130'
+    simple_lowest_days: '6'
+    simple_median_days: '21'
+  '2016':
+    simple_average_days: '19'
+    simple_highest_days: '66'
+    simple_lowest_days: '1'
+    simple_median_days: '20'

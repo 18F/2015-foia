@@ -7,7 +7,7 @@ departments:
     city: Washington
     state: DC
     street: 1111 20th Street, NW
-    zip: 20536-0001
+    zip: 20526-0001
   emails:
   - foia@peacecorps.gov
   fax: 202-692-1385
@@ -22,9 +22,6 @@ departments:
     name: Denora Miller
     phone:
     - 202-692-1236
-  reading_rooms:
-  - - Reading Room
-    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
   service_center:
     phone:
@@ -38,7 +35,7 @@ departments:
     city: Washington
     state: DC
     street: 1111 20th Street, NW
-    zip: 20536-0001
+    zip: 20526-0001
   emails:
   - foia@peacecorps.gov
   misc:
@@ -52,9 +49,6 @@ departments:
     name: Jeffrey Reichert
     phone:
     - 202-692-2922
-  reading_rooms:
-  - - Reading Room
-    - http://www.peacecorps.gov/about/policies/foia/readingroom/
   request_form: https://cwppc.secureprtportal.com/
   request_time_stats:
     '2008':
@@ -132,31 +126,55 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: '5'
       simple_median_days: '19'
+    '2015':
+      simple_average_days: '19'
+      simple_highest_days: '114'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      simple_average_days: '19'
+      simple_highest_days: '114'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
   service_center:
     phone:
     - 202-692-2922
   top_level: false
   website: http://www.peacecorps.gov/index.cfm?shell=about.policies.foia
-description: Peace Corps volunteers travel to developing countries all over the world
-  to assist with many ongoing efforts including AIDS education, business training,
-  and information infrastructure development.
+description: "In 1961, President John F. Kennedy established the Peace Corps to promote\
+  \ world peace and friendship.\n\nThe Peace Corps' mission has three simple goals:\
+  \ \n\nHelping the people of interested countries in meeting their need for trained\
+  \ men and women. \nHelping promote a better understanding of Americans on the part\
+  \ of the peoples served. \nHelping promote a better understanding of other peoples\
+  \ on the part of Americans."
 keywords:
 - Administrative practice and procedure
+- Aged
+- Citizenship and naturalization
+- Civil rights
 - Claims
+- Classified information
+- Conflict of interests
+- Equal employment opportunity
+- Foreign aid
 - Freedom of information
 - Government contracts
 - Government employees
 - Grant programs
+- Health
 - Health facilities
 - Health insurance
 - Health professions
 - Hostages
+- Individuals with disabilities
 - Iraq
 - Kuwait
 - Lebanon
 - Loan programs
+- Organization and functions (Government agencies)
 - Reporting and recordkeeping requirements
 - Technical assistance
+- Volunteers
 name: Peace Corps
 request_time_stats:
   '2008':
@@ -242,4 +260,21 @@ request_time_stats:
     simple_highest_days: '409'
     simple_lowest_days: less than 1
     simple_median_days: '38'
-usa_id: '52652'
+  '2015':
+    complex_average_days: '278'
+    complex_highest_days: '663'
+    complex_lowest_days: '38'
+    complex_median_days: '185'
+    simple_average_days: '65'
+    simple_highest_days: '467'
+    simple_lowest_days: less than 1
+    simple_median_days: '24'
+  '2016':
+    complex_average_days: '278'
+    complex_highest_days: '663'
+    complex_lowest_days: '38'
+    complex_median_days: '185'
+    simple_average_days: '65'
+    simple_highest_days: '467'
+    simple_lowest_days: less than 1
+    simple_median_days: '24'

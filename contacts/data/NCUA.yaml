@@ -3,7 +3,7 @@ departments:
 - address:
     address_lines:
     - Regina Metz
-    - FOIA Officer / Staff Attorney
+    - FOIA Officer / Senior Staff Attorney
     city: Alexandria
     state: VA
     street: 1775 Duke Street
@@ -52,9 +52,13 @@ departments:
     - 703-518-6350
   top_level: false
   website: http://www.ncua.gov/Resources/FOIA/Pages/default.aspx
-description: NCUA is the federal agency that charters and supervises federal credit
-  unions and insures savings in federal and most state-chartered credit unions across
-  the country through the National Credit Union Share Insurance Fund.
+description: "The National Credit Union Administration (NCUA) is the independent federal\
+  \ agency that charters and supervises federal credit unions, and protects consumer\
+  \ rights and member deposits. NCUA, backed by the full faith and credit of the U.S.\
+  \ government, operates the National Credit Union Share Insurance Fund (NCUSIF),\
+  \ insuring the savings of approximately 100 million account holders in all federal\
+  \ credit unions and many state-chartered credit unions. NCUA\x92s mission, through\
+  \ regulation and supervision, is a safe and sound credit union system."
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -78,6 +82,7 @@ keywords:
 - Credit unions
 - Crime
 - Currency
+- Electronic funds transfers
 - Equal access to justice
 - Exports
 - Fair housing
@@ -99,6 +104,7 @@ keywords:
 - Investments
 - Law enforcement
 - Lawyers
+- Loan programs
 - Loan programs-business
 - Loan programs-housing and community development
 - Marital status discrimination
@@ -218,4 +224,25 @@ request_time_stats:
     simple_highest_days: '34'
     simple_lowest_days: less than 1
     simple_median_days: '3'
-usa_id: '49050'
+  '2015':
+    complex_average_days: '27.61'
+    complex_highest_days: '115'
+    complex_lowest_days: '2'
+    complex_median_days: '23.5'
+    expedited_processing_average_days: '2'
+    expedited_processing_highest_days: '2'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '2'
+    simple_average_days: '6.04'
+    simple_highest_days: '28'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
+  '2016':
+    complex_average_days: '26.1'
+    complex_highest_days: '114'
+    complex_lowest_days: '7'
+    complex_median_days: '29'
+    simple_average_days: '4.07'
+    simple_highest_days: '21'
+    simple_lowest_days: less than 1
+    simple_median_days: '2'

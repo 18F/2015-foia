@@ -4,17 +4,13 @@ departments:
     address_lines:
     - Tina Ballard
     - Executive Director
-    - Suite 10800
+    - Suite 715
     city: Arlington
     state: VA
     street: 1401 S. Clark St
     zip: 22202-4302
-  description: The AbilityOne Commission creates job opportunities for people who
-    are blind or have other significant disabilities in the manufacture and delivery
-    of products and services to the Federal Government.
   emails:
-  - FOIA@AbilityOne.gov
-  - blineback@abilityone.gov
+  - tballard@abilityone.gov
   misc:
     Executive Director:
       name: Tina Ballard
@@ -117,16 +113,30 @@ departments:
       simple_highest_days: '9'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      simple_average_days: '8.4'
+      simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '43'
+      complex_highest_days: '55'
+      complex_lowest_days: '20'
+      complex_median_days: '54'
+      simple_average_days: '10.8'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '10.5'
   service_center:
     name: Wakita Wilson
     phone:
     - 703-603-7740
   top_level: false
-  usa_id: '49157'
   website: http://www.abilityone.gov/laws,_regulations_and_policy/foia.html
-description: The AbilityOne Commission creates job opportunities for people who are
-  blind or have other significant disabilities in the manufacture and delivery of
-  products and services to the Federal Government.
+description: The Committee for Purchase from People Who are Blind or Severely Disabled
+  provides employment opportunities for people who are blind or have other severe
+  disabilities in the manufacture and delivery of products and services to the federal
+  government.
 keywords:
 - Administrative practice and procedure
 - Civil rights
@@ -223,4 +233,17 @@ request_time_stats:
     simple_highest_days: '9'
     simple_lowest_days: '1'
     simple_median_days: '5'
-usa_id: '49157'
+  '2015':
+    simple_average_days: '8.4'
+    simple_highest_days: '16'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'
+  '2016':
+    complex_average_days: '43'
+    complex_highest_days: '55'
+    complex_lowest_days: '20'
+    complex_median_days: '54'
+    simple_average_days: '10.8'
+    simple_highest_days: '21'
+    simple_lowest_days: '1'
+    simple_median_days: '10.5'

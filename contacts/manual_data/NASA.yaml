@@ -3,32 +3,15 @@ departments:
     exploring Earth, the solar system and our universe.
   name: Jet Propulsion Laboratory
   abbreviation: JPL
-  request_form: http://socialforms.nasa.gov/foia
   top_level: true
   website: http://www.hq.nasa.gov/office/pao/FOIA/jpl/index.htm
 - name: NASA Shared Service Center (NSSC)
-  request_form: http://socialforms.nasa.gov/foia
   top_level: true
-- name: Marshall Space Flight Center
-  request_form: http://socialforms.nasa.gov/foia
 - name: Dryden Flight Research Center
-  request_form: http://socialforms.nasa.gov/foia
   website: http://www.nasa.gov/centers/armstrong/about/FOIA/index.html
-- name: Goddard Space Flight Center
-  request_form: http://socialforms.nasa.gov/foia
 - name: Kennedy Space Center
-  request_form: http://socialforms.nasa.gov/foia
   website: http://www.nasa.gov/centers/kennedy/home/
-- name: Ames Research Center
-  request_form: http://socialforms.nasa.gov/foia
-- name: Glenn Research Center
-  emails:
-  - grc-foia@mail.nasa.gov
-  request_form: http://socialforms.nasa.gov/foia
-- name: Johnson Space Center
-  request_form: http://socialforms.nasa.gov/foia
 - name: Langley Research Center
-  request_form: http://socialforms.nasa.gov/foia
   address:
     address_lines:
     - 'FOIA: Sally Blibo'
@@ -36,8 +19,6 @@ departments:
     state: MS
     street: 'Building 1100 room 304D'
     zip: '39529'
-  emails:
-  - ssc-foia@nasa.gov
   name: Stennis Space Center
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
 name: National Aeronautics and Space Administration

@@ -2,27 +2,21 @@ abbreviation: CEQ
 departments:
 - address:
     address_lines:
-    - Brooke Dorner
-    - Chief FOIA Officer/Attorney-Advisor
+    - Marna McDermott
+    - Chief FOIA Officer (Acting)
     city: Washington
     state: DC
     street: 722 Jackson Place, NW
     zip: '20503'
-  description: The Counicl on Environmental Quality coordinates federal environmental
-    activities, and assists in the development of environmental policy across the
-    executive branch.
   emails:
   - efoia@ceq.eop.gov
   fax: 202-456-0753
   name: Council on Environmental Quality
   phone: 202-456-6224
   public_liaison:
-    name: Brooke Dorner
+    name: Howard Sun
     phone:
     - 202-456-6224
-  reading_rooms:
-  - - Reading Room
-    - https://www.whitehouse.gov/administration/eop/ceq/foia/readingroom
   request_time_stats:
     '2008':
       simple_average_days: '81'
@@ -99,15 +93,32 @@ departments:
       simple_highest_days: '80'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2015':
+      complex_average_days: '89'
+      complex_highest_days: '909'
+      complex_lowest_days: '1'
+      complex_median_days: '22'
+      simple_average_days: '119.33'
+      simple_highest_days: '579'
+      simple_lowest_days: '1'
+      simple_median_days: '40'
+    '2016':
+      complex_average_days: '251'
+      complex_highest_days: '2217'
+      complex_lowest_days: '1'
+      complex_median_days: '50'
+      simple_average_days: '135'
+      simple_highest_days: '588'
+      simple_lowest_days: '5'
+      simple_median_days: '45'
   service_center:
     phone:
     - 202-456-6224
   top_level: false
-  usa_id: '49181'
-  website: http://www.whitehouse.gov/administration/eop/ceq/foia/
-description: The Counicl on Environmental Quality coordinates federal environmental
-  activities, and assists in the development of environmental policy across the executive
-  branch.
+  website: https://www.whitehouse.gov/administration/eop/ceq/foia/
+description: The Council on Environmental Quality (CEQ) coordinates Federal environmental
+  efforts and works closely with agencies and other White House offices in the development
+  of environmental policies and initiatives.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -192,4 +203,21 @@ request_time_stats:
     simple_highest_days: '80'
     simple_lowest_days: '1'
     simple_median_days: '11'
-usa_id: '49181'
+  '2015':
+    complex_average_days: '89'
+    complex_highest_days: '909'
+    complex_lowest_days: '1'
+    complex_median_days: '22'
+    simple_average_days: '119.33'
+    simple_highest_days: '579'
+    simple_lowest_days: '1'
+    simple_median_days: '40'
+  '2016':
+    complex_average_days: '251'
+    complex_highest_days: '2217'
+    complex_lowest_days: '1'
+    complex_median_days: '50'
+    simple_average_days: '135'
+    simple_highest_days: '588'
+    simple_lowest_days: '5'
+    simple_median_days: '45'

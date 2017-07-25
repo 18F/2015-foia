@@ -1,7 +1,6 @@
 abbreviation: ONDCP
 departments:
-- abbreviation: ONDCP
-  address:
+- address:
     address_lines:
     - Michael Passante
     - Chief FOIA Officer
@@ -9,8 +8,6 @@ departments:
     state: DC
     street: 750 17th Street NW
     zip: '20503'
-  description: The Office of National Drug Control Policy coordinates drug-control
-    efforts and funding, and advises the president on drug-control issues.
   fax: 202-395-5543
   name: Office of National Drug Control Policy
   phone: 202-395-6622
@@ -47,15 +44,26 @@ departments:
       simple_highest_days: '182'
       simple_lowest_days: '1'
       simple_median_days: '33'
+    '2015':
+      simple_average_days: '44'
+      simple_highest_days: '344'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      simple_average_days: '16'
+      simple_highest_days: '199'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
   service_center:
     name: Sandy Slater
     phone:
     - 202-395-6622
   top_level: false
-  usa_id: '49586'
   website: http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests
-description: The Office of National Drug Control Policy coordinates drug-control efforts
-  and funding, and advises the president on drug-control issues.
+description: The principal purpose of ONDCP is to establish policies, priorities,
+  and objectives for the Nation's drug control program. The goals of the program are
+  to reduce illicit drug use, manufacturing, and trafficking, drug-related crime and
+  violence, and drug-related health consequences.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -91,6 +99,7 @@ keywords:
 - Grant programs
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -112,6 +121,7 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -131,6 +141,7 @@ keywords:
 - Schools
 - Science and technology
 - Securities
+- Small businesses
 - State and local governments
 - Student aid
 - Teachers
@@ -216,4 +227,13 @@ request_time_stats:
     simple_highest_days: '182'
     simple_lowest_days: '1'
     simple_median_days: '33'
-usa_id: '49586'
+  '2015':
+    simple_average_days: '44'
+    simple_highest_days: '344'
+    simple_lowest_days: '1'
+    simple_median_days: '12'
+  '2016':
+    simple_average_days: '16'
+    simple_highest_days: '199'
+    simple_lowest_days: '1'
+    simple_median_days: '8'

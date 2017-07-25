@@ -19,7 +19,7 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-5389
   name: Main Office
   phone: 202-693-5391
@@ -27,9 +27,6 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
-  reading_rooms:
-  - - DOL-Wide FOIA Reading Room
-    - http://www.dol.gov/dol/foia/readroom.htm
   service_center:
     phone:
     - 202-693-5391
@@ -38,22 +35,18 @@ departments:
 - abbreviation: ILAB
   address:
     address_lines:
-    - Brenda Hoffman
+    - Kia Gaskins
     - FOIA Coordinator
-    - Room S-5317
+    - Room S-5303
     city: Washington
     state: DC
     street: 200 Constitution Avenue, NW
     zip: 20210-001
-  description: The Bureau of International Labor Affairs works to improve working
-    conditions, raise living standards, protect workers’ ability to exercise their
-    rights, and address the workplace exploitation of children and other vulnerable
-    populations.
   emails:
-  - FOIARequest@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-4851
   name: Bureau of International Labor Affairs
-  phone: 202-693-4877
+  phone: 202-693-7664
   public_liaison:
     name: Thomas G. Hicks, Sr.
     phone:
@@ -146,11 +139,28 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: '7'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '104.8'
+      complex_highest_days: '404'
+      complex_lowest_days: '15'
+      complex_median_days: '82'
+      simple_average_days: '107.8'
+      simple_highest_days: '331'
+      simple_lowest_days: '10'
+      simple_median_days: '35.5'
+    '2016':
+      complex_average_days: '68.5'
+      complex_highest_days: '194'
+      complex_lowest_days: '12'
+      complex_median_days: '46'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
   service_center:
     phone:
     - 202-693-4877
   top_level: true
-  usa_id: '49121'
   website: http://www.dol.gov/ilab/
 - abbreviation: BLS
   address:
@@ -162,8 +172,6 @@ departments:
     state: DC
     street: 2 Massachusetts Avenue, NE
     zip: 20212-0001
-  description: The Bureau of Labor Statistics measures labor market activity, working
-    conditions, and price changes in the economy.
   fax: 202-691-5111
   name: Bureau of Labor Statistics
   phone: 202-691-7628
@@ -259,26 +267,40 @@ departments:
       simple_highest_days: '118'
       simple_lowest_days: '2'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '30.7'
+      complex_highest_days: '88'
+      complex_lowest_days: '10'
+      complex_median_days: '20'
+      simple_average_days: '19.1'
+      simple_highest_days: '86'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '27.7'
+      complex_highest_days: '85'
+      complex_lowest_days: '5'
+      complex_median_days: '21'
+      simple_average_days: '18.6'
+      simple_highest_days: '26'
+      simple_lowest_days: '7'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-691-7628
   top_level: true
-  usa_id: '49124'
   website: http://www.bls.gov/bls/blsfoia.htm
-- abbreviation: EBSA
-  address:
+- address:
     address_lines:
-    - Theresa Thomas
+    - Kathy Hoover
     - FOIA Officer
     - Public Disclosure Room, Suite N-1513
     city: Washington
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
-  description: The EBSA provides information and assistance on private sector, employer-sponsored
-    retirement benefit and health benefit plans.
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-219-8141
   keywords:
   - Accountants
@@ -286,34 +308,77 @@ departments:
   - Administrative practice and procedure
   - Advertising
   - Advisory committees
+  - Agriculture
+  - Airmen
+  - Aliens
+  - Black lung benefits
   - Brokers
+  - Child labor
   - Claims
+  - Clothing
+  - Conflict of interests
+  - Construction industry
   - Consumer protection
+  - Employee Benefits Security Administration
   - Employee benefit plans
+  - Employment
   - Excise taxes
+  - Government contracts
   - Government employees
+  - Government procurement
   - Grant programs-health
+  - Health
   - Health care
   - Health insurance
+  - Health maintenance organizations (HMO)
   - Health records
+  - Homeworkers
   - Hospitals
+  - Housing
+  - Housing standards
+  - Immigration
+  - Income taxes
+  - Indians
+  - Indians-arts and crafts
   - Individuals with disabilities
+  - Insurance
+  - Intergovernmental relations
+  - Investigations
   - Investments
+  - Labor
+  - Labor management relations
   - Law enforcement
+  - Lie detector tests
   - Loan programs-health
+  - Longshore and harbor workers
+  - Maternal and child health
   - Medicaid
+  - Migrant labor
+  - Mine safety and health
+  - Miners
+  - Mines
+  - Minimum wages
+  - Motor vehicle safety
+  - Occupational safety and health
   - Organization and functions (Government agencies)
   - Penalties
   - Public assistance programs
   - Reporting and recordkeeping requirements
   - Retirement
   - Securities
+  - Seizures and forfeitures
   - State and local governments
   - Sunshine Act
   - Surety bonds
+  - Teachers
   - Technical assistance
+  - Transportation
   - Trusts and trustees
+  - Wages
+  - Watches and jewelry
+  - Whistleblowing
   - Women
+  - Workers' compensation
   - Youth
   name: Employee Benefits Security Administration
   notes: This office has additional FOIA contact information that can be found by
@@ -325,7 +390,7 @@ departments:
     - 202-693-5427
   reading_rooms:
   - - Department of Labor FOIA Reading Room
-    - http://www.dol.gov/dol/foia/readroom.htm
+    - https://www.dol.gov/dol/foia/readroom.htm
   request_time_stats:
     '2008':
       complex_average_days: '7.1'
@@ -418,23 +483,46 @@ departments:
       simple_highest_days: '90'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '51.6'
+      complex_highest_days: '497'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '143'
+      expedited_processing_highest_days: '214'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '214'
+      simple_average_days: '20.3'
+      simple_highest_days: '262'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '40.2'
+      complex_highest_days: '390'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '15.9'
+      simple_highest_days: '179'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
   service_center:
     phone:
     - 202-693-8655
   top_level: true
-  usa_id: '48029'
   website: http://www.dol.gov/ebsa/foia/foia.html
 - abbreviation: DOLETA
   address:
     address_lines:
-    - Paula Taylor-Lynch
+    - Maria Sanders
     - FOIA Disclosure Officer
     city: Washington
     state: DC
     street: 200 Constitution Avenue, NW
     zip: 20210-0002
-  description: The Employment and Training Administration provides job training and
-    assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
   - Accounting
@@ -443,14 +531,20 @@ departments:
   - Aged
   - Agricultural commodities
   - Agriculture
+  - Airmen
   - Aliens
   - Australia
+  - Black lung benefits
+  - Child labor
   - Civil rights
   - Claims
+  - Clothing
+  - Construction industry
   - Courts
   - Cultural exchange programs
   - Disaster assistance
   - Education
+  - Employee benefit plans
   - Employment
   - Employment and Training Administration
   - Employment taxes
@@ -469,22 +563,40 @@ departments:
   - Grant programs-social programs
   - Guam
   - Hawaiian Natives
+  - Health
+  - Health care
+  - Health insurance
   - Health professions
   - Homeless
+  - Homeworkers
   - Housing
   - Housing standards
   - Immigration
   - Indemnity payments
   - Indians
+  - Indians-arts and crafts
   - Individuals with disabilities
+  - Insurance
+  - Intergovernmental relations
   - Investigations
+  - Job Corps
   - Labor
+  - Labor management relations
+  - Law enforcement
+  - Lie detector tests
   - Lobbying
   - Longshore and harbor workers
+  - Manpower
   - Manpower training programs
+  - Maternal and child health
   - Migrant labor
+  - Mine safety and health
+  - Miners
+  - Mines
   - Minimum wages
+  - Motor vehicle safety
   - Nursery stock
+  - Occupational safety and health
   - Passports and visas
   - Penalties
   - Privacy
@@ -496,6 +608,8 @@ departments:
   - Sex discrimination
   - Statistics
   - Students
+  - Surety bonds
+  - Teachers
   - Trade adjustment assistance
   - Transportation
   - Unemployment compensation
@@ -504,12 +618,14 @@ departments:
   - Vocational education
   - Vocational rehabilitation
   - Wages
+  - Watches and jewelry
+  - Whistleblowing
   - Workers' compensation
   - Youth
   name: Employment & Training Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
-  phone: 202-693-3676
+  phone: 202-693-3101
   public_liaison:
     name: Thomas G. Hicks, Sr.
     phone:
@@ -606,28 +722,50 @@ departments:
       simple_highest_days: '191'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '15.5'
+      complex_highest_days: '348'
+      complex_lowest_days: '1'
+      complex_median_days: '9'
+      expedited_processing_average_days: '14.5'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '14.5'
+      simple_average_days: '9.3'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '14.5'
+      complex_highest_days: '203'
+      complex_lowest_days: less than 1
+      complex_median_days: '10'
+      expedited_processing_average_days: '27'
+      expedited_processing_highest_days: '49'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '27'
+      simple_average_days: '9.1'
+      simple_highest_days: '165'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
-    - 202-693-3676
+    - 202-693-3101
   top_level: true
-  usa_id: '52693'
   website: http://www.doleta.gov/foia/
 - address:
     address_lines:
-    - Paula Taylor-Lynch
+    - Maria Sanders
     - FOIA Disclosure Officer
     city: Washington
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
-  description: Job Corps. Is a no-cost education and vocational training program that
-    helps young people (ages 16 to 24) improve the quality of their lives through
-    vocational and academic training.
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-2844
   name: Jobs Corps
-  phone: 202-693-3676
+  phone: 202-693-3101
   public_liaison:
     name: Thomas G. Hicks, Sr.
     phone:
@@ -663,35 +801,34 @@ departments:
     phone:
     - 202-693-5500
   top_level: true
-  usa_id: '48069'
   website: http://www.jobcorps.gov/foia.aspx
 - abbreviation: MSHA
   address:
     address_lines:
     - Lanesia Washington
     - FOIA Officer
-    - Room 2314
+    - Room 5W231
     city: Arlington
     state: VA
-    street: 1100 Wilson Boulevard
-    zip: 22209-3939
-  description: The Mine Safety and Health Administration works to prevent mining related
-    deaths, injuries, and illnesses through mine regulations, inspections, and training
-    programs.
+    street: 12th Street South
+    zip: '22202'
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-963-9441
   keywords:
   - Administrative practice and procedure
   - Agriculture
+  - Airmen
   - Aliens
   - Asbestos
   - Black lung benefits
   - Chemicals
   - Child labor
+  - Clothing
   - Coal
   - Colleges and universities
   - Communications equipment
+  - Construction industry
   - Education
   - Electric power
   - Emergency medical services
@@ -701,17 +838,33 @@ departments:
   - Explosives
   - Fire prevention
   - Gases
+  - Government contracts
+  - Government procurement
   - Hazardous substances
+  - Health
+  - Health care
+  - Health insurance
   - Health professions
+  - Homeworkers
   - Housing
+  - Housing standards
+  - Immigration
+  - Indians-arts and crafts
   - Insurance
   - Intergovernmental relations
   - Investigations
   - Labeling
+  - Labor
+  - Labor management relations
   - Law enforcement
+  - Lie detector tests
+  - Longshore and harbor workers
+  - Maternal and child health
   - Metals
   - Migrant labor
   - Mine safety and health
+  - Miners
+  - Mines
   - Minimum wages
   - Motor vehicle safety
   - Noise control
@@ -723,13 +876,18 @@ departments:
   - Research
   - Safety
   - Students
+  - Surety bonds
   - Surface mining
+  - Teachers
   - Television
+  - Transportation
   - Trusts and trustees
   - Underground mining
   - Wages
+  - Watches and jewelry
   - Water supply
   - Whistleblowing
+  - Workers' compensation
   name: Mine Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -830,11 +988,28 @@ departments:
       simple_highest_days: '4'
       simple_lowest_days: '4'
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '22.1'
+      complex_highest_days: '760'
+      complex_lowest_days: '1'
+      complex_median_days: '11'
+      expedited_processing_average_days: '316.2'
+      expedited_processing_highest_days: '710'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '376'
+    '2016':
+      complex_average_days: '22.7'
+      complex_highest_days: '595'
+      complex_lowest_days: less than 1
+      complex_median_days: '9'
+      expedited_processing_average_days: '208.9'
+      expedited_processing_highest_days: '854'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '50.5'
   service_center:
     phone:
     - 202-693-9424
   top_level: true
-  usa_id: '49462'
   website: http://www.msha.gov/READROOM/READROOM.HTM
 - address:
     address_lines:
@@ -846,7 +1021,7 @@ departments:
     street: 800 K Street
     zip: 20001-8002
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-7365
   name: Office of the Administrative Law Judges
   phone: 202-693-7348
@@ -946,6 +1121,32 @@ departments:
       simple_highest_days: '33'
       simple_lowest_days: '1'
       simple_median_days: '26'
+    '2015':
+      complex_average_days: '19.5'
+      complex_highest_days: '253'
+      complex_lowest_days: '1'
+      complex_median_days: '4'
+      expedited_processing_average_days: '1.5'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1.5'
+      simple_average_days: '13.3'
+      simple_highest_days: '212'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '17.6'
+      complex_highest_days: '142'
+      complex_lowest_days: '1'
+      complex_median_days: '6'
+      expedited_processing_average_days: '1.5'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1.5'
+      simple_average_days: '7.4'
+      simple_highest_days: '84'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 202-693-7440
@@ -961,7 +1162,7 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-7954
   name: Office of the Assistant Secretary for Administration and Management
   notes: This office has additional FOIA contact information that can be found by
@@ -1059,6 +1260,32 @@ departments:
       simple_highest_days: '140'
       simple_lowest_days: '4'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '50.7'
+      complex_highest_days: '576'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '5'
+      simple_average_days: '36.9'
+      simple_highest_days: '122'
+      simple_lowest_days: '3'
+      simple_median_days: '26.5'
+    '2016':
+      complex_average_days: '92.4'
+      complex_highest_days: '2230'
+      complex_lowest_days: less than 1
+      complex_median_days: '42'
+      expedited_processing_average_days: '33'
+      expedited_processing_highest_days: '36'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '33'
+      simple_average_days: '40.5'
+      simple_highest_days: '164'
+      simple_lowest_days: less than 1
+      simple_median_days: '21'
   service_center:
     phone:
     - 202-693-7126
@@ -1066,7 +1293,7 @@ departments:
   website: http://www.dol.gov/oasam/foia/
 - address:
     address_lines:
-    - Herman Narcho
+    - Marika Litras
     - FOIA Coordinator
     - Room N-2428
     city: Washington
@@ -1074,7 +1301,7 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-5538
   keywords:
   - Administrative practice and procedure
@@ -1097,6 +1324,9 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
+  reading_rooms:
+  - - Read Materials in the FOIA Reading Room
+    - https://www.dol.gov/ofccp/foia/foiareadingroom/index.html
   request_time_stats:
     '2009':
       complex_average_days: '29.8'
@@ -1176,6 +1406,32 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '48.3'
+      complex_highest_days: '550'
+      complex_lowest_days: '1'
+      complex_median_days: '23'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '13'
+      simple_average_days: '24.2'
+      simple_highest_days: '98'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '38.6'
+      complex_highest_days: '614'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      expedited_processing_average_days: '55'
+      expedited_processing_highest_days: '55'
+      expedited_processing_lowest_days: '55'
+      expedited_processing_median_days: '55'
+      simple_average_days: '22.4'
+      simple_highest_days: '135'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 202-693-5500
@@ -1183,7 +1439,7 @@ departments:
   website: http://www.dol.gov/ofccp/ofccp-foia.htm
 - address:
     address_lines:
-    - Montez Cobb
+    - Ebony Griffin
     - FOIA Coordinator
     - Suite N-5609
     city: Washington
@@ -1196,6 +1452,9 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Government contracts
+  - Government employees
+  - Grant administrations
+  - Grant programs-transportation
   - Insurance companies
   - Labor management relations
   - Labor unions
@@ -1289,6 +1548,28 @@ departments:
       simple_highest_days: '39'
       simple_lowest_days: '1'
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '39.1'
+      complex_highest_days: '320'
+      complex_lowest_days: '1'
+      complex_median_days: '26'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '4'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '14.6'
+      simple_highest_days: '28'
+      simple_lowest_days: '3'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '45'
+      complex_highest_days: '406'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      simple_average_days: '5.5'
+      simple_highest_days: '18'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 202-693-0112
@@ -1296,7 +1577,7 @@ departments:
   website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
 - address:
     address_lines:
-    - Yvonne Lynah
+    - Mia Day
     - FOIA Coordinator
     - Suite N-5609
     city: Washington
@@ -1308,25 +1589,61 @@ departments:
   fax: 202-693-1378
   keywords:
   - Administrative practice and procedure
+  - Agriculture
+  - Airmen
+  - Aliens
   - Black lung benefits
   - Cancer
   - Chemicals
+  - Child labor
   - Claims
+  - Clothing
+  - Construction industry
+  - Employee benefit plans
+  - Employment
+  - Government contracts
   - Government employees
+  - Government procurement
+  - Health
   - Health care
+  - Health insurance
   - Health professions
+  - Homeworkers
+  - Housing
+  - Housing standards
+  - Immigration
+  - Indians-arts and crafts
+  - Insurance
   - Insurance companies
+  - Intergovernmental relations
+  - Investigations
   - Kidney diseases
   - Labor
+  - Labor management relations
+  - Law enforcement
+  - Lie detector tests
   - Longshore and harbor workers
   - Lung diseases
+  - Maternal and child health
+  - Migrant labor
+  - Mine safety and health
   - Miners
+  - Mines
+  - Minimum wages
+  - Motor vehicle safety
+  - Occupational safety and health
   - Organization and functions (Government agencies)
+  - Penalties
   - Radioactive materials
   - Reporting and recordkeeping requirements
+  - Surety bonds
+  - Teachers
+  - Transportation
   - Underground mining
   - Uranium
   - Vocational rehabilitation
+  - Wages
+  - Watches and jewelry
   - Whistleblowing
   - Workers' compensation
   - X-rays
@@ -1338,6 +1655,9 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
+  reading_rooms:
+  - - FOIA Public Reading Room
+    - https://www.dol.gov/owcp/energy/regs/compliance/efoia.htm
   request_time_stats:
     '2009':
       complex_average_days: '25'
@@ -1413,6 +1733,32 @@ departments:
       simple_highest_days: '134'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '21.2'
+      complex_highest_days: '136'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '19.5'
+      simple_highest_days: '261'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '21.8'
+      complex_highest_days: '403'
+      complex_lowest_days: less than 1
+      complex_median_days: '14'
+      expedited_processing_average_days: '256'
+      expedited_processing_highest_days: '256'
+      expedited_processing_lowest_days: '256'
+      expedited_processing_median_days: '256'
+      simple_average_days: '17.6'
+      simple_highest_days: '252'
+      simple_lowest_days: less than 1
+      simple_median_days: '5.5'
   service_center:
     phone:
     - 202-693-0125
@@ -1526,13 +1872,34 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '182'
+      complex_highest_days: '558'
+      complex_lowest_days: '10'
+      complex_median_days: '162'
+      simple_average_days: '9'
+      simple_highest_days: '100'
+      simple_lowest_days: '0'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '327'
+      complex_highest_days: '901'
+      complex_lowest_days: '11'
+      complex_median_days: '378'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '19'
+      expedited_processing_median_days: '19'
+      simple_average_days: '12'
+      simple_highest_days: '111'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     phone:
     - 202-693-5116
   top_level: false
   website: http://www.oig.dol.gov/foia.htm
-- abbreviation: OSHA
-  address:
+- address:
     address_lines:
     - Christopher Durso
     - FOIA Officer
@@ -1541,55 +1908,83 @@ departments:
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
-  description: The Occupational Safety and Health Administration (OSHA) assures safe
-    and healthful working conditions for working men and women by setting and enforcing
-    standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
   - Administrative practice and procedure
   - Advisory committees
   - Agriculture
+  - Airmen
+  - Aliens
   - Asbestos
+  - Beryllium
+  - Black lung benefits
   - Blood
   - Blood diseases
   - Cancer
   - Chemicals
+  - Child labor
+  - Clothing
   - Confidential business information
   - Construction industry
   - Consumer protection
   - Diving
   - Electric power
+  - Employee benefit plans
   - Employment
   - Environmental protection
   - Explosives
   - Fire prevention
+  - Forests and forest products
   - Freedom of information
   - Freight
   - Gases
+  - Government contracts
   - Government employees
+  - Government procurement
   - Grant programs-labor
+  - HIV/AIDS
   - Hazardous substances
   - Health
   - Health care
   - Health facilities
+  - Health insurance
   - Health professions
   - Health records
   - Health statistics
   - Highway safety
+  - Homeworkers
   - Hospitals
+  - Housing
+  - Housing standards
+  - Immigration
+  - Indians-arts and crafts
+  - Insurance
   - Intergovernmental relations
   - Investigations
   - Labeling
+  - Labor
+  - Labor management relations
   - Laboratories
   - Law enforcement
+  - Lead
+  - Lead poisoning
+  - Lie detector tests
   - Longshore and harbor workers
+  - Lung diseases
   - Marine safety
   - Mass transportation
+  - Maternal and child health
+  - Migrant labor
+  - Mine safety and health
+  - Miners
+  - Mines
+  - Minimum wages
   - Motor carriers
   - Motor vehicle safety
   - National parks
   - Occupational Safety and Health Administration
   - Occupational safety and health
+  - Penalties
   - Pipeline safety
   - Pipelines
   - Privacy
@@ -1600,10 +1995,15 @@ departments:
   - Seamen
   - Signs and symbols
   - Small businesses
+  - Surety bonds
+  - Teachers
   - Technical assistance
   - Transportation
   - Vessels
+  - Wages
+  - Watches and jewelry
   - Whistleblowing
+  - Workers' compensation
   name: Occupational Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1704,11 +2104,36 @@ departments:
       simple_highest_days: '1426'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '30.8'
+      complex_highest_days: '1686'
+      complex_lowest_days: '1'
+      complex_median_days: '8'
+      expedited_processing_average_days: '9.7'
+      expedited_processing_highest_days: '56'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5.5'
+      simple_average_days: '20.1'
+      simple_highest_days: '2515'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '16.7'
+      complex_highest_days: '402'
+      complex_lowest_days: less than 1
+      complex_median_days: '7'
+      expedited_processing_average_days: '16.4'
+      expedited_processing_highest_days: '375'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '4'
+      simple_average_days: '13.5'
+      simple_highest_days: '705'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-693-2009
   top_level: true
-  usa_id: '48101'
   website: http://www.osha.gov/as/opa/foia/foia.html
 - address:
     address_lines:
@@ -1719,8 +2144,6 @@ departments:
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
-  description: VETS provides resources to prepare and assist veterans obtain meaningful
-    careers and maximize their employment opportunities.
   emails:
   - foiarequest@dol.gov
   fax: 202-693-4755
@@ -1829,31 +2252,59 @@ departments:
       simple_highest_days: '307'
       simple_lowest_days: '1'
       simple_median_days: '11.5'
+    '2015':
+      complex_average_days: '19.7'
+      complex_highest_days: '100'
+      complex_lowest_days: '1'
+      complex_median_days: '15'
+      expedited_processing_average_days: '14.8'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '14'
+      simple_average_days: '16.8'
+      simple_highest_days: '99'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2016':
+      complex_average_days: '17.3'
+      complex_highest_days: '181'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      expedited_processing_average_days: '13.7'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '13'
+      simple_average_days: '14.4'
+      simple_highest_days: '32'
+      simple_lowest_days: '2'
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-693-4700
   top_level: false
-  usa_id: '49730'
   website: http://www.dol.gov/vets/foia/
 - address:
     address_lines:
-    - 'FOIA: Wage and Hour Division'
-    - U. S. Department of Labor
+    - Michelle Moreno
+    - FOIA Coordinator
     - Room S-3201
     city: Washington
     state: DC
-    street: 200 Constitution Avenue, N.W.
+    street: 200 Constitution Avenue, NW
     zip: '20210'
   fax: 202-693-0637
   keywords:
   - Administrative practice and procedure
   - Agricultural commodities
   - Agriculture
+  - Airmen
   - Aliens
   - American Samoa
+  - Arts and crafts
   - Black lung benefits
   - Chemicals
   - Child labor
+  - Clothing
   - Coal
   - Colleges and universities
   - Communications equipment
@@ -1866,6 +2317,7 @@ departments:
   - Employment
   - Environmental impact statements
   - Explosives
+  - Federal buildings and facilities
   - Fire prevention
   - Firefighters
   - Foreign officials
@@ -1873,13 +2325,21 @@ departments:
   - Fraud
   - Gases
   - Government contracts
+  - Government employees
+  - Government procurement
+  - Grant programs
+  - Grant programs-education
   - Hazardous substances
   - Health
+  - Health care
   - Health insurance
   - Health professions
+  - Homeworkers
   - Housing
   - Housing standards
   - Immigration
+  - Indians-arts and crafts
+  - Individuals with disabilities
   - Insurance
   - Intergovernmental relations
   - Investigations
@@ -1888,29 +2348,42 @@ departments:
   - Labor management relations
   - Law enforcement
   - Law enforcement officers
+  - Lie detector tests
+  - Loan programs
+  - Longshore and harbor workers
+  - Manpower training programs
   - Maternal and child health
   - Metals
   - Migrant labor
   - Mine safety and health
+  - Miners
+  - Mines
   - Minimum wages
   - Motor vehicle safety
+  - National Foundation on Arts and Humanities
   - Noise control
   - Nursery stock
   - Occupational safety and health
   - Passports and visas
   - Penalties
+  - Prisons
   - Radiation protection
   - Radio
   - Reporting and recordkeeping requirements
   - Research
   - Students
+  - Surety bonds
   - Teachers
   - Television
   - Transportation
   - Trusts and trustees
+  - Vocational rehabilitation
+  - Volunteers
   - Wages
+  - Watches and jewelry
   - Water supply
   - Whistleblowing
+  - Workers' compensation
   name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1919,6 +2392,9 @@ departments:
     name: Thomas G. Hicks, Sr.
     phone:
     - 202-693-5427
+  reading_rooms:
+  - - Department of Labor FOIA Reading Room
+    - https://www.dol.gov/general/foia
   request_time_stats:
     '2009':
       complex_average_days: '53'
@@ -1998,13 +2474,38 @@ departments:
       simple_highest_days: '332'
       simple_lowest_days: '1'
       simple_median_days: '16'
+    '2015':
+      complex_average_days: '57'
+      complex_highest_days: '1833'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '17.1'
+      expedited_processing_highest_days: '85'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '7'
+      simple_average_days: '50.7'
+      simple_highest_days: '2148'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '36.3'
+      complex_highest_days: '1479'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      expedited_processing_average_days: '9.4'
+      expedited_processing_highest_days: '59'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6.5'
+      simple_average_days: '42.6'
+      simple_highest_days: '1509'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 202-693-1350
   top_level: false
   website: http://www.dol.gov/whd/foia/
-- abbreviation: Labor Department
-  address:
+- address:
     address_lines:
     - Cheryl Edwards
     - FOIA Coordinator
@@ -2013,10 +2514,8 @@ departments:
     state: DC
     street: 200 Constitution Avenue, NW
     zip: '20210'
-  description: The Department of Labor's Women's Bureau works to safeguard the interests
-    of working women, advocates for equality, and promotes quality work environments.
   emails:
-  - foiarequests@dol.gov
+  - foiarequest@dol.gov
   fax: 202-693-6746
   name: Women's Bureau
   phone: 202-693-6735
@@ -2112,18 +2611,35 @@ departments:
       simple_highest_days: '208'
       simple_lowest_days: '24'
       simple_median_days: '137'
+    '2015':
+      complex_average_days: '92'
+      complex_highest_days: '165'
+      complex_lowest_days: '19'
+      complex_median_days: '92'
+      simple_average_days: '35.5'
+      simple_highest_days: '114'
+      simple_lowest_days: '8'
+      simple_median_days: '24'
+    '2016':
+      complex_average_days: '92.5'
+      complex_highest_days: '130'
+      complex_lowest_days: '4'
+      complex_median_days: '109'
+      simple_average_days: '54'
+      simple_highest_days: '142'
+      simple_lowest_days: '7'
+      simple_median_days: '23'
   service_center:
     phone:
     - 202-693-6735
   top_level: false
-  usa_id: '49748'
   website: http://www.dol.gov/wb/e-foia.htm
-description: The Department of Labor administers a variety of federal labor laws to
-  guarantee workers' rights to fair, safe, and healthy working conditions, including
-  minimum hourly wage and overtime pay, protection against employment discrimination,
-  and unemployment insurance.
+description: The Department's mission is to foster, promote, and develop the welfare
+  of the wage earners, job seekers, and retirees of the United States; improve working
+  conditions; advance opportunities for profitable employment; and assure work-related
+  benefits and rights.
 emails:
-- foiarequests@dol.gov
+- foiarequest@dol.gov
 fax: 202-693-5389
 keywords:
 - Accountants
@@ -2133,13 +2649,20 @@ keywords:
 - Advertising
 - Advisory committees
 - Aged
+- Agency for International Development
 - Agricultural commodities
 - Agriculture
+- Airmen
 - Airports
+- Alaska
+- Alcohol abuse
+- Alcoholism
 - Aliens
 - American Samoa
+- Arts and crafts
 - Asbestos
 - Australia
+- Beryllium
 - Black lung benefits
 - Blind
 - Blood
@@ -2156,20 +2679,29 @@ keywords:
 - Civil rights
 - Claims
 - Classified information
+- Clothing
 - Coal
 - Colleges and universities
 - Communications
 - Communications equipment
 - Community development
+- Community development block grants
 - Confidential business information
+- Conflict of interests
 - Construction industry
 - Consumer protection
 - Copyright
 - Courts
 - Credit
+- Crime
 - Cultural exchange programs
+- Day care
+- Dental health
+- Disability benefits
 - Disaster assistance
 - Diving
+- Drug abuse
+- Economic statistics
 - Education
 - Education of disadvantaged
 - Education of individuals with disabilities
@@ -2181,10 +2713,12 @@ keywords:
 - Electric utilities
 - Elementary and secondary education
 - Emergency medical services
+- Employee Benefits Security Administration
 - Employee benefit plans
 - Employment
 - Employment and Training Administration
 - Employment taxes
+- Energy conservation
 - Environmental impact statements
 - Environmental protection
 - Equal access to justice
@@ -2196,7 +2730,9 @@ keywords:
 - Federally affected areas
 - Fire prevention
 - Firefighters
+- Foreign aid
 - Foreign officials
+- Foreign relations
 - Forests and forest products
 - Fraud
 - Freedom of information
@@ -2206,20 +2742,29 @@ keywords:
 - Government employees
 - Government procurement
 - Government property management
+- Grant administrations
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
 - Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-labor
 - Grant programs-social programs
+- Grant programs-transportation
+- Grant programs-veterans
 - Guam
+- HIV/AIDS
 - Hawaiian Natives
 - Hazardous substances
 - Health
 - Health care
 - Health facilities
 - Health insurance
+- Health maintenance organizations (HMO)
 - Health professions
 - Health records
 - Health statistics
@@ -2227,6 +2772,7 @@ keywords:
 - Highways and roads
 - Home improvement
 - Homeless
+- Homeworkers
 - Hospitals
 - Hostages
 - Housing
@@ -2236,7 +2782,9 @@ keywords:
 - Income taxes
 - Indemnity payments
 - Indians
+- Indians-arts and crafts
 - Indians-education
+- Indians-lands
 - Individuals with disabilities
 - Insurance
 - Insurance companies
@@ -2247,6 +2795,7 @@ keywords:
 - Investments
 - Iraq
 - Irrigation
+- Job Corps
 - Kidney diseases
 - Kuwait
 - Labeling
@@ -2257,7 +2806,10 @@ keywords:
 - Law enforcement
 - Law enforcement officers
 - Lawyers
+- Lead
+- Lead poisoning
 - Lebanon
+- Lie detector tests
 - Loan programs
 - Loan programs-agriculture
 - Loan programs-business
@@ -2265,14 +2817,19 @@ keywords:
 - Loan programs-energy
 - Loan programs-health
 - Loan programs-housing and community development
+- Loan programs-social programs
 - Lobbying
 - Longshore and harbor workers
+- Low and moderate income housing
 - Lung diseases
+- Manpower
 - Manpower training programs
 - Marine safety
 - Mass transportation
 - Maternal and child health
 - Medicaid
+- Medicare
+- Mental health programs
 - Metals
 - Migrant labor
 - Mine safety and health
@@ -2283,6 +2840,7 @@ keywords:
 - Mortgages
 - Motor carriers
 - Motor vehicle safety
+- National Foundation on Arts and Humanities
 - National parks
 - Noise control
 - Nonprofit organizations
@@ -2294,17 +2852,22 @@ keywords:
 - Pacific Islands Trust Territory
 - Passports and visas
 - Penalties
+- Pets
 - Pipeline safety
 - Pipelines
+- Prisons
 - Privacy
 - Private schools
 - Public assistance programs
+- Public housing
+- Puerto Rico
 - Radiation protection
 - Radio
 - Radioactive materials
 - Railroads
 - Religious discrimination
 - Relocation assistance
+- Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Retirement
@@ -2316,14 +2879,17 @@ keywords:
 - Science and technology
 - Seamen
 - Securities
+- Seizures and forfeitures
 - Sex discrimination
 - Signs and symbols
 - Small businesses
+- Social security
 - State and local governments
 - Statistics
 - Student aid
 - Students
 - Sunshine Act
+- Supplemental Security Income (SSI)
 - Surety bonds
 - Surface mining
 - Teachers
@@ -2333,6 +2899,7 @@ keywords:
 - Television
 - Trade adjustment assistance
 - Transportation
+- Travel and transportation expenses
 - Trusts and trustees
 - Underground mining
 - Unemployment compensation
@@ -2343,8 +2910,10 @@ keywords:
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Volunteers
 - Wages
 - Waste treatment and disposal
+- Watches and jewelry
 - Water pollution control
 - Water resources
 - Water supply
@@ -2360,13 +2929,9 @@ public_liaison:
   name: Thomas G. Hicks, Sr.
   phone:
   - 202-693-5427
-reading_rooms:
-- - DOL-Wide FOIA Reading Room
-  - http://www.dol.gov/dol/foia/readroom.htm
 service_center:
   name: Ramona Branch Oliver
   phone:
   - 202-693-5391
 top_level: false
-usa_id: '49028'
 website: http://www.dol.gov/dol/foia/main.htm

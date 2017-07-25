@@ -8,10 +8,6 @@ departments:
     state: DC
     street: 811 Vermont Avenue, NW
     zip: '20571'
-  description: An independent federal agency, the Export-Import Bank assists American
-    businesses export their goods by providing financial assistance in the form of
-    loans, loan guarantees and insurance. The focus of the Export-Import Bank is on
-    assisting small businesses.
   emails:
   - foia@exim.gov
   fax: 202-565-3294
@@ -26,7 +22,7 @@ departments:
     name: Lennell C. Jackson
     phone:
     - 202-565-3290
-  request_form: http://www.exim.gov/about/library/foia/foia-request-form.cfm
+  request_form: http://www.exim.gov/about/foia/foia-request-form
   request_time_stats:
     '2008':
       complex_average_days: '118'
@@ -45,12 +41,10 @@ departments:
     phone:
     - 202-565-3290
   top_level: false
-  usa_id: '52603'
-  website: http://www.exim.gov/about/disclosure/foia.cfm
-description: An independent federal agency, the Export-Import Bank assists American
-  businesses export their goods by providing financial assistance in the form of loans,
-  loan guarantees and insurance. The focus of the Export-Import Bank is on assisting
-  small businesses.
+  website: http://www.exim.gov/about/foia
+description: The Export-Import Bank of the United States (Ex-Im Bank) is the official
+  export credit agency of the United States. Ex-Im Bank's mission is to assist in
+  financing the export of U.S. goods and services to international markets.
 keywords:
 - Administrative practice and procedure
 - Classified information
@@ -143,4 +137,21 @@ request_time_stats:
     simple_highest_days: '339'
     simple_lowest_days: '2'
     simple_median_days: '54'
-usa_id: '52603'
+  '2015':
+    complex_average_days: '275.02'
+    complex_highest_days: '908'
+    complex_lowest_days: '15'
+    complex_median_days: '112'
+    simple_average_days: '68.2'
+    simple_highest_days: '702'
+    simple_lowest_days: less than 1
+    simple_median_days: '24'
+  '2016':
+    complex_average_days: '136.22'
+    complex_highest_days: '526'
+    complex_lowest_days: '1'
+    complex_median_days: '78'
+    simple_average_days: '26.3'
+    simple_highest_days: '320'
+    simple_lowest_days: less than 1
+    simple_median_days: '11.5'

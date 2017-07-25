@@ -6,13 +6,10 @@ departments:
     - Chief FOIA Officer
     city: Washington
     state: DC
-    street: 2100 K Street, NW
+    street: 250 E Street, SW
     zip: '20427'
-  description: The Federal Mediation and Conciliation Service is an independent agency
-    that provides mediation and other conflict resolution services for managing and
-    enhancing labor-management relationships.
   emails:
-  - foia@fmcs.gov
+  - mbartlett@fmcs.gov
   fax: 202-606-5345
   misc:
     Deputy General Counsel:
@@ -22,10 +19,10 @@ departments:
   name: Federal Mediation and Conciliation Service
   phone: 202-606-3737
   public_liaison:
-    name: Michael J. Bartlett
+    name: Ramona Buck
     phone:
-    - 202-606-3737
-  request_form: https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436
+    - 202-606-3678
+  request_form: https://www.fmcs.gov/resources/forms-applications/general-foia-request-form/
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -114,15 +111,29 @@ departments:
       simple_highest_days: '59'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '30'
+      complex_highest_days: '30'
+      complex_lowest_days: '30'
+      complex_median_days: '30'
+      simple_average_days: '12'
+      simple_highest_days: '63'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2016':
+      simple_average_days: '41'
+      simple_highest_days: '608'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
   service_center:
     phone:
     - 202-606-5444
   top_level: false
-  usa_id: '49312'
   website: http://www.fmcs.gov/internet/itemDetailNoNav.asp?categoryID=90&itemID=16303
-description: The Federal Mediation and Conciliation Service is an independent agency
-  that provides mediation and other conflict resolution services for managing and
-  enhancing labor-management relationships.
+description: The Agency helps build better relationships through joint problem-solving
+  and constructive responses to inevitable conflict. In turn, this improves the ability
+  of organizations to create value for customers, shareholders and employees alike,
+  and substantially benefits the national economy.
 keywords:
 - Administrative practice and procedure
 - Freedom of information
@@ -226,4 +237,17 @@ request_time_stats:
     simple_highest_days: '59'
     simple_lowest_days: less than 1
     simple_median_days: '2'
-usa_id: '49312'
+  '2015':
+    complex_average_days: '30'
+    complex_highest_days: '30'
+    complex_lowest_days: '30'
+    complex_median_days: '30'
+    simple_average_days: '12'
+    simple_highest_days: '63'
+    simple_lowest_days: '1'
+    simple_median_days: '10'
+  '2016':
+    simple_average_days: '41'
+    simple_highest_days: '608'
+    simple_lowest_days: less than 1
+    simple_median_days: '11'

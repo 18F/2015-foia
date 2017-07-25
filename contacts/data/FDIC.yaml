@@ -1,7 +1,6 @@
 abbreviation: FDIC
 departments:
-- abbreviation: FDIC
-  address:
+- address:
     address_lines:
     - FOIA Contact
     - Legal Division, FOIA/PA Group
@@ -9,9 +8,6 @@ departments:
     state: DC
     street: 550 17th Street, NW
     zip: '20429'
-  description: FDIC responds to questions about federal deposit insurance coverage
-    and handles complaints and inquiries about FDIC-insured state banks which are
-    not members of the Federal Reserve System.
   emails:
   - efoia@fdic.gov
   fax: 703-562-2797
@@ -23,13 +19,13 @@ departments:
   name: Federal Deposit Insurance Corporation
   phone: 202-898-7021
   public_liaison:
-    name: Cottrell L. Webster
+    name: Gordon Talbot
     phone:
-    - 703-562-6040
+    - 703-562-6046
   reading_rooms:
   - - Reading Room
     - https://www.fdic.gov/about/freedom/readingroom.html
-  request_form: https://efoiarequest.fdic.gov/palMain.aspx
+  request_form: https://efoiarequest.fdic.gov/palMain.aspx?protocol=https
   request_time_stats:
     '2008':
       complex_average_days: '15'
@@ -122,15 +118,42 @@ departments:
       simple_highest_days: '42'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '29.74'
+      complex_highest_days: '114'
+      complex_lowest_days: '2'
+      complex_median_days: '26'
+      expedited_processing_average_days: '18.2'
+      expedited_processing_highest_days: '49'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '17.5'
+      simple_average_days: '19.78'
+      simple_highest_days: '105'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '36.79'
+      complex_highest_days: '332'
+      complex_lowest_days: less than 1
+      complex_median_days: '27'
+      expedited_processing_average_days: '23.1'
+      expedited_processing_highest_days: '118'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '15'
+      simple_average_days: '14.11'
+      simple_highest_days: '114'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 202-898-7021
   top_level: false
-  usa_id: '49043'
-  website: https://www.fdic.gov/about/freedom/
-description: FDIC responds to questions about federal deposit insurance coverage and
-  handles complaints and inquiries about FDIC-insured state banks which are not members
-  of the Federal Reserve System.
+  website: http://www.fdic.gov/about/freedom/index.html
+description: "The Federal Deposit Insurance Corporation (FDIC) is an independent agency\
+  \ created by the Congress to maintain stability and public confidence in the nation's\
+  \ financial system by \ninsuring deposits, \nexamining and supervising financial\
+  \ institutions for safety and soundness and consumer protection, and \nmanaging\
+  \ receiverships."
 keywords:
 - Accountants
 - Accounting
@@ -141,6 +164,7 @@ keywords:
 - Antitrust
 - Authority delegations (Government agencies)
 - Bank deposit insurance
+- Bankruptcy
 - Banks, banking
 - Brokers
 - Business and industry
@@ -151,6 +175,7 @@ keywords:
 - Confidential business information
 - Conflict of interests
 - Consumer protection
+- Cooperatives
 - Credit
 - Credit unions
 - Crime
@@ -161,10 +186,13 @@ keywords:
 - Ethics
 - Exports
 - Fair housing
+- Federal Deposit Insurance Corporation
 - Federal Reserve System
+- Federal buildings and facilities
 - Flood insurance
 - Foreign banking
 - Foreign currencies
+- Foreign investments in United States
 - Foreign trade
 - Fraud
 - Freedom of information
@@ -299,4 +327,29 @@ request_time_stats:
     simple_highest_days: '42'
     simple_lowest_days: less than 1
     simple_median_days: '4'
-usa_id: '49043'
+  '2015':
+    complex_average_days: '29.74'
+    complex_highest_days: '114'
+    complex_lowest_days: '2'
+    complex_median_days: '26'
+    expedited_processing_average_days: '18.2'
+    expedited_processing_highest_days: '49'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '17.5'
+    simple_average_days: '19.78'
+    simple_highest_days: '105'
+    simple_lowest_days: less than 1
+    simple_median_days: '18'
+  '2016':
+    complex_average_days: '36.79'
+    complex_highest_days: '332'
+    complex_lowest_days: less than 1
+    complex_median_days: '27'
+    expedited_processing_average_days: '23.1'
+    expedited_processing_highest_days: '118'
+    expedited_processing_lowest_days: '4'
+    expedited_processing_median_days: '15'
+    simple_average_days: '14.11'
+    simple_highest_days: '114'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'

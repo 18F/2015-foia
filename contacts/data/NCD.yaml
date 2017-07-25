@@ -1,0 +1,45 @@
+abbreviation: NCD
+departments:
+- address:
+    address_lines:
+    - FOIA Officer
+    - '850'
+    city: Washington
+    state: DC
+    street: 1331 F St. NW.
+    zip: '20004'
+  emails:
+  - FOIA@NCD.gov
+  foia_officer:
+    phone:
+    - 202-272-2008
+  name: National Council on Disability
+  phone: 202-272-2004
+  public_liaison:
+    name: Amy Nicholas
+    phone:
+    - 202-272-2008
+  request_time_stats:
+    '2016':
+      simple_average_days: '10'
+      simple_highest_days: '10'
+      simple_lowest_days: '10'
+      simple_median_days: '10'
+  top_level: false
+description: NCD is an independent federal agency charged with advising the President,
+  Congress, and other federal agencies regarding policies, programs, practices, and
+  procedures that affect people with disabilities. NCD is comprised of a team of Presidential
+  and Congressional appointees, an Executive Director appointed by the Chair, and
+  a full-time professional staff.
+keywords:
+- Administrative practice and procedure
+- Confidential business information
+- Freedom of information
+- Privacy
+name: National Council on Disability
+request_time_stats:
+  '2016':
+    simple_average_days: '10'
+    simple_highest_days: '10'
+    simple_lowest_days: '10'
+    simple_median_days: '10'

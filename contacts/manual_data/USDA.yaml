@@ -1,27 +1,16 @@
 departments:
 - name: Foreign Agricultural Service
-  emails:
-  - Rochelle.Foster@fas.usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
-  website: http://www.fas.usda.gov/freedom-information-act-foia
 - name: Research, Education & Economics
-  website: http://www.ars.usda.gov/is/foia/foiaform.htm
+  request_form: http://www.ars.usda.gov/is/foia/foiaform.htm
 - name: National Finance Center
-  public_liaison:
-    name: Shri Alsobrook, Sandy Francois
-    phone:
-      - 504-426-0327
   request_form: https://efoia-pal.usda.gov/palMain.aspx
   website: https://www.nfc.usda.gov/FOIA/FOIA_home.html
-- name: Agricultural Marketing Service
-  website: ''
 - name: Animal & Plant Health Inspection
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Food, Nutrition & Consumer Services
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Food Safety & Inspection Service
-  emails:
-  - fsis.foia@usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Grain Inspection, Packers & Stockyards Administration
   request_form: https://efoia-pal.usda.gov/palMain.aspx
@@ -36,8 +25,6 @@ departments:
 - name: Office of the Chief Information Officer
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Office of Civil Rights
-  emails:
-  - ascrfoia@ascr.usda.gov
   request_form: https://efoia-pal.usda.gov/palMain.aspx
 - name: Risk Management Agency
   request_form: https://efoia-pal.usda.gov/palMain.aspx

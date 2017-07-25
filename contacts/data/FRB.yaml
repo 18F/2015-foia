@@ -1,36 +1,36 @@
 abbreviation: FRB
 departments:
 - address:
-    address_lines:
-    - Jeanne McLaughlin
-    - FOIA Manager
     city: Washington
     state: DC
     street: 20th & Constitution Avenue, NW
     zip: '20551'
-  description: The Federal Reserve is the central bank of the United States. It formulates
-    and administers credit and monetary policy.
   emails:
   - foirequests@frb.gov
-  fax: 202-872-7565
+  fax: 202-452-3684
+  foia_officer:
+    name: Federal Reserve System
   misc:
     FOIA Manager:
       name: Jeanne McLaughlin
       phone:
       - 202-452-3648
+    Jeanne McLaughlin:
+      name: Federal Reserve System
   name: Federal Reserve System
-  phone: 202-452-3684
+  notes: http://www.federalreserve.gov/generalinfo/foia/EFOIA/EFOIAForm.cfm
+  phone: 202-452-3236
   public_liaison:
     name: Jeanne McLaughlin
     phone:
-    - 202-452-2407
+    - 202-452-3236
   reading_rooms:
   - - Reading Rooms
-    - http://www.federalreserve.gov/foia/readingrooms.htm
+    - https://www.federalreserve.gov/foia/readingrooms.htm
   - - conventional reading room
-    - http://www.federalreserve.gov/foia/readingrooms.htm#rr3
+    - https://www.federalreserve.gov/foia/readingrooms.htm#rr3
   - - electronic reading room
-    - http://www.federalreserve.gov/foia/readingrooms.htm#rr1
+    - https://www.federalreserve.gov/foia/readingrooms.htm#rr1
   request_form: http://www.federalreserve.gov/forms/efoiaform.aspx
   request_time_stats:
     '2008':
@@ -124,14 +124,36 @@ departments:
       simple_highest_days: '213'
       simple_lowest_days: '1'
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '45'
+      complex_highest_days: '388'
+      complex_lowest_days: '1'
+      complex_median_days: '27'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '36'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '19'
+      simple_average_days: '9'
+      simple_highest_days: '180'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '57'
+      complex_highest_days: '402'
+      complex_lowest_days: '1'
+      complex_median_days: '33'
+      simple_average_days: '9'
+      simple_highest_days: '258'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
-    - 202-452-3684
+    - 202-452-3648
   top_level: false
-  usa_id: '49046'
-  website: http://www.federalreserve.gov/foia/about_foia.htm
-description: The Federal Reserve is the central bank of the United States. It formulates
-  and administers credit and monetary policy.
+  website: http://www.federalreserve.gov/generalinfo/foia/default.cfm
+description: The Federal Reserve System is the central bank of the United States.
+  It was founded by Congress in 1913 to provide the nation with a safer, more flexible,
+  and more stable monetary and financial system.
 keywords:
 - Accountants
 - Accounting
@@ -152,15 +174,19 @@ keywords:
 - Confidential business information
 - Conflict of interests
 - Consumer protection
+- Cooperatives
 - Credit
 - Credit unions
 - Crime
 - Currency
+- Decorations, medals, awards
 - Electronic funds transfers
 - Equal access to justice
 - Equal employment opportunity
 - Ethics
 - Exports
+- Fair housing
+- Federal Deposit Insurance Corporation
 - Federal Open Market Committee
 - Federal Reserve System
 - Federal buildings and facilities
@@ -182,11 +208,13 @@ keywords:
 - Investigations
 - Investment companies
 - Investments
+- Labor management relations
 - Law enforcement
 - Lawyers
 - Loan programs-housing and community development
 - Manufactured homes
 - Marital status discrimination
+- Minority businesses
 - Mortgages
 - National banks
 - Nonprofit organizations
@@ -208,6 +236,7 @@ keywords:
 - Truth in savings
 - United States investments abroad
 - Wages
+- Women
 name: Federal Reserve System
 request_time_stats:
   '2008':
@@ -301,4 +330,25 @@ request_time_stats:
     simple_highest_days: '213'
     simple_lowest_days: '1'
     simple_median_days: '4'
-usa_id: '49046'
+  '2015':
+    complex_average_days: '45'
+    complex_highest_days: '388'
+    complex_lowest_days: '1'
+    complex_median_days: '27'
+    expedited_processing_average_days: '20'
+    expedited_processing_highest_days: '36'
+    expedited_processing_lowest_days: '6'
+    expedited_processing_median_days: '19'
+    simple_average_days: '9'
+    simple_highest_days: '180'
+    simple_lowest_days: '1'
+    simple_median_days: '4'
+  '2016':
+    complex_average_days: '57'
+    complex_highest_days: '402'
+    complex_lowest_days: '1'
+    complex_median_days: '33'
+    simple_average_days: '9'
+    simple_highest_days: '258'
+    simple_lowest_days: '1'
+    simple_median_days: '4'

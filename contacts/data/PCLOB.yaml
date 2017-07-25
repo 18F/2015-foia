@@ -2,18 +2,20 @@ abbreviation: PCLOB
 departments:
 - address:
     address_lines:
+    - Mason Clutter
     - FOIA Contact
-    - Suite 500
+    - 2C104
     city: Washington
     state: DC
-    street: 2100 K Street, NW
-    zip: '20427'
+    street: MS2
+    zip: '20511'
   emails:
   - foia@pclob.gov
   fax: 202-296-4395
   name: Privacy and Civil Liberties Oversight Board
   phone: 202-331-1986
   public_liaison:
+    name: Eric Broxmeyer
     phone:
     - 202-331-1986
   request_time_stats:
@@ -26,7 +28,18 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '12'
       simple_median_days: '12.5'
+    '2015':
+      simple_average_days: '20.58'
+      simple_highest_days: '200'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      simple_average_days: '11.125'
+      simple_highest_days: '18'
+      simple_lowest_days: '2'
+      simple_median_days: '11.5'
   service_center:
+    name: Mason Clutter
     phone:
     - 202-331-1986
   top_level: false
@@ -47,7 +60,6 @@ keywords:
 - Freedom of information
 - Organization and functions (Government agencies)
 - Privacy
-- Reporting and recordkeeping requirements
 name: Privacy and Civil Liberties Oversight Board
 reading_rooms:
 - - Document Library
@@ -62,3 +74,13 @@ request_time_stats:
     simple_highest_days: '13'
     simple_lowest_days: '12'
     simple_median_days: '12.5'
+  '2015':
+    simple_average_days: '20.58'
+    simple_highest_days: '200'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2016':
+    simple_average_days: '11.125'
+    simple_highest_days: '18'
+    simple_lowest_days: '2'
+    simple_median_days: '11.5'

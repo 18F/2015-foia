@@ -74,13 +74,23 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      simple_average_days: '2.13'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      simple_average_days: '1.58'
+      simple_highest_days: '7'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 928-779-2727 x145
   top_level: false
   website: http://onhir.gov/
 description: The Office of Navajo and Hopi Indian Relocation (ONHIR) was established
-  by Congress to implement the settlement of a land conflict between the Navajo and
+  by Congress to implement the settlement of  a land conflict between the Navajo and
   Hopi Indian Tribes.
 name: Office of Navajo and Hopi Indian Relocation
 request_time_stats:
@@ -132,5 +142,15 @@ request_time_stats:
   '2014':
     simple_average_days: '2.39'
     simple_highest_days: '16'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2015':
+    simple_average_days: '2.13'
+    simple_highest_days: '14'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2016':
+    simple_average_days: '1.58'
+    simple_highest_days: '7'
     simple_lowest_days: '1'
     simple_median_days: '1'

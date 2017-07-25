@@ -35,7 +35,7 @@ departments:
     - 301-837-2024
   reading_rooms:
   - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
+    - https://www.archives.gov/foia/electronic-reading-room
   service_center:
     phone:
     - 301-837-3642
@@ -64,7 +64,7 @@ departments:
     - 301-837-3197
   reading_rooms:
   - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
+    - https://www.archives.gov/foia/electronic-reading-room
   service_center:
     phone:
     - 301-837-3000
@@ -72,7 +72,7 @@ departments:
   website: http://www.archives.gov/foia/index.html
 - address:
     address_lines:
-    - FOIA Contact
+    - Martha W. Murphy
     - Special Access and FOIA Staff (RD-F)
     - Room 5500
     city: College Park
@@ -95,7 +95,7 @@ departments:
     - 301-837-1931
   reading_rooms:
   - - Electronic (FOIA) Reading Room
-    - http://www.archives.gov/foia/electronic-reading-room.html
+    - https://www.archives.gov/foia/electronic-reading-room
   service_center:
     phone:
     - 301-837-3190
@@ -103,6 +103,7 @@ departments:
   website: http://www.archives.gov/foia/index.html
 - address:
     address_lines:
+    - Rob Richards
     - Director
     city: Morrow
     state: GA
@@ -114,7 +115,7 @@ departments:
   name: National Archives at Atlanta
   phone: 770-968-2100
   public_liaison:
-    name: Rob Richards
+    name: Michael Moore
     phone:
     - 770-968-2485
   service_center:
@@ -124,6 +125,7 @@ departments:
   website: http://www.archives.gov/atlanta/
 - address:
     address_lines:
+    - Priscilla Foley
     - Director
     - Frederick C. Murphy Federal Center
     city: Waltham
@@ -136,7 +138,7 @@ departments:
   name: National Archives at Boston
   phone: 781-663-0130
   public_liaison:
-    name: Priscilla Foley
+    name: Micheal Moore
     phone:
     - 781-663-0121
   service_center:
@@ -146,6 +148,7 @@ departments:
   website: http://www.archives.gov/boston/
 - address:
     address_lines:
+    - Douglas Bicknese
     - Director
     city: Chicago
     state: IL
@@ -157,7 +160,7 @@ departments:
   name: National Archives at Chicago
   phone: 773-948-9001
   public_liaison:
-    name: Douglas Bicknese
+    name: Bryan McGraw
     phone:
     - 773-948-0009
   service_center:
@@ -167,6 +170,7 @@ departments:
   website: http://www.archives.gov/chicago/
 - address:
     address_lines:
+    - Eileen Bolger
     - Director
     city: Broomfield
     state: CO
@@ -178,7 +182,7 @@ departments:
   name: National Archives at Denver
   phone: 303-407-5740
   public_liaison:
-    name: Eileen Bolger
+    name: Bryan McGraw
     phone:
     - 303-604-4740
   service_center:
@@ -188,6 +192,7 @@ departments:
   website: http://www.archives.gov/denver/
 - address:
     address_lines:
+    - Meg Hacker
     - Director
     city: Fort Worth
     state: TX
@@ -199,7 +204,7 @@ departments:
   name: National Archives at Fort Worth
   phone: 817-831-5620
   public_liaison:
-    name: Meg Hacker
+    name: Bryan McGraw
     phone:
     - 917-831-5643
   service_center:
@@ -209,6 +214,7 @@ departments:
   website: http://www.archives.gov/fort-worth/
 - address:
     address_lines:
+    - Lori Cox-Paul
     - Director
     city: Kansas City
     state: MO
@@ -220,7 +226,7 @@ departments:
   name: National Archives at Kansas City
   phone: 816-268-8000
   public_liaison:
-    name: Lori Cox-Paul
+    name: Bryan McGraw
     phone:
     - 816-268-8017
   service_center:
@@ -230,49 +236,7 @@ departments:
   website: http://www.archives.gov/kansas-city/
 - address:
     address_lines:
-    - Director
-    city: Lee's Summit
-    state: MO
-    street: 200 Space Center Drive
-    zip: 64064-1182
-  emails:
-  - LeesSummit.reference.nara
-  fax: 816-268-8160
-  name: National Archives at Lee's Summit
-  phone: 816-268-8100
-  public_liaison:
-    name: Dean Donovan
-    phone:
-    - 816-268-8141
-  service_center:
-    phone:
-    - 816-268-8100
-  top_level: false
-  website: http://www.archives.gov/frc/lees-summit/
-- address:
-    address_lines:
-    - Director
-    - Suites 3150 & 4748
-    city: Lenexa
-    state: MO
-    street: 17501 W. 98th
-    zip: '66219'
-  emails:
-  - kansascity.reference@nara.gov
-  fax: 913-563-7693
-  name: National Archives at Lenexa
-  phone: 913-563-7600
-  public_liaison:
-    name: Rosemarie Weisz
-    phone:
-    - 913-825-7809
-  service_center:
-    phone:
-    - 913-563-7605
-  top_level: false
-  website: http://www.archives.gov/frc/lenexa/
-- address:
-    address_lines:
+    - Chris Gushman
     - Director
     - 3rd Floor
     city: New York
@@ -285,7 +249,7 @@ departments:
   name: National Archives at New York City
   phone: 212-401-1620
   public_liaison:
-    name: Chris Gushman
+    name: Michael Moore
     phone:
     - 212-401-1625
   service_center:
@@ -295,6 +259,7 @@ departments:
   website: http://www.archives.gov/nyc/
 - address:
     address_lines:
+    - Leslie Simon
     - Director
     city: Philadelphia
     state: PA
@@ -306,7 +271,7 @@ departments:
   name: National Archives at Philadelphia
   phone: 215-305-2044
   public_liaison:
-    name: Leslie Simon
+    name: Micheal Moore
     phone:
     - 215-669-9303
   service_center:
@@ -316,6 +281,7 @@ departments:
   website: http://www.archives.gov/philadelphia/
 - address:
     address_lines:
+    - Gwen Granados
     - Director
     city: Perris
     state: CA
@@ -327,7 +293,7 @@ departments:
   name: National Archives at Riverside
   phone: 951-956-2000
   public_liaison:
-    name: Gwen Granados
+    name: Michael Moore
     phone:
     - 951-956-2040
   service_center:
@@ -337,6 +303,7 @@ departments:
   website: http://www.archives.gov/riverside/
 - address:
     address_lines:
+    - Stephanie Bayless
     - Director
     - Leo J. Ryan Memorial Federal Bldg
     city: San Bruno
@@ -349,7 +316,7 @@ departments:
   name: National Archives at San Francisco
   phone: 650-238-3501
   public_liaison:
-    name: Michelle Bradley
+    name: Michael Moore
     phone:
     - 650-238-3478
   service_center:
@@ -359,6 +326,7 @@ departments:
   website: http://www.archives.gov/san-francisco/
 - address:
     address_lines:
+    - Sue Karren
     - Director
     city: Seattle
     state: WA
@@ -370,7 +338,7 @@ departments:
   name: National Archives at Seattle
   phone: 206-336-5115
   public_liaison:
-    name: Sue Karren
+    name: Michael Moore
     phone:
     - 206-336-5141
   service_center:
@@ -378,9 +346,127 @@ departments:
     - 206-336-5115
   top_level: false
   website: http://www.archives.gov/seattle/
-description: The National Archives and Records Administration preserves U.S. government
-  records, manages the Presidential Libraries system, and publishes laws, regulations,
-  Presidential, and other public documents.
+- name: National Archives at St. Louis
+  public_liaison:
+    name: William Seibert
+    phone:
+    - 314-801-0909
+  top_level: false
+- address:
+    address_lines:
+    - Ira Permstein
+    - Supervisory Archivist
+    city: Simi Valley
+    state: CA
+    street: 40 Presidential Drive
+    zip: 93065-0699
+  emails:
+  - reagan.library@nara.gov
+  fax: 805-577-4074
+  misc:
+    Supervisory Archivist:
+      name: Ira Permstein
+      phone:
+      - 800-410-8354
+  name: Ronald Reagan Presidential Library
+  phone: 800-410-8354
+  public_liaison:
+    name: John Laster
+    phone:
+    - 202-357-5200
+  top_level: false
+- address:
+    address_lines:
+    - Deborah Wheeler
+    - Supervisory Archivist
+    city: West College Station
+    state: TX
+    street: 1000 George Bush Drive
+    zip: '77845'
+  emails:
+  - bush.library@nara.gov
+  fax: 979-691-4050
+  misc:
+    Supervisory Archivist:
+      name: Deborah Wheeler
+      phone:
+      - 979-691-4000
+  name: George Bush Presidential Library
+  phone: 979-691-4000
+  public_liaison:
+    name: John Laster
+    phone:
+    - 202-357-5200
+  top_level: false
+- address:
+    address_lines:
+    - Dana Simmons
+    - Supervisory Archivist
+    city: Little Rock
+    state: AR
+    street: 1200 President Clinton Avenue
+    zip: '72201'
+  emails:
+  - clinton.library@nara.gov
+  fax: 501-244-2883
+  misc:
+    Supervisory Archivist:
+      name: Dana Simmons
+      phone:
+      - 501-374-4242
+  name: William J. Clinton Presidential Library
+  phone: 501-374-4242
+  public_liaison:
+    name: John Laster
+    phone:
+    - 202-357-5200
+  top_level: false
+- address:
+    address_lines:
+    - Brooke Clement
+    - Supervisory Archivist
+    city: Dallas
+    state: TX
+    street: 2943 SMU Blvd
+    zip: 75205-2300
+  emails:
+  - gwbush.library@nara.gov
+  fax: 214-346-1699
+  misc:
+    Supervisory Archivist:
+      name: Brooke Clement
+      phone:
+      - 214-346-1650
+  name: George W. Bush Presidential Library
+  phone: 214-346-1650
+  public_liaison:
+    name: John Laster
+    phone:
+    - 202-357-5200
+  top_level: false
+- address:
+    address_lines:
+    - Stephannie Oriabure
+    - Archivist
+    - Room G-7
+    city: Washington
+    state: DC
+    street: 700 Pennsylvania Avenue, NW
+    zip: 20408-0001
+  emails:
+  - presidential.materials@nara.gov
+  fax: 202-357-5941
+  name: Presidential Materials Division
+  phone: 202-357-5200
+  public_liaison:
+    name: John Laster
+    phone:
+    - 202-357-5200
+  top_level: false
+  website: http://www.archives.gov/research/vice-presidential-records
+description: The National Archives and Records Administration serves American democracy
+  by safeguarding and preserving the records of our Government, ensuring that the
+  people can discover, use, and learn from this documentary heritage.
 emails:
 - foia@nara.gov
 fax: 301-837-0293
@@ -428,9 +514,12 @@ keywords:
 - Freedom of information
 - Government contracts
 - Government employees
+- Grant administrations
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -443,6 +532,7 @@ keywords:
 - Human research subjects
 - Indians
 - Indians-education
+- Indians-tribal government
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
@@ -454,6 +544,7 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -479,8 +570,10 @@ keywords:
 - Securities
 - Security measures
 - Sex discrimination
+- Small businesses
 - State and local governments
 - Student aid
+- Sunshine Act
 - Teachers
 - Telecommunications
 - Telephone
@@ -504,7 +597,7 @@ public_liaison:
   - 301-837-2024
 reading_rooms:
 - - Electronic (FOIA) Reading Room
-  - http://www.archives.gov/foia/electronic-reading-room.html
+  - https://www.archives.gov/foia/electronic-reading-room
 request_time_stats:
   '2008':
     complex_average_days: '480.45'
@@ -581,9 +674,34 @@ request_time_stats:
     simple_highest_days: '3894'
     simple_lowest_days: less than 1
     simple_median_days: '6'
+  '2015':
+    complex_average_days: '1126'
+    complex_highest_days: '5486'
+    complex_lowest_days: less than 1
+    complex_median_days: '452'
+    expedited_processing_average_days: '32.64'
+    expedited_processing_highest_days: '181'
+    expedited_processing_lowest_days: '5'
+    expedited_processing_median_days: '18'
+    simple_average_days: '26'
+    simple_highest_days: '4387'
+    simple_lowest_days: less than 1
+    simple_median_days: '8'
+  '2016':
+    complex_average_days: '1098.7'
+    complex_highest_days: '5707'
+    complex_lowest_days: less than 1
+    complex_median_days: '612'
+    expedited_processing_average_days: '45.13'
+    expedited_processing_highest_days: '171'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '10'
+    simple_average_days: '11.5'
+    simple_highest_days: '2578'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'
 service_center:
   phone:
   - 301-837-3642
 top_level: false
-usa_id: '49483'
 website: http://www.archives.gov/foia/index.html

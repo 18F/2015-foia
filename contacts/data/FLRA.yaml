@@ -1,12 +1,4 @@
 abbreviation: FLRA
-address:
-  address_lines:
-  - Fred B. Jacob
-  - Solicitor, Office of the Solicitor
-  city: Washington
-  state: DC
-  street: 1400 K Street, NW
-  zip: '20424'
 departments:
 - address:
     address_lines:
@@ -28,7 +20,7 @@ departments:
   phone: 202-218-7770
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   service_center:
     phone:
     - 202-218-7770
@@ -52,7 +44,7 @@ departments:
   phone: 202-218-7910
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '13'
@@ -113,6 +105,11 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '13'
       simple_median_days: '13'
+    '2016':
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-218-7910
@@ -126,7 +123,8 @@ departments:
     state: GA
     street: 285 Peachtree Center Avenue
     zip: 30303-1270
-  emails: []
+  emails:
+  - aromail@flra.gov
   fax: 404-331-5280
   misc:
     FOIA Contact:
@@ -136,7 +134,7 @@ departments:
   phone: 404-331-5300
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '10'
@@ -197,6 +195,16 @@ departments:
       simple_highest_days: '4'
       simple_lowest_days: '4'
       simple_median_days: '4'
+    '2015':
+      simple_average_days: '8.5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      simple_average_days: '2'
+      simple_highest_days: '2'
+      simple_lowest_days: '2'
+      simple_median_days: '2'
   service_center:
     phone:
     - 404-331-5300
@@ -221,7 +229,7 @@ departments:
   phone: 617-565-5100
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '8'
@@ -282,6 +290,16 @@ departments:
       simple_highest_days: '34'
       simple_lowest_days: '2'
       simple_median_days: '12'
+    '2015':
+      simple_average_days: '9.67'
+      simple_highest_days: '20'
+      simple_lowest_days: '3'
+      simple_median_days: '9'
+    '2016':
+      simple_average_days: '7.75'
+      simple_highest_days: '17'
+      simple_lowest_days: '1'
+      simple_median_days: '6.5'
   service_center:
     phone:
     - 617-565-5100
@@ -306,7 +324,7 @@ departments:
   phone: 312-886-3465
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '4'
@@ -386,7 +404,7 @@ departments:
   phone: 214-767-6266
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '7'
@@ -442,6 +460,16 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '13'
       simple_median_days: '14'
+    '2015':
+      simple_average_days: '10'
+      simple_highest_days: '15'
+      simple_lowest_days: '5'
+      simple_median_days: '10'
+    '2016':
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 214-767-6266
@@ -456,7 +484,7 @@ departments:
     street: 1244 Speer Boulevard
     zip: 80204-3581
   emails:
-  - deromail@flra.gov
+  - daromail@flra.gov
   fax: 303-844-2774
   misc:
     FOIA Contact:
@@ -466,7 +494,7 @@ departments:
   phone: 303-844-5226
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.flra.gov/elibrary
+    - https://www.flra.gov/elibrary
   request_time_stats:
     '2008':
       simple_average_days: '9'
@@ -536,7 +564,8 @@ departments:
     state: CA
     street: 901 Market Street
     zip: 94103-1791
-  emails: []
+  emails:
+  - sromail@flra.gov
   fax: 415-356-5017
   misc:
     FOIA Contact:
@@ -604,6 +633,11 @@ departments:
       simple_highest_days: '8'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      simple_average_days: '9.5'
+      simple_highest_days: '12'
+      simple_lowest_days: '7'
+      simple_median_days: '9.5'
   service_center:
     phone:
     - 415-356-5000
@@ -681,6 +715,16 @@ departments:
       simple_highest_days: '29'
       simple_lowest_days: '18'
       simple_median_days: '23.5'
+    '2015':
+      simple_average_days: '8'
+      simple_highest_days: '12'
+      simple_lowest_days: '4'
+      simple_median_days: '8'
+    '2016':
+      simple_average_days: '2'
+      simple_highest_days: '2'
+      simple_lowest_days: '2'
+      simple_median_days: '2'
   service_center:
     phone:
     - 202-482-6700
@@ -844,32 +888,51 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: '17'
       simple_median_days: '17'
+    '2015':
+      simple_average_days: '9.67'
+      simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 202-218-7770 x7744
     - 202-218-7970
   top_level: false
   website: http://www.flra.gov/foia_contact
-description: 'The Federal Labor Relations Authority is a quasi-judicial body that
-  manages relations between federal agencies and employees. '
-emails:
-- solmail@flra.gov
-fax: 202-343-1007
+- address:
+    address_lines:
+    - Fred B. Jacob
+    - Solicitor, Office of the Solicitor
+    city: Washington
+    state: DC
+    street: 1400 K Street, NW
+    zip: '20424'
+  emails:
+  - solmail@flra.gov
+  fax: 202-343-1007
+  name: The Authority, Office of the Solicitor
+  phone: 202-218-7770
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://www.flra.gov/elibrary
+  service_center:
+    phone:
+    - 202-218-7770
+  top_level: false
+  website: http://www.flra.gov/FOIA
+- name: The Authority, Office of Case Intake and Publication
+  top_level: false
+description: The FLRA exercises leadership under the Statute to promote stable, constructive
+  labor relations that contribute to a more effective and efficient Government.
 keywords:
 - Administrative practice and procedure
+- Claims
 - Conflict of interests
 - Equal access to justice
 - Government employees
 - Labor management relations
+- Wages
 name: Federal Labor Relations Authority
-phone: 202-218-7770
-public_liaison:
-  name: Gina Grippando
-  phone:
-  - 202-218-7776
-reading_rooms:
-- - Electronic Reading Room
-  - http://www.flra.gov/elibrary
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
 request_time_stats:
   '2008':
@@ -943,9 +1006,17 @@ request_time_stats:
     simple_highest_days: '34'
     simple_lowest_days: less than 1
     simple_median_days: '6'
-service_center:
-  phone:
-  - 202-218-7770
-top_level: false
-usa_id: '52613'
-website: http://www.flra.gov/FOIA
+  '2015':
+    simple_average_days: '9.24'
+    simple_highest_days: '20'
+    simple_lowest_days: less than 1
+    simple_median_days: '9'
+  '2016':
+    expedited_processing_average_days: '4.5'
+    expedited_processing_highest_days: '6'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '4.5'
+    simple_average_days: '8'
+    simple_highest_days: '22'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'

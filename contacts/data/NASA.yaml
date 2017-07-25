@@ -22,7 +22,7 @@ departments:
     name: Josephine Sibley
     phone:
     - 202-358-2462
-  request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2010':
       complex_average_days: '361.56'
@@ -77,6 +77,24 @@ departments:
       simple_highest_days: '39'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '27.88'
+      complex_highest_days: '98'
+      complex_lowest_days: '2'
+      complex_median_days: '22'
+      simple_average_days: '7.01'
+      simple_highest_days: '23'
+      simple_lowest_days: less than 1
+      simple_median_days: '5.5'
+    '2016':
+      complex_average_days: '29.14'
+      complex_highest_days: '67'
+      complex_lowest_days: less than 1
+      complex_median_days: '28'
+      simple_average_days: '8.06'
+      simple_highest_days: '27'
+      simple_lowest_days: less than 1
+      simple_median_days: '7.5'
   service_center:
     phone:
     - 202-358-2562
@@ -84,26 +102,27 @@ departments:
   website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
     address_lines:
-    - Lubna Shirazi
+    - Martha Terry
     - ARC FOIA Officer
-    city: Moffett Field
-    state: CA
-    street: MS 943-4
-    zip: 94035-1000
+    - Room 5Q14
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
-  - foia@arc.nasa.gov
-  fax: 650-604-0688
+  - foia@hq.nasa.gov
+  fax: 202-358-4332
   foia_officer:
     name: Lubna Shirazi
     phone:
     - 650-604-1138
   name: Ames Research Center
-  phone: 650-604-1138
+  phone: 202-358-2339
   public_liaison:
-    name: Lubna Shirazi
+    name: Martha Terry
     phone:
-    - 650-604-1138
-  request_form: http://socialforms.nasa.gov/foia
+    - 202-358-2339
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -172,29 +191,48 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '4.5'
+    '2015':
+      complex_average_days: '71.52'
+      complex_highest_days: '418'
+      complex_lowest_days: '6'
+      complex_median_days: '38'
+      simple_average_days: '1.5'
+      simple_highest_days: '2'
+      simple_lowest_days: '1'
+      simple_median_days: '1.5'
+    '2016':
+      complex_average_days: '28.67'
+      complex_highest_days: '72'
+      complex_lowest_days: '8'
+      complex_median_days: '21'
+      simple_average_days: '8.1'
+      simple_highest_days: '24'
+      simple_lowest_days: '2'
+      simple_median_days: '5'
   service_center:
     phone:
-    - 650-604-3273
+    - 202-358-2339
   top_level: false
-  website: http://www.nasa.gov/centers/ames/business/foia/index.html
+  website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
     address_lines:
-    - Kim Lewis-Bias
+    - Martha Terry
     - AFRC FOIA Officer
-    - Building 4839
-    city: Edwards
-    state: CA
-    street: 4800 Lily Drive
-    zip: '93523'
+    - Room 5Q14
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
-  - dfrc-foia@nasa.gov
-  fax: 661-276-3566
+  - foia@hq.nasa.gov
+  fax: 202-358-4332
   name: Armstrong Flight Research Center
-  phone: 661-276-2704
+  phone: 202-358-2339
   public_liaison:
-    name: Kim Lewis-Bias
+    name: Martha Terry
     phone:
-    - 661-276-2704
+    - 202-358-2339
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '35'
@@ -271,33 +309,52 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '24.57'
+      complex_highest_days: '38'
+      complex_lowest_days: '16'
+      complex_median_days: '21'
+      simple_average_days: '5'
+      simple_highest_days: '5'
+      simple_lowest_days: '5'
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '27.22'
+      complex_highest_days: '62'
+      complex_lowest_days: '2'
+      complex_median_days: '26'
+      simple_average_days: '8.8'
+      simple_highest_days: '38'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center:
     phone:
-    - 661-276-2704
+    - 202-358-2339
   top_level: false
-  website: http://www.nasa.gov/centers/dryden/about/FOIA/index.html
+  website: http://www.hq.nasa.gov/office/pao/FOIA/index.htm
 - address:
     address_lines:
-    - Jaclyn Facinelli
+    - Martha Terry
     - GRC FOIA Officer
-    city: Cleveland
-    state: OH
-    street: Mail Code 21-14
-    zip: '44135'
+    - Room 5Q14
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
-  - grc-foia@mail.nasa.gov
-  fax: 216-433-5489
+  - foia@hq.nasa.gov
+  fax: 202-358-4332
   foia_officer:
     name: Angela Pierce
     phone:
     - 216-443-2813
   name: Glenn Research Center
-  phone: 216-443-2315
+  phone: 202-358-2339
   public_liaison:
-    name: Jaclyn Facinelli
+    name: Martha Terry
     phone:
-    - 216-443-2315
-  request_form: http://socialforms.nasa.gov/foia
+    - 202-358-2339
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '23'
@@ -370,9 +427,23 @@ departments:
       simple_highest_days: '12'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2015':
+      simple_average_days: '5.67'
+      simple_highest_days: '14'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '16.67'
+      complex_highest_days: '46'
+      complex_lowest_days: less than 1
+      complex_median_days: '9.5'
+      simple_average_days: '22.5'
+      simple_highest_days: '34'
+      simple_lowest_days: '11'
+      simple_median_days: '22.5'
   service_center:
     phone:
-    - 216-443-2315
+    - 202-358-2339
   top_level: false
   website: http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm
 - address:
@@ -396,7 +467,7 @@ departments:
     name: Joan Belt
     phone:
     - 301-286-4271
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '82'
@@ -473,6 +544,24 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '20.53'
+      complex_highest_days: '87'
+      complex_lowest_days: '1'
+      complex_median_days: '18'
+      simple_average_days: '6.3'
+      simple_highest_days: '21'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '36.35'
+      complex_highest_days: '91'
+      complex_lowest_days: '4'
+      complex_median_days: '34'
+      simple_average_days: '12.45'
+      simple_highest_days: '59'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
     - 301-286-4271
@@ -503,7 +592,7 @@ departments:
     name: Dennis Mahon
     phone:
     - 818-393-6779
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -576,6 +665,24 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '10.29'
+      complex_highest_days: '30'
+      complex_lowest_days: less than 1
+      complex_median_days: '7'
+      simple_average_days: '2'
+      simple_highest_days: '2'
+      simple_lowest_days: '2'
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '20.57'
+      complex_highest_days: '29'
+      complex_lowest_days: '5'
+      complex_median_days: '24'
+      simple_average_days: '5'
+      simple_highest_days: '7'
+      simple_lowest_days: '3'
+      simple_median_days: '5'
   service_center:
     phone:
     - 818-393-6779
@@ -602,7 +709,7 @@ departments:
     name: Jessica Cordero
     phone:
     - 281-483-8252
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '75'
@@ -679,6 +786,24 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '25.97'
+      complex_highest_days: '265'
+      complex_lowest_days: less than 1
+      complex_median_days: '12'
+      simple_average_days: '7.47'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '42.09'
+      complex_highest_days: '198'
+      complex_lowest_days: '2'
+      complex_median_days: '23.5'
+      simple_average_days: '10.5'
+      simple_highest_days: '53'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
     - 281-483-8252
@@ -705,7 +830,7 @@ departments:
     name: Penny Myers
     phone:
     - 321-867-9280
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '25'
@@ -782,6 +907,24 @@ departments:
       simple_highest_days: '48'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '48.82'
+      complex_highest_days: '235'
+      complex_lowest_days: less than 1
+      complex_median_days: '35'
+      simple_average_days: '6'
+      simple_highest_days: '15'
+      simple_lowest_days: less than 1
+      simple_median_days: '5.5'
+    '2016':
+      complex_average_days: '35.74'
+      complex_highest_days: '105'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      simple_average_days: '0.67'
+      simple_highest_days: '2'
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
   service_center:
     phone:
     - 321-867-9280
@@ -809,6 +952,7 @@ departments:
     name: Carissa Wheeler
     phone:
     - 757-864-4274
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '377'
@@ -881,6 +1025,24 @@ departments:
       simple_highest_days: '9'
       simple_lowest_days: less than 1
       simple_median_days: '2.5'
+    '2015':
+      complex_average_days: '17.5'
+      complex_highest_days: '26'
+      complex_lowest_days: '6'
+      complex_median_days: '19.5'
+      simple_average_days: '2.2'
+      simple_highest_days: '5'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '30.5'
+      complex_highest_days: '62'
+      complex_lowest_days: '4'
+      complex_median_days: '28'
+      simple_average_days: '4.92'
+      simple_highest_days: '12'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 757-864-4274
@@ -906,7 +1068,7 @@ departments:
     name: Judi Hollingsworth
     phone:
     - 256-544-1837
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '37'
@@ -983,6 +1145,24 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '23.44'
+      complex_highest_days: '50'
+      complex_lowest_days: '2'
+      complex_median_days: '29'
+      simple_average_days: '9.03'
+      simple_highest_days: '21'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '28.75'
+      complex_highest_days: '59'
+      complex_lowest_days: '8'
+      complex_median_days: '24'
+      simple_average_days: '9.44'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center:
     phone:
     - 256-544-1837
@@ -1010,7 +1190,7 @@ departments:
     name: Frank LaRocca
     phone:
     - 202-358-2582
-  request_form: http://oig.nasa.gov/FOIA_request_electronic.html
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1075,6 +1255,28 @@ departments:
       simple_highest_days: '23'
       simple_lowest_days: less than 1
       simple_median_days: '14.5'
+    '2015':
+      complex_average_days: '23.86'
+      complex_highest_days: '52'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      simple_average_days: '9.37'
+      simple_highest_days: '21'
+      simple_lowest_days: less than 1
+      simple_median_days: '5.5'
+    '2016':
+      complex_average_days: '33.27'
+      complex_highest_days: '131'
+      complex_lowest_days: '4'
+      complex_median_days: '22'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7'
+      simple_average_days: '17.53'
+      simple_highest_days: '120'
+      simple_lowest_days: '3'
+      simple_median_days: '11.5'
   service_center:
     phone:
     - 202-358-2582
@@ -1082,29 +1284,30 @@ departments:
   website: http://oig.nasa.gov/FOIA_requests.html
 - address:
     address_lines:
-    - Jamie Mettler
+    - Martha Terry
     - NSSC FOIA Officer
-    city: Stennis Space Center
-    state: MS
-    street: Building 1111
-    zip: '39529'
+    - Room 5Q14
+    city: S.W. Washington
+    state: DC
+    street: 300 E Street, SW
+    zip: '20546'
   emails:
-  - nssc@nasa.gov
-  fax: 228-779-6772
+  - foia@hq.nasa.gov
+  fax: 202-358-4332
   foia_officer:
-    name: Jamie Mettler
+    name: Martha Terry
     phone:
-    - 228-813-6490
+    - 202-358-2339
   name: NASA Shared Service Center (NSSC)
-  phone: 228-813-6490
+  phone: 202-358-2339
   public_liaison:
-    name: Jamie Mettler
+    name: Martha Terry
     phone:
-    - 228-813-6174
+    - 202-358-2339
   reading_rooms:
   - - FOIA Library
     - https://answers.nssc.nasa.gov/app/answers/detail/a_id/6337
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1177,9 +1380,27 @@ departments:
       simple_highest_days: '36'
       simple_lowest_days: '16'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '18.5'
+      complex_highest_days: '46'
+      complex_lowest_days: '4'
+      complex_median_days: '9.5'
+      simple_average_days: '8.25'
+      simple_highest_days: '13'
+      simple_lowest_days: '4'
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '15.8'
+      complex_highest_days: '53'
+      complex_lowest_days: less than 1
+      complex_median_days: '11'
+      simple_average_days: '11.5'
+      simple_highest_days: '17'
+      simple_lowest_days: '2'
+      simple_median_days: '13.5'
   service_center:
     phone:
-    - 228-813-6174
+    - 202-358-2339
   top_level: true
   website: http://www.nssc.nasa.gov/foia/
 - address:
@@ -1190,7 +1411,7 @@ departments:
     street: Building 1100 room 304D
     zip: '39529'
   emails:
-  - ssc-foia@nasa.gov
+  - foia@ssc.nasa.gov
   fax: 228-668-7499
   foia_officer:
     name: Sally Bilbo
@@ -1202,7 +1423,7 @@ departments:
     name: Sally Bilbo
     phone:
     - 228-688-3182
-  request_form: http://socialforms.nasa.gov/foia
+  request_form: https://socialforms.nasa.gov/foia
   request_time_stats:
     '2008':
       complex_average_days: '220'
@@ -1275,6 +1496,24 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: less than 1
       simple_median_days: '2'
+    '2015':
+      complex_average_days: '21.33'
+      complex_highest_days: '38'
+      complex_lowest_days: '12'
+      complex_median_days: '14'
+      simple_average_days: '8.33'
+      simple_highest_days: '19'
+      simple_lowest_days: '2'
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '26.9'
+      complex_highest_days: '74'
+      complex_lowest_days: '1'
+      complex_median_days: '23'
+      simple_average_days: '11.75'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '13.5'
   service_center:
     phone:
     - 228-688-3182
@@ -1302,14 +1541,14 @@ departments:
   public_liaison:
     phone:
     - 202-358-3642
-  request_form: http://www.hq.nasa.gov/office/pao/FOIA/request.html
+  request_form: https://socialforms.nasa.gov/foia
   service_center:
     phone:
     - 202-358-0718
   top_level: false
   website: http://www.hq.nasa.gov/office/pao/FOIA/agency/
-description: NASA explores, and conducts scientific research on, Earth systems, the
-  solar system, and the universe.
+description: NASA's mission is to pioneer the future in space exploration, scientific
+  discovery and aeronautics research
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -1320,6 +1559,7 @@ keywords:
 - American Samoa
 - Animal welfare
 - Armed forces
+- Arms and munitions
 - Authority delegations (Government agencies)
 - Blind
 - Broadband
@@ -1335,6 +1575,8 @@ keywords:
 - Copyright
 - Credit
 - Cultural exchange programs
+- Customs duties and inspection
+- Decorations, medals, awards
 - Education
 - Education of disadvantaged
 - Education of individuals with disabilities
@@ -1348,10 +1590,13 @@ keywords:
 - Employment
 - Engineers
 - Environmental impact statements
+- Equal access to justice
 - Equal educational opportunity
 - Equal employment opportunity
+- Explosives
 - Federal buildings and facilities
 - Federally affected areas
+- Flood plains
 - Freedom of information
 - Government contracts
 - Government employees
@@ -1359,8 +1604,10 @@ keywords:
 - Government property
 - Government property management
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-science and technology
 - Grant programs-social programs
 - Guam
@@ -1387,9 +1634,11 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
+- Lobbying
 - Manpower training programs
 - Mass transportation
 - Migrant labor
@@ -1401,6 +1650,7 @@ keywords:
 - Northern Mariana Islands
 - Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
+- Penalties
 - Privacy
 - Private schools
 - Railroads
@@ -1519,4 +1769,25 @@ request_time_stats:
     simple_highest_days: '48'
     simple_lowest_days: less than 1
     simple_median_days: '3'
-usa_id: '49476'
+  '2015':
+    complex_average_days: '33.14'
+    complex_highest_days: '418'
+    complex_lowest_days: less than 1
+    complex_median_days: '23'
+    simple_average_days: '7.44'
+    simple_highest_days: '30'
+    simple_lowest_days: less than 1
+    simple_median_days: '5.5'
+  '2016':
+    complex_average_days: '33.37'
+    complex_highest_days: '198'
+    complex_lowest_days: less than 1
+    complex_median_days: '25.5'
+    expedited_processing_average_days: '7'
+    expedited_processing_highest_days: '7'
+    expedited_processing_lowest_days: '7'
+    expedited_processing_median_days: '7'
+    simple_average_days: '10.34'
+    simple_highest_days: '120'
+    simple_lowest_days: less than 1
+    simple_median_days: '8'

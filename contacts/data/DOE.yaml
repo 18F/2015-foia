@@ -4,7 +4,7 @@ departments:
     address_lines:
     - Alexander Morris
     - FOIA Officer
-    - Mail Stop MA-90
+    - Mail Stop MA-46
     city: Washington
     state: DC
     street: 1000 Independence Avenue, SW
@@ -17,14 +17,15 @@ departments:
     phone:
     - 202-586-3159
   name: Headquarters
+  notes: To send classified documents, including potentially classified documents,
+    to DOE for classification review, please contact Ms. Catherine Gallahan at (301)
+    903-3737 for mailing instructions
   phone: 202-586-3159
   public_liaison:
-    name: Kevin Hagerty
-    phone:
-    - 202-586-5955
+    name: Alexander Morris
   reading_rooms:
   - - Reading Room
-    - http://energy.gov/management/office-management/operational-management/freedom-information-act/reading-room
+    - https://energy.gov/management/office-management/operational-management/freedom-information-act/reading-room
   request_form: http://energy.gov/doe-headquarters-foia-request-form
   request_time_stats:
     '2008':
@@ -118,6 +119,28 @@ departments:
       simple_highest_days: '950'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2015':
+      complex_average_days: '173.47'
+      complex_highest_days: '1397'
+      complex_lowest_days: less than 1
+      complex_median_days: '103.5'
+      expedited_processing_average_days: '61'
+      expedited_processing_highest_days: '75'
+      expedited_processing_lowest_days: '47'
+      expedited_processing_median_days: '61'
+      simple_average_days: '37.44'
+      simple_highest_days: '1157'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
+    '2016':
+      complex_average_days: '259.03'
+      complex_highest_days: '1647'
+      complex_lowest_days: '5'
+      complex_median_days: '109.5'
+      simple_average_days: '62.22'
+      simple_highest_days: '1319'
+      simple_lowest_days: less than 1
+      simple_median_days: '26'
   service_center:
     phone:
     - 202-586-5955
@@ -132,8 +155,8 @@ departments:
     street: 9800 South Cass Avenue
     zip: '60439'
   emails:
-  - Miriam.Bartos@ch.doe.gov
-  fax: 630-252-2183
+  - Miriam.Bartos@science.doe.gov
+  fax: 630-252-2779
   foia_officer:
     name: Miriam Bartos
     phone:
@@ -146,9 +169,9 @@ departments:
     - 630-252-2423
   reading_rooms:
   - - Electronic Reading Room
-    - http://science.energy.gov/isc/foia/electronic-reading-room/
+    - https://science.energy.gov/isc/foia/electronic-reading-room/
   - - ISC Conventional Reading Rooms
-    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
+    - https://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   request_time_stats:
     '2008':
@@ -222,6 +245,24 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '37.5'
+      complex_highest_days: '282'
+      complex_lowest_days: '1'
+      complex_median_days: '18.5'
+      simple_average_days: '5.13'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '18.31'
+      complex_highest_days: '43'
+      complex_lowest_days: less than 1
+      complex_median_days: '15'
+      simple_average_days: '4.97'
+      simple_highest_days: '26'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 630-252-2041
@@ -318,6 +359,16 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: less than 1
       simple_median_days: '9'
+    '2015':
+      simple_average_days: '10.28'
+      simple_highest_days: '40'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      simple_average_days: '7.14'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '4.5'
   service_center:
     phone:
     - 208-526-5190
@@ -325,14 +376,14 @@ departments:
   website: http://www.id.doe.gov/foia/
 - address:
     address_lines:
-    - Amy Rothrock
+    - Linda Chapman
     - FOIA Officer
     city: Oak Ridge
     state: TN
     street: P.O. Box 2001
     zip: '37831'
   emails:
-  - rothrockal@oro.doe.gov
+  - lind.chapman@science.doe.gov
   fax: 865-576-1556
   foia_officer:
     name: Amy Rothrock
@@ -343,12 +394,12 @@ departments:
   public_liaison:
     name: DiAnn Fields
     phone:
-    - 865-576-0885
+    - 865-576-1215
   reading_rooms:
   - - Electronic Reading Room
-    - http://science.energy.gov/isc/foia/electronic-reading-room/
+    - https://science.energy.gov/isc/foia/electronic-reading-room/
   - - ISC Conventional Reading Rooms
-    - http://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
+    - https://science.energy.gov/isc/foia/isc-conventional-reading-rooms/
   request_form: http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/
   request_time_stats:
     '2008':
@@ -442,6 +493,28 @@ departments:
       simple_highest_days: '463'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2015':
+      complex_average_days: '53.5'
+      complex_highest_days: '263'
+      complex_lowest_days: less than 1
+      complex_median_days: '23'
+      simple_average_days: '12.78'
+      simple_highest_days: '78'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '55.09'
+      complex_highest_days: '142'
+      complex_lowest_days: '7'
+      complex_median_days: '35'
+      expedited_processing_average_days: '52'
+      expedited_processing_highest_days: '52'
+      expedited_processing_lowest_days: '52'
+      expedited_processing_median_days: '52'
+      simple_average_days: '22.08'
+      simple_highest_days: '93'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 865-576-1216
@@ -450,17 +523,14 @@ departments:
 - abbreviation: OSTI
   address:
     address_lines:
-    - Madelyn Wilson
+    - David Hamrin
     - FOIA Officer
     city: Oak Ridge
     state: TN
     street: 1 Science.gov Way
     zip: '37830'
-  description: The Office of Scientific and Technical Information collects, preserves,
-    and makes available the results of research and development carried out or sponsored
-    by the Department of Energy.
   emails:
-  - wilsonm@osti.gov
+  - HamrinD@osti.gov
   fax: 865-576-3589
   foia_officer:
     name: Madelyn Wilson
@@ -469,9 +539,9 @@ departments:
   name: Office of Scientific and Technical Information
   phone: 865-576-8408
   public_liaison:
-    name: David Gottholm
+    name: Charlene Luther
     phone:
-    - 865-576-2623
+    - 865-576-2088
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -528,11 +598,20 @@ departments:
       simple_highest_days: '112'
       simple_lowest_days: '1'
       simple_median_days: '6.5'
+    '2015':
+      simple_average_days: '25.83'
+      simple_highest_days: '488'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      simple_average_days: '97.73'
+      simple_highest_days: '1610'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 865-576-1261
   top_level: true
-  usa_id: '49592'
   website: http://www.osti.gov/home/freedom-information-act-foia/
 - address:
     address_lines:
@@ -558,7 +637,7 @@ departments:
     - 509-376-3375
   reading_rooms:
   - - Electronic FOIA Reading Room
-    - http://www.hanford.gov/?page=69
+    - http://www.hanford.gov/page.cfm/FOIA/ElectronicFOIAReadingRoom
   request_form: http://www.hanford.gov/c.cfm/foia/
   request_time_stats:
     '2008':
@@ -624,6 +703,20 @@ departments:
       simple_highest_days: '171'
       simple_lowest_days: less than 1
       simple_median_days: '12'
+    '2015':
+      simple_average_days: '15.33'
+      simple_highest_days: '154'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '37.92'
+      complex_highest_days: '122'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      simple_average_days: '9.15'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 509-376-6288
@@ -634,15 +727,13 @@ departments:
     state: SC
     street: P.O. Box A
     zip: '29801'
-  emails:
-  - pauline.conner@srs.gov
   fax: 803-952-8271
   foia_officer:
     name: Pauline Conner
     phone:
     - 803-952-8134
   name: Savannah River Operations Office
-  phone: 803-952-8134
+  phone: 803-952-7813
   public_liaison:
     name: Lucy Knowles
     phone:
@@ -696,16 +787,16 @@ departments:
     phone:
     - 505-845-6265
   name: National Nuclear Security Administration Service Center
-  phone: 505-845-4091
+  phone: 866-747-5994
   public_liaison:
-    name: Delilah Perez
+    name: Jane Summerson
     phone:
     - 866-747-5994
   reading_rooms:
   - - Virtual Reading Room after to 2000
-    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000
+    - https://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000
   - - Virtual Reading Room prior to 2000
-    - http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
+    - https://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000
   request_form: http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq
   request_time_stats:
     '2008':
@@ -735,6 +826,7 @@ departments:
       simple_lowest_days: less than 1
       simple_median_days: '15'
   service_center:
+    name: Jane Summerson
     phone:
     - 866-747-5994
   top_level: false
@@ -793,7 +885,7 @@ departments:
   top_level: false
 - address:
     address_lines:
-    - George Hellstrom
+    - Myles Hall
     - FOIA Officer
     - P.O. Box 3090
     city: Carlsbad
@@ -810,7 +902,7 @@ departments:
   name: Carlsbad Field Office – Waste Isolation Pilot Program
   phone: 575-234-7010
   public_liaison:
-    name: George Hellstrom
+    name: Myles Hall
     phone:
     - 575-234-7010
   reading_rooms:
@@ -818,7 +910,6 @@ departments:
     - http://www.wipp.energy.gov/library/foia/FOIA_Reading_Room.htm
   request_form: http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf
   service_center:
-    name: Lea Chism
     phone:
     - 575-234-7442
   top_level: false
@@ -847,7 +938,7 @@ departments:
     - 720-356-1742
   reading_rooms:
   - - Golden Field Office Reading Room
-    - http://energy.gov/eere/golden-field-office-reading-room
+    - https://energy.gov/eere/golden-field-office-reading-room
   request_form: https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx
   request_time_stats:
     '2008':
@@ -901,6 +992,16 @@ departments:
       simple_highest_days: '59'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      simple_average_days: '5.48'
+      simple_highest_days: '25'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      simple_average_days: '7.89'
+      simple_highest_days: '32'
+      simple_lowest_days: less than 1
+      simple_median_days: '6.5'
   service_center:
     phone:
     - 720-356-1427
@@ -908,7 +1009,7 @@ departments:
   website: http://www.eere.energy.gov/golden/reading_room.aspx
 - address:
     address_lines:
-    - Scott Lucarelli
+    - David Ford
     - FOIA Officer
     - Suite 500
     city: Cincinnati
@@ -923,11 +1024,11 @@ departments:
     phone:
     - 513-246-0497
   name: Environmental Management Consolidated Business Center (EMCBC)
-  phone: 513-246-0497
+  phone: 513-246-0579
   public_liaison:
-    name: Lynnette Chafin
+    name: Scott Lucarelli
     phone:
-    - 513-246-0461
+    - 513-246-0497
   request_form: https://www.emcbc.doe.gov/foia/foia_form.php
   request_time_stats:
     '2008':
@@ -1009,6 +1110,28 @@ departments:
       simple_highest_days: '515'
       simple_lowest_days: less than 1
       simple_median_days: '29'
+    '2015':
+      complex_average_days: '33.25'
+      complex_highest_days: '211'
+      complex_lowest_days: '1'
+      complex_median_days: '14.5'
+      expedited_processing_average_days: '236.5'
+      expedited_processing_highest_days: '343'
+      expedited_processing_lowest_days: '130'
+      expedited_processing_median_days: '236.5'
+      simple_average_days: '54.73'
+      simple_highest_days: '311'
+      simple_lowest_days: less than 1
+      simple_median_days: '34'
+    '2016':
+      complex_average_days: '51.29'
+      complex_highest_days: '171'
+      complex_lowest_days: '1'
+      complex_median_days: '51'
+      simple_average_days: '65.41'
+      simple_highest_days: '162'
+      simple_lowest_days: '1'
+      simple_median_days: '47'
   service_center:
     phone:
     - 513-246-0489
@@ -1018,13 +1141,11 @@ departments:
     address_lines:
     - Christopher Frost
     - FOIA Officer
-    - D-1
+    - CGI-7
     city: Portland
     state: OR
     street: P.O. Box 3621
     zip: 97208-3621
-  description: The Bonneville Power Administration creates and delivers a reliable
-    power supply to the Pacific Northwest.
   emails:
   - cmfrost@bpa.gov
   fax: 503-230-4019
@@ -1033,14 +1154,14 @@ departments:
     phone:
     - 503-230-7303
   name: Bonneville Power Administration
-  phone: 503-230-7303
+  phone: 503-230-5602
   public_liaison:
-    name: Kim Winn
+    name: Sarah Westenberg
     phone:
-    - 503-230-5273
+    - 503-230-4753
   reading_rooms:
   - - FOIA Library and Resources
-    - http://www.bpa.gov/news/FOIA/library/Pages/default.aspx
+    - https://www.bpa.gov/news/FOIA/library/Pages/default.aspx
   request_form: http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx
   request_time_stats:
     '2008':
@@ -1114,11 +1235,32 @@ departments:
       simple_highest_days: '297'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '124.76'
+      complex_highest_days: '414'
+      complex_lowest_days: less than 1
+      complex_median_days: '77'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '12.59'
+      simple_highest_days: '112'
+      simple_lowest_days: less than 1
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '204.92'
+      complex_highest_days: '932'
+      complex_lowest_days: less than 1
+      complex_median_days: '70'
+      simple_average_days: '11.85'
+      simple_highest_days: '71'
+      simple_lowest_days: less than 1
+      simple_median_days: '4.5'
   service_center:
     phone:
     - 503-230-7305
   top_level: false
-  usa_id: '49106'
   website: http://www.bpa.gov/news/FOIA/Pages/default.aspx
 - address:
     address_lines:
@@ -1128,8 +1270,6 @@ departments:
     state: GA
     street: 1166 Athens Tech Road
     zip: 30635-6711
-  description: The Southeastern Power Administration markets hydroelectric power generated
-    by federal reservoirs to public entities in the southeastern United States.
   emails:
   - joels@sepa.doe.gov
   fax: 706-213-3884
@@ -1148,7 +1288,6 @@ departments:
     phone:
     - 706-213-3810
   top_level: false
-  usa_id: '49672'
   website: http://www.sepa.doe.gov/overview/?c=8
 - address:
     address_lines:
@@ -1157,8 +1296,6 @@ departments:
     state: OK
     street: One West Third
     zip: '74103'
-  description: The Southwestern Power Administration markets hydroelectric power generated
-    by federal dams to public entities in several states in the south and southwest.
   emails:
   - foia@swpa.gov
   fax: 918-595-6755
@@ -1234,11 +1371,20 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: '2'
       simple_median_days: '13'
+    '2015':
+      simple_average_days: '10.23'
+      simple_highest_days: '59'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      simple_average_days: '13.82'
+      simple_highest_days: '41'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
   service_center:
     phone:
     - 918-595-6609
   top_level: false
-  usa_id: '49676'
   website: http://www.swpa.gov/foia-privacyact.aspx
 - address:
     address_lines:
@@ -1249,9 +1395,6 @@ departments:
     state: CO
     street: 12155 West Alameda Parkway
     zip: 80228-8213
-  description: The Western Area Power Administration markets hydroelectric power generated
-    by federal dams and associated services to public entities in the Western United
-    States.
   emails:
   - land@wapa.gov
   fax: 720-962-7009
@@ -1266,15 +1409,15 @@ departments:
   - Energy conservation
   - Reporting and recordkeeping requirements
   name: Western Area Power Administration
-  phone: 720-962-7010
+  phone: 720-962-7014
   public_liaison:
     name: John D. Bremer
     phone:
     - 720-962-7010
   reading_rooms:
-  - - Reading Room
-    - http://ww2.wapa.gov/sites/Western/foia/Pages/Reading.aspx
-  request_form: http://ww2.wapa.gov/sites/western/foia/Pages/FOIA_Req.aspx
+  - - FOIA reading room
+    - https://www.wapa.gov/FOIA/Pages/reading-room.aspx
+  request_form: https://www.wapa.gov/FOIA/Pages/make-request.aspx
   request_time_stats:
     '2008':
       complex_average_days: '119'
@@ -1327,15 +1470,24 @@ departments:
       simple_highest_days: '18'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      simple_average_days: '17.16'
+      simple_highest_days: '68'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
+    '2016':
+      simple_average_days: '17.54'
+      simple_highest_days: '41'
+      simple_lowest_days: '2'
+      simple_median_days: '14.5'
   service_center:
     phone:
     - 720-962-7014
   top_level: false
-  usa_id: '49740'
-  website: http://www.wapa.gov/FOIA/default.htm
+  website: https://www.wapa.gov/FOIA/pages/foia.aspx
 - address:
     address_lines:
-    - Deanna Harvey
+    - Kristin Frischhertz
     - FOIA Officer
     - MS FE-445
     city: New Orleans
@@ -1343,7 +1495,7 @@ departments:
     street: 900 Commerce Road East
     zip: '70123'
   emails:
-  - deanna.harvey.spr.doe.gov
+  - kristin.frischhertz.spr.doe.gov
   fax: 504-818-5316
   foia_officer:
     name: Deanna Harvey
@@ -1352,12 +1504,12 @@ departments:
   name: Strategic Petroleum Reserve Project
   phone: 504-734-4316
   public_liaison:
-    name: Deanna Harvey
+    name: Kristin Frischhertz
     phone:
     - 504-734-4316
   reading_rooms:
   - - Public Reading Room
-    - http://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html
+    - https://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html
   request_form: http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm
   request_time_stats:
     '2008':
@@ -1419,6 +1571,20 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2015':
+      expedited_processing_average_days: '15.5'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '15.5'
+      simple_average_days: '11.69'
+      simple_highest_days: '48'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2016':
+      simple_average_days: '12.62'
+      simple_highest_days: '21'
+      simple_lowest_days: '6'
+      simple_median_days: '13'
   service_center:
     phone:
     - 504-734-4316
@@ -1499,14 +1665,25 @@ departments:
       simple_highest_days: '45'
       simple_lowest_days: less than 1
       simple_median_days: '9.5'
+    '2015':
+      simple_average_days: '18.38'
+      simple_highest_days: '175'
+      simple_lowest_days: less than 1
+      simple_median_days: '9.5'
+    '2016':
+      simple_average_days: '19.25'
+      simple_highest_days: '114'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 412-386-6167
   top_level: false
   website: http://www.netl.doe.gov/home/foia
-description: The Department of Energy manages the United States' nuclear infrastructure
-  and administers the country's energy policy. The Department of Energy also funds
-  scientific research in the field.
+description: The Department of Energy's overarching mission is to advance the national,
+  economic, and energy security of the United States; to promote scientific and technological
+  innovation in support of that mission; and to ensure the environmental cleanup of
+  the national nuclear weapons complex.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -1541,6 +1718,7 @@ keywords:
 - Credit
 - Cultural exchange programs
 - Dams
+- Decorations, medals, awards
 - Drug abuse
 - Drug testing
 - Education
@@ -1579,6 +1757,7 @@ keywords:
 - Government property
 - Government property management
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-energy
 - Grant programs-health
@@ -1592,7 +1771,6 @@ keywords:
 - Health insurance
 - Health professions
 - Highways and roads
-- Historic preservation
 - Home improvement
 - Homeless
 - Hospitals
@@ -1619,9 +1797,9 @@ keywords:
 - Lebanon
 - Legal services
 - Lie detector tests
-- Livestock
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -1631,6 +1809,7 @@ keywords:
 - Marital status discrimination
 - Maritime carriers
 - Mass transportation
+- Measurement standards
 - Medical research
 - Migrant labor
 - Mortgage insurance
@@ -1638,7 +1817,6 @@ keywords:
 - Motor vehicles
 - National defense
 - Natural gas
-- Natural resources
 - Nonprofit organizations
 - Northern Mariana Islands
 - Nuclear energy
@@ -1650,8 +1828,10 @@ keywords:
 - Pacific Islands Trust Territory
 - Penalties
 - Petroleum
+- Petroleum allocation
 - Pipelines
 - Plutonium
+- Price controls
 - Privacy
 - Private schools
 - Public health
@@ -1794,4 +1974,29 @@ request_time_stats:
     simple_highest_days: '950'
     simple_lowest_days: less than 1
     simple_median_days: '11'
-usa_id: '49019'
+  '2015':
+    complex_average_days: '176.94'
+    complex_highest_days: '2043'
+    complex_lowest_days: less than 1
+    complex_median_days: '74'
+    expedited_processing_average_days: '90.71'
+    expedited_processing_highest_days: '343'
+    expedited_processing_lowest_days: '9'
+    expedited_processing_median_days: '47'
+    simple_average_days: '26.81'
+    simple_highest_days: '1157'
+    simple_lowest_days: less than 1
+    simple_median_days: '12'
+  '2016':
+    complex_average_days: '224.82'
+    complex_highest_days: '2180'
+    complex_lowest_days: less than 1
+    complex_median_days: '72'
+    expedited_processing_average_days: '52'
+    expedited_processing_highest_days: '52'
+    expedited_processing_lowest_days: '52'
+    expedited_processing_median_days: '52'
+    simple_average_days: '43.97'
+    simple_highest_days: '1610'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'

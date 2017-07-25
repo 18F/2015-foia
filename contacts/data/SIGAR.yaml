@@ -3,7 +3,7 @@ departments:
 - address:
     address_lines:
     - FOIA Contact
-    - Office of Privacy, Records and Disclosure
+    - Office of Privacy, Records, and Disclosures
     city: Arlington
     state: VA
     street: 2530 Crystal Drive
@@ -17,14 +17,12 @@ departments:
       phone:
       - 703-545-5993
   name: Special Inspector General for Afghanistan Reconstruction
-  phone: 703-545-5993
+  phone: 703-545-6046
   public_liaison:
+    name: Stephen Kurylo, Jr.
     phone:
-    - 703-545-5993
-  reading_rooms:
-  - - FOIA Electronic Reading Room
-    - https://www.sigar.mil/contact/foia/foia.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading%20Room
-  request_form: http://www.sigar.mil/contact/foia/privacy-request.aspx
+    - 703-545-6046
+  request_form: https://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&WP=FOIA%20|%20Privacy%20Act
   request_time_stats:
     '2011':
       complex_average_days: '0'
@@ -58,11 +56,33 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '51.3'
+      complex_highest_days: '168'
+      complex_lowest_days: '14'
+      complex_median_days: '39'
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '22'
+      simple_average_days: '23.2'
+      simple_highest_days: '59'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2016':
+      complex_average_days: '40'
+      complex_highest_days: '61'
+      complex_lowest_days: '20'
+      complex_median_days: '40'
+      simple_average_days: '17'
+      simple_highest_days: '51'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
   service_center:
     phone:
-    - 703-545-5993
+    - 703-545-6046
   top_level: false
-  website: http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&WP=FOIA
+  website: https://www.sigar.mil/contact/index.aspx?SSR=9
 description: The Office of the Special Inspector General for Afghanistan Reconstruction
   is to provide independent and objective oversight of funds allocated for Afghanistan
   Reconstruction. SIGAR conducts audits and investigations to both promote efficiency
@@ -108,3 +128,25 @@ request_time_stats:
     simple_highest_days: '30'
     simple_lowest_days: '1'
     simple_median_days: '20'
+  '2015':
+    complex_average_days: '51.3'
+    complex_highest_days: '168'
+    complex_lowest_days: '14'
+    complex_median_days: '39'
+    expedited_processing_average_days: '22'
+    expedited_processing_highest_days: '22'
+    expedited_processing_lowest_days: '22'
+    expedited_processing_median_days: '22'
+    simple_average_days: '23.2'
+    simple_highest_days: '59'
+    simple_lowest_days: '1'
+    simple_median_days: '20'
+  '2016':
+    complex_average_days: '40'
+    complex_highest_days: '61'
+    complex_lowest_days: '20'
+    complex_median_days: '40'
+    simple_average_days: '17'
+    simple_highest_days: '51'
+    simple_lowest_days: '1'
+    simple_median_days: '19'

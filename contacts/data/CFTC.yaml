@@ -1,7 +1,6 @@
 abbreviation: CFTC
 departments:
-- abbreviation: CFTC
-  address:
+- address:
     address_lines:
     - FOIA Contact
     - CFTC FOIA Office
@@ -10,21 +9,16 @@ departments:
     state: DC
     street: 1155 21st Street, N.W.
     zip: '20581'
-  description: The mission of the CFTC is to protect market users and the public from
-    fraud, manipulation, and abusive practices related to the sale of commodity and
-    financial futures and options, and to foster open, competitive, and financially
-    sound futures and option markets. In pursuit of its mission, the CFTC investigates
-    and prosecutes commodities fraud, including foreign currency schemes, energy manipulation
-    and hedge fund fraud, and works with other federal and state agencies to bring
-    criminal and other actions. The CFTC also engages in public education and outreach
-    by participating in consumer groups and issuing Consumer Advisories and other
-    educational materials.
   fax: 202-418-5524
   misc:
     CFTC FOIA Compliance Office:
       name: FOIA Contact
       phone:
       - 202-418-5497
+    Counsel:
+      name: Cancace Ambrose
+      phone:
+      - 202-418-5192
   name: Commodity Futures Trading Commission
   phone: 202-418-5497
   public_liaison:
@@ -99,20 +93,32 @@ departments:
       simple_highest_days: '126'
       simple_lowest_days: '1'
       simple_median_days: '23'
+    '2015':
+      complex_average_days: '72.21'
+      complex_highest_days: '333'
+      complex_lowest_days: '6'
+      complex_median_days: '38'
+      simple_average_days: '43.32'
+      simple_highest_days: '305'
+      simple_lowest_days: less than 1
+      simple_median_days: '23'
+    '2016':
+      complex_average_days: '180.95'
+      complex_highest_days: '733'
+      complex_lowest_days: '2'
+      complex_median_days: '112'
+      simple_average_days: '77.64'
+      simple_highest_days: '291'
+      simple_lowest_days: '2'
+      simple_median_days: '51'
   service_center:
     phone:
     - 202-418-5497
   top_level: false
-  usa_id: '48146'
   website: http://www.cftc.gov/FOI/index.htm
-description: The mission of the CFTC is to protect market users and the public from
-  fraud, manipulation, and abusive practices related to the sale of commodity and
-  financial futures and options, and to foster open, competitive, and financially
-  sound futures and option markets. In pursuit of its mission, the CFTC investigates
-  and prosecutes commodities fraud, including foreign currency schemes, energy manipulation
-  and hedge fund fraud, and works with other federal and state agencies to bring criminal
-  and other actions. The CFTC also engages in public education and outreach by participating
-  in consumer groups and issuing Consumer Advisories and other educational materials.
+description: Congress created the Commodity Futures Trading Commission (CFTC) in 1974
+  as an independent agency with the mandate to regulate commodity futures and option
+  markets in the United States.
 keywords:
 - Administrative practice and procedure
 - Advertising
@@ -157,6 +163,7 @@ keywords:
 - Privacy
 - Reporting and recordkeeping requirements
 - Savings associations
+- Seals and insignia
 - Securities
 - Security measures
 - Sunshine Act
@@ -228,4 +235,21 @@ request_time_stats:
     simple_highest_days: '126'
     simple_lowest_days: '1'
     simple_median_days: '23'
-usa_id: '48146'
+  '2015':
+    complex_average_days: '72.21'
+    complex_highest_days: '333'
+    complex_lowest_days: '6'
+    complex_median_days: '38'
+    simple_average_days: '43.32'
+    simple_highest_days: '305'
+    simple_lowest_days: less than 1
+    simple_median_days: '23'
+  '2016':
+    complex_average_days: '180.95'
+    complex_highest_days: '733'
+    complex_lowest_days: '2'
+    complex_median_days: '112'
+    simple_average_days: '77.64'
+    simple_highest_days: '291'
+    simple_lowest_days: '2'
+    simple_median_days: '51'

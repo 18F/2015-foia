@@ -1,19 +1,14 @@
 abbreviation: SEC
 departments:
-- abbreviation: SEC
-  address:
+- address:
     address_lines:
     - John Livornese
     - FOIA Officer, Office of FOIA Services
-    - Mail Stop 2736
+    - Mail Stop 2465
     city: Washington
     state: DC
     street: 100 F Street, NE
     zip: 20549-2736
-  description: The Securities and Exchange Commission oversees securities exchanges,
-    securities brokers and dealers, investment advisors, and mutual funds in an effort
-    to promote fair dealing, the disclosure of important market information, and to
-    prevent fraud.
   emails:
   - foiapa@sec.gov
   fax: 202-772-9337
@@ -24,14 +19,11 @@ departments:
   name: Securities and Exchange Commission
   phone: 202-551-7900
   public_liaison:
-    name: John Livornese, Lizzette Katilius, David Henshall, Jeffrey Ovall and Ray
-      McInerney
+    name: John Livornese, Lizzette Katilius, David Henshall, Jeffrey Ovall, Ray McInerney
+      and Aaron Taylor
     phone:
     - 202-551-7900
-  reading_rooms:
-  - - Conventional and Electronic Reading Rooms
-    - http://www.sec.gov/foia/efoiapg.htm
-  request_form: https://tts.sec.gov/cgi-bin/request_public_docs
+  request_form: https://www.sec.gov/forms/request_public_docs
   request_time_stats:
     '2011':
       complex_average_days: '164'
@@ -85,22 +77,47 @@ departments:
       simple_highest_days: '754'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '91.36'
+      complex_highest_days: '758'
+      complex_lowest_days: less than 1
+      complex_median_days: '3'
+      expedited_processing_average_days: '136.33'
+      expedited_processing_highest_days: '321'
+      expedited_processing_lowest_days: '41'
+      expedited_processing_median_days: '47'
+      simple_average_days: '14.9'
+      simple_highest_days: '944'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '27.34'
+      complex_highest_days: '815'
+      complex_lowest_days: less than 1
+      complex_median_days: less than 1
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10'
+      simple_average_days: '16.49'
+      simple_highest_days: '669'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-551-7900
   top_level: false
-  usa_id: '49054'
   website: http://www.sec.gov/foia.shtml
-description: The Securities and Exchange Commission oversees securities exchanges,
-  securities brokers and dealers, investment advisors, and mutual funds in an effort
-  to promote fair dealing, the disclosure of important market information, and to
-  prevent fraud.
+description: The mission of the U.S. Securities and Exchange Commission is to protect
+  investors, maintain fair, orderly, and efficient markets, and facilitate capital
+  formation.
 keywords:
 - Accountants
 - Accounting
 - Administrative practice and procedure
 - Advertising
 - Authority delegations (Government agencies)
+- Bankruptcy
 - Banks, banking
 - Brokers
 - Claims
@@ -114,6 +131,7 @@ keywords:
 - Currency
 - Electric utilities
 - Electronic funds transfers
+- Employee benefit plans
 - Environmental impact statements
 - Equal access to justice
 - Equal employment opportunity
@@ -137,6 +155,7 @@ keywords:
 - Mortgages
 - National banks
 - Natural gas
+- Oil and gas exploration
 - Organization and functions (Government agencies)
 - Penalties
 - Privacy
@@ -148,6 +167,7 @@ keywords:
 - Trade practices
 - Trusts and trustees
 - Uniform System of Accounts
+- Utilities
 - Wages
 name: Securities and Exchange Commission
 request_time_stats:
@@ -242,4 +262,29 @@ request_time_stats:
     simple_highest_days: '754'
     simple_lowest_days: less than 1
     simple_median_days: '4'
-usa_id: '49054'
+  '2015':
+    complex_average_days: '91.36'
+    complex_highest_days: '758'
+    complex_lowest_days: less than 1
+    complex_median_days: '3'
+    expedited_processing_average_days: '136.33'
+    expedited_processing_highest_days: '321'
+    expedited_processing_lowest_days: '41'
+    expedited_processing_median_days: '47'
+    simple_average_days: '14.9'
+    simple_highest_days: '944'
+    simple_lowest_days: less than 1
+    simple_median_days: '6'
+  '2016':
+    complex_average_days: '27.34'
+    complex_highest_days: '815'
+    complex_lowest_days: less than 1
+    complex_median_days: less than 1
+    expedited_processing_average_days: '10'
+    expedited_processing_highest_days: '19'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '10'
+    simple_average_days: '16.49'
+    simple_highest_days: '669'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

@@ -2,10 +2,8 @@ language: python
 python:
   - "3.4"
 install:
-  - cd contacts
-  - pip install -r requirements.txt
+  - make setup
   - pip install coveralls
-  - cd ..
 script:
   - cd contacts
   - nosetests --with-coverage

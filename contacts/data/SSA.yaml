@@ -1,19 +1,14 @@
 abbreviation: SSA
 departments:
-- abbreviation: SSA
-  address:
+- address:
     address_lines:
-    - Dawn S. Wiggins
-    - Principal Public FOIA Liaison
+    - Mary Ann Zimmerman
+    - Acting Principal Public FOIA Liaison
     - Office of the General Counsel, Office of Privacy and Disclosure
     city: Baltimore
     state: MD
     street: 617 Altmeyer Building
     zip: '21235'
-  description: The Social Security Administration assigns social security numbers;
-    administers the retirement, survivors, and disability insurance programs known
-    as Social Security; and administers the Supplemental Security Income program for
-    the aged, blind, and disabled.
   emails:
   - Foia.pa.officers@ssa.gov
   fax: 410-966-0869
@@ -29,8 +24,8 @@ departments:
     phone:
     - 410-965-1727
   reading_rooms:
-  - - FOIA Library
-    - http://www.ssa.gov/foia/readingroom.html
+  - - Reading Room
+    - https://www.ssa.gov/foia/readingroom.html
   request_form: https://secure.ssa.gov/apps9/eFOIA-FEWeb/internet/main.jsp?action=OPD
   request_time_stats:
     '2008':
@@ -100,17 +95,32 @@ departments:
       simple_highest_days: '264'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '87'
+      complex_highest_days: '323'
+      complex_lowest_days: '3'
+      complex_median_days: '71'
+      simple_average_days: '24'
+      simple_highest_days: '92'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '98'
+      complex_highest_days: '612'
+      complex_lowest_days: '1'
+      complex_median_days: '72'
+      simple_average_days: '28'
+      simple_highest_days: '498'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
-    name: Rhonda Smith
+    name: Chip Mitchell
     phone:
-    - 410-966-4034
+    - 410-965-1727
   top_level: false
-  usa_id: '49057'
   website: http://www.ssa.gov/foia/
-description: The Social Security Administration assigns social security numbers; administers
-  the retirement, survivors, and disability insurance programs known as Social Security;
-  and administers the Supplemental Security Income program for the aged, blind, and
-  disabled.
+description: The Social Security Administration's mission is to deliver Social Security
+  services that meet the changing needs of the public.
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -159,10 +169,12 @@ keywords:
 - Freedom of information
 - Government contracts
 - Government employees
+- Government procurement
 - Government property
 - Grant programs
 - Grant programs-education
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Guam
 - Health facilities
@@ -188,6 +200,7 @@ keywords:
 - Lebanon
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
@@ -208,6 +221,7 @@ keywords:
 - Railroad retirement
 - Railroad unemployment insurance
 - Reporting and recordkeeping requirements
+- Research
 - Retirement
 - Rural areas
 - Scholarships and fellowships
@@ -217,6 +231,7 @@ keywords:
 - Seals and insignia
 - Securities
 - Security measures
+- Small businesses
 - Social security
 - State and local governments
 - Student aid
@@ -308,4 +323,21 @@ request_time_stats:
     simple_highest_days: '264'
     simple_lowest_days: '1'
     simple_median_days: '12'
-usa_id: '49057'
+  '2015':
+    complex_average_days: '87'
+    complex_highest_days: '323'
+    complex_lowest_days: '3'
+    complex_median_days: '71'
+    simple_average_days: '24'
+    simple_highest_days: '92'
+    simple_lowest_days: '1'
+    simple_median_days: '10'
+  '2016':
+    complex_average_days: '98'
+    complex_highest_days: '612'
+    complex_lowest_days: '1'
+    complex_median_days: '72'
+    simple_average_days: '28'
+    simple_highest_days: '498'
+    simple_lowest_days: '1'
+    simple_median_days: '9'

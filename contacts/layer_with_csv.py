@@ -113,7 +113,7 @@ def contacts_from_xls():
     xls_path = "layering_data" + os.sep + "full-foia-contacts.xls"
     if not os.path.isfile(xls_path):
         with open(xls_path, 'wb') as f:
-            data = urlopen("http://www.foia.gov/full-foia-contacts.xls")
+            data = urlopen("https://www.foia.gov/full-foia-contacts.xls")
             f.write(data.read())
     workbook = xlrd.open_workbook(xls_path)
     for sheet in workbook.sheet_names():

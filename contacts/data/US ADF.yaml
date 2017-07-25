@@ -8,8 +8,8 @@ departments:
     state: DC
     street: 1400 Eye Street, NW
     zip: 20005-2248
-  description: The African Development Foundation provides grants to community groups
-    and small enterprises that benefit under-served and marginalized groups in Africa.
+  emails:
+  - jbrown@usadf.gov
   fax: 202-673-3810
   misc:
     FOIA Contact, Associate General Counsel:
@@ -17,10 +17,11 @@ departments:
       phone:
       - 202-673-3916
   name: United States African Development Foundation
-  phone: 202-673-3916
+  phone: 202-233-8882
   public_liaison:
+    name: Doris M. Martin
     phone:
-    - 202-673-3916
+    - 202-233-8806
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -79,16 +80,26 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: '2'
       simple_median_days: '14'
+    '2015':
+      simple_average_days: '8'
+      simple_highest_days: '15'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      simple_average_days: '12'
+      simple_highest_days: '18'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
     phone:
     - 202-673-3916
   top_level: false
-  usa_id: '52581'
-  website: http://www.adf.gov/OpenGovernment.html
-description: The African Development Foundation provides grants to community groups
-  and small enterprises that benefit under-served and marginalized groups in Africa.
+  website: http://www.usadf.gov/oversight/
+description: USADF provides direct support to community organizations and enterprises
+  that benefit under served and marginalized communities in Africa.
 keywords:
 - Administrative practice and procedure
+- Freedom of information
 - Government employees
 - Grant programs
 - Health facilities
@@ -158,4 +169,13 @@ request_time_stats:
     simple_highest_days: '15'
     simple_lowest_days: '2'
     simple_median_days: '14'
-usa_id: '52581'
+  '2015':
+    simple_average_days: '8'
+    simple_highest_days: '15'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
+  '2016':
+    simple_average_days: '12'
+    simple_highest_days: '18'
+    simple_lowest_days: '1'
+    simple_median_days: '9'

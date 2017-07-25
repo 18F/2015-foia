@@ -2,30 +2,27 @@ abbreviation: STB
 departments:
 - address:
     address_lines:
-    - Marilyn R. Levitt
+    - Chris Oehrle
     - FOIA/Privacy Act Officer
+    - '1264'
     city: Washington
     state: DC
     street: 395 E Street, SW
     zip: 20423-0001
-  description: The Surface Transportation Board regulates and decides disputes involving
-    railroad rates, railroad mergers or line sales, and certain other transportation
-    matters.
   emails:
-  - FOIA.Privacy@stb.dot.gov
-  fax: 202-245-0460
+  - FOIA.Privacy@stb.gov
+  fax: 202-245-0456
   misc:
     FOIA/Privacy Act Officer:
       name: Marilyn R. Levitt
       phone:
       - 202-245-0269
   name: Surface Transportation Board
-  phone: 202-245-0269
+  phone: 202-245-0271
   public_liaison:
     name: Craig Keats
     phone:
     - 202-245-0264
-  request_form: http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm
   request_time_stats:
     '2008':
       simple_average_days: '10.5'
@@ -78,16 +75,70 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      simple_average_days: '12.016'
+      simple_highest_days: '43'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      simple_average_days: '9.22'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
-    name: Marilyn R. Levitt
+    name: Chris Oehrle
     phone:
-    - 202-245-0269
+    - 202-245-0271
   top_level: false
-  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
-description: The Surface Transportation Board regulates and decides disputes involving
-  railroad rates, railroad mergers or line sales, and certain other transportation
-  matters.
+description: The Surface Transportation Board (STB) was created in the ICC Termination
+  Act of 1995 and is the successor agency to the Interstate Commerce Commission. The
+  STB is an economic regulatory agency that Congress charged with resolving railroad
+  rate and service disputes and reviewing proposed railroad mergers. The STB is decisionally
+  independent, although it is administratively affiliated with the Department of Transportation.
+keywords:
+- Administrative practice and procedure
+- Agricultural commodities
+- Antitrust
+- Archives and records
+- Authority delegations (Government agencies)
+- Bankruptcy
+- Brokers
+- Buses
+- Civil rights
+- Claims
+- Common carriers
+- Communications
+- Confidential business information
+- Conflict of interests
+- Environmental impact statements
+- Equal access to justice
+- Equal employment opportunity
+- Federal buildings and facilities
+- Freedom of information
+- Freight
+- Freight forwarders
+- Government employees
+- Income taxes
+- Individuals with disabilities
+- Intermodal transportation
+- Investigations
+- Lawyers
+- Maritime carriers
+- Motor carriers
+- Organization and functions (Government agencies)
+- Pipelines
+- Privacy
+- Railroad employees
+- Railroads
+- Reporting and recordkeeping requirements
+- Securities
+- Statistics
+- Sunshine Act
+- Taxes
+- Trusts and trustees
+- Uniform System of Accounts
+- Wages
 name: Surface Transportation Board
 request_time_stats:
   '2008':
@@ -141,4 +192,13 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '1'
     simple_median_days: '5'
-usa_id: '49691'
+  '2015':
+    simple_average_days: '12.016'
+    simple_highest_days: '43'
+    simple_lowest_days: '1'
+    simple_median_days: '12'
+  '2016':
+    simple_average_days: '9.22'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '5'

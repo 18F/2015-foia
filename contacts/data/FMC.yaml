@@ -8,9 +8,6 @@ departments:
     state: DC
     street: 800 North Capitol Street, NW
     zip: '20573'
-  description: The Federal Maritime Commission is responsible for regulating the U.S.
-    international ocean transportation system for the benefit of U.S. exporters, importers,
-    and the U.S. consumer.
   emails:
   - FOIA@fmc.gov
   fax: 202-523-0014
@@ -108,15 +105,40 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '266.1'
+      complex_highest_days: '995'
+      complex_lowest_days: '1'
+      complex_median_days: '14'
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '22'
+      simple_average_days: '6.6'
+      simple_highest_days: '13'
+      simple_lowest_days: less than 1
+      simple_median_days: '6.5'
+    '2016':
+      complex_average_days: '221.5'
+      complex_highest_days: '933'
+      complex_lowest_days: '3'
+      complex_median_days: '39.5'
+      expedited_processing_average_days: '27'
+      expedited_processing_highest_days: '38'
+      expedited_processing_lowest_days: '16'
+      expedited_processing_median_days: '27'
+      simple_average_days: '3.9'
+      simple_highest_days: '11'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
+    name: Linda Hale
     phone:
     - 202-523-5707
   top_level: false
-  usa_id: '52615'
   website: http://www.fmc.gov/about/freedom_of_information_act.aspx
-description: The Federal Maritime Commission is responsible for regulating the U.S.
-  international ocean transportation system for the benefit of U.S. exporters, importers,
-  and the U.S. consumer.
+description: The Commission is responsible for the regulation of ocean-borne transportation
+  in the foreign commerce of the U.S.
 name: Federal Maritime Commission
 request_time_stats:
   '2008':
@@ -198,4 +220,29 @@ request_time_stats:
     simple_highest_days: '19'
     simple_lowest_days: '1'
     simple_median_days: '10'
-usa_id: '52615'
+  '2015':
+    complex_average_days: '266.1'
+    complex_highest_days: '995'
+    complex_lowest_days: '1'
+    complex_median_days: '14'
+    expedited_processing_average_days: '22'
+    expedited_processing_highest_days: '22'
+    expedited_processing_lowest_days: '22'
+    expedited_processing_median_days: '22'
+    simple_average_days: '6.6'
+    simple_highest_days: '13'
+    simple_lowest_days: less than 1
+    simple_median_days: '6.5'
+  '2016':
+    complex_average_days: '221.5'
+    complex_highest_days: '933'
+    complex_lowest_days: '3'
+    complex_median_days: '39.5'
+    expedited_processing_average_days: '27'
+    expedited_processing_highest_days: '38'
+    expedited_processing_lowest_days: '16'
+    expedited_processing_median_days: '27'
+    simple_average_days: '3.9'
+    simple_highest_days: '11'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'

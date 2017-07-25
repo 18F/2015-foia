@@ -33,7 +33,7 @@ departments:
     - 202-366-8067
   reading_rooms:
   - - OST Electronic Reading Room
-    - http://www.dot.gov/foia/ost-electronic-reading-room
+    - https://www.transportation.gov/foia/ost-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '287'
@@ -106,12 +106,30 @@ departments:
       simple_highest_days: '304'
       simple_lowest_days: less than 1
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '157'
+      complex_highest_days: '782'
+      complex_lowest_days: less than 1
+      complex_median_days: '71'
+      simple_average_days: '46'
+      simple_highest_days: '338'
+      simple_lowest_days: less than 1
+      simple_median_days: '24'
+    '2016':
+      complex_average_days: '110'
+      complex_highest_days: '905'
+      complex_lowest_days: less than 1
+      complex_median_days: '50'
+      simple_average_days: '86'
+      simple_highest_days: '769'
+      simple_lowest_days: less than 1
+      simple_median_days: '9.5'
   service_center:
     name: Darlene Wallace
     phone:
     - 202-366-4542
   top_level: false
-  website: http://www.dot.gov/individuals/foia/office-secretary-foia-information
+  website: http://www.transportation.gov/individuals/foia/office-secretary-foia-information
 - address:
     address_lines:
     - Vacant
@@ -205,14 +223,35 @@ departments:
       simple_highest_days: '183'
       simple_lowest_days: less than 1
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '154'
+      complex_highest_days: '303'
+      complex_lowest_days: '6'
+      complex_median_days: '138'
+      expedited_processing_average_days: '54'
+      expedited_processing_highest_days: '54'
+      expedited_processing_lowest_days: '54'
+      expedited_processing_median_days: '54'
+      simple_average_days: '54'
+      simple_highest_days: '221'
+      simple_lowest_days: less than 1
+      simple_median_days: '22'
+    '2016':
+      complex_average_days: '67'
+      complex_highest_days: '250'
+      complex_lowest_days: '1'
+      complex_median_days: '42'
+      simple_average_days: '17'
+      simple_highest_days: '171'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
   service_center:
     name: Vacant
     phone:
     - 202-366-6131
   top_level: false
   website: https://www.oig.dot.gov/freedom-information-act
-- abbreviation: FAA
-  address:
+- address:
     address_lines:
     - Duke Taylor
     - FOIA Coordinator
@@ -221,7 +260,6 @@ departments:
     state: DC
     street: 800 Independence Avenue, SW
     zip: '20591'
-  description: The FAA works to ensure that all air travel is safe.
   emails:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
@@ -229,6 +267,7 @@ departments:
   - Accounting
   - Administrative practice and procedure
   - Afghanistan
+  - Agency for International Development
   - Agriculture
   - Air carriers
   - Air pollution control
@@ -247,6 +286,7 @@ departments:
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
+  - Business and industry
   - Canada
   - Charter flights
   - Claims
@@ -264,7 +304,9 @@ departments:
   - Exports
   - Federal Aviation Administration
   - Federal buildings and facilities
+  - Flags
   - Flammable materials
+  - Foreign relations
   - Fraud
   - Freight
   - Freight forwarders
@@ -273,9 +315,9 @@ departments:
   - Hazardous materials transportation
   - Health
   - Health professions
-  - Highway safety
   - Imports
   - Indemnity payments
+  - Individuals with disabilities
   - Insurance
   - Investigations
   - Iraq
@@ -284,7 +326,6 @@ departments:
   - Lawyers
   - Libya
   - Mexico
-  - Motor carriers
   - National defense
   - National parks
   - Navigation (air)
@@ -320,7 +361,7 @@ departments:
     - 202-267-7799
   reading_rooms:
   - - Visit the FOIA Library
-    - http://www.faa.gov/foia/electronic_reading_room/
+    - https://www.faa.gov/foia/electronic_reading_room/
   request_form: http://www.faa.gov/foia/foia_request/
   request_time_stats:
     '2008':
@@ -414,28 +455,52 @@ departments:
       simple_highest_days: '1969'
       simple_lowest_days: less than 1
       simple_median_days: '15'
+    '2015':
+      complex_average_days: '50'
+      complex_highest_days: '1172'
+      complex_lowest_days: less than 1
+      complex_median_days: '35'
+      expedited_processing_average_days: '28'
+      expedited_processing_highest_days: '80'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '19'
+      simple_average_days: '20'
+      simple_highest_days: '953'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
+    '2016':
+      complex_average_days: '90'
+      complex_highest_days: '1136'
+      complex_lowest_days: less than 1
+      complex_median_days: '35'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '49'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '18'
+      simple_average_days: '26'
+      simple_highest_days: '1056'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
-    - 202-267-9165
+    - 202-267-0983
   top_level: true
-  usa_id: '48033'
   website: http://www.faa.gov/foia/foia_coordinators/index.cfm?action=other_requests
 - address:
     address_lines:
     - Manizheh Boehm
     - FOIA/PA Contact
-    - HCC-40/E82-125
+    - HCC-40/E84-107B
     city: Washington
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The Federal Highway Administration supports state and local government
-    in the design, construction, and maintenance of the highway system.
   emails:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1938
   keywords:
   - Accounting
+  - Alcohol abuse
   - Alcohol and alcoholic beverages
   - Bonds
   - Bridges
@@ -443,10 +508,12 @@ departments:
   - Claims
   - Communications
   - Communications equipment
+  - Conflict of interests
   - Electronic products
   - Energy conservation
   - Environmental impact statements
   - Environmental protection
+  - Excise taxes
   - Flood plains
   - Government contracts
   - Government procurement
@@ -479,6 +546,7 @@ departments:
   - Signs and symbols
   - Soil conservation
   - Taxes
+  - Telecommunications
   - Traffic regulations
   - Transportation
   - Travel
@@ -493,12 +561,12 @@ departments:
   name: Federal Highway Administration
   phone: 202-366-9048
   public_liaison:
-    name: Alla Shaw
+    name: Christopher Richardson
     phone:
-    - 202-366-1042
+    - 202-366-1383
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fhwa.dot.gov/foia/err.htm
+    - https://www.fhwa.dot.gov/foia/err.cfm
   request_time_stats:
     '2008':
       complex_average_days: '90'
@@ -591,14 +659,38 @@ departments:
       simple_highest_days: '553'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2015':
+      complex_average_days: '33'
+      complex_highest_days: '285'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '7'
+      simple_average_days: '15'
+      simple_highest_days: '76'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '19'
+      complex_highest_days: '88'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '5'
+      simple_average_days: '14'
+      simple_highest_days: '98'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
   service_center:
     phone:
     - 202-366-0948
   top_level: false
-  usa_id: '49296'
   website: http://www.fhwa.dot.gov/foia/index.htm
-- abbreviation: FRA
-  address:
+- address:
     address_lines:
     - Denise Kollehlon
     - FOIA/PA Contact, Office of the Chief Counsel
@@ -607,9 +699,6 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The Federal Railroad Administration is charged with creating and enforcing
-    rail safety regulations, administering rail funding, and researching rail improvement
-    strategies and technologies.
   emails:
   - frafoia@dot.gov
   fax: 202-493-6068
@@ -630,10 +719,12 @@ departments:
   - Hazardous materials transportation
   - Highway safety
   - Highways and roads
+  - Intergovernmental relations
   - Investigations
   - Investments
+  - Law enforcement
+  - Law enforcement officers
   - Loan programs-transportation
-  - Motor carriers
   - National Transportation Safety Board
   - Noise control
   - Occupational safety and health
@@ -658,12 +749,12 @@ departments:
   name: Federal Railroad Administration
   phone: 202-493-6039
   public_liaison:
-    name: Warren Flatau
+    name: Timothy Barkley
     phone:
-    - 202-493-6019
+    - 202-493-1305
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fra.dot.gov/Page/P0388
+    - https://www.fra.dot.gov/Page/P0388
   request_time_stats:
     '2008':
       complex_average_days: '113'
@@ -712,14 +803,30 @@ departments:
       expedited_processing_highest_days: '234'
       expedited_processing_lowest_days: less than 1
       expedited_processing_median_days: '49'
+    '2015':
+      complex_average_days: '74'
+      complex_highest_days: '627'
+      complex_lowest_days: '1'
+      complex_median_days: '37'
+      expedited_processing_average_days: '23.75'
+      expedited_processing_highest_days: '50'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '19'
+    '2016':
+      complex_average_days: '113'
+      complex_highest_days: '763'
+      complex_lowest_days: '1'
+      complex_median_days: '87'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
   service_center:
     phone:
     - 202-493-6065
   top_level: false
-  usa_id: '49318'
   website: http://www.fra.dot.gov/Page/P0386
-- abbreviation: FTA
-  address:
+- address:
     address_lines:
     - Nancy Sipes
     - FOIA/PA Contact
@@ -728,11 +835,8 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The Federal Transit Administration seeks to improve public transportation
-    by assisting state and local governments with planning, implementation, and financing
-    of public transportation projects.
   emails:
-  - FTA.FOIA@dot.gov
+  - foia@fta.dot.gov
   fax: 202-366-7164
   keywords:
   - Accounting
@@ -749,15 +853,12 @@ departments:
   - Government contracts
   - Grant programs
   - Grant programs-transportation
-  - Highway safety
   - Highways and roads
   - Historic preservation
   - Investments
   - Mass transportation
-  - Motor carriers
   - Motor vehicle safety
   - Organization and functions (Government agencies)
-  - Penalties
   - Public lands
   - Railroads
   - Reporting and recordkeeping requirements
@@ -771,14 +872,14 @@ departments:
       phone:
       - 202-366-4022
   name: Federal Transit Administration
-  phone: 202-366-4022
+  phone: 202-366-4007
   public_liaison:
     name: David Longo
     phone:
     - 202-366-0608
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.fta.dot.gov/legislation_law/12316_8574.html
+    - https://www.transit.dot.gov/foia/foia-electronic-reading-room
   request_time_stats:
     '2008':
       simple_average_days: '24'
@@ -827,26 +928,30 @@ departments:
       simple_highest_days: '440'
       simple_lowest_days: less than 1
       simple_median_days: '20'
+    '2015':
+      simple_average_days: '21'
+      simple_highest_days: '104'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
+    '2016':
+      simple_average_days: '21'
+      simple_highest_days: '407'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-366-2494
   top_level: false
-  usa_id: '49323'
   website: http://www.fta.dot.gov/newsroom/12814.html
-- abbreviation: FMCSA
-  address:
+- address:
     address_lines:
-    - Tiffanie C. Coleman
+    - Stanza Ludgood
     - FOIA/PA Contact (MC-MMI)
-    - W66-458
+    - W64-304
     city: Washington
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The FMCSA provides information about your rights when moving across
-    state lines (interstate moves). Consumers should submit household goods commercial
-    complaints or dangerous safety violations involving a commercial truck or bus
-    to this agency.
   emails:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
@@ -860,7 +965,6 @@ departments:
   - Brokers
   - Buses
   - Civil rights
-  - Claims
   - Consumer protection
   - Cooperatives
   - Credit
@@ -873,6 +977,7 @@ departments:
   - Hazardous materials transportation
   - Highway safety
   - Highways and roads
+  - Imports
   - Individuals with disabilities
   - Insurance
   - Intergovernmental relations
@@ -883,6 +988,7 @@ departments:
   - Migrant labor
   - Motor carriers
   - Motor vehicle safety
+  - Motor vehicles
   - Moving of household goods
   - Noise control
   - Occupational safety and health
@@ -890,6 +996,7 @@ departments:
   - Penalties
   - Radioactive materials
   - Reporting and recordkeeping requirements
+  - Rubber and rubber products
   - Safety
   - Seafood
   - Smoking
@@ -909,7 +1016,7 @@ departments:
     - 202-366-9999
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
+    - https://www.fmcsa.dot.gov/foia/foia-electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '92'
@@ -1002,11 +1109,36 @@ departments:
       simple_highest_days: '144'
       simple_lowest_days: less than 1
       simple_median_days: '60'
+    '2015':
+      complex_average_days: '116'
+      complex_highest_days: '380'
+      complex_lowest_days: '1'
+      complex_median_days: '119'
+      expedited_processing_average_days: '23'
+      expedited_processing_highest_days: '37'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '23'
+      simple_average_days: '84'
+      simple_highest_days: '401'
+      simple_lowest_days: '1'
+      simple_median_days: '93'
+    '2016':
+      complex_average_days: '155'
+      complex_highest_days: '594'
+      complex_lowest_days: '8'
+      complex_median_days: '128.5'
+      expedited_processing_average_days: '39'
+      expedited_processing_highest_days: '95'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '26.5'
+      simple_average_days: '102'
+      simple_highest_days: '787'
+      simple_lowest_days: '2'
+      simple_median_days: '107'
   service_center:
     phone:
     - 202-366-2960
   top_level: false
-  usa_id: '49315'
   website: http://www.fmcsa.dot.gov/foia
 - abbreviation: NHTSA
   address:
@@ -1018,17 +1150,9 @@ departments:
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The National Highway Traffic Safety Administration (NHTSA) is responsible
-    for reducing deaths, injuries and economic losses resulting from motor vehicle
-    crashes. The agency investigates safety defects in motor vehicles, sets and enforces
-    fuel economy standards, helps states and local communities reduce the threat of
-    drunk drivers, promotes the use of safety belts, child safety seats and air bags,
-    investigates odometer fraud, establishes and enforces vehicle anti-theft regulations,
-    conducts research on driver behavior and traffic safety, and provides consumer
-    information on motor vehicle safety topics.
   emails:
-  - mary.sprague@dot.gov
-  fax: 202-366-3820
+  - greg.walter@dot.gov
+  fax: 202-493-2929
   keywords:
   - Administrative practice and procedure
   - Air pollution control
@@ -1047,24 +1171,31 @@ departments:
   - Gasoline
   - Grant programs
   - Grant programs-transportation
+  - Hazardous substances
+  - Hazardous waste
   - Highway safety
+  - Highways and roads
   - Imports
   - Insurance
   - Insurance companies
   - Intergovernmental relations
   - Labeling
+  - Motor carriers
   - Motor vehicle pollution
   - Motor vehicle safety
   - Motor vehicles
   - Organization and functions (Government agencies)
   - Penalties
+  - Poison prevention
   - Reporting and recordkeeping requirements
   - Research
   - Rubber and rubber products
+  - Surety bonds
   - Telecommunications
   - Tires
   - Transportation
   - Vessels
+  - Water pollution control
   misc:
     NHTSA Executive Secretariat:
       name: FOIA Contact
@@ -1078,8 +1209,7 @@ departments:
     - 202-366-2330
   reading_rooms:
   - - NHTSA Electronic Reading Room (ERR)
-    - http://www.nhtsa.gov/About+NHTSA/NHTSA+Electronic+Reading+Room+(ERR)
-  request_form: http://www.nhtsa.gov/FOIA
+    - https://www.nhtsa.gov/about-nhtsa/electronic-reading-room
   request_time_stats:
     '2008':
       simple_average_days: '15'
@@ -1145,26 +1275,42 @@ departments:
       simple_highest_days: '673'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2015':
+      complex_average_days: '163.96'
+      complex_highest_days: '562'
+      complex_lowest_days: '30'
+      complex_median_days: '147'
+      simple_average_days: '39.79'
+      simple_highest_days: '303'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '359.85'
+      complex_highest_days: '633'
+      complex_lowest_days: '214'
+      complex_median_days: '352'
+      expedited_processing_average_days: less than 1
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: less than 1
+      simple_average_days: '49.73'
+      simple_highest_days: '297'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 202-366-1834
   top_level: true
-  usa_id: '48081'
   website: http://www.nhtsa.gov/FOIA
-- abbreviation: MARAD
-  address:
+- address:
     address_lines:
     - T. Mitchell Hudson, Jr.
     - FOIA Officer, Division of Legislation and Regulations
-    - W24-233
+    - W24-220
     city: Washington
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: Part of the Department of Transportation, the Maritime Commission works
-    to ensure the health of the U.S. merchant marine. The Maritime Administration
-    also works to improve port efficiency, and to maintain an adequate ship building
-    and repair infrastructure.
   emails:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
@@ -1175,23 +1321,33 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Antitrust
+  - Archives and records
   - Authority delegations (Government agencies)
+  - Business and industry
   - Citizenship and naturalization
   - Claims
   - Classified information
   - Common carriers
+  - Confidential business information
+  - Conflict of interests
+  - Consumer protection
   - Courts
   - Disability benefits
+  - Environmental impact statements
   - Equal access to justice
   - Exports
   - Fishing vessels
+  - Foreign trade
   - Freedom of information
   - Freight
   - Freight forwarders
   - Government contracts
   - Government employees
+  - Government publications
   - Grant programs-education
   - Grant programs-transportation
+  - Harbors
+  - Health records
   - Highways and roads
   - Income taxes
   - Insurance
@@ -1200,24 +1356,33 @@ departments:
   - Investments
   - Lawyers
   - Loan programs-transportation
+  - Marine safety
   - Maritime carriers
   - Mortgages
   - National defense
+  - Newspapers and magazines
   - Organization and functions (Government agencies)
+  - Packaging and containers
   - Passenger vessels
   - Penalties
+  - Printing
   - Privacy
   - Railroads
   - Reporting and recordkeeping requirements
+  - Research
   - Schools
   - Seals and insignia
   - Seamen
   - Sunshine Act
   - Surety bonds
+  - Trade names
+  - Trade practices
   - Transportation
   - Trusts and trustees
   - Uniform System of Accounts
   - Vessels
+  - War risk insurance
+  - Warehouses
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison:
@@ -1225,8 +1390,8 @@ departments:
     phone:
     - 202-366-5165
   reading_rooms:
-  - - Maritime Administration Electronic Reading Room
-    - http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/foia_elec_reading_room/Electronic_Reading_Room.htm
+  - - Electronic Reading Room
+    - https://www.marad.dot.gov/about-us/foia/electronic-reading-room/
   request_time_stats:
     '2008':
       simple_average_days: '160'
@@ -1291,25 +1456,40 @@ departments:
       simple_highest_days: '971'
       simple_lowest_days: '1'
       simple_median_days: '76'
+    '2015':
+      complex_average_days: '180.48'
+      complex_highest_days: '680'
+      complex_lowest_days: '1'
+      complex_median_days: '98'
+      simple_average_days: '48.75'
+      simple_highest_days: '688'
+      simple_lowest_days: less than 1
+      simple_median_days: '12.5'
+    '2016':
+      complex_average_days: '93.96'
+      complex_highest_days: '617'
+      complex_lowest_days: '9'
+      complex_median_days: '65'
+      simple_average_days: '10.42'
+      simple_highest_days: '56'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-366-2666
   top_level: false
-  usa_id: '49448'
   website: http://www.marad.dot.gov/about_us_landing_page/freedom_of_information_act/FOIA.htm
 - address:
     address_lines:
-    - Madeline Bush
+    - Madeline Van Nostrand
     - FOIA Officer
     - E23-306
     city: Washington
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: The Pipeline and Hazardous Materials Safety Administration regulates
-    the transport of hazardous materials.
   emails:
-  - PHMSA.FOIA@dot.gov
+  - Madeline.vannostrand@dot.gov
   fax: 202-336-7041
   foia_officer:
     name: Vacant
@@ -1339,6 +1519,7 @@ departments:
   - Imports
   - Indians
   - Intermodal transportation
+  - Investigations
   - Labeling
   - Maritime carriers
   - Motor carriers
@@ -1367,7 +1548,7 @@ departments:
     - 202-366-4831
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.phmsa.dot.gov/foia/e-reading-room
+    - https://www.phmsa.dot.gov/foia/e-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '88'
@@ -1460,25 +1641,43 @@ departments:
       simple_highest_days: '442'
       simple_lowest_days: less than 1
       simple_median_days: '28'
+    '2015':
+      complex_average_days: '252'
+      complex_highest_days: '1105'
+      complex_lowest_days: less than 1
+      complex_median_days: '67'
+      expedited_processing_average_days: '455'
+      expedited_processing_highest_days: '603'
+      expedited_processing_lowest_days: '238'
+      expedited_processing_median_days: '525'
+      simple_average_days: '43'
+      simple_highest_days: '325'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
+    '2016':
+      complex_average_days: '344'
+      complex_highest_days: '1000'
+      complex_lowest_days: '7'
+      complex_median_days: '173.5'
+      simple_average_days: '54'
+      simple_highest_days: '723'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 202-366-4400
   top_level: false
-  usa_id: '49616'
   website: http://www.phmsa.dot.gov/about/foia.html
 - address:
     address_lines:
-    - Ian Serguson
+    - Chelsea Champlin
     - FOIA/PA Contact
     city: Washington
     state: DC
     street: 1200 New Jersey Avenue, SE
     zip: '20590'
-  description: Working in concert with its Canadian counterpart, the Saint Lawrence
-    Seaway Development Corporation works to operate and maintain a safe, reliable,
-    efficient waterway between the Great Lakes and the Atlantic Ocean.
   emails:
-  - slsdc@dot.gov
+  - foia.request@sls.dot.gov
   fax: 202-366-6448
   keywords:
   - Hazardous materials transportation
@@ -1501,7 +1700,7 @@ departments:
     - 202-366-8067
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.seaway.dot.gov/publications/electronic-reading-room
+    - https://www.seaway.dot.gov/publications/electronic-reading-room
   request_time_stats:
     '2008':
       simple_average_days: '25'
@@ -1550,124 +1749,25 @@ departments:
       simple_highest_days: '40'
       simple_lowest_days: '2'
       simple_median_days: '12'
+    '2015':
+      simple_average_days: '12.7'
+      simple_highest_days: '23'
+      simple_lowest_days: '2'
+      simple_median_days: '14'
+    '2016':
+      simple_average_days: '14.75'
+      simple_highest_days: '17'
+      simple_lowest_days: '12'
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-366-6510
   top_level: false
-  usa_id: '49656'
   website: http://www.seaway.dot.gov/publications/electronic-reading-room
-- abbreviation: STB
-  address:
-    address_lines:
-    - Marilyn R. Levitt
-    - FOIA/Privacy Act Officer
-    city: Washington
-    state: DC
-    street: 395 E Street, SW
-    zip: 20423-0001
-  description: The Surface Transportation Board regulates and decides disputes involving
-    railroad rates, railroad mergers or line sales, and certain other transportation
-    matters.
-  emails:
-  - FOIA.Privacy@stb.dot.gov
-  fax: 202-245-0460
-  keywords:
-  - Administrative practice and procedure
-  - Agricultural commodities
-  - Antitrust
-  - Authority delegations (Government agencies)
-  - Bankruptcy
-  - Brokers
-  - Common carriers
-  - Communications
-  - Confidential business information
-  - Environmental impact statements
-  - Freedom of information
-  - Freight
-  - Freight forwarders
-  - Intermodal transportation
-  - Investigations
-  - Maritime carriers
-  - Motor carriers
-  - Organization and functions (Government agencies)
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Statistics
-  - Uniform System of Accounts
-  misc:
-    FOIA/Privacy Act Officer:
-      name: Marilyn R. Levitt
-      phone:
-      - 202-245-0269
-  name: Surface Transportation Board
-  phone: 202-245-0269
-  public_liaison:
-    name: Craig Keats
-    phone:
-    - 202-245-0264
-  request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
-  request_time_stats:
-    '2008':
-      simple_average_days: '10.5'
-      simple_highest_days: '20'
-      simple_lowest_days: '1'
-      simple_median_days: '7'
-    '2009':
-      simple_average_days: '6.75'
-      simple_highest_days: '15'
-      simple_lowest_days: '1'
-      simple_median_days: '5.5'
-    '2010':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '7.3'
-      simple_highest_days: '14'
-      simple_lowest_days: '1'
-      simple_median_days: '7'
-    '2011':
-      complex_average_days: '0'
-      complex_highest_days: '0'
-      complex_lowest_days: '0'
-      complex_median_days: '0'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '9.1'
-      simple_highest_days: '31'
-      simple_lowest_days: '1'
-      simple_median_days: '8'
-    '2012':
-      simple_average_days: '5.9'
-      simple_highest_days: '20'
-      simple_lowest_days: '1'
-      simple_median_days: '3'
-    '2013':
-      simple_average_days: '6'
-      simple_highest_days: '19'
-      simple_lowest_days: '1'
-      simple_median_days: '4'
-    '2014':
-      simple_average_days: '5.69'
-      simple_highest_days: '20'
-      simple_lowest_days: '1'
-      simple_median_days: '5'
-  service_center:
-    name: Marilyn R. Levitt
-    phone:
-    - 202-245-0269
-  top_level: false
-  usa_id: '49691'
-  website: http://www.stb.dot.gov/stb/foia.html
-description: The Department of Transportation is responsible for planning and coordinating
-  federal transportation projects. It also sets safety regulations for all major modes
-  of transportation.
+description: The Department's mission is to serve the United States by ensuring a
+  fast, safe, efficient, accessible and convenient transportation system that meets
+  our vital national interests and enhances the quality of life of the American people,
+  today and into the future.
 emails:
 - ost.foia@dot.gov
 fax: 202-366-8536
@@ -1679,6 +1779,7 @@ keywords:
 - Advisory committees
 - Afghanistan
 - Aged
+- Agency for International Development
 - Agricultural commodities
 - Agriculture
 - Air carriers
@@ -1720,6 +1821,7 @@ keywords:
 - Citizenship and naturalization
 - Civil rights
 - Claims
+- Classified information
 - Code of Federal Regulations
 - Colleges and universities
 - Common carriers
@@ -1764,6 +1866,7 @@ keywords:
 - Equal employment opportunity
 - Ethics
 - Ethiopia
+- Excise taxes
 - Explosives
 - Exports
 - Federal Aviation Administration
@@ -1771,8 +1874,10 @@ keywords:
 - Federally affected areas
 - Fire prevention
 - Fishing vessels
+- Flags
 - Flammable materials
 - Flood plains
+- Foods
 - Foreign relations
 - Fraud
 - Freedom of information
@@ -1790,9 +1895,11 @@ keywords:
 - Government publications
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-environmental protection
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Grant programs-transportation
 - Grant programs-veterans
@@ -1841,6 +1948,7 @@ keywords:
 - Libya
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
@@ -1888,12 +1996,12 @@ keywords:
 - Petroleum
 - Pipeline safety
 - Pipelines
+- Poison prevention
 - Political candidates
 - Privacy
 - Private schools
 - Public lands
 - Puerto Rico
-- Radiation protection
 - Radio
 - Radioactive materials
 - Railroad employees
@@ -1928,6 +2036,7 @@ keywords:
 - Strategic and critical materials
 - Student aid
 - Students
+- Sunshine Act
 - Surety bonds
 - Taxes
 - Teachers
@@ -1936,6 +2045,7 @@ keywords:
 - Terrorism
 - Time
 - Tires
+- Trade names
 - Traffic regulations
 - Transportation
 - Transportation Department
@@ -1956,6 +2066,7 @@ keywords:
 - Vocational rehabilitation
 - Volunteers
 - Wages
+- War risk insurance
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
@@ -2066,9 +2177,34 @@ request_time_stats:
     simple_highest_days: '1969'
     simple_lowest_days: less than 1
     simple_median_days: '16'
+  '2015':
+    complex_average_days: '115'
+    complex_highest_days: '1172'
+    complex_lowest_days: less than 1
+    complex_median_days: '102'
+    expedited_processing_average_days: '165'
+    expedited_processing_highest_days: '603'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '37'
+    simple_average_days: '56.51'
+    simple_highest_days: '953'
+    simple_lowest_days: less than 1
+    simple_median_days: '34'
+  '2016':
+    complex_average_days: '102.104'
+    complex_highest_days: '1136'
+    complex_lowest_days: less than 1
+    complex_median_days: '22'
+    expedited_processing_average_days: '19.42'
+    expedited_processing_highest_days: '95'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '8.5'
+    simple_average_days: '39.81'
+    simple_highest_days: '1056'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'
 service_center:
   phone:
   - 202-366-4542
 top_level: false
-usa_id: '49035'
 website: http://www.dot.gov/foia/

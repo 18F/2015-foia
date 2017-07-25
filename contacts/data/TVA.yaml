@@ -7,11 +7,8 @@ departments:
     - WT 7D
     city: Knoxville
     state: TN
-    street: 400 West Summit Hill Drive WT 7C
+    street: 400 West Summit Hill Drive
     zip: 37902-1499
-  description: The Tennessee Valley Authority, a government owned corporation, provides
-    low-cost electricity in seven southeatern states and provides flood control, navigation,
-    and land management for the Tennessee River system.
   emails:
   - foia@tva.gov
   fax: 865-632-6901
@@ -27,7 +24,7 @@ departments:
     - 865-632-8133
   reading_rooms:
   - - Reading Room
-    - http://www.tva.gov/foia/foia_reading.htm
+    - https://www.tva.gov/Information/Freedom-of-Information/Reading-Room
   request_time_stats:
     '2008':
       complex_average_days: '39'
@@ -108,15 +105,40 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '15'
+    '2015':
+      complex_average_days: '68'
+      complex_highest_days: '1145'
+      complex_lowest_days: '21'
+      complex_median_days: '40'
+      expedited_processing_average_days: '12'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '12'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '40'
+      complex_highest_days: '247'
+      complex_lowest_days: '21'
+      complex_median_days: '31'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '68'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '8'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 865-632-6945
   top_level: false
-  usa_id: '52660'
   website: http://www.tva.gov/foia/
-description: The Tennessee Valley Authority, a government owned corporation, provides
-  low-cost electricity in seven southeatern states and provides flood control, navigation,
-  and land management for the Tennessee River system.
+description: TVA has renewed its vision to help lead the Tennessee Valley region and
+  the nation toward a cleaner and more secure energy future, relying more on nuclear
+  power and energy efficiency and relying less on coal.
 keywords:
 - Administrative practice and procedure
 - Aged
@@ -129,9 +151,12 @@ keywords:
 - Educational facilities
 - Educational research
 - Educational study programs
+- Environmental impact statements
+- Environmental protection
 - Equal educational opportunity
 - Equal employment opportunity
 - Federal buildings and facilities
+- Flood plains
 - Freedom of information
 - Government property
 - Government property management
@@ -139,7 +164,9 @@ keywords:
 - Grant programs-education
 - Grant programs-social programs
 - Highways and roads
+- Historic preservation
 - Hunting
+- Indians-lands
 - Individuals with disabilities
 - Investigations
 - Mass transportation
@@ -147,6 +174,7 @@ keywords:
 - Navigation (water)
 - Penalties
 - Privacy
+- Public lands
 - Railroads
 - Religious discrimination
 - Reporting and recordkeeping requirements
@@ -154,6 +182,7 @@ keywords:
 - Sex discrimination
 - Small businesses
 - Student aid
+- Sunshine Act
 - Traffic regulations
 - Veterans
 - Water pollution control
@@ -239,4 +268,29 @@ request_time_stats:
     simple_highest_days: '30'
     simple_lowest_days: '1'
     simple_median_days: '15'
-usa_id: '52660'
+  '2015':
+    complex_average_days: '68'
+    complex_highest_days: '1145'
+    complex_lowest_days: '21'
+    complex_median_days: '40'
+    expedited_processing_average_days: '12'
+    expedited_processing_highest_days: '12'
+    expedited_processing_lowest_days: '12'
+    expedited_processing_median_days: '12'
+    simple_average_days: '9'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
+  '2016':
+    complex_average_days: '40'
+    complex_highest_days: '247'
+    complex_lowest_days: '21'
+    complex_median_days: '31'
+    expedited_processing_average_days: '19'
+    expedited_processing_highest_days: '68'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '8'
+    simple_average_days: '6'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '5'

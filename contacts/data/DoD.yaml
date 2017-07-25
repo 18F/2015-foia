@@ -31,9 +31,6 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - Reading Room
-    - http://www.dod.gov/pubs/foi/readingRoom.html
   request_form: http://www.dod.gov/pubs/foi/foiareq.html
   request_time_stats:
     '2008':
@@ -123,11 +120,36 @@ departments:
       simple_highest_days: '102'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '515.34'
+      complex_highest_days: '2966'
+      complex_lowest_days: '21'
+      complex_median_days: '180'
+      expedited_processing_average_days: '11.5'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '11.5'
+      simple_average_days: '7.47'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '362'
+      complex_highest_days: '3042'
+      complex_lowest_days: '21'
+      complex_median_days: '144.5'
+      expedited_processing_average_days: '64.5'
+      expedited_processing_highest_days: '86'
+      expedited_processing_lowest_days: '43'
+      expedited_processing_median_days: '64.5'
+      simple_average_days: '6.66'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 866-574-4970
   top_level: true
-  usa_id: '49420'
   website: http://www.dod.gov/pubs/foi/
 - address:
     address_lines:
@@ -138,15 +160,14 @@ departments:
     state: DC
     street: 1000 Air Force Pentagon
     zip: 20330-1000
-  description: The Air Force defends the United States in the air and space.
   emails:
-  - usaf.pentagon.saf-aa.mbx.haf-foia-workflow@mail.mil
-  fax: 571-256-3109
+  - usaf.pentagon.saf-cio-a6.mbx.af-foia@mail.mil
   keywords:
   - Administrative practice and procedure
   - Air carriers
   - Alimony
   - Archives and records
+  - Authority delegations (Government agencies)
   - Aviation safety
   - Child support
   - Civil defense
@@ -154,6 +175,7 @@ departments:
   - Claims
   - Courts
   - Credit
+  - Crime
   - Disaster assistance
   - Environmental impact statements
   - Environmental protection
@@ -174,14 +196,11 @@ departments:
   - State and local governments
   - Wake Island
   name: Department of the Air Force
-  phone: 703-693-2634
+  phone: 703-693-2735
   public_liaison:
     name: Anh Trinh
     phone:
-    - 703-693-2634
-  reading_rooms:
-  - - FOIA LIBRARY
-    - http://www.foia.af.mil/foialibrary/index.asp
+    - 703-614-8500
   request_form: https://www.efoia.af.mil/palMain.aspx
   request_time_stats:
     '2008':
@@ -269,11 +288,36 @@ departments:
       simple_highest_days: '435'
       simple_lowest_days: less than 1
       simple_median_days: '8'
+    '2015':
+      complex_average_days: '82'
+      complex_highest_days: '1232'
+      complex_lowest_days: less than 1
+      complex_median_days: '36'
+      expedited_processing_average_days: '38'
+      expedited_processing_highest_days: '123'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '24'
+      simple_average_days: '16'
+      simple_highest_days: '1343'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '66'
+      complex_highest_days: '1016'
+      complex_lowest_days: '1'
+      complex_median_days: '35'
+      expedited_processing_average_days: '68'
+      expedited_processing_highest_days: '1067'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '13'
+      simple_average_days: '15'
+      simple_highest_days: '695'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center:
     phone:
-    - 703-693-2634
+    - 703-693-2735
   top_level: false
-  usa_id: '49080'
   website: http://www.foia.af.mil/
 - address:
     address_lines:
@@ -285,23 +329,25 @@ departments:
     state: VA
     street: 7701 Telegraph Road, Room 150
     zip: 22315-3905
-  description: Focusing on land operations, the U.S. Army organizes, trains, and equips
-    active duty and Reserve forces to preserve the peace, security, and defense of
-    the United States.
   emails:
   - usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil
   fax: 703-428-6522
   keywords:
   - Administrative practice and procedure
   - Air pollution control
+  - Alcohol and alcoholic beverages
   - Archives and records
   - Armed forces
+  - Armed forces reserves
+  - Arms and munitions
+  - Banks, banking
   - Biologics
   - Cemeteries
   - Civil disorders
   - Claims
   - Credit
   - Crime
+  - Decorations, medals, awards
   - Disaster assistance
   - District of Columbia
   - Environmental impact statements
@@ -321,10 +367,13 @@ departments:
   - Law
   - Law enforcement
   - Law enforcement officers
+  - Marine safety
   - Military law
   - Military personnel
+  - Monuments and memorials
   - National defense
   - Natural resources
+  - Navigation (water)
   - Noise control
   - Occupational safety and health
   - Penalties
@@ -337,15 +386,13 @@ departments:
   - Veterans
   - Waste treatment and disposal
   - Water pollution control
+  - Waterways
   name: Department of the Army
   phone: 703-428-7128
   public_liaison:
-    name: Bruno Leuyer
+    name: Alecia Bolling
     phone:
     - 703-428-6462
-  reading_rooms:
-  - - Reading Room
-    - https://www.foia.army.mil/ReadingRoom/
   request_time_stats:
     '2008':
       complex_average_days: '41'
@@ -423,11 +470,36 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '4'
+    '2015':
+      complex_average_days: '37'
+      complex_highest_days: '1785'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '139'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '5'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2016':
+      complex_average_days: '44'
+      complex_highest_days: '1669'
+      complex_lowest_days: less than 1
+      complex_median_days: '17'
+      expedited_processing_average_days: '58'
+      expedited_processing_highest_days: '364'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '8'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
   service_center:
     phone:
     - 703-428-6238
   top_level: false
-  usa_id: '49096'
   website: https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html
 - address:
     address_lines:
@@ -438,7 +510,8 @@ departments:
     state: DC
     street: 2000 Navy Pentagon
     zip: 20350-2000
-  description: The Navy's primary mission is to defend the United States.
+  emails:
+  - DONFOIA-PA@navy.mil
   fax: 202-685-6580
   keywords:
   - Administrative practice and procedure
@@ -578,11 +651,36 @@ departments:
       simple_highest_days: '1345'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '147'
+      complex_highest_days: '2097'
+      complex_lowest_days: '1'
+      complex_median_days: '54'
+      expedited_processing_average_days: '42'
+      expedited_processing_highest_days: '328'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10'
+      simple_average_days: '54'
+      simple_highest_days: '3036'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '113'
+      complex_highest_days: '1395'
+      complex_lowest_days: '1'
+      complex_median_days: '30'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '612'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '27'
+      simple_highest_days: '1758'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
   service_center:
     phone:
     - 202-685-0412
   top_level: false
-  usa_id: '49561'
   website: https://foia.navy.mil
 - address:
     address_lines:
@@ -603,10 +701,8 @@ departments:
     phone:
     - 703-697-0031
   reading_rooms:
-  - - HQMC FOIA Reading Room
-    - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAreadingroom.aspx
   - - USMC FOIA Reading Room
-    - http://www.hqmc.marines.mil/Agencies/USMCFOIA/USMCFOIAReadingRoom.aspx
+    - http://www.hqmc.marines.mil/Agencies/USMC-FOIA/USMC-FOIA-Reading-Room/
   request_form: https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate
   service_center:
     phone:
@@ -622,7 +718,8 @@ departments:
     state: VA
     street: 5109 Leesburg Pike
     zip: 22041-3208
-  emails: []
+  emails:
+  - asbca.recorder@mail.mil
   fax: 703-681-8535
   misc:
     General Counsel:
@@ -695,6 +792,24 @@ departments:
       simple_highest_days: '16'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2015':
+      simple_average_days: '7'
+      simple_highest_days: '22'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '26'
+      complex_highest_days: '83'
+      complex_lowest_days: '3'
+      complex_median_days: '13'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '20'
+      simple_average_days: '2'
+      simple_highest_days: '5'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 703-681-8503
@@ -709,9 +824,6 @@ departments:
     state: VA
     street: 1300 E Avenue
     zip: 23801-1800
-  description: The Defense Commissary Agency provides a worldwide netowrk of commissaries
-    that sell groceries and household supplies at low cost to members of the Armed
-    Services.
   emails:
   - foia@deca.mil
   fax: 804-734-8116
@@ -789,14 +901,26 @@ departments:
       simple_highest_days: '229'
       simple_lowest_days: less than 1
       simple_median_days: '23'
+    '2015':
+      simple_average_days: '9'
+      simple_highest_days: '80'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '12'
+      simple_highest_days: '124'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 804-734-8116
   top_level: false
-  usa_id: '49197'
   website: http://www.commissaries.com/foiainfo.cfm
-- abbreviation: DCAA
-  address:
+- address:
     address_lines:
     - Keith Mastromichalis
     - 'ATTN: CMR, FOIA Service Center'
@@ -805,10 +929,6 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6219
-  description: The Defense Contract Audit Agency provides all contract audit services
-    for the Department of Defense. This agency also provides accounting and financial
-    advice to all Department of Defense components involved in procurement and contract
-    administration.
   emails:
   - DCAA-FOIA@dcaa.mil
   fax: 703-767-1011
@@ -817,9 +937,9 @@ departments:
   name: Defense Contract Audit Agency
   phone: 703-767-1022
   public_liaison:
-    name: Merrick Krause
+    name: David Gallagher
     phone:
-    - 703-767-2249
+    - 571-488-3124
   request_time_stats:
     '2008':
       complex_average_days: '24'
@@ -896,11 +1016,28 @@ departments:
       simple_highest_days: '23'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '22'
+      complex_highest_days: '30'
+      complex_lowest_days: '15'
+      complex_median_days: '22'
+      simple_average_days: '8'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '15'
+      complex_highest_days: '15'
+      complex_lowest_days: '15'
+      complex_median_days: '15'
+      simple_average_days: '7'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 703-767-1022
   top_level: false
-  usa_id: '49200'
   website: http://www.dcaa.mil/foia.htm
 - address:
     address_lines:
@@ -911,10 +1048,6 @@ departments:
     state: VA
     street: 3901 A Avenue
     zip: '23801'
-  description: The Defense Contract Management Agency is responsible for contract
-    management for the Department of Defense, the National Aeronautics and Space Administration,
-    and several other federal, state, foreign and international goverments and agencies.
-    Its goal is to ensure contracts are fulfilled on time and at the correct cost.
   emails:
   - DCMA.FOIA@DCMA.mil
   fax: 804-734-0109
@@ -925,14 +1058,11 @@ departments:
       - 804-734-1488
       - 804-734-1466
   name: Defense Contract Management Agency
-  phone: 804-734-1466
+  phone: 804-734-1488
   public_liaison:
-    name: Mark Woodbury
+    name: Bruce Cole
     phone:
-    - 804-734-1487
-  reading_rooms:
-  - - FOIA Library
-    - http://www.dcma.mil/DCMAHQ/FOIA/reading_room.cfm
+    - 804-734-0202
   request_time_stats:
     '2008':
       complex_average_days: '71'
@@ -1021,14 +1151,30 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '119'
+      complex_highest_days: '917'
+      complex_lowest_days: '22'
+      complex_median_days: '66'
+      simple_average_days: '10'
+      simple_highest_days: '46'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '224'
+      complex_highest_days: '1242'
+      complex_lowest_days: '23'
+      complex_median_days: '96'
+      simple_average_days: '23'
+      simple_highest_days: '202'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
   service_center:
     phone:
-    - 804-734-1466
+    - 804-734-1488
   top_level: false
-  usa_id: '49202'
   website: http://www.dcma.mil/DCMAHQ/FOIA/index.cfm
-- abbreviation: DFAS
-  address:
+- address:
     address_lines:
     - Gregory Outlaw
     - FOIA Contact
@@ -1037,12 +1183,8 @@ departments:
     state: IN
     street: 8899 East 56th Street
     zip: 46249-0150
-  description: The Defense Finance and Accounting Service oversees payments to Department
-    of Defense servicemembers, employees, vendors and contractors. The Defense Finance
-    and Accounting Services also provides Department of Defense decision makers with
-    business intelligence, finance and accounting information.
   emails:
-  - gregory.outlaw@dfas.mil
+  - dfas.foia@mail.mil
   fax: 317-212-8802
   misc:
     FOIA/PA Program Manager/FOIA Liaison officer:
@@ -1059,7 +1201,7 @@ departments:
     - 317-212-4591
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.dfas.mil/foia/foiareadingroom.html
+    - https://www.dfas.mil/foia/foiareadingroom.html
   request_time_stats:
     '2008':
       complex_average_days: '39'
@@ -1148,14 +1290,30 @@ departments:
       simple_highest_days: '36'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '25'
+      complex_highest_days: '70'
+      complex_lowest_days: '3'
+      complex_median_days: '19'
+      simple_average_days: '11'
+      simple_highest_days: '62'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '37'
+      complex_highest_days: '107'
+      complex_lowest_days: '2'
+      complex_median_days: '27'
+      simple_average_days: '14'
+      simple_highest_days: '70'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
   service_center:
     phone:
     - 317-212-4591
   top_level: false
-  usa_id: '52595'
   website: http://www.dfas.mil/foia.html
-- abbreviation: DISA
-  address:
+- address:
     address_lines:
     - Robin M. Berger
     - FOIA Contact
@@ -1164,9 +1322,6 @@ departments:
     state: MD
     street: P.O. Box 549
     zip: 20755-0549
-  description: The Defense Information Systems Agency provides a global infrastructure
-    for information sharing and communication across the Department of Defense, from
-    the President on down.
   emails:
   - disa.meade.gc.mbx.disa-gen-counsel@mail.mil
   fax: 301-225-0510
@@ -1183,20 +1338,16 @@ departments:
     phone:
     - 301-225-6104
   top_level: false
-  usa_id: '49209'
   website: http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program
-- abbreviation: DIA
-  address:
+- address:
     address_lines:
     - Alesia Y. Williams
     - FOIA Contact
-    - 'ATTN: DAN-1A (FOIA)'
+    - 'ATTN: FAC2A1 (FOIA)'
     city: Washington
     state: DC
-    street: 200 MacDill Blvd.
-    zip: 20340-5100
-  description: The Defense Intelligence Agency provides defense intelligence to "provide
-    a decision advantage to warfighters, planners, and policy makers."
+    street: 7400 Pentagon
+    zip: 20301-7400
   emails:
   - foia@dodiis.mil
   fax: 301-394-5356
@@ -1213,7 +1364,7 @@ departments:
     - 301-394-5587
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.dia.mil/FOIA/FOIAElectronicReadingRoom.aspx
+    - http://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/
   request_time_stats:
     '2008':
       complex_average_days: '516'
@@ -1290,14 +1441,30 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '641'
+      complex_highest_days: '3517'
+      complex_lowest_days: '21'
+      complex_median_days: '199'
+      simple_average_days: '7'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '542'
+      complex_highest_days: '3885'
+      complex_lowest_days: '21'
+      complex_median_days: '195'
+      simple_average_days: '10'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
   service_center:
     phone:
     - 301-394-5587
   top_level: false
-  usa_id: '49211'
   website: http://www.dia.mil/FOIA.aspx
-- abbreviation: DLA
-  address:
+- address:
     address_lines:
     - Kathy Dixon
     - FOIA Contact
@@ -1306,9 +1473,6 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6221
-  description: The Defense Logistics Agency provides logistical, acquisition, and
-    technical support for the Army, Navy, Air Force, Marine Corps and other federal
-    agencies and allies.
   emails:
   - hq-foia@dla.mil
   fax: 703-767-6091
@@ -1321,9 +1485,6 @@ departments:
     name: Lewis Oleinick
     phone:
     - 703-767-6194
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.dla.mil/foia-privacy/Pages/FOIAReading.aspx
   request_time_stats:
     '2008':
       complex_average_days: '30'
@@ -1410,28 +1571,45 @@ departments:
       simple_highest_days: '207'
       simple_lowest_days: '6'
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '12'
+      complex_highest_days: '152'
+      complex_lowest_days: '1'
+      complex_median_days: '8'
+      simple_average_days: '3'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '19'
+      complex_highest_days: '186'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '11'
+      simple_average_days: '5'
+      simple_highest_days: '76'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 703-767-5247
     - 703-767-6183
   top_level: false
-  usa_id: '52599'
   website: http://www.dla.mil/foia-privacy/
-- abbreviation: DSS
-  address:
+- address:
     address_lines:
-    - Leslie Blake
+    - Stephanie J. Courtney
     - FOIA Contact
     - Office of FOIA and Privacy
     city: Quantico
     state: VA
     street: 27130 Telegraph Road
     zip: '22314'
-  description: The Defense Security Service provides security for the Department of
-    Defense and a number of other federal agencies. This includes providing industrial
-    security oversight and assistance for contractor facilities.
   emails:
-  - Leslie.Blake@dss.mil
+  - dss.quantico.dss-hq.mbx.foia@mail.mil
   fax: 571-305-6931
   misc:
     Office of FOI and Privacy:
@@ -1508,26 +1686,32 @@ departments:
       simple_highest_days: '60'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      simple_average_days: '5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      simple_average_days: '55'
+      simple_highest_days: '130'
+      simple_lowest_days: less than 1
+      simple_median_days: '60'
   service_center:
     phone:
     - 571-305-6740
   top_level: false
-  usa_id: '49219'
   website: https://www.dss.mil/foia/foia_program.html
-- abbreviation: DTRA
-  address:
+- address:
     address_lines:
-    - LaTonya Small
+    - Pamela Andrews
     - FOIA Contact
     - MSC 6201
     city: Fort Belvoir
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6201
-  description: The Defense Threat Reduction Agency is a combat support agency whose
-    goal is to reduce the threat posed by weapons of mass destruction.
   emails:
-  - efoia@dtra.mil
+  - dtra.belvoir.J0.mbx.efoia-privacy@mail.mil
   fax: 703-767-3623
   misc:
     FOIA/Privacy Act Ofc (JOXGP-F):
@@ -1537,14 +1721,13 @@ departments:
   name: Defense Threat Reduction Agency
   phone: 703-767-1792
   public_liaison:
-    name: LaTonya Small
+    name: Pamela Andrews
     phone:
     - 703-767-1792
   service_center:
     phone:
     - 703-767-1792
   top_level: false
-  usa_id: '49223'
   website: http://www.dtra.mil/Info/FOIA/FOIAHome.aspx
 - address:
     address_lines:
@@ -1555,9 +1738,6 @@ departments:
     state: VA
     street: 8725 John J. Kingman Road
     zip: 22060-6218
-  description: The Defense Technical Information Center serves the Department of Defense
-    as a repository of government funded scientific, technical, engineering and business
-    related inormation.
   emails:
   - foia@dtic.mil
   fax: 703-767-9201
@@ -1572,9 +1752,6 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - ELECTRONIC                 READING ROOM
-    - http://www.dtic.mil/dtic/foiareadingroom.html
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -1643,11 +1820,28 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '40'
+      complex_highest_days: '73'
+      complex_lowest_days: '21'
+      complex_median_days: '27'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '31'
+      complex_highest_days: '80'
+      complex_lowest_days: '21'
+      complex_median_days: '32'
+      simple_average_days: '8'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
   service_center:
     phone:
     - 703-767-9204
   top_level: false
-  usa_id: '49221'
   website: http://www.dtic.mil/dtic/foia.html
 - address:
     address_lines:
@@ -1748,6 +1942,24 @@ departments:
       simple_highest_days: '51'
       simple_lowest_days: '1'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '32'
+      complex_highest_days: '66'
+      complex_lowest_days: '18'
+      complex_median_days: '29'
+      simple_average_days: '18'
+      simple_highest_days: '27'
+      simple_lowest_days: '5'
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '34'
+      complex_highest_days: '64'
+      complex_lowest_days: '21'
+      complex_median_days: '35'
+      simple_average_days: '18'
+      simple_highest_days: '47'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
   service_center:
     phone:
     - 571-372-1892
@@ -1755,18 +1967,18 @@ departments:
   website: http://www.dodea.edu/foia.cfm
 - address:
     address_lines:
-    - Wyvonda Gerald
+    - Claudia Williams
     - FOIA Contact
     - Mail Stop S01-EGM
     city: Springfield
     state: VA
     street: 7500 GEOINT Drive
     zip: '22150'
-  description: The National Geospatial-Intelligence Agency provides location-based
-    intelligence in support of national security.
   emails:
   - foianga@nga.mil
   fax: 571-557-3130
+  keywords:
+  - Privacy
   misc:
     FOIA Program Manager:
       phone:
@@ -1774,7 +1986,7 @@ departments:
   name: National Geospatial-Intelligence Agency
   phone: 571-557-4141
   public_liaison:
-    name: Elizabeth M. Smith
+    name: Robert Milford
     phone:
     - 571-557-7708
   request_form: https://foia.nga.mil/palMain.aspx
@@ -1850,11 +2062,32 @@ departments:
       simple_highest_days: '93'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2015':
+      complex_average_days: '190'
+      complex_highest_days: '1079'
+      complex_lowest_days: less than 1
+      complex_median_days: '90'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '25'
+      simple_average_days: '7'
+      simple_highest_days: '7'
+      simple_lowest_days: '7'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '166'
+      complex_highest_days: '817'
+      complex_lowest_days: '1'
+      complex_median_days: '94'
+      simple_average_days: '5'
+      simple_highest_days: '10'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 571-557-4141
   top_level: true
-  usa_id: '49504'
   website: http://www1.nga.mil/Pages/FOIA.aspx
 - address:
     address_lines:
@@ -1865,8 +2098,6 @@ departments:
     state: VA
     street: 111 South George Mason Drive, AH2
     zip: 22204-1373
-  description: The National Guard assists in times of local emergency and can also
-    be called into federal service.
   emails:
   - NGB.FOIA@mail.mil
   fax: 703-607-3684
@@ -1879,7 +2110,10 @@ departments:
   public_liaison:
     name: Jim Hogan
     phone:
-    - 571-372-0463
+    - 571-372-0462
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.nationalguard.mil/Resources/FOIA/Reading-Room/
   request_time_stats:
     '2009':
       complex_average_days: '65'
@@ -1943,12 +2177,29 @@ departments:
       simple_highest_days: '35'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2015':
+      complex_average_days: '222'
+      complex_highest_days: '702'
+      complex_lowest_days: less than 1
+      complex_median_days: '145'
+      simple_average_days: '15'
+      simple_highest_days: '159'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '285'
+      complex_highest_days: '899'
+      complex_lowest_days: less than 1
+      complex_median_days: '223'
+      simple_average_days: '13'
+      simple_highest_days: '275'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 844-573-2939
   top_level: true
-  usa_id: '49506'
-  website: http://www.arng.army.mil/Pages/FOIA.aspx
+  website: http://www.nationalguard.mil/Resources/FOIA.aspx
 - abbreviation: NRO
   address:
     address_lines:
@@ -1959,8 +2210,6 @@ departments:
     state: VA
     street: 14675 Lee Road
     zip: 20151-1715
-  description: The National Reconnaissance Office is responsible for designing, building,
-    launching, and maintaining intelligence satellites.
   emails:
   - foia@nro.mil
   fax: 703-227-9198
@@ -2063,37 +2312,50 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: less than 1
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '156'
+      complex_highest_days: '1676'
+      complex_lowest_days: '15'
+      complex_median_days: '91'
+      simple_average_days: '8'
+      simple_highest_days: '23'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '224'
+      complex_highest_days: '1579'
+      complex_lowest_days: '6'
+      complex_median_days: '89'
+      simple_average_days: '25'
+      simple_highest_days: '164'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
   service_center:
     phone:
     - 703-227-9326
   top_level: true
-  usa_id: '49542'
   website: http://www.nro.gov/foia/index.html
-- abbreviation: NSA
-  address:
+- address:
     address_lines:
-    - Paul J. Blaskowski
+    - Sharon Linkous
     - FOIA Contact, FOIA Requester Service Center/DJ4
     - Suite 6248
     city: Fort George G. Meade
     state: MD
     street: 9800 Savage Road
     zip: 20755-6248
-  description: The National Security Agency and Central Security Service are the "codemaker
-    and codebreakers" of the intelligence community, providing foreign signal and
-    communications intelligence to decision makers.
   emails:
   - foiarsc@nsa.gov
   fax: 443-479-3612
   name: National Security Agency
   phone: 301-688-6527
   public_liaison:
-    name: Paul J. Blaskowski
+    name: John Chapman
     phone:
     - 301-688-6527
   reading_rooms:
   - - Reading Room
-    - https://www.nsa.gov/public_info/foia/reading_room/index.shtml
+    - https://www.nsa.gov/resources/everyone/foia/reading-room/
   request_form: http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml
   request_time_stats:
     '2008':
@@ -2187,16 +2449,41 @@ departments:
       simple_highest_days: '569'
       simple_lowest_days: less than 1
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '515'
+      complex_highest_days: '3221'
+      complex_lowest_days: '1'
+      complex_median_days: '533'
+      expedited_processing_average_days: '469'
+      expedited_processing_highest_days: '469'
+      expedited_processing_lowest_days: '469'
+      expedited_processing_median_days: '469'
+      simple_average_days: '31'
+      simple_highest_days: '613'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '511'
+      complex_highest_days: '2751'
+      complex_lowest_days: '2'
+      complex_median_days: '487'
+      expedited_processing_average_days: '938'
+      expedited_processing_highest_days: '1850'
+      expedited_processing_lowest_days: '26'
+      expedited_processing_median_days: '26'
+      simple_average_days: '50'
+      simple_highest_days: '1487'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
   service_center:
     phone:
     - 301-688-6527
   top_level: true
-  usa_id: '49546'
   website: http://www.nsa.gov/public_info/foia/index.shtml
 - address:
     address_lines:
-    - Jeanne Miller
-    - Chief, Freedom of Information & Privacy Office
+    - Catherine DelPrete
+    - FOIA Contact
     - Suite 17F18
     city: Alexandria
     state: VA
@@ -2208,6 +2495,10 @@ departments:
       name: Jeanne Miller
       phone:
       - 866-993-7005
+    Supervisory Attorney FOIA/PA/CL:
+      name: Catherine DelPrete
+      phone:
+      - 703-604-8350
   name: Office of Inspector General
   phone: 866-993-7005
   public_liaison:
@@ -2216,7 +2507,9 @@ departments:
     - 703-604-9785
   reading_rooms:
   - - FOIA Reading Room
-    - http://www.dodig.mil/foia/readingroom.html
+    - http://www.dodig.mil/foia/readingroom.cfm
+  - - Reading Room
+    - http://www.dodig.mil/FOIA/readingroom.cfm
   - - Reading Room
     - http://www.dodig.mil/FOIA/readingroom.html
   request_form: http://www.dodig.mil/FOIA/submit.html
@@ -2307,6 +2600,32 @@ departments:
       simple_average_days: '6'
       simple_highest_days: '20'
       simple_lowest_days: less than 1
+      simple_median_days: '5'
+    '2015':
+      complex_average_days: '294'
+      complex_highest_days: '2481'
+      complex_lowest_days: '1'
+      complex_median_days: '142'
+      expedited_processing_average_days: '205'
+      expedited_processing_highest_days: '542'
+      expedited_processing_lowest_days: '53'
+      expedited_processing_median_days: '97'
+      simple_average_days: '6'
+      simple_highest_days: '73'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '257'
+      complex_highest_days: '2794'
+      complex_lowest_days: '1'
+      complex_median_days: '164'
+      expedited_processing_average_days: '216'
+      expedited_processing_highest_days: '1217'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '48'
+      simple_average_days: '9'
+      simple_highest_days: '43'
+      simple_lowest_days: '1'
       simple_median_days: '5'
   service_center:
     phone:
@@ -2412,6 +2731,28 @@ departments:
       simple_highest_days: '96'
       simple_lowest_days: '3'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '58'
+      complex_highest_days: '158'
+      complex_lowest_days: '3'
+      complex_median_days: '49'
+      simple_average_days: '50'
+      simple_highest_days: '180'
+      simple_lowest_days: '4'
+      simple_median_days: '29'
+    '2016':
+      complex_average_days: '71'
+      complex_highest_days: '283'
+      complex_lowest_days: '1'
+      complex_median_days: '57'
+      expedited_processing_average_days: '49'
+      expedited_processing_highest_days: '49'
+      expedited_processing_lowest_days: '49'
+      expedited_processing_median_days: '49'
+      simple_average_days: '29'
+      simple_highest_days: '96'
+      simple_lowest_days: less than 1
+      simple_median_days: '22'
   service_center:
     phone:
     - 703-681-7500
@@ -2427,7 +2768,7 @@ departments:
     street: 10244 Burbeck Road
     zip: 22060-5805
   emails:
-  - jpra-pa@jpra.mil
+  - js.belvoir.jpra.mbx.foia-pa@mail.mil
   fax: 703-704-2231
   name: Joint Personnel Recovery Agency
   phone: 703-704-0637
@@ -2435,9 +2776,6 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - Reading Room
-    - http://www.jpra.mil/links/FOIA/RR.html
   request_form: http://www.jpra.mil/links/FOIA/ElecBasic.html
   request_time_stats:
     '2013':
@@ -2458,6 +2796,24 @@ departments:
       simple_highest_days: '9'
       simple_lowest_days: '7'
       simple_median_days: '8'
+    '2015':
+      complex_average_days: '46'
+      complex_highest_days: '64'
+      complex_lowest_days: '27'
+      complex_median_days: '53'
+      simple_average_days: '16'
+      simple_highest_days: '20'
+      simple_lowest_days: '11'
+      simple_median_days: '18'
+    '2016':
+      complex_average_days: '36'
+      complex_highest_days: '59'
+      complex_lowest_days: '22'
+      complex_median_days: '22'
+      simple_average_days: '5'
+      simple_highest_days: '7'
+      simple_lowest_days: '4'
+      simple_median_days: '4'
   top_level: false
   website: http://www.jpra.mil/links/FOIA/FOIA.html
 - address:
@@ -2542,42 +2898,53 @@ departments:
       simple_highest_days: '103'
       simple_lowest_days: '2'
       simple_median_days: '46'
+    '2015':
+      complex_average_days: '186'
+      complex_highest_days: '826'
+      complex_lowest_days: '47'
+      complex_median_days: '155'
+      simple_average_days: '45'
+      simple_highest_days: '117'
+      simple_lowest_days: '1'
+      simple_median_days: '36'
+    '2016':
+      complex_average_days: '304'
+      complex_highest_days: '972'
+      complex_lowest_days: '62'
+      complex_median_days: '283'
+      expedited_processing_highest_days: less than 1
+      expedited_processing_lowest_days: less than 1
+      simple_average_days: '40'
+      simple_highest_days: '108'
+      simple_lowest_days: '1'
+      simple_median_days: '33'
   service_center:
     phone:
     - +490 711-729-4287
   top_level: false
   website: http://www.africom.mil/FOIA.asp
-- abbreviation: CENTCOM
-  address:
+- address:
     address_lines:
-    - Jacqueline Scott
+    - Steven Johnson
     - FOIA Contact
     - CCJ6-RDF (FOIA/PA)
     city: MacDill AFB
     state: FL
     street: 7115 South Boundary Boulevard
     zip: 33621-5101
-  description: Located between the European and Pacific combatant commands, U.S. Central
-    Command’s area of responsibility covers the "central" area of the globe and consists
-    of 20 countries &#151; Afghanistan, Bahrain, Egypt, Iran, Iraq, Jordan, Kazakhstan,
-    Kuwait, Kyrgyzstan, Lebanon, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan,
-    Turkmenistan, United Arab Emirates, Uzbekistan, and Yemen.
   emails:
-  - foiaoffice@centcom.mil
-  fax: 813-529-6076
+  - centcom.macdill.centcom-hq.mbx.freedom-of-information-act@mail.mil
+  fax: 813-529-6689
   misc:
     FOIA Contact:
       phone:
       - 813-827-1810
   name: U.S. Central Command
-  phone: 813-529-6670
+  phone: 813-529-6298
   public_liaison:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - Reading Room
-    - https://www2.centcom.mil/_Layouts/AcceptAgreement.aspx?src=/sites/foia/rr/default.aspx
   request_form: https://www6.centcom.mil/FOIARequests/request.asp
   request_time_stats:
     '2008':
@@ -2663,25 +3030,48 @@ departments:
       simple_highest_days: '364'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '93'
+      complex_highest_days: '1011'
+      complex_lowest_days: less than 1
+      complex_median_days: '47'
+      expedited_processing_average_days: '196'
+      expedited_processing_highest_days: '860'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '51'
+      simple_average_days: '90'
+      simple_highest_days: '173'
+      simple_lowest_days: '3'
+      simple_median_days: '103'
+    '2016':
+      complex_average_days: '302'
+      complex_highest_days: '2317'
+      complex_lowest_days: less than 1
+      complex_median_days: '132'
+      expedited_processing_average_days: '103'
+      expedited_processing_highest_days: '245'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '80'
+      simple_average_days: '92'
+      simple_highest_days: '211'
+      simple_lowest_days: less than 1
+      simple_median_days: '42'
   service_center:
     phone:
     - 813-827-1810
   top_level: false
-  usa_id: '49135'
   website: http://www.centcom.mil/en/freedom-of-information-act-en
 - address:
     address_lines:
-    - Mayra Lazala-Stock
+    - Brendan Wilson
     - EUCOM FOIA/PA Support Specialist
     - FOIA Requester Service Center
     city: APO
     state: AE
     street: Unit 30400
     zip: 09131
-  description: The U.S. European Command works with partner nations to address regional
-    issues, and keep the peace in Europe, parts of the Middle East, and Eurasia.
   emails:
-  - eucom.stuttgart.ecj1.list.foia-privact-request-mb-access@mail.mil
+  - eucom.stuttgart.ecj1.mbx.foia-privact-request@mail.mil
   fax: +49011 711-680-8092
   misc:
     HQ USEUCOM:
@@ -2777,11 +3167,28 @@ departments:
       simple_highest_days: '108'
       simple_lowest_days: '1'
       simple_median_days: '6'
+    '2015':
+      complex_average_days: '36'
+      complex_highest_days: '821'
+      complex_lowest_days: '23'
+      complex_median_days: '56'
+      simple_average_days: '15'
+      simple_highest_days: '42'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '60'
+      complex_highest_days: '60'
+      complex_lowest_days: '60'
+      complex_median_days: '60'
+      simple_average_days: '17'
+      simple_highest_days: '38'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
   service_center:
     phone:
     - +49011 711-680-7161
   top_level: false
-  usa_id: '49261'
   website: http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center
 - address:
     address_lines:
@@ -2792,9 +3199,6 @@ departments:
     state: CO
     street: 250 Vandenberg Street Suite B016
     zip: 80914-3804
-  description: The Northern Command is responsible for defending the continental United
-    States and Alaska, and for coordinating with the defenses of Canada, Mexico, and
-    the Bahamas..
   emails:
   - n-nc.peterson.n-ncspecialstaff.mbx.cska-foia-omb@mail.mil
   fax: 719-554-2619
@@ -2811,9 +3215,9 @@ departments:
     - 571-372-0462
   reading_rooms:
   - - FOIA Library
-    - http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct/ReadingRoom/FOIALibrary.aspx
+    - http://www.northcom.mil/About-USNORTHCOM/Freedom-of-Information-Act/Reading-Room/FOIA-Library/
   - - Reading Room
-    - http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct/ReadingRoom.aspx
+    - http://www.northcom.mil/About-USNORTHCOM/Freedom-of-Information-Act/Reading-Room/
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -2886,11 +3290,36 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '67'
+      complex_highest_days: '216'
+      complex_lowest_days: '21'
+      complex_median_days: '60'
+      expedited_processing_average_days: '12'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '12'
+      simple_average_days: '10'
+      simple_highest_days: '23'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '270'
+      complex_highest_days: '1663'
+      complex_lowest_days: '22'
+      complex_median_days: '111'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11'
+      simple_average_days: '5'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     phone:
     - 719-554-1785
   top_level: false
-  usa_id: '49565'
   website: http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx
 - address:
     address_lines:
@@ -2901,8 +3330,6 @@ departments:
     state: HI
     street: Box 64017
     zip: 96861-4017
-  description: Headquartered in Hawaii, the U.S. Pacific Command is responsible for
-    defending and promoting U.S. interests in the Pacific and Asia.
   emails:
   - pacom.foia.fct@pacom.mil
   fax: 808-447-6685
@@ -2918,7 +3345,9 @@ departments:
     - 571-372-0462
   reading_rooms:
   - - FOIA - Reading Room
-    - http://www.pacom.mil/Media/FreedomofInformationAct/FOIAReadingRoom.aspx
+    - http://www.pacom.mil/Media/Freedom-of-Information-Act/FOIA-Reading-Room/
+  - - Reading Room
+    - http://www.pacom.mil/Media/Freedom-of-Information-Act/FOIAReadingRoom/
   request_time_stats:
     '2008':
       complex_average_days: '489'
@@ -2999,11 +3428,28 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '529'
+      complex_highest_days: '3262'
+      complex_lowest_days: '1'
+      complex_median_days: '36'
+      simple_average_days: '3'
+      simple_highest_days: '6'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '39'
+      complex_highest_days: '1068'
+      complex_lowest_days: '2'
+      complex_median_days: '11'
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     phone:
     - 808-477-0995
   top_level: false
-  usa_id: '49601'
   website: http://www.pacom.mil/Media/FreedomofInformationAct.aspx
 - address:
     address_lines:
@@ -3014,10 +3460,8 @@ departments:
     state: FL
     street: 9301 NW 33rd St.
     zip: '33172'
-  description: The U.S. Southern Command is responsible for security cooperation and
-    operations in Central and South America and the Caribbean.
   emails:
-  - whs.mc-alex.esd.mbx.foia-liaison@mail.mil
+  - southcom.miami.sc-cc.mbx.southcomfoia@mail.mil
   fax: 305-437-1320
   misc:
     FOIA Contact:
@@ -3030,8 +3474,10 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms: []
-  request_form: http://www.southcom.mil/foia/Pages/File-FOIA-Request.aspx
+  reading_rooms:
+  - - ​FOIA Reading Room
+    - http://www.southcom.mil/FOIA/FOIA-Reading-Room/
+  request_form: http://www.southcom.mil/foia/Lists/FOIA%20Contact%20Submissions/Item/newifs.aspx?List=90f59c60%2D1255%2D4b96%2Daed0%2D4781c50e01fe&Source=%2Ffoia%2FPages%2FThank%2DYou%2Easpx&Web=d80bb3e4%2Db3a6%2D4623%2D97b0%2D0f5332fbf674
   request_time_stats:
     '2008':
       complex_average_days: '0'
@@ -3104,11 +3550,28 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '6'
       simple_median_days: '19'
+    '2015':
+      complex_average_days: '303'
+      complex_highest_days: '2184'
+      complex_lowest_days: '26'
+      complex_median_days: '212'
+      simple_average_days: '4'
+      simple_highest_days: '19'
+      simple_lowest_days: '2'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '315'
+      complex_highest_days: '2372'
+      complex_lowest_days: '31'
+      complex_median_days: '265'
+      simple_average_days: '3'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center:
     phone:
     - 305-437-1108
   top_level: false
-  usa_id: '49674'
   website: http://www.southcom.mil/foia/Pages/FOIA.aspx
 - address:
     address_lines:
@@ -3133,7 +3596,10 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  request_form: http://www.socom.mil/FOIA/Pages/Request.aspx
+  reading_rooms:
+  - - USSOCOM E-Reading Room
+    - http://www.socom.mil/FOIA/Pages/ReadingRoom.aspx
+  request_form: http://www.SOCOM.mil/FOIA/Pages/Request.aspx
   request_time_stats:
     '2008':
       complex_average_days: '598'
@@ -3214,6 +3680,24 @@ departments:
       simple_highest_days: '106'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '387'
+      complex_highest_days: '3025'
+      complex_lowest_days: '3'
+      complex_median_days: '174'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2016':
+      complex_average_days: '445'
+      complex_highest_days: '2019'
+      complex_lowest_days: '3'
+      complex_median_days: '322'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     phone:
     - 813-826-3212
@@ -3228,10 +3712,6 @@ departments:
     state: NE
     street: 901 SAC BLVD STE 2E27
     zip: '68113'
-  description: U.S. Strategic Command is a unified command, incorporating elements
-    of all military services, in an effort to detect and deter attacks against the
-    U.S. and its allies. This mission includes nuclear deterrence, space, and cyberspace
-    capabilities.
   emails:
   - FOIA-PARequestCenter-U@stratcom.mil
   fax: 402-294-7535
@@ -3246,9 +3726,6 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - Reading Room
-    - http://www.stratcom.mil/foia/reading_room/
   request_time_stats:
     '2008':
       complex_average_days: '38'
@@ -3325,24 +3802,46 @@ departments:
       simple_highest_days: '19'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '104'
+      complex_highest_days: '475'
+      complex_lowest_days: '23'
+      complex_median_days: '65'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '9'
+      simple_highest_days: '19'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
+    '2016':
+      complex_average_days: '85'
+      complex_highest_days: '373'
+      complex_lowest_days: '21'
+      complex_median_days: '57'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '14'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '14'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     phone:
     - 402-294-6321
   top_level: false
-  usa_id: '49685'
   website: http://www.stratcom.mil/foia/
 - address:
     address_lines:
-    - Candice Velazquez
+    - Dorothy Sherwood
     - FOIA Contact
     - USTRANSCOM/TCJA-FO
     city: Scott AFB
     state: IL
     street: 508 Scott Drive
     zip: 62225-5357
-  description: The U.S. Transportation Command provides transportation services and
-    capabilities to the other combatant commands, the military services and defense
-    agencies..
   emails:
   - transcom.scott.tcja.mbx.foia@mail.mil
   fax: 618-229-4711
@@ -3356,9 +3855,6 @@ departments:
     name: Jim Hogan
     phone:
     - 571-372-0462
-  reading_rooms:
-  - - Reading Room
-    - http://www.transcom.mil/foia/reading_room.cfm
   request_form: http://www.transcom.mil/foia/requestform.cfm
   request_time_stats:
     '2008':
@@ -3440,22 +3936,40 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '309'
+      complex_highest_days: '2486'
+      complex_lowest_days: '3'
+      complex_median_days: '189'
+      expedited_processing_average_days: '32'
+      expedited_processing_highest_days: '36'
+      expedited_processing_lowest_days: '27'
+      expedited_processing_median_days: '32'
+    '2016':
+      complex_average_days: '163'
+      complex_highest_days: '1320'
+      complex_lowest_days: '1'
+      complex_median_days: '55'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '35'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '9'
   service_center:
     phone:
     - 618-220-4100
   top_level: false
-  usa_id: '49699'
   website: http://www.transcom.mil/foia/
-description: The Department of Defense provides the military forces needed to deter
-  war, and to protect the security of the United States.
+description: The mission of the Department of Defense is to provide the military forces
+  needed to deter war and to protect the security of our country.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Adult education
 - Advertising
-- Advisory committees
 - Aged
+- Agency for International Development
 - Agriculture
+- Aid to Families with Dependent Children
 - Air carriers
 - Air pollution control
 - Air traffic control
@@ -3470,6 +3984,7 @@ keywords:
 - Armed forces
 - Armed forces reserves
 - Arms and munitions
+- Authority delegations (Government agencies)
 - Aviation safety
 - Banks, banking
 - Biologics
@@ -3494,7 +4009,6 @@ keywords:
 - Conflict of interests
 - Conscientious objectors
 - Consumer protection
-- Continental shelf
 - Copyright
 - Courts
 - Credit
@@ -3503,8 +4017,8 @@ keywords:
 - Cultural exchange programs
 - Dams
 - Day care
+- Decorations, medals, awards
 - Defense Department
-- Defense communications
 - Dental health
 - Disability benefits
 - Disaster assistance
@@ -3529,6 +4043,8 @@ keywords:
 - Environmental protection
 - Equal educational opportunity
 - Equal employment opportunity
+- Explosives
+- Exports
 - Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
@@ -3544,8 +4060,8 @@ keywords:
 - Government procurement
 - Government property
 - Government property management
-- Government publications
 - Grant programs
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
@@ -3582,6 +4098,7 @@ keywords:
 - Kuwait
 - Labor management relations
 - Labor unions
+- Laboratories
 - Law
 - Law enforcement
 - Law enforcement officers
@@ -3591,6 +4108,7 @@ keywords:
 - Life insurance
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
@@ -3598,6 +4116,7 @@ keywords:
 - Loan programs-veterans
 - Manpower training programs
 - Marine safety
+- Maternal and child health
 - Medical and dental schools
 - Medical devices
 - Medical research
@@ -3606,6 +4125,7 @@ keywords:
 - Military air transportation
 - Military law
 - Military personnel
+- Monuments and memorials
 - Mortgage insurance
 - Mortgages
 - Motion pictures
@@ -3645,15 +4165,18 @@ keywords:
 - Securities
 - Security measures
 - Sex discrimination
+- Small businesses
 - State and local governments
 - Statistics
 - Student aid
+- Sunshine Act
 - Surplus Government property
 - Taxes
 - Teachers
 - Technical assistance
 - Telecommunications
 - Telephone
+- Terrorism
 - Traffic regulations
 - Transportation
 - Travel and transportation expenses
@@ -3664,6 +4187,7 @@ keywords:
 - Virgin Islands
 - Vocational education
 - Vocational rehabilitation
+- Voting rights
 - Wages
 - Wake Island
 - Waste treatment and disposal
@@ -3748,4 +4272,29 @@ request_time_stats:
     simple_average_days: '13'
     simple_highest_days: '1345'
     simple_lowest_days: less than 1
-usa_id: '49229'
+  '2015':
+    complex_average_days: '165.14'
+    complex_highest_days: '3517'
+    complex_lowest_days: less than 1
+    complex_median_days: '89.72'
+    expedited_processing_average_days: '32.33'
+    expedited_processing_highest_days: '860'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '22.89'
+    simple_average_days: '16.58'
+    simple_highest_days: '3036'
+    simple_lowest_days: less than 1
+    simple_median_days: '11.91'
+  '2016':
+    complex_average_days: '158.97'
+    complex_highest_days: '3885'
+    complex_lowest_days: less than 1
+    complex_median_days: '99.02'
+    expedited_processing_average_days: '49.36'
+    expedited_processing_highest_days: '1850'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '10.98'
+    simple_average_days: '19.46'
+    simple_highest_days: '1758'
+    simple_lowest_days: less than 1
+    simple_median_days: '13.44'

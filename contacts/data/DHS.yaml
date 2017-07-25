@@ -10,9 +10,9 @@ address:
 departments:
 - address:
     address_lines:
-    - Karen Neuman
-    - FOIA Officer
-    - STOP-0655
+    - James Holzer
+    - Deputy, FOIA Officer
+    - 'Building 410, Mail Stop #0655'
     city: Washington
     state: DC
     street: 245 Murray Lane, SW
@@ -32,6 +32,9 @@ departments:
     phone:
     - 202-343-1743
     - 866-431-0486
+  reading_rooms:
+  - - FOIA Library
+    - https://www.dhs.gov/foia-library
   request_form: http://www.dhs.gov/make-foia-request
   service_center:
     phone:
@@ -49,9 +52,6 @@ departments:
     state: MO
     street: P.O. Box 648010
     zip: 64064-8010
-  description: The U.S. Citizenship and Immigration Services is responsible for processing
-    immigration and naturalization applications and establishing policies regarding
-    immigration services.
   emails:
   - uscis.foia@dhs.gov
   fax: 816-350-5785
@@ -63,13 +63,17 @@ departments:
   - Administrative practice and procedure
   - Aliens
   - Authority delegations (Government agencies)
+  - Citizenship and naturalization
   - Employment
   - Foreign officials
   - Freedom of information
   - Health professions
   - Immigration
+  - Organization and functions (Government agencies)
+  - Passports and visas
   - Penalties
   - Privacy
+  - Refugees
   - Reporting and recordkeeping requirements
   - Students
   - Surety bonds
@@ -83,7 +87,7 @@ departments:
     - 816-350-5521
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.uscis.gov/about-us/electronic-reading-room
+    - https://www.uscis.gov/about-us/electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '291.8'
@@ -174,17 +178,42 @@ departments:
       simple_highest_days: '357'
       simple_lowest_days: '1'
       simple_median_days: '19.18'
+    '2015':
+      complex_average_days: '38.94'
+      complex_highest_days: '408'
+      complex_lowest_days: '1'
+      complex_median_days: '47.27'
+      expedited_processing_average_days: '83.43'
+      expedited_processing_highest_days: '352'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '14.39'
+      simple_average_days: '17.6'
+      simple_highest_days: '282'
+      simple_lowest_days: '1'
+      simple_median_days: '15.07'
+    '2016':
+      complex_average_days: '63.82'
+      complex_highest_days: '523'
+      complex_lowest_days: '1'
+      complex_median_days: '82'
+      expedited_processing_average_days: '82.5'
+      expedited_processing_highest_days: '227'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '46.5'
+      simple_average_days: '23.74'
+      simple_highest_days: '441'
+      simple_lowest_days: '1'
+      simple_median_days: '23'
   service_center:
     phone:
     - 816-350-5521
   top_level: true
-  usa_id: '55897'
   website: http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=34139c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=34139c7755cb9010VgnVCM10000045f3d6a1RCRD
 - address:
     address_lines:
-    - Aeron Pineiro, Acting
+    - Bradley White
     - FOIA Officer
-    - 'Building 410, Mail Stop #0190'
+    - 'Building 410, Mail Stop #0655'
     city: Washington
     state: DC
     street: 245 Murray Lane, SW
@@ -197,11 +226,11 @@ departments:
     phone:
     - 202-357-1218
   name: Office for Civil Rights and Civil Liberties
-  phone: 202-357-1218
+  phone: 202-343-1743
   public_liaison:
-    name: Aeron Pineiro, Acting
+    name: Bradley White
     phone:
-    - 202-357-1218
+    - 202-343-1743
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -279,9 +308,27 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2015':
+      complex_average_days: '107.6'
+      complex_highest_days: '220'
+      complex_lowest_days: '24'
+      complex_median_days: '94'
+      simple_average_days: '4.23'
+      simple_highest_days: '12'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '144.14'
+      complex_highest_days: '398'
+      complex_lowest_days: '1'
+      complex_median_days: '96'
+      simple_average_days: '32.43'
+      simple_highest_days: '227'
+      simple_lowest_days: less than 1
+      simple_median_days: '20.5'
   service_center:
     phone:
-    - 202-357-1218
+    - 202-343-1743
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0371.shtm
 - abbreviation: USCG
@@ -294,8 +341,6 @@ departments:
     state: DC
     street: 2703 Martin Luther King Jr Ave
     zip: 20593-7710
-  description: The U.S. Coast Guard safeguards the maritime interests of the United
-    States and the environment around the world.
   emails:
   - efoia@uscg.mil
   fax: 202-475-3927
@@ -312,6 +357,7 @@ departments:
   - Alaska
   - Alcohol abuse
   - Alcohol and alcoholic beverages
+  - Aliens
   - Anchorage grounds
   - Archives and records
   - Armed forces
@@ -320,6 +366,7 @@ departments:
   - Aviation safety
   - Benzene
   - Bridges
+  - Buildings and facilities
   - Business and industry
   - Cargo vessels
   - Citizenship and naturalization
@@ -331,6 +378,7 @@ departments:
   - Communications equipment
   - Conflict of interests
   - Continental shelf
+  - Decorations, medals, awards
   - Defense Department
   - Diving
   - Drug abuse
@@ -344,6 +392,7 @@ departments:
   - Fire prevention
   - Fishing vessels
   - Foreign relations
+  - Fraud
   - Freedom of information
   - Freight
   - Gases
@@ -402,10 +451,12 @@ departments:
   - Telecommunications
   - Telephone
   - Terrorism
+  - Traffic regulations
   - Transportation
   - Travel
   - Travel and transportation expenses
   - Treaties
+  - Uniform System of Accounts
   - Vessels
   - Veterans
   - Vocational education
@@ -504,25 +555,48 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      complex_average_days: '87.48'
+      complex_highest_days: '1334'
+      complex_lowest_days: '1'
+      complex_median_days: '27'
+      expedited_processing_average_days: '12.6'
+      expedited_processing_highest_days: '52'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10.5'
+      simple_average_days: '10.92'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '137.39'
+      complex_highest_days: '1439'
+      complex_lowest_days: '21'
+      complex_median_days: '45'
+      expedited_processing_average_days: '36.5'
+      expedited_processing_highest_days: '61'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '36.5'
+      simple_average_days: '8.95'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
   service_center:
     name: Amanda Ackerson
     phone:
     - 202-475-3522
   top_level: true
-  usa_id: '49149'
   website: http://www.uscg.mil/foia/
 - abbreviation: CBP
   address:
     address_lines:
     - Sabrina Burroughs
     - FOIA Officer
-    - 90 K Street, NE
+    - MS 1181
     city: Washington
     state: DC
-    street: 9th Floor
+    street: 1300 Pennsylvania Ave., NW
     zip: 20229-1181
-  description: 'Customs and Border Protection prevents people from entering the country
-    illegally, or bringing anything harmful or illegal into the United States. '
   fax: 202-325-0230
   foia_officer:
     name: Sabrina Burroughs
@@ -541,19 +615,23 @@ departments:
   - Aliens
   - American Samoa
   - Antidumping
+  - Arts and crafts
   - Authority delegations (Government agencies)
   - Bonds
   - Brokers
+  - Business and industry
   - Canada
   - Cargo vessels
   - Caribbean Basin initiative
   - Cigars and cigarettes
   - Claims
+  - Classified information
   - Coastal zone
   - Coffee
   - Common carriers
   - Computer technology
   - Confidential business information
+  - Copyright
   - Cotton
   - Countervailing duties
   - Courts
@@ -564,9 +642,12 @@ departments:
   - Electronic products
   - Employment
   - Executive orders
+  - Explosives
   - Exports
+  - Fairs and expositions
   - Fishing vessels
   - Foreign currencies
+  - Foreign investments in United States
   - Foreign officials
   - Foreign trade zones
   - Freedom of information
@@ -576,10 +657,12 @@ departments:
   - Government employees
   - Government procurement
   - Guam
+  - Guantanamo Bay Naval Station, Cuba
   - Harbors
   - Health professions
   - Immigration
   - Imports
+  - International boundaries
   - International organizations
   - Kingman Reef
   - Labeling
@@ -588,6 +671,7 @@ departments:
   - Liquors
   - Lotteries
   - Maritime carriers
+  - Meat and meat products
   - Metals
   - Mexico
   - Midway Islands
@@ -615,12 +699,15 @@ departments:
   - Surety bonds
   - Taxes
   - Trade agreements
+  - Trade names
   - Trademarks
   - Travel restrictions
+  - Treaties
   - Vessels
   - Wages
   - Wake Island
   - Warehouses
+  - Watches and jewelry
   - Wheat
   - Wine
   - Wool
@@ -719,25 +806,46 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '238.31'
+      complex_highest_days: '680'
+      complex_lowest_days: '1'
+      complex_median_days: '236'
+      expedited_processing_average_days: '81.61'
+      expedited_processing_highest_days: '428'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '33'
+      simple_average_days: '5.83'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2016':
+      complex_average_days: '121.51'
+      complex_highest_days: '776'
+      complex_lowest_days: less than 1
+      complex_median_days: '97'
+      expedited_processing_average_days: '12.73'
+      expedited_processing_highest_days: '81'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '20'
+      simple_highest_days: '389'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 202-325-0150
   top_level: true
-  usa_id: '55927'
   website: http://www.cbp.gov/site-policy-notices/foia
-- abbreviation: FEMA
-  address:
+- address:
     address_lines:
-    - Charlene Myrthil
-    - Acting FOIA Officer
+    - Eric Neuschaefer
+    - FOIA Officer
     - Room 840
     city: Washington
     state: DC
     street: 500 C Street, SW
     zip: '20472'
-  description: FEMA supports citizens and emergency personnel to build, sustain, and
-    improve the nations capability to prepare for, protect against, respond to, recover
-    from, and mitigate all hazards.
   emails:
   - fema-foia@dhs.gov
   fax: 202-646-3347
@@ -760,6 +868,7 @@ departments:
   - Broadband
   - Buildings and facilities
   - Business and industry
+  - Civil defense
   - Civil rights
   - Claims
   - Classified information
@@ -767,6 +876,7 @@ departments:
   - Colleges and universities
   - Communications
   - Community development
+  - Confidential business information
   - Copyright
   - Courts
   - Credit
@@ -784,6 +894,7 @@ departments:
   - Electric utilities
   - Elementary and secondary education
   - Employment
+  - Energy conservation
   - Environmental impact statements
   - Equal educational opportunity
   - Equal employment opportunity
@@ -796,8 +907,14 @@ departments:
   - Government contracts
   - Government employees
   - Government property management
+  - Grant administrations
   - Grant programs
+  - Grant programs-National defense
+  - Grant programs-agriculture
+  - Grant programs-business
+  - Grant programs-communications
   - Grant programs-education
+  - Grant programs-energy
   - Grant programs-health
   - Grant programs-housing and community development
   - Grant programs-social programs
@@ -821,12 +938,16 @@ departments:
   - Investigations
   - Iraq
   - Kuwait
+  - Law enforcement
   - Lebanon
   - Loan programs
   - Loan programs-agriculture
+  - Loan programs-business
   - Loan programs-communications
   - Loan programs-energy
+  - Loan programs-health
   - Loan programs-housing and community development
+  - Loan programs-social programs
   - Manpower training programs
   - Mass transportation
   - Migrant labor
@@ -875,7 +996,7 @@ departments:
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison:
-    name: Charlene Myrthil
+    name: Eric Neuschaefer
     phone:
     - 202-646-3323
   request_form: https://faq.fema.gov/ci/documents/submit
@@ -967,24 +1088,43 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '2'
       simple_median_days: '11'
+    '2015':
+      complex_average_days: '242.75'
+      complex_highest_days: '1761'
+      complex_lowest_days: '1'
+      complex_median_days: '227'
+      expedited_processing_average_days: '81.4'
+      expedited_processing_highest_days: '197'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '34'
+      simple_average_days: '235.45'
+      simple_highest_days: '882'
+      simple_lowest_days: '1'
+      simple_median_days: '147.5'
+    '2016':
+      complex_average_days: '245.48'
+      complex_highest_days: '1103'
+      complex_lowest_days: less than 1
+      complex_median_days: '166'
+      simple_average_days: '95.39'
+      simple_highest_days: '961'
+      simple_lowest_days: less than 1
+      simple_median_days: '48'
   service_center:
+    name: Eric Neuschaefer
     phone:
     - 202-646-3323
   top_level: true
-  usa_id: '48042'
   website: http://www.fema.gov/fema-freedom-information-act
 - abbreviation: FLETC
   address:
     address_lines:
-    - Leslie A. Jensen
+    - Alicia Aldridge
     - FOIA Officer
     city: Glynco
     state: GA
     street: 'Building #681, Suite 187B'
     zip: '31524'
-  description: The Federal Law Enforcement Training Center provides law enforcement
-    training for 91 federal agencies, several state, local, and tribal agencies, and
-    oversees or assists with training at serveral International Law Enforcement Academies.
   emails:
   - fletc-foia@dhs.gov
   fax: 912-267-3113
@@ -995,7 +1135,7 @@ departments:
   name: Federal Law Enforcement Training Center
   phone: 912-267-3103
   public_liaison:
-    name: Leslie A. Jensen
+    name: Alicia Aldridge
     phone:
     - 912-267-3103
   reading_rooms:
@@ -1054,11 +1194,20 @@ departments:
       simple_highest_days: '122'
       simple_lowest_days: '1'
       simple_median_days: '9'
+    '2015':
+      simple_average_days: '25.94'
+      simple_highest_days: '218'
+      simple_lowest_days: '1'
+      simple_median_days: '15.5'
+    '2016':
+      simple_average_days: '69.06'
+      simple_highest_days: '335'
+      simple_lowest_days: '1'
+      simple_median_days: '26'
   service_center:
     phone:
     - 912-267-3103
   top_level: true
-  usa_id: '49308'
   website: http://www.fletc.gov/freedom-information-act-foia
 - abbreviation: ICE
   address:
@@ -1070,8 +1219,6 @@ departments:
     state: DC
     street: 500 12th Street, SW
     zip: 20536-5009
-  description: Immigration and Customs Enforcement enforces federal laws governing
-    border control, customs, trade, and immigration.
   emails:
   - ice-foia@dhs.gov
   fax: 202-732-4265
@@ -1103,7 +1250,7 @@ departments:
     - 202-732-4265
   reading_rooms:
   - - FOIA Library
-    - http://www.ice.gov/foia/library
+    - https://www.ice.gov/foia/library
   request_form: http://www.ice.gov/webform/foia-request-form
   request_time_stats:
     '2008':
@@ -1197,16 +1344,41 @@ departments:
       simple_highest_days: '550'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2015':
+      complex_average_days: '82.77'
+      complex_highest_days: '645'
+      complex_lowest_days: '1'
+      complex_median_days: '48'
+      expedited_processing_average_days: '21.51'
+      expedited_processing_highest_days: '309'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '20'
+      simple_highest_days: '669'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2016':
+      complex_average_days: '82.54'
+      complex_highest_days: '762'
+      complex_lowest_days: '1'
+      complex_median_days: '37'
+      expedited_processing_average_days: '20.7'
+      expedited_processing_highest_days: '357'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10'
+      simple_average_days: '6.09'
+      simple_highest_days: '709'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
   service_center:
     name: Fernando Pineiro
     phone:
     - 202-732-4265
   top_level: true
-  usa_id: '49711'
   website: http://www.ice.gov/foia/index.htm
 - address:
     address_lines:
-    - Stephanie Kuehn
+    - Avery Roselle
     - FOIA Officer
     - Mail Stop 0305
     city: Washington
@@ -1220,49 +1392,15 @@ departments:
     name: Stephanie Kuehn
     phone:
     - 202-254-4001
-  keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Biologics
-  - Civil rights
-  - Computer technology
-  - Drugs
-  - Education of disadvantaged
-  - Emergency medical services
-  - Fraud
-  - Freedom of information
-  - Grant programs-health
-  - Grant programs-social programs
-  - Health care
-  - Health facilities
-  - Health insurance
-  - Health maintenance organizations (HMO)
-  - Health professions
-  - Health records
-  - Hospitals
-  - Investigations
-  - Kidney diseases
-  - Maternal and child health
-  - Medicaid
-  - Medical devices
-  - Medicare
-  - Packaging and containers
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Rural areas
-  - Social security
-  - Transportation
-  - X-rays
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison:
-    name: Aneet Thind
+    name: Avery Roselle
     phone:
     - 202-254-4001
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.dhs.gov/office-inspector-general-foia-documents
+    - https://www.dhs.gov/office-inspector-general-foia-documents
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -1348,6 +1486,32 @@ departments:
       simple_highest_days: '248'
       simple_lowest_days: '1'
       simple_median_days: '20'
+    '2015':
+      complex_average_days: '89.55'
+      complex_highest_days: '576'
+      complex_lowest_days: '1'
+      complex_median_days: '47'
+      expedited_processing_average_days: '111'
+      expedited_processing_highest_days: '111'
+      expedited_processing_lowest_days: '111'
+      expedited_processing_median_days: '111'
+      simple_average_days: '13.24'
+      simple_highest_days: '65'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '203.91'
+      complex_highest_days: '881'
+      complex_lowest_days: '9'
+      complex_median_days: '117'
+      expedited_processing_average_days: '172'
+      expedited_processing_highest_days: '172'
+      expedited_processing_lowest_days: '172'
+      expedited_processing_median_days: '172'
+      simple_average_days: '26.86'
+      simple_highest_days: '183'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 202-254-4001
@@ -1369,14 +1533,16 @@ departments:
     phone:
     - 202-447-4883
   name: Office of Intelligence & Analysis
-  phone: 202-447-4883
+  phone: 202-447-3783
   public_liaison:
-    name: Priscilla Waters
+    name: Brendan Henry
     phone:
-    - 202-447-4190
+    - 202-447-3783
   reading_rooms:
   - - FOIA Electronic Reading Room
-    - http://www.dhs.gov/foia-library
+    - https://www.dhs.gov/foia-library
+  - - I&A FOIA Library
+    - https://www.dhs.gov/intelligence-and-analysis-foia-library
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -1450,9 +1616,35 @@ departments:
       simple_highest_days: '134'
       simple_lowest_days: '1'
       simple_median_days: '23'
+    '2015':
+      complex_average_days: '54.41'
+      complex_highest_days: '650'
+      complex_lowest_days: '1'
+      complex_median_days: '27'
+      expedited_processing_average_days: '13.75'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '15.5'
+      simple_average_days: '13.98'
+      simple_highest_days: '63'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '73.41'
+      complex_highest_days: '476'
+      complex_lowest_days: less than 1
+      complex_median_days: '29.5'
+      expedited_processing_average_days: '163.2'
+      expedited_processing_highest_days: '307'
+      expedited_processing_lowest_days: '35'
+      expedited_processing_median_days: '192'
+      simple_average_days: '19.24'
+      simple_highest_days: '95'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
   service_center:
     phone:
-    - 202-282-8191
+    - 202-447-3783
   top_level: false
   website: http://www.dhs.gov/xfoia/gc_1294073392661.shtm
 - address:
@@ -1473,7 +1665,7 @@ departments:
   name: Directorate for National Protection and Programs
   phone: 703-235-2211
   public_liaison:
-    name: Sandy Ford Page
+    name: Toni Fuentes
     phone:
     - 703-235-2211
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
@@ -1561,110 +1753,33 @@ departments:
       simple_highest_days: '236'
       simple_lowest_days: '1'
       simple_median_days: '116'
+    '2015':
+      complex_average_days: '52.09'
+      complex_highest_days: '340'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      expedited_processing_average_days: '62'
+      expedited_processing_highest_days: '115'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '62'
+      simple_average_days: '72.09'
+      simple_highest_days: '269'
+      simple_lowest_days: '1'
+      simple_median_days: '64'
+    '2016':
+      complex_average_days: '94.7'
+      complex_highest_days: '564'
+      complex_lowest_days: less than 1
+      complex_median_days: '52.5'
+      simple_average_days: '166.61'
+      simple_highest_days: '450'
+      simple_lowest_days: less than 1
+      simple_median_days: '173'
   service_center:
     phone:
     - 703-235-2211
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0794.shtm
-- address:
-    address_lines:
-    - 'FOIA: Office of Operations Coordination and Planning'
-    - U.S. Department of Homeland Security
-    city: Washington
-    state: DC
-    street: ''
-    zip: '20528'
-  emails:
-  - FOIAOPS@DHS.GOV
-  fax: 202-282-9811
-  foia_officer:
-    name: Michael Page
-    phone:
-    - 202-447-4156
-  name: Office of Operations Coordination and Planning
-  phone: 202-447-4156
-  public_liaison:
-    name: Michael Page
-    phone:
-    - 202-447-4156
-  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
-  request_time_stats:
-    '2008':
-      complex_average_days: '18.45'
-      complex_highest_days: '78'
-      complex_lowest_days: '4'
-      complex_median_days: '14'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '6'
-      simple_highest_days: '31'
-      simple_lowest_days: '1'
-      simple_median_days: '1'
-    '2009':
-      complex_average_days: '4.74'
-      complex_highest_days: '25'
-      complex_lowest_days: '4'
-      complex_median_days: '7'
-      expedited_processing_average_days: '0'
-      expedited_processing_highest_days: '0'
-      expedited_processing_lowest_days: '0'
-      expedited_processing_median_days: '0'
-      simple_average_days: '4.79'
-      simple_highest_days: '11'
-      simple_lowest_days: '1'
-      simple_median_days: '4'
-    '2010':
-      complex_average_days: '7.61'
-      complex_highest_days: '19'
-      complex_lowest_days: '1'
-      complex_median_days: '6'
-      simple_average_days: '3'
-      simple_highest_days: '14'
-      simple_lowest_days: '1'
-      simple_median_days: '1'
-    '2011':
-      complex_average_days: '9.17'
-      complex_highest_days: '23'
-      complex_lowest_days: '1'
-      complex_median_days: '10'
-      simple_average_days: '3.11'
-      simple_highest_days: '15'
-      simple_lowest_days: '1'
-      simple_median_days: '1'
-    '2012':
-      complex_average_days: '8.77'
-      complex_highest_days: '33'
-      complex_lowest_days: '3'
-      complex_median_days: '6.5'
-      simple_average_days: '2.5'
-      simple_highest_days: '7'
-      simple_lowest_days: '1'
-      simple_median_days: '2'
-    '2013':
-      complex_average_days: '5.86'
-      complex_highest_days: '19'
-      complex_lowest_days: '1'
-      complex_median_days: '4'
-      simple_average_days: '2.75'
-      simple_highest_days: '13'
-      simple_lowest_days: '1'
-      simple_median_days: '2'
-    '2014':
-      complex_average_days: '8'
-      complex_highest_days: '19'
-      complex_lowest_days: '1'
-      complex_median_days: '7'
-      simple_average_days: '2.55'
-      simple_highest_days: '14'
-      simple_lowest_days: '1'
-      simple_median_days: '1'
-  service_center:
-    phone:
-    - 202-447-4156
-  top_level: false
-  website: http://www.dhs.gov/xabout/structure/editorial_0797.shtm
 - address:
     address_lines:
     - Katrina Hagan
@@ -1676,17 +1791,17 @@ departments:
     zip: '20528'
   emails:
   - stfoia@hq.dhs.gov
-  fax: 202-254-6739
+  fax: 202-254-6917
   foia_officer:
     name: Katrina Hagan
     phone:
     - 202-254-6342
   name: Science & Technology Directorate
-  phone: 202-254-6342
+  phone: 202-254-5700
   public_liaison:
     name: Katrina Hagan
     phone:
-    - 202-254-6342
+    - 202-254-5700
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
   request_time_stats:
     '2008':
@@ -1764,9 +1879,31 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '1'
       simple_median_days: '6.5'
+    '2015':
+      complex_average_days: '69.94'
+      complex_highest_days: '136'
+      complex_lowest_days: '30'
+      complex_median_days: '65'
+      expedited_processing_average_days: '32.5'
+      expedited_processing_highest_days: '54'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '31'
+      simple_average_days: '10.27'
+      simple_highest_days: '33'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2016':
+      complex_average_days: '46.31'
+      complex_highest_days: '103'
+      complex_lowest_days: '7'
+      complex_median_days: '33'
+      simple_average_days: '10.24'
+      simple_highest_days: '54'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
   service_center:
     phone:
-    - 202-254-6342
+    - 202-254-5700
   top_level: false
   website: http://www.dhs.gov/xabout/structure/editorial_0530.shtm
 - address:
@@ -1778,9 +1915,6 @@ departments:
     state: DC
     street: 245 Murray Drive
     zip: '20223'
-  description: The Secret Service works to safeguard the nation's financial infrastructure.
-    The Secret Service is also responsible for protecting national leaders, visiting
-    heads of state, and National Special Security Events.
   emails:
   - FOIA@usss.dhs.gov
   fax: 202-406-5586
@@ -1795,9 +1929,6 @@ departments:
     name: Latita Payne
     phone:
     - 202-406-6370
-  reading_rooms:
-  - - FOIA Library
-    - http://www.secretservice.gov/foia_reading.shtml
   request_time_stats:
     '2008':
       complex_average_days: '309.44'
@@ -1878,30 +2009,43 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '247.09'
+      complex_highest_days: '2083'
+      complex_lowest_days: '21'
+      complex_median_days: '97'
+      simple_average_days: '13.25'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '232.07'
+      complex_highest_days: '1770'
+      complex_lowest_days: '21'
+      complex_median_days: '143'
+      simple_average_days: '10.71'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-406-6370
   top_level: true
-  usa_id: '49660'
   website: http://www.secretservice.gov/foia.shtml
-- abbreviation: TSA
-  address:
+- address:
     address_lines:
-    - Teri Miller
-    - Acting FOIA Officer
+    - Regina McCoy
+    - FOIA Officer
     - 11th Floor, East Tower, TSA-20
     city: Arlington
     state: VA
     street: 601 S. 12th Street
     zip: 22202-4220
-  description: The TSA can assist you with questions or concerns about travel tips,
-    permitted and prohibited items, and information on filing a claim for items that
-    were damaged or lost during a TSA screening.
   emails:
   - FOIA@tsa.dhs.gov
   fax: 571-227-1406
   foia_officer:
-    name: Amanda Deplitch
+    name: Yvonne Coates
     phone:
     - 866-364-2872
     - 571-227-2300
@@ -1922,13 +2066,20 @@ departments:
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
+  - Buildings and facilities
   - Canada
   - Charter flights
+  - Classified information
+  - Continental shelf
+  - Crime
   - Cuba
   - Drug abuse
   - Drug testing
+  - Educational facilities
+  - Employment
   - Ethiopia
   - Explosives
+  - Fraud
   - Freight
   - Freight forwarders
   - Government employees
@@ -1961,12 +2112,9 @@ departments:
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison:
-    name: Amanda Deplitch
+    name: Regina McCoy
     phone:
     - 866-364-2872
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.tsa.gov/research-center/electronic-reading-room
   request_time_stats:
     '2008':
       complex_average_days: '55.42'
@@ -2047,16 +2195,37 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '308.96'
+      complex_highest_days: '1425'
+      complex_lowest_days: '1'
+      complex_median_days: '181'
+      simple_average_days: '232.47'
+      simple_highest_days: '1306'
+      simple_lowest_days: '1'
+      simple_median_days: '176'
+    '2016':
+      complex_average_days: '315.89'
+      complex_highest_days: '1409'
+      complex_lowest_days: less than 1
+      complex_median_days: '187'
+      expedited_processing_average_days: '468'
+      expedited_processing_highest_days: '468'
+      expedited_processing_lowest_days: '468'
+      expedited_processing_median_days: '468'
+      simple_average_days: '350.26'
+      simple_highest_days: '1202'
+      simple_lowest_days: less than 1
+      simple_median_days: '311.5'
   service_center:
+    name: Teri Miller
     phone:
     - 866-364-2872
-    - 571-227-2300
   top_level: true
-  usa_id: '48143'
   website: http://www.tsa.gov/research-center/freedom-information-act-foia
 - address:
     address_lines:
-    - Michael Johnson
+    - Aeron McGraw
     - FOIA Officer
     city: Washington
     state: DC
@@ -2072,7 +2241,7 @@ departments:
   name: Office of Biometric Identity Management
   phone: 202-295-5454
   public_liaison:
-    name: Michael Johnson
+    name: Aeron McGraw
     phone:
     - 202-295-5454
   request_form: http://www.dhs.gov/dhs-foia-request-submission-form
@@ -2081,16 +2250,21 @@ departments:
     - 202-295-5454
   top_level: false
   website: http://www.dhs.gov/files/programs/usv.shtm
-description: Formed in 2002 from the combination of 22 departments and agencies, the
-  Department of Homeland Security works to improve the security of the United States.
-  The Department's work includes customs, border, and immigration enforcement; emergency
-  response to natural and manmade disasters; antiterrorism work; and cybersecurity.
+description: 'The Department of Homeland Security has a vital mission: to secure the
+  nation from the many threats we face. This requires the dedication of more than
+  230,000 employees in jobs that range from aviation and border security to emergency
+  response, from cybersecurity analyst to chemical facility inspector'
 emails:
 - foia@hq.dhs.gov
 fax: 202-343-4011
+foia_officer:
+  phone:
+  - 202-343-1743
+  - 866-431-0486
 keywords:
 - Accounting
 - Administrative practice and procedure
+- Adoption and foster care
 - Adult education
 - Advertising
 - Advisory committees
@@ -2106,6 +2280,7 @@ keywords:
 - Alaska
 - Alcohol abuse
 - Alcohol and alcoholic beverages
+- Alcoholism
 - Aliens
 - American Samoa
 - Anchorage grounds
@@ -2114,6 +2289,7 @@ keywords:
 - Armed forces
 - Armed forces reserves
 - Arms and munitions
+- Arts and crafts
 - Authority delegations (Government agencies)
 - Aviation safety
 - Benzene
@@ -2122,12 +2298,14 @@ keywords:
 - Bridges
 - Broadband
 - Brokers
+- Buildings and facilities
 - Business and industry
 - Canada
 - Cargo vessels
 - Caribbean Basin initiative
 - Cigars and cigarettes
 - Citizenship and naturalization
+- Civil defense
 - Civil rights
 - Claims
 - Classified information
@@ -2139,6 +2317,7 @@ keywords:
 - Communications
 - Communications equipment
 - Community development
+- Community development block grants
 - Computer technology
 - Confidential business information
 - Conflict of interests
@@ -2148,10 +2327,15 @@ keywords:
 - Countervailing duties
 - Courts
 - Credit
+- Crime
 - Cuba
 - Cultural exchange programs
 - Customs duties and inspection
+- Day care
+- Decorations, medals, awards
 - Defense Department
+- Dental health
+- Disability benefits
 - Disaster assistance
 - Diving
 - Drug abuse
@@ -2170,21 +2354,28 @@ keywords:
 - Elementary and secondary education
 - Employment
 - Endangered and threatened species
+- Energy conservation
+- Environmental impact statements
 - Environmental protection
 - Equal educational opportunity
 - Equal employment opportunity
 - Executive orders
 - Explosives
 - Exports
+- Fairs and expositions
 - Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
 - Fishing vessels
 - Flood insurance
+- Flood plains
+- Foreign aid
 - Foreign currencies
+- Foreign investments in United States
 - Foreign officials
 - Foreign relations
 - Foreign trade zones
+- Forests and forest products
 - Fraud
 - Freedom of information
 - Freight
@@ -2196,19 +2387,30 @@ keywords:
 - Government procurement
 - Government property management
 - Government publications
+- Grant administrations
 - Grant programs
+- Grant programs-Indians
+- Grant programs-National defense
+- Grant programs-agriculture
+- Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-health
 - Grant programs-housing and community development
 - Grant programs-social programs
 - Grant programs-veterans
 - Great Lakes
 - Guam
+- Guantanamo Bay Naval Station, Cuba
 - Harbors
 - Hazardous materials transportation
 - Hazardous substances
+- Health
 - Health care
+- Health facilities
 - Health professions
+- Health records
 - Highways and roads
 - Home improvement
 - Homeless
@@ -2221,17 +2423,17 @@ keywords:
 - Income taxes
 - Indians
 - Indians-education
+- Indians-lands
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
+- International boundaries
 - International organizations
 - Inventions and patents
 - Investigations
 - Kingman Reef
 - Labeling
 - Labor
-- Labor management relations
-- Labor unions
 - Laboratories
 - Law enforcement
 - Law enforcement officers
@@ -2239,13 +2441,18 @@ keywords:
 - Liquors
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
+- Loan programs-health
 - Loan programs-housing and community development
+- Loan programs-social programs
 - Loan programs-veterans
 - Lobbying
+- Longshore and harbor workers
 - Lotteries
+- Low and moderate income housing
 - Manpower training programs
 - Marine mammals
 - Marine resources
@@ -2254,6 +2461,10 @@ keywords:
 - Maritime security
 - Mass transportation
 - Measurement standards
+- Meat and meat products
+- Medicaid
+- Medicare
+- Mental health programs
 - Metals
 - Mexico
 - Midway Islands
@@ -2282,8 +2493,12 @@ keywords:
 - Passports and visas
 - Penalties
 - Petroleum
+- Pets
+- Prisons
 - Privacy
 - Private schools
+- Public assistance programs
+- Public housing
 - Puerto Rico
 - Radiation protection
 - Radio
@@ -2291,6 +2506,8 @@ keywords:
 - Railroads
 - Refugees
 - Religious discrimination
+- Relocation assistance
+- Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Rural areas
@@ -2309,10 +2526,12 @@ keywords:
 - Sex discrimination
 - Signs and symbols
 - Small businesses
+- Social security
 - State and local governments
 - Student aid
 - Students
 - Sugar
+- Supplemental Security Income (SSI)
 - Surety bonds
 - Taxes
 - Teachers
@@ -2320,12 +2539,16 @@ keywords:
 - Telephone
 - Terrorism
 - Trade agreements
+- Trade names
 - Trademarks
+- Traffic regulations
 - Transportation
 - Travel
 - Travel and transportation expenses
 - Travel restrictions
 - Treaties
+- Unemployment compensation
+- Uniform System of Accounts
 - Urban areas
 - Vessels
 - Veterans
@@ -2337,6 +2560,7 @@ keywords:
 - Wake Island
 - Warehouses
 - Waste treatment and disposal
+- Watches and jewelry
 - Water pollution control
 - Water resources
 - Water supply
@@ -2353,6 +2577,9 @@ public_liaison:
   phone:
   - 202-343-1743
   - 866-431-0486
+reading_rooms:
+- - FOIA Library
+  - https://www.dhs.gov/foia-library
 request_form: http://www.dhs.gov/make-foia-request
 request_time_stats:
   '2008':
@@ -2446,10 +2673,35 @@ request_time_stats:
     simple_highest_days: '550'
     simple_lowest_days: '1'
     simple_median_days: '8'
+  '2015':
+    complex_average_days: '107.57'
+    complex_highest_days: '2083'
+    complex_lowest_days: '1'
+    complex_median_days: '52.06'
+    expedited_processing_average_days: '35.31'
+    expedited_processing_highest_days: '428'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '14'
+    simple_average_days: '25.44'
+    simple_highest_days: '1306'
+    simple_lowest_days: '1'
+    simple_median_days: '9'
+  '2016':
+    complex_average_days: '73.4'
+    complex_highest_days: '1770'
+    complex_lowest_days: less than 1
+    complex_median_days: '82'
+    expedited_processing_average_days: '26.71'
+    expedited_processing_highest_days: '468'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '11'
+    simple_average_days: '32.91'
+    simple_highest_days: '1202'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'
 service_center:
   phone:
   - 202-343-1743
   - 866-431-0486
 top_level: false
-usa_id: '49022'
 website: http://www.dhs.gov/xfoia/editorial_0579.shtm

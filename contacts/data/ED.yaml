@@ -1,17 +1,14 @@
 abbreviation: ED
 departments:
-- abbreviation: ED
-  address:
+- address:
     address_lines:
     - Gregory Smith
     - Director, FOIA Service Center, Office of Management
-    - LBJ 2E320
+    - LBJ 2E305
     city: Washington
     state: DC
     street: 400 Maryland Avenue, SW
     zip: 20202-4536
-  description: The mission of the Department of Education is to foster educational
-    excellence and to ensure equal access to educational opportunity for all.
   emails:
   - EDFOIAManager@ed.gov
   fax: 202-401-0920
@@ -20,27 +17,32 @@ departments:
     visiting its website.
   phone: 202-401-8365
   public_liaison:
-    name: Elise Cook, Linda Darby, Elizabeth Hunziker, Christie Swafford, Arthur Caliguiran
+    name: Robert Wehausen, Elise Cook, Linda Darby, Elizabeth Hunziker, Christie Swafford,
+      Arthur Caliguiran
     phone:
     - 202-401-8365
   reading_rooms:
   - - FOIA Library
-    - http://www2.ed.gov/policy/gen/leg/foia/readingroom.html
-  request_form: http://www2.ed.gov/policy/gen/leg/foia/foia_request_form_1.html
+    - https://www2.ed.gov/policy/gen/leg/foia/readingroom.html
+  request_form: http://www2.ed.gov/policy/gen/leg/foia/request_foia.html
   service_center:
     phone:
     - 202-401-8365
   top_level: false
-  usa_id: '49018'
   website: http://www2.ed.gov/policy/gen/leg/foia/foiatoc.html
-description: The mission of the Department of Education is to foster educational excellence
-  and to ensure equal access to educational opportunity for all.
+description: The mission of the Department of Education is to promote student achievement
+  and preparation for global competitiveness by fostering educational excellence and
+  ensuring equal access.
 keywords:
 - Accounting
 - Administrative practice and procedure
 - Adult education
 - Aged
+- Agency for International Development
 - Agriculture
+- Alaska
+- Alcohol abuse
+- Alcoholism
 - Aliens
 - American Samoa
 - Armed forces
@@ -53,11 +55,16 @@ keywords:
 - Colleges and universities
 - Communications
 - Community development
+- Community development block grants
 - Consumer protection
 - Copyright
 - Courts
 - Credit
+- Crime
 - Cultural exchange programs
+- Day care
+- Dental health
+- Disability benefits
 - Drug abuse
 - Education
 - Education Department
@@ -71,32 +78,47 @@ keywords:
 - Electric utilities
 - Elementary and secondary education
 - Employment
+- Energy conservation
 - Equal educational opportunity
 - Equal employment opportunity
 - Federally affected areas
+- Foreign aid
 - Foreign relations
 - Fraud
 - Freedom of information
 - Government contracts
 - Government employees
 - Government procurement
+- Grant administrations
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
+- Grant programs-business
+- Grant programs-communications
 - Grant programs-education
+- Grant programs-energy
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-labor
 - Grant programs-social programs
+- Grant programs-veterans
 - Guam
+- Health
+- Health care
 - Health facilities
 - Health insurance
 - Health professions
+- Health records
 - Home improvement
 - Homeless
 - Hospitals
 - Hostages
+- Housing
 - Human research subjects
+- Income taxes
 - Indians
 - Indians-education
+- Indians-lands
 - Individuals with disabilities
 - Insurance
 - Intergovernmental relations
@@ -109,11 +131,18 @@ keywords:
 - Libraries
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
+- Loan programs-health
 - Loan programs-housing and community development
+- Loan programs-social programs
+- Low and moderate income housing
 - Manpower training programs
+- Medicaid
+- Medicare
+- Mental health programs
 - Migrant labor
 - Mortgage insurance
 - Mortgages
@@ -121,10 +150,17 @@ keywords:
 - Northern Mariana Islands
 - Pacific Islands Trust Territory
 - Penalties
+- Pets
 - Prisoners
+- Prisons
 - Privacy
 - Private schools
+- Public assistance programs
 - Public housing
+- Puerto Rico
+- Religious discrimination
+- Relocation assistance
+- Rent subsidies
 - Reporting and recordkeeping requirements
 - Research
 - Rural areas
@@ -136,12 +172,17 @@ keywords:
 - Securities
 - Selective Service System
 - Sex discrimination
+- Small businesses
+- Social security
 - State and local governments
 - Student aid
 - Students
+- Supplemental Security Income (SSI)
 - Teachers
 - Telecommunications
 - Telephone
+- Travel and transportation expenses
+- Unemployment compensation
 - Urban areas
 - Veterans
 - Virgin Islands
@@ -248,4 +289,29 @@ request_time_stats:
     simple_highest_days: '163'
     simple_lowest_days: less than 1
     simple_median_days: '11'
-usa_id: '49018'
+  '2015':
+    complex_average_days: '93.66'
+    complex_highest_days: '1311'
+    complex_lowest_days: '9'
+    complex_median_days: '56'
+    expedited_processing_average_days: '22.25'
+    expedited_processing_highest_days: '74'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '17'
+    simple_average_days: '11.27'
+    simple_highest_days: '197'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'
+  '2016':
+    complex_average_days: '72.97'
+    complex_highest_days: '995'
+    complex_lowest_days: less than 1
+    complex_median_days: '46'
+    expedited_processing_average_days: '54'
+    expedited_processing_highest_days: '54'
+    expedited_processing_lowest_days: '54'
+    expedited_processing_median_days: '54'
+    simple_average_days: '7.8'
+    simple_highest_days: '131'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

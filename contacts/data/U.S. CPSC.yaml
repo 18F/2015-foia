@@ -1,24 +1,19 @@
 abbreviation: CPSC
 departments:
-- abbreviation: CPSC
-  address:
+- address:
     address_lines:
     - Alberta E. Mills
-    - FOIA Officer
+    - FOIA Officer / Chief FOIA Liaison
     - U.S. Consumer Product Safety Commission
     city: Bethesda
     state: MD
     street: 4330 East West Highway
     zip: 20814-4408
-  description: The CPSC protects the public from unreasonable risks of serious injury
-    or death from thousands of types of consumer products under its jurisdiction,
-    including products that pose a fire, electrical, chemical, or mechanical hazard
-    or can injure children.
   emails:
   - cpsc-foia@cpsc.gov
   fax: 301-504-0127
   foia_officer:
-    name: Alberta E. Mills
+    name: Todd A. Stevenson
     phone:
     - 301-504-7923
   name: Consumer Product Safety Commission
@@ -111,22 +106,49 @@ departments:
       simple_highest_days: '481'
       simple_lowest_days: '1'
       simple_median_days: '18'
+    '2015':
+      complex_average_days: '83'
+      complex_highest_days: '1540'
+      complex_lowest_days: '1'
+      complex_median_days: '44'
+      expedited_processing_average_days: '24'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '24'
+      expedited_processing_median_days: '24'
+      simple_average_days: '44'
+      simple_highest_days: '640'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '114'
+      complex_highest_days: '1665'
+      complex_lowest_days: '1'
+      complex_median_days: '46'
+      simple_average_days: '28'
+      simple_highest_days: '392'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 301-504-7923
   top_level: false
-  usa_id: '49013'
   website: http://www.cpsc.gov/en/Newsroom/FOIA/
-description: The CPSC protects the public from unreasonable risks of serious injury
-  or death from thousands of types of consumer products under its jurisdiction, including
-  products that pose a fire, electrical, chemical, or mechanical hazard or can injure
-  children.
+description: The U.S. Consumer Product Safety Commission is charged with protecting
+  the public from unreasonable risks of injury or death from thousands of types of
+  consumer products under the agency's jurisdiction.
 keywords:
+- Accounting
 - Administrative practice and procedure
+- Agency for International Development
+- Arms and munitions
+- Bicycles
 - Business and industry
+- Carpets and rugs
+- Cigarette lighters
 - Clothing
 - Consumer protection
 - Drugs
+- Explosives
 - Fire prevention
 - Flammable materials
 - Gasoline
@@ -137,6 +159,7 @@ keywords:
 - Investigations
 - Labeling
 - Law enforcement
+- Lawyers
 - Lead poisoning
 - Mattresses and mattress pads
 - Organization and functions (Government agencies)
@@ -234,4 +257,25 @@ request_time_stats:
     simple_highest_days: '481'
     simple_lowest_days: '1'
     simple_median_days: '18'
-usa_id: '49013'
+  '2015':
+    complex_average_days: '83'
+    complex_highest_days: '1540'
+    complex_lowest_days: '1'
+    complex_median_days: '44'
+    expedited_processing_average_days: '24'
+    expedited_processing_highest_days: '24'
+    expedited_processing_lowest_days: '24'
+    expedited_processing_median_days: '24'
+    simple_average_days: '44'
+    simple_highest_days: '640'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+  '2016':
+    complex_average_days: '114'
+    complex_highest_days: '1665'
+    complex_lowest_days: '1'
+    complex_median_days: '46'
+    simple_average_days: '28'
+    simple_highest_days: '392'
+    simple_lowest_days: '1'
+    simple_median_days: '14'

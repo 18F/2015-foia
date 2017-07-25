@@ -28,6 +28,7 @@ departments:
   name: National Headquarters
   phone: 202-566-1667
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
   request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -123,6 +124,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2015':
+      complex_average_days: '124.94'
+      complex_highest_days: '1756'
+      complex_lowest_days: less than 1
+      complex_median_days: '46'
+      expedited_processing_average_days: '246'
+      expedited_processing_highest_days: '1229'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '21'
+      simple_average_days: '13.17'
+      simple_highest_days: '726'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2016':
+      complex_average_days: '267.87'
+      complex_highest_days: '2011'
+      complex_lowest_days: less than 1
+      complex_median_days: '138'
+      expedited_processing_average_days: '219.14'
+      expedited_processing_highest_days: '1678'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '54'
+      simple_average_days: '27.84'
+      simple_highest_days: '255'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-566-1667
@@ -147,11 +174,9 @@ departments:
   name: 'Region 1 (States: CT, ME, MA, NH, RI, VT)'
   phone: 617-918-1102
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - Reading Room
-    - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -233,6 +258,24 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2015':
+      complex_average_days: '62.34'
+      complex_highest_days: '778'
+      complex_lowest_days: '4'
+      complex_median_days: '30'
+      simple_average_days: '8.69'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
+    '2016':
+      complex_average_days: '56.62'
+      complex_highest_days: '153'
+      complex_lowest_days: '19'
+      complex_median_days: '50'
+      simple_average_days: '11.08'
+      simple_highest_days: '87'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
   service_center:
     phone:
     - 617-918-1102
@@ -257,11 +300,9 @@ departments:
   name: 'Region 2 (States: NJ, NY, PR VI)'
   phone: 212-637-3668
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - reading room
-    - http://www.epa.gov/region02/foia/reading_room.htm
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -347,6 +388,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '52.31'
+      complex_highest_days: '624'
+      complex_lowest_days: less than 1
+      complex_median_days: '45'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '11.01'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '238.79'
+      complex_highest_days: '807'
+      complex_lowest_days: '19'
+      complex_median_days: '125.5'
+      expedited_processing_average_days: '23.25'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '22.5'
+      simple_average_days: '12.12'
+      simple_highest_days: '548'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
   service_center:
     phone:
     - 212-637-3668
@@ -356,7 +423,7 @@ departments:
     address_lines:
     - Regional Freedom of Information Officer
     - U.S. EPA, Region 3
-    - (3C610)
+    - (3CG00)
     city: Philadelphia
     state: PA
     street: 1650 Arch Street
@@ -371,11 +438,9 @@ departments:
   name: 'Region 3 (States: DE, DC, MD, PA, VA, WV)'
   phone: 215-814-3424
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - Reading Room
-    - http://www.epa.gov/region03/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -469,6 +534,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '106.21'
+      complex_highest_days: '386'
+      complex_lowest_days: '19'
+      complex_median_days: '87'
+      expedited_processing_average_days: '108'
+      expedited_processing_highest_days: '188'
+      expedited_processing_lowest_days: '28'
+      expedited_processing_median_days: '108'
+      simple_average_days: '13.71'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2016':
+      complex_average_days: '205.92'
+      complex_highest_days: '1112'
+      complex_lowest_days: '16'
+      complex_median_days: '83.5'
+      expedited_processing_average_days: '269.75'
+      expedited_processing_highest_days: '752'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '162'
+      simple_average_days: '22.85'
+      simple_highest_days: '134'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
   service_center:
     phone:
     - 215-814-3424
@@ -493,13 +584,9 @@ departments:
   name: 'Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)'
   phone: 404-562-9891
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www2.epa.gov/foia/foia-library-information-specific-epa-region-4
-  - - Reading Rooms
-    - http://www2.epa.gov/foia
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -581,6 +668,28 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '15'
+    '2015':
+      complex_average_days: '44.76'
+      complex_highest_days: '262'
+      complex_lowest_days: less than 1
+      complex_median_days: '31'
+      simple_average_days: '13.15'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
+    '2016':
+      complex_average_days: '142.65'
+      complex_highest_days: '685'
+      complex_lowest_days: '19'
+      complex_median_days: '102'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '1'
+      simple_average_days: '28.15'
+      simple_highest_days: '180'
+      simple_lowest_days: less than 1
+      simple_median_days: '24'
   service_center:
     phone:
     - 404-562-9891
@@ -605,13 +714,9 @@ departments:
   name: 'Region 5 (States: IL, IN, MI, MN, OH, WI)'
   phone: 312-886-6686
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - EPA Electronic Reading Room
-    - http://www2.epa.gov/foia
-  - - Reading Room
-    - http://www.epa.gov/region5/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -705,6 +810,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2015':
+      complex_average_days: '46.34'
+      complex_highest_days: '836'
+      complex_lowest_days: '1'
+      complex_median_days: '25'
+      expedited_processing_average_days: '163'
+      expedited_processing_highest_days: '163'
+      expedited_processing_lowest_days: '163'
+      expedited_processing_median_days: '163'
+      simple_average_days: '13.79'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
+    '2016':
+      complex_average_days: '82.52'
+      complex_highest_days: '696'
+      complex_lowest_days: '1'
+      complex_median_days: '45'
+      expedited_processing_average_days: '45.14'
+      expedited_processing_highest_days: '149'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '20'
+      simple_average_days: '15.55'
+      simple_highest_days: '71'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 312-886-6686
@@ -729,6 +860,7 @@ departments:
   name: 'Region 6 (States: AR, LA, NM, OK, TX)'
   phone: 214-665-7202
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -820,6 +952,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '16'
+    '2015':
+      complex_average_days: '39.4'
+      complex_highest_days: '952'
+      complex_lowest_days: less than 1
+      complex_median_days: '24.5'
+      expedited_processing_average_days: '15'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '15'
+      simple_average_days: '7.3'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2016':
+      complex_average_days: '38.14'
+      complex_highest_days: '728'
+      complex_lowest_days: less than 1
+      complex_median_days: '24'
+      expedited_processing_average_days: '67.29'
+      expedited_processing_highest_days: '355'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '23'
+      simple_average_days: '9.85'
+      simple_highest_days: '45'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 214-665-7202
@@ -843,11 +1001,9 @@ departments:
   name: 'Region 7 (States: IA, KS, MO, NE)'
   phone: 913-551-7860
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.epa.gov/region07/citizens/foia/readingroom.htm
   request_form: http://www.epa.gov/foia/requestform.html
   request_time_stats:
     '2008':
@@ -933,6 +1089,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2015':
+      complex_average_days: '32.47'
+      complex_highest_days: '418'
+      complex_lowest_days: '4'
+      complex_median_days: '26'
+      expedited_processing_average_days: '118'
+      expedited_processing_highest_days: '118'
+      expedited_processing_lowest_days: '118'
+      expedited_processing_median_days: '118'
+      simple_average_days: '9.96'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
+    '2016':
+      complex_average_days: '53.6'
+      complex_highest_days: '338'
+      complex_lowest_days: less than 1
+      complex_median_days: '37'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '20'
+      simple_average_days: '17.02'
+      simple_highest_days: '92'
+      simple_lowest_days: less than 1
+      simple_median_days: '16.5'
   service_center:
     phone:
     - 913-551-7860
@@ -956,6 +1138,7 @@ departments:
   name: 'Region 8 (States: CO, MT, ND, SD, UT, WY)'
   phone: 303-312-6856
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1043,16 +1226,42 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '14'
+    '2015':
+      complex_average_days: '90.4'
+      complex_highest_days: '491'
+      complex_lowest_days: less than 1
+      complex_median_days: '28'
+      expedited_processing_average_days: '50'
+      expedited_processing_highest_days: '72'
+      expedited_processing_lowest_days: '28'
+      expedited_processing_median_days: '50'
+      simple_average_days: '12.05'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+    '2016':
+      complex_average_days: '81.52'
+      complex_highest_days: '1133'
+      complex_lowest_days: less than 1
+      complex_median_days: '19'
+      expedited_processing_average_days: '53.2'
+      expedited_processing_highest_days: '142'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '42'
+      simple_average_days: '10.68'
+      simple_highest_days: '224'
+      simple_lowest_days: less than 1
+      simple_median_days: '7.5'
   service_center:
     phone:
     - 303-312-6856
   top_level: false
-  website: http://www.epa.gov/region8/epa-region-8-foia-office-contact
+  website: http://www.epa.gov/region8/foia/index.html
 - address:
     address_lines:
     - Regional Freedom of Information Officer
     - U.S. EPA, Region 9
-    - (OPPA-2)
+    - (OPA-2)
     city: San Francisco
     state: CA
     street: 75 Hawthorne Street
@@ -1067,6 +1276,7 @@ departments:
   name: 'Region 9 (States: AZ, CA, HI, NV, AS, GU)'
   phone: 415-947-4251
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1158,6 +1368,32 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2015':
+      complex_average_days: '37.49'
+      complex_highest_days: '687'
+      complex_lowest_days: '8'
+      complex_median_days: '25'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '12.93'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
+    '2016':
+      complex_average_days: '63.59'
+      complex_highest_days: '218'
+      complex_lowest_days: '24'
+      complex_median_days: '43'
+      expedited_processing_average_days: '125'
+      expedited_processing_highest_days: '125'
+      expedited_processing_lowest_days: '125'
+      expedited_processing_median_days: '125'
+      simple_average_days: '16.37'
+      simple_highest_days: '69'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
   service_center:
     phone:
     - 415-947-4251
@@ -1170,7 +1406,7 @@ departments:
     - Office of External Affairs
     city: Seattle
     state: WA
-    street: 1200 6th Avenue (CEC-142)
+    street: 1200 6th Avenue
     zip: '98101'
   emails:
   - williams.deborah@epa.gov
@@ -1182,6 +1418,7 @@ departments:
   name: 'Region 10 (States: AK, ID, OR, WA)'
   phone: 206-553-8665
   public_liaison:
+    name: Larry Gottesman
     phone:
     - 202-566-1667
   request_form: http://www.epa.gov/foia/requestform.html
@@ -1265,14 +1502,34 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: less than 1
       simple_median_days: '12'
+    '2015':
+      complex_average_days: '99.22'
+      complex_highest_days: '1276'
+      complex_lowest_days: less than 1
+      complex_median_days: '50'
+      simple_average_days: '9.54'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '9'
+    '2016':
+      complex_average_days: '115.86'
+      complex_highest_days: '913'
+      complex_lowest_days: '4'
+      complex_median_days: '68'
+      expedited_processing_average_days: '49.5'
+      expedited_processing_highest_days: '144'
+      expedited_processing_lowest_days: '17'
+      expedited_processing_median_days: '18.5'
+      simple_average_days: '13.42'
+      simple_highest_days: '50'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
   service_center:
     phone:
     - 206-553-8665
   top_level: false
   website: http://yosemite.epa.gov/r10/extaff.nsf/webpage/freedom+of+information+act
-description: The Environmental Protection Agency, with a mission to protect people
-  and the environment from significant health risks, sponsors and conducts research
-  and develops and enforces environmental regulations.
+description: The mission of EPA is to protect human health and the environment.
 keywords:
 - Accounting
 - Acid rain
@@ -1280,8 +1537,10 @@ keywords:
 - Adult education
 - Advertising
 - Aged
+- Agency for International Development
 - Agricultural commodities
 - Agriculture
+- Air carriers
 - Air pollution control
 - Aircraft
 - Airports
@@ -1291,6 +1550,7 @@ keywords:
 - Ammonium sulfate plants
 - Animal feeds
 - Antarctica
+- Antidumping
 - Armed forces
 - Arsenic
 - Asbestos
@@ -1341,7 +1601,9 @@ keywords:
 - Electroplating
 - Elementary and secondary education
 - Employment
+- Endangered and threatened species
 - Energy
+- Environmental Protection Agency
 - Environmental impact statements
 - Environmental protection
 - Equal educational opportunity
@@ -1370,9 +1632,11 @@ keywords:
 - Grains
 - Grant programs
 - Grant programs-Indians
+- Grant programs-agriculture
 - Grant programs-education
 - Grant programs-environmental protection
 - Grant programs-health
+- Grant programs-housing and community development
 - Grant programs-social programs
 - Graphic arts industry
 - Great Lakes
@@ -1419,9 +1683,11 @@ keywords:
 - Livestock
 - Loan programs
 - Loan programs-agriculture
+- Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
+- Management and Budget Office
 - Manpower training programs
 - Mass transportation
 - Meat and meat products
@@ -1432,6 +1698,7 @@ keywords:
 - Migrant labor
 - Milk
 - Mines
+- Minority businesses
 - Mortgage insurance
 - Mortgages
 - Motor carriers
@@ -1445,6 +1712,7 @@ keywords:
 - Nitric acid plants
 - Nitrogen dioxide
 - Nitrogen oxides
+- Noise control
 - Nonprofit organizations
 - Northern Mariana Islands
 - Nuclear energy
@@ -1463,12 +1731,15 @@ keywords:
 - Penalties
 - Petroleum
 - Phosphate
+- Photographic industry
 - Plants
 - Plastics materials and synthetics
 - Plutonium
 - Poison prevention
+- Polychlorinated biphenyls (PCB's)
 - Polymers
 - Poultry and poultry products
+- Printing
 - Privacy
 - Private schools
 - Public health
@@ -1538,6 +1809,7 @@ keywords:
 name: Environmental Protection Agency
 phone: 202-566-1667
 public_liaison:
+  name: Larry Gottesman
   phone:
   - 202-566-1667
 request_form: https://foiaonline.regulations.gov/foia/action/public/home
@@ -1633,9 +1905,34 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: less than 1
     simple_median_days: '15'
+  '2015':
+    complex_average_days: '75.88'
+    complex_highest_days: '1756'
+    complex_lowest_days: less than 1
+    complex_median_days: '39'
+    expedited_processing_average_days: '154.85'
+    expedited_processing_highest_days: '1229'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '26.5'
+    simple_average_days: '12.34'
+    simple_highest_days: '726'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
+  '2016':
+    complex_average_days: '151.98'
+    complex_highest_days: '2011'
+    complex_lowest_days: less than 1
+    complex_median_days: '46'
+    expedited_processing_average_days: '126.11'
+    expedited_processing_highest_days: '1678'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '25'
+    simple_average_days: '18.24'
+    simple_highest_days: '548'
+    simple_lowest_days: less than 1
+    simple_median_days: '15'
 service_center:
   phone:
   - 202-566-1667
 top_level: false
-usa_id: '49039'
-website: http://www.epa.gov/foia/index.html
+website: https://www.epa.gov/foia

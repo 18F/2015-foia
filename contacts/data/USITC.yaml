@@ -9,11 +9,6 @@ departments:
     state: DC
     street: 500 E Street, SW
     zip: '20436'
-  description: The International Trade Commission is a quasi-judicial body that investigates
-    whether or not, and to what extent, an unfair trade practice harms U.S. businesses.
-    When unfair trade practices are found to harm U.S. businesses, the Commission
-    may implement corrective measures. The Commission also provides the President
-    and Congress impartial information on international trade to inform trade policy.
   emails:
   - lisa.barton@usitc.gov
   fax: 202-205-2104
@@ -29,7 +24,7 @@ departments:
     - 202-205-1816
   reading_rooms:
   - - Electronic Reading Room
-    - http://www.usitc.gov/secretary/foia/foia_ereadingroom.htm
+    - https://www.usitc.gov/secretary/foia/foia_ereadingroom.htm
   request_form: http://pubapps.usitc.gov/applications/foia/request.asp
   request_time_stats:
     '2008':
@@ -123,18 +118,34 @@ departments:
       simple_highest_days: '21'
       simple_lowest_days: '1'
       simple_median_days: '11'
+    '2015':
+      complex_average_days: '30'
+      complex_highest_days: '38'
+      complex_lowest_days: '20'
+      complex_median_days: '30'
+      simple_average_days: '15'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2016':
+      complex_average_days: '26'
+      complex_highest_days: '30'
+      complex_lowest_days: '21'
+      complex_median_days: '26'
+      simple_average_days: '15'
+      simple_highest_days: '21'
+      simple_lowest_days: '5'
+      simple_median_days: '16'
   service_center:
-    name: N/A
     phone:
     - 202-205-2595
   top_level: false
-  usa_id: '49712'
   website: http://www.usitc.gov/secretary/foia/index.htm
-description: The International Trade Commission is a quasi-judicial body that investigates
-  whether or not, and to what extent, an unfair trade practice harms U.S. businesses.
-  When unfair trade practices are found to harm U.S. businesses, the Commission may
-  implement corrective measures. The Commission also provides the President and Congress
-  impartial information on international trade to inform trade policy.
+description: The mission of the Commission is to (1) administer U.S. trade remedy
+  laws within its mandate in a fair and objective manner; (2) provide the President,
+  USTR, and Congress with independent analysis, information, and support on matters
+  of tariffs, international trade, and U.S. competitiveness; and (3) maintain the
+  Harmonized Tariff Schedule of the United States (HTS).
 name: United States International Trade Commission
 request_time_stats:
   '2008':
@@ -228,4 +239,21 @@ request_time_stats:
     simple_highest_days: '21'
     simple_lowest_days: '1'
     simple_median_days: '11'
-usa_id: '49712'
+  '2015':
+    complex_average_days: '30'
+    complex_highest_days: '38'
+    complex_lowest_days: '20'
+    complex_median_days: '30'
+    simple_average_days: '15'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+  '2016':
+    complex_average_days: '26'
+    complex_highest_days: '30'
+    complex_lowest_days: '21'
+    complex_median_days: '26'
+    simple_average_days: '15'
+    simple_highest_days: '21'
+    simple_lowest_days: '5'
+    simple_median_days: '16'

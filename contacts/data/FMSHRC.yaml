@@ -9,12 +9,9 @@ departments:
     state: DC
     street: 1331 Pennsylvania, NW
     zip: 20004-1710
-  description: The Federal Mine Safety and Health Review Commission is an independent
-    agency that administers trials and hears appeals of disputes relating directly
-    to the Mine Safety and Health Act of 1977.
   emails:
   - foia@fmshrc.gov
-  fax: 202-434-9944
+  fax: 202-434-9949
   foia_officer:
     name: Linda H. Ghosal
     phone:
@@ -22,7 +19,7 @@ departments:
   name: Federal Mine Safety and Health Review Commission
   phone: 202-434-9935
   public_liaison:
-    name: Emogene Johnson
+    name: Linda Wiles
     phone:
     - 202-434-9935
   reading_rooms:
@@ -117,15 +114,37 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2015':
+      complex_average_days: '9.1'
+      complex_highest_days: '106'
+      complex_lowest_days: '1'
+      complex_median_days: '4'
+      simple_average_days: '2.7'
+      simple_highest_days: '39'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
+    '2016':
+      complex_average_days: '16.8'
+      complex_highest_days: '59'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '2.15'
+      simple_highest_days: '24'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-434-9935
   top_level: false
-  usa_id: '52617'
   website: http://www.fmshrc.gov/foia
 description: The Federal Mine Safety and Health Review Commission is an independent
-  agency that administers trials and hears appeals of disputes relating directly to
-  the Mine Safety and Health Act of 1977.
+  adjudicative agency that provides administrative trial and appellate review of legal
+  disputes arising under the Federal Mine Safety and Health Amendments Act of 1977
+  (Mine Act).
 keywords:
 - Administrative practice and procedure
 - Civil rights
@@ -230,4 +249,25 @@ request_time_stats:
     simple_highest_days: '25'
     simple_lowest_days: '1'
     simple_median_days: '1'
-usa_id: '52617'
+  '2015':
+    complex_average_days: '9.1'
+    complex_highest_days: '106'
+    complex_lowest_days: '1'
+    complex_median_days: '4'
+    simple_average_days: '2.7'
+    simple_highest_days: '39'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'
+  '2016':
+    complex_average_days: '16.8'
+    complex_highest_days: '59'
+    complex_lowest_days: '1'
+    complex_median_days: '16'
+    expedited_processing_average_days: '1'
+    expedited_processing_highest_days: '1'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '1'
+    simple_average_days: '2.15'
+    simple_highest_days: '24'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'

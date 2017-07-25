@@ -203,7 +203,7 @@ class ScraperTests(TestCase):
             Line 3<br />
             Last Line
         """
-        doc = BeautifulSoup(html)
+        doc = BeautifulSoup(html, 'html.parser')
         description = scraper.agency_description(doc)
         self.assertEqual(description, "Line 1\nLine 2\nLine 3\nLast Line")
 
@@ -219,7 +219,7 @@ class ScraperTests(TestCase):
                 <p>\n\t</p>
                 <p>Content 2
                 <p><img />Content 3
-            </div>""")
+            </div>""", 'html.parser')
         lines, ps = scraper.clean_paragraphs(doc)
         self.assertEqual(lines, ['Content 1', 'Content 2', 'Content 3'])
 
@@ -264,7 +264,7 @@ class ScraperTests(TestCase):
               "<p>Then e-mails:<a href='mailto:c@d.com;e@f.info;   g@h.io'>"
               + "email</a></p>",
               "<p>Line 4</p>"]
-        ps = [BeautifulSoup(p) for p in ps]
+        ps = [BeautifulSoup(p, 'html.parser') for p in ps]
         emails = scraper.find_emails(lines, ps)
         self.assertEqual(["a@b.com", "c@d.com", "e@f.info", "g@h.io"],
                          emails)
@@ -273,7 +273,7 @@ class ScraperTests(TestCase):
         self.assertEqual([], emails)
 
         lines = ["Off hand reference to email"]
-        ps = [BeautifulSoup("<p>Off hand reference to email</p>")]
+        ps = [BeautifulSoup("<p>Off hand reference to email</p>", 'html.parser')]
         self.assertRaises(Exception, scraper.find_emails, lines, ps)
 
     def test_extract_numbers(self):
@@ -346,7 +346,7 @@ class ScraperTests(TestCase):
             "<p><strong>Website:</strong><a href='example.com'>here</a></p>",
             "<p><strong>Request Form: </strong><a href=''></a></p>",
             "<p><strong>FOIA Contact</strong> is John</p>"]
-        ps = [BeautifulSoup(p) for p in ps]
+        ps = [BeautifulSoup(p, 'html.parser') for p in ps]
         results = list(scraper.find_bold_fields(ps))
         self.assertEqual(results, [("misc", ("Some Key", "Some Value")),
                                    ("notes", "Some notes here"),
@@ -378,7 +378,7 @@ class ScraperTests(TestCase):
             <p><strong>Website: </strong>
                 <a href="http://www.foia.example.gov/">
                     http://www.foia.example.gov/</a>
-            </p></blockquote></div>""")
+            </p></blockquote></div>""", 'html.parser')
         result = scraper.parse_department(html, "Agency X")
         self.assertEqual(result['name'], "Agency X")
         self.assertEqual(
@@ -428,7 +428,7 @@ class ScraperTests(TestCase):
                   <div class="lineshadow"></div>
                   <h2>About the this agency</h2>Some Description
                   <p align="right"><a href="#top">Return to Top</a></p>"""
-        result = scraper.parse_agency("AAA", BeautifulSoup(html))
+        result = scraper.parse_agency("AAA", BeautifulSoup(html, 'html.parser'))
         self.assertEqual(result['abbreviation'], "AAA")
         self.assertEqual(result['name'], "An Agency")
         self.assertEqual(result['description'], 'Some Description')

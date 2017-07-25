@@ -1,55 +1,20 @@
 abbreviation: DOL
 departments:
-- name: Main Office
-  emails:
-  - foiarequests@dol.gov
 - name: Bureau of International Labor Affairs
   abbreviation: ILAB
-  emails:
-  - FOIARequest@dol.gov
   top_level: true
 - name: Bureau of Labor Statistics
   abbreviation: BLS
   top_level: true
 - name: Employee Benefits Security Administration
-  emails:
-  - foiarequests@dol.gov
   top_level: true
 - name: Employment & Training Administration
   abbreviation: DOLETA
   top_level: true
 - name: Jobs Corps
-  emails:
-  - foiarequests@dol.gov
   top_level: true
 - name: Mine Safety & Health Administration
   abbreviation: MSHA
   top_level: true
-  emails:
-  - foiarequests@dol.gov
 - name: Occupational Safety & Health Administration
   top_level: true
-- name: Office of the Administrative Law Judges
-  emails:
-  - foiarequests@dol.gov
-- name: Office of the Assistant Secretary for Administration and Management
-  emails:
-  - foiarequests@dol.gov
-- name: Office of Federal Contract Compliance Programs
-  emails:
-  - foiarequests@dol.gov
-- address:
-    address_lines:
-    - 'FOIA: Wage and Hour Division'
-    - U. S. Department of Labor
-    - Room S-3201
-    city: Washington
-    state: DC
-    street: 200 Constitution Avenue, N.W.
-    zip: '20210'
-  name: Wage and Hour Division
-- name: Women's Bureau
-  emails:
-  - foiarequests@dol.gov
-emails:
-- foiarequests@dol.gov

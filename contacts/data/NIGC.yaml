@@ -4,14 +4,11 @@ departments:
     address_lines:
     - AnDrea Choate'
     - FOIA/PA and  Records Management Assistant
-    - Suite 9100
     city: Washington
     state: DC
-    street: 1441 L Street, NW
-    zip: '20005'
-  description: The National Indian Gaming Commission is a regulatory body that oversees
-    some aspects of gaming on Indian lands, often complementing the work of Indian
-    regulators.
+    street: 'National Indian Gaming Commission C/O Department of the Interior, 1849
+      C Street, N.W., Mail Stop #1621'
+    zip: '20240'
   emails:
   - Andrea_Choate@nigc.gov
   fax: 202-632-7066
@@ -23,14 +20,9 @@ departments:
   name: National Indian Gaming Commission
   phone: 202-632-7003
   public_liaison:
-    name: AnDrea Choate
+    name: Jo-Ann Shyloski
     phone:
     - 202-632-7003
-  reading_rooms:
-  - - Electronic Reading Room
-    - http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act/The_Freedom_of_Information_Act/Electronic_Reading_Room.aspx
-  - - Reading Room
-    - http://www.nigc.gov/Reading_Room.aspx
   request_time_stats:
     '2008':
       complex_average_days: '26'
@@ -111,14 +103,40 @@ departments:
       simple_highest_days: '730'
       simple_lowest_days: '1'
       simple_median_days: '45'
+    '2015':
+      complex_average_days: '143'
+      complex_highest_days: '222'
+      complex_lowest_days: '24'
+      complex_median_days: '167'
+      simple_average_days: '53'
+      simple_highest_days: '544'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2016':
+      complex_average_days: '366'
+      complex_highest_days: '685'
+      complex_lowest_days: '150'
+      complex_median_days: '304'
+      simple_average_days: '52.86'
+      simple_highest_days: '274'
+      simple_lowest_days: '5'
+      simple_median_days: '19'
   service_center:
     phone:
     - 202-632-7003
   top_level: false
-  usa_id: '49512'
   website: http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx
-description: The National Indian Gaming Commission is a regulatory body that oversees
-  some aspects of gaming on Indian lands, often complementing the work of Indian regulators.
+description: 'The Commission´s primary mission is to regulate gaming activities on
+  Indian lands for the purpose of shielding Indian tribes from organized crime and
+  other corrupting influences; to ensure that Indian tribes are the primary beneficiaries
+  of gaming revenue; and to assure that gaming is conducted fairly and honestly by
+  both operators and players.
+
+
+  To achieve these goals, the Commission is authorized to conduct investigations;
+  undertake enforcement actions, including the issuance of notices of violation, assessment
+  of civil fines, and/or issuance of closure orders; conduct background investigations;
+  conduct audits; and review and approve Tribal gaming ordinances.'
 keywords:
 - Accounting
 - Administrative practice and procedure
@@ -131,6 +149,7 @@ keywords:
 - Indians-business and finance
 - Indians-lands
 - Indians-tribal government
+- Penalties
 - Privacy
 - Reporting and recordkeeping requirements
 - Wages
@@ -215,4 +234,21 @@ request_time_stats:
     simple_highest_days: '730'
     simple_lowest_days: '1'
     simple_median_days: '45'
-usa_id: '49512'
+  '2015':
+    complex_average_days: '143'
+    complex_highest_days: '222'
+    complex_lowest_days: '24'
+    complex_median_days: '167'
+    simple_average_days: '53'
+    simple_highest_days: '544'
+    simple_lowest_days: '1'
+    simple_median_days: '19'
+  '2016':
+    complex_average_days: '366'
+    complex_highest_days: '685'
+    complex_lowest_days: '150'
+    complex_median_days: '304'
+    simple_average_days: '52.86'
+    simple_highest_days: '274'
+    simple_lowest_days: '5'
+    simple_median_days: '19'

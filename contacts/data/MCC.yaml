@@ -2,28 +2,31 @@ abbreviation: MCC
 departments:
 - address:
     address_lines:
-    - John Mantini
-    - Acting Chief FOIA Officer
+    - Tamiko Walker
+    - Chief FOIA Officer
     city: Washington
     state: DC
-    street: 875 15th Street, NW
+    street: 1099 14th St. NW Ste 700
     zip: '20005'
-  description: The Millenium Challenge Corporation is an independent foreign aid agency
-    that provides funds in an effort to alleviate global poverty. Countries are selected
-    on a competitive basis, and projects funded by the corporation are chosen and
-    managed by the recipient country.
   emails:
   - foia@mcc.gov
+  fax: 202-521-3939
   foia_officer:
     name: John Mantini
     phone:
     - 202-521-3863
+  misc:
+    FOIA Program Officer:
+      name: Jenese Lee
+      phone:
+      - 202-521-3691
   name: Millennium Challenge Corporation
-  phone: 202-521-7235
+  phone: 202-521-3730
   public_liaison:
-    name: John Mantini
+    name: Udvaldo Lopez
     phone:
-    - 202-521-7235
+    - 202-521-3594
+  request_form: N/A
   request_time_stats:
     '2010':
       complex_average_days: '0'
@@ -74,22 +77,31 @@ departments:
       simple_highest_days: '117'
       simple_lowest_days: less than 1
       simple_median_days: '19'
+    '2015':
+      simple_average_days: '84'
+      simple_highest_days: '290'
+      simple_lowest_days: less than 1
+      simple_median_days: '79'
+    '2016':
+      simple_average_days: '28.28'
+      simple_highest_days: '79'
+      simple_lowest_days: '3'
+      simple_median_days: '24'
   service_center:
     name: John Mantini
     phone:
-    - 202-521-7235
+    - 202-521-3863
   top_level: false
-  usa_id: '49460'
-  website: http://www.mcc.gov/pages/foia
-description: The Millenium Challenge Corporation is an independent foreign aid agency
-  that provides funds in an effort to alleviate global poverty. Countries are selected
-  on a competitive basis, and projects funded by the corporation are chosen and managed
-  by the recipient country.
+  website: https://www.mcc.gov/resources/foia
+description: The Millennium Challenge Corporation (MCC) is an innovative and independent
+  U.S. foreign aid agency that is helping lead the fight against global poverty.
 keywords:
 - Administrative practice and procedure
+- Claims
 - Courts
 - Government employees
 - Organization and functions (Government agencies)
+- Wages
 name: Millennium Challenge Corporation
 request_time_stats:
   '2010':
@@ -141,4 +153,13 @@ request_time_stats:
     simple_highest_days: '117'
     simple_lowest_days: less than 1
     simple_median_days: '19'
-usa_id: '49460'
+  '2015':
+    simple_average_days: '84'
+    simple_highest_days: '290'
+    simple_lowest_days: less than 1
+    simple_median_days: '79'
+  '2016':
+    simple_average_days: '28.28'
+    simple_highest_days: '79'
+    simple_lowest_days: '3'
+    simple_median_days: '24'
