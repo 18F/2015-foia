@@ -1,0 +1,183 @@
+{
+  "abbreviation": "EXIM",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Lennell C. Jackson",
+          "FOIA Contact"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "811 Vermont Avenue, NW",
+        "zip": "20571"
+      },
+      "emails": [
+        "foia@exim.gov"
+      ],
+      "fax": "202-565-3294",
+      "misc": {
+        "FOIA Contact": {
+          "name": "Dawn R. Kral",
+          "phone": [
+            "202-565-3248"
+          ]
+        }
+      },
+      "name": "Export-Import Bank of the U.S.",
+      "phone": "202-565-3290",
+      "public_liaison": {
+        "name": "Lennell C. Jackson",
+        "phone": [
+          "202-565-3290"
+        ]
+      },
+      "request_form": "http://www.exim.gov/about/foia/foia-request-form",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "118",
+          "complex_highest_days": "574",
+          "complex_lowest_days": "31",
+          "complex_median_days": "72",
+          "expedited_processing_average_days": "45",
+          "expedited_processing_highest_days": "125",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "16",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "4",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-565-3290"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.exim.gov/about/foia"
+    }
+  ],
+  "description": "The Export-Import Bank of the United States (Ex-Im Bank) is the official export credit agency of the United States. Ex-Im Bank's mission is to assist in financing the export of U.S. goods and services to international markets.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Classified information",
+    "Conflict of interests",
+    "Exports",
+    "Government contracts",
+    "Government employees",
+    "Government publications",
+    "Grant programs",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Loan programs",
+    "Reporting and recordkeeping requirements",
+    "Sunshine Act"
+  ],
+  "name": "Export-Import Bank of the U.S.",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "118",
+      "complex_highest_days": "574",
+      "complex_lowest_days": "31",
+      "complex_median_days": "72",
+      "expedited_processing_average_days": "45",
+      "expedited_processing_highest_days": "125",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "16",
+      "simple_highest_days": "30",
+      "simple_lowest_days": "4",
+      "simple_median_days": "15"
+    },
+    "2009": {
+      "complex_average_days": "250",
+      "complex_highest_days": "829",
+      "complex_lowest_days": "45",
+      "complex_median_days": "157",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "45",
+      "simple_highest_days": "203",
+      "simple_lowest_days": "1",
+      "simple_median_days": "38"
+    },
+    "2010": {
+      "complex_average_days": "115.1",
+      "complex_highest_days": "333",
+      "complex_lowest_days": "1",
+      "complex_median_days": "85",
+      "simple_average_days": "31.98",
+      "simple_highest_days": "68",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "28"
+    },
+    "2011": {
+      "complex_average_days": "104.42",
+      "complex_highest_days": "360",
+      "complex_lowest_days": "5",
+      "complex_median_days": "69",
+      "expedited_processing_average_days": "12",
+      "expedited_processing_highest_days": "12",
+      "expedited_processing_lowest_days": "12",
+      "expedited_processing_median_days": "12",
+      "simple_average_days": "32.26",
+      "simple_highest_days": "173",
+      "simple_lowest_days": "1",
+      "simple_median_days": "22"
+    },
+    "2012": {
+      "complex_average_days": "223.58",
+      "complex_highest_days": "427",
+      "complex_lowest_days": "28",
+      "complex_median_days": "241",
+      "simple_average_days": "49.68",
+      "simple_highest_days": "235",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "22"
+    },
+    "2013": {
+      "complex_average_days": "318.19",
+      "complex_highest_days": "786",
+      "complex_lowest_days": "44",
+      "complex_median_days": "277",
+      "simple_average_days": "82.2",
+      "simple_highest_days": "257",
+      "simple_lowest_days": "1",
+      "simple_median_days": "59"
+    },
+    "2014": {
+      "complex_average_days": "169.85",
+      "complex_highest_days": "789",
+      "complex_lowest_days": "8",
+      "complex_median_days": "59",
+      "simple_average_days": "84.33",
+      "simple_highest_days": "339",
+      "simple_lowest_days": "2",
+      "simple_median_days": "54"
+    },
+    "2015": {
+      "complex_average_days": "275.02",
+      "complex_highest_days": "908",
+      "complex_lowest_days": "15",
+      "complex_median_days": "112",
+      "simple_average_days": "68.2",
+      "simple_highest_days": "702",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "24"
+    },
+    "2016": {
+      "complex_average_days": "136.22",
+      "complex_highest_days": "526",
+      "complex_lowest_days": "1",
+      "complex_median_days": "78",
+      "simple_average_days": "26.3",
+      "simple_highest_days": "320",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11.5"
+    }
+  }
+}

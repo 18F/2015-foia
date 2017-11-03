@@ -1,0 +1,263 @@
+{
+  "abbreviation": "NMB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Mary L. Johnson",
+          "General Counsel",
+          "Suite 250E"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1301 K Street, NW",
+        "zip": "20005"
+      },
+      "emails": [
+        "parker@nmb.gov"
+      ],
+      "fax": "202-692-5085",
+      "misc": {
+        "General Counsel": {
+          "name": "Mary L. Johnson",
+          "phone": [
+            "202-692-5040"
+          ]
+        }
+      },
+      "name": "National Mediation Board",
+      "phone": "202-692-5040",
+      "public_liaison": {
+        "name": "Angela Heverling",
+        "phone": [
+          "202-692-5040"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading Room Certificate",
+          "http://www.nmb.gov/documents/press-contacts/reading-room-certificate.pdf"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "simple_average_days": "13",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "12",
+          "expedited_processing_highest_days": "25",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "9",
+          "simple_average_days": "14",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "2",
+          "simple_median_days": "14"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "15",
+          "expedited_processing_highest_days": "29",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "17",
+          "simple_highest_days": "87",
+          "simple_lowest_days": "3",
+          "simple_median_days": "10"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "39.33",
+          "expedited_processing_highest_days": "78",
+          "expedited_processing_lowest_days": "20",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "40.5",
+          "simple_highest_days": "153",
+          "simple_lowest_days": "6",
+          "simple_median_days": "29.5"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "30.32",
+          "simple_highest_days": "125",
+          "simple_lowest_days": "2",
+          "simple_median_days": "11"
+        },
+        "2013": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "15",
+          "expedited_processing_highest_days": "15",
+          "expedited_processing_lowest_days": "15",
+          "expedited_processing_median_days": "15",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2014": {
+          "simple_average_days": "6",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "simple_average_days": "5",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "10",
+          "simple_highest_days": "121",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "name": "Tonya Kirksey",
+        "phone": [
+          "202-692-5040"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nmb.gov/press-and-contacts/foia/"
+    }
+  ],
+  "description": "The National Mediation Board (NMB), established by the 1934 amendments to the Railway Labor Act of 1926, is an independent agency that performs a central role in facilitating harmonious labor-management relations within two of the nation's key transportation modes--the railroads and airlines. Pursuant to the Railway Labor Act, NMB programs provide an integrated dispute resolution process to effectively meet the statutory objective of minimizing work stoppages in the airline and railroad industries.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Air carriers",
+    "Confidential business information",
+    "Freedom of information",
+    "Labor management relations",
+    "Labor unions",
+    "Railroads"
+  ],
+  "name": "National Mediation Board",
+  "request_time_stats": {
+    "2008": {
+      "simple_average_days": "13",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "12",
+      "expedited_processing_highest_days": "25",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "9",
+      "simple_average_days": "14",
+      "simple_highest_days": "25",
+      "simple_lowest_days": "2",
+      "simple_median_days": "14"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "15",
+      "expedited_processing_highest_days": "29",
+      "expedited_processing_lowest_days": "7",
+      "expedited_processing_median_days": "10",
+      "simple_average_days": "17",
+      "simple_highest_days": "87",
+      "simple_lowest_days": "3",
+      "simple_median_days": "10"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "39.33",
+      "expedited_processing_highest_days": "78",
+      "expedited_processing_lowest_days": "20",
+      "expedited_processing_median_days": "20",
+      "simple_average_days": "40.5",
+      "simple_highest_days": "153",
+      "simple_lowest_days": "6",
+      "simple_median_days": "29.5"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "30.32",
+      "simple_highest_days": "125",
+      "simple_lowest_days": "2",
+      "simple_median_days": "11"
+    },
+    "2013": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "15",
+      "expedited_processing_highest_days": "15",
+      "expedited_processing_lowest_days": "15",
+      "expedited_processing_median_days": "15",
+      "simple_average_days": "6",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2014": {
+      "simple_average_days": "6",
+      "simple_highest_days": "37",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2015": {
+      "simple_average_days": "5",
+      "simple_highest_days": "28",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2016": {
+      "expedited_processing_average_days": "1",
+      "expedited_processing_highest_days": "1",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "10",
+      "simple_highest_days": "121",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    }
+  }
+}

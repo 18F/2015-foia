@@ -1,0 +1,195 @@
+{
+  "abbreviation": "NCPC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Anne R. Schuyler",
+          "Chief FOIA Officer",
+          "North Lobby, Suite 500"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "401 9th Street, NW",
+        "zip": "20004"
+      },
+      "emails": [
+        "anne.schuyler@ncpc.gov"
+      ],
+      "fax": "202-482-7272",
+      "misc": {
+        "FOIA Contact": {
+          "name": "Deborah Young",
+          "phone": [
+            "202-482-7228"
+          ]
+        }
+      },
+      "name": "National Capital Planning Commission",
+      "phone": "202-482-7223",
+      "public_liaison": {
+        "name": "Deborah B. Young",
+        "phone": [
+          "202-482-7228"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "simple_average_days": "3.5",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "10",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3",
+          "simple_highest_days": "6",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "simple_average_days": "3.67",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2014": {
+          "complex_average_days": "9",
+          "complex_highest_days": "9",
+          "complex_lowest_days": "9",
+          "complex_median_days": "9",
+          "simple_average_days": "3.71",
+          "simple_highest_days": "8",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "simple_average_days": "6.5",
+          "simple_highest_days": "9",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "4.87",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "name": "Marcella Brown",
+        "phone": [
+          "202-482-7227"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html"
+    }
+  ],
+  "description": "NCPC protects and enhances the historic, cultural, and natural resources of the national capital by\n\u00b7Creating and updating the Comprehensive Plan for the National Capital Region\n\u00b7Crafting long-range plans and planning policies\n\u00b7Reviewing a variety of federal and District of Columbia development projects\n\u00b7Producing the annual Federal Capital Improvements Program (FCIP)",
+  "keywords": [
+    "Freedom of information"
+  ],
+  "name": "National Capital Planning Commission",
+  "request_time_stats": {
+    "2010": {
+      "simple_average_days": "3.5",
+      "simple_highest_days": "7",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "6",
+      "simple_highest_days": "10",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "3",
+      "simple_highest_days": "6",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2013": {
+      "simple_average_days": "3.67",
+      "simple_highest_days": "16",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "2"
+    },
+    "2014": {
+      "complex_average_days": "9",
+      "complex_highest_days": "9",
+      "complex_lowest_days": "9",
+      "complex_median_days": "9",
+      "simple_average_days": "3.71",
+      "simple_highest_days": "8",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2015": {
+      "simple_average_days": "6.5",
+      "simple_highest_days": "9",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2016": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "4.87",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "abbreviation": "FMC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Karen Gregory",
+          "Secretary"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "800 North Capitol Street, NW",
+        "zip": "20573"
+      },
+      "emails": [
+        "FOIA@fmc.gov"
+      ],
+      "fax": "202-523-0014",
+      "misc": {
+        "Secretary": {
+          "name": "Karen Gregory",
+          "phone": [
+            "202-523-5725"
+          ]
+        }
+      },
+      "name": "Federal Maritime Commission",
+      "phone": "202-523-5725",
+      "public_liaison": {
+        "name": "Rachel Dickon",
+        "phone": [
+          "202-523-5725"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "http://www.fmc.gov/electronic_reading_room/default1.aspx"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "1",
+          "simple_median_days": "24"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "168",
+          "simple_highest_days": "526",
+          "simple_lowest_days": "2",
+          "simple_median_days": "64"
+        },
+        "2010": {
+          "simple_average_days": "133",
+          "simple_highest_days": "601",
+          "simple_lowest_days": "4",
+          "simple_median_days": "48"
+        },
+        "2011": {
+          "complex_average_days": "242.3",
+          "complex_highest_days": "508",
+          "complex_lowest_days": "10",
+          "complex_median_days": "231.5",
+          "expedited_processing_average_days": "27.6",
+          "expedited_processing_highest_days": "59",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "19"
+        },
+        "2012": {
+          "complex_average_days": "272.4",
+          "complex_highest_days": "504",
+          "complex_lowest_days": "16",
+          "complex_median_days": "283",
+          "expedited_processing_average_days": "12.3",
+          "expedited_processing_highest_days": "16",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "20.4",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "4",
+          "simple_median_days": "12"
+        },
+        "2013": {
+          "complex_average_days": "444.5",
+          "complex_highest_days": "576",
+          "complex_lowest_days": "71",
+          "complex_median_days": "523.5",
+          "expedited_processing_average_days": "77.5",
+          "expedited_processing_highest_days": "249",
+          "expedited_processing_lowest_days": "14",
+          "expedited_processing_median_days": "23.5",
+          "simple_average_days": "7.5",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "49",
+          "complex_highest_days": "421",
+          "complex_lowest_days": "2",
+          "complex_median_days": "19",
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "24",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "11.5",
+          "simple_average_days": "9.8",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "266.1",
+          "complex_highest_days": "995",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "22",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "22",
+          "simple_average_days": "6.6",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6.5"
+        },
+        "2016": {
+          "complex_average_days": "221.5",
+          "complex_highest_days": "933",
+          "complex_lowest_days": "3",
+          "complex_median_days": "39.5",
+          "expedited_processing_average_days": "27",
+          "expedited_processing_highest_days": "38",
+          "expedited_processing_lowest_days": "16",
+          "expedited_processing_median_days": "27",
+          "simple_average_days": "3.9",
+          "simple_highest_days": "11",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "name": "Linda Hale",
+        "phone": [
+          "202-523-5707"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fmc.gov/about/freedom_of_information_act.aspx"
+    }
+  ],
+  "description": "The Commission is responsible for the regulation of ocean-borne transportation in the foreign commerce of the U.S.",
+  "name": "Federal Maritime Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "24",
+      "simple_highest_days": "46",
+      "simple_lowest_days": "1",
+      "simple_median_days": "24"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "168",
+      "simple_highest_days": "526",
+      "simple_lowest_days": "2",
+      "simple_median_days": "64"
+    },
+    "2010": {
+      "simple_average_days": "133",
+      "simple_highest_days": "601",
+      "simple_lowest_days": "4",
+      "simple_median_days": "48"
+    },
+    "2011": {
+      "complex_average_days": "242.3",
+      "complex_highest_days": "508",
+      "complex_lowest_days": "10",
+      "complex_median_days": "231.5",
+      "expedited_processing_average_days": "27.6",
+      "expedited_processing_highest_days": "59",
+      "expedited_processing_lowest_days": "11",
+      "expedited_processing_median_days": "19"
+    },
+    "2012": {
+      "complex_average_days": "272.4",
+      "complex_highest_days": "504",
+      "complex_lowest_days": "16",
+      "complex_median_days": "283",
+      "expedited_processing_average_days": "12.3",
+      "expedited_processing_highest_days": "16",
+      "expedited_processing_lowest_days": "10",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "20.4",
+      "simple_highest_days": "59",
+      "simple_lowest_days": "4",
+      "simple_median_days": "12"
+    },
+    "2013": {
+      "complex_average_days": "444.5",
+      "complex_highest_days": "576",
+      "complex_lowest_days": "71",
+      "complex_median_days": "523.5",
+      "expedited_processing_average_days": "77.5",
+      "expedited_processing_highest_days": "249",
+      "expedited_processing_lowest_days": "14",
+      "expedited_processing_median_days": "23.5",
+      "simple_average_days": "7.5",
+      "simple_highest_days": "25",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2014": {
+      "complex_average_days": "49",
+      "complex_highest_days": "421",
+      "complex_lowest_days": "2",
+      "complex_median_days": "19",
+      "expedited_processing_average_days": "14",
+      "expedited_processing_highest_days": "24",
+      "expedited_processing_lowest_days": "9",
+      "expedited_processing_median_days": "11.5",
+      "simple_average_days": "9.8",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10"
+    },
+    "2015": {
+      "complex_average_days": "266.1",
+      "complex_highest_days": "995",
+      "complex_lowest_days": "1",
+      "complex_median_days": "14",
+      "expedited_processing_average_days": "22",
+      "expedited_processing_highest_days": "22",
+      "expedited_processing_lowest_days": "22",
+      "expedited_processing_median_days": "22",
+      "simple_average_days": "6.6",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6.5"
+    },
+    "2016": {
+      "complex_average_days": "221.5",
+      "complex_highest_days": "933",
+      "complex_lowest_days": "3",
+      "complex_median_days": "39.5",
+      "expedited_processing_average_days": "27",
+      "expedited_processing_highest_days": "38",
+      "expedited_processing_lowest_days": "16",
+      "expedited_processing_median_days": "27",
+      "simple_average_days": "3.9",
+      "simple_highest_days": "11",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    }
+  }
+}

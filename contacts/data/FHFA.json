@@ -1,0 +1,221 @@
+{
+  "abbreviation": "FHFA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Stacy J. Easter",
+          "FOIA Officer",
+          "Constitution Center"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "400 7th Street, SW",
+        "zip": "20219"
+      },
+      "emails": [
+        "FOIA@fhfa.gov"
+      ],
+      "fax": "202-649-1073",
+      "name": "Headquarters",
+      "phone": "202-649-3803",
+      "public_liaison": {
+        "name": "Stacy J. Easter",
+        "phone": [
+          "202-649-3803"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading Room",
+          "https://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx"
+        ]
+      ],
+      "service_center": {
+        "phone": [
+          "202-649-3803"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/FOIA.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Katarina Hake",
+          "FOIA Officer",
+          "Constitution Center"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "400 7th Street, SW",
+        "zip": "20219"
+      },
+      "emails": [
+        "FOIA@fhfaoig.gov"
+      ],
+      "fax": "202-318-8602",
+      "name": "Office of Inspector General",
+      "phone": "202-730-0399",
+      "public_liaison": {
+        "name": "Katarina Hake",
+        "phone": [
+          "202-730-0399"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "202-730-0399"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.fhfaoig.gov/FOIA"
+    }
+  ],
+  "description": "The FHFA provides effective supervision, regulation and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks to promote their safety and soundness, support housing finance and affordable housing, and support a stable and liquid mortgage market.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Advertising",
+    "Agriculture",
+    "Archives and records",
+    "Banks, banking",
+    "Claims",
+    "Community development",
+    "Confidential business information",
+    "Conflict of interests",
+    "Consumer protection",
+    "Cooperatives",
+    "Courts",
+    "Credit",
+    "Credit unions",
+    "Crime",
+    "Currency",
+    "Elections",
+    "Equal access to justice",
+    "Equal employment opportunity",
+    "Ethics",
+    "Federal Reserve System",
+    "Federal home loan banks",
+    "Flood insurance",
+    "Foreign banking",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government securities",
+    "Holding companies",
+    "Housing",
+    "Insurance",
+    "Intergovernmental relations",
+    "Investments",
+    "Minority businesses",
+    "Mortgages",
+    "National banks",
+    "Nonprofit organizations",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Savings associations",
+    "Seals and insignia",
+    "Securities",
+    "Sunshine Act",
+    "Trade practices",
+    "Truth in lending",
+    "Wages"
+  ],
+  "name": "Federal Housing Finance Agency",
+  "request_time_stats": {
+    "2009": {
+      "complex_average_days": "40",
+      "complex_highest_days": "139",
+      "complex_lowest_days": "8",
+      "complex_median_days": "34",
+      "expedited_processing_average_days": "31",
+      "expedited_processing_highest_days": "52",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "33",
+      "simple_average_days": "14",
+      "simple_highest_days": "48",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "33"
+    },
+    "2010": {
+      "complex_average_days": "174",
+      "complex_highest_days": "356",
+      "complex_lowest_days": "33",
+      "complex_median_days": "170",
+      "expedited_processing_highest_days": "2",
+      "expedited_processing_lowest_days": "2",
+      "simple_average_days": "48",
+      "simple_highest_days": "178",
+      "simple_lowest_days": "1",
+      "simple_median_days": "29"
+    },
+    "2011": {
+      "complex_average_days": "81",
+      "complex_highest_days": "228",
+      "complex_lowest_days": "10",
+      "complex_median_days": "52.5",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "10.57",
+      "simple_highest_days": "63",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2012": {
+      "complex_average_days": "39.25",
+      "complex_highest_days": "271",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "21",
+      "simple_average_days": "11.03",
+      "simple_highest_days": "165",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2013": {
+      "complex_average_days": "45.84",
+      "complex_highest_days": "158",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "33",
+      "simple_average_days": "15.4",
+      "simple_highest_days": "109",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10"
+    },
+    "2014": {
+      "complex_average_days": "58.41",
+      "complex_highest_days": "208",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "45",
+      "simple_average_days": "18.62",
+      "simple_highest_days": "215",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10"
+    },
+    "2015": {
+      "complex_average_days": "76.54",
+      "complex_highest_days": "481",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "47",
+      "simple_average_days": "12.35",
+      "simple_highest_days": "112",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11"
+    },
+    "2016": {
+      "complex_average_days": "47.06",
+      "complex_highest_days": "194",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "35.5",
+      "simple_average_days": "8.48",
+      "simple_highest_days": "60",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    }
+  }
+}

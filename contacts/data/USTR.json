@@ -1,0 +1,228 @@
+{
+  "abbreviation": "USTR",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Janice A. Kaye",
+          "FOIA Officer",
+          "Anacostia Naval Annex Building 410/Door 123"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "250 Murray Lane SW",
+        "zip": "20509"
+      },
+      "emails": [
+        "foia@ustr.eop.gov"
+      ],
+      "fax": "202-395-9458",
+      "name": "Office of the United States Trade Representative",
+      "phone": "202-395-3419",
+      "public_liaison": {
+        "name": "Monique Ricker",
+        "phone": [
+          "202-395-3419"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Library",
+          "https://ustr.gov/about-us/reading-room/freedom-information-act-foia/foia-library"
+        ],
+        [
+          "Reading Room",
+          "https://ustr.gov/about-us/reading-room"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "269",
+          "complex_highest_days": "1213",
+          "complex_lowest_days": "47",
+          "complex_median_days": "186",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "32",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "46",
+          "simple_highest_days": "85",
+          "simple_lowest_days": "30",
+          "simple_median_days": "45"
+        },
+        "2011": {
+          "complex_average_days": "305",
+          "complex_highest_days": "805",
+          "complex_lowest_days": "3",
+          "complex_median_days": "374",
+          "expedited_processing_average_days": "10",
+          "expedited_processing_highest_days": "40",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "17",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "151",
+          "complex_highest_days": "905",
+          "complex_lowest_days": "1",
+          "complex_median_days": "31",
+          "expedited_processing_average_days": "38",
+          "expedited_processing_highest_days": "51",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "51",
+          "simple_average_days": "22",
+          "simple_highest_days": "88",
+          "simple_lowest_days": "3",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "141",
+          "complex_highest_days": "789",
+          "complex_lowest_days": "7",
+          "complex_median_days": "39",
+          "simple_average_days": "19",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "225",
+          "complex_highest_days": "814",
+          "complex_lowest_days": "17",
+          "complex_median_days": "277",
+          "simple_average_days": "31",
+          "simple_highest_days": "98",
+          "simple_lowest_days": "1",
+          "simple_median_days": "33"
+        },
+        "2015": {
+          "complex_average_days": "245",
+          "complex_highest_days": "1400",
+          "complex_lowest_days": "17",
+          "complex_median_days": "74",
+          "simple_average_days": "25",
+          "simple_highest_days": "99",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2016": {
+          "complex_average_days": "154",
+          "complex_highest_days": "540",
+          "complex_lowest_days": "59",
+          "complex_median_days": "104",
+          "simple_average_days": "24",
+          "simple_highest_days": "91",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "name": "Melissa Keppel",
+        "phone": [
+          "202-395-3419"
+        ]
+      },
+      "top_level": false,
+      "website": "https://ustr.gov/about-us/reading-room/foia"
+    }
+  ],
+  "description": "The Office of the U.S. Trade Representative (USTR) is responsible for developing and coordinating U.S. international trade, commodity, and direct investment policy, and overseeing negotiations with other countries.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Courts",
+    "Foreign trade",
+    "Freedom of information",
+    "Government employees",
+    "Imports",
+    "Privacy"
+  ],
+  "name": "Office of the United States Trade Representative",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "269",
+      "complex_highest_days": "1213",
+      "complex_lowest_days": "47",
+      "complex_median_days": "186",
+      "expedited_processing_average_days": "13",
+      "expedited_processing_highest_days": "32",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "46",
+      "simple_highest_days": "85",
+      "simple_lowest_days": "30",
+      "simple_median_days": "45"
+    },
+    "2011": {
+      "complex_average_days": "305",
+      "complex_highest_days": "805",
+      "complex_lowest_days": "3",
+      "complex_median_days": "374",
+      "expedited_processing_average_days": "10",
+      "expedited_processing_highest_days": "40",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "17",
+      "simple_highest_days": "46",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9"
+    },
+    "2012": {
+      "complex_average_days": "151",
+      "complex_highest_days": "905",
+      "complex_lowest_days": "1",
+      "complex_median_days": "31",
+      "expedited_processing_average_days": "38",
+      "expedited_processing_highest_days": "51",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "51",
+      "simple_average_days": "22",
+      "simple_highest_days": "88",
+      "simple_lowest_days": "3",
+      "simple_median_days": "10"
+    },
+    "2013": {
+      "complex_average_days": "141",
+      "complex_highest_days": "789",
+      "complex_lowest_days": "7",
+      "complex_median_days": "39",
+      "simple_average_days": "19",
+      "simple_highest_days": "41",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2014": {
+      "complex_average_days": "225",
+      "complex_highest_days": "814",
+      "complex_lowest_days": "17",
+      "complex_median_days": "277",
+      "simple_average_days": "31",
+      "simple_highest_days": "98",
+      "simple_lowest_days": "1",
+      "simple_median_days": "33"
+    },
+    "2015": {
+      "complex_average_days": "245",
+      "complex_highest_days": "1400",
+      "complex_lowest_days": "17",
+      "complex_median_days": "74",
+      "simple_average_days": "25",
+      "simple_highest_days": "99",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2016": {
+      "complex_average_days": "154",
+      "complex_highest_days": "540",
+      "complex_lowest_days": "59",
+      "complex_median_days": "104",
+      "simple_average_days": "24",
+      "simple_highest_days": "91",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    }
+  }
+}

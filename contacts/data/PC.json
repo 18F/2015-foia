@@ -1,0 +1,323 @@
+{
+  "abbreviation": "PC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Denora Miller",
+          "FOIA/Privacy Act Officer, Office of Management"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1111 20th Street, NW",
+        "zip": "20526-0001"
+      },
+      "emails": [
+        "foia@peacecorps.gov"
+      ],
+      "fax": "202-692-1385",
+      "misc": {
+        "FOIA/Privacy Act Officer, Office of Management": {
+          "name": "Denora Miller",
+          "phone": [
+            "202-692-1236"
+          ]
+        }
+      },
+      "name": "Main Office",
+      "phone": "202-692-1236",
+      "public_liaison": {
+        "name": "Denora Miller",
+        "phone": [
+          "202-692-1236"
+        ]
+      },
+      "request_form": "https://cwppc.secureprtportal.com/",
+      "service_center": {
+        "phone": [
+          "202-692-1236"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.peacecorps.gov/index.cfm?shell=about.policies.foia"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jeffrey Reichert",
+          "FOIA Contact"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1111 20th Street, NW",
+        "zip": "20526-0001"
+      },
+      "emails": [
+        "foia@peacecorps.gov"
+      ],
+      "misc": {
+        "FOIA Contact": {
+          "name": "Jeffrey Reichert",
+          "phone": [
+            "202-692-2922"
+          ]
+        }
+      },
+      "name": "Office of the Inspector General",
+      "phone": "202-692-2922",
+      "public_liaison": {
+        "name": "Jeffrey Reichert",
+        "phone": [
+          "202-692-2922"
+        ]
+      },
+      "request_form": "https://cwppc.secureprtportal.com/",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "less than 1",
+          "complex_highest_days": "less than 1",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "less than 1",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "6",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2009": {
+          "complex_average_days": "less than 1",
+          "complex_highest_days": "less than 1",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "less than 1",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "5",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19",
+          "simple_highest_days": "45",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24",
+          "simple_highest_days": "78",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "2",
+          "simple_median_days": "13"
+        },
+        "2013": {
+          "simple_average_days": "19",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "3",
+          "simple_median_days": "20"
+        },
+        "2014": {
+          "simple_average_days": "17",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "5",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "simple_average_days": "19",
+          "simple_highest_days": "114",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2016": {
+          "simple_average_days": "19",
+          "simple_highest_days": "114",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-692-2922"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.peacecorps.gov/index.cfm?shell=about.policies.foia"
+    }
+  ],
+  "description": "In 1961, President John F. Kennedy established the Peace Corps to promote world peace and friendship.\n\nThe Peace Corps' mission has three simple goals: \n\nHelping the people of interested countries in meeting their need for trained men and women. \nHelping promote a better understanding of Americans on the part of the peoples served. \nHelping promote a better understanding of other peoples on the part of Americans.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Aged",
+    "Citizenship and naturalization",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Conflict of interests",
+    "Equal employment opportunity",
+    "Foreign aid",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Grant programs",
+    "Health",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Hostages",
+    "Individuals with disabilities",
+    "Iraq",
+    "Kuwait",
+    "Lebanon",
+    "Loan programs",
+    "Organization and functions (Government agencies)",
+    "Reporting and recordkeeping requirements",
+    "Technical assistance",
+    "Volunteers"
+  ],
+  "name": "Peace Corps",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "less than 1",
+      "complex_highest_days": "less than 1",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "less than 1",
+      "expedited_processing_average_days": "3",
+      "expedited_processing_highest_days": "3",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "3",
+      "simple_average_days": "14",
+      "simple_highest_days": "129",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "12"
+    },
+    "2009": {
+      "complex_average_days": "less than 1",
+      "complex_highest_days": "less than 1",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "less than 1",
+      "expedited_processing_average_days": "less than 1",
+      "expedited_processing_highest_days": "less than 1",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "less than 1",
+      "simple_average_days": "8",
+      "simple_highest_days": "58",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10"
+    },
+    "2010": {
+      "complex_average_days": "80",
+      "complex_highest_days": "146",
+      "complex_lowest_days": "22",
+      "complex_median_days": "52",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "22",
+      "simple_highest_days": "69",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2011": {
+      "complex_average_days": "101",
+      "complex_highest_days": "150",
+      "complex_lowest_days": "47",
+      "complex_median_days": "93",
+      "expedited_processing_average_days": "11",
+      "expedited_processing_highest_days": "11",
+      "expedited_processing_lowest_days": "11",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "31",
+      "simple_highest_days": "161",
+      "simple_lowest_days": "1",
+      "simple_median_days": "23"
+    },
+    "2012": {
+      "complex_average_days": "184",
+      "complex_highest_days": "354",
+      "complex_lowest_days": "37",
+      "complex_median_days": "185",
+      "expedited_processing_average_days": "27",
+      "expedited_processing_highest_days": "51",
+      "expedited_processing_lowest_days": "10",
+      "expedited_processing_median_days": "24",
+      "simple_average_days": "25",
+      "simple_highest_days": "201",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2013": {
+      "complex_average_days": "183",
+      "complex_highest_days": "518",
+      "complex_lowest_days": "85",
+      "complex_median_days": "152",
+      "simple_average_days": "32",
+      "simple_highest_days": "105",
+      "simple_lowest_days": "1",
+      "simple_median_days": "26"
+    },
+    "2014": {
+      "complex_average_days": "113",
+      "complex_highest_days": "552",
+      "complex_lowest_days": "5",
+      "complex_median_days": "51",
+      "simple_average_days": "82",
+      "simple_highest_days": "409",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "38"
+    },
+    "2015": {
+      "complex_average_days": "278",
+      "complex_highest_days": "663",
+      "complex_lowest_days": "38",
+      "complex_median_days": "185",
+      "simple_average_days": "65",
+      "simple_highest_days": "467",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "24"
+    },
+    "2016": {
+      "complex_average_days": "278",
+      "complex_highest_days": "663",
+      "complex_lowest_days": "38",
+      "complex_median_days": "185",
+      "simple_average_days": "65",
+      "simple_highest_days": "467",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "24"
+    }
+  }
+}

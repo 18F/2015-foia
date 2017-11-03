@@ -1,0 +1,46 @@
+{
+  "abbreviation": "HSTSF",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Tara Yglesias",
+          "FOIA Officer"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "712 Jackson Place, NW",
+        "zip": "20006"
+      },
+      "emails": [
+        "tyglesias@truman.gov"
+      ],
+      "fax": "202-395-6995",
+      "name": "Harry S. Truman Scholarship Foundation",
+      "request_time_stats": {
+        "2016": {
+          "simple_average_days": "1",
+          "simple_highest_days": "1",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        }
+      },
+      "top_level": false,
+      "website": "https://www.truman.gov/foia/"
+    }
+  ],
+  "description": "As the living memorial to our thirty-third President, the Harry S. Truman Scholarship Foundation supports the graduate education and professional development of outstanding young people committed to public service leadership. Since its creation in 1975, the Foundation has supported almost 3,000 Truman Scholars who are making a difference in all corners of the nation and around the globe.",
+  "keywords": [
+    "Grant programs-education",
+    "Scholarships and fellowships"
+  ],
+  "name": "Harry S. Truman Scholarship Foundation",
+  "request_time_stats": {
+    "2016": {
+      "simple_average_days": "1",
+      "simple_highest_days": "1",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    }
+  }
+}

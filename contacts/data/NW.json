@@ -1,0 +1,57 @@
+{
+  "abbreviation": "NW",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Gregory Sharma-Holt",
+          "FOIA Officer",
+          "Suite 900"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "999 N. Capitol Street, NE",
+        "zip": "20002"
+      },
+      "emails": [
+        "gsharmaholt@nw.org"
+      ],
+      "name": "Neighborhood Reinvestment Corporation",
+      "notes": "N/A",
+      "phone": "202-733-6989",
+      "public_liaison": {
+        "name": "Kirsten Johnson-Obey",
+        "phone": [
+          "202-760-4139"
+        ]
+      },
+      "request_form": "N/A",
+      "request_time_stats": {
+        "2016": {
+          "complex_average_days": "289",
+          "complex_highest_days": "289",
+          "complex_lowest_days": "289",
+          "complex_median_days": "289"
+        }
+      },
+      "service_center": {
+        "name": "Douglas Robinson",
+        "phone": [
+          "202-760-4062"
+        ]
+      },
+      "top_level": false,
+      "website": "www.neighborworks.org"
+    }
+  ],
+  "description": "Nature of Program: The Neighborhood Reinvestment Corporation (NRC) seeks to promote reinvestment in urban, suburban and rural communities by local financial institutions working cooperatively with residents and local government. It funds 235 organizations, monitors their progress, and provides grants and consulting services.",
+  "name": "Neighborhood Reinvestment Corporation",
+  "request_time_stats": {
+    "2016": {
+      "complex_average_days": "289",
+      "complex_highest_days": "289",
+      "complex_lowest_days": "289",
+      "complex_median_days": "289"
+    }
+  }
+}

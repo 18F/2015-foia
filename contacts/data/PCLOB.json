@@ -1,0 +1,102 @@
+{
+  "abbreviation": "PCLOB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Mason Clutter",
+          "FOIA Contact",
+          "2C104"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "MS2",
+        "zip": "20511"
+      },
+      "emails": [
+        "foia@pclob.gov"
+      ],
+      "fax": "202-296-4395",
+      "name": "Privacy and Civil Liberties Oversight Board",
+      "phone": "202-331-1986",
+      "public_liaison": {
+        "name": "Eric Broxmeyer",
+        "phone": [
+          "202-331-1986"
+        ]
+      },
+      "request_time_stats": {
+        "2014": {
+          "complex_average_days": "30",
+          "complex_highest_days": "63",
+          "complex_lowest_days": "16",
+          "complex_median_days": "30",
+          "simple_average_days": "13",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "12",
+          "simple_median_days": "12.5"
+        },
+        "2015": {
+          "simple_average_days": "20.58",
+          "simple_highest_days": "200",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "simple_average_days": "11.125",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "2",
+          "simple_median_days": "11.5"
+        }
+      },
+      "service_center": {
+        "name": "Mason Clutter",
+        "phone": [
+          "202-331-1986"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.pclob.gov/contacts.html"
+    }
+  ],
+  "description": "Privacy and Civil Liberties Oversight Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board also is authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Authority delegations (Government agencies)",
+    "Confidential business information",
+    "Freedom of information",
+    "Organization and functions (Government agencies)",
+    "Privacy"
+  ],
+  "name": "Privacy and Civil Liberties Oversight Board",
+  "reading_rooms": [
+    [
+      "Document Library"
+    ],
+    "https://www.pclob.gov/library.html"
+  ],
+  "request_time_stats": {
+    "2014": {
+      "complex_average_days": "30",
+      "complex_highest_days": "63",
+      "complex_lowest_days": "16",
+      "complex_median_days": "30",
+      "simple_average_days": "13",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "12",
+      "simple_median_days": "12.5"
+    },
+    "2015": {
+      "simple_average_days": "20.58",
+      "simple_highest_days": "200",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2016": {
+      "simple_average_days": "11.125",
+      "simple_highest_days": "18",
+      "simple_lowest_days": "2",
+      "simple_median_days": "11.5"
+    }
+  }
+}

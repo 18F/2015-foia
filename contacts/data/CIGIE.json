@@ -1,0 +1,220 @@
+{
+  "abbreviation": "CIGIE",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "Suite 825"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1717 H Street, NW",
+        "zip": "20006"
+      },
+      "emails": [
+        "FOIAStaff@cigie.gov"
+      ],
+      "fax": "202-254-0162",
+      "misc": {
+        "Deputy Counsel, Office of the Inspector General, Department of Housing and Urban Development": {
+          "name": "Richard Johnson",
+          "phone": [
+            "202-708-1613"
+          ]
+        },
+        "FOIA Contact": {
+          "phone": [
+            "202-292-2600"
+          ]
+        },
+        "Supervisory Government Information Specialist, Office of the Inspector General, U.S. Department of Justice": {
+          "name": "Deborah Waller",
+          "phone": [
+            "202-616-0646"
+          ]
+        }
+      },
+      "name": "Council of the Inspectors General on Integrity and Efficiency",
+      "phone": "202-292-2600",
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.ignet.gov/content/foia-reading-room-1"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "22",
+          "simple_median_days": "22"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14",
+          "simple_highest_days": "44",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2012": {
+          "complex_average_days": "82",
+          "complex_highest_days": "104",
+          "complex_lowest_days": "59",
+          "complex_median_days": "88",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "73",
+          "complex_highest_days": "101",
+          "complex_lowest_days": "52",
+          "complex_median_days": "66",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "23",
+          "simple_highest_days": "44",
+          "simple_lowest_days": "6",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "complex_average_days": "290",
+          "complex_highest_days": "509",
+          "complex_lowest_days": "113",
+          "complex_median_days": "269",
+          "simple_average_days": "34",
+          "simple_highest_days": "228",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2015": {
+          "complex_average_days": "69.47",
+          "complex_highest_days": "304",
+          "complex_lowest_days": "3",
+          "complex_median_days": "25"
+        },
+        "2016": {
+          "complex_average_days": "82.95",
+          "complex_highest_days": "318",
+          "complex_lowest_days": "2",
+          "complex_median_days": "36"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-616-0646"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.ignet.gov/content/foia-0"
+    }
+  ],
+  "description": "The Council of the Inspectors General on Integrity and Efficiency (CIGIE) was statutorily established as an independent entity within the executive to:\n\u00b7address integrity, economy, and effectiveness issues that transcend individual Government agencies; and\n\u00b7increase the professionalism and effectiveness of personnel by developing policies, standards, and approaches to aid in the establishment of a well-trained and highly skilled workforce in the offices of the Inspectors General.",
+  "keywords": [
+    "Privacy"
+  ],
+  "name": "Council of the Inspectors General on Integrity and Efficiency",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "22",
+      "simple_highest_days": "22",
+      "simple_lowest_days": "22",
+      "simple_median_days": "22"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "14",
+      "simple_highest_days": "44",
+      "simple_lowest_days": "1",
+      "simple_median_days": "13"
+    },
+    "2012": {
+      "complex_average_days": "82",
+      "complex_highest_days": "104",
+      "complex_lowest_days": "59",
+      "complex_median_days": "88",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "13",
+      "simple_highest_days": "39",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10"
+    },
+    "2013": {
+      "complex_average_days": "73",
+      "complex_highest_days": "101",
+      "complex_lowest_days": "52",
+      "complex_median_days": "66",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "23",
+      "simple_highest_days": "44",
+      "simple_lowest_days": "6",
+      "simple_median_days": "22"
+    },
+    "2014": {
+      "complex_average_days": "290",
+      "complex_highest_days": "509",
+      "complex_lowest_days": "113",
+      "complex_median_days": "269",
+      "simple_average_days": "34",
+      "simple_highest_days": "228",
+      "simple_lowest_days": "1",
+      "simple_median_days": "14"
+    },
+    "2015": {
+      "complex_average_days": "69.47",
+      "complex_highest_days": "304",
+      "complex_lowest_days": "3",
+      "complex_median_days": "25"
+    },
+    "2016": {
+      "complex_average_days": "82.95",
+      "complex_highest_days": "318",
+      "complex_lowest_days": "2",
+      "complex_median_days": "36"
+    }
+  }
+}

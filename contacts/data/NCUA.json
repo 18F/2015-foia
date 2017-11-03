@@ -1,0 +1,278 @@
+{
+  "abbreviation": "NCUA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Regina Metz",
+          "FOIA Officer / Senior Staff Attorney"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "1775 Duke Street",
+        "zip": "22314"
+      },
+      "emails": [
+        "FOIA@ncua.gov"
+      ],
+      "fax": "703-518-6569",
+      "foia_officer": {
+        "name": "Lara Rodriguez",
+        "phone": [
+          "703-518-6540"
+        ]
+      },
+      "name": "Main Office",
+      "phone": "703-518-6540",
+      "public_liaison": {
+        "name": "Linda Dent",
+        "phone": [
+          "703-518-6540"
+        ]
+      },
+      "service_center": {
+        "name": "Charles Smith",
+        "phone": [
+          "703-518-6540"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ncua.gov/Resources/FOIA/Pages/default.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sharon Separ",
+          "Counsel to the Inspector General / Assistant IG for Investigations"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "1775 Duke Street",
+        "zip": "22314"
+      },
+      "emails": [
+        "oigmail@ncua.gov"
+      ],
+      "fax": "703-518-6349",
+      "foia_officer": {
+        "name": "Sharon Separ",
+        "phone": [
+          "703-518-6540"
+        ]
+      },
+      "name": "Office of the Inspector General",
+      "phone": "703-518-6350",
+      "public_liaison": {
+        "phone": [
+          "703-518-6350"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "703-518-6350"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ncua.gov/Resources/FOIA/Pages/default.aspx"
+    }
+  ],
+  "description": "The National Credit Union Administration (NCUA) is the independent federal agency that charters and supervises federal credit unions, and protects consumer rights and member deposits. NCUA, backed by the full faith and credit of the U.S. government, operates the National Credit Union Share Insurance Fund (NCUSIF), insuring the savings of approximately 100 million account holders in all federal credit unions and many state-chartered credit unions. NCUA\u0092s mission, through regulation and supervision, is a safe and sound credit union system.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Advertising",
+    "Aged",
+    "Agriculture",
+    "Antitrust",
+    "Archives and records",
+    "Authority delegations (Government agencies)",
+    "Bank deposit insurance",
+    "Banks, banking",
+    "Bonds",
+    "Brokers",
+    "Civil rights",
+    "Claims",
+    "Community development",
+    "Confidential business information",
+    "Conflict of interests",
+    "Consumer protection",
+    "Credit",
+    "Credit unions",
+    "Crime",
+    "Currency",
+    "Electronic funds transfers",
+    "Equal access to justice",
+    "Exports",
+    "Fair housing",
+    "Federal Reserve System",
+    "Flood insurance",
+    "Foreign banking",
+    "Foreign currencies",
+    "Foreign trade",
+    "Freedom of information",
+    "Gambling",
+    "Government employees",
+    "Holding companies",
+    "Indemnity payments",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "Investigations",
+    "Investment companies",
+    "Investments",
+    "Law enforcement",
+    "Lawyers",
+    "Loan programs",
+    "Loan programs-business",
+    "Loan programs-housing and community development",
+    "Marital status discrimination",
+    "Mortgages",
+    "National banks",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Privacy",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Savings associations",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Signs and symbols",
+    "Sunshine Act",
+    "Surety bonds",
+    "Technical assistance",
+    "Trade practices",
+    "Travel and transportation expenses",
+    "Travel restrictions",
+    "Trusts and trustees",
+    "Truth in lending",
+    "Truth in savings",
+    "Wages"
+  ],
+  "name": "National Credit Union Administration",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "30.5",
+      "complex_highest_days": "135",
+      "complex_lowest_days": "1",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "19",
+      "expedited_processing_highest_days": "24",
+      "expedited_processing_lowest_days": "14",
+      "expedited_processing_median_days": "19",
+      "simple_average_days": "12",
+      "simple_highest_days": "54",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9.5"
+    },
+    "2009": {
+      "complex_average_days": "27",
+      "complex_highest_days": "76",
+      "complex_lowest_days": "0",
+      "complex_median_days": "22",
+      "expedited_processing_average_days": "42",
+      "expedited_processing_highest_days": "62",
+      "expedited_processing_lowest_days": "22",
+      "expedited_processing_median_days": "42",
+      "simple_average_days": "11.1",
+      "simple_highest_days": "47",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "9"
+    },
+    "2010": {
+      "complex_average_days": "43",
+      "complex_highest_days": "123",
+      "complex_lowest_days": "13",
+      "complex_median_days": "39",
+      "expedited_processing_average_days": "32",
+      "expedited_processing_highest_days": "74",
+      "expedited_processing_lowest_days": "10",
+      "expedited_processing_median_days": "12",
+      "simple_average_days": "15",
+      "simple_highest_days": "134",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "14"
+    },
+    "2011": {
+      "complex_average_days": "39.65",
+      "complex_highest_days": "127",
+      "complex_lowest_days": "2",
+      "complex_median_days": "34",
+      "expedited_processing_average_days": "48",
+      "expedited_processing_highest_days": "91",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "50",
+      "simple_average_days": "13.56",
+      "simple_highest_days": "88",
+      "simple_lowest_days": "0",
+      "simple_median_days": "11"
+    },
+    "2012": {
+      "complex_average_days": "159.54",
+      "complex_highest_days": "345",
+      "complex_lowest_days": "13",
+      "complex_median_days": "150",
+      "expedited_processing_average_days": "11",
+      "expedited_processing_highest_days": "11",
+      "expedited_processing_lowest_days": "11",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "18.52",
+      "simple_highest_days": "129",
+      "simple_lowest_days": "0",
+      "simple_median_days": "13"
+    },
+    "2013": {
+      "complex_average_days": "59.55",
+      "complex_highest_days": "346",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "35.5",
+      "expedited_processing_average_days": "163",
+      "expedited_processing_highest_days": "163",
+      "expedited_processing_lowest_days": "163",
+      "expedited_processing_median_days": "163",
+      "simple_average_days": "11.08",
+      "simple_highest_days": "61",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    },
+    "2014": {
+      "complex_average_days": "35.63",
+      "complex_highest_days": "128",
+      "complex_lowest_days": "3",
+      "complex_median_days": "23",
+      "expedited_processing_average_days": "25",
+      "expedited_processing_highest_days": "30",
+      "expedited_processing_lowest_days": "20",
+      "expedited_processing_median_days": "25",
+      "simple_average_days": "6.75",
+      "simple_highest_days": "34",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    },
+    "2015": {
+      "complex_average_days": "27.61",
+      "complex_highest_days": "115",
+      "complex_lowest_days": "2",
+      "complex_median_days": "23.5",
+      "expedited_processing_average_days": "2",
+      "expedited_processing_highest_days": "2",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "2",
+      "simple_average_days": "6.04",
+      "simple_highest_days": "28",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    },
+    "2016": {
+      "complex_average_days": "26.1",
+      "complex_highest_days": "114",
+      "complex_lowest_days": "7",
+      "complex_median_days": "29",
+      "simple_average_days": "4.07",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "2"
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "abbreviation": "ACUS",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Shawne McGibbon",
+          "FOIA Officer",
+          "Suite 706 South"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1120 20th Street, NW",
+        "zip": "20036"
+      },
+      "emails": [
+        "smcgibbon@acus.gov"
+      ],
+      "fax": "202-386-7190",
+      "foia_officer": {
+        "name": "Shawne McGibbon",
+        "phone": [
+          "202-480-2088"
+        ]
+      },
+      "name": "Administrative Conference of the United States",
+      "phone": "202-480-2080",
+      "public_liaison": {
+        "name": "David Pritzker",
+        "phone": [
+          "202-480-2080"
+        ]
+      },
+      "request_form": "https://www.acus.gov/foia/request",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "20",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "20",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "20",
+          "simple_median_days": "20"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "1.6",
+          "simple_highest_days": "4",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "3",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "2",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "simple_average_days": "1.2",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2014": {
+          "simple_average_days": "1",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "13",
+          "complex_highest_days": "13",
+          "complex_lowest_days": "13",
+          "complex_median_days": "13",
+          "simple_average_days": "1.6",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "simple_average_days": "1.28",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-480-2080"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.acus.gov/foia/"
+    }
+  ],
+  "description": "The Administrative Conference of the United States is an independent federal agency dedicated to improving the administrative process through consensus-driven applied research, providing nonpartisan expert advice and recommendations for improvement of federal agency procedures.  Its membership is composed of innovative federal officials and experts with diverse views and backgrounds from both the private sector and academia.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Freedom of information",
+    "Organization and functions (Government agencies)",
+    "Privacy"
+  ],
+  "name": "Administrative Conference of the United States",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "20",
+      "complex_highest_days": "20",
+      "complex_lowest_days": "20",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "20",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "20",
+      "simple_median_days": "20"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "1.6",
+      "simple_highest_days": "4",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "3",
+      "expedited_processing_highest_days": "3",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "3",
+      "simple_average_days": "2",
+      "simple_highest_days": "5",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2013": {
+      "simple_average_days": "1.2",
+      "simple_highest_days": "3",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2014": {
+      "simple_average_days": "1",
+      "simple_highest_days": "3",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2015": {
+      "complex_average_days": "13",
+      "complex_highest_days": "13",
+      "complex_lowest_days": "13",
+      "complex_median_days": "13",
+      "simple_average_days": "1.6",
+      "simple_highest_days": "3",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2016": {
+      "simple_average_days": "1.28",
+      "simple_highest_days": "7",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "less than 1"
+    }
+  }
+}

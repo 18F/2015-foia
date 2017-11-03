@@ -1,0 +1,69 @@
+{
+  "abbreviation": "EAC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Bryan Whitener",
+          "FOIA Officer",
+          "Suite 4300"
+        ],
+        "city": "Silver Spring",
+        "state": "MD",
+        "street": "1335 East West Highway",
+        "zip": "20910"
+      },
+      "emails": [
+        "foia@eac.gov"
+      ],
+      "fax": "301-734-3108",
+      "name": "U.S. Election Assistance Commission",
+      "phone": "301-563-3919",
+      "public_liaison": {
+        "name": "Clifford D. Tatum",
+        "phone": [
+          "301-563-3919"
+        ]
+      },
+      "request_form": "yes",
+      "request_time_stats": {
+        "2016": {
+          "simple_average_days": "37.71",
+          "simple_highest_days": "121",
+          "simple_lowest_days": "2",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "name": "Bryan Whitener",
+        "phone": [
+          "301-563-3919"
+        ]
+      },
+      "top_level": false,
+      "website": "www.eac.gov"
+    }
+  ],
+  "description": "The U.S. Election Assistance Commission (EAC) was established by the Help America Vote Act of 2002 (HAVA). EAC is an independent, bipartisan commission charged with developing guidance to meet HAVA requirements, adopting voluntary voting system guidelines, and serving as a national clearinghouse of information on election administration. EAC also accredits testing laboratories and certifies voting systems, as well as audits the use of HAVA funds.\n\nOther responsibilities include maintaining the national mail voter registration form developed in accordance with the National Voter Registration Act of 1993.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Civil rights",
+    "Claims",
+    "Conduct standards",
+    "Conflict of interests",
+    "Courts",
+    "Elections",
+    "Government employees",
+    "Individuals with disabilities",
+    "Reporting and recordkeeping requirements"
+  ],
+  "name": "U.S. Election Assistance Commission",
+  "request_time_stats": {
+    "2016": {
+      "simple_average_days": "37.71",
+      "simple_highest_days": "121",
+      "simple_lowest_days": "2",
+      "simple_median_days": "19"
+    }
+  }
+}

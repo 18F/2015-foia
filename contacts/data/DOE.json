@@ -1,0 +1,2392 @@
+{
+  "abbreviation": "DOE",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Alexander Morris",
+          "FOIA Officer",
+          "Mail Stop MA-46"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1000 Independence Avenue, SW",
+        "zip": "20585"
+      },
+      "emails": [
+        "FOIA-Central@hq.doe.gov"
+      ],
+      "fax": "202-586-0575",
+      "foia_officer": {
+        "name": "Alexander Morris",
+        "phone": [
+          "202-586-3159"
+        ]
+      },
+      "name": "Headquarters",
+      "notes": "To send classified documents, including potentially classified documents, to DOE for classification review, please contact Ms. Catherine Gallahan at (301) 903-3737 for mailing instructions",
+      "phone": "202-586-3159",
+      "public_liaison": {
+        "name": "Alexander Morris"
+      },
+      "reading_rooms": [
+        [
+          "Reading Room",
+          "https://energy.gov/management/office-management/operational-management/freedom-information-act/reading-room"
+        ]
+      ],
+      "request_form": "http://energy.gov/doe-headquarters-foia-request-form",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "113",
+          "simple_highest_days": "3239",
+          "simple_lowest_days": "1",
+          "simple_median_days": "29"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "51",
+          "expedited_processing_highest_days": "77",
+          "expedited_processing_lowest_days": "27",
+          "expedited_processing_median_days": "50",
+          "simple_average_days": "83",
+          "simple_highest_days": "2066",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2010": {
+          "complex_average_days": "88.21",
+          "complex_highest_days": "452",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "59",
+          "expedited_processing_average_days": "222",
+          "expedited_processing_highest_days": "222",
+          "expedited_processing_lowest_days": "222",
+          "expedited_processing_median_days": "222",
+          "simple_average_days": "66.65",
+          "simple_highest_days": "1732",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "27"
+        },
+        "2011": {
+          "complex_average_days": "128.6",
+          "complex_highest_days": "699",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "67",
+          "expedited_processing_average_days": "221",
+          "expedited_processing_highest_days": "221",
+          "expedited_processing_lowest_days": "221",
+          "expedited_processing_median_days": "221",
+          "simple_average_days": "53.8",
+          "simple_highest_days": "2674",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "155.12",
+          "complex_highest_days": "1574",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "78",
+          "expedited_processing_average_days": "588.5",
+          "expedited_processing_highest_days": "767",
+          "expedited_processing_lowest_days": "410",
+          "expedited_processing_median_days": "588.5",
+          "simple_average_days": "69.02",
+          "simple_highest_days": "2379",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "27"
+        },
+        "2013": {
+          "complex_average_days": "248.95",
+          "complex_highest_days": "2043",
+          "complex_lowest_days": "2",
+          "complex_median_days": "110",
+          "expedited_processing_average_days": "62.67",
+          "expedited_processing_highest_days": "195",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "30",
+          "simple_average_days": "33.04",
+          "simple_highest_days": "336",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "14"
+        },
+        "2014": {
+          "complex_average_days": "147.3",
+          "complex_highest_days": "1112",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "53",
+          "expedited_processing_average_days": "40.86",
+          "expedited_processing_highest_days": "95",
+          "expedited_processing_lowest_days": "12",
+          "expedited_processing_median_days": "47",
+          "simple_average_days": "54.63",
+          "simple_highest_days": "950",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "17"
+        },
+        "2015": {
+          "complex_average_days": "173.47",
+          "complex_highest_days": "1397",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "103.5",
+          "expedited_processing_average_days": "61",
+          "expedited_processing_highest_days": "75",
+          "expedited_processing_lowest_days": "47",
+          "expedited_processing_median_days": "61",
+          "simple_average_days": "37.44",
+          "simple_highest_days": "1157",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        },
+        "2016": {
+          "complex_average_days": "259.03",
+          "complex_highest_days": "1647",
+          "complex_lowest_days": "5",
+          "complex_median_days": "109.5",
+          "simple_average_days": "62.22",
+          "simple_highest_days": "1319",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "26"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-586-5955"
+        ]
+      },
+      "top_level": false,
+      "website": "http://management.energy.gov/foia_pa.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Miriam Bartos",
+          "FOIA Officer"
+        ],
+        "city": "Argonne",
+        "state": "IL",
+        "street": "9800 South Cass Avenue",
+        "zip": "60439"
+      },
+      "emails": [
+        "Miriam.Bartos@science.doe.gov"
+      ],
+      "fax": "630-252-2779",
+      "foia_officer": {
+        "name": "Miriam Bartos",
+        "phone": [
+          "630-252-2041"
+        ]
+      },
+      "name": "Chicago Office",
+      "phone": "630-252-2041",
+      "public_liaison": {
+        "name": "Brian Quirke",
+        "phone": [
+          "630-252-2423"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://science.energy.gov/isc/foia/electronic-reading-room/"
+        ],
+        [
+          "ISC Conventional Reading Rooms",
+          "https://science.energy.gov/isc/foia/isc-conventional-reading-rooms/"
+        ]
+      ],
+      "request_form": "http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "31",
+          "complex_highest_days": "55",
+          "complex_lowest_days": "16",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "16",
+          "expedited_processing_highest_days": "16",
+          "expedited_processing_lowest_days": "16",
+          "expedited_processing_median_days": "16",
+          "simple_average_days": "6",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2009": {
+          "complex_average_days": "16",
+          "complex_highest_days": "31",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2010": {
+          "complex_average_days": "23.79",
+          "complex_highest_days": "112",
+          "complex_lowest_days": "7",
+          "complex_median_days": "19",
+          "simple_average_days": "5.64",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2011": {
+          "complex_average_days": "19.5",
+          "complex_highest_days": "41",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "19",
+          "simple_average_days": "5.6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2012": {
+          "complex_average_days": "16",
+          "complex_highest_days": "34",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "17",
+          "simple_average_days": "4.12",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "41.08",
+          "complex_highest_days": "321",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "simple_average_days": "5.98",
+          "simple_highest_days": "65",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "complex_average_days": "22.91",
+          "complex_highest_days": "80",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "17",
+          "simple_average_days": "5.69",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "37.5",
+          "complex_highest_days": "282",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18.5",
+          "simple_average_days": "5.13",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "complex_average_days": "18.31",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15",
+          "simple_average_days": "4.97",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "630-252-2041"
+        ]
+      },
+      "top_level": false,
+      "website": "http://science.energy.gov/isc/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Clayton Ogilvie",
+          "FOIA Officer",
+          "MS 1203"
+        ],
+        "city": "Idaho Falls",
+        "state": "ID",
+        "street": "1955 Fremont Avenue",
+        "zip": "83401"
+      },
+      "emails": [
+        "ogilvic@id.doe.gov"
+      ],
+      "foia_officer": {
+        "name": "Clayton Ogilvie",
+        "phone": [
+          "208-526-5190"
+        ]
+      },
+      "name": "Idaho Operations Office",
+      "phone": "208-526-5190",
+      "public_liaison": {
+        "name": "Clayton Ogilvie",
+        "phone": [
+          "208-526-5190"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room Documents",
+          "http://www.id.doe.gov/foia/archive.htm"
+        ],
+        [
+          "Reading Room",
+          "http://www.id.doe.gov/foia/read.htm"
+        ]
+      ],
+      "request_form": "http://www.id.energy.gov/foia/RequestForm.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "40",
+          "complex_highest_days": "85",
+          "complex_lowest_days": "11",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2009": {
+          "complex_average_days": "34",
+          "complex_highest_days": "58",
+          "complex_lowest_days": "22",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2010": {
+          "complex_average_days": "41.67",
+          "complex_highest_days": "102",
+          "complex_lowest_days": "5",
+          "complex_median_days": "18",
+          "simple_average_days": "9.36",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "simple_average_days": "14.22",
+          "simple_highest_days": "45",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2012": {
+          "complex_average_days": "13",
+          "complex_highest_days": "13",
+          "complex_lowest_days": "13",
+          "complex_median_days": "13",
+          "simple_average_days": "8.95",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "expedited_processing_average_days": "4",
+          "expedited_processing_highest_days": "4",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "9.11",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "simple_average_days": "8.88",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "simple_average_days": "10.28",
+          "simple_highest_days": "40",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "simple_average_days": "7.14",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "208-526-5190"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.id.doe.gov/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Linda Chapman",
+          "FOIA Officer"
+        ],
+        "city": "Oak Ridge",
+        "state": "TN",
+        "street": "P.O. Box 2001",
+        "zip": "37831"
+      },
+      "emails": [
+        "lind.chapman@science.doe.gov"
+      ],
+      "fax": "865-576-1556",
+      "foia_officer": {
+        "name": "Amy Rothrock",
+        "phone": [
+          "865-576-1216"
+        ]
+      },
+      "name": "Oak Ridge Office",
+      "phone": "865-576-1216",
+      "public_liaison": {
+        "name": "DiAnn Fields",
+        "phone": [
+          "865-576-1215"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://science.energy.gov/isc/foia/electronic-reading-room/"
+        ],
+        [
+          "ISC Conventional Reading Rooms",
+          "https://science.energy.gov/isc/foia/isc-conventional-reading-rooms/"
+        ]
+      ],
+      "request_form": "http://science.energy.gov/isc/foia/how-to-submit-a-foia-request/request-form/",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "117",
+          "complex_highest_days": "375",
+          "complex_lowest_days": "1",
+          "complex_median_days": "81",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "50",
+          "simple_highest_days": "284",
+          "simple_lowest_days": "1",
+          "simple_median_days": "39"
+        },
+        "2009": {
+          "complex_average_days": "93",
+          "complex_highest_days": "309",
+          "complex_lowest_days": "1",
+          "complex_median_days": "50",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19",
+          "simple_highest_days": "106",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2010": {
+          "complex_average_days": "82.24",
+          "complex_highest_days": "372",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "4.75",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "4.5",
+          "simple_average_days": "26.83",
+          "simple_highest_days": "145",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18"
+        },
+        "2011": {
+          "complex_average_days": "38.5",
+          "complex_highest_days": "182",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "27",
+          "expedited_processing_average_days": "18",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "18",
+          "expedited_processing_median_days": "18",
+          "simple_average_days": "15.16",
+          "simple_highest_days": "58",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "62.6",
+          "complex_highest_days": "192",
+          "complex_lowest_days": "9",
+          "complex_median_days": "49",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "3",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "30.37",
+          "simple_highest_days": "161",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "23"
+        },
+        "2013": {
+          "complex_average_days": "99.83",
+          "complex_highest_days": "478",
+          "complex_lowest_days": "4",
+          "complex_median_days": "50.5",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "23.25",
+          "simple_highest_days": "291",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2014": {
+          "complex_average_days": "120.87",
+          "complex_highest_days": "431",
+          "complex_lowest_days": "14",
+          "complex_median_days": "46",
+          "expedited_processing_average_days": "25",
+          "expedited_processing_highest_days": "25",
+          "expedited_processing_lowest_days": "25",
+          "expedited_processing_median_days": "25",
+          "simple_average_days": "23.75",
+          "simple_highest_days": "463",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2015": {
+          "complex_average_days": "53.5",
+          "complex_highest_days": "263",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23",
+          "simple_average_days": "12.78",
+          "simple_highest_days": "78",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2016": {
+          "complex_average_days": "55.09",
+          "complex_highest_days": "142",
+          "complex_lowest_days": "7",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "52",
+          "expedited_processing_highest_days": "52",
+          "expedited_processing_lowest_days": "52",
+          "expedited_processing_median_days": "52",
+          "simple_average_days": "22.08",
+          "simple_highest_days": "93",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "865-576-1216"
+        ]
+      },
+      "top_level": false,
+      "website": "http://science.energy.gov/isc/foia/"
+    },
+    {
+      "abbreviation": "OSTI",
+      "address": {
+        "address_lines": [
+          "David Hamrin",
+          "FOIA Officer"
+        ],
+        "city": "Oak Ridge",
+        "state": "TN",
+        "street": "1 Science.gov Way",
+        "zip": "37830"
+      },
+      "emails": [
+        "HamrinD@osti.gov"
+      ],
+      "fax": "865-576-3589",
+      "foia_officer": {
+        "name": "Madelyn Wilson",
+        "phone": [
+          "865-576-8408"
+        ]
+      },
+      "name": "Office of Scientific and Technical Information",
+      "phone": "865-576-8408",
+      "public_liaison": {
+        "name": "Charlene Luther",
+        "phone": [
+          "865-576-2088"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "7",
+          "simple_median_days": "17"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "7",
+          "simple_highest_days": "14",
+          "simple_lowest_days": "2",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "simple_average_days": "11",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "9",
+          "simple_median_days": "11"
+        },
+        "2011": {
+          "simple_average_days": "23.2",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "9",
+          "simple_median_days": "23"
+        },
+        "2012": {
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "3",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "11.08",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10.5"
+        },
+        "2013": {
+          "simple_average_days": "11",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10.5"
+        },
+        "2014": {
+          "simple_average_days": "14.14",
+          "simple_highest_days": "112",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6.5"
+        },
+        "2015": {
+          "simple_average_days": "25.83",
+          "simple_highest_days": "488",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "simple_average_days": "97.73",
+          "simple_highest_days": "1610",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "865-576-1261"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.osti.gov/home/freedom-information-act-foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Dorothy Riehle",
+          "FOIA Officer",
+          "Mail Stop A7-75"
+        ],
+        "city": "Richland",
+        "state": "WA",
+        "street": "P.O. Box 550",
+        "zip": "99352"
+      },
+      "emails": [
+        "dorothy.riehle.rl.doe.gov"
+      ],
+      "fax": "509-376-9704",
+      "foia_officer": {
+        "name": "Dorothy Riehle",
+        "phone": [
+          "509-376-6288"
+        ]
+      },
+      "name": "Richland Operations Office",
+      "phone": "509-376-6288",
+      "public_liaison": {
+        "name": "Richard Buel",
+        "phone": [
+          "509-376-3375"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic FOIA Reading Room",
+          "http://www.hanford.gov/page.cfm/FOIA/ElectronicFOIAReadingRoom"
+        ]
+      ],
+      "request_form": "http://www.hanford.gov/c.cfm/foia/",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "64",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "58",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2010": {
+          "simple_average_days": "11.36",
+          "simple_highest_days": "229",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2011": {
+          "complex_average_days": "43",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "43",
+          "complex_median_days": "43",
+          "simple_average_days": "8.53",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "simple_average_days": "13.23",
+          "simple_highest_days": "100",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "expedited_processing_average_days": "21.5",
+          "expedited_processing_highest_days": "33",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "21.5",
+          "simple_average_days": "13.86",
+          "simple_highest_days": "121",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "expedited_processing_average_days": "32",
+          "expedited_processing_highest_days": "50",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "37",
+          "simple_average_days": "17.85",
+          "simple_highest_days": "171",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2015": {
+          "simple_average_days": "15.33",
+          "simple_highest_days": "154",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2016": {
+          "complex_average_days": "37.92",
+          "complex_highest_days": "122",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "19",
+          "simple_average_days": "9.15",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "509-376-6288"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hanford.gov/page.cfm/foia"
+    },
+    {
+      "address": {
+        "city": "Aiken",
+        "state": "SC",
+        "street": "P.O. Box A",
+        "zip": "29801"
+      },
+      "fax": "803-952-8271",
+      "foia_officer": {
+        "name": "Pauline Conner",
+        "phone": [
+          "803-952-8134"
+        ]
+      },
+      "name": "Savannah River Operations Office",
+      "phone": "803-952-7813",
+      "public_liaison": {
+        "name": "Lucy Knowles",
+        "phone": [
+          "803-952-7618"
+        ]
+      },
+      "request_form": "http://sro.srs.gov/foiarequest.htm",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "156",
+          "simple_highest_days": "867",
+          "simple_lowest_days": "1",
+          "simple_median_days": "21"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "803-952-8134"
+        ]
+      },
+      "top_level": false,
+      "website": "http://sro.srs.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jane Summerson",
+          "FOIA Officer"
+        ],
+        "city": "Albuquerque",
+        "state": "NM",
+        "street": "P.O. Box 5400",
+        "zip": "87185-5400"
+      },
+      "emails": [
+        "FOIOfficer@nnsa.doe.gov"
+      ],
+      "fax": "505-284-7512",
+      "foia_officer": {
+        "name": "Elizabeth Osheim",
+        "phone": [
+          "505-845-6265"
+        ]
+      },
+      "name": "National Nuclear Security Administration Service Center",
+      "phone": "866-747-5994",
+      "public_liaison": {
+        "name": "Jane Summerson",
+        "phone": [
+          "866-747-5994"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Virtual Reading Room after to 2000",
+          "https://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-after2000"
+        ],
+        [
+          "Virtual Reading Room prior to 2000",
+          "https://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/reading-room-prior2000"
+        ]
+      ],
+      "request_form": "http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia/howtosubmitfoiareq",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "59",
+          "simple_highest_days": "950",
+          "simple_lowest_days": "1",
+          "simple_median_days": "35"
+        },
+        "2009": {
+          "complex_average_days": "120",
+          "complex_highest_days": "935",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "48",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "74",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "name": "Jane Summerson",
+        "phone": [
+          "866-747-5994"
+        ]
+      },
+      "top_level": false,
+      "website": "http://nnsa.energy.gov/aboutus/ouroperations/generalcounsel/foia"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Clifford Nunn",
+          "FOIA Officer"
+        ],
+        "city": "West Mifflin",
+        "state": "PA",
+        "street": "P.O. Box 109",
+        "zip": "15122-0109"
+      },
+      "emails": [
+        "Clifford.Nunn@nrp.doe.gov"
+      ],
+      "fax": "412-476-7675",
+      "foia_officer": {
+        "name": "Clifford Nunn",
+        "phone": [
+          "412-476-7202"
+        ]
+      },
+      "name": "National Nuclear Security Administration Office of Naval Reactors",
+      "phone": "412-476-7202",
+      "public_liaison": {
+        "name": "Jeffrey Avery",
+        "phone": [
+          "202-781-6236"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "45",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "7",
+          "simple_median_days": "20"
+        },
+        "2009": {
+          "complex_average_days": "77",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "77",
+          "complex_median_days": "77",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "65",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-781-6172"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Myles Hall",
+          "FOIA Officer",
+          "P.O. Box 3090"
+        ],
+        "city": "Carlsbad",
+        "state": "NM",
+        "street": "4021 National Parks Highway",
+        "zip": "88221"
+      },
+      "emails": [
+        "foialiaison@wipp.ws"
+      ],
+      "fax": "505-234-7025",
+      "foia_officer": {
+        "name": "George Hellstrom",
+        "phone": [
+          "575-234-7010"
+        ]
+      },
+      "name": "Carlsbad Field Office \u2013 Waste Isolation Pilot Program",
+      "phone": "575-234-7010",
+      "public_liaison": {
+        "name": "Myles Hall",
+        "phone": [
+          "575-234-7010"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "http://www.wipp.energy.gov/library/foia/FOIA_Reading_Room.htm"
+        ]
+      ],
+      "request_form": "http://www.wipp.energy.gov/library/foia/Freedom_of_Information_Act_Request_Form.pdf",
+      "service_center": {
+        "phone": [
+          "575-234-7442"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.wipp.energy.gov/library/foia/index.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Michele Altieri",
+          "FOIA Officer",
+          "Mail Stop RSF DOE"
+        ],
+        "city": "Golden",
+        "state": "CO",
+        "street": "15013 Denver West Parkway",
+        "zip": "80401"
+      },
+      "emails": [
+        "michele.altieri@go.doe.gov"
+      ],
+      "fax": "720-356-1780",
+      "foia_officer": {
+        "name": "Michele Altieri",
+        "phone": [
+          "720-356-1427"
+        ]
+      },
+      "name": "Golden Field Office",
+      "phone": "720-356-1427",
+      "public_liaison": {
+        "name": "Derek Passarelli",
+        "phone": [
+          "720-356-1742"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Golden Field Office Reading Room",
+          "https://energy.gov/eere/golden-field-office-reading-room"
+        ]
+      ],
+      "request_form": "https://www.eere-pmc.energy.gov/externalaffairs/FOIARequest.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "51",
+          "complex_highest_days": "91",
+          "complex_lowest_days": "31",
+          "complex_median_days": "41",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "31",
+          "simple_highest_days": "138",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2010": {
+          "simple_average_days": "20.36",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20.5"
+        },
+        "2011": {
+          "simple_average_days": "9.08",
+          "simple_highest_days": "108",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "simple_average_days": "6.06",
+          "simple_highest_days": "130",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2013": {
+          "simple_average_days": "6.57",
+          "simple_highest_days": "103",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2014": {
+          "simple_average_days": "8.36",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "simple_average_days": "5.48",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "simple_average_days": "7.89",
+          "simple_highest_days": "32",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "720-356-1427"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eere.energy.gov/golden/reading_room.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "David Ford",
+          "FOIA Officer",
+          "Suite 500"
+        ],
+        "city": "Cincinnati",
+        "state": "OH",
+        "street": "250 East 5th Street",
+        "zip": "45202"
+      },
+      "emails": [
+        "foiaoffice@emcbc.doe.gov"
+      ],
+      "fax": "513-246-0524",
+      "foia_officer": {
+        "name": "Scott Lucarelli",
+        "phone": [
+          "513-246-0497"
+        ]
+      },
+      "name": "Environmental Management Consolidated Business Center (EMCBC)",
+      "phone": "513-246-0579",
+      "public_liaison": {
+        "name": "Scott Lucarelli",
+        "phone": [
+          "513-246-0497"
+        ]
+      },
+      "request_form": "https://www.emcbc.doe.gov/foia/foia_form.php",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "42",
+          "simple_highest_days": "196",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "35",
+          "simple_highest_days": "97",
+          "simple_lowest_days": "2",
+          "simple_median_days": "27"
+        },
+        "2010": {
+          "complex_average_days": "48.71",
+          "complex_highest_days": "127",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "33",
+          "simple_average_days": "50.38",
+          "simple_highest_days": "319",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "22.5"
+        },
+        "2011": {
+          "complex_average_days": "63.33",
+          "complex_highest_days": "126",
+          "complex_lowest_days": "16",
+          "complex_median_days": "48",
+          "simple_average_days": "52.11",
+          "simple_highest_days": "318",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "32"
+        },
+        "2012": {
+          "complex_average_days": "78.75",
+          "complex_highest_days": "211",
+          "complex_lowest_days": "13",
+          "complex_median_days": "45.5",
+          "simple_average_days": "41.95",
+          "simple_highest_days": "290",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "23"
+        },
+        "2013": {
+          "complex_average_days": "26.4",
+          "complex_highest_days": "89",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "4",
+          "expedited_processing_average_days": "46",
+          "expedited_processing_highest_days": "46",
+          "expedited_processing_lowest_days": "46",
+          "expedited_processing_median_days": "46",
+          "simple_average_days": "35.02",
+          "simple_highest_days": "188",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "104.67",
+          "complex_highest_days": "271",
+          "complex_lowest_days": "19",
+          "complex_median_days": "61.5",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "71.78",
+          "simple_highest_days": "515",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "29"
+        },
+        "2015": {
+          "complex_average_days": "33.25",
+          "complex_highest_days": "211",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14.5",
+          "expedited_processing_average_days": "236.5",
+          "expedited_processing_highest_days": "343",
+          "expedited_processing_lowest_days": "130",
+          "expedited_processing_median_days": "236.5",
+          "simple_average_days": "54.73",
+          "simple_highest_days": "311",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "34"
+        },
+        "2016": {
+          "complex_average_days": "51.29",
+          "complex_highest_days": "171",
+          "complex_lowest_days": "1",
+          "complex_median_days": "51",
+          "simple_average_days": "65.41",
+          "simple_highest_days": "162",
+          "simple_lowest_days": "1",
+          "simple_median_days": "47"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "513-246-0489"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.emcbc.doe.gov/About/FOIA"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Christopher Frost",
+          "FOIA Officer",
+          "CGI-7"
+        ],
+        "city": "Portland",
+        "state": "OR",
+        "street": "P.O. Box 3621",
+        "zip": "97208-3621"
+      },
+      "emails": [
+        "cmfrost@bpa.gov"
+      ],
+      "fax": "503-230-4019",
+      "foia_officer": {
+        "name": "Christy Munro",
+        "phone": [
+          "503-230-7303"
+        ]
+      },
+      "name": "Bonneville Power Administration",
+      "phone": "503-230-5602",
+      "public_liaison": {
+        "name": "Sarah Westenberg",
+        "phone": [
+          "503-230-4753"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Library and Resources",
+          "https://www.bpa.gov/news/FOIA/library/Pages/default.aspx"
+        ]
+      ],
+      "request_form": "http://www.bpa.gov/news/FOIA/Pages/RequestForm.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "164",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "23",
+          "simple_highest_days": "156",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2010": {
+          "complex_average_days": "46.77",
+          "complex_highest_days": "141",
+          "complex_lowest_days": "20",
+          "complex_median_days": "37.5",
+          "simple_average_days": "20.33",
+          "simple_highest_days": "82",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        },
+        "2011": {
+          "complex_average_days": "26.42",
+          "complex_highest_days": "116",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18",
+          "simple_average_days": "27.97",
+          "simple_highest_days": "190",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "38.97",
+          "complex_highest_days": "150",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "33",
+          "simple_average_days": "13.27",
+          "simple_highest_days": "66",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2013": {
+          "complex_average_days": "40.27",
+          "complex_highest_days": "302",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20.5",
+          "simple_average_days": "9.91",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "66.56",
+          "complex_highest_days": "265",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "40",
+          "simple_average_days": "13.06",
+          "simple_highest_days": "297",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "complex_average_days": "124.76",
+          "complex_highest_days": "414",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "77",
+          "expedited_processing_average_days": "9",
+          "expedited_processing_highest_days": "9",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "9",
+          "simple_average_days": "12.59",
+          "simple_highest_days": "112",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "204.92",
+          "complex_highest_days": "932",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "70",
+          "simple_average_days": "11.85",
+          "simple_highest_days": "71",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "503-230-7305"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.bpa.gov/news/FOIA/Pages/default.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Joel Seymour",
+          "FOIA Officer"
+        ],
+        "city": "Elberton",
+        "state": "GA",
+        "street": "1166 Athens Tech Road",
+        "zip": "30635-6711"
+      },
+      "emails": [
+        "joels@sepa.doe.gov"
+      ],
+      "fax": "706-213-3884",
+      "foia_officer": {
+        "name": "Joel Seymour",
+        "phone": [
+          "706-213-3810"
+        ]
+      },
+      "name": "Southeastern Power Administration",
+      "phone": "706-213-3810",
+      "public_liaison": {
+        "name": "Joel Seymour",
+        "phone": [
+          "706-213-3810"
+        ]
+      },
+      "request_form": "http://www.sepa.doe.gov/request2.htm",
+      "service_center": {
+        "phone": [
+          "706-213-3810"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.sepa.doe.gov/overview/?c=8"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "S1200"
+        ],
+        "city": "Tulsa",
+        "state": "OK",
+        "street": "One West Third",
+        "zip": "74103"
+      },
+      "emails": [
+        "foia@swpa.gov"
+      ],
+      "fax": "918-595-6755",
+      "foia_officer": {
+        "name": "Marti Ayers",
+        "phone": [
+          "918-595-6609"
+        ]
+      },
+      "name": "Southwestern Power Administration",
+      "phone": "918-595-6609",
+      "public_liaison": {
+        "name": "Larry Yadon",
+        "phone": [
+          "918-595-6607"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "http://www.swpa.gov/viewfoiarequests.aspx"
+        ],
+        [
+          "Electronic Reading Room",
+          "http://www.swpa.gov/viewfoiarequests.aspx#status"
+        ]
+      ],
+      "request_form": "http://www.swpa.gov/DOE%20FOIA%20Request%20Form.htm",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "2",
+          "simple_median_days": "11"
+        },
+        "2010": {
+          "simple_average_days": "17.83",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "3",
+          "simple_median_days": "19"
+        },
+        "2011": {
+          "simple_average_days": "11.67",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "3",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "simple_average_days": "13.5",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "4",
+          "simple_median_days": "12.5"
+        },
+        "2013": {
+          "simple_average_days": "10.57",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "3",
+          "simple_median_days": "10"
+        },
+        "2014": {
+          "expedited_processing_average_days": "20",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "20",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "15.78",
+          "simple_highest_days": "40",
+          "simple_lowest_days": "2",
+          "simple_median_days": "13"
+        },
+        "2015": {
+          "simple_average_days": "10.23",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "simple_average_days": "13.82",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "918-595-6609"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.swpa.gov/foia-privacyact.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Patricia S. Land",
+          "FOIA Officer",
+          "P.O. Box 281213"
+        ],
+        "city": "Lakewood",
+        "state": "CO",
+        "street": "12155 West Alameda Parkway",
+        "zip": "80228-8213"
+      },
+      "emails": [
+        "land@wapa.gov"
+      ],
+      "fax": "720-962-7009",
+      "foia_officer": {
+        "name": "Patricia S. Land",
+        "phone": [
+          "720-962-7010"
+        ]
+      },
+      "keywords": [
+        "Electric power",
+        "Electric utilities",
+        "Energy",
+        "Energy conservation",
+        "Reporting and recordkeeping requirements"
+      ],
+      "name": "Western Area Power Administration",
+      "phone": "720-962-7014",
+      "public_liaison": {
+        "name": "John D. Bremer",
+        "phone": [
+          "720-962-7010"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA reading room",
+          "https://www.wapa.gov/FOIA/Pages/reading-room.aspx"
+        ]
+      ],
+      "request_form": "https://www.wapa.gov/FOIA/Pages/make-request.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "119",
+          "complex_highest_days": "119",
+          "complex_lowest_days": "119",
+          "complex_median_days": "119",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "5",
+          "simple_median_days": "16"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2010": {
+          "simple_average_days": "7.21",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2011": {
+          "simple_average_days": "8.56",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6.5"
+        },
+        "2012": {
+          "simple_average_days": "9.35",
+          "simple_highest_days": "61",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2013": {
+          "simple_average_days": "7",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2014": {
+          "simple_average_days": "7",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "simple_average_days": "17.16",
+          "simple_highest_days": "68",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        },
+        "2016": {
+          "simple_average_days": "17.54",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "2",
+          "simple_median_days": "14.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "720-962-7014"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.wapa.gov/FOIA/pages/foia.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kristin Frischhertz",
+          "FOIA Officer",
+          "MS FE-445"
+        ],
+        "city": "New Orleans",
+        "state": "LA",
+        "street": "900 Commerce Road East",
+        "zip": "70123"
+      },
+      "emails": [
+        "kristin.frischhertz.spr.doe.gov"
+      ],
+      "fax": "504-818-5316",
+      "foia_officer": {
+        "name": "Deanna Harvey",
+        "phone": [
+          "504-734-4316"
+        ]
+      },
+      "name": "Strategic Petroleum Reserve Project",
+      "phone": "504-734-4316",
+      "public_liaison": {
+        "name": "Kristin Frischhertz",
+        "phone": [
+          "504-734-4316"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Public Reading Room",
+          "https://www.spr.doe.gov/FOIA/NewSite/Pages/Public_Reading_Room.html"
+        ]
+      ],
+      "request_form": "http://www.spr.doe.gov/FOIA/NewSite/Pages/FOIA_Request_Form.htm",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "3",
+          "simple_median_days": "25"
+        },
+        "2009": {
+          "complex_average_days": "47",
+          "complex_highest_days": "122",
+          "complex_lowest_days": "6",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "8",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "simple_average_days": "14",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "6",
+          "simple_median_days": "15"
+        },
+        "2011": {
+          "simple_average_days": "14.93",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15.5"
+        },
+        "2012": {
+          "simple_average_days": "11.67",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "5",
+          "simple_median_days": "10.5"
+        },
+        "2013": {
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "3",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "3",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "expedited_processing_average_days": "10",
+          "expedited_processing_highest_days": "10",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "12",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2015": {
+          "expedited_processing_average_days": "15.5",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "14",
+          "expedited_processing_median_days": "15.5",
+          "simple_average_days": "11.69",
+          "simple_highest_days": "48",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "simple_average_days": "12.62",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "6",
+          "simple_median_days": "13"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "504-734-4316"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.spr.doe.gov/FOIA/default.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Ann Dunlap",
+          "FOIA Officer",
+          "M/S 922/M210"
+        ],
+        "city": "Pittsburgh",
+        "state": "PA",
+        "street": "P.O. Box 10940",
+        "zip": "15236-0940"
+      },
+      "emails": [
+        "Ann.Dunlap@NETL.doe.gov"
+      ],
+      "fax": "412-386-5949",
+      "foia_officer": {
+        "name": "Ann Dunlap",
+        "phone": [
+          "412-386-6167"
+        ]
+      },
+      "name": "National Energy Technology Laboratory",
+      "phone": "412-386-6167",
+      "public_liaison": {
+        "name": "Ann Dunlap",
+        "phone": [
+          "412-386-6167"
+        ]
+      },
+      "request_form": "http://www.netl.doe.gov/home/foai-request-form",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "23",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "1",
+          "simple_median_days": "33"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2010": {
+          "simple_average_days": "17.51",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2011": {
+          "simple_average_days": "16.68",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2012": {
+          "simple_average_days": "19.86",
+          "simple_highest_days": "85",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16.5"
+        },
+        "2013": {
+          "simple_average_days": "18.86",
+          "simple_highest_days": "217",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "simple_average_days": "14.15",
+          "simple_highest_days": "45",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9.5"
+        },
+        "2015": {
+          "simple_average_days": "18.38",
+          "simple_highest_days": "175",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9.5"
+        },
+        "2016": {
+          "simple_average_days": "19.25",
+          "simple_highest_days": "114",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "412-386-6167"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.netl.doe.gov/home/foia"
+    }
+  ],
+  "description": "The Department of Energy's overarching mission is to advance the national, economic, and energy security of the United States; to promote scientific and technological innovation in support of that mission; and to ensure the environmental cleanup of the national nuclear weapons complex.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "Air transportation",
+    "Aircraft",
+    "Airports",
+    "Alaska",
+    "Alcohol abuse",
+    "American Samoa",
+    "Antitrust",
+    "Authority delegations (Government agencies)",
+    "Beryllium",
+    "Blind",
+    "Broadband",
+    "Buildings and facilities",
+    "Business and industry",
+    "Civil defense",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Conduct standards",
+    "Confidential business information",
+    "Conflict of interests",
+    "Continental shelf",
+    "Copyright",
+    "Credit",
+    "Cultural exchange programs",
+    "Dams",
+    "Decorations, medals, awards",
+    "Drug abuse",
+    "Drug testing",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power plants",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Energy",
+    "Energy conservation",
+    "Engineers",
+    "Environmental impact statements",
+    "Environmental protection",
+    "Equal access to justice",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Exports",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Flood plains",
+    "Foreign relations",
+    "Fraud",
+    "Freedom of information",
+    "Fuel economy",
+    "Gases",
+    "Gasoline",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Government property management",
+    "Grant programs",
+    "Grant programs-agriculture",
+    "Grant programs-education",
+    "Grant programs-energy",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Guam",
+    "Hazardous materials transportation",
+    "Hazardous substances",
+    "Health",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Highways and roads",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Household appliances",
+    "Housing",
+    "Housing standards",
+    "Human research subjects",
+    "Imports",
+    "Income taxes",
+    "Indians",
+    "Indians-education",
+    "Indians-lands",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Iraq",
+    "Kuwait",
+    "Law enforcement",
+    "Lawyers",
+    "Lebanon",
+    "Legal services",
+    "Lie detector tests",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Lobbying",
+    "Lung diseases",
+    "Manpower training programs",
+    "Marital status discrimination",
+    "Maritime carriers",
+    "Mass transportation",
+    "Measurement standards",
+    "Medical research",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "Motor vehicles",
+    "National defense",
+    "Natural gas",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Nuclear energy",
+    "Nuclear materials",
+    "Nuclear power plants and reactors",
+    "Occupational safety and health",
+    "Oil and gas reserves",
+    "Organization and functions (Government agencies)",
+    "Pacific Islands Trust Territory",
+    "Penalties",
+    "Petroleum",
+    "Petroleum allocation",
+    "Pipelines",
+    "Plutonium",
+    "Price controls",
+    "Privacy",
+    "Private schools",
+    "Public health",
+    "Public lands",
+    "Radiation protection",
+    "Radioactive materials",
+    "Railroads",
+    "Reclamation",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Rural areas",
+    "Safety",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Scientists",
+    "Seals and insignia",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Small businesses",
+    "Solar energy",
+    "State and local governments",
+    "Strategic and critical materials",
+    "Student aid",
+    "Sunshine Act",
+    "Teachers",
+    "Technical assistance",
+    "Telecommunications",
+    "Telephone",
+    "Traffic regulations",
+    "Treaties",
+    "Uniform System of Accounts",
+    "Uranium",
+    "Urban areas",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Whistleblowing",
+    "Women",
+    "Workers' compensation"
+  ],
+  "name": "Department of Energy",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "86",
+      "complex_highest_days": "375",
+      "complex_lowest_days": "1",
+      "complex_median_days": "51",
+      "expedited_processing_average_days": "10",
+      "expedited_processing_highest_days": "16",
+      "expedited_processing_lowest_days": "6",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "70",
+      "simple_highest_days": "3239",
+      "simple_lowest_days": "1",
+      "simple_median_days": "23"
+    },
+    "2009": {
+      "complex_average_days": "112",
+      "complex_highest_days": "935",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "46",
+      "expedited_processing_average_days": "51",
+      "expedited_processing_highest_days": "77",
+      "expedited_processing_lowest_days": "27",
+      "expedited_processing_median_days": "50",
+      "simple_average_days": "48",
+      "simple_highest_days": "2066",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "13"
+    },
+    "2010": {
+      "complex_average_days": "121.3",
+      "complex_highest_days": "2305",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "45",
+      "expedited_processing_average_days": "41.67",
+      "expedited_processing_highest_days": "222",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "5.5",
+      "simple_average_days": "39.62",
+      "simple_highest_days": "1732",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "16"
+    },
+    "2011": {
+      "complex_average_days": "117.08",
+      "complex_highest_days": "1092",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "51",
+      "expedited_processing_average_days": "169",
+      "expedited_processing_highest_days": "268",
+      "expedited_processing_lowest_days": "18",
+      "expedited_processing_median_days": "221",
+      "simple_average_days": "32.31",
+      "simple_highest_days": "2674",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11"
+    },
+    "2012": {
+      "complex_average_days": "115.39",
+      "complex_highest_days": "1574",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "50",
+      "expedited_processing_average_days": "199.14",
+      "expedited_processing_highest_days": "767",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "16",
+      "simple_average_days": "39.92",
+      "simple_highest_days": "2379",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "12"
+    },
+    "2013": {
+      "complex_average_days": "164.52",
+      "complex_highest_days": "2043",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "49",
+      "expedited_processing_average_days": "39.75",
+      "expedited_processing_highest_days": "195",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "18.5",
+      "simple_average_days": "22.21",
+      "simple_highest_days": "336",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "9"
+    },
+    "2014": {
+      "complex_average_days": "185.25",
+      "complex_highest_days": "1520",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "58",
+      "expedited_processing_average_days": "32",
+      "expedited_processing_highest_days": "95",
+      "expedited_processing_lowest_days": "9",
+      "expedited_processing_median_days": "22.5",
+      "simple_average_days": "32.69",
+      "simple_highest_days": "950",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11"
+    },
+    "2015": {
+      "complex_average_days": "176.94",
+      "complex_highest_days": "2043",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "74",
+      "expedited_processing_average_days": "90.71",
+      "expedited_processing_highest_days": "343",
+      "expedited_processing_lowest_days": "9",
+      "expedited_processing_median_days": "47",
+      "simple_average_days": "26.81",
+      "simple_highest_days": "1157",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "12"
+    },
+    "2016": {
+      "complex_average_days": "224.82",
+      "complex_highest_days": "2180",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "72",
+      "expedited_processing_average_days": "52",
+      "expedited_processing_highest_days": "52",
+      "expedited_processing_lowest_days": "52",
+      "expedited_processing_median_days": "52",
+      "simple_average_days": "43.97",
+      "simple_highest_days": "1610",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "14"
+    }
+  }
+}

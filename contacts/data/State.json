@@ -1,0 +1,589 @@
+{
+  "abbreviation": "DOS",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Eric F. Stein",
+          "Director, Office of Information Programs and Services",
+          "Building SA-2"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "515 22nd Street, NW",
+        "zip": "20522-8100"
+      },
+      "emails": [
+        "SteinEF@state.gov"
+      ],
+      "fax": "202-261-8579",
+      "misc": {
+        "Acting Director, Office of Information Programs and Services": {
+          "name": "John F. Hackett",
+          "phone": [
+            "202-261-8484"
+          ]
+        }
+      },
+      "name": "Department of State",
+      "phone": "202-663-2190",
+      "public_liaison": {
+        "name": "Kellie Robinson",
+        "phone": [
+          "202-663-2222"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Virtual Reading Room Search",
+          "https://foia.state.gov/Search/Search.aspx"
+        ]
+      ],
+      "request_form": "http://foia.state.gov/Request/Submit.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "275",
+          "complex_highest_days": "1900",
+          "complex_lowest_days": "5",
+          "complex_median_days": "196",
+          "expedited_processing_average_days": "201",
+          "expedited_processing_highest_days": "1509",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "41",
+          "simple_average_days": "118",
+          "simple_highest_days": "736",
+          "simple_lowest_days": "1",
+          "simple_median_days": "70"
+        },
+        "2009": {
+          "complex_average_days": "384",
+          "complex_highest_days": "2383",
+          "complex_lowest_days": "2",
+          "complex_median_days": "307",
+          "expedited_processing_average_days": "164",
+          "expedited_processing_highest_days": "720",
+          "expedited_processing_lowest_days": "21",
+          "expedited_processing_median_days": "25",
+          "simple_average_days": "104",
+          "simple_highest_days": "1556",
+          "simple_lowest_days": "2",
+          "simple_median_days": "88"
+        },
+        "2010": {
+          "complex_average_days": "284",
+          "complex_highest_days": "2162",
+          "complex_lowest_days": "21",
+          "complex_median_days": "228",
+          "expedited_processing_average_days": "435",
+          "expedited_processing_highest_days": "1276",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "280",
+          "simple_average_days": "144",
+          "simple_highest_days": "1723",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "142"
+        },
+        "2011": {
+          "complex_average_days": "342",
+          "complex_highest_days": "2460",
+          "complex_lowest_days": "6",
+          "complex_median_days": "279",
+          "expedited_processing_average_days": "926",
+          "expedited_processing_highest_days": "1802",
+          "expedited_processing_lowest_days": "49",
+          "expedited_processing_median_days": "49",
+          "simple_average_days": "156",
+          "simple_highest_days": "1603",
+          "simple_lowest_days": "1",
+          "simple_median_days": "150"
+        },
+        "2012": {
+          "complex_average_days": "559.9",
+          "complex_highest_days": "3035",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "450",
+          "expedited_processing_average_days": "760.44",
+          "expedited_processing_highest_days": "1559",
+          "expedited_processing_lowest_days": "46",
+          "expedited_processing_median_days": "921.43",
+          "simple_average_days": "88.51",
+          "simple_highest_days": "1589",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "66.43"
+        },
+        "2013": {
+          "complex_average_days": "532.8",
+          "complex_highest_days": "2070",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "373.5",
+          "expedited_processing_average_days": "405",
+          "expedited_processing_highest_days": "1841",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "202",
+          "simple_average_days": "106",
+          "simple_highest_days": "1631",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "90"
+        },
+        "2014": {
+          "complex_average_days": "534.8",
+          "complex_highest_days": "2237",
+          "complex_lowest_days": "11.4",
+          "complex_median_days": "333",
+          "expedited_processing_average_days": "385.6",
+          "expedited_processing_highest_days": "1482",
+          "expedited_processing_lowest_days": "45.6",
+          "expedited_processing_median_days": "100.4",
+          "simple_average_days": "91",
+          "simple_highest_days": "1576",
+          "simple_lowest_days": "3.56",
+          "simple_median_days": "66.2"
+        },
+        "2015": {
+          "complex_average_days": "511",
+          "complex_highest_days": "2374",
+          "complex_lowest_days": "11",
+          "complex_median_days": "373",
+          "expedited_processing_average_days": "102",
+          "expedited_processing_highest_days": "203",
+          "expedited_processing_lowest_days": "41",
+          "expedited_processing_median_days": "61",
+          "simple_average_days": "113",
+          "simple_highest_days": "1781",
+          "simple_lowest_days": "5",
+          "simple_median_days": "84"
+        },
+        "2016": {
+          "complex_average_days": "517",
+          "complex_highest_days": "2642",
+          "complex_lowest_days": "9",
+          "complex_median_days": "392",
+          "expedited_processing_average_days": "139",
+          "expedited_processing_highest_days": "359",
+          "expedited_processing_lowest_days": "18",
+          "expedited_processing_median_days": "135",
+          "simple_average_days": "342",
+          "simple_highest_days": "1871",
+          "simple_lowest_days": "2",
+          "simple_median_days": "166"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-261-8484"
+        ]
+      },
+      "top_level": false,
+      "website": "http://foia.state.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie Fox",
+          "FOIA Officer",
+          "Building SA-3"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "2201 C Street, N.W",
+        "zip": "20520-0308"
+      },
+      "emails": [
+        "foia@stateoig.gov"
+      ],
+      "fax": "202-663-0390",
+      "misc": {
+        "FOIA Office": {
+          "name": "ATTN:  Zipora Bullard",
+          "phone": [
+            "202-663-0383"
+          ]
+        }
+      },
+      "name": "Office of Inspector General",
+      "phone": "202-663-0389",
+      "public_liaison": {
+        "name": "Stephanie Fox",
+        "phone": [
+          "202-663-0389"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://oig.state.gov/readingroom"
+        ]
+      ],
+      "request_form": "http://foia.state.gov/foiareq/foialetter.asp",
+      "request_time_stats": {
+        "2008": {
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "37",
+          "simple_highest_days": "213",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2009": {
+          "simple_average_days": "24",
+          "simple_highest_days": "206",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2010": {
+          "simple_average_days": "13",
+          "simple_highest_days": "44",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "49",
+          "simple_lowest_days": "5",
+          "simple_median_days": "24"
+        },
+        "2012": {
+          "simple_average_days": "9.49",
+          "simple_highest_days": "75",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2013": {
+          "simple_average_days": "15",
+          "simple_highest_days": "155",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2014": {
+          "simple_average_days": "21",
+          "simple_highest_days": "108",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2015": {
+          "simple_average_days": "30",
+          "simple_highest_days": "132",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "complex_average_days": "37.27",
+          "complex_highest_days": "155",
+          "complex_lowest_days": "4",
+          "complex_median_days": "27",
+          "expedited_processing_average_days": "15.33",
+          "expedited_processing_highest_days": "66",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "20.1",
+          "simple_highest_days": "66",
+          "simple_lowest_days": "3",
+          "simple_median_days": "16"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-0389"
+        ]
+      },
+      "top_level": false,
+      "website": "https://oig.state.gov/foia"
+    }
+  ],
+  "description": "The Department's mission is to advance freedom for the benefit of the American people and the international community by helping to build and sustain a more democratic, secure, and prosperous world composed of well-governed states that respond to the needs of their people, reduce widespread poverty, and act responsibly within the international system.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adoption and foster care",
+    "Adult education",
+    "Aged",
+    "Agency for International Development",
+    "Agriculture",
+    "Aircraft",
+    "Airports",
+    "Alien property",
+    "Aliens",
+    "American Samoa",
+    "Arms and munitions",
+    "Blind",
+    "Broadband",
+    "Brokers",
+    "Buildings and facilities",
+    "Business and industry",
+    "Campaign funds",
+    "Chemicals",
+    "Child welfare",
+    "Citizenship and naturalization",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Colleges and universities",
+    "Communications",
+    "Communications equipment",
+    "Community development",
+    "Computer technology",
+    "Confidential business information",
+    "Conflict of interests",
+    "Copyright",
+    "Credit",
+    "Crime",
+    "Cultural exchange programs",
+    "Drug traffic control",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Estates",
+    "Exports",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Foreign Service",
+    "Foreign officials",
+    "Foreign relations",
+    "Fraud",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property management",
+    "Grant programs",
+    "Grant programs-agriculture",
+    "Grant programs-education",
+    "Grant programs-foreign relations",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Guam",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Highways and roads",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Human research subjects",
+    "Immigration",
+    "Indians",
+    "Indians-education",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Investments",
+    "Iraq",
+    "Kuwait",
+    "Labor",
+    "Law",
+    "Law enforcement",
+    "Law enforcement officers",
+    "Lebanon",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Lobbying",
+    "Longshore and harbor workers",
+    "Manpower training programs",
+    "Mass transportation",
+    "Mexico",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Pacific Islands Trust Territory",
+    "Passports and visas",
+    "Penalties",
+    "Privacy",
+    "Private schools",
+    "Radio",
+    "Railroads",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Retirement",
+    "Rural areas",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Seamen",
+    "Securities",
+    "Seizures and forfeitures",
+    "Sex discrimination",
+    "Small businesses",
+    "State and local governments",
+    "Student aid",
+    "Students",
+    "Teachers",
+    "Technical assistance",
+    "Telecommunications",
+    "Telephone",
+    "Travel restrictions",
+    "Treaties",
+    "Urban areas",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Wages",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Women"
+  ],
+  "name": "Department of State",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "275",
+      "complex_highest_days": "1900",
+      "complex_lowest_days": "0",
+      "complex_median_days": "196",
+      "expedited_processing_average_days": "201",
+      "expedited_processing_highest_days": "1509",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "41",
+      "simple_average_days": "115",
+      "simple_highest_days": "736",
+      "simple_lowest_days": "1",
+      "simple_median_days": "68"
+    },
+    "2009": {
+      "complex_average_days": "384",
+      "complex_highest_days": "2383",
+      "complex_lowest_days": "2",
+      "complex_median_days": "307",
+      "expedited_processing_average_days": "164",
+      "expedited_processing_highest_days": "720",
+      "expedited_processing_lowest_days": "21",
+      "expedited_processing_median_days": "25",
+      "simple_average_days": "103",
+      "simple_highest_days": "1556",
+      "simple_lowest_days": "1",
+      "simple_median_days": "87"
+    },
+    "2010": {
+      "complex_average_days": "284",
+      "complex_highest_days": "2162",
+      "complex_lowest_days": "21",
+      "complex_median_days": "228",
+      "expedited_processing_average_days": "435",
+      "expedited_processing_highest_days": "1276",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "280",
+      "simple_average_days": "144",
+      "simple_highest_days": "1723",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "142"
+    },
+    "2011": {
+      "complex_average_days": "342",
+      "complex_highest_days": "2460",
+      "complex_lowest_days": "6",
+      "complex_median_days": "279",
+      "expedited_processing_average_days": "926",
+      "expedited_processing_highest_days": "1802",
+      "expedited_processing_lowest_days": "49",
+      "expedited_processing_median_days": "49",
+      "simple_average_days": "155",
+      "simple_highest_days": "1603",
+      "simple_lowest_days": "1",
+      "simple_median_days": "150"
+    },
+    "2012": {
+      "complex_average_days": "559.9",
+      "complex_highest_days": "3035",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "450",
+      "expedited_processing_average_days": "760.44",
+      "expedited_processing_highest_days": "1559",
+      "expedited_processing_lowest_days": "46",
+      "expedited_processing_median_days": "921.43",
+      "simple_average_days": "88",
+      "simple_highest_days": "1589",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "66"
+    },
+    "2013": {
+      "complex_average_days": "532.8",
+      "complex_highest_days": "2070",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "373.5",
+      "expedited_processing_average_days": "405",
+      "expedited_processing_highest_days": "1841",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "202",
+      "simple_average_days": "106",
+      "simple_highest_days": "1631",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "90"
+    },
+    "2014": {
+      "complex_average_days": "534.8",
+      "complex_highest_days": "2237",
+      "complex_lowest_days": "11.4",
+      "complex_median_days": "333",
+      "expedited_processing_average_days": "385.6",
+      "expedited_processing_highest_days": "1482",
+      "expedited_processing_lowest_days": "45.6",
+      "expedited_processing_median_days": "100.4",
+      "simple_average_days": "90",
+      "simple_highest_days": "1576",
+      "simple_lowest_days": "1",
+      "simple_median_days": "66"
+    },
+    "2015": {
+      "complex_average_days": "511",
+      "complex_highest_days": "2374",
+      "complex_lowest_days": "11",
+      "complex_median_days": "373",
+      "expedited_processing_average_days": "102",
+      "expedited_processing_highest_days": "203",
+      "expedited_processing_lowest_days": "41",
+      "expedited_processing_median_days": "61",
+      "simple_average_days": "111",
+      "simple_highest_days": "1781",
+      "simple_lowest_days": "1",
+      "simple_median_days": "84"
+    },
+    "2016": {
+      "complex_average_days": "517",
+      "complex_highest_days": "2642",
+      "complex_lowest_days": "9",
+      "complex_median_days": "392",
+      "expedited_processing_average_days": "139",
+      "expedited_processing_highest_days": "359",
+      "expedited_processing_lowest_days": "18",
+      "expedited_processing_median_days": "135",
+      "simple_average_days": "342",
+      "simple_highest_days": "1871",
+      "simple_lowest_days": "2",
+      "simple_median_days": "166"
+    }
+  }
+}

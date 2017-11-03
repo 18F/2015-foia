@@ -1,0 +1,359 @@
+{
+  "abbreviation": "FTC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Dione Stearns",
+          "Assistant General Counsel for Information & Legal Support"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "600 Pennsylvania Avenue, NW H-585",
+        "zip": "20580"
+      },
+      "emails": [
+        "foia@ftc.gov"
+      ],
+      "fax": "202-326-2477",
+      "misc": {
+        "Assistant General Counsel for Information & Legal Support": {
+          "name": "Dione Stearns",
+          "phone": [
+            "202-326-3254"
+          ]
+        },
+        "FOIA Hotline": {
+          "name": "FOIA Office",
+          "phone": [
+            "202-326-2430"
+          ]
+        }
+      },
+      "name": "Federal Trade Commission",
+      "phone": "202-326-2735",
+      "public_liaison": {
+        "name": "Richard Gold",
+        "phone": [
+          "202-326-3355"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Rooms",
+          "https://www.ftc.gov/about-ftc/foia/foia-reading-rooms"
+        ],
+        [
+          "OIG Reading Room",
+          "https://www.ftc.gov/about-ftc/office-inspector-general/oig-reading-room"
+        ]
+      ],
+      "request_form": "https://www.ftc.gov/foia/request-form",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "33.02",
+          "complex_highest_days": "146",
+          "complex_lowest_days": "1",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8.29",
+          "simple_highest_days": "218",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2009": {
+          "complex_average_days": "24.55",
+          "complex_highest_days": "230",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "simple_average_days": "6.59",
+          "simple_highest_days": "74",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2010": {
+          "complex_average_days": "54.76",
+          "complex_highest_days": "595",
+          "complex_lowest_days": "1",
+          "complex_median_days": "22",
+          "simple_average_days": "8.23",
+          "simple_highest_days": "157",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "49.48",
+          "complex_highest_days": "463",
+          "complex_lowest_days": "1",
+          "complex_median_days": "26.5",
+          "expedited_processing_average_days": "11.4",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "16",
+          "simple_average_days": "5.29",
+          "simple_highest_days": "129",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2012": {
+          "complex_average_days": "49.48",
+          "complex_highest_days": "463",
+          "complex_lowest_days": "1",
+          "complex_median_days": "26.5",
+          "expedited_processing_average_days": "11.4",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "16",
+          "simple_average_days": "5.29",
+          "simple_highest_days": "129",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "27.6",
+          "complex_highest_days": "588",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "7.36",
+          "simple_highest_days": "111",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "27.35",
+          "complex_highest_days": "524",
+          "complex_lowest_days": "1",
+          "complex_median_days": "17",
+          "simple_average_days": "5.2",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "complex_average_days": "25.15",
+          "complex_highest_days": "328",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "16",
+          "simple_average_days": "5.73",
+          "simple_highest_days": "52",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "26.61",
+          "complex_highest_days": "296",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "16",
+          "expedited_processing_average_days": "19.7",
+          "expedited_processing_highest_days": "28",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "21",
+          "simple_average_days": "5.91",
+          "simple_highest_days": "55",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        }
+      },
+      "top_level": false,
+      "website": "http://www.ftc.gov/foia/"
+    }
+  ],
+  "description": "The FTC pursues vigorous and effective law enforcement; advances consumers\u00b4 interests by sharing its expertise with federal and state legislatures and U.S. and international government agencies; develops policy and research tools through hearings, workshops, and conferences; and creates practical and plain-language educational programs for consumers and businesses in a global marketplace with constantly changing technologies.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Advertising",
+    "Agency for International Development",
+    "Antitrust",
+    "Bank deposit insurance",
+    "Banks, banking",
+    "Blind",
+    "Brokers",
+    "Business and industry",
+    "Civil rights",
+    "Claims",
+    "Clothing",
+    "Communications",
+    "Computer technology",
+    "Consumer protection",
+    "Credit",
+    "Credit unions",
+    "Electronic products",
+    "Employment",
+    "Energy conservation",
+    "Environmental protection",
+    "Equal access to justice",
+    "Equal employment opportunity",
+    "Federal buildings and facilities",
+    "Foods",
+    "Foreign banking",
+    "Forests and forest products",
+    "Freedom of information",
+    "Fuel economy",
+    "Furniture industry",
+    "Furs",
+    "Gasoline",
+    "Government employees",
+    "Government procurement",
+    "Health records",
+    "Hobbies",
+    "Holding companies",
+    "Household appliances",
+    "Individuals with disabilities",
+    "Insulation",
+    "Intergovernmental relations",
+    "Investigations",
+    "Investment companies",
+    "Labeling",
+    "Law",
+    "Lawyers",
+    "Leather and leather products industry",
+    "Medical devices",
+    "Mortgages",
+    "Motor vehicles",
+    "National banks",
+    "Ophthalmic goods and services",
+    "Organization and functions (Government agencies)",
+    "Packaging and containers",
+    "Penalties",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Safety",
+    "Savings associations",
+    "Science and technology",
+    "Securities",
+    "Shoes",
+    "Sunshine Act",
+    "Telephone",
+    "Textiles",
+    "Tobacco",
+    "Trade practices",
+    "Wages",
+    "Watches and jewelry",
+    "Wool",
+    "Youth"
+  ],
+  "name": "Federal Trade Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "33.02",
+      "complex_highest_days": "146",
+      "complex_lowest_days": "1",
+      "complex_median_days": "21",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "8.29",
+      "simple_highest_days": "218",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2009": {
+      "complex_average_days": "24.55",
+      "complex_highest_days": "230",
+      "complex_lowest_days": "1",
+      "complex_median_days": "14",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "simple_average_days": "6.59",
+      "simple_highest_days": "74",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2010": {
+      "complex_average_days": "54.76",
+      "complex_highest_days": "595",
+      "complex_lowest_days": "1",
+      "complex_median_days": "22",
+      "simple_average_days": "8.23",
+      "simple_highest_days": "157",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2011": {
+      "complex_average_days": "49.48",
+      "complex_highest_days": "463",
+      "complex_lowest_days": "1",
+      "complex_median_days": "26.5",
+      "expedited_processing_average_days": "11.4",
+      "expedited_processing_highest_days": "18",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "16",
+      "simple_average_days": "5.29",
+      "simple_highest_days": "129",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2012": {
+      "complex_average_days": "49.48",
+      "complex_highest_days": "463",
+      "complex_lowest_days": "1",
+      "complex_median_days": "26.5",
+      "expedited_processing_average_days": "11.4",
+      "expedited_processing_highest_days": "18",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "16",
+      "simple_average_days": "5.29",
+      "simple_highest_days": "129",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2013": {
+      "complex_average_days": "27.6",
+      "complex_highest_days": "588",
+      "complex_lowest_days": "1",
+      "complex_median_days": "18",
+      "expedited_processing_average_days": "8",
+      "expedited_processing_highest_days": "8",
+      "expedited_processing_lowest_days": "8",
+      "expedited_processing_median_days": "8",
+      "simple_average_days": "7.36",
+      "simple_highest_days": "111",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2014": {
+      "complex_average_days": "27.35",
+      "complex_highest_days": "524",
+      "complex_lowest_days": "1",
+      "complex_median_days": "17",
+      "simple_average_days": "5.2",
+      "simple_highest_days": "51",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2015": {
+      "complex_average_days": "25.15",
+      "complex_highest_days": "328",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "16",
+      "simple_average_days": "5.73",
+      "simple_highest_days": "52",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2016": {
+      "complex_average_days": "26.61",
+      "complex_highest_days": "296",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "16",
+      "expedited_processing_average_days": "19.7",
+      "expedited_processing_highest_days": "28",
+      "expedited_processing_lowest_days": "10",
+      "expedited_processing_median_days": "21",
+      "simple_average_days": "5.91",
+      "simple_highest_days": "55",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    }
+  }
+}

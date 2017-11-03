@@ -1,0 +1,219 @@
+{
+  "abbreviation": "CFPB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Raynell Lazier",
+          "Chief FOIA Officer"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1700 G Street, NW",
+        "zip": "20552"
+      },
+      "emails": [
+        "Raynell.Lazier@cfpb.gov"
+      ],
+      "fax": "855-329-3642",
+      "foia_officer": {
+        "phone": [
+          "855-444-3642"
+        ]
+      },
+      "misc": {
+        "Government Information Specialist": {
+          "name": "Ryan McDonald",
+          "phone": [
+            "202-435-9133"
+          ]
+        }
+      },
+      "name": "Consumer Financial Protection Bureau",
+      "phone": "855-444-3642",
+      "public_liaison": {
+        "name": "Mark Vugrinovich",
+        "phone": [
+          "202-435-9499"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Browse our electronic reading room",
+          "https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/"
+        ]
+      ],
+      "request_time_stats": {
+        "2013": {
+          "complex_average_days": "31.07",
+          "complex_highest_days": "128",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "28",
+          "simple_average_days": "8.36",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6.5"
+        },
+        "2014": {
+          "complex_average_days": "22.53",
+          "complex_highest_days": "68",
+          "complex_lowest_days": "5",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "9.46",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "complex_average_days": "29.9",
+          "complex_highest_days": "57",
+          "complex_lowest_days": "14",
+          "complex_median_days": "29.5",
+          "expedited_processing_average_days": "27",
+          "expedited_processing_highest_days": "27",
+          "expedited_processing_lowest_days": "27",
+          "expedited_processing_median_days": "27",
+          "simple_average_days": "9.77",
+          "simple_highest_days": "48",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8.5"
+        },
+        "2016": {
+          "complex_average_days": "41.57",
+          "complex_highest_days": "114",
+          "complex_lowest_days": "6",
+          "complex_median_days": "34",
+          "simple_average_days": "10.09",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "855-444-3642"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.consumerfinance.gov/foia/"
+    }
+  ],
+  "description": "The central mission of the Consumer Financial Protection Bureau is to make markets for consumer financial products and services work for Americans - whether they are applying for a mortgage, choosing among credit cards, or using any number of other consumer financial products.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Advertising",
+    "Aged",
+    "Agriculture",
+    "Authority delegations (Government agencies)",
+    "Bank deposit insurance",
+    "Banks, banking",
+    "Blind",
+    "Civil rights",
+    "Communications",
+    "Condominiums",
+    "Confidential business information",
+    "Conflict of interests",
+    "Consumer protection",
+    "Credit",
+    "Credit unions",
+    "Crime",
+    "Currency",
+    "Electronic funds transfers",
+    "Employment",
+    "Equal access to justice",
+    "Equal employment opportunity",
+    "Exports",
+    "Federal Reserve System",
+    "Federal buildings and facilities",
+    "Foreign banking",
+    "Freedom of information",
+    "Government employees",
+    "Grant programs-housing and community development",
+    "HMDA",
+    "Holding companies",
+    "Housing",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "Investigations",
+    "Investments",
+    "Law enforcement",
+    "Loan programs-housing and community development",
+    "Marital status discrimination",
+    "Mortgages",
+    "National banks",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Privacy",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Savings associations",
+    "Securities",
+    "Sex discrimination",
+    "State and local governments",
+    "Surety bonds",
+    "Trade practices",
+    "Truth in lending",
+    "Truth in savings",
+    "Wages",
+    "credit cards",
+    "mortgage"
+  ],
+  "name": "Consumer Financial Protection Bureau",
+  "request_time_stats": {
+    "2013": {
+      "complex_average_days": "31.07",
+      "complex_highest_days": "128",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "28",
+      "simple_average_days": "8.36",
+      "simple_highest_days": "41",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6.5"
+    },
+    "2014": {
+      "complex_average_days": "22.53",
+      "complex_highest_days": "68",
+      "complex_lowest_days": "5",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "11",
+      "expedited_processing_highest_days": "11",
+      "expedited_processing_lowest_days": "11",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "9.46",
+      "simple_highest_days": "46",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2015": {
+      "complex_average_days": "29.9",
+      "complex_highest_days": "57",
+      "complex_lowest_days": "14",
+      "complex_median_days": "29.5",
+      "expedited_processing_average_days": "27",
+      "expedited_processing_highest_days": "27",
+      "expedited_processing_lowest_days": "27",
+      "expedited_processing_median_days": "27",
+      "simple_average_days": "9.77",
+      "simple_highest_days": "48",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8.5"
+    },
+    "2016": {
+      "complex_average_days": "41.57",
+      "complex_highest_days": "114",
+      "complex_lowest_days": "6",
+      "complex_median_days": "34",
+      "simple_average_days": "10.09",
+      "simple_highest_days": "50",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    }
+  }
+}

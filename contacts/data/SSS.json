@@ -1,0 +1,238 @@
+{
+  "abbreviation": "SSS",
+  "departments": [
+    {
+      "address": {
+        "city": "Arlington",
+        "state": "VA",
+        "street": "National Headquarters",
+        "zip": "22209-2425"
+      },
+      "emails": [
+        "Information@sss.gov"
+      ],
+      "fax": "703-605-4106",
+      "foia_officer": {
+        "name": "Paula A. Sweeney",
+        "phone": [
+          "703-605-4100"
+        ]
+      },
+      "name": "Selective Service System",
+      "phone": "703-605-4100",
+      "public_liaison": {
+        "name": "Richard Flahavan",
+        "phone": [
+          "703-605-4100"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "4",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "4",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "2",
+          "simple_highest_days": "4",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2013": {
+          "simple_average_days": "2",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2014": {
+          "simple_average_days": "4.5",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "simple_average_days": "10",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "4",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "simple_average_days": "4",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "name": "Richard Flahavan",
+        "phone": [
+          "703-605-4100"
+        ]
+      },
+      "top_level": false,
+      "website": "www.sss.gov"
+    }
+  ],
+  "description": "The statutory missions of Selective Service are to be prepared to provide trained and untrained personnel to the DoD in the event of a national emergency and to be prepared to implement an Alternative Service Program for registrants classified as conscientious objectors.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Privacy",
+    "Selective Service System"
+  ],
+  "name": "Selective Service System",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "4",
+      "simple_highest_days": "27",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "4",
+      "simple_highest_days": "23",
+      "simple_lowest_days": "1",
+      "simple_median_days": "6"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "3",
+      "simple_highest_days": "12",
+      "simple_lowest_days": "1",
+      "simple_median_days": "6"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5",
+      "simple_highest_days": "35",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "2",
+      "simple_highest_days": "4",
+      "simple_lowest_days": "1",
+      "simple_median_days": "2"
+    },
+    "2013": {
+      "simple_average_days": "2",
+      "simple_highest_days": "3",
+      "simple_lowest_days": "1",
+      "simple_median_days": "2"
+    },
+    "2014": {
+      "simple_average_days": "4.5",
+      "simple_highest_days": "12",
+      "simple_lowest_days": "1",
+      "simple_median_days": "6"
+    },
+    "2015": {
+      "simple_average_days": "10",
+      "simple_highest_days": "18",
+      "simple_lowest_days": "4",
+      "simple_median_days": "11"
+    },
+    "2016": {
+      "simple_average_days": "4",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "abbreviation": "DNI",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Jennifer L. Hudson",
+          "Director, Information Management Division",
+          "Office of the Director of National Intelligence"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "",
+        "zip": "20511"
+      },
+      "emails": [
+        "dni-foia@dni.gov"
+      ],
+      "fax": "301-243-0716",
+      "misc": {
+        "Director, Information Management Office": {
+          "name": "Jennifer Hudson",
+          "phone": [
+            "703-874-8500"
+          ]
+        }
+      },
+      "name": "Office of the Director of National Intelligence",
+      "phone": "301-243-1499",
+      "public_liaison": {
+        "name": "Sally A. Nicholson",
+        "phone": [
+          "301-243-1499"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "305.53",
+          "complex_highest_days": "991",
+          "complex_lowest_days": "2",
+          "complex_median_days": "122",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "134.99",
+          "simple_highest_days": "847",
+          "simple_lowest_days": "0",
+          "simple_median_days": "88"
+        },
+        "2011": {
+          "complex_average_days": "94",
+          "complex_highest_days": "823",
+          "complex_lowest_days": "0",
+          "complex_median_days": "26.5",
+          "simple_average_days": "41.87",
+          "simple_highest_days": "1029",
+          "simple_lowest_days": "0",
+          "simple_median_days": "4"
+        },
+        "2012": {
+          "complex_average_days": "190.28",
+          "complex_highest_days": "1163",
+          "complex_lowest_days": "0",
+          "complex_median_days": "42.5",
+          "expedited_processing_average_days": "208",
+          "expedited_processing_highest_days": "579",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "23",
+          "simple_average_days": "16.54",
+          "simple_highest_days": "772",
+          "simple_lowest_days": "0",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "complex_average_days": "167.91",
+          "complex_highest_days": "1145",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "64.5",
+          "simple_average_days": "86.12",
+          "simple_highest_days": "1407",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "301.85",
+          "complex_highest_days": "1949",
+          "complex_lowest_days": "0",
+          "complex_median_days": "138",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "simple_average_days": "20.52",
+          "simple_highest_days": "232",
+          "simple_lowest_days": "0",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "complex_average_days": "191.06",
+          "complex_highest_days": "1911",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "39",
+          "simple_average_days": "46.21",
+          "simple_highest_days": "1162",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2016": {
+          "complex_average_days": "289.61",
+          "complex_highest_days": "1210",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "233",
+          "expedited_processing_average_days": "299.5",
+          "expedited_processing_highest_days": "344",
+          "expedited_processing_lowest_days": "255",
+          "expedited_processing_median_days": "299.5",
+          "simple_average_days": "46.65",
+          "simple_highest_days": "529",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-243-1499"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dni.gov/foia.htm"
+    }
+  ],
+  "description": "The Director of National Intelligence (DNI) serves as the head of the Intelligence Community (IC), overseeing and directing the implementation of the National Intelligence Program and acting as the principal advisor to the President, the National Security Council, and the Homeland Security Council for intelligence matters related to the national security. Working together with the Principal Deputy DNI (PDDNI) and with the assistance of Mission Managers and four Deputy Directors, the Office of the DNI's goal is to effectively integrate foreign, military and domestic intelligence in defense of the homeland and of United States interests abroad.",
+  "name": "Office of the Director of National Intelligence",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "305.53",
+      "complex_highest_days": "991",
+      "complex_lowest_days": "2",
+      "complex_median_days": "122",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "134.99",
+      "simple_highest_days": "847",
+      "simple_lowest_days": "0",
+      "simple_median_days": "88"
+    },
+    "2011": {
+      "complex_average_days": "94",
+      "complex_highest_days": "823",
+      "complex_lowest_days": "0",
+      "complex_median_days": "26.5",
+      "simple_average_days": "41.87",
+      "simple_highest_days": "1029",
+      "simple_lowest_days": "0",
+      "simple_median_days": "4"
+    },
+    "2012": {
+      "complex_average_days": "190.28",
+      "complex_highest_days": "1163",
+      "complex_lowest_days": "0",
+      "complex_median_days": "42.5",
+      "expedited_processing_average_days": "208",
+      "expedited_processing_highest_days": "579",
+      "expedited_processing_lowest_days": "22",
+      "expedited_processing_median_days": "23",
+      "simple_average_days": "16.54",
+      "simple_highest_days": "772",
+      "simple_lowest_days": "0",
+      "simple_median_days": "4"
+    },
+    "2013": {
+      "complex_average_days": "167.91",
+      "complex_highest_days": "1145",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "64.5",
+      "simple_average_days": "86.12",
+      "simple_highest_days": "1407",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "16"
+    },
+    "2014": {
+      "complex_average_days": "301.85",
+      "complex_highest_days": "1949",
+      "complex_lowest_days": "0",
+      "complex_median_days": "138",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "simple_average_days": "20.52",
+      "simple_highest_days": "232",
+      "simple_lowest_days": "0",
+      "simple_median_days": "9"
+    },
+    "2015": {
+      "complex_average_days": "191.06",
+      "complex_highest_days": "1911",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "39",
+      "simple_average_days": "46.21",
+      "simple_highest_days": "1162",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "9"
+    },
+    "2016": {
+      "complex_average_days": "289.61",
+      "complex_highest_days": "1210",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "233",
+      "expedited_processing_average_days": "299.5",
+      "expedited_processing_highest_days": "344",
+      "expedited_processing_lowest_days": "255",
+      "expedited_processing_median_days": "299.5",
+      "simple_average_days": "46.65",
+      "simple_highest_days": "529",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    }
+  }
+}

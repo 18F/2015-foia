@@ -1,0 +1,922 @@
+{
+  "abbreviation": "NARA",
+  "address": {
+    "address_lines": [
+      "Joseph Scanlon",
+      "FOIA Officer, Office of the General Counsel",
+      "Room 3110"
+    ],
+    "city": "College Park",
+    "state": "MD",
+    "street": "8601 Adelphi Road",
+    "zip": "20740"
+  },
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Joseph Scanlon",
+          "FOIA Officer, Office of the General Counsel",
+          "Room 3110"
+        ],
+        "city": "College Park",
+        "state": "MD",
+        "street": "8601 Adelphi Road",
+        "zip": "20740"
+      },
+      "emails": [
+        "joseph.scanlon@nara.gov"
+      ],
+      "fax": "301-837-0293",
+      "foia_officer": {
+        "name": "Joseph Scanlon",
+        "phone": [
+          "301-837-3642"
+        ]
+      },
+      "name": "Main Office",
+      "notes": "This agency has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "301-837-3642",
+      "public_liaison": {
+        "name": "Gary Stern",
+        "phone": [
+          "301-837-2024"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic (FOIA) Reading Room",
+          "https://www.archives.gov/foia/electronic-reading-room"
+        ]
+      ],
+      "service_center": {
+        "phone": [
+          "301-837-3642"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/foia/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "Room 1300"
+        ],
+        "city": "College Park",
+        "state": "MD",
+        "street": "8601 Adelphi Road",
+        "zip": "20740"
+      },
+      "emails": [
+        "john.simms@nara.gov"
+      ],
+      "fax": "301-837-3197",
+      "misc": {
+        "FOIA Contact": {
+          "phone": [
+            "301-837-3000"
+          ]
+        }
+      },
+      "name": "Office of the Inspector General",
+      "phone": "301-837-3000",
+      "public_liaison": {
+        "name": "John Simms",
+        "phone": [
+          "301-837-3197"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic (FOIA) Reading Room",
+          "https://www.archives.gov/foia/electronic-reading-room"
+        ]
+      ],
+      "service_center": {
+        "phone": [
+          "301-837-3000"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/foia/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Martha W. Murphy",
+          "Special Access and FOIA Staff (RD-F)",
+          "Room 5500"
+        ],
+        "city": "College Park",
+        "state": "MD",
+        "street": "8601 Adelphi Road",
+        "zip": "20740"
+      },
+      "emails": [
+        "specialaccess_foia@nara.gov"
+      ],
+      "fax": "301-837-1864",
+      "misc": {
+        "Special Access and FOIA Staff (NWCTF)": {
+          "name": "FOIA Contact",
+          "phone": [
+            "301-837-3190"
+          ]
+        }
+      },
+      "name": "Accessioned Executive Branch Agency Records - Washington, DC Area",
+      "phone": "301-837-3190",
+      "public_liaison": {
+        "name": "Ann Cummings",
+        "phone": [
+          "301-837-1931"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic (FOIA) Reading Room",
+          "https://www.archives.gov/foia/electronic-reading-room"
+        ]
+      ],
+      "service_center": {
+        "phone": [
+          "301-837-3190"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/foia/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Rob Richards",
+          "Director"
+        ],
+        "city": "Morrow",
+        "state": "GA",
+        "street": "57800 Jonesboro Road",
+        "zip": "30260"
+      },
+      "emails": [
+        "atlanta.archives@nara.gov"
+      ],
+      "fax": "770-968-2547",
+      "name": "National Archives at Atlanta",
+      "phone": "770-968-2100",
+      "public_liaison": {
+        "name": "Michael Moore",
+        "phone": [
+          "770-968-2485"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "770-968-2100"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/atlanta/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Priscilla Foley",
+          "Director",
+          "Frederick C. Murphy Federal Center"
+        ],
+        "city": "Waltham",
+        "state": "MA",
+        "street": "380 Trapelo Road",
+        "zip": "02452-6399"
+      },
+      "emails": [
+        "boston.archives@nara.gov"
+      ],
+      "fax": "781-663-0154",
+      "name": "National Archives at Boston",
+      "phone": "781-663-0130",
+      "public_liaison": {
+        "name": "Micheal Moore",
+        "phone": [
+          "781-663-0121"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "781-663-0130"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/boston/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Douglas Bicknese",
+          "Director"
+        ],
+        "city": "Chicago",
+        "state": "IL",
+        "street": "7358 South Pulaski Road",
+        "zip": "60629-5898"
+      },
+      "emails": [
+        "chicago.archives@nara.gov"
+      ],
+      "fax": "773-948-9050",
+      "name": "National Archives at Chicago",
+      "phone": "773-948-9001",
+      "public_liaison": {
+        "name": "Bryan McGraw",
+        "phone": [
+          "773-948-0009"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "773-581-7816"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/chicago/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Eileen Bolger",
+          "Director"
+        ],
+        "city": "Broomfield",
+        "state": "CO",
+        "street": "17101 Huron St.",
+        "zip": "80223"
+      },
+      "emails": [
+        "denver.archives@nara.gov"
+      ],
+      "fax": "303-407-5709",
+      "name": "National Archives at Denver",
+      "phone": "303-407-5740",
+      "public_liaison": {
+        "name": "Bryan McGraw",
+        "phone": [
+          "303-604-4740"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "303-407-5740"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/denver/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Meg Hacker",
+          "Director"
+        ],
+        "city": "Fort Worth",
+        "state": "TX",
+        "street": "1400 John Burgess Drive",
+        "zip": "76140"
+      },
+      "emails": [
+        "ftworth.archives@nara.gov"
+      ],
+      "fax": "817-551-2034",
+      "name": "National Archives at Fort Worth",
+      "phone": "817-831-5620",
+      "public_liaison": {
+        "name": "Bryan McGraw",
+        "phone": [
+          "917-831-5643"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "817-334-5525"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/fort-worth/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Lori Cox-Paul",
+          "Director"
+        ],
+        "city": "Kansas City",
+        "state": "MO",
+        "street": "400 West Pershing Road",
+        "zip": "64108"
+      },
+      "emails": [
+        "kansascity.archives@nara.gov"
+      ],
+      "fax": "816-268-8038",
+      "name": "National Archives at Kansas City",
+      "phone": "816-268-8000",
+      "public_liaison": {
+        "name": "Bryan McGraw",
+        "phone": [
+          "816-268-8017"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "816-268-8000"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/kansas-city/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Chris Gushman",
+          "Director",
+          "3rd Floor"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "street": "1 Bowling Green",
+        "zip": "10004"
+      },
+      "emails": [
+        "newyork.archives@nara.gov"
+      ],
+      "fax": "212-401-1638",
+      "name": "National Archives at New York City",
+      "phone": "212-401-1620",
+      "public_liaison": {
+        "name": "Michael Moore",
+        "phone": [
+          "212-401-1625"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "212-401-1620"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/nyc/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Leslie Simon",
+          "Director"
+        ],
+        "city": "Philadelphia",
+        "state": "PA",
+        "street": "14700 Townsend Road",
+        "zip": "19154-1096"
+      },
+      "emails": [
+        "philadelphia.archives@nara.gov"
+      ],
+      "fax": "215-305-2038",
+      "name": "National Archives at Philadelphia",
+      "phone": "215-305-2044",
+      "public_liaison": {
+        "name": "Micheal Moore",
+        "phone": [
+          "215-669-9303"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "215-305-2044"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/philadelphia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Gwen Granados",
+          "Director"
+        ],
+        "city": "Perris",
+        "state": "CA",
+        "street": "23123 Cajalco Road",
+        "zip": "92570"
+      },
+      "emails": [
+        "riverside.archives@nara.gov"
+      ],
+      "fax": "951-956-2049",
+      "name": "National Archives at Riverside",
+      "phone": "951-956-2000",
+      "public_liaison": {
+        "name": "Michael Moore",
+        "phone": [
+          "951-956-2040"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "951-956-2000"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/riverside/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie Bayless",
+          "Director",
+          "Leo J. Ryan Memorial Federal Bldg"
+        ],
+        "city": "San Bruno",
+        "state": "CA",
+        "street": "100 Commodore Drive",
+        "zip": "94066-2350"
+      },
+      "emails": [
+        "sanbruno.archives@nara.gov"
+      ],
+      "fax": "650-238-3510",
+      "name": "National Archives at San Francisco",
+      "phone": "650-238-3501",
+      "public_liaison": {
+        "name": "Michael Moore",
+        "phone": [
+          "650-238-3478"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "650-238-3501"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/san-francisco/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sue Karren",
+          "Director"
+        ],
+        "city": "Seattle",
+        "state": "WA",
+        "street": "6125 Sand Point Way, NE",
+        "zip": "98115-7999"
+      },
+      "emails": [
+        "seattle.archives@nara.gov"
+      ],
+      "fax": "206-336-5112",
+      "name": "National Archives at Seattle",
+      "phone": "206-336-5115",
+      "public_liaison": {
+        "name": "Michael Moore",
+        "phone": [
+          "206-336-5141"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "206-336-5115"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/seattle/"
+    },
+    {
+      "name": "National Archives at St. Louis",
+      "public_liaison": {
+        "name": "William Seibert",
+        "phone": [
+          "314-801-0909"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Ira Permstein",
+          "Supervisory Archivist"
+        ],
+        "city": "Simi Valley",
+        "state": "CA",
+        "street": "40 Presidential Drive",
+        "zip": "93065-0699"
+      },
+      "emails": [
+        "reagan.library@nara.gov"
+      ],
+      "fax": "805-577-4074",
+      "misc": {
+        "Supervisory Archivist": {
+          "name": "Ira Permstein",
+          "phone": [
+            "800-410-8354"
+          ]
+        }
+      },
+      "name": "Ronald Reagan Presidential Library",
+      "phone": "800-410-8354",
+      "public_liaison": {
+        "name": "John Laster",
+        "phone": [
+          "202-357-5200"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Deborah Wheeler",
+          "Supervisory Archivist"
+        ],
+        "city": "West College Station",
+        "state": "TX",
+        "street": "1000 George Bush Drive",
+        "zip": "77845"
+      },
+      "emails": [
+        "bush.library@nara.gov"
+      ],
+      "fax": "979-691-4050",
+      "misc": {
+        "Supervisory Archivist": {
+          "name": "Deborah Wheeler",
+          "phone": [
+            "979-691-4000"
+          ]
+        }
+      },
+      "name": "George Bush Presidential Library",
+      "phone": "979-691-4000",
+      "public_liaison": {
+        "name": "John Laster",
+        "phone": [
+          "202-357-5200"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Dana Simmons",
+          "Supervisory Archivist"
+        ],
+        "city": "Little Rock",
+        "state": "AR",
+        "street": "1200 President Clinton Avenue",
+        "zip": "72201"
+      },
+      "emails": [
+        "clinton.library@nara.gov"
+      ],
+      "fax": "501-244-2883",
+      "misc": {
+        "Supervisory Archivist": {
+          "name": "Dana Simmons",
+          "phone": [
+            "501-374-4242"
+          ]
+        }
+      },
+      "name": "William J. Clinton Presidential Library",
+      "phone": "501-374-4242",
+      "public_liaison": {
+        "name": "John Laster",
+        "phone": [
+          "202-357-5200"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Brooke Clement",
+          "Supervisory Archivist"
+        ],
+        "city": "Dallas",
+        "state": "TX",
+        "street": "2943 SMU Blvd",
+        "zip": "75205-2300"
+      },
+      "emails": [
+        "gwbush.library@nara.gov"
+      ],
+      "fax": "214-346-1699",
+      "misc": {
+        "Supervisory Archivist": {
+          "name": "Brooke Clement",
+          "phone": [
+            "214-346-1650"
+          ]
+        }
+      },
+      "name": "George W. Bush Presidential Library",
+      "phone": "214-346-1650",
+      "public_liaison": {
+        "name": "John Laster",
+        "phone": [
+          "202-357-5200"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stephannie Oriabure",
+          "Archivist",
+          "Room G-7"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "700 Pennsylvania Avenue, NW",
+        "zip": "20408-0001"
+      },
+      "emails": [
+        "presidential.materials@nara.gov"
+      ],
+      "fax": "202-357-5941",
+      "name": "Presidential Materials Division",
+      "phone": "202-357-5200",
+      "public_liaison": {
+        "name": "John Laster",
+        "phone": [
+          "202-357-5200"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.archives.gov/research/vice-presidential-records"
+    }
+  ],
+  "description": "The National Archives and Records Administration serves American democracy by safeguarding and preserving the records of our Government, ensuring that the people can discover, use, and learn from this documentary heritage.",
+  "emails": [
+    "foia@nara.gov"
+  ],
+  "fax": "301-837-0293",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "American Samoa",
+    "Archives and records",
+    "Authority delegations (Government agencies)",
+    "Blind",
+    "Broadband",
+    "Buildings and facilities",
+    "Business and industry",
+    "Civil defense",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Computer technology",
+    "Confidential business information",
+    "Copyright",
+    "Credit",
+    "Cultural exchange programs",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Executive orders",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Grant administrations",
+    "Grant programs",
+    "Grant programs-agriculture",
+    "Grant programs-education",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Guam",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Human research subjects",
+    "Indians",
+    "Indians-education",
+    "Indians-tribal government",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Iraq",
+    "Kuwait",
+    "Lebanon",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Manpower training programs",
+    "Micrographics",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "National defense",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Pacific Islands Trust Territory",
+    "Presidential documents",
+    "Privacy",
+    "Private schools",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Seals and insignia",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Small businesses",
+    "State and local governments",
+    "Student aid",
+    "Sunshine Act",
+    "Teachers",
+    "Telecommunications",
+    "Telephone",
+    "Urban areas",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Wages",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Women"
+  ],
+  "name": "National Archives and Records Administration",
+  "phone": "301-837-3642",
+  "public_liaison": {
+    "name": "Gary Stern",
+    "phone": [
+      "301-837-2024"
+    ]
+  },
+  "reading_rooms": [
+    [
+      "Electronic (FOIA) Reading Room",
+      "https://www.archives.gov/foia/electronic-reading-room"
+    ]
+  ],
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "480.45",
+      "complex_highest_days": "2843",
+      "complex_lowest_days": "0",
+      "complex_median_days": "157",
+      "simple_average_days": "10.28",
+      "simple_highest_days": "1411",
+      "simple_lowest_days": "0",
+      "simple_median_days": "5"
+    },
+    "2009": {
+      "complex_average_days": "264.16",
+      "complex_highest_days": "2978",
+      "complex_lowest_days": "2",
+      "complex_median_days": "41",
+      "simple_average_days": "10.91",
+      "simple_highest_days": "1409",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2010": {
+      "complex_average_days": "471",
+      "complex_highest_days": "3937",
+      "complex_lowest_days": "0",
+      "complex_median_days": "160",
+      "simple_average_days": "17.1",
+      "simple_highest_days": "3268",
+      "simple_lowest_days": "0",
+      "simple_median_days": "5"
+    },
+    "2011": {
+      "complex_average_days": "382",
+      "complex_highest_days": "4327",
+      "complex_lowest_days": "0",
+      "complex_median_days": "20",
+      "simple_average_days": "10.5",
+      "simple_highest_days": "1753",
+      "simple_lowest_days": "0",
+      "simple_median_days": "4"
+    },
+    "2012": {
+      "complex_average_days": "917",
+      "complex_highest_days": "4932",
+      "complex_lowest_days": "0",
+      "complex_median_days": "357",
+      "expedited_processing_average_days": "10",
+      "expedited_processing_highest_days": "22",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "8",
+      "simple_average_days": "57.5",
+      "simple_highest_days": "3509",
+      "simple_lowest_days": "0",
+      "simple_median_days": "6"
+    },
+    "2013": {
+      "complex_average_days": "718",
+      "complex_highest_days": "6136",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "290",
+      "expedited_processing_average_days": "7.5",
+      "expedited_processing_highest_days": "22",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "6",
+      "simple_average_days": "42.2",
+      "simple_highest_days": "3994",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2014": {
+      "complex_average_days": "965",
+      "complex_highest_days": "5223",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "603",
+      "expedited_processing_average_days": "4",
+      "expedited_processing_highest_days": "29",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "less than 1",
+      "simple_average_days": "13.6",
+      "simple_highest_days": "3894",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2015": {
+      "complex_average_days": "1126",
+      "complex_highest_days": "5486",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "452",
+      "expedited_processing_average_days": "32.64",
+      "expedited_processing_highest_days": "181",
+      "expedited_processing_lowest_days": "5",
+      "expedited_processing_median_days": "18",
+      "simple_average_days": "26",
+      "simple_highest_days": "4387",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    },
+    "2016": {
+      "complex_average_days": "1098.7",
+      "complex_highest_days": "5707",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "612",
+      "expedited_processing_average_days": "45.13",
+      "expedited_processing_highest_days": "171",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "10",
+      "simple_average_days": "11.5",
+      "simple_highest_days": "2578",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "14"
+    }
+  },
+  "service_center": {
+    "phone": [
+      "301-837-3642"
+    ]
+  },
+  "top_level": false,
+  "website": "http://www.archives.gov/foia/index.html"
+}

@@ -1,0 +1,246 @@
+{
+  "abbreviation": "NTSB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Melba D. Moye",
+          "Chief, Records Management Division",
+          "CIO-40"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "490 L'Enfant Plaza, SW",
+        "zip": "20594"
+      },
+      "emails": [
+        "foia@ntsb.gov"
+      ],
+      "fax": "240-752-6257",
+      "misc": {
+        "Chief, Records Management Division": {
+          "name": "Melba D. Moye",
+          "phone": [
+            "202-314-6540"
+          ]
+        }
+      },
+      "name": "National Transportation Safety Board",
+      "phone": "202-314-6540",
+      "public_liaison": {
+        "name": "Melba D. Moye",
+        "phone": [
+          "202-314-6540"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://www.ntsb.gov/about/foia/Pages/foia_err.aspx"
+        ]
+      ],
+      "request_form": "https://foiarequest.ntsb.gov/palMain.aspx",
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "75.05",
+          "complex_highest_days": "297",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "37",
+          "simple_average_days": "17.81",
+          "simple_highest_days": "71",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "22"
+        },
+        "2012": {
+          "complex_average_days": "104.51",
+          "complex_highest_days": "614",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "30",
+          "simple_average_days": "18.53",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "17"
+        },
+        "2013": {
+          "complex_average_days": "184.18",
+          "complex_highest_days": "1304",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "100",
+          "expedited_processing_average_days": "62",
+          "expedited_processing_highest_days": "62",
+          "expedited_processing_lowest_days": "62",
+          "expedited_processing_median_days": "62",
+          "simple_average_days": "29.77",
+          "simple_highest_days": "666",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20"
+        },
+        "2014": {
+          "complex_average_days": "141.54",
+          "complex_highest_days": "1343",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "268.89",
+          "expedited_processing_highest_days": "272",
+          "expedited_processing_lowest_days": "263",
+          "expedited_processing_median_days": "271",
+          "simple_average_days": "12.46",
+          "simple_highest_days": "322",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2015": {
+          "complex_average_days": "276.19",
+          "complex_highest_days": "913",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "200",
+          "expedited_processing_average_days": "100",
+          "expedited_processing_highest_days": "266",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "66.5",
+          "simple_average_days": "28.75",
+          "simple_highest_days": "490",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "253.81",
+          "complex_highest_days": "983",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "90",
+          "expedited_processing_average_days": "41",
+          "expedited_processing_highest_days": "41",
+          "expedited_processing_lowest_days": "41",
+          "expedited_processing_median_days": "41",
+          "simple_average_days": "332.36",
+          "simple_highest_days": "682",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "441"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-314-6540"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ntsb.gov/about/foia/Pages/default.aspx"
+    }
+  ],
+  "description": "The National Transportation Safety Board (NTSB) is an independent federal agency charged with determining the probable cause of transportation accidents and promoting transportation safety, and assisting victims of transportation accidents and their families. The NTSB investigates accidents, conducts safety studies, evaluates the effectiveness of other government agencies programs for preventing transportation accidents, and reviews the appeals of enforcement actions involving aviation and mariner certificates issued by the Federal Aviation Administration (FAA) and the U.S. Coast Guard (USCG), as well as the appeals of civil penalty actions taken by the FAA.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Airmen",
+    "Archives and records",
+    "Authority delegations (Government agencies)",
+    "Aviation safety",
+    "Claims",
+    "Conflict of interests",
+    "Equal access to justice",
+    "Freedom of information",
+    "Government employees",
+    "Hazardous materials transportation",
+    "Highway safety",
+    "Investigations",
+    "Lawyers",
+    "Marine safety",
+    "Organization and functions (Government agencies)",
+    "Pipeline safety",
+    "Privacy",
+    "Railroad safety",
+    "Reporting and recordkeeping requirements",
+    "Safety",
+    "Seals and insignia",
+    "Sunshine Act",
+    "Transportation"
+  ],
+  "name": "National Transportation Safety Board",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "39.39",
+      "complex_highest_days": "241",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "18",
+      "simple_average_days": "10.1",
+      "simple_highest_days": "42",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2011": {
+      "complex_average_days": "75.05",
+      "complex_highest_days": "297",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "37",
+      "simple_average_days": "17.81",
+      "simple_highest_days": "71",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "22"
+    },
+    "2012": {
+      "complex_average_days": "104.51",
+      "complex_highest_days": "614",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "30",
+      "simple_average_days": "18.53",
+      "simple_highest_days": "50",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "17"
+    },
+    "2013": {
+      "complex_average_days": "184.18",
+      "complex_highest_days": "1304",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "100",
+      "expedited_processing_average_days": "62",
+      "expedited_processing_highest_days": "62",
+      "expedited_processing_lowest_days": "62",
+      "expedited_processing_median_days": "62",
+      "simple_average_days": "29.77",
+      "simple_highest_days": "666",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "20"
+    },
+    "2014": {
+      "complex_average_days": "141.54",
+      "complex_highest_days": "1343",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "28",
+      "expedited_processing_average_days": "268.89",
+      "expedited_processing_highest_days": "272",
+      "expedited_processing_lowest_days": "263",
+      "expedited_processing_median_days": "271",
+      "simple_average_days": "12.46",
+      "simple_highest_days": "322",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    },
+    "2015": {
+      "complex_average_days": "276.19",
+      "complex_highest_days": "913",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "200",
+      "expedited_processing_average_days": "100",
+      "expedited_processing_highest_days": "266",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "66.5",
+      "simple_average_days": "28.75",
+      "simple_highest_days": "490",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2016": {
+      "complex_average_days": "253.81",
+      "complex_highest_days": "983",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "90",
+      "expedited_processing_average_days": "41",
+      "expedited_processing_highest_days": "41",
+      "expedited_processing_lowest_days": "41",
+      "expedited_processing_median_days": "41",
+      "simple_average_days": "332.36",
+      "simple_highest_days": "682",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "441"
+    }
+  }
+}

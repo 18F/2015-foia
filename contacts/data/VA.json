@@ -1,0 +1,2744 @@
+{
+  "abbreviation": "VA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "James Horan",
+          "FOIA Service Director",
+          "(005R1C) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "vacofoiaservice@va.gov"
+      ],
+      "fax": "202-632-7581",
+      "misc": {
+        "FOIA Team Lead": {
+          "name": "Laurie Karnay",
+          "phone": [
+            "202-632-7465"
+          ]
+        }
+      },
+      "name": "Central Office FOIA/Privacy Act Office",
+      "phone": "202-632-7453",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-632-7453"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "877-750-3642"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Nikki Benns",
+          "FOIA Contact",
+          "(43D) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "nca.foia@va.gov"
+      ],
+      "fax": "703-441-3011",
+      "misc": {
+        "FOIA Contact": {
+          "name": "James Killens III",
+          "phone": [
+            "202-632-7728"
+          ]
+        }
+      },
+      "name": "National Cemetery Administration",
+      "phone": "703-441-4027",
+      "public_liaison": {
+        "name": "Raynell Lazier",
+        "phone": [
+          "202-461-6214"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "14",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13.5",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "16",
+          "complex_highest_days": "90",
+          "complex_lowest_days": "0",
+          "complex_median_days": "10.5"
+        },
+        "2010": {
+          "complex_average_days": "21.2",
+          "complex_highest_days": "318",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15"
+        },
+        "2011": {
+          "complex_average_days": "30.57",
+          "complex_highest_days": "193",
+          "complex_lowest_days": "1",
+          "complex_median_days": "26"
+        },
+        "2012": {
+          "complex_average_days": "15.68",
+          "complex_highest_days": "120",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12"
+        },
+        "2013": {
+          "complex_average_days": "38.19",
+          "complex_highest_days": "324",
+          "complex_lowest_days": "1",
+          "complex_median_days": "31",
+          "simple_average_days": "23.75",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "7",
+          "simple_median_days": "20"
+        },
+        "2014": {
+          "complex_average_days": "27",
+          "complex_highest_days": "87",
+          "complex_lowest_days": "1",
+          "complex_median_days": "22",
+          "simple_average_days": "17.5",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "15",
+          "simple_median_days": "16.5"
+        },
+        "2015": {
+          "complex_average_days": "77.08",
+          "complex_highest_days": "232",
+          "complex_lowest_days": "16",
+          "complex_median_days": "78.5",
+          "simple_average_days": "21.5",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "15",
+          "simple_median_days": "21.5"
+        },
+        "2016": {
+          "complex_average_days": "76",
+          "complex_highest_days": "226",
+          "complex_lowest_days": "3",
+          "complex_median_days": "58",
+          "simple_average_days": "28",
+          "simple_highest_days": "190",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-6214"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Gwendolyn Smith",
+          "FOIA Contact",
+          "(20M33) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "foia.vbaco@va.gov"
+      ],
+      "fax": "202-275-5947",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Sean Burns",
+          "phone": [
+            "202-491-9439"
+          ]
+        }
+      },
+      "name": "Veterans Benefits Administration",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "202-491-9439",
+      "public_liaison": {
+        "name": "Gwendolyn Smith",
+        "phone": [
+          "202-491-9439"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "29",
+          "complex_highest_days": "2104",
+          "complex_lowest_days": "1",
+          "complex_median_days": "10.5",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "72",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "30",
+          "complex_highest_days": "793",
+          "complex_lowest_days": "1",
+          "complex_median_days": "397",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "5"
+        },
+        "2010": {
+          "complex_average_days": "19.96",
+          "complex_highest_days": "397",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "7",
+          "expedited_processing_average_days": "36.88",
+          "expedited_processing_highest_days": "121",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "13.5"
+        },
+        "2011": {
+          "complex_average_days": "25.86",
+          "complex_highest_days": "1748",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "7",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "less than 1",
+          "simple_highest_days": "less than 1",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "41.32",
+          "complex_highest_days": "486",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "26",
+          "expedited_processing_average_days": "246.33",
+          "expedited_processing_highest_days": "393",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "345",
+          "simple_average_days": "34.71",
+          "simple_highest_days": "115",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "29"
+        },
+        "2013": {
+          "complex_average_days": "58.77",
+          "complex_highest_days": "778",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "33",
+          "expedited_processing_average_days": "17.5",
+          "expedited_processing_highest_days": "52",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "8.5",
+          "simple_average_days": "46.56",
+          "simple_highest_days": "254",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "complex_average_days": "86.43",
+          "complex_highest_days": "804",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "34",
+          "expedited_processing_average_days": "3.5",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "3.5",
+          "simple_average_days": "119.91",
+          "simple_highest_days": "632",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "63"
+        },
+        "2015": {
+          "complex_average_days": "47.83",
+          "complex_highest_days": "858",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "10",
+          "expedited_processing_average_days": "6.5",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "6.5",
+          "simple_average_days": "159.01",
+          "simple_highest_days": "793",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "179"
+        },
+        "2016": {
+          "complex_average_days": "114",
+          "complex_highest_days": "954",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "63",
+          "expedited_processing_average_days": "151",
+          "expedited_processing_highest_days": "228",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "216",
+          "simple_average_days": "98",
+          "simple_highest_days": "3399",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "70"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-491-9439"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie Graham",
+          "FOIA Contact"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "(19F2) VACO",
+        "zip": "20420"
+      },
+      "emails": [
+        "vhafoia2@va.gov"
+      ],
+      "fax": "202-273-9387",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Timothy Graham",
+          "phone": [
+            "215-823-4146"
+          ]
+        }
+      },
+      "name": "Veterans Health Administration",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "704-245-2492",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "215-823-4146"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "10",
+          "complex_highest_days": "1073",
+          "complex_lowest_days": "1",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "107",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "10",
+          "complex_highest_days": "360",
+          "complex_lowest_days": "1",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "136",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1"
+        },
+        "2010": {
+          "complex_average_days": "10.12",
+          "complex_highest_days": "379",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "7.5",
+          "expedited_processing_highest_days": "72",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "1.5"
+        },
+        "2011": {
+          "complex_average_days": "11.6",
+          "complex_highest_days": "682",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "4",
+          "expedited_processing_average_days": "4.11",
+          "expedited_processing_highest_days": "53",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "1.49",
+          "simple_highest_days": "8",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "0.5"
+        },
+        "2012": {
+          "complex_average_days": "21.36",
+          "complex_highest_days": "733",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "8",
+          "expedited_processing_average_days": "7.17",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "10.16",
+          "simple_highest_days": "444",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "complex_average_days": "25.96",
+          "complex_highest_days": "1438",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "36.39",
+          "expedited_processing_highest_days": "176",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "15.88",
+          "simple_highest_days": "449",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "18.04",
+          "complex_highest_days": "998",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11",
+          "expedited_processing_average_days": "34.83",
+          "expedited_processing_highest_days": "181",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "23.5",
+          "simple_average_days": "13.06",
+          "simple_highest_days": "752",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "complex_average_days": "36.98",
+          "complex_highest_days": "649",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15",
+          "expedited_processing_average_days": "37",
+          "expedited_processing_highest_days": "322",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "14.08",
+          "simple_highest_days": "674",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "38",
+          "complex_highest_days": "864",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "18",
+          "expedited_processing_average_days": "42",
+          "expedited_processing_highest_days": "440",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "13",
+          "simple_highest_days": "1739",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "215-823-4146"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Lisa Matuszczak",
+          "FOIA Contact",
+          "002B VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "OSVAFOIA@va.gov"
+      ],
+      "fax": "202-273-4880",
+      "name": "Office of the Executive Secretary",
+      "phone": "202-461-4857",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-4857"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "202-461-4857"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Anita Major",
+          "FOIA Contact",
+          "(002B) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-7635",
+      "name": "Office of Assistant Secretary for Public and Intergovernmental Affairs",
+      "phone": "202-461-7430",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-7442"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0"
+        },
+        "2010": {
+          "complex_average_days": "58",
+          "complex_highest_days": "58",
+          "complex_lowest_days": "58",
+          "complex_median_days": "58"
+        },
+        "2011": {
+          "complex_average_days": "56",
+          "complex_highest_days": "56",
+          "complex_lowest_days": "56",
+          "complex_median_days": "56"
+        },
+        "2012": {
+          "complex_average_days": "20",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "20",
+          "complex_median_days": "20"
+        },
+        "2013": {
+          "simple_average_days": "16",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "16",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "47.75",
+          "complex_highest_days": "144",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23.5",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "13",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "154.33",
+          "simple_highest_days": "350",
+          "simple_lowest_days": "26",
+          "simple_median_days": "87"
+        },
+        "2015": {
+          "complex_average_days": "75.5",
+          "complex_highest_days": "115",
+          "complex_lowest_days": "36",
+          "complex_median_days": "75.5",
+          "simple_average_days": "less than 1",
+          "simple_highest_days": "less than 1",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2016": {
+          "complex_average_days": "696",
+          "complex_highest_days": "1216",
+          "complex_lowest_days": "303",
+          "complex_median_days": "645",
+          "simple_average_days": "365",
+          "simple_highest_days": "957",
+          "simple_lowest_days": "90",
+          "simple_median_days": "238"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-7442"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "James Chung",
+          "FOIA Contact",
+          "(004) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-6892",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Miriam Smith",
+          "phone": [
+            "202-461-6677"
+          ]
+        }
+      },
+      "name": "Office of Assistant Secretary for Management",
+      "phone": "202-461-7305",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-6677"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "202-461-6677"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kelli Emery",
+          "FOIA Contact",
+          "(044) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-632-7146",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Kelli Emery",
+          "phone": [
+            "202-590-8793"
+          ]
+        }
+      },
+      "name": "Office of Asset Enterprise Management",
+      "phone": "202-590-8793",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-590-8793"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "202-590-8793"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sarah Kalis",
+          "FOIA Contact",
+          "(041C/D) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-6628",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Cynthia Manurs",
+          "phone": [
+            "202-461-5170"
+          ]
+        }
+      },
+      "name": "Office of Deputy Assistant Secretary for Budget",
+      "phone": "202-461-5170",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-5170"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "12",
+          "complex_highest_days": "19",
+          "complex_lowest_days": "5",
+          "complex_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "63",
+          "complex_highest_days": "63",
+          "complex_lowest_days": "63",
+          "complex_median_days": "63"
+        },
+        "2014": {
+          "simple_average_days": "310.67",
+          "simple_highest_days": "473",
+          "simple_lowest_days": "7",
+          "simple_median_days": "452"
+        },
+        "2016": {
+          "simple_average_days": "42",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "25"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-5170"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kevin Cone",
+          "FOIA Contact",
+          "(047GC1) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-6574",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Karen Barber",
+          "phone": [
+            "202-461-6432"
+          ]
+        }
+      },
+      "name": "Office of Deputy Assistant Secretary for Finance",
+      "phone": "202-461-5035",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-6432"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "31.2",
+          "complex_highest_days": "101",
+          "complex_lowest_days": "1",
+          "complex_median_days": "4",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "25.5",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "19",
+          "complex_median_days": "31"
+        },
+        "2010": {
+          "complex_average_days": "18.28",
+          "complex_highest_days": "105",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "27.08",
+          "complex_highest_days": "273",
+          "complex_lowest_days": "1",
+          "complex_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "31.45",
+          "complex_highest_days": "112",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20.5",
+          "simple_average_days": "66",
+          "simple_highest_days": "66",
+          "simple_lowest_days": "66",
+          "simple_median_days": "66"
+        },
+        "2013": {
+          "complex_average_days": "24.18",
+          "complex_highest_days": "98",
+          "complex_lowest_days": "5",
+          "complex_median_days": "18",
+          "simple_average_days": "99",
+          "simple_highest_days": "254",
+          "simple_lowest_days": "8",
+          "simple_median_days": "35"
+        },
+        "2014": {
+          "complex_average_days": "28.87",
+          "complex_highest_days": "154",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "simple_average_days": "71.4",
+          "simple_highest_days": "208",
+          "simple_lowest_days": "4",
+          "simple_median_days": "27"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-6432"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Thomas Barnasevitch",
+          "FOIA Contact",
+          "Philadelphia Information Technology Center"
+        ],
+        "city": "Philadelphia",
+        "state": "PA",
+        "street": "5000 Wissahickon Avenue (284)",
+        "zip": "19144"
+      },
+      "emails": [
+        "cdcofoia@va.gov"
+      ],
+      "fax": "215-381-3527",
+      "name": "Corporate Data Center Operations (CDCO)",
+      "phone": "215-842-2000 x4503",
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "name": "Enterprise Operations",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "215-842-2000 x4503"
+        ]
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Doloras Johnson",
+          "FOIA Team Lead",
+          "(005R1C) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "vacofoiaservice@va.gov"
+      ],
+      "fax": "202-632-7581",
+      "misc": {
+        "FOIA Team Lead": {
+          "name": "Laurie Karnay",
+          "phone": [
+            "202-632-7465"
+          ]
+        }
+      },
+      "name": "Office of Assistant Secretary for Information and Technology",
+      "phone": "202-632-7233",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "877-750-3642"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "16",
+          "complex_highest_days": "240",
+          "complex_lowest_days": "1",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "20.66",
+          "complex_highest_days": "328",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "5"
+        },
+        "2012": {
+          "complex_average_days": "31.88",
+          "complex_highest_days": "421",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "9",
+          "simple_average_days": "9.73",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "2",
+          "simple_median_days": "11"
+        },
+        "2013": {
+          "complex_average_days": "23.9",
+          "complex_highest_days": "281",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "6",
+          "expedited_processing_average_days": "104.5",
+          "expedited_processing_highest_days": "115",
+          "expedited_processing_lowest_days": "94",
+          "expedited_processing_median_days": "104.5",
+          "simple_average_days": "16.13",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12.5"
+        },
+        "2014": {
+          "complex_average_days": "35.87",
+          "complex_highest_days": "485",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11",
+          "expedited_processing_average_days": "59",
+          "expedited_processing_highest_days": "59",
+          "expedited_processing_lowest_days": "59",
+          "expedited_processing_median_days": "59",
+          "simple_average_days": "27.71",
+          "simple_highest_days": "195",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2015": {
+          "complex_average_days": "107.36",
+          "complex_highest_days": "602",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "63",
+          "simple_average_days": "13.16",
+          "simple_highest_days": "180",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "63",
+          "complex_highest_days": "560",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "25",
+          "expedited_processing_average_days": "9",
+          "expedited_processing_highest_days": "16",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "9",
+          "simple_average_days": "15",
+          "simple_highest_days": "152",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "877-750-3642"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Teresa Days",
+          "FOIA Contact",
+          "(006) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-4914",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Yolanda Johnson",
+          "phone": [
+            "202-632-7310"
+          ]
+        }
+      },
+      "name": "Office of Assistant Secretary for Human Resources and Administration",
+      "phone": "202-461-7754",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-632-7310"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2010": {
+          "complex_average_days": "15.67",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "10",
+          "complex_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "11.29",
+          "complex_highest_days": "19",
+          "complex_lowest_days": "4",
+          "complex_median_days": "10"
+        },
+        "2012": {
+          "complex_average_days": "252.67",
+          "complex_highest_days": "377",
+          "complex_lowest_days": "4",
+          "complex_median_days": "377"
+        },
+        "2013": {
+          "complex_average_days": "288",
+          "complex_highest_days": "288",
+          "complex_lowest_days": "288",
+          "complex_median_days": "288",
+          "simple_average_days": "61",
+          "simple_highest_days": "61",
+          "simple_lowest_days": "61",
+          "simple_median_days": "61"
+        },
+        "2014": {
+          "complex_average_days": "42",
+          "complex_highest_days": "42",
+          "complex_lowest_days": "42",
+          "complex_median_days": "42",
+          "simple_average_days": "56.25",
+          "simple_highest_days": "88",
+          "simple_lowest_days": "41",
+          "simple_median_days": "48"
+        },
+        "2015": {
+          "complex_average_days": "327.33",
+          "complex_highest_days": "687",
+          "complex_lowest_days": "114",
+          "complex_median_days": "181",
+          "simple_average_days": "22",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "22",
+          "simple_median_days": "22"
+        },
+        "2016": {
+          "simple_average_days": "3",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "3",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-632-7310"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jean Hayes",
+          "FOIA Contact",
+          "(054A) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-7871",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Jean Hayes",
+          "phone": [
+            "202-461-7863"
+          ]
+        }
+      },
+      "name": "Office of Deputy Assistant Secretary for Human Resources Management",
+      "phone": "202-461-7863",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-7863"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "3",
+          "complex_highest_days": "5",
+          "complex_lowest_days": "2",
+          "complex_median_days": "3",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "3",
+          "complex_highest_days": "5",
+          "complex_lowest_days": "1",
+          "complex_median_days": "3"
+        },
+        "2010": {
+          "complex_average_days": "138.5",
+          "complex_highest_days": "251",
+          "complex_lowest_days": "26",
+          "complex_median_days": "138.5"
+        },
+        "2011": {
+          "complex_average_days": "230.53",
+          "complex_highest_days": "442",
+          "complex_lowest_days": "15",
+          "complex_median_days": "218"
+        },
+        "2012": {
+          "complex_average_days": "213",
+          "complex_highest_days": "470",
+          "complex_lowest_days": "5",
+          "complex_median_days": "187"
+        },
+        "2013": {
+          "complex_average_days": "214",
+          "complex_highest_days": "470",
+          "complex_lowest_days": "85",
+          "complex_median_days": "87",
+          "simple_average_days": "279",
+          "simple_highest_days": "279",
+          "simple_lowest_days": "279",
+          "simple_median_days": "279"
+        },
+        "2014": {
+          "complex_average_days": "243.53",
+          "complex_highest_days": "471",
+          "complex_lowest_days": "39",
+          "complex_median_days": "326",
+          "expedited_processing_average_days": "287",
+          "expedited_processing_highest_days": "287",
+          "expedited_processing_lowest_days": "287",
+          "expedited_processing_median_days": "287",
+          "simple_average_days": "230.4",
+          "simple_highest_days": "402",
+          "simple_lowest_days": "5",
+          "simple_median_days": "265"
+        },
+        "2015": {
+          "complex_average_days": "93.33",
+          "complex_highest_days": "171",
+          "complex_lowest_days": "26",
+          "complex_median_days": "100.5",
+          "simple_average_days": "108.71",
+          "simple_highest_days": "535",
+          "simple_lowest_days": "5",
+          "simple_median_days": "67"
+        },
+        "2016": {
+          "complex_average_days": "259",
+          "complex_highest_days": "394",
+          "complex_lowest_days": "125",
+          "complex_median_days": "259",
+          "simple_average_days": "6",
+          "simple_highest_days": "6",
+          "simple_lowest_days": "6",
+          "simple_median_days": "6"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-7863"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Angela Dunn",
+          "FOIA Contact",
+          "(06) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-501-2145",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Betty Cook",
+          "phone": [
+            "202-461-4010"
+          ]
+        }
+      },
+      "name": "Office of Deputy Assistant Secretary for Diversity and Inclusion",
+      "phone": "202-461-4237",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-461-4010"
+        ]
+      },
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "7",
+          "complex_highest_days": "7",
+          "complex_lowest_days": "7",
+          "complex_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "28",
+          "complex_highest_days": "28",
+          "complex_lowest_days": "28",
+          "complex_median_days": "28"
+        },
+        "2014": {
+          "simple_average_days": "30",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "30",
+          "simple_median_days": "30"
+        },
+        "2015": {
+          "complex_average_days": "10",
+          "complex_highest_days": "10",
+          "complex_lowest_days": "10",
+          "complex_median_days": "10"
+        },
+        "2016": {
+          "complex_average_days": "366",
+          "complex_highest_days": "627",
+          "complex_lowest_days": "106",
+          "complex_median_days": "366",
+          "simple_average_days": "52",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "2",
+          "simple_median_days": "35"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-4010"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Nigel Collie",
+          "FOIA Contact",
+          "(08) (I Street) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-501-2811",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Nigel Collie",
+          "phone": [
+            "202-501-2827"
+          ]
+        }
+      },
+      "name": "Office of Resolution Management",
+      "phone": "202-461-0227",
+      "public_liaison": {
+        "name": "James Horan",
+        "phone": [
+          "202-501-2827"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "5",
+          "complex_highest_days": "6",
+          "complex_lowest_days": "2",
+          "complex_median_days": "4",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "17.25",
+          "complex_highest_days": "49",
+          "complex_lowest_days": "18",
+          "complex_median_days": "17"
+        },
+        "2010": {
+          "complex_average_days": "19.75",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14"
+        },
+        "2011": {
+          "complex_average_days": "13.53",
+          "complex_highest_days": "38",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "13"
+        },
+        "2012": {
+          "complex_average_days": "10.18",
+          "complex_highest_days": "22",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "9",
+          "simple_average_days": "10",
+          "simple_highest_days": "10",
+          "simple_lowest_days": "10",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "17.5",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "simple_average_days": "19.11",
+          "simple_highest_days": "40",
+          "simple_lowest_days": "2",
+          "simple_median_days": "14"
+        },
+        "2014": {
+          "complex_average_days": "17.86",
+          "complex_highest_days": "75",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13",
+          "simple_average_days": "62.11",
+          "simple_highest_days": "467",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "34.33",
+          "complex_highest_days": "85",
+          "complex_lowest_days": "8",
+          "complex_median_days": "10",
+          "simple_average_days": "10.61",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2016": {
+          "complex_average_days": "3",
+          "complex_highest_days": "3",
+          "complex_lowest_days": "3",
+          "complex_median_days": "3",
+          "expedited_processing_average_days": "20",
+          "expedited_processing_highest_days": "32",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "10",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-501-2827"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jacqurs Larochelle",
+          "FOIA Contact",
+          "(032A) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-7091",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Shelia Gaskins",
+          "phone": [
+            "202-461-5046"
+          ]
+        }
+      },
+      "name": "Office of Deputy Assistant Secretary for Administration",
+      "phone": "202-461-5041",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "30",
+          "complex_highest_days": "160",
+          "complex_lowest_days": "1",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "6",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "30.4",
+          "complex_highest_days": "162",
+          "complex_lowest_days": "0",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "27",
+          "expedited_processing_highest_days": "37",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2010": {
+          "complex_average_days": "32",
+          "complex_highest_days": "301",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "92",
+          "expedited_processing_highest_days": "92",
+          "expedited_processing_lowest_days": "92",
+          "expedited_processing_median_days": "92",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "50",
+          "complex_highest_days": "324",
+          "complex_lowest_days": "0",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "21.7",
+          "simple_highest_days": "195",
+          "simple_lowest_days": "2",
+          "simple_median_days": "23"
+        },
+        "2012": {
+          "complex_average_days": "35.2",
+          "complex_highest_days": "257",
+          "complex_lowest_days": "0",
+          "complex_median_days": "26.5",
+          "expedited_processing_average_days": "35.5",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "35.5",
+          "simple_average_days": "19",
+          "simple_highest_days": "109",
+          "simple_lowest_days": "2",
+          "simple_median_days": "6"
+        },
+        "2013": {
+          "complex_average_days": "51.8",
+          "complex_highest_days": "925",
+          "complex_lowest_days": "1",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.8",
+          "simple_highest_days": "93",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7.5"
+        },
+        "2014": {
+          "complex_average_days": "55.5",
+          "complex_highest_days": "437",
+          "complex_lowest_days": "1",
+          "complex_median_days": "37.5",
+          "simple_average_days": "33.7",
+          "simple_highest_days": "140",
+          "simple_lowest_days": "4",
+          "simple_median_days": "18"
+        },
+        "2015": {
+          "complex_average_days": "50.7",
+          "complex_highest_days": "576",
+          "complex_lowest_days": "1",
+          "complex_median_days": "31",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "36.9",
+          "simple_highest_days": "122",
+          "simple_lowest_days": "3",
+          "simple_median_days": "26.5"
+        },
+        "2016": {
+          "complex_average_days": "92.4",
+          "complex_highest_days": "2230",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "42",
+          "expedited_processing_average_days": "33",
+          "expedited_processing_highest_days": "36",
+          "expedited_processing_lowest_days": "30",
+          "expedited_processing_median_days": "33",
+          "simple_average_days": "40.5",
+          "simple_highest_days": "164",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "21"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-5046"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Tanya Al-Khateeb",
+          "FOIA Contact",
+          "(007) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-461-0963",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Tanya Al-Khateeb",
+          "phone": [
+            "202-461-6587"
+          ]
+        }
+      },
+      "name": "Office of the Assistant Secretary for Operations, Security, and Preparedness",
+      "phone": "202-461-6587",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "12",
+          "complex_highest_days": "25",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12.5"
+        },
+        "2010": {
+          "complex_average_days": "13.71",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "21.62",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "10",
+          "complex_median_days": "16"
+        },
+        "2012": {
+          "complex_average_days": "12.07",
+          "complex_highest_days": "32",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14"
+        },
+        "2013": {
+          "complex_average_days": "16.14",
+          "complex_highest_days": "39",
+          "complex_lowest_days": "3",
+          "complex_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "40.6",
+          "complex_highest_days": "73",
+          "complex_lowest_days": "3",
+          "complex_median_days": "44"
+        },
+        "2015": {
+          "complex_average_days": "10.5",
+          "complex_highest_days": "13",
+          "complex_lowest_days": "8",
+          "complex_median_days": "10.5",
+          "simple_average_days": "13",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "9",
+          "simple_median_days": "13"
+        },
+        "2016": {
+          "complex_average_days": "18",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "13",
+          "complex_median_days": "17",
+          "simple_average_days": "34",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "34",
+          "simple_median_days": "34"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-6587"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Belinda Alvies",
+          "FOIA Contact",
+          "(008) VACO, Room 314"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-5993",
+      "name": "Office of Enterprise Integration",
+      "phone": "202-461-7513",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "service_center": {
+        "phone": [
+          "202-461-5198"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Regina Mack-Abney",
+          "FOIA Contact",
+          "(009) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-273-6791",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Pamela Balsley",
+          "phone": [
+            "202-461-6619"
+          ]
+        }
+      },
+      "name": "Office of Assistant Secretary for Congressional and Legislative Affairs",
+      "phone": "202-461-6459",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "46",
+          "complex_highest_days": "53",
+          "complex_lowest_days": "39",
+          "complex_median_days": "46"
+        },
+        "2010": {
+          "complex_average_days": "55",
+          "complex_highest_days": "175",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20"
+        },
+        "2011": {
+          "complex_average_days": "23.47",
+          "complex_highest_days": "56",
+          "complex_lowest_days": "5",
+          "complex_median_days": "24"
+        },
+        "2012": {
+          "complex_average_days": "27.4",
+          "complex_highest_days": "71",
+          "complex_lowest_days": "2",
+          "complex_median_days": "24",
+          "simple_average_days": "33.33",
+          "simple_highest_days": "48",
+          "simple_lowest_days": "22",
+          "simple_median_days": "30"
+        },
+        "2013": {
+          "complex_average_days": "17.94",
+          "complex_highest_days": "41",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "18",
+          "simple_average_days": "14.2",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "complex_average_days": "31.5",
+          "complex_highest_days": "116",
+          "complex_lowest_days": "11",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "19",
+          "expedited_processing_highest_days": "19",
+          "expedited_processing_lowest_days": "19",
+          "expedited_processing_median_days": "19",
+          "simple_average_days": "21.75",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "10",
+          "simple_median_days": "22"
+        },
+        "2015": {
+          "complex_average_days": "62.75",
+          "complex_highest_days": "150",
+          "complex_lowest_days": "1",
+          "complex_median_days": "50",
+          "simple_average_days": "31.61",
+          "simple_highest_days": "135",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        },
+        "2016": {
+          "complex_average_days": "48",
+          "complex_highest_days": "48",
+          "complex_lowest_days": "48",
+          "complex_median_days": "48",
+          "simple_average_days": "104",
+          "simple_highest_days": "277",
+          "simple_lowest_days": "3",
+          "simple_median_days": "88"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-6619"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Lynn Buell",
+          "FOIA Contact",
+          "(OOCM2) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "CFM.FOIA@va.gov"
+      ],
+      "fax": "202-495-5538",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Lynn Buell",
+          "phone": [
+            "202-461-8212"
+          ]
+        }
+      },
+      "name": "Office of Construction & Facilities Management",
+      "phone": "202-461-8212",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "14.4",
+          "complex_highest_days": "90",
+          "complex_lowest_days": "1",
+          "complex_median_days": "9",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "27",
+          "complex_highest_days": "142",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16.5"
+        },
+        "2010": {
+          "complex_average_days": "47.52",
+          "complex_highest_days": "306",
+          "complex_lowest_days": "2",
+          "complex_median_days": "31"
+        },
+        "2011": {
+          "complex_average_days": "62.72",
+          "complex_highest_days": "218",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "66"
+        },
+        "2012": {
+          "complex_average_days": "98.67",
+          "complex_highest_days": "226",
+          "complex_lowest_days": "1",
+          "complex_median_days": "77",
+          "simple_average_days": "93.02",
+          "simple_highest_days": "217",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "103"
+        },
+        "2013": {
+          "complex_average_days": "132.36",
+          "complex_highest_days": "564",
+          "complex_lowest_days": "1",
+          "complex_median_days": "102",
+          "simple_average_days": "188.38",
+          "simple_highest_days": "397",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "189.5"
+        },
+        "2014": {
+          "complex_average_days": "209.76",
+          "complex_highest_days": "768",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "212",
+          "simple_average_days": "310.31",
+          "simple_highest_days": "509",
+          "simple_lowest_days": "17",
+          "simple_median_days": "334"
+        },
+        "2015": {
+          "complex_average_days": "225.93",
+          "complex_highest_days": "558",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "235",
+          "simple_average_days": "217.62",
+          "simple_highest_days": "706",
+          "simple_lowest_days": "1",
+          "simple_median_days": "30.5"
+        },
+        "2016": {
+          "complex_average_days": "89",
+          "complex_highest_days": "588",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "64",
+          "simple_average_days": "31",
+          "simple_highest_days": "209",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-8212"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Richard Ha",
+          "FOIA Officer, Office of Procurement Policy Services (OALC-PPS)",
+          "Room 3E.405"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "425 I Street, NW",
+        "zip": "20001"
+      },
+      "emails": [
+        "VA_OAL_FOIA@va.gov"
+      ],
+      "fax": "202-343-1434",
+      "keywords": [
+        "Accounting",
+        "Government procurement"
+      ],
+      "name": "Office of Procurement Policy Services",
+      "phone": "202-632-5286",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "service_center": {
+        "phone": [
+          "202-632-5286"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Margaret L. Peak",
+          "FOIA Contact",
+          "(01C1) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "fax": "202-565-9733",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Margaret L. Peak",
+          "phone": [
+            "202-461-8111"
+          ]
+        }
+      },
+      "name": "Board of Veterans Appeals",
+      "phone": "202-461-8111",
+      "public_liaison": {
+        "name": "Margaret L. Peak",
+        "phone": [
+          "202-461-8111"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "10",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "1",
+          "complex_median_days": "8.5",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-8111"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "M.Renee Baxter",
+          "FOIA Contact",
+          "(026H) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "ogcfoiarequests@va.gov"
+      ],
+      "fax": "202-273-9299",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "J. Thomas Burch, Jr.",
+          "phone": [
+            "202-461-7717"
+          ]
+        }
+      },
+      "name": "Office of the General Counsel",
+      "phone": "202-461-7862",
+      "public_liaison": {
+        "name": "M.Renee Baxter",
+        "phone": [
+          "202-461-7717"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "10",
+          "complex_highest_days": "87",
+          "complex_lowest_days": "1",
+          "complex_median_days": "44",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "26.5",
+          "complex_highest_days": "83",
+          "complex_lowest_days": "1",
+          "complex_median_days": "30.5"
+        },
+        "2010": {
+          "complex_average_days": "68.44",
+          "complex_highest_days": "285",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "55"
+        },
+        "2011": {
+          "complex_average_days": "50.16",
+          "complex_highest_days": "146",
+          "complex_lowest_days": "1",
+          "complex_median_days": "51",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "24.8",
+          "complex_highest_days": "118",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "19",
+          "simple_average_days": "56",
+          "simple_highest_days": "56",
+          "simple_lowest_days": "56",
+          "simple_median_days": "56"
+        },
+        "2013": {
+          "complex_average_days": "50.43",
+          "complex_highest_days": "168",
+          "complex_lowest_days": "2",
+          "complex_median_days": "39.5",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "62",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "62",
+          "simple_median_days": "62"
+        },
+        "2014": {
+          "complex_average_days": "59.3",
+          "complex_highest_days": "226",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "43",
+          "expedited_processing_average_days": "37.5",
+          "expedited_processing_highest_days": "39",
+          "expedited_processing_lowest_days": "36",
+          "expedited_processing_median_days": "37.5",
+          "simple_average_days": "35.2",
+          "simple_highest_days": "102",
+          "simple_lowest_days": "2",
+          "simple_median_days": "37"
+        },
+        "2015": {
+          "complex_average_days": "47.79",
+          "complex_highest_days": "207",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "28",
+          "simple_average_days": "18.7",
+          "simple_highest_days": "133",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "complex_average_days": "84",
+          "complex_highest_days": "391",
+          "complex_lowest_days": "2",
+          "complex_median_days": "65",
+          "expedited_processing_average_days": "19",
+          "expedited_processing_highest_days": "19",
+          "expedited_processing_lowest_days": "19",
+          "expedited_processing_median_days": "19",
+          "simple_average_days": "49",
+          "simple_highest_days": "168",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "39"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-7717"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Michael Soybel",
+          "FOIA Contact",
+          "(50CI) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "vaoigfoia-pa@va.gov"
+      ],
+      "fax": "202-565-8667",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Darryl Joe",
+          "phone": [
+            "202-461-4591"
+          ]
+        }
+      },
+      "name": "Office of Inspector General",
+      "phone": "202-461-4631",
+      "public_liaison": {
+        "name": "Michael Soybel",
+        "phone": [
+          "202-461-4591"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "7",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "7",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "0",
+          "complex_median_days": "5.5",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "5"
+        },
+        "2010": {
+          "complex_average_days": "13.18",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15"
+        },
+        "2011": {
+          "complex_average_days": "15.23",
+          "complex_highest_days": "168",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "20.28",
+          "complex_highest_days": "123",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "4",
+          "expedited_processing_highest_days": "4",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "14.36",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "simple_average_days": "less than 1",
+          "simple_highest_days": "less than 1",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2014": {
+          "complex_average_days": "22.12",
+          "complex_highest_days": "122",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "13",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "15.74",
+          "simple_highest_days": "81",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "17"
+        },
+        "2015": {
+          "complex_average_days": "32.74",
+          "complex_highest_days": "193",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "13",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "14.12",
+          "simple_highest_days": "70",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2016": {
+          "complex_average_days": "21",
+          "complex_highest_days": "224",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "19",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "10",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-461-4591"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Linda Sitney",
+          "FOIA Contact",
+          "(00SB) VACO"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "810 Vermont Avenue, NW",
+        "zip": "20420"
+      },
+      "emails": [
+        "osbdufoia@va.gov"
+      ],
+      "fax": "202-461-4301",
+      "misc": {
+        "FOIA Contact ": {
+          "name": "Karen Zhussanbay",
+          "phone": [
+            "202-303-3260 x5429"
+          ]
+        }
+      },
+      "name": "Office of Small and Disadvantaged Business Utilization",
+      "phone": "202-461-4300",
+      "public_liaison": {
+        "name": "James Horan"
+      },
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0"
+        },
+        "2010": {
+          "complex_average_days": "36",
+          "complex_highest_days": "36",
+          "complex_lowest_days": "36",
+          "complex_median_days": "36"
+        },
+        "2011": {
+          "complex_average_days": "86.54",
+          "complex_highest_days": "299",
+          "complex_lowest_days": "3",
+          "complex_median_days": "49"
+        },
+        "2012": {
+          "complex_average_days": "152.12",
+          "complex_highest_days": "309",
+          "complex_lowest_days": "17",
+          "complex_median_days": "149"
+        },
+        "2013": {
+          "complex_average_days": "28.73",
+          "complex_highest_days": "109",
+          "complex_lowest_days": "3",
+          "complex_median_days": "17"
+        },
+        "2014": {
+          "complex_average_days": "34.39",
+          "complex_highest_days": "406",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "5.5"
+        },
+        "2015": {
+          "complex_average_days": "57.18",
+          "complex_highest_days": "743",
+          "complex_lowest_days": "2",
+          "complex_median_days": "6",
+          "simple_average_days": "15.31",
+          "simple_highest_days": "45",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2016": {
+          "complex_average_days": "25",
+          "complex_highest_days": "29",
+          "complex_lowest_days": "21",
+          "complex_median_days": "25",
+          "simple_average_days": "11",
+          "simple_highest_days": "69",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-303-3260 x5429"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.va.gov/"
+    }
+  ],
+  "description": "The Department's mission is to fulfill President Lincoln's promise \"To care for him who shall have borne the battle, and for his widow, and his orphan\" by serving and honoring the men and women who are America\u00b4s veterans.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "Air traffic controllers",
+    "Airports",
+    "Alaska",
+    "Alcohol abuse",
+    "Alcoholism",
+    "Alimony",
+    "American Samoa",
+    "Antitrust",
+    "Archives and records",
+    "Armed forces",
+    "Authority delegations (Government agencies)",
+    "Blind",
+    "Broadband",
+    "Buildings and facilities",
+    "Business and industry",
+    "Cemeteries",
+    "Child support",
+    "Civil rights",
+    "Claims",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Community development block grants",
+    "Condominiums",
+    "Conflict of interests",
+    "Copyright",
+    "Courts",
+    "Credit",
+    "Crime",
+    "Cultural exchange programs",
+    "Day care",
+    "Defense Department",
+    "Dental health",
+    "Disability benefits",
+    "Drug abuse",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Energy conservation",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Estates",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Firefighters",
+    "Flags",
+    "Flood insurance",
+    "Foreign aid",
+    "Foreign currencies",
+    "Foreign relations",
+    "Foreign trade",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Government property management",
+    "Grant administrations",
+    "Grant programs",
+    "Grant programs-Indians",
+    "Grant programs-agriculture",
+    "Grant programs-business",
+    "Grant programs-communications",
+    "Grant programs-education",
+    "Grant programs-energy",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Grant programs-transportation",
+    "Grant programs-veterans",
+    "Guam",
+    "Health",
+    "Health care",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Health records",
+    "Highways and roads",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Housing",
+    "Human research subjects",
+    "Income taxes",
+    "Indians",
+    "Indians-education",
+    "Indians-lands",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Iraq",
+    "Kuwait",
+    "Labor",
+    "Law enforcement officers",
+    "Lawyers",
+    "Lebanon",
+    "Legal services",
+    "Life insurance",
+    "Loan programs",
+    "Loan programs-Indians",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-education",
+    "Loan programs-energy",
+    "Loan programs-health",
+    "Loan programs-housing and community development",
+    "Loan programs-social programs",
+    "Loan programs-veterans",
+    "Low and moderate income housing",
+    "Manpower training programs",
+    "Manufactured homes",
+    "Mass transportation",
+    "Medicaid",
+    "Medical and dental schools",
+    "Medical devices",
+    "Medical research",
+    "Medicare",
+    "Mental health programs",
+    "Migrant labor",
+    "Military personnel",
+    "Mortgage insurance",
+    "Mortgages",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Nursing homes",
+    "Organization and functions (Government agencies)",
+    "Pacific Islands Trust Territory",
+    "Parking",
+    "Penalties",
+    "Pets",
+    "Philippines",
+    "Postal Service",
+    "Prisons",
+    "Privacy",
+    "Private schools",
+    "Public assistance programs",
+    "Public housing",
+    "Puerto Rico",
+    "Radioactive materials",
+    "Railroad retirement",
+    "Railroad unemployment insurance",
+    "Railroads",
+    "Religious discrimination",
+    "Relocation assistance",
+    "Rent subsidies",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Retirement",
+    "Rural areas",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Seals and insignia",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Small businesses",
+    "Social security",
+    "State and local governments",
+    "Student aid",
+    "Supplemental Security Income (SSI)",
+    "Surety bonds",
+    "Teachers",
+    "Telecommunications",
+    "Telephone",
+    "Travel",
+    "Travel and transportation expenses",
+    "Treaties",
+    "Trusts and trustees",
+    "Unemployment compensation",
+    "Urban areas",
+    "Utilities",
+    "Veterans",
+    "Veterans Affairs Department",
+    "Vietnam",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Wages",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Women"
+  ],
+  "name": "Department of Veterans Affairs",
+  "request_time_stats": {
+    "2008": {
+      "complex_highest_days": "2104",
+      "complex_lowest_days": "1",
+      "expedited_processing_highest_days": "107",
+      "expedited_processing_lowest_days": "1",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2009": {
+      "complex_average_days": "36",
+      "complex_highest_days": "1583",
+      "complex_lowest_days": "1",
+      "complex_median_days": "55",
+      "expedited_processing_average_days": "3.5",
+      "expedited_processing_highest_days": "136",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1"
+    },
+    "2010": {
+      "complex_average_days": "14.23",
+      "complex_highest_days": "571",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "4",
+      "expedited_processing_average_days": "15.52",
+      "expedited_processing_highest_days": "121",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "3"
+    },
+    "2011": {
+      "complex_average_days": "16.29",
+      "complex_highest_days": "1748",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "5",
+      "expedited_processing_average_days": "4.07",
+      "expedited_processing_highest_days": "53",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "1.48",
+      "simple_highest_days": "8",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "less than 1"
+    },
+    "2012": {
+      "complex_average_days": "28.1",
+      "complex_highest_days": "733",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "12",
+      "expedited_processing_average_days": "34.77",
+      "expedited_processing_highest_days": "393",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "2.5",
+      "simple_average_days": "10.61",
+      "simple_highest_days": "444",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2013": {
+      "complex_average_days": "35.53",
+      "complex_highest_days": "1438",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "16",
+      "expedited_processing_average_days": "37.96",
+      "expedited_processing_highest_days": "176",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "14",
+      "simple_average_days": "16.71",
+      "simple_highest_days": "699",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    },
+    "2014": {
+      "complex_average_days": "36.23",
+      "complex_highest_days": "998",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "15",
+      "expedited_processing_average_days": "36",
+      "expedited_processing_highest_days": "287",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "19.5",
+      "simple_average_days": "15.36",
+      "simple_highest_days": "822",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    },
+    "2015": {
+      "complex_average_days": "46.16",
+      "complex_highest_days": "858",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "15",
+      "expedited_processing_average_days": "37.83",
+      "expedited_processing_highest_days": "322",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "6",
+      "simple_average_days": "24.88",
+      "simple_highest_days": "793",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    },
+    "2016": {
+      "complex_average_days": "57",
+      "complex_highest_days": "1216",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "65",
+      "expedited_processing_highest_days": "440",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "17",
+      "simple_average_days": "21",
+      "simple_highest_days": "3399",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    }
+  }
+}

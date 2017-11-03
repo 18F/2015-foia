@@ -1,0 +1,3587 @@
+{
+  "abbreviation": "USDA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Shelly Busky",
+          "FOIA Officer",
+          "AG Stop 0203, Room 2095-S"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-0273"
+      },
+      "emails": [
+        "AMS.FOIA@USDA.gov"
+      ],
+      "fax": "202-690-6469",
+      "foia_officer": {
+        "name": "William D. Allen IV",
+        "phone": [
+          "202-720-3785"
+        ]
+      },
+      "keywords": [
+        "Accounting",
+        "Administrative practice and procedure",
+        "Advertising",
+        "Advisory committees",
+        "Agricultural commodities",
+        "Agricultural research",
+        "Agriculture",
+        "Almonds",
+        "Animals",
+        "Apples",
+        "Apricots",
+        "Archives and records",
+        "Avocados",
+        "Blueberries",
+        "Brokers",
+        "Cattle",
+        "Cheese",
+        "Cherries",
+        "Citrus fruits",
+        "Claims",
+        "Commodity futures",
+        "Cotton",
+        "Cranberries",
+        "Dairy products",
+        "Dates",
+        "Eggs and egg products",
+        "Exports",
+        "Filberts",
+        "Fish",
+        "Food grades and standards",
+        "Food labeling",
+        "Food packaging",
+        "Foods",
+        "Freedom of information",
+        "Frozen foods",
+        "Fruit juices",
+        "Fruits",
+        "Goats",
+        "Government publications",
+        "Grapefruit",
+        "Grapes",
+        "Hazelnuts",
+        "Hogs",
+        "Honey",
+        "Imports",
+        "Investigations",
+        "Kiwifruit",
+        "Labeling",
+        "Laboratories",
+        "Limes",
+        "Livestock",
+        "Mango",
+        "Marketing agreements",
+        "Meat and meat products",
+        "Melons",
+        "Milk",
+        "Milk marketing orders",
+        "Mushrooms",
+        "Nectarines",
+        "Nuts",
+        "Oils and fats",
+        "Olives",
+        "Onions",
+        "Oranges",
+        "Peaches",
+        "Peanuts",
+        "Pears",
+        "Penalties",
+        "Pistachios",
+        "Plants",
+        "Plums",
+        "Popcorn",
+        "Potatoes",
+        "Poultry and poultry products",
+        "Prunes",
+        "Raisins",
+        "Reporting and recordkeeping requirements",
+        "Research",
+        "Seals and insignia",
+        "Seeds",
+        "Sheep",
+        "Soil conservation",
+        "Sorghum",
+        "Soybeans",
+        "Spearmint oil",
+        "Tangelos",
+        "Tangerines",
+        "Tobacco",
+        "Tomatoes",
+        "Trees",
+        "Vegetables",
+        "Voluntary standards",
+        "Walnuts",
+        "Warehouses",
+        "Watermelons"
+      ],
+      "name": "Agricultural Marketing Service",
+      "phone": "202-720-2763",
+      "public_liaison": {
+        "name": "William Allen",
+        "phone": [
+          "202-720-2498"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.ams.usda.gov/about-ams/foia/reading-room"
+        ]
+      ],
+      "request_form": "http://web01.aphis.usda.gov/FOIA_requests.nsf/8fc0cfab4edef04c852573990070cd6a?OpenForm",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "35",
+          "simple_highest_days": "206",
+          "simple_lowest_days": "1",
+          "simple_median_days": "32"
+        },
+        "2011": {
+          "complex_average_days": "50",
+          "complex_highest_days": "304",
+          "complex_lowest_days": "10",
+          "complex_median_days": "39",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "17",
+          "simple_highest_days": "83",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "87",
+          "complex_highest_days": "509",
+          "complex_lowest_days": "1",
+          "complex_median_days": "58",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "57",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "17",
+          "simple_highest_days": "68",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2013": {
+          "complex_average_days": "67.6",
+          "complex_highest_days": "436",
+          "complex_lowest_days": "1",
+          "complex_median_days": "26",
+          "simple_average_days": "16",
+          "simple_highest_days": "75",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2014": {
+          "complex_average_days": "74.46",
+          "complex_highest_days": "527",
+          "complex_lowest_days": "1",
+          "complex_median_days": "25",
+          "simple_average_days": "47.62",
+          "simple_highest_days": "514",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2015": {
+          "complex_average_days": "112.67",
+          "complex_highest_days": "751",
+          "complex_lowest_days": "1",
+          "complex_median_days": "48",
+          "simple_average_days": "25.43",
+          "simple_highest_days": "91",
+          "simple_lowest_days": "1",
+          "simple_median_days": "25"
+        },
+        "2016": {
+          "complex_average_days": "94.58",
+          "complex_highest_days": "328",
+          "complex_lowest_days": "1",
+          "complex_median_days": "59",
+          "simple_average_days": "36.69",
+          "simple_highest_days": "359",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-720-2763"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ams.usda.gov/about-ams/foia"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Tonya Woods",
+          "FOIA Director",
+          "Unit 50"
+        ],
+        "city": "Riverdale",
+        "state": "MD",
+        "street": "4700 River Road",
+        "zip": "20737-1232"
+      },
+      "emails": [
+        "foia.officer@aphis.usda.gov"
+      ],
+      "fax": "301-734-5941",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Agricultural commodities",
+        "Agricultural research",
+        "Animal biologics",
+        "Animal diseases",
+        "Animal feeds",
+        "Animal welfare",
+        "Animals",
+        "Authority delegations (Government agencies)",
+        "Bees",
+        "Bison",
+        "Cattle",
+        "Cervids",
+        "Civil rights",
+        "Coffee",
+        "Cotton",
+        "Cottonseeds",
+        "Customs duties and inspection",
+        "District of Columbia",
+        "Endangered and threatened species",
+        "Environmental impact statements",
+        "Equal access to justice",
+        "Exports",
+        "Fruits",
+        "Goats",
+        "Government employees",
+        "Guam",
+        "Hay",
+        "Hogs",
+        "Honey",
+        "Horses",
+        "Imports",
+        "Indemnity payments",
+        "Labeling",
+        "Laboratories",
+        "Law enforcement",
+        "Livestock",
+        "Marine mammals",
+        "Meat and meat products",
+        "Meat inspection",
+        "Medical research",
+        "Milk",
+        "Nursery stock",
+        "Organization and functions (Government agencies)",
+        "Packaging and containers",
+        "Pets",
+        "Plant diseases and pests",
+        "Plants",
+        "Postal Service",
+        "Poultry and poultry products",
+        "Puerto Rico",
+        "Quarantine",
+        "Reporting and recordkeeping requirements",
+        "Research",
+        "Rice",
+        "Seeds",
+        "Seizures and forfeitures",
+        "Sheep",
+        "Straw",
+        "Transportation",
+        "Travel and transportation expenses",
+        "Tuberculosis",
+        "Vegetables",
+        "Veterinarians",
+        "Virgin Islands",
+        "Wildlife"
+      ],
+      "misc": {
+        "FOIA Director": {
+          "name": "Tonya Woods",
+          "phone": [
+            "301-734-8296"
+          ]
+        }
+      },
+      "name": "Animal & Plant Health Inspection",
+      "notes": "* Please mail requests to FOIA.Officer@aphis.usda.gov only",
+      "phone": "301-851-4102",
+      "public_liaison": {
+        "name": "James Ivy",
+        "phone": [
+          "301-851-4102"
+        ]
+      },
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "368",
+          "complex_highest_days": "1042",
+          "complex_lowest_days": "12",
+          "complex_median_days": "322",
+          "expedited_processing_average_days": "383",
+          "expedited_processing_highest_days": "1189",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "161",
+          "simple_average_days": "112",
+          "simple_highest_days": "1106",
+          "simple_lowest_days": "1",
+          "simple_median_days": "46"
+        },
+        "2011": {
+          "complex_average_days": "350.06",
+          "complex_highest_days": "1027",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "320",
+          "expedited_processing_average_days": "38.67",
+          "expedited_processing_highest_days": "94",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "19",
+          "simple_average_days": "49.16",
+          "simple_highest_days": "729",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20"
+        },
+        "2012": {
+          "complex_average_days": "200.56",
+          "complex_highest_days": "534",
+          "complex_lowest_days": "1",
+          "complex_median_days": "146",
+          "expedited_processing_average_days": "119",
+          "expedited_processing_highest_days": "313",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "36",
+          "simple_average_days": "51.79",
+          "simple_highest_days": "843",
+          "simple_lowest_days": "1",
+          "simple_median_days": "26"
+        },
+        "2013": {
+          "complex_average_days": "160.3",
+          "complex_highest_days": "1162",
+          "complex_lowest_days": "15",
+          "complex_median_days": "76",
+          "expedited_processing_average_days": "43",
+          "expedited_processing_highest_days": "61",
+          "expedited_processing_lowest_days": "25",
+          "expedited_processing_median_days": "43",
+          "simple_average_days": "46.66",
+          "simple_highest_days": "629",
+          "simple_lowest_days": "1",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "complex_average_days": "185.71",
+          "complex_highest_days": "519",
+          "complex_lowest_days": "12",
+          "complex_median_days": "107",
+          "expedited_processing_average_days": "69.5",
+          "expedited_processing_highest_days": "132",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "72",
+          "simple_average_days": "80.17",
+          "simple_highest_days": "864",
+          "simple_lowest_days": "1",
+          "simple_median_days": "46"
+        },
+        "2015": {
+          "complex_average_days": "280.2",
+          "complex_highest_days": "1265",
+          "complex_lowest_days": "14",
+          "complex_median_days": "188",
+          "expedited_processing_average_days": "75",
+          "expedited_processing_highest_days": "75",
+          "expedited_processing_lowest_days": "75",
+          "expedited_processing_median_days": "75",
+          "simple_average_days": "96.46",
+          "simple_highest_days": "1101",
+          "simple_lowest_days": "1",
+          "simple_median_days": "42"
+        },
+        "2016": {
+          "complex_average_days": "233.58",
+          "complex_highest_days": "1201",
+          "complex_lowest_days": "1",
+          "complex_median_days": "122.5",
+          "expedited_processing_average_days": "109.33",
+          "expedited_processing_highest_days": "157",
+          "expedited_processing_lowest_days": "36",
+          "expedited_processing_median_days": "135",
+          "simple_average_days": "93.66",
+          "simple_highest_days": "836",
+          "simple_lowest_days": "1",
+          "simple_median_days": "50.5"
+        }
+      },
+      "service_center": {
+        "name": "Tonya Woods",
+        "phone": [
+          "301-851-4102"
+        ]
+      },
+      "top_level": false,
+      "website": "http://USDA APHIS | FOIA"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alexis R. Graves",
+          "Department FOIA Officer",
+          "Room 428-W"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-0706"
+      },
+      "emails": [
+        "usdafoia@ocio.usda.gov"
+      ],
+      "fax": "202-690-0068",
+      "name": "Departmental Management (OSEC/OCIO/ FOIA Service Center)",
+      "phone": "202-690-3318",
+      "public_liaison": {
+        "name": "Ravoyne Payton",
+        "phone": [
+          "202-690-0048"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "36",
+          "simple_highest_days": "96",
+          "simple_lowest_days": "1",
+          "simple_median_days": "22.5"
+        },
+        "2011": {
+          "expedited_processing_highest_days": "0",
+          "simple_average_days": "33",
+          "simple_highest_days": "103",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2012": {
+          "complex_average_days": "10.33",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "simple_average_days": "14.95",
+          "simple_highest_days": "92",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "name": "Marqui Barnes",
+        "phone": [
+          "202-694-1802"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kent Politsch",
+          "FOIA Officer",
+          "Stop 0506"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250"
+      },
+      "emails": [
+        "kent.politsch@wdc.usda.gov"
+      ],
+      "fax": "202-720-2979",
+      "foia_officer": {
+        "name": "Sue Ellen Sloca",
+        "phone": [
+          "202-720-1598"
+        ]
+      },
+      "keywords": [
+        "Accountants",
+        "Accounting",
+        "Acreage allotments",
+        "Administrative practice and procedure",
+        "Adult education",
+        "Aged",
+        "Agricultural commodities",
+        "Agriculture",
+        "Alaska",
+        "American Samoa",
+        "Animal feeds",
+        "Apples",
+        "Authority delegations (Government agencies)",
+        "Bankruptcy",
+        "Banks, banking",
+        "Barley",
+        "Beans",
+        "Blind",
+        "Broadband",
+        "Buildings and facilities",
+        "Business and industry",
+        "Cigars and cigarettes",
+        "Citrus fruits",
+        "Civil rights",
+        "Claims",
+        "Coal",
+        "Colleges and universities",
+        "Communications",
+        "Communications equipment",
+        "Community development",
+        "Confidential business information",
+        "Conflict of interests",
+        "Cooperatives",
+        "Copyright",
+        "Cotton",
+        "Cottonseeds",
+        "Cranberries",
+        "Credit",
+        "Crop insurance",
+        "Cultural exchange programs",
+        "Dairy products",
+        "Disaster assistance",
+        "Drug traffic control",
+        "Education",
+        "Education of disadvantaged",
+        "Education of individuals with disabilities",
+        "Educational facilities",
+        "Educational research",
+        "Educational study programs",
+        "Electric power",
+        "Electric power rates",
+        "Electric utilities",
+        "Elementary and secondary education",
+        "Employment",
+        "Endangered and threatened species",
+        "Energy",
+        "Energy conservation",
+        "Environmental impact statements",
+        "Environmental protection",
+        "Equal educational opportunity",
+        "Fair housing",
+        "Federally affected areas",
+        "Feed grains",
+        "Fire prevention",
+        "Fish",
+        "Flood insurance",
+        "Flood plains",
+        "Forests and forest products",
+        "Fraud",
+        "Fruits",
+        "Government contracts",
+        "Government employees",
+        "Government procurement",
+        "Government property",
+        "Government property management",
+        "Government securities",
+        "Grains",
+        "Grant programs",
+        "Grant programs-Indians",
+        "Grant programs-agriculture",
+        "Grant programs-business",
+        "Grant programs-communications",
+        "Grant programs-education",
+        "Grant programs-energy",
+        "Grant programs-health",
+        "Grant programs-housing and community development",
+        "Grant programs-natural resources",
+        "Grant programs-social programs",
+        "Grazing lands",
+        "Guam",
+        "Historic preservation",
+        "Home improvement",
+        "Homeless",
+        "Honey",
+        "Hospitals",
+        "Housing",
+        "Housing standards",
+        "Human research subjects",
+        "Imports",
+        "Income taxes",
+        "Indemnity payments",
+        "Indians",
+        "Indians-education",
+        "Individuals with disabilities",
+        "Insurance",
+        "Intergovernmental relations",
+        "International organizations",
+        "Inventions and patents",
+        "Investments",
+        "Legal services",
+        "Livestock",
+        "Loan programs",
+        "Loan programs-Indians",
+        "Loan programs-agriculture",
+        "Loan programs-business",
+        "Loan programs-communications",
+        "Loan programs-energy",
+        "Loan programs-housing and community development",
+        "Loan programs-natural resources",
+        "Lobbying",
+        "Low and moderate income housing",
+        "Manpower training programs",
+        "Manufactured homes",
+        "Marital status discrimination",
+        "Marketing quotas",
+        "Migrant labor",
+        "Military personnel",
+        "Minimum wages",
+        "Mohair",
+        "Mortgage insurance",
+        "Mortgages",
+        "National defense",
+        "National wild and scenic rivers system",
+        "Natural resources",
+        "Nonprofit organizations",
+        "Northern Mariana Islands",
+        "Nuclear energy",
+        "Nursery stock",
+        "Nuts",
+        "Oats",
+        "Oilseeds",
+        "Pacific Islands Trust Territory",
+        "Packaging and containers",
+        "Peanuts",
+        "Penalties",
+        "Plants",
+        "Price controls",
+        "Price support programs",
+        "Privacy",
+        "Private schools",
+        "Public housing",
+        "Religious discrimination",
+        "Rent subsidies",
+        "Reporting and recordkeeping requirements",
+        "Rice",
+        "Rural areas",
+        "Scholarships and fellowships",
+        "School construction",
+        "Schools",
+        "Science and technology",
+        "Securities",
+        "Seeds",
+        "Sewage disposal",
+        "Sex discrimination",
+        "Sheep",
+        "Small businesses",
+        "Soil conservation",
+        "Soybeans",
+        "State and local governments",
+        "Student aid",
+        "Sugar",
+        "Surety bonds",
+        "Surplus Government property",
+        "Taxes",
+        "Teachers",
+        "Technical assistance",
+        "Telecommunications",
+        "Telephone",
+        "Television",
+        "Tobacco",
+        "Transportation",
+        "Trees",
+        "Truth in lending",
+        "Uranium",
+        "Urban areas",
+        "Utilities",
+        "Veterans",
+        "Virgin Islands",
+        "Vocational education",
+        "Vocational rehabilitation",
+        "Volunteers",
+        "Wages",
+        "Warehouses",
+        "Waste treatment and disposal",
+        "Water pollution control",
+        "Water resources",
+        "Water supply",
+        "Watersheds",
+        "Wheat",
+        "Wildlife",
+        "Women",
+        "Wool",
+        "Youth"
+      ],
+      "name": "Farm Service Agency",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "202-720-7163",
+      "public_liaison": {
+        "name": "Barbara McLean",
+        "phone": [
+          "202-720-6788"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi-er"
+        ]
+      ],
+      "request_form": "http://www.fsa.usda.gov/FSA/eFOIARequest?area=newsroom&subject=landing&topic=efoia",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "18",
+          "complex_highest_days": "349",
+          "complex_lowest_days": "0",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "2",
+          "simple_highest_days": "200",
+          "simple_lowest_days": "0",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "16",
+          "complex_highest_days": "347",
+          "complex_lowest_days": "0",
+          "complex_median_days": "2",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "1",
+          "simple_highest_days": "165",
+          "simple_lowest_days": "0",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "15.2",
+          "complex_highest_days": "223",
+          "complex_lowest_days": "0",
+          "complex_median_days": "13",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "2.7",
+          "simple_highest_days": "746",
+          "simple_lowest_days": "0",
+          "simple_median_days": "1"
+        },
+        "2013": {
+          "complex_average_days": "15.5",
+          "complex_highest_days": "283",
+          "complex_lowest_days": "1",
+          "complex_median_days": "9",
+          "expedited_processing_average_days": "4",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "2.3",
+          "simple_highest_days": "247",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "1",
+          "complex_highest_days": "160",
+          "complex_lowest_days": "1",
+          "complex_median_days": "1",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "10",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "1",
+          "simple_highest_days": "1448",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "17.49",
+          "complex_highest_days": "505",
+          "complex_lowest_days": "1",
+          "complex_median_days": "4",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "3.26",
+          "simple_highest_days": "677",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "12.67",
+          "complex_highest_days": "96",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "23",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "1",
+          "simple_highest_days": "615",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-720-5534"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fsa.usda.gov/FSA/webapp?area=newsroom&subject=landing&topic=foi"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jennifer Weatherly",
+          "Agency FOIA Officer",
+          "Room 302"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "3101 Park Center Drive",
+        "zip": "22302"
+      },
+      "emails": [
+        "jennifer.weatherly@fns.usda.gov"
+      ],
+      "fax": "703-605-0793",
+      "foia_officer": {
+        "name": "Jennifer Weatherly",
+        "phone": [
+          "703-605-0773"
+        ]
+      },
+      "name": "Food, Nutrition & Consumer Services",
+      "phone": "703-605-0773",
+      "public_liaison": {
+        "name": "Vacant",
+        "phone": [
+          "703-605-0773"
+        ]
+      },
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19",
+          "simple_highest_days": "178",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2011": {
+          "complex_average_days": "33.5",
+          "complex_highest_days": "86",
+          "complex_lowest_days": "6",
+          "complex_median_days": "28.5",
+          "expedited_processing_highest_days": "65",
+          "expedited_processing_lowest_days": "65",
+          "simple_average_days": "25.88",
+          "simple_highest_days": "361",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "28.68",
+          "complex_highest_days": "262",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "14",
+          "expedited_processing_lowest_days": "14",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "26.18",
+          "simple_highest_days": "226",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2013": {
+          "complex_average_days": "28.67",
+          "complex_highest_days": "180",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "expedited_processing_average_days": "15.5",
+          "expedited_processing_highest_days": "45",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "8.5",
+          "simple_average_days": "17.43",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2014": {
+          "complex_average_days": "34",
+          "complex_highest_days": "78",
+          "complex_lowest_days": "1",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "13",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "27.76",
+          "simple_highest_days": "225",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2015": {
+          "complex_average_days": "27",
+          "complex_highest_days": "27",
+          "complex_lowest_days": "27",
+          "complex_median_days": "27",
+          "expedited_processing_average_days": "349",
+          "expedited_processing_highest_days": "349",
+          "expedited_processing_lowest_days": "349",
+          "expedited_processing_median_days": "349",
+          "simple_average_days": "34.95",
+          "simple_highest_days": "292",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2016": {
+          "complex_average_days": "116.62",
+          "complex_highest_days": "617",
+          "complex_lowest_days": "25",
+          "complex_median_days": "38",
+          "simple_average_days": "28.39",
+          "simple_highest_days": "485",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-605-0773"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fns.usda.gov/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Arianne Perkins",
+          "FOIA Director",
+          "Room 2170-South Building"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-3700"
+      },
+      "emails": [
+        "arianne.perkins@fsis.usda.gov"
+      ],
+      "fax": "202-690-3023",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Animal diseases",
+        "Animal welfare",
+        "Confidential business information",
+        "Crime",
+        "Eggs and egg products",
+        "Exports",
+        "Food additives",
+        "Food grades and standards",
+        "Food labeling",
+        "Food packaging",
+        "Freedom of information",
+        "Frozen foods",
+        "Government employees",
+        "Grant programs-agriculture",
+        "Imports",
+        "Intergovernmental relations",
+        "Laboratories",
+        "Livestock",
+        "Meat and meat products",
+        "Meat inspection",
+        "Nutrition",
+        "Oils and fats",
+        "Penalties",
+        "Polychlorinated biphenyls (PCB's)",
+        "Poultry and poultry products",
+        "Reporting and recordkeeping requirements",
+        "Seizures and forfeitures",
+        "Signs and symbols",
+        "Technical assistance",
+        "Transportation"
+      ],
+      "misc": {
+        "FOIA Contact": {
+          "name": "Shelia Wright",
+          "phone": [
+            "202-690-2760"
+          ]
+        }
+      },
+      "name": "Food Safety & Inspection Service",
+      "phone": "202-690-1787",
+      "public_liaison": {
+        "name": "Mark Brook",
+        "phone": [
+          "202-690-1787"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Electronic Reading Room",
+          "https://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "119",
+          "complex_highest_days": "643",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "43",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "44",
+          "simple_highest_days": "445",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "21"
+        },
+        "2011": {
+          "complex_average_days": "229.96",
+          "complex_highest_days": "848",
+          "complex_lowest_days": "0",
+          "complex_median_days": "167",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "60",
+          "simple_highest_days": "543",
+          "simple_lowest_days": "1",
+          "simple_median_days": "30"
+        },
+        "2012": {
+          "complex_average_days": "300.66",
+          "complex_highest_days": "863",
+          "complex_lowest_days": "5",
+          "complex_median_days": "260",
+          "simple_average_days": "56.54",
+          "simple_highest_days": "488",
+          "simple_lowest_days": "1",
+          "simple_median_days": "27"
+        },
+        "2013": {
+          "complex_average_days": "61",
+          "complex_highest_days": "90",
+          "complex_lowest_days": "9",
+          "complex_median_days": "71",
+          "simple_average_days": "29.39",
+          "simple_highest_days": "473",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2014": {
+          "complex_average_days": "808.23",
+          "complex_highest_days": "1055",
+          "complex_lowest_days": "336",
+          "complex_median_days": "841.5",
+          "simple_average_days": "48.73",
+          "simple_highest_days": "792",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2015": {
+          "complex_average_days": "309",
+          "complex_highest_days": "309",
+          "complex_lowest_days": "309",
+          "complex_median_days": "309",
+          "simple_average_days": "108.13",
+          "simple_highest_days": "636",
+          "simple_lowest_days": "1",
+          "simple_median_days": "63"
+        },
+        "2016": {
+          "complex_average_days": "252",
+          "complex_highest_days": "395",
+          "complex_lowest_days": "126",
+          "complex_median_days": "225",
+          "simple_average_days": "95.36",
+          "simple_highest_days": "543",
+          "simple_lowest_days": "1",
+          "simple_median_days": "50.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-690-3882"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fsis.usda.gov/FOIA/index.asp"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Rochelle Foster",
+          "FOIA Officer",
+          "Room 5607-S, Stop 1004"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "(202) 690-5261",
+        "zip": "20250-1004"
+      },
+      "emails": [
+        "Rochelle.Foster@fas.usda.gov"
+      ],
+      "foia_officer": {
+        "name": "Henry Noland",
+        "phone": [
+          "202-720-0154"
+        ]
+      },
+      "keywords": [
+        "Administrative practice and procedure",
+        "Agricultural commodities",
+        "Cheese",
+        "Exports",
+        "Food assistance programs",
+        "Foreign aid",
+        "Government procurement",
+        "Grant programs",
+        "Grant programs-agriculture",
+        "Imports",
+        "Reporting and recordkeeping requirements",
+        "Sugar",
+        "Technical assistance",
+        "Trade adjustment assistance"
+      ],
+      "name": "Foreign Agricultural Service",
+      "phone": "202-720-2936",
+      "public_liaison": {
+        "name": "Ellen Dougherty",
+        "phone": [
+          "202-720-3448"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FAS\u00a0FOIA Reading Room",
+          "https://www.fas.usda.gov/foia-reading-room"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24.2",
+          "simple_highest_days": "130",
+          "simple_lowest_days": "0.5",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "complex_average_days": "38.2",
+          "complex_highest_days": "69",
+          "complex_lowest_days": "19",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.5",
+          "simple_highest_days": "31",
+          "simple_lowest_days": "0.1",
+          "simple_median_days": "11"
+        },
+        "2012": {
+          "complex_average_days": "67.33",
+          "complex_highest_days": "189",
+          "complex_lowest_days": "9",
+          "complex_median_days": "57",
+          "expedited_processing_average_days": "3.5",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "10.22",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "65.5",
+          "complex_highest_days": "167",
+          "complex_lowest_days": "12",
+          "complex_median_days": "58",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "7.27",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2014": {
+          "complex_average_days": "45.55",
+          "complex_highest_days": "88",
+          "complex_lowest_days": "7",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "11.66",
+          "expedited_processing_highest_days": "15",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "5.28",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2015": {
+          "complex_average_days": "89.8",
+          "complex_highest_days": "185",
+          "complex_lowest_days": "34",
+          "complex_median_days": "78",
+          "expedited_processing_average_days": "128.5",
+          "expedited_processing_highest_days": "181",
+          "expedited_processing_lowest_days": "76",
+          "expedited_processing_median_days": "128.5",
+          "simple_average_days": "16",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "3",
+          "simple_median_days": "12"
+        },
+        "2016": {
+          "simple_average_days": "25",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "25",
+          "simple_median_days": "25"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-720-3101"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fas.usda.gov/freedom-information-act-foia"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Linda Lasko",
+          "FOIA/PA Officer - ATTN: FOIA/PA Team",
+          "Stop 1143"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-1143"
+      },
+      "emails": [
+        "wo_foia@fs.fed.us"
+      ],
+      "fax": "202-649-1167",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Agriculture",
+        "Alaska",
+        "Crime",
+        "Crop insurance",
+        "Education",
+        "Electric power",
+        "Environmental impact statements",
+        "Environmental protection",
+        "Exports",
+        "Fire prevention",
+        "Fish",
+        "Forests and forest products",
+        "Freedom of information",
+        "Government contracts",
+        "Government procurement",
+        "Grant programs",
+        "Grant programs-natural resources",
+        "Highways and roads",
+        "Indians",
+        "Indians-lands",
+        "Indians-tribal government",
+        "Intergovernmental relations",
+        "Investigations",
+        "Land sales",
+        "Law enforcement",
+        "Mineral resources",
+        "Mineral royalties",
+        "Miners",
+        "Mines",
+        "Museums",
+        "National forests",
+        "Natural resources",
+        "Navigation (air)",
+        "Nonprofit organizations",
+        "Oil and gas exploration",
+        "Organization and functions (Government agencies)",
+        "Penalties",
+        "Public lands",
+        "Public lands_mineral resources",
+        "Public lands_rights-of-way",
+        "Range management",
+        "Reclamation",
+        "Reporting and recordkeeping requirements",
+        "Research",
+        "Rights-of-way",
+        "Science and technology",
+        "Seizures and forfeitures",
+        "State and local governments",
+        "Surety bonds",
+        "Traffic regulations",
+        "Transportation",
+        "Water resources",
+        "Wilderness areas",
+        "Wildlife",
+        "Wildlife refuges"
+      ],
+      "misc": {
+        "FOIA/PA Officer - ATTN: FOIA/PA Team": {
+          "name": "Sherry Turner",
+          "phone": [
+            "202-205-2497"
+          ]
+        }
+      },
+      "name": "Forest Service - Headquarters",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "202-205-1542",
+      "public_liaison": {
+        "phone": [
+          "202-205-1542"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "38.5",
+          "complex_highest_days": "328",
+          "complex_lowest_days": "0",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16.42",
+          "simple_highest_days": "262",
+          "simple_lowest_days": "0",
+          "simple_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "45.25",
+          "complex_highest_days": "352",
+          "complex_lowest_days": "0",
+          "complex_median_days": "25.5",
+          "expedited_processing_average_days": "6.14",
+          "expedited_processing_highest_days": "24",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "23.92",
+          "simple_highest_days": "590",
+          "simple_lowest_days": "0",
+          "simple_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "43.27",
+          "complex_highest_days": "421",
+          "complex_lowest_days": "1",
+          "complex_median_days": "25",
+          "expedited_processing_average_days": "23.12",
+          "expedited_processing_highest_days": "81",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "16",
+          "simple_average_days": "21.92",
+          "simple_highest_days": "617",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2013": {
+          "complex_average_days": "47.36",
+          "complex_highest_days": "575",
+          "complex_lowest_days": "1",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "9.8",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "21.71",
+          "simple_highest_days": "615",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2014": {
+          "complex_average_days": "51.84",
+          "complex_highest_days": "708",
+          "complex_lowest_days": "1",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "31",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "27.29",
+          "simple_highest_days": "705",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2015": {
+          "complex_average_days": "57.2",
+          "complex_highest_days": "1074",
+          "complex_lowest_days": "1",
+          "complex_median_days": "38",
+          "expedited_processing_average_days": "13.83",
+          "expedited_processing_highest_days": "62",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "30.97",
+          "simple_highest_days": "801",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2016": {
+          "complex_average_days": "79.59",
+          "complex_highest_days": "1682",
+          "complex_lowest_days": "1",
+          "complex_median_days": "36",
+          "expedited_processing_average_days": "72.67",
+          "expedited_processing_highest_days": "213",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "33.01",
+          "simple_highest_days": "1207",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-205-1542"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fs.fed.us/im/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Dexter Thomas",
+          "FOIA Officer",
+          "Room 2526"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-3642"
+      },
+      "emails": [
+        "R.Dexter.Thomas@usda.gov"
+      ],
+      "fax": "202-720-0774",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Agricultural commodities",
+        "Archives and records",
+        "Confidential business information",
+        "Conflict of interests",
+        "Exports",
+        "Freedom of information",
+        "Government contracts",
+        "Grains",
+        "Hogs",
+        "Intergovernmental relations",
+        "Livestock",
+        "Measurement standards",
+        "Penalties",
+        "Poultry and poultry products",
+        "Reporting and recordkeeping requirements",
+        "Rice",
+        "Scientific equipment",
+        "Stockyards",
+        "Surety bonds",
+        "Trade practices"
+      ],
+      "misc": {
+        "FOIA/PA Officer": {
+          "name": "Joanne Peterson",
+          "phone": [
+            "202-720-8087"
+          ]
+        }
+      },
+      "name": "Grain Inspection, Packers & Stockyards Administration",
+      "phone": "202-720-6529",
+      "public_liaison": {
+        "name": "Dexter Thomas",
+        "phone": [
+          "202-720-6529"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.gipsa.usda.gov/foia/foia.aspx"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "76",
+          "complex_highest_days": "133",
+          "complex_lowest_days": "37",
+          "complex_median_days": "44",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "7.4",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2011": {
+          "complex_average_days": "60",
+          "complex_highest_days": "91",
+          "complex_lowest_days": "14",
+          "complex_median_days": "74",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "52",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2012": {
+          "complex_average_days": "40.94",
+          "complex_highest_days": "113",
+          "complex_lowest_days": "1",
+          "complex_median_days": "32.5",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "8.13",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "complex_average_days": "61.27",
+          "complex_highest_days": "244",
+          "complex_lowest_days": "3",
+          "complex_median_days": "33",
+          "simple_average_days": "4.46",
+          "simple_highest_days": "32",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "complex_average_days": "19.23",
+          "complex_highest_days": "38",
+          "complex_lowest_days": "6",
+          "complex_median_days": "17",
+          "simple_average_days": "7.75",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6.5"
+        },
+        "2015": {
+          "complex_average_days": "21.96",
+          "complex_highest_days": "52",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13",
+          "simple_average_days": "5.47",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "30.89",
+          "complex_highest_days": "110",
+          "complex_lowest_days": "4",
+          "complex_median_days": "24",
+          "simple_average_days": "4.33",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-720-6529"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.gipsa.usda.gov/foia/foia_guide.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Brenda V. Seegars",
+          "FOIA Officer and Legal Affairs Officer",
+          "Room 1100"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "3101 Park Center Drive",
+        "zip": "22302"
+      },
+      "emails": [
+        "Brenda.Seegars@nad.usda.gov"
+      ],
+      "fax": "703-305-2825",
+      "foia_officer": {
+        "name": "Brenda V. Seegars",
+        "phone": [
+          "703-305-1164"
+        ]
+      },
+      "name": "National Appeals Division",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "703-305-1164",
+      "public_liaison": {
+        "name": "Brenda V. Seegars",
+        "phone": [
+          "703-305-1164"
+        ]
+      },
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3",
+          "simple_highest_days": "11",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "simple_average_days": "8",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "simple_average_days": "11",
+          "simple_highest_days": "70",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "simple_average_days": "16.5",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-305-1164"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nad.usda.gov/foia.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Cheri Alsobrook/Sandy Fran?ois",
+          "FOIA Officer"
+        ],
+        "city": "New Orleans",
+        "state": "LA",
+        "street": "P.O. Box 60000",
+        "zip": "70160"
+      },
+      "emails": [
+        "sandy.francois@nfc.usda.gov"
+      ],
+      "fax": "303-205-3202",
+      "foia_officer": {
+        "name": "John Hemstreet",
+        "phone": [
+          "504-426-0168"
+        ]
+      },
+      "name": "National Finance Center",
+      "phone": "504-426-0300",
+      "public_liaison": {
+        "name": "Cheri Alsobrook",
+        "phone": [
+          "504-426-0374"
+        ]
+      },
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "service_center": {
+        "name": "Sandy Fran?ois",
+        "phone": [
+          "504-426-0300"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.nfc.usda.gov/FOIA/FOIA_home.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Patrick McLoughlin",
+          "National FOIA Officer"
+        ],
+        "city": "St Paul",
+        "state": "MN",
+        "street": "375 Jackson St., Ste. 600",
+        "zip": "55101"
+      },
+      "emails": [
+        "patrick.mcloughlin@wdc.usda.gov"
+      ],
+      "fax": "651-602-7914",
+      "foia_officer": {
+        "name": "Deryl Richardson",
+        "phone": [
+          "202-690-4985"
+        ]
+      },
+      "keywords": [
+        "Administrative practice and procedure",
+        "Agricultural commodities",
+        "Agriculture",
+        "Animals",
+        "Disaster assistance",
+        "Endangered and threatened species",
+        "Environmental impact statements",
+        "Environmental protection",
+        "Fishing",
+        "Flood plains",
+        "Forests and forest products",
+        "Government contracts",
+        "Grant programs",
+        "Hunting",
+        "Indians",
+        "Indians-lands",
+        "Natural Resources Conservation Service",
+        "Natural resources",
+        "Plants",
+        "Reporting and recordkeeping requirements",
+        "Rural areas",
+        "Soil conservation",
+        "State and local governments",
+        "Technical assistance",
+        "Water resources",
+        "Watersheds",
+        "Wildlife"
+      ],
+      "name": "Natural Resources Conservation Service",
+      "phone": "202-590-6168",
+      "public_liaison": {
+        "name": "Philip Buchan",
+        "phone": [
+          "301-504-1701"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Freedom of Information Act (FOIA) Reading Room",
+          "https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=nrcseprd815406%20"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "14",
+          "complex_highest_days": "26",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2011": {
+          "complex_average_days": "22",
+          "complex_highest_days": "55",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "49.3",
+          "complex_highest_days": "109",
+          "complex_lowest_days": "1",
+          "complex_median_days": "44",
+          "simple_average_days": "17.38",
+          "simple_highest_days": "177",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "33",
+          "complex_highest_days": "107",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "simple_average_days": "19.39",
+          "simple_highest_days": "274",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10.5"
+        },
+        "2014": {
+          "complex_average_days": "124.73",
+          "complex_highest_days": "562",
+          "complex_lowest_days": "1",
+          "complex_median_days": "58",
+          "expedited_processing_average_days": "150",
+          "expedited_processing_highest_days": "188",
+          "expedited_processing_lowest_days": "112",
+          "expedited_processing_median_days": "150",
+          "simple_average_days": "86.59",
+          "simple_highest_days": "549",
+          "simple_lowest_days": "1",
+          "simple_median_days": "26"
+        },
+        "2015": {
+          "complex_average_days": "46.09",
+          "complex_highest_days": "523",
+          "complex_lowest_days": "1",
+          "complex_median_days": "22.5",
+          "simple_average_days": "27.62",
+          "simple_highest_days": "572",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "complex_average_days": "53.9",
+          "complex_highest_days": "282",
+          "complex_lowest_days": "1",
+          "complex_median_days": "29.5",
+          "expedited_processing_average_days": "83.33",
+          "expedited_processing_highest_days": "236",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "50.66",
+          "simple_highest_days": "762",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "name": "Patrick McLoughlin",
+        "phone": [
+          "202-590-6168"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/?cid=nrcs143_021450"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Room 102-E"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "Whitten Building",
+        "zip": "20250"
+      },
+      "emails": [
+        "FOIA@obpa.usda.gov"
+      ],
+      "fax": "202-690-3673",
+      "misc": {
+        "FOIA/PA Officer": {
+          "name": "Julie Hetrick",
+          "phone": [
+            "202-720-1269"
+          ]
+        }
+      },
+      "name": "Office of Budget & Program Analysis",
+      "phone": "202-720-1269",
+      "public_liaison": {
+        "name": "Andrew Perry",
+        "phone": [
+          "202-720-1276"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "0",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "0.332",
+          "complex_highest_days": "15",
+          "complex_lowest_days": "7",
+          "complex_median_days": "7",
+          "simple_average_days": "0.83",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "0",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "simple_average_days": "6.4",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "0",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "34.5",
+          "complex_highest_days": "73",
+          "complex_lowest_days": "9",
+          "complex_median_days": "28",
+          "simple_average_days": "8.45",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2014": {
+          "complex_average_days": "53",
+          "complex_highest_days": "53",
+          "complex_lowest_days": "53",
+          "complex_median_days": "53",
+          "simple_average_days": "8.29",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "2",
+          "simple_median_days": "11"
+        },
+        "2015": {
+          "simple_average_days": "5.1",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "1",
+          "complex_highest_days": "1",
+          "complex_lowest_days": "1",
+          "complex_median_days": "1",
+          "simple_average_days": "3.2",
+          "simple_highest_days": "9",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "name": "Julie Hetrick",
+        "phone": [
+          "202-720-1269"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Iris Roseboro",
+          "FOIA Officer",
+          "Room 3414-South Building"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "Stop Box 9020",
+        "zip": "20250"
+      },
+      "emails": [
+        "iris.roseboro@cfo.usda.gov"
+      ],
+      "fax": "202-690-3536",
+      "foia_officer": {
+        "name": "Richard Saafeld",
+        "phone": [
+          "202-720-0995"
+        ]
+      },
+      "keywords": [
+        "Accounting",
+        "Administrative practice and procedure",
+        "Adult education",
+        "Aged",
+        "Agriculture",
+        "American Samoa",
+        "Blind",
+        "Broadband",
+        "Business and industry",
+        "Civil rights",
+        "Colleges and universities",
+        "Communications",
+        "Community development",
+        "Copyright",
+        "Credit",
+        "Cultural exchange programs",
+        "Education",
+        "Education of disadvantaged",
+        "Education of individuals with disabilities",
+        "Educational facilities",
+        "Educational research",
+        "Educational study programs",
+        "Electric power",
+        "Electric power rates",
+        "Electric utilities",
+        "Elementary and secondary education",
+        "Employment",
+        "Equal educational opportunity",
+        "Federally affected areas",
+        "Government contracts",
+        "Grant programs",
+        "Grant programs-education",
+        "Grant programs-health",
+        "Grant programs-housing and community development",
+        "Grant programs-social programs",
+        "Guam",
+        "Home improvement",
+        "Homeless",
+        "Hospitals",
+        "Human research subjects",
+        "Indians",
+        "Indians-education",
+        "Insurance",
+        "Intergovernmental relations",
+        "International organizations",
+        "Inventions and patents",
+        "Loan programs",
+        "Loan programs-agriculture",
+        "Loan programs-business",
+        "Loan programs-communications",
+        "Loan programs-energy",
+        "Loan programs-housing and community development",
+        "Manpower training programs",
+        "Migrant labor",
+        "Mortgage insurance",
+        "Mortgages",
+        "Nonprofit organizations",
+        "Northern Mariana Islands",
+        "Pacific Islands Trust Territory",
+        "Privacy",
+        "Private schools",
+        "Reporting and recordkeeping requirements",
+        "Rural areas",
+        "Scholarships and fellowships",
+        "School construction",
+        "Schools",
+        "Science and technology",
+        "Securities",
+        "Small businesses",
+        "State and local governments",
+        "Student aid",
+        "Teachers",
+        "Telecommunications",
+        "Telephone",
+        "Urban areas",
+        "Veterans",
+        "Virgin Islands",
+        "Vocational education",
+        "Vocational rehabilitation",
+        "Waste treatment and disposal",
+        "Water pollution control",
+        "Water resources",
+        "Water supply",
+        "Watersheds",
+        "Women"
+      ],
+      "name": "Office of the Chief Financial Officer",
+      "phone": "202-720-6257",
+      "public_liaison": {
+        "name": "Cheri Alsobrook",
+        "phone": [
+          "504-426-0374"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "19",
+          "complex_highest_days": "19",
+          "complex_lowest_days": "0",
+          "complex_median_days": "19",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "31",
+          "complex_highest_days": "31",
+          "complex_lowest_days": "31",
+          "complex_median_days": "31",
+          "simple_average_days": "7",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "complex_average_days": "17.17",
+          "complex_highest_days": "24",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "simple_average_days": "19.04",
+          "simple_highest_days": "73",
+          "simple_lowest_days": "3",
+          "simple_median_days": "15"
+        },
+        "2013": {
+          "complex_average_days": "21.5",
+          "complex_highest_days": "23",
+          "complex_lowest_days": "20",
+          "complex_median_days": "21.5",
+          "simple_average_days": "7.33",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "simple_average_days": "120.62",
+          "simple_highest_days": "234",
+          "simple_lowest_days": "1",
+          "simple_median_days": "130.5"
+        },
+        "2015": {
+          "simple_average_days": "55.6",
+          "simple_highest_days": "143",
+          "simple_lowest_days": "3",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "name": "Cheri Alsobrook",
+        "phone": [
+          "504-426-0374"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alexis R. Graves",
+          "Department FOIA Officer",
+          "Room 428-W"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-0706"
+      },
+      "emails": [
+        "usdafoia@ocio.usda.gov"
+      ],
+      "fax": "202-690-0068",
+      "name": "Office of the Chief Information Officer (OSEC/OCIO/ FOIA Service Center)",
+      "phone": "202-690-3318",
+      "public_liaison": {
+        "name": "Ravoyne Payton",
+        "phone": [
+          "202-720-6355"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "50.6",
+          "complex_highest_days": "242",
+          "complex_lowest_days": "4",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "8.3",
+          "expedited_processing_highest_days": "15",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "11.5",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2012": {
+          "complex_average_days": "168.4",
+          "complex_highest_days": "642",
+          "complex_lowest_days": "1",
+          "complex_median_days": "102",
+          "expedited_processing_average_days": "71",
+          "expedited_processing_highest_days": "97",
+          "expedited_processing_lowest_days": "45",
+          "expedited_processing_median_days": "71",
+          "simple_average_days": "142.36",
+          "simple_highest_days": "774",
+          "simple_lowest_days": "1",
+          "simple_median_days": "28"
+        }
+      },
+      "service_center": {
+        "name": "Marqui Barnes",
+        "phone": [
+          "202-694-1802"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Carl-Martin Ruiz",
+          "FOIA Officer"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-9410"
+      },
+      "emails": [
+        "ascrfoia@usda.gov"
+      ],
+      "fax": "202-690-7442",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Advisory committees",
+        "Civil rights",
+        "Claims",
+        "Conflict of interests",
+        "Equal employment opportunity",
+        "Federal buildings and facilities",
+        "Freedom of information",
+        "Government employees",
+        "Individuals with disabilities",
+        "Organization and functions (Government agencies)",
+        "Privacy",
+        "Sunshine Act"
+      ],
+      "misc": {
+        "Director, Office of Adjudication and Compliance": {
+          "name": "Michael G. Watts",
+          "phone": [
+            "202-720-5212"
+          ]
+        }
+      },
+      "name": "Office of Civil Rights",
+      "phone": "202-720-5212",
+      "public_liaison": {
+        "name": "Samantha Jones",
+        "phone": [
+          "202-720-5212"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic FOIA Reading Room (E-FOIA)",
+          "https://www.ascr.usda.gov/electronic-foia-reading-room-e-foia"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2011": {
+          "complex_average_days": "32",
+          "complex_highest_days": "32",
+          "complex_lowest_days": "32",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.68",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9.5"
+        },
+        "2012": {
+          "complex_average_days": "119",
+          "complex_highest_days": "119",
+          "complex_lowest_days": "119",
+          "complex_median_days": "119",
+          "simple_average_days": "18.65",
+          "simple_highest_days": "55",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18.5"
+        },
+        "2013": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "11.91",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2014": {
+          "complex_average_days": "73.5",
+          "complex_highest_days": "128",
+          "complex_lowest_days": "19",
+          "complex_median_days": "73.5",
+          "simple_average_days": "12.94",
+          "simple_highest_days": "32",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "6.5",
+          "complex_highest_days": "9",
+          "complex_lowest_days": "3",
+          "complex_median_days": "7",
+          "simple_average_days": "13.79",
+          "simple_highest_days": "111",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "36.17",
+          "complex_highest_days": "76",
+          "complex_lowest_days": "8",
+          "complex_median_days": "27",
+          "simple_average_days": "11.33",
+          "simple_highest_days": "32",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        }
+      },
+      "service_center": {
+        "name": "Samantha Jones",
+        "phone": [
+          "202-720-5212"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.ascr.usda.gov/freedom-information-act-foia"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Danielle Duvall Adams",
+          "FOIA Officer",
+          "Room 2023-A"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-1415"
+      },
+      "emails": [
+        "foiaofficerogc@ogc.usda.gov"
+      ],
+      "fax": "202-720-5837",
+      "foia_officer": {
+        "name": "Betty Ollila",
+        "phone": [
+          "202-720-5824"
+        ]
+      },
+      "name": "Office of the General Counsel",
+      "phone": "202-378-1074",
+      "public_liaison": {
+        "name": "Karen M. Carrington",
+        "phone": [
+          "202-720-5565"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "75",
+          "simple_highest_days": "581",
+          "simple_lowest_days": "3",
+          "simple_median_days": "28"
+        },
+        "2011": {
+          "simple_average_days": "64",
+          "simple_highest_days": "969",
+          "simple_lowest_days": "0",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "simple_average_days": "157",
+          "simple_highest_days": "954",
+          "simple_lowest_days": "0",
+          "simple_median_days": "23"
+        },
+        "2013": {
+          "simple_average_days": "58",
+          "simple_highest_days": "262",
+          "simple_lowest_days": "1",
+          "simple_median_days": "36"
+        },
+        "2014": {
+          "simple_average_days": "131",
+          "simple_highest_days": "1476",
+          "simple_lowest_days": "1",
+          "simple_median_days": "40"
+        },
+        "2015": {
+          "simple_average_days": "144",
+          "simple_highest_days": "547",
+          "simple_lowest_days": "1",
+          "simple_median_days": "31"
+        },
+        "2016": {
+          "simple_average_days": "51",
+          "simple_highest_days": "128",
+          "simple_lowest_days": "14",
+          "simple_median_days": "44"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-720-5565"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alison Decker",
+          "FOIA Officer",
+          "Room 441-E Whitten Bldg."
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250"
+      },
+      "emails": [
+        "alison.decker@oig.usda.gov"
+      ],
+      "fax": "202-690-6305",
+      "name": "Office of the Inspector General",
+      "phone": "202-720-5677",
+      "public_liaison": {
+        "name": "Albert Stewart",
+        "phone": [
+          "202-690-0048"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "156",
+          "complex_highest_days": "778",
+          "complex_lowest_days": "41",
+          "complex_median_days": "100",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "2",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "complex_average_days": "47",
+          "complex_highest_days": "489",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "305",
+          "simple_lowest_days": "2",
+          "simple_median_days": "16"
+        },
+        "2012": {
+          "complex_average_days": "68",
+          "complex_highest_days": "133",
+          "complex_lowest_days": "31",
+          "complex_median_days": "64",
+          "simple_average_days": "13",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2013": {
+          "complex_average_days": "46",
+          "complex_highest_days": "283",
+          "complex_lowest_days": "33",
+          "complex_median_days": "42",
+          "simple_average_days": "25",
+          "simple_highest_days": "79",
+          "simple_lowest_days": "6",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "complex_average_days": "214",
+          "complex_highest_days": "682",
+          "complex_lowest_days": "42",
+          "complex_median_days": "141",
+          "simple_average_days": "85",
+          "simple_highest_days": "413",
+          "simple_lowest_days": "2",
+          "simple_median_days": "61"
+        },
+        "2015": {
+          "complex_average_days": "254",
+          "complex_highest_days": "606",
+          "complex_lowest_days": "46",
+          "complex_median_days": "200",
+          "simple_average_days": "115",
+          "simple_highest_days": "612",
+          "simple_lowest_days": "4",
+          "simple_median_days": "76"
+        },
+        "2016": {
+          "complex_average_days": "284.85",
+          "complex_highest_days": "950",
+          "complex_lowest_days": "1",
+          "complex_median_days": "187",
+          "simple_average_days": "51",
+          "simple_highest_days": "294",
+          "simple_lowest_days": "3",
+          "simple_median_days": "31.5"
+        }
+      },
+      "top_level": false
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alexis R. Graves",
+          "Department FOIA Officer",
+          "Room 428-W"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-0706"
+      },
+      "emails": [
+        "usdafoia@ocio.usda.gov"
+      ],
+      "fax": "202-690-0068",
+      "name": "Office of the Secretary (OSEC/OCIO/ FOIA Service Center)",
+      "phone": "202-690-3318",
+      "public_liaison": {
+        "name": "Ravoyne Payton",
+        "phone": [
+          "202-690-0048"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USDA Agencies' FOIA Reading Rooms",
+          "https://www.dm.usda.gov/foia/agencyfoia.htm"
+        ]
+      ],
+      "service_center": {
+        "name": "Marqui Barnes",
+        "phone": [
+          "202-694-1802"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dm.usda.gov/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kimberly Morris",
+          "FOIA Officer",
+          "Room 6609-S, Stop 0801"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250"
+      },
+      "emails": [
+        "FOIA@rma.usda.gov"
+      ],
+      "fax": "202-720-1162",
+      "foia_officer": {
+        "name": "Bill Crews",
+        "phone": [
+          "202-720-9507"
+        ]
+      },
+      "name": "Risk Management Agency",
+      "phone": "202-690-3041",
+      "public_liaison": {
+        "name": "Vacant",
+        "phone": [
+          "202-260-8252"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "RMA Electronic Reading Room",
+          "https://www.rma.usda.gov/aboutrma/foia/reading.html"
+        ]
+      ],
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "32",
+          "complex_highest_days": "89",
+          "complex_lowest_days": "6",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "59",
+          "complex_highest_days": "470",
+          "complex_lowest_days": "5",
+          "complex_median_days": "31",
+          "simple_average_days": "14",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "11.5",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "3",
+          "complex_median_days": "11.5",
+          "expedited_processing_average_days": "17.5",
+          "expedited_processing_highest_days": "29",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "17.5",
+          "simple_average_days": "18.57",
+          "simple_highest_days": "95",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2013": {
+          "complex_average_days": "107.83",
+          "complex_highest_days": "799",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14.5",
+          "simple_average_days": "29.3",
+          "simple_highest_days": "282",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2014": {
+          "complex_average_days": "61.62",
+          "complex_highest_days": "200",
+          "complex_lowest_days": "1",
+          "complex_median_days": "14.5",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "4",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "21.22",
+          "simple_highest_days": "317",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2015": {
+          "complex_average_days": "100.97",
+          "complex_highest_days": "753",
+          "complex_lowest_days": "1",
+          "complex_median_days": "7",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "12.11",
+          "simple_highest_days": "82",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "60.6",
+          "complex_highest_days": "509",
+          "complex_lowest_days": "1",
+          "complex_median_days": "9",
+          "simple_average_days": "14.06",
+          "simple_highest_days": "408",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-690-3041"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.rma.usda.gov/aboutrma/foia/foia.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stasia Hutchison",
+          "FOIA Officer",
+          "Room 1-2248 - Building GWCC, Mail Stop 5128"
+        ],
+        "city": "Beltsville",
+        "state": "MD",
+        "street": "5601 Sunnyside Avenue",
+        "zip": "20705-5128"
+      },
+      "emails": [
+        "stasia.hutchison@ars.usda.gov"
+      ],
+      "fax": "301-504-1647",
+      "foia_officer": {
+        "name": "Stasia Hutchison and Monica Williams",
+        "phone": [
+          "301-504-1655",
+          "301-504-1640"
+        ]
+      },
+      "name": "Research, Education & Economics",
+      "notes": "This office processes records for USDA's Research, Education, Economic (REE) agencies, Agricultural Research Service, Economic Research Service, National Agricultural Statistics Service, and National Institute of Food and Agriculture.",
+      "phone": "301-504-1655",
+      "public_liaison": {
+        "name": "Chris Bentley",
+        "phone": [
+          "301-504-1743"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading room",
+          "https://www.ars.usda.gov/oc/foia/foia-reference-guide-reading-room/"
+        ]
+      ],
+      "request_form": "http://www.ars.usda.gov/is/foia/foiaform.htm",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "13",
+          "complex_highest_days": "32",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "13",
+          "complex_highest_days": "45",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13",
+          "expedited_processing_average_days": "17.5",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "17",
+          "expedited_processing_median_days": "17",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2012": {
+          "complex_average_days": "18",
+          "complex_highest_days": "80",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18",
+          "expedited_processing_average_days": "20",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "20",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "7.8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "18.63",
+          "complex_highest_days": "89",
+          "complex_lowest_days": "1",
+          "complex_median_days": "19",
+          "simple_average_days": "9.53",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2014": {
+          "complex_average_days": "19.32",
+          "complex_highest_days": "59",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "simple_average_days": "8.33",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "complex_average_days": "19.04",
+          "complex_highest_days": "70",
+          "complex_lowest_days": "1",
+          "complex_median_days": "19",
+          "simple_average_days": "10.51",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "complex_average_days": "26.55",
+          "complex_highest_days": "106",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "simple_average_days": "12.69",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-504-1743"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ars.usda.gov/Services/docs.htm?docid=1398"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Lolita Ellis",
+          "FOIA/PA Officer",
+          "Stop 0706"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1400 Independence Avenue, SW",
+        "zip": "20250-0706"
+      },
+      "fax": "202-692-0034",
+      "misc": {
+        "FOIA/PA Officer": {
+          "name": "Sara Bradshaw",
+          "phone": [
+            "202-692-0015"
+          ]
+        }
+      },
+      "name": "Rural Development",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "202-692-0004",
+      "public_liaison": {
+        "name": "Joseph Shunk",
+        "phone": [
+          "202-692-0032"
+        ]
+      },
+      "request_form": "https://efoia-pal.usda.gov/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "112",
+          "complex_highest_days": "239",
+          "complex_lowest_days": "14",
+          "complex_median_days": "131",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "45",
+          "simple_highest_days": "999",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "60",
+          "complex_highest_days": "364",
+          "complex_lowest_days": "3",
+          "complex_median_days": "13"
+        },
+        "2012": {
+          "complex_average_days": "176.72",
+          "complex_highest_days": "447",
+          "complex_lowest_days": "55",
+          "complex_median_days": "144",
+          "simple_average_days": "52.01",
+          "simple_highest_days": "253",
+          "simple_lowest_days": "1",
+          "simple_median_days": "34"
+        },
+        "2013": {
+          "complex_average_days": "136.82",
+          "complex_highest_days": "1145",
+          "complex_lowest_days": "5",
+          "complex_median_days": "87",
+          "simple_average_days": "83.7",
+          "simple_highest_days": "351",
+          "simple_lowest_days": "1",
+          "simple_median_days": "48.5"
+        },
+        "2014": {
+          "complex_average_days": "336.09",
+          "complex_highest_days": "849",
+          "complex_lowest_days": "2",
+          "complex_median_days": "335",
+          "simple_average_days": "261.28",
+          "simple_highest_days": "1097",
+          "simple_lowest_days": "1",
+          "simple_median_days": "63.5"
+        },
+        "2015": {
+          "complex_average_days": "396.39",
+          "complex_highest_days": "1162",
+          "complex_lowest_days": "1",
+          "complex_median_days": "478",
+          "expedited_processing_average_days": "10.5",
+          "expedited_processing_highest_days": "12",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "10.5",
+          "simple_average_days": "188.05",
+          "simple_highest_days": "961",
+          "simple_lowest_days": "1",
+          "simple_median_days": "38"
+        },
+        "2016": {
+          "complex_average_days": "110.8",
+          "complex_highest_days": "1461",
+          "complex_lowest_days": "3",
+          "complex_median_days": "27",
+          "expedited_processing_average_days": "6",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "22.58",
+          "simple_highest_days": "456",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        }
+      },
+      "service_center": {
+        "name": "Stephen Grady",
+        "phone": [
+          "202-690-5261"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.rurdev.usda.gov/RD_EFOIA.html"
+    }
+  ],
+  "description": "USDA provides leadership on food, agriculture, natural resources, and related issues based on sound public policy, the best available science, and efficient management.",
+  "keywords": [
+    "Accountants",
+    "Accounting",
+    "Acreage allotments",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Advertising",
+    "Advisory committees",
+    "Aged",
+    "Agency for International Development",
+    "Agricultural commodities",
+    "Agricultural research",
+    "Agriculture",
+    "Airports",
+    "Alaska",
+    "Alcohol abuse",
+    "Alcoholism",
+    "Aliens",
+    "Almonds",
+    "American Samoa",
+    "Animal biologics",
+    "Animal diseases",
+    "Animal feeds",
+    "Animal welfare",
+    "Animals",
+    "Antitrust",
+    "Apples",
+    "Apricots",
+    "Archives and records",
+    "Authority delegations (Government agencies)",
+    "Avocados",
+    "Bankruptcy",
+    "Banks, banking",
+    "Barley",
+    "Beans",
+    "Bees",
+    "Bison",
+    "Blind",
+    "Blueberries",
+    "Broadband",
+    "Brokers",
+    "Buildings and facilities",
+    "Business and industry",
+    "Cattle",
+    "Cervids",
+    "Cheese",
+    "Cherries",
+    "Cigars and cigarettes",
+    "Citrus fruits",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Coal",
+    "Coastal zone",
+    "Coffee",
+    "Colleges and universities",
+    "Commodity futures",
+    "Communications",
+    "Communications equipment",
+    "Community development",
+    "Community development block grants",
+    "Computer technology",
+    "Concessions",
+    "Confidential business information",
+    "Conflict of interests",
+    "Cooperatives",
+    "Copyright",
+    "Cotton",
+    "Cottonseeds",
+    "Courts",
+    "Cranberries",
+    "Credit",
+    "Crime",
+    "Crop insurance",
+    "Cultural exchange programs",
+    "Customs duties and inspection",
+    "Dairy products",
+    "Dates",
+    "Day care",
+    "Dental health",
+    "Disability benefits",
+    "Disaster assistance",
+    "District of Columbia",
+    "Drug abuse",
+    "Drug traffic control",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Eggs and egg products",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Endangered and threatened species",
+    "Energy",
+    "Energy conservation",
+    "Environmental impact statements",
+    "Environmental protection",
+    "Equal access to justice",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Ethics",
+    "Exports",
+    "Fair housing",
+    "Federal Crop Insurance Corporation",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Feed grains",
+    "Filberts",
+    "Fire prevention",
+    "Fish",
+    "Fisheries",
+    "Fishing",
+    "Flood insurance",
+    "Flood plains",
+    "Food additives",
+    "Food and Nutrition Service",
+    "Food assistance programs",
+    "Food grades and standards",
+    "Food labeling",
+    "Food packaging",
+    "Food stamps",
+    "Foods",
+    "Foreign aid",
+    "Forests and forest products",
+    "Fraud",
+    "Freedom of information",
+    "Frozen foods",
+    "Fruit juices",
+    "Fruits",
+    "Fuel additives",
+    "Gasohol",
+    "Goats",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Government property management",
+    "Government publications",
+    "Government securities",
+    "Grains",
+    "Grant administrations",
+    "Grant programs",
+    "Grant programs-Indians",
+    "Grant programs-agriculture",
+    "Grant programs-business",
+    "Grant programs-communications",
+    "Grant programs-education",
+    "Grant programs-energy",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-natural resources",
+    "Grant programs-social programs",
+    "Grant programs-veterans",
+    "Grapefruit",
+    "Grapes",
+    "Grazing lands",
+    "Guam",
+    "Hay",
+    "Hazelnuts",
+    "Health",
+    "Health care",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Health records",
+    "Highways and roads",
+    "Historic preservation",
+    "Hogs",
+    "Home improvement",
+    "Homeless",
+    "Honey",
+    "Horses",
+    "Hospice care",
+    "Hospitals",
+    "Hostages",
+    "Housing",
+    "Housing standards",
+    "Human research subjects",
+    "Hunting",
+    "Imports",
+    "Income taxes",
+    "Indemnity payments",
+    "Indians",
+    "Indians-education",
+    "Indians-lands",
+    "Indians-tribal government",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Investments",
+    "Iraq",
+    "Kidney diseases",
+    "Kiwifruit",
+    "Kuwait",
+    "Labeling",
+    "Laboratories",
+    "Land sales",
+    "Law enforcement",
+    "Lawyers",
+    "Lebanon",
+    "Legal services",
+    "Libraries",
+    "Limes",
+    "Livestock",
+    "Loan programs",
+    "Loan programs-Indians",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-health",
+    "Loan programs-housing and community development",
+    "Loan programs-natural resources",
+    "Loan programs-social programs",
+    "Lobbying",
+    "Low and moderate income housing",
+    "Mango",
+    "Manpower training programs",
+    "Manufactured homes",
+    "Marine mammals",
+    "Marital status discrimination",
+    "Maritime carriers",
+    "Marketing agreements",
+    "Marketing quotas",
+    "Mass transportation",
+    "Maternal and child health",
+    "Measurement standards",
+    "Meat and meat products",
+    "Meat inspection",
+    "Medicaid",
+    "Medical research",
+    "Medicare",
+    "Melons",
+    "Mental health programs",
+    "Migrant labor",
+    "Military personnel",
+    "Milk",
+    "Milk marketing orders",
+    "Mineral resources",
+    "Mineral royalties",
+    "Miners",
+    "Mines",
+    "Minimum wages",
+    "Mohair",
+    "Mortgage insurance",
+    "Mortgages",
+    "Motion pictures",
+    "Museums",
+    "Mushrooms",
+    "National Arboretum",
+    "National defense",
+    "National forests",
+    "National parks",
+    "National wild and scenic rivers system",
+    "Natural Resources Conservation Service",
+    "Natural resources",
+    "Navigation (air)",
+    "Nectarines",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Nuclear energy",
+    "Nursery stock",
+    "Nursing homes",
+    "Nutrition",
+    "Nuts",
+    "Oats",
+    "Oil and gas exploration",
+    "Oils and fats",
+    "Oilseeds",
+    "Olives",
+    "Onions",
+    "Oranges",
+    "Organization and functions (Government agencies)",
+    "Pacific Islands Trust Territory",
+    "Packaging and containers",
+    "Peaches",
+    "Peanuts",
+    "Pears",
+    "Penalties",
+    "Pets",
+    "Pistachios",
+    "Plant diseases and pests",
+    "Plants",
+    "Plums",
+    "Polychlorinated biphenyls (PCB's)",
+    "Popcorn",
+    "Postal Service",
+    "Potatoes",
+    "Poultry and poultry products",
+    "Price controls",
+    "Price support programs",
+    "Prisons",
+    "Privacy",
+    "Private schools",
+    "Prunes",
+    "Public assistance programs",
+    "Public housing",
+    "Public lands",
+    "Public lands_mineral resources",
+    "Public lands_rights-of-way",
+    "Puerto Rico",
+    "Quarantine",
+    "Railroads",
+    "Raisins",
+    "Range management",
+    "Real property acquisition",
+    "Reclamation",
+    "Religious discrimination",
+    "Relocation assistance",
+    "Rent subsidies",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Rice",
+    "Rights-of-way",
+    "Rural areas",
+    "Safety",
+    "Scholarships and fellowships",
+    "School breakfast and lunch programs",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Scientific equipment",
+    "Seals and insignia",
+    "Securities",
+    "Seeds",
+    "Seismic safety",
+    "Seizures and forfeitures",
+    "Sewage disposal",
+    "Sex discrimination",
+    "Sheep",
+    "Signs and symbols",
+    "Small businesses",
+    "Social security",
+    "Soil conservation",
+    "Sorghum",
+    "Soybeans",
+    "Spearmint oil",
+    "State and local governments",
+    "Stockyards",
+    "Straw",
+    "Student aid",
+    "Students",
+    "Sugar",
+    "Supplemental Security Income (SSI)",
+    "Surety bonds",
+    "Surplus Government property",
+    "Tangelos",
+    "Tangerines",
+    "Taxes",
+    "Teachers",
+    "Technical assistance",
+    "Telecommunications",
+    "Telephone",
+    "Television",
+    "Tobacco",
+    "Tomatoes",
+    "Trade adjustment assistance",
+    "Trade practices",
+    "Traffic regulations",
+    "Transportation",
+    "Travel and transportation expenses",
+    "Trees",
+    "Truth in lending",
+    "Tuberculosis",
+    "Unemployment compensation",
+    "Uniform System of Accounts",
+    "Uranium",
+    "Urban areas",
+    "Utilities",
+    "Vegetables",
+    "Veterans",
+    "Veterinarians",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Voluntary standards",
+    "Volunteers",
+    "Wages",
+    "Walnuts",
+    "Warehouses",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watermelons",
+    "Watersheds",
+    "Waterways",
+    "Wheat",
+    "Wilderness areas",
+    "Wildlife",
+    "Wildlife refuges",
+    "Women",
+    "Wool",
+    "Youth"
+  ],
+  "name": "Department of Agriculture",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "50.43",
+      "complex_highest_days": "1042",
+      "complex_lowest_days": "0",
+      "complex_median_days": "161",
+      "expedited_processing_average_days": "19.2",
+      "expedited_processing_highest_days": "1189",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "80.5",
+      "simple_average_days": "26.05",
+      "simple_highest_days": "1106",
+      "simple_lowest_days": "0",
+      "simple_median_days": "23"
+    },
+    "2011": {
+      "complex_average_days": "56.8951",
+      "complex_highest_days": "1027",
+      "complex_lowest_days": "0",
+      "complex_median_days": "22.75",
+      "expedited_processing_average_days": "3.6305",
+      "expedited_processing_highest_days": "94",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "19.2235",
+      "simple_highest_days": "969",
+      "simple_lowest_days": "0",
+      "simple_median_days": "10.5"
+    },
+    "2012": {
+      "complex_average_days": "76.4",
+      "complex_highest_days": "863",
+      "complex_lowest_days": "0",
+      "complex_median_days": "25",
+      "expedited_processing_average_days": "34.7",
+      "expedited_processing_highest_days": "313",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "13",
+      "simple_average_days": "33.12",
+      "simple_highest_days": "954",
+      "simple_lowest_days": "0",
+      "simple_median_days": "16"
+    },
+    "2013": {
+      "complex_average_days": "43.29",
+      "complex_highest_days": "1162",
+      "complex_lowest_days": "0",
+      "complex_median_days": "19",
+      "expedited_processing_average_days": "16.08",
+      "expedited_processing_highest_days": "61",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "15.52",
+      "simple_highest_days": "647",
+      "simple_lowest_days": "1",
+      "simple_median_days": "14"
+    },
+    "2014": {
+      "complex_average_days": "83.03",
+      "complex_highest_days": "1055",
+      "complex_lowest_days": "1",
+      "complex_median_days": "21",
+      "expedited_processing_average_days": "52.09",
+      "expedited_processing_highest_days": "188",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "26",
+      "simple_average_days": "16.3",
+      "simple_highest_days": "1476",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2015": {
+      "complex_average_days": "51.14",
+      "complex_highest_days": "1393",
+      "complex_lowest_days": "1",
+      "complex_median_days": "24",
+      "expedited_processing_average_days": "49",
+      "expedited_processing_highest_days": "349",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "11.2",
+      "simple_highest_days": "1101",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2016": {
+      "complex_average_days": "72.65",
+      "complex_highest_days": "1682",
+      "complex_lowest_days": "1",
+      "complex_median_days": "24",
+      "expedited_processing_average_days": "83.33",
+      "expedited_processing_highest_days": "236",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "13",
+      "simple_average_days": "6.66",
+      "simple_highest_days": "1207",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    }
+  }
+}

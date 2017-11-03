@@ -1,0 +1,121 @@
+{
+  "abbreviation": "RATB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Officer",
+          "Suite 700"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1717 Pennsylvania Ave., NW",
+        "zip": "20006"
+      },
+      "emails": [
+        "FOIA@ratb.gov"
+      ],
+      "fax": "202-254-7970",
+      "name": "Recovery Accountablity and Transparency Board",
+      "phone": "202-254-7900",
+      "public_liaison": {
+        "name": "Scott Britt",
+        "phone": [
+          "202-254-7900"
+        ]
+      },
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "11",
+          "complex_highest_days": "19",
+          "complex_lowest_days": "7",
+          "complex_median_days": "9",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3.3",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10.4",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2013": {
+          "simple_average_days": "11.5",
+          "simple_highest_days": "29",
+          "simple_lowest_days": "2",
+          "simple_median_days": "6.5"
+        },
+        "2014": {
+          "simple_average_days": "17.6",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-254-7900"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.recovery.gov/Pages/foia.aspx"
+    }
+  ],
+  "description": "The Recovery Accountability and Transparency Board is a non-partisan, non-political agency created by the American Recovery and Reinvestment Act of 2009 with two main goals: provide unprecedented transparency of Recovery funds, and detect and prevent fraud, waste, and mismanagement of Recovery funds.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Freedom of information",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Seals and insignia"
+  ],
+  "name": "Recovery Accountability and Transparency Board",
+  "request_time_stats": {
+    "2011": {
+      "complex_average_days": "11",
+      "complex_highest_days": "19",
+      "complex_lowest_days": "7",
+      "complex_median_days": "9",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "3.3",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2012": {
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "10.4",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2013": {
+      "simple_average_days": "11.5",
+      "simple_highest_days": "29",
+      "simple_lowest_days": "2",
+      "simple_median_days": "6.5"
+    },
+    "2014": {
+      "simple_average_days": "17.6",
+      "simple_highest_days": "27",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    }
+  }
+}

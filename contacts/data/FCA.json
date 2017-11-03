@@ -1,0 +1,291 @@
+{
+  "abbreviation": "FCA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Autumn R. Agans",
+          "FOIA Officer"
+        ],
+        "city": "McLean",
+        "state": "VA",
+        "street": "1501 Farm Credit Drive",
+        "zip": "22102-5090"
+      },
+      "emails": [
+        "foiaofficer@fca.gov"
+      ],
+      "fax": "703-790-0052",
+      "foia_officer": {
+        "name": "Jeffrey C. Pienta",
+        "phone": [
+          "703-883-4431"
+        ]
+      },
+      "name": "Farm Credit Administration",
+      "phone": "703-883-4082",
+      "public_liaison": {
+        "name": "Christine D. Quinn",
+        "phone": [
+          "703-883-4020"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.fca.gov/home/FOIA_index.html"
+        ]
+      ],
+      "request_form": null,
+      "request_time_stats": {
+        "2008": {
+          "simple_average_days": "9",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2009": {
+          "simple_average_days": "8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.375",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "0",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "expedited_processing_average_days": "5.25",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1.5",
+          "simple_average_days": "11.023",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "11.71",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12.5"
+        },
+        "2013": {
+          "expedited_processing_average_days": "18",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "18",
+          "expedited_processing_median_days": "18",
+          "simple_average_days": "9.57",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10.5"
+        },
+        "2014": {
+          "expedited_processing_average_days": "12.14",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "10.59",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "2",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "expedited_processing_average_days": "7.7",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "8.7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "3",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "5.63",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "name": "Vacant"
+      },
+      "top_level": false,
+      "website": "http://www.fca.gov/home/freedom_info.html"
+    }
+  ],
+  "description": "FCA\u00b4s mission is to ensure a dependable source of credit for agriculture and rural America. We do this in two ways:\n\u00b71.By creating regulations for FCS institutions to follow\n\u00b72.By examining FCS institutions to ensure their compliance with the Farm Credit Act of 1971 (as amended), FCA regulations, and safe and sound banking practices",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Advertising",
+    "Aged",
+    "Agriculture",
+    "Archives and records",
+    "Bank deposit insurance",
+    "Banks, banking",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Conduct standards",
+    "Confidential business information",
+    "Conflict of interests",
+    "Consumer protection",
+    "Cooperatives",
+    "Courts",
+    "Credit",
+    "Credit unions",
+    "Crime",
+    "Currency",
+    "Elections",
+    "Equal employment opportunity",
+    "Exports",
+    "Fair housing",
+    "Federal Reserve System",
+    "Federal buildings and facilities",
+    "Flood insurance",
+    "Foreign banking",
+    "Foreign trade",
+    "Freedom of information",
+    "Government employees",
+    "Government securities",
+    "Holding companies",
+    "Individuals with disabilities",
+    "Insurance",
+    "Investigations",
+    "Investments",
+    "Loan programs-housing and community development",
+    "Marital status discrimination",
+    "Mortgages",
+    "National banks",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Privacy",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Savings associations",
+    "Securities",
+    "Sex discrimination",
+    "Signs and symbols",
+    "Sunshine Act",
+    "Surety bonds",
+    "Technical assistance",
+    "Wages"
+  ],
+  "name": "Farm Credit Administration",
+  "request_time_stats": {
+    "2008": {
+      "simple_average_days": "9",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9"
+    },
+    "2009": {
+      "simple_average_days": "8",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "9.375",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "0",
+      "simple_median_days": "8"
+    },
+    "2011": {
+      "expedited_processing_average_days": "5.25",
+      "expedited_processing_highest_days": "17",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1.5",
+      "simple_average_days": "11.023",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "11",
+      "expedited_processing_highest_days": "20",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "8",
+      "simple_average_days": "11.71",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "12.5"
+    },
+    "2013": {
+      "expedited_processing_average_days": "18",
+      "expedited_processing_highest_days": "18",
+      "expedited_processing_lowest_days": "18",
+      "expedited_processing_median_days": "18",
+      "simple_average_days": "9.57",
+      "simple_highest_days": "18",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10.5"
+    },
+    "2014": {
+      "expedited_processing_average_days": "12.14",
+      "expedited_processing_highest_days": "20",
+      "expedited_processing_lowest_days": "5",
+      "expedited_processing_median_days": "14",
+      "simple_average_days": "10.59",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "2",
+      "simple_median_days": "9"
+    },
+    "2015": {
+      "expedited_processing_average_days": "7.7",
+      "expedited_processing_highest_days": "20",
+      "expedited_processing_lowest_days": "5",
+      "expedited_processing_median_days": "10",
+      "simple_average_days": "8.7",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "3",
+      "simple_median_days": "6"
+    },
+    "2016": {
+      "expedited_processing_average_days": "2",
+      "expedited_processing_highest_days": "2",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "2",
+      "simple_average_days": "5.63",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    }
+  }
+}

@@ -1,0 +1,2089 @@
+{
+  "abbreviation": "NASA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Josephine Sibley",
+          "HQFOIA Officer",
+          "Room 5Q 16"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "foia_officer": {
+        "name": "Josephine Sibley",
+        "phone": [
+          "202-358-2462"
+        ]
+      },
+      "name": "Headquarters",
+      "phone": "202-358-2462",
+      "public_liaison": {
+        "name": "Josephine Sibley",
+        "phone": [
+          "202-358-2462"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "361.56",
+          "complex_highest_days": "1329",
+          "complex_lowest_days": "2",
+          "complex_median_days": "314",
+          "expedited_processing_average_days": "57",
+          "expedited_processing_highest_days": "57",
+          "expedited_processing_lowest_days": "57",
+          "expedited_processing_median_days": "57",
+          "simple_average_days": "244.01",
+          "simple_highest_days": "1097",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "210"
+        },
+        "2011": {
+          "complex_average_days": "135.96",
+          "complex_highest_days": "846",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "80.5",
+          "expedited_processing_average_days": "227",
+          "expedited_processing_highest_days": "227",
+          "expedited_processing_lowest_days": "227",
+          "expedited_processing_median_days": "227",
+          "simple_average_days": "44.98",
+          "simple_highest_days": "842",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2012": {
+          "complex_average_days": "62.58",
+          "complex_highest_days": "896",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15",
+          "simple_average_days": "6.33",
+          "simple_highest_days": "145",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2013": {
+          "complex_average_days": "24.28",
+          "complex_highest_days": "230",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "16",
+          "simple_average_days": "5.42",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "15.15",
+          "complex_highest_days": "90",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11",
+          "simple_average_days": "4.27",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2015": {
+          "complex_average_days": "27.88",
+          "complex_highest_days": "98",
+          "complex_lowest_days": "2",
+          "complex_median_days": "22",
+          "simple_average_days": "7.01",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5.5"
+        },
+        "2016": {
+          "complex_average_days": "29.14",
+          "complex_highest_days": "67",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "28",
+          "simple_average_days": "8.06",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2562"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hq.nasa.gov/office/pao/FOIA/index.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Martha Terry",
+          "ARC FOIA Officer",
+          "Room 5Q14"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "foia_officer": {
+        "name": "Lubna Shirazi",
+        "phone": [
+          "650-604-1138"
+        ]
+      },
+      "name": "Ames Research Center",
+      "phone": "202-358-2339",
+      "public_liaison": {
+        "name": "Martha Terry",
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "30",
+          "complex_highest_days": "163",
+          "complex_lowest_days": "9",
+          "complex_median_days": "9",
+          "expedited_processing_average_days": "41",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "33",
+          "expedited_processing_median_days": "41",
+          "simple_average_days": "118",
+          "simple_highest_days": "415",
+          "simple_lowest_days": "1",
+          "simple_median_days": "99"
+        },
+        "2009": {
+          "complex_average_days": "30",
+          "complex_highest_days": "163",
+          "complex_lowest_days": "9",
+          "complex_median_days": "9",
+          "expedited_processing_average_days": "41",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "33",
+          "expedited_processing_median_days": "41",
+          "simple_average_days": "118",
+          "simple_highest_days": "415",
+          "simple_lowest_days": "1",
+          "simple_median_days": "99"
+        },
+        "2010": {
+          "simple_average_days": "41.81",
+          "simple_highest_days": "319",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20"
+        },
+        "2011": {
+          "complex_average_days": "193",
+          "complex_highest_days": "480",
+          "complex_lowest_days": "20",
+          "complex_median_days": "79",
+          "simple_average_days": "32.59",
+          "simple_highest_days": "276",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20.5"
+        },
+        "2012": {
+          "complex_average_days": "60.35",
+          "complex_highest_days": "533",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "17",
+          "simple_average_days": "12.96",
+          "simple_highest_days": "56",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "26.9",
+          "complex_highest_days": "126",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "21",
+          "simple_average_days": "12",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "34.89",
+          "complex_highest_days": "350",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "19",
+          "simple_average_days": "8.12",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4.5"
+        },
+        "2015": {
+          "complex_average_days": "71.52",
+          "complex_highest_days": "418",
+          "complex_lowest_days": "6",
+          "complex_median_days": "38",
+          "simple_average_days": "1.5",
+          "simple_highest_days": "2",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1.5"
+        },
+        "2016": {
+          "complex_average_days": "28.67",
+          "complex_highest_days": "72",
+          "complex_lowest_days": "8",
+          "complex_median_days": "21",
+          "simple_average_days": "8.1",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "2",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hq.nasa.gov/office/pao/FOIA/index.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Martha Terry",
+          "AFRC FOIA Officer",
+          "Room 5Q14"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "name": "Armstrong Flight Research Center",
+      "phone": "202-358-2339",
+      "public_liaison": {
+        "name": "Martha Terry",
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "35",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "29",
+          "complex_median_days": "177",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "51",
+          "simple_highest_days": "286",
+          "simple_lowest_days": "3",
+          "simple_median_days": "515"
+        },
+        "2009": {
+          "complex_average_days": "35",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "29",
+          "complex_median_days": "177",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "51",
+          "simple_highest_days": "286",
+          "simple_lowest_days": "3",
+          "simple_median_days": "515"
+        },
+        "2010": {
+          "complex_average_days": "244",
+          "complex_highest_days": "244",
+          "complex_lowest_days": "244",
+          "complex_median_days": "244",
+          "expedited_processing_average_days": "12.5",
+          "expedited_processing_highest_days": "19",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "12.5",
+          "simple_average_days": "28.48",
+          "simple_highest_days": "169",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        },
+        "2011": {
+          "complex_average_days": "30",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "30",
+          "complex_median_days": "30",
+          "simple_average_days": "21.33",
+          "simple_highest_days": "93",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "85.88",
+          "complex_highest_days": "288",
+          "complex_lowest_days": "26",
+          "complex_median_days": "45",
+          "simple_average_days": "25.58",
+          "simple_highest_days": "103",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15.5"
+        },
+        "2013": {
+          "complex_average_days": "34.86",
+          "complex_highest_days": "150",
+          "complex_lowest_days": "3",
+          "complex_median_days": "17",
+          "simple_average_days": "1",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "0.5"
+        },
+        "2014": {
+          "complex_average_days": "25.33",
+          "complex_highest_days": "36",
+          "complex_lowest_days": "13",
+          "complex_median_days": "26",
+          "simple_average_days": "8.73",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "complex_average_days": "24.57",
+          "complex_highest_days": "38",
+          "complex_lowest_days": "16",
+          "complex_median_days": "21",
+          "simple_average_days": "5",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "5",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "complex_average_days": "27.22",
+          "complex_highest_days": "62",
+          "complex_lowest_days": "2",
+          "complex_median_days": "26",
+          "simple_average_days": "8.8",
+          "simple_highest_days": "38",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hq.nasa.gov/office/pao/FOIA/index.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Martha Terry",
+          "GRC FOIA Officer",
+          "Room 5Q14"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "foia_officer": {
+        "name": "Angela Pierce",
+        "phone": [
+          "216-443-2813"
+        ]
+      },
+      "name": "Glenn Research Center",
+      "phone": "202-358-2339",
+      "public_liaison": {
+        "name": "Martha Terry",
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "23",
+          "complex_highest_days": "64",
+          "complex_lowest_days": "1",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2009": {
+          "complex_average_days": "23",
+          "complex_highest_days": "64",
+          "complex_lowest_days": "1",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2010": {
+          "complex_average_days": "34.27",
+          "complex_highest_days": "279",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14",
+          "simple_average_days": "11.56",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "35.21",
+          "complex_highest_days": "448",
+          "complex_lowest_days": "1",
+          "complex_median_days": "11.5",
+          "simple_average_days": "14",
+          "simple_highest_days": "47",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2012": {
+          "complex_average_days": "22.43",
+          "complex_highest_days": "66",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "18.5",
+          "simple_average_days": "5.25",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2013": {
+          "complex_average_days": "13.2",
+          "complex_highest_days": "59",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "4",
+          "simple_average_days": "4.8",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2014": {
+          "complex_average_days": "12.36",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "4",
+          "simple_average_days": "3.43",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "simple_average_days": "5.67",
+          "simple_highest_days": "14",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "complex_average_days": "16.67",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "9.5",
+          "simple_average_days": "22.5",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "11",
+          "simple_median_days": "22.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.grc.nasa.gov/WWW/FOIA/FOIA.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Joan Belt",
+          "GSFC FOIA Officer"
+        ],
+        "city": "Greenbelt",
+        "state": "MD",
+        "street": "Code 130",
+        "zip": "20771"
+      },
+      "emails": [
+        "foia@gsfc.nasa.gov"
+      ],
+      "fax": "301-286-1712",
+      "foia_officer": {
+        "name": "Joan Belt",
+        "phone": [
+          "301-286-4271"
+        ]
+      },
+      "name": "Goddard Space Flight Center",
+      "phone": "301-286-4271",
+      "public_liaison": {
+        "name": "Joan Belt",
+        "phone": [
+          "301-286-4271"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "82",
+          "complex_highest_days": "635",
+          "complex_lowest_days": "1",
+          "complex_median_days": "51",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "146",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2009": {
+          "complex_average_days": "82",
+          "complex_highest_days": "635",
+          "complex_lowest_days": "1",
+          "complex_median_days": "51",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "146",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2010": {
+          "complex_average_days": "139.46",
+          "complex_highest_days": "434",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "123.5",
+          "expedited_processing_average_days": "44.8",
+          "expedited_processing_highest_days": "172",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "15",
+          "simple_average_days": "65.46",
+          "simple_highest_days": "262",
+          "simple_lowest_days": "1",
+          "simple_median_days": "39"
+        },
+        "2011": {
+          "complex_average_days": "36.66",
+          "complex_highest_days": "298",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "25.5",
+          "simple_average_days": "16.77",
+          "simple_highest_days": "82",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2012": {
+          "complex_average_days": "27.04",
+          "complex_highest_days": "103",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11.5",
+          "simple_average_days": "12.18",
+          "simple_highest_days": "77",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "27.32",
+          "complex_highest_days": "140",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14",
+          "simple_average_days": "5.94",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "27.29",
+          "complex_highest_days": "95",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "21",
+          "simple_average_days": "5.11",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2015": {
+          "complex_average_days": "20.53",
+          "complex_highest_days": "87",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18",
+          "simple_average_days": "6.3",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "complex_average_days": "36.35",
+          "complex_highest_days": "91",
+          "complex_lowest_days": "4",
+          "complex_median_days": "34",
+          "simple_average_days": "12.45",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-286-4271"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nasa.gov/centers/goddard/business/foia/index.html"
+    },
+    {
+      "abbreviation": "JPL",
+      "address": {
+        "address_lines": [
+          "Dennis Mahon",
+          "JPL FOIA Officer",
+          "M/S: 180-200K"
+        ],
+        "city": "Pasadena",
+        "state": "CA",
+        "street": "4800 Oak Grove",
+        "zip": "91109-8001"
+      },
+      "description": "NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and our universe.",
+      "emails": [
+        "jpl-foia@nasa.gov"
+      ],
+      "fax": "818-393-3160",
+      "foia_officer": {
+        "name": "Dennis Mahon",
+        "phone": [
+          "818-393-6779"
+        ]
+      },
+      "name": "Jet Propulsion Laboratory",
+      "phone": "818-393-6779",
+      "public_liaison": {
+        "name": "Dennis Mahon",
+        "phone": [
+          "818-393-6779"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "110",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "110",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2010": {
+          "complex_average_days": "24.33",
+          "complex_highest_days": "29",
+          "complex_lowest_days": "19",
+          "complex_median_days": "25",
+          "simple_average_days": "4.38",
+          "simple_highest_days": "29",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2.5"
+        },
+        "2011": {
+          "complex_average_days": "12.55",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "9.5",
+          "simple_average_days": "6.59",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2012": {
+          "complex_average_days": "6.86",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "7",
+          "simple_average_days": "2.65",
+          "simple_highest_days": "6",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2013": {
+          "complex_average_days": "20.88",
+          "complex_highest_days": "126",
+          "complex_lowest_days": "2",
+          "complex_median_days": "7.5",
+          "simple_average_days": "4.33",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "12.95",
+          "complex_highest_days": "21",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13",
+          "simple_average_days": "2.86",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "10.29",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "7",
+          "simple_average_days": "2",
+          "simple_highest_days": "2",
+          "simple_lowest_days": "2",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "20.57",
+          "complex_highest_days": "29",
+          "complex_lowest_days": "5",
+          "complex_median_days": "24",
+          "simple_average_days": "5",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "3",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "818-393-6779"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.hq.nasa.gov/office/pao/FOIA/jpl/index.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jessica Cordero",
+          "JSC FOIA Officer"
+        ],
+        "city": "Houston",
+        "state": "TX",
+        "street": "Mail Code: AP2",
+        "zip": "77058"
+      },
+      "emails": [
+        "jsc-foia@mail.nasa.gov"
+      ],
+      "fax": "281-483-4876",
+      "foia_officer": {
+        "name": "Jessica Cordero",
+        "phone": [
+          "281-483-8252"
+        ]
+      },
+      "name": "Johnson Space Center",
+      "phone": "281-483-8252",
+      "public_liaison": {
+        "name": "Jessica Cordero",
+        "phone": [
+          "281-483-8252"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "75",
+          "complex_highest_days": "260",
+          "complex_lowest_days": "21",
+          "complex_median_days": "75",
+          "expedited_processing_average_days": "30",
+          "expedited_processing_highest_days": "110",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "30",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2009": {
+          "complex_average_days": "75",
+          "complex_highest_days": "260",
+          "complex_lowest_days": "21",
+          "complex_median_days": "75",
+          "expedited_processing_average_days": "30",
+          "expedited_processing_highest_days": "110",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "30",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "19.93",
+          "complex_highest_days": "237",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "12.43",
+          "expedited_processing_highest_days": "30",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "8.54",
+          "simple_highest_days": "64",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2011": {
+          "complex_average_days": "19.04",
+          "complex_highest_days": "351",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "10",
+          "simple_average_days": "17",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "22.53",
+          "complex_highest_days": "115",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14",
+          "simple_average_days": "5.97",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "12.99",
+          "complex_highest_days": "80",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "8",
+          "simple_average_days": "1.86",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2014": {
+          "complex_average_days": "20.54",
+          "complex_highest_days": "99",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "10",
+          "simple_average_days": "4.11",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2015": {
+          "complex_average_days": "25.97",
+          "complex_highest_days": "265",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12",
+          "simple_average_days": "7.47",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "42.09",
+          "complex_highest_days": "198",
+          "complex_lowest_days": "2",
+          "complex_median_days": "23.5",
+          "simple_average_days": "10.5",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "281-483-8252"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nasa.gov/centers/johnson/news/foia.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Penny Myers",
+          "KSC FOIA Officer"
+        ],
+        "city": "Kennedy Space Center",
+        "state": "FL",
+        "street": "XA-A1",
+        "zip": "32889"
+      },
+      "emails": [
+        "foia@ksc.nasa.gov"
+      ],
+      "fax": "321-867-8007",
+      "foia_officer": {
+        "name": "Penny Myers",
+        "phone": [
+          "321-867-9280"
+        ]
+      },
+      "name": "Kennedy Space Center",
+      "phone": "321-867-9280",
+      "public_liaison": {
+        "name": "Penny Myers",
+        "phone": [
+          "321-867-9280"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "25",
+          "complex_highest_days": "160",
+          "complex_lowest_days": "2",
+          "complex_median_days": "8",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "60",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2009": {
+          "complex_average_days": "25",
+          "complex_highest_days": "160",
+          "complex_lowest_days": "2",
+          "complex_median_days": "8",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "60",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2010": {
+          "complex_average_days": "16.35",
+          "complex_highest_days": "67",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "7.5",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "5.75",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "38.11",
+          "complex_highest_days": "318",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "22",
+          "simple_average_days": "11.93",
+          "simple_highest_days": "63",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "27.95",
+          "complex_highest_days": "121",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "15",
+          "simple_average_days": "8",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "22.02",
+          "complex_highest_days": "135",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "13",
+          "simple_average_days": "3.73",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2.5"
+        },
+        "2014": {
+          "complex_average_days": "24.79",
+          "complex_highest_days": "131",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "8",
+          "simple_average_days": "5.23",
+          "simple_highest_days": "48",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "48.82",
+          "complex_highest_days": "235",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "35",
+          "simple_average_days": "6",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5.5"
+        },
+        "2016": {
+          "complex_average_days": "35.74",
+          "complex_highest_days": "105",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "simple_average_days": "0.67",
+          "simple_highest_days": "2",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "321-867-9280"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nasa.gov/centers/kennedy/home/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Carissa Wheeler",
+          "LaRC FOIA Officer",
+          "Mail Stop 218"
+        ],
+        "city": "Hampton",
+        "state": "VA",
+        "street": "17 West Taylor Street",
+        "zip": "23681-2199"
+      },
+      "emails": [
+        "LARC-DL-foia@mail.nasa.gov"
+      ],
+      "fax": "757-864-6333",
+      "foia_officer": {
+        "name": "Carissa Wheeler",
+        "phone": [
+          "757-864-4274"
+        ]
+      },
+      "name": "Langley Research Center",
+      "phone": "757-864-4274",
+      "public_liaison": {
+        "name": "Carissa Wheeler",
+        "phone": [
+          "757-864-4274"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "377",
+          "complex_highest_days": "871",
+          "complex_lowest_days": "2",
+          "complex_median_days": "396",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "101",
+          "simple_highest_days": "101",
+          "simple_lowest_days": "101",
+          "simple_median_days": "101"
+        },
+        "2009": {
+          "complex_average_days": "377",
+          "complex_highest_days": "871",
+          "complex_lowest_days": "2",
+          "complex_median_days": "396",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "101",
+          "simple_highest_days": "101",
+          "simple_lowest_days": "101",
+          "simple_median_days": "101"
+        },
+        "2010": {
+          "complex_average_days": "308.35",
+          "complex_highest_days": "1200",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "202",
+          "simple_average_days": "13.89",
+          "simple_highest_days": "102",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "complex_average_days": "97.25",
+          "complex_highest_days": "841",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "simple_average_days": "6.22",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "18.61",
+          "complex_highest_days": "79",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11.5",
+          "simple_average_days": "2.77",
+          "simple_highest_days": "10",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2013": {
+          "complex_average_days": "19.75",
+          "complex_highest_days": "120",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12",
+          "simple_average_days": "3.37",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2014": {
+          "complex_average_days": "16.82",
+          "complex_highest_days": "44",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "14",
+          "simple_average_days": "3.25",
+          "simple_highest_days": "9",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2.5"
+        },
+        "2015": {
+          "complex_average_days": "17.5",
+          "complex_highest_days": "26",
+          "complex_lowest_days": "6",
+          "complex_median_days": "19.5",
+          "simple_average_days": "2.2",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "30.5",
+          "complex_highest_days": "62",
+          "complex_lowest_days": "4",
+          "complex_median_days": "28",
+          "simple_average_days": "4.92",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "757-864-4274"
+        ]
+      },
+      "top_level": false,
+      "website": "http://foia.larc.nasa.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Mail Stop CD50"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "street": "Marshall Space Flight Center",
+        "zip": "35812"
+      },
+      "emails": [
+        "FOIA@msfc.nasa.gov"
+      ],
+      "fax": "256-544-0007",
+      "foia_officer": {
+        "name": "Judi Hollingsworth",
+        "phone": [
+          "256-544-1837"
+        ]
+      },
+      "name": "Marshall Space Flight Center",
+      "phone": "256-544-1837",
+      "public_liaison": {
+        "name": "Judi Hollingsworth",
+        "phone": [
+          "256-544-1837"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "37",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "19",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "42",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2009": {
+          "complex_average_days": "37",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "19",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "42",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2010": {
+          "complex_average_days": "49.5",
+          "complex_highest_days": "153",
+          "complex_lowest_days": "5",
+          "complex_median_days": "21.5",
+          "expedited_processing_average_days": "19.75",
+          "expedited_processing_highest_days": "30",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "20.5",
+          "simple_average_days": "14.45",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2011": {
+          "complex_average_days": "32.14",
+          "complex_highest_days": "100",
+          "complex_lowest_days": "2",
+          "complex_median_days": "29",
+          "simple_average_days": "13.9",
+          "simple_highest_days": "84",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "20.5",
+          "complex_highest_days": "63",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "18.5",
+          "simple_average_days": "9.44",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "21.58",
+          "complex_highest_days": "66",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23",
+          "simple_average_days": "7.95",
+          "simple_highest_days": "29",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "27.6",
+          "complex_highest_days": "54",
+          "complex_lowest_days": "3",
+          "complex_median_days": "28",
+          "simple_average_days": "6.96",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2015": {
+          "complex_average_days": "23.44",
+          "complex_highest_days": "50",
+          "complex_lowest_days": "2",
+          "complex_median_days": "29",
+          "simple_average_days": "9.03",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2016": {
+          "complex_average_days": "28.75",
+          "complex_highest_days": "59",
+          "complex_lowest_days": "8",
+          "complex_median_days": "24",
+          "simple_average_days": "9.44",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "256-544-1837"
+        ]
+      },
+      "top_level": false,
+      "website": "http://foia.msfc.nasa.gov/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Frank LaRocca",
+          "OIG FOIA Officer",
+          "Room 8V69"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foiaoig@hq.nasa.gov"
+      ],
+      "fax": "202-358-2767",
+      "foia_officer": {
+        "name": "Frank LaRocca",
+        "phone": [
+          "202-358-2582"
+        ]
+      },
+      "name": "Office of the Inspector General",
+      "phone": "202-358-2582",
+      "public_liaison": {
+        "name": "Frank LaRocca",
+        "phone": [
+          "202-358-2582"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "14",
+          "simple_lowest_days": "2",
+          "simple_median_days": "18"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "14",
+          "simple_lowest_days": "2",
+          "simple_median_days": "18"
+        },
+        "2010": {
+          "simple_average_days": "49.46",
+          "simple_highest_days": "261",
+          "simple_lowest_days": "1",
+          "simple_median_days": "24"
+        },
+        "2011": {
+          "complex_average_days": "4",
+          "complex_highest_days": "4",
+          "complex_lowest_days": "4",
+          "complex_median_days": "4",
+          "simple_average_days": "16.84",
+          "simple_highest_days": "47",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18.5"
+        },
+        "2012": {
+          "simple_average_days": "22.76",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16.5"
+        },
+        "2013": {
+          "complex_average_days": "32.8",
+          "complex_highest_days": "58",
+          "complex_lowest_days": "13",
+          "complex_median_days": "30",
+          "simple_average_days": "11.36",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9.5"
+        },
+        "2014": {
+          "complex_average_days": "19.33",
+          "complex_highest_days": "39",
+          "complex_lowest_days": "10",
+          "complex_median_days": "17",
+          "simple_average_days": "13",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "14.5"
+        },
+        "2015": {
+          "complex_average_days": "23.86",
+          "complex_highest_days": "52",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23",
+          "simple_average_days": "9.37",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5.5"
+        },
+        "2016": {
+          "complex_average_days": "33.27",
+          "complex_highest_days": "131",
+          "complex_lowest_days": "4",
+          "complex_median_days": "22",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "17.53",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "3",
+          "simple_median_days": "11.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2582"
+        ]
+      },
+      "top_level": false,
+      "website": "http://oig.nasa.gov/FOIA_requests.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Martha Terry",
+          "NSSC FOIA Officer",
+          "Room 5Q14"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "foia_officer": {
+        "name": "Martha Terry",
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "name": "NASA Shared Service Center (NSSC)",
+      "phone": "202-358-2339",
+      "public_liaison": {
+        "name": "Martha Terry",
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Library",
+          "https://answers.nssc.nasa.gov/app/answers/detail/a_id/6337"
+        ]
+      ],
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "25.5",
+          "complex_highest_days": "64",
+          "complex_lowest_days": "2",
+          "complex_median_days": "18",
+          "simple_average_days": "17.35",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "14"
+        },
+        "2011": {
+          "complex_average_days": "109.67",
+          "complex_highest_days": "452",
+          "complex_lowest_days": "16",
+          "complex_median_days": "42",
+          "simple_average_days": "23.46",
+          "simple_highest_days": "86",
+          "simple_lowest_days": "9",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "20.18",
+          "complex_highest_days": "78",
+          "complex_lowest_days": "4",
+          "complex_median_days": "13",
+          "simple_average_days": "9.75",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "3",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "complex_average_days": "56.14",
+          "complex_highest_days": "252",
+          "complex_lowest_days": "10",
+          "complex_median_days": "25",
+          "simple_average_days": "11.33",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "6",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "complex_average_days": "19.22",
+          "complex_highest_days": "42",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "simple_average_days": "23.4",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "16",
+          "simple_median_days": "20"
+        },
+        "2015": {
+          "complex_average_days": "18.5",
+          "complex_highest_days": "46",
+          "complex_lowest_days": "4",
+          "complex_median_days": "9.5",
+          "simple_average_days": "8.25",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "4",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "complex_average_days": "15.8",
+          "complex_highest_days": "53",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "11",
+          "simple_average_days": "11.5",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "2",
+          "simple_median_days": "13.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-358-2339"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.nssc.nasa.gov/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "FOIA: Sally Blibo"
+        ],
+        "city": "Stennis Space Center",
+        "state": "MS",
+        "street": "Building 1100 room 304D",
+        "zip": "39529"
+      },
+      "emails": [
+        "foia@ssc.nasa.gov"
+      ],
+      "fax": "228-668-7499",
+      "foia_officer": {
+        "name": "Sally Bilbo",
+        "phone": [
+          "228-688-3182"
+        ]
+      },
+      "name": "Stennis Space Center",
+      "phone": "228-688-3182",
+      "public_liaison": {
+        "name": "Sally Bilbo",
+        "phone": [
+          "228-688-3182"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "220",
+          "complex_highest_days": "28",
+          "complex_lowest_days": "14",
+          "complex_median_days": "10",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "146",
+          "simple_lowest_days": "2",
+          "simple_median_days": "7"
+        },
+        "2009": {
+          "complex_average_days": "220",
+          "complex_highest_days": "28",
+          "complex_lowest_days": "14",
+          "complex_median_days": "10",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28",
+          "simple_highest_days": "146",
+          "simple_lowest_days": "2",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "38.8",
+          "complex_highest_days": "164",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "6",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "4.59",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "246.5",
+          "complex_highest_days": "342",
+          "complex_lowest_days": "151",
+          "complex_median_days": "246.5",
+          "simple_average_days": "11.57",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "4",
+          "complex_highest_days": "4",
+          "complex_lowest_days": "4",
+          "complex_median_days": "4",
+          "simple_average_days": "5.5",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "complex_average_days": "9",
+          "complex_highest_days": "9",
+          "complex_lowest_days": "9",
+          "complex_median_days": "9",
+          "simple_average_days": "3.29",
+          "simple_highest_days": "11",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "simple_average_days": "6.08",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2015": {
+          "complex_average_days": "21.33",
+          "complex_highest_days": "38",
+          "complex_lowest_days": "12",
+          "complex_median_days": "14",
+          "simple_average_days": "8.33",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "2",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "26.9",
+          "complex_highest_days": "74",
+          "complex_lowest_days": "1",
+          "complex_median_days": "23",
+          "simple_average_days": "11.75",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13.5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "228-688-3182"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.nasa.gov/centers/stennis/about/foia/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Miriam Brown-Lam",
+          "Agency",
+          "Room 5P 32"
+        ],
+        "city": "S.W. Washington",
+        "state": "DC",
+        "street": "300 E Street, SW",
+        "zip": "20546"
+      },
+      "emails": [
+        "foia@hq.nasa.gov"
+      ],
+      "fax": "202-358-4332",
+      "misc": {
+        "Agency ": {
+          "name": "Miriam BrownLam",
+          "phone": [
+            "202-358-0718"
+          ]
+        }
+      },
+      "name": "Principal Agency FOIA Officer",
+      "phone": "202-358-0718",
+      "public_liaison": {
+        "phone": [
+          "202-358-3642"
+        ]
+      },
+      "request_form": "https://socialforms.nasa.gov/foia",
+      "service_center": {
+        "phone": [
+          "202-358-0718"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hq.nasa.gov/office/pao/FOIA/agency/"
+    }
+  ],
+  "description": "NASA's mission is to pioneer the future in space exploration, scientific discovery and aeronautics research",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "Airports",
+    "American Samoa",
+    "Animal welfare",
+    "Armed forces",
+    "Arms and munitions",
+    "Authority delegations (Government agencies)",
+    "Blind",
+    "Broadband",
+    "Buildings and facilities",
+    "Business and industry",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Conflict of interests",
+    "Copyright",
+    "Credit",
+    "Cultural exchange programs",
+    "Customs duties and inspection",
+    "Decorations, medals, awards",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Engineers",
+    "Environmental impact statements",
+    "Equal access to justice",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Explosives",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Flood plains",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Government property management",
+    "Grant programs",
+    "Grant programs-agriculture",
+    "Grant programs-education",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-science and technology",
+    "Grant programs-social programs",
+    "Guam",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Highways and roads",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Human research subjects",
+    "Indians",
+    "Indians-education",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Iraq",
+    "Kuwait",
+    "Labor management relations",
+    "Lebanon",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Lobbying",
+    "Manpower training programs",
+    "Mass transportation",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "National defense",
+    "News media",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Organization and functions (Government agencies)",
+    "Pacific Islands Trust Territory",
+    "Penalties",
+    "Privacy",
+    "Private schools",
+    "Railroads",
+    "Real property acquisition",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Rural areas",
+    "Safety",
+    "Satellites",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Scientists",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Small businesses",
+    "Space transportation and exploration",
+    "State and local governments",
+    "Student aid",
+    "Teachers",
+    "Telecommunications",
+    "Telephone",
+    "Urban areas",
+    "Utilities",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Women"
+  ],
+  "name": "National Aeronautics and Space Administration",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "83",
+      "complex_highest_days": "1142",
+      "complex_lowest_days": "1",
+      "complex_median_days": "35",
+      "expedited_processing_average_days": "36",
+      "expedited_processing_highest_days": "110",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "36",
+      "simple_average_days": "34",
+      "simple_highest_days": "415",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2009": {
+      "complex_average_days": "83",
+      "complex_highest_days": "1142",
+      "complex_lowest_days": "1",
+      "complex_median_days": "35",
+      "expedited_processing_average_days": "36",
+      "expedited_processing_highest_days": "110",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "36",
+      "simple_average_days": "34",
+      "simple_highest_days": "415",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2010": {
+      "complex_average_days": "181.68",
+      "complex_highest_days": "1329",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "71",
+      "expedited_processing_average_days": "22.57",
+      "expedited_processing_highest_days": "172",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "12",
+      "simple_average_days": "54.25",
+      "simple_highest_days": "1097",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "13"
+    },
+    "2011": {
+      "complex_average_days": "57.97",
+      "complex_highest_days": "846",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "18",
+      "expedited_processing_average_days": "227",
+      "expedited_processing_highest_days": "227",
+      "expedited_processing_lowest_days": "227",
+      "expedited_processing_median_days": "227",
+      "simple_average_days": "23.9",
+      "simple_highest_days": "842",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11"
+    },
+    "2012": {
+      "complex_average_days": "33.99",
+      "complex_highest_days": "896",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "13",
+      "simple_average_days": "9.92",
+      "simple_highest_days": "145",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2013": {
+      "complex_average_days": "22.34",
+      "complex_highest_days": "252",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "14",
+      "simple_average_days": "5.65",
+      "simple_highest_days": "35",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "4"
+    },
+    "2014": {
+      "complex_average_days": "21.9",
+      "complex_highest_days": "350",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "13",
+      "simple_average_days": "5.78",
+      "simple_highest_days": "48",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "3"
+    },
+    "2015": {
+      "complex_average_days": "33.14",
+      "complex_highest_days": "418",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "23",
+      "simple_average_days": "7.44",
+      "simple_highest_days": "30",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5.5"
+    },
+    "2016": {
+      "complex_average_days": "33.37",
+      "complex_highest_days": "198",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "25.5",
+      "expedited_processing_average_days": "7",
+      "expedited_processing_highest_days": "7",
+      "expedited_processing_lowest_days": "7",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "10.34",
+      "simple_highest_days": "120",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    }
+  }
+}

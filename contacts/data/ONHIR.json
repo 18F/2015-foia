@@ -1,0 +1,185 @@
+{
+  "abbreviation": "ONHIR",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Scott Kuhr",
+          "Freedom of Information/Privacy Act Officer",
+          "P.O. Box KK"
+        ],
+        "city": "Flagstaff",
+        "state": "AZ",
+        "street": "201 E. Birch Avenue",
+        "zip": "86002"
+      },
+      "emails": [
+        "eligilility@onhir.gov"
+      ],
+      "fax": "978-774-1977",
+      "misc": {
+        "Freedom of Information/Privacy Act Officer": {
+          "name": "Scott Kuhr",
+          "phone": [
+            "928-779-2727 x145"
+          ]
+        }
+      },
+      "name": "Office of Navajo and Hopi Indian Relocation",
+      "phone": "928-779-2727 x145",
+      "public_liaison": {
+        "name": "Lawrence A. Ruzzow",
+        "phone": [
+          "928-779-2721"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "38",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "4.43",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5.5",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "expedited_processing_highest_days": "0",
+          "simple_average_days": "8.53",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2014": {
+          "simple_average_days": "2.39",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "simple_average_days": "2.13",
+          "simple_highest_days": "14",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "simple_average_days": "1.58",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "928-779-2727 x145"
+        ]
+      },
+      "top_level": false,
+      "website": "http://onhir.gov/"
+    }
+  ],
+  "description": "The Office of Navajo and Hopi Indian Relocation (ONHIR) was established by Congress to implement the settlement of  a land conflict between the Navajo and Hopi Indian Tribes.",
+  "name": "Office of Navajo and Hopi Indian Relocation",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "12",
+      "simple_highest_days": "38",
+      "simple_lowest_days": "1",
+      "simple_median_days": "6"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "4.43",
+      "simple_highest_days": "16",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5.5",
+      "simple_highest_days": "28",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    },
+    "2013": {
+      "expedited_processing_highest_days": "0",
+      "simple_average_days": "8.53",
+      "simple_highest_days": "37",
+      "simple_lowest_days": "1",
+      "simple_median_days": "6"
+    },
+    "2014": {
+      "simple_average_days": "2.39",
+      "simple_highest_days": "16",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2015": {
+      "simple_average_days": "2.13",
+      "simple_highest_days": "14",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2016": {
+      "simple_average_days": "1.58",
+      "simple_highest_days": "7",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    }
+  }
+}

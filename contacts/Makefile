@@ -7,6 +7,7 @@ contacts:
 	python processing_time_scraper.py
 	python keywords_from_fr.py
 	python layer_with_reading_room.py
+	python convert_to_json.py
 
 test:
 	nosetests

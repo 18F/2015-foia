@@ -1,0 +1,184 @@
+{
+  "abbreviation": "CSOSA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Rochelle Carpenter",
+          "Government Information Specialist, Office of the General Counsel",
+          "Room 1220"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "633 Indiana Avenue, NW",
+        "zip": "20004-2902"
+      },
+      "emails": [
+        "Renee.Barley@csosa.gov"
+      ],
+      "fax": "202-220-5350",
+      "foia_officer": {
+        "name": "Renee Barley",
+        "phone": [
+          "202-220-5300"
+        ]
+      },
+      "name": "Court Services and Offender Supervision Agency",
+      "phone": "202-220-5300",
+      "public_liaison": {
+        "name": "Rochelle Carpenter",
+        "phone": [
+          "202-220-5300"
+        ]
+      },
+      "request_form": "http://www.csosa.gov/about/foia/foia-request-form.aspx",
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "29.92",
+          "simple_highest_days": "269",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "27"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "37",
+          "simple_highest_days": "475",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2013": {
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "14.56",
+          "simple_highest_days": "207",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2014": {
+          "simple_average_days": "30.3",
+          "simple_highest_days": "401",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2015": {
+          "simple_average_days": "21.67",
+          "simple_highest_days": "194",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "complex_average_days": "37.5",
+          "complex_highest_days": "55",
+          "complex_lowest_days": "20",
+          "complex_median_days": "37.5",
+          "simple_average_days": "22.15",
+          "simple_highest_days": "247",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-220-5300"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.csosa.gov/about/foia/overview.aspx"
+    }
+  ],
+  "description": "CSOSA's mission is to increase public safety, prevent crime, reduce recidivism, and support the fair administration of justice in close collaboration with the community.",
+  "name": "Court Services and Offender Supervision Agency",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "42.1",
+      "simple_highest_days": "62",
+      "simple_lowest_days": "2",
+      "simple_median_days": "23"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "29.92",
+      "simple_highest_days": "269",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "27"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "37",
+      "simple_highest_days": "475",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2013": {
+      "expedited_processing_average_days": "1",
+      "expedited_processing_highest_days": "1",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "14.56",
+      "simple_highest_days": "207",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10"
+    },
+    "2014": {
+      "simple_average_days": "30.3",
+      "simple_highest_days": "401",
+      "simple_lowest_days": "1",
+      "simple_median_days": "15"
+    },
+    "2015": {
+      "simple_average_days": "21.67",
+      "simple_highest_days": "194",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2016": {
+      "complex_average_days": "37.5",
+      "complex_highest_days": "55",
+      "complex_lowest_days": "20",
+      "complex_median_days": "37.5",
+      "simple_average_days": "22.15",
+      "simple_highest_days": "247",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "18"
+    }
+  }
+}

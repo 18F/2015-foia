@@ -1,0 +1,308 @@
+{
+  "abbreviation": "OMB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Dionne Hardy",
+          "FOIA Officer",
+          "9th Floor"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "725 17th Street, NW",
+        "zip": "20503"
+      },
+      "emails": [
+        "OMBFOIA@omb.eop.gov"
+      ],
+      "name": "Office of Management and Budget",
+      "phone": "202-395-3642",
+      "public_liaison": {
+        "name": "Sarah Spooner",
+        "phone": [
+          "202-395-7250"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "26",
+          "simple_highest_days": "105",
+          "simple_lowest_days": "5",
+          "simple_median_days": "20"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "23",
+          "simple_highest_days": "83",
+          "simple_lowest_days": "3",
+          "simple_median_days": "18"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "52",
+          "simple_highest_days": "236",
+          "simple_lowest_days": "2",
+          "simple_median_days": "33"
+        },
+        "2011": {
+          "simple_average_days": "82",
+          "simple_highest_days": "284",
+          "simple_lowest_days": "5",
+          "simple_median_days": "66"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "69",
+          "simple_highest_days": "648",
+          "simple_lowest_days": "1",
+          "simple_median_days": "44"
+        },
+        "2013": {
+          "simple_average_days": "31",
+          "simple_highest_days": "233",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2014": {
+          "simple_average_days": "106",
+          "simple_highest_days": "514",
+          "simple_lowest_days": "1",
+          "simple_median_days": "39"
+        },
+        "2015": {
+          "simple_average_days": "80",
+          "simple_highest_days": "406",
+          "simple_lowest_days": "1",
+          "simple_median_days": "40"
+        },
+        "2016": {
+          "simple_average_days": "131",
+          "simple_highest_days": "838",
+          "simple_lowest_days": "1",
+          "simple_median_days": "38"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-395-3642"
+        ]
+      },
+      "top_level": false
+    }
+  ],
+  "description": "The core mission of OMB is to serve the President of the United States in implementing his vision across the Executive Branch.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "American Samoa",
+    "Blind",
+    "Broadband",
+    "Business and industry",
+    "Civil rights",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Copyright",
+    "Credit",
+    "Cultural exchange programs",
+    "Drug abuse",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Equal educational opportunity",
+    "Federally affected areas",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Grant administrations",
+    "Grant programs",
+    "Grant programs-education",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Guam",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Human research subjects",
+    "Indians",
+    "Indians-education",
+    "Indians-tribal government",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Manpower training programs",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Pacific Islands Trust Territory",
+    "Penalties",
+    "Privacy",
+    "Private schools",
+    "Reporting and recordkeeping requirements",
+    "Rural areas",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Securities",
+    "Small businesses",
+    "State and local governments",
+    "Student aid",
+    "Students",
+    "Teachers",
+    "Telecommunications",
+    "Telephone",
+    "Urban areas",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Wages",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Women"
+  ],
+  "name": "Office of Management and Budget",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "26",
+      "simple_highest_days": "105",
+      "simple_lowest_days": "5",
+      "simple_median_days": "20"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "23",
+      "simple_highest_days": "83",
+      "simple_lowest_days": "3",
+      "simple_median_days": "18"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "52",
+      "simple_highest_days": "236",
+      "simple_lowest_days": "2",
+      "simple_median_days": "33"
+    },
+    "2011": {
+      "simple_average_days": "82",
+      "simple_highest_days": "284",
+      "simple_lowest_days": "5",
+      "simple_median_days": "66"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "69",
+      "simple_highest_days": "648",
+      "simple_lowest_days": "1",
+      "simple_median_days": "44"
+    },
+    "2013": {
+      "simple_average_days": "31",
+      "simple_highest_days": "233",
+      "simple_lowest_days": "1",
+      "simple_median_days": "18"
+    },
+    "2014": {
+      "simple_average_days": "106",
+      "simple_highest_days": "514",
+      "simple_lowest_days": "1",
+      "simple_median_days": "39"
+    },
+    "2015": {
+      "simple_average_days": "80",
+      "simple_highest_days": "406",
+      "simple_lowest_days": "1",
+      "simple_median_days": "40"
+    },
+    "2016": {
+      "simple_average_days": "131",
+      "simple_highest_days": "838",
+      "simple_lowest_days": "1",
+      "simple_median_days": "38"
+    }
+  }
+}

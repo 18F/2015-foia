@@ -1,0 +1,208 @@
+{
+  "abbreviation": "FRTIB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Amanda Haas",
+          "FOIA Officer",
+          "10th Floor"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "77 K Street, NE",
+        "zip": "20002"
+      },
+      "emails": [
+        "foiarequest@tsp.gov"
+      ],
+      "fax": "202-942-1676",
+      "foia_officer": {
+        "name": "Amanda Haas",
+        "phone": [
+          "202-942-1660"
+        ]
+      },
+      "name": "Federal Retirement Thrift Investment Board",
+      "phone": "202-942-1660",
+      "public_liaison": {
+        "name": "Dharmesh Vashee",
+        "phone": [
+          "202-639-4424"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading Room",
+          "https://www.frtib.gov/ReadingRoom/index.html"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16.5",
+          "simple_highest_days": "38",
+          "simple_lowest_days": "6",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "3",
+          "simple_median_days": "20"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "27",
+          "simple_highest_days": "57",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2013": {
+          "simple_average_days": "27",
+          "simple_highest_days": "112",
+          "simple_lowest_days": "11",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "simple_average_days": "26.7",
+          "simple_highest_days": "183",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19.5"
+        },
+        "2015": {
+          "simple_average_days": "36",
+          "simple_highest_days": "130",
+          "simple_lowest_days": "6",
+          "simple_median_days": "21"
+        },
+        "2016": {
+          "simple_average_days": "19",
+          "simple_highest_days": "66",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        }
+      },
+      "service_center": {
+        "name": "Amanda Haas",
+        "phone": [
+          "202-942-1660"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.frtib.gov/ReadingRoom/index.html"
+    }
+  ],
+  "description": "The Agency was established to administer the Thrift Savings Plan (TSP), which provides Federal employees the opportunity to save for additional retirement security.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Alimony",
+    "Child support",
+    "Claims",
+    "Courts",
+    "Credit",
+    "District of Columbia",
+    "Employee benefit plans",
+    "Freedom of information",
+    "Government employees",
+    "Income taxes",
+    "Military personnel",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Retirement",
+    "Sunshine Act",
+    "Taxes",
+    "Wages"
+  ],
+  "name": "Federal Retirement Thrift Investment Board",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "16.5",
+      "simple_highest_days": "38",
+      "simple_lowest_days": "6",
+      "simple_median_days": "17"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "16",
+      "simple_highest_days": "23",
+      "simple_lowest_days": "3",
+      "simple_median_days": "20"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "27",
+      "simple_highest_days": "57",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2013": {
+      "simple_average_days": "27",
+      "simple_highest_days": "112",
+      "simple_lowest_days": "11",
+      "simple_median_days": "22"
+    },
+    "2014": {
+      "simple_average_days": "26.7",
+      "simple_highest_days": "183",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19.5"
+    },
+    "2015": {
+      "simple_average_days": "36",
+      "simple_highest_days": "130",
+      "simple_lowest_days": "6",
+      "simple_median_days": "21"
+    },
+    "2016": {
+      "simple_average_days": "19",
+      "simple_highest_days": "66",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    }
+  }
+}

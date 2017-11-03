@@ -1,0 +1,482 @@
+{
+  "abbreviation": "USPS",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "Deputy Chief FOIA Officer",
+          "Room IP830"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "475 L'Enfant Plaza, SW",
+        "zip": "20260-1101"
+      },
+      "fax": "202-268-5353",
+      "misc": {
+        "Manager, Records Office": {
+          "name": "FOIA Contact",
+          "phone": [
+            "202-268-2608"
+          ]
+        }
+      },
+      "name": "USPS Headquarters Office",
+      "phone": "202-268-2608",
+      "public_liaison": {
+        "name": "Jane Eyre",
+        "phone": [
+          "202-268-2608"
+        ]
+      },
+      "request_form": "https://pfoiapal.usps.com/palMain.aspx",
+      "service_center": {
+        "phone": [
+          "202-268-2608"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.usps.com/foia/welcome.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "St. Louis General Law Service Center",
+          "Room 2400"
+        ],
+        "city": "St. Louis",
+        "state": "MO",
+        "street": "1720 Market Street",
+        "zip": "63155-9948"
+      },
+      "fax": "650-578-4956",
+      "name": "USPS Field Office",
+      "phone": "314-345-5894",
+      "public_liaison": {
+        "name": "Linda Crump",
+        "phone": [
+          "314-345-5894"
+        ]
+      },
+      "request_form": "https://pfoiapal.usps.com/palMain.aspx",
+      "service_center": {
+        "phone": [
+          "314-345-5894"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.usps.com/foia/welcome.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "Office of Counsel",
+          "Room 3301"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "475 L'Enfant Plaza, SW",
+        "zip": "20260-2101"
+      },
+      "description": "The mission of the U.S. Postal Inspection Service is to support and protect the U.S. Postal Service and its employees, infrastructure, and customers; enforce the laws that defend the nation\u2019s mail system from illegal or dangerous use; and ensure public trust in the mail.",
+      "fax": "202-268-4538",
+      "misc": {
+        "Inspector Attorney": {
+          "name": "Steven Sultan",
+          "phone": [
+            "202-268-7528"
+          ]
+        },
+        "Office of Counsel": {
+          "name": "FOIA Contact",
+          "phone": [
+            "202-268-7004"
+          ]
+        }
+      },
+      "name": "Postal Inspection Service",
+      "phone": "202-268-7004",
+      "public_liaison": {
+        "name": "Betty White",
+        "phone": [
+          "202-268-7004"
+        ]
+      },
+      "request_form": "https://pfoiapal.usps.com/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "69",
+          "complex_highest_days": "87",
+          "complex_lowest_days": "19",
+          "complex_median_days": "82",
+          "simple_average_days": "9",
+          "simple_highest_days": "126",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2011": {
+          "complex_average_days": "23.5",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "10",
+          "complex_median_days": "23.5",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.67",
+          "simple_highest_days": "888",
+          "simple_lowest_days": "0",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "30",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "30",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "7.75",
+          "simple_highest_days": "106",
+          "simple_lowest_days": "0",
+          "simple_median_days": "6"
+        },
+        "2013": {
+          "complex_average_days": "59",
+          "complex_highest_days": "218",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "less than 1",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "7.88",
+          "simple_highest_days": "115",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2014": {
+          "complex_average_days": "43.5",
+          "complex_highest_days": "82",
+          "complex_lowest_days": "1",
+          "complex_median_days": "60",
+          "simple_average_days": "15.84",
+          "simple_highest_days": "215",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "63.48",
+          "complex_highest_days": "220",
+          "complex_lowest_days": "1",
+          "complex_median_days": "68",
+          "simple_average_days": "20.3",
+          "simple_highest_days": "122",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "complex_average_days": "87",
+          "complex_highest_days": "269",
+          "complex_lowest_days": "1",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "10",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "14",
+          "simple_highest_days": "215",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-268-7528"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.usps.com/foia/welcome.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "FOIA Contact",
+          "Suite 10000"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "1735 North Lynn Street",
+        "zip": "22209-2020"
+      },
+      "emails": [
+        "FOIA@uspsoig.gov"
+      ],
+      "fax": "703-248-4626",
+      "misc": {
+        "FOIA Contact": {
+          "name": "FOIA Contact",
+          "phone": [
+            "703-248-2100"
+          ]
+        }
+      },
+      "name": "Office of the Inspector General",
+      "phone": "703-248-2100",
+      "public_liaison": {
+        "name": "Kathy Kikel",
+        "phone": [
+          "703-248-2100"
+        ]
+      },
+      "request_form": "https://pfoiapal.usps.com/palMain.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "31",
+          "complex_highest_days": "61",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "6.25",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "6.5",
+          "simple_average_days": "8",
+          "simple_highest_days": "74",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "complex_average_days": "12.75",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "3",
+          "complex_median_days": "14",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "6.11",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "0",
+          "simple_median_days": "2"
+        },
+        "2012": {
+          "complex_average_days": "30.7",
+          "complex_highest_days": "74",
+          "complex_lowest_days": "2",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "6.74",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "0",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "44.39",
+          "complex_highest_days": "128",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "4",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "7.57",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2014": {
+          "complex_average_days": "39.78",
+          "complex_highest_days": "338",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16.5",
+          "simple_average_days": "7.41",
+          "simple_highest_days": "127",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "complex_average_days": "10.5",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "1",
+          "complex_median_days": "10.5",
+          "simple_average_days": "8.22",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "44",
+          "complex_highest_days": "98",
+          "complex_lowest_days": "20",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "29",
+          "expedited_processing_highest_days": "29",
+          "expedited_processing_lowest_days": "29",
+          "expedited_processing_median_days": "29",
+          "simple_average_days": "7",
+          "simple_highest_days": "72",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-248-2100"
+        ]
+      },
+      "top_level": false,
+      "website": "https://uspsoig.gov/general/foia"
+    }
+  ],
+  "description": "The USPS OIG achieves its mission of helping maintain confidence in the postal system and improving the Postal Service\u00b4s bottom line through independent audits and investigations. Audits of postal programs and operations help to determine whether the programs and operations are efficient and cost-effective. Investigations help prevent and detect fraud, waste, and misconduct and have a deterrent effect on postal crimes.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Advertising",
+    "Air carriers",
+    "Archives and records",
+    "Authority delegations (Government agencies)",
+    "Banks, banking",
+    "Buildings and facilities",
+    "Civil rights",
+    "Claims",
+    "Computer technology",
+    "Conflict of interests",
+    "Courts",
+    "Credit",
+    "Crime",
+    "Environmental impact statements",
+    "Equal access to justice",
+    "Federal buildings and facilities",
+    "Foreign relations",
+    "Fraud",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Individuals with disabilities",
+    "Intergovernmental relations",
+    "Law enforcement",
+    "Law enforcement officers",
+    "Lotteries",
+    "Maritime carriers",
+    "Newspapers and magazines",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Postal Service",
+    "Privacy",
+    "Security measures",
+    "Seizures and forfeitures",
+    "State and local governments",
+    "Wages"
+  ],
+  "name": "United States Postal Service",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "46",
+      "complex_highest_days": "495",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "25",
+      "expedited_processing_average_days": "6.25",
+      "expedited_processing_highest_days": "8",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "6.5",
+      "simple_average_days": "17",
+      "simple_highest_days": "524",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2011": {
+      "complex_average_days": "43.13",
+      "complex_highest_days": "573",
+      "complex_lowest_days": "0",
+      "complex_median_days": "21",
+      "expedited_processing_average_days": "14.33",
+      "expedited_processing_highest_days": "34",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "9.5",
+      "simple_average_days": "11.44",
+      "simple_highest_days": "888",
+      "simple_lowest_days": "0",
+      "simple_median_days": "5"
+    },
+    "2012": {
+      "complex_average_days": "44.06",
+      "complex_highest_days": "476",
+      "complex_lowest_days": "1",
+      "complex_median_days": "23.5",
+      "expedited_processing_average_days": "1",
+      "expedited_processing_highest_days": "1",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "15.06",
+      "simple_highest_days": "335",
+      "simple_lowest_days": "0",
+      "simple_median_days": "7"
+    },
+    "2013": {
+      "complex_average_days": "49.62",
+      "complex_highest_days": "1059",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "23",
+      "expedited_processing_average_days": "8",
+      "expedited_processing_highest_days": "24",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "4",
+      "simple_average_days": "13.63",
+      "simple_highest_days": "504",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2014": {
+      "complex_average_days": "39.02",
+      "complex_highest_days": "673",
+      "complex_lowest_days": "1",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "7.6",
+      "expedited_processing_highest_days": "33",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "15.05",
+      "simple_highest_days": "544",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2015": {
+      "complex_average_days": "70.24",
+      "complex_highest_days": "1032",
+      "complex_lowest_days": "1",
+      "complex_median_days": "26",
+      "expedited_processing_average_days": "3.83",
+      "expedited_processing_highest_days": "10",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "3.5",
+      "simple_average_days": "18.91",
+      "simple_highest_days": "501",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2016": {
+      "complex_average_days": "55",
+      "complex_highest_days": "1331",
+      "complex_lowest_days": "1",
+      "complex_median_days": "26",
+      "expedited_processing_average_days": "14",
+      "expedited_processing_highest_days": "29",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "12",
+      "simple_highest_days": "390",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    }
+  }
+}

@@ -1,0 +1,2060 @@
+{
+  "abbreviation": "EEOC",
+  "address": {
+    "address_lines": [
+      "Stephanie Garner",
+      "Assistant Legal Counsel/FOIA, OLC/FOIA Programs",
+      "Suite 5NW02E"
+    ],
+    "city": "Washington",
+    "state": "DC",
+    "street": "131 M Street, NE",
+    "zip": "20507"
+  },
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie Garner",
+          "Assistant Legal Counsel/FOIA",
+          "Suite 5NW02E"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "131 M Street, NE",
+        "zip": "20507"
+      },
+      "emails": [
+        "FOIA@EEOC.gov"
+      ],
+      "fax": "202-653-6034",
+      "misc": {
+        "Assistant Legal Counsel/FOIA": {
+          "name": "Stephanie Garner",
+          "phone": [
+            "202-663-4634",
+            "202-663-7026 (TTY)"
+          ]
+        }
+      },
+      "name": "Headquarters",
+      "phone": "202-663-4634",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/eeoc/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Nadetia Williams",
+          "Enforcement Manager",
+          "Suite 4R30"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "street": "100 Alabama Street, SW",
+        "zip": "30303"
+      },
+      "emails": [
+        "ATLAFOIA@eeoc.gov"
+      ],
+      "fax": "404-562-6909",
+      "misc": {
+        "Enforcement Manager": {
+          "name": "William Batts",
+          "phone": [
+            "404-562-6840",
+            "404-562-6801 (TTY)"
+          ]
+        }
+      },
+      "name": "Atlanta District Office (Savanna Local Office)",
+      "phone": "404-562-6835",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5.4618",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13.4248",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "30.04",
+          "simple_highest_days": "517",
+          "simple_lowest_days": "1",
+          "simple_median_days": "21"
+        },
+        "2013": {
+          "simple_average_days": "21.6",
+          "simple_highest_days": "164",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "simple_average_days": "5.67",
+          "simple_highest_days": "61",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "simple_average_days": "2.7",
+          "simple_highest_days": "245",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "complex_average_days": "1",
+          "complex_highest_days": "1",
+          "complex_lowest_days": "1",
+          "complex_median_days": "1",
+          "simple_average_days": "4.82",
+          "simple_highest_days": "101",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/atlanta/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Toniko Noland",
+          "Records Disclosure Coordinator",
+          "Ridge Park Place, Suite 2000"
+        ],
+        "city": "Birmingham",
+        "state": "AL",
+        "street": "1130 22nd Street",
+        "zip": "35205"
+      },
+      "emails": [
+        "BIRMFOIA@eeoc.gov"
+      ],
+      "fax": "205-212-2105",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Willie Alford",
+          "phone": [
+            "205-212-2074",
+            "205-212-2112 (TTY)"
+          ]
+        }
+      },
+      "name": "Birmingham District Office (Mobile Local Office, Jackson Area Office)",
+      "phone": "205-212-2069",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16.3047",
+          "simple_highest_days": "69",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.6876",
+          "simple_highest_days": "78",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19.63",
+          "simple_highest_days": "72",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "27",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "22.95",
+          "simple_highest_days": "109",
+          "simple_lowest_days": "1",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "simple_average_days": "29.63",
+          "simple_highest_days": "89",
+          "simple_lowest_days": "1",
+          "simple_median_days": "29"
+        },
+        "2015": {
+          "simple_average_days": "20.38",
+          "simple_highest_days": "45",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2016": {
+          "complex_average_days": "36.17",
+          "complex_highest_days": "45",
+          "complex_lowest_days": "28",
+          "complex_median_days": "38",
+          "simple_average_days": "29.88",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "29"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/birmingham/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Francine Michaelson",
+          "Records Disclosure Coordinator",
+          "Suite 400"
+        ],
+        "city": "Charlotte",
+        "state": "NC",
+        "street": "129 West Trade Street",
+        "zip": "28202"
+      },
+      "emails": [
+        "CHARFOIA@eeoc.gov"
+      ],
+      "fax": "704-344-6734",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Joyce Stafford",
+          "phone": [
+            "704-954-6488",
+            "704-344-6684 (TTY)"
+          ]
+        }
+      },
+      "name": "Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office",
+      "phone": "704-954-6424",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.5764",
+          "simple_highest_days": "57",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "20.7727",
+          "simple_highest_days": "261",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.52",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "expedited_processing_average_days": "6.4",
+          "expedited_processing_highest_days": "19",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "2.5",
+          "simple_average_days": "17.87",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2014": {
+          "expedited_processing_average_days": "1.87",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "16.51",
+          "simple_highest_days": "267",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2015": {
+          "simple_average_days": "19.2",
+          "simple_highest_days": "55",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2016": {
+          "simple_average_days": "22.23",
+          "simple_highest_days": "94",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "21"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/charlotte/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sylvia Bustos",
+          "Records Disclosure Coordinator",
+          "Suite 2000"
+        ],
+        "city": "Chicago",
+        "state": "IL",
+        "street": "500 West Madison Street",
+        "zip": "60661"
+      },
+      "emails": [
+        "CHICFOIA@eeoc.gov"
+      ],
+      "fax": "312-869-8220",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Sylvia Bustos",
+          "phone": [
+            "312-353-8783",
+            "312-353-2421 (TTY)"
+          ]
+        }
+      },
+      "name": "Chicago District Office (Milwaukee and Minneapolis Area Offices)",
+      "phone": "312-869-8084",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13.6918",
+          "simple_highest_days": "157",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14.3398",
+          "simple_highest_days": "95",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16.38",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2013": {
+          "simple_average_days": "15.72",
+          "simple_highest_days": "55",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2014": {
+          "simple_average_days": "13.26",
+          "simple_highest_days": "70",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2015": {
+          "simple_average_days": "12.78",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2016": {
+          "simple_average_days": "18.04",
+          "simple_highest_days": "79",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/chicago/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kelly Melton",
+          "Records Disclosure Coordinator",
+          "3rd Floor"
+        ],
+        "city": "Dallas",
+        "state": "TX",
+        "street": "207 S. Houston Street",
+        "zip": "75202-4726"
+      },
+      "emails": [
+        "DALLASFOIA@eeoc.gov"
+      ],
+      "fax": "214-253-2749",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Peter Robinson",
+          "phone": [
+            "214-253-2732",
+            "214-253-2710 (TTY)"
+          ]
+        }
+      },
+      "name": "Dallas District Office (San Antonio Field Office, El Paso Area Office)",
+      "phone": "214-253-2780",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "7.71501",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12.7161",
+          "simple_highest_days": "86",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14.84",
+          "simple_highest_days": "127",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "expedited_processing_average_days": "12",
+          "expedited_processing_highest_days": "15",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "15",
+          "simple_average_days": "16.25",
+          "simple_highest_days": "110",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2014": {
+          "simple_average_days": "21.56",
+          "simple_highest_days": "161",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2015": {
+          "simple_average_days": "19.71",
+          "simple_highest_days": "168",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "simple_average_days": "32.29",
+          "simple_highest_days": "243",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/dallas/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Vy Nguyen",
+          "Records Disclosure Coordinator",
+          "6th Floor"
+        ],
+        "city": "Houston",
+        "state": "TX",
+        "street": "1202 Louisiana St.",
+        "zip": "77002-8049"
+      },
+      "emails": [
+        "HOUSFOIA@eeoc.gov"
+      ],
+      "fax": "713-209-3381",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Susam Velasquez",
+          "phone": [
+            "713-209-3416",
+            "713-209-3439 (TTY)"
+          ]
+        }
+      },
+      "name": "Houston District Office (New Orleans Field Office)",
+      "phone": "713-209-3416",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12.9878",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.3001",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.61",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "9.18",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "simple_average_days": "13.9",
+          "simple_highest_days": "107",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12.5"
+        },
+        "2015": {
+          "simple_average_days": "19.22",
+          "simple_highest_days": "154",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "complex_average_days": "175",
+          "complex_highest_days": "196",
+          "complex_lowest_days": "154",
+          "complex_median_days": "175",
+          "simple_average_days": "43.42",
+          "simple_highest_days": "183",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/houston/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Donnae Williams",
+          "Records Disclosure Coordinator",
+          "Suite 1900"
+        ],
+        "city": "Indianapolis",
+        "state": "IN",
+        "street": "101 West Ohio Street",
+        "zip": "46204-4203"
+      },
+      "emails": [
+        "mailto",
+        "INDIFOIA@eeoc.gov"
+      ],
+      "fax": "317-226-7953",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Janice Andrews",
+          "phone": [
+            "317-226-6654",
+            "317-226-5162 (TTY)"
+          ]
+        }
+      },
+      "name": "Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)",
+      "phone": "317-226-7952",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5.76913",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.06876",
+          "simple_highest_days": "41",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10.08",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "expedited_processing_average_days": "21",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "21",
+          "expedited_processing_median_days": "21",
+          "simple_average_days": "10.18",
+          "simple_highest_days": "38",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2014": {
+          "simple_average_days": "7.45",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "simple_average_days": "6.16",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "complex_average_days": "49",
+          "complex_highest_days": "94",
+          "complex_lowest_days": "4",
+          "complex_median_days": "49",
+          "simple_average_days": "10.91",
+          "simple_highest_days": "145",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/indianapolis/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Karen Reuter",
+          "Records Disclosure Coordinator",
+          "4th Floor"
+        ],
+        "city": "Los Angeles",
+        "state": "CA",
+        "street": "255 E. Temple Street",
+        "zip": "90012"
+      },
+      "emails": [
+        "LOSAFOIA@eeoc.gov"
+      ],
+      "fax": "213-894-1118",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Lenee Sweeney",
+          "phone": [
+            "213-894-1712",
+            "213-894-1121"
+          ]
+        }
+      },
+      "name": "Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)",
+      "phone": "213-894-1042",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "1.97154",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8.3125",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.85",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "14",
+          "expedited_processing_lowest_days": "14",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "2.7",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2014": {
+          "simple_average_days": "2.13",
+          "simple_highest_days": "226",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "simple_average_days": "1.87",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "complex_average_days": "11",
+          "complex_highest_days": "11",
+          "complex_lowest_days": "11",
+          "complex_median_days": "11",
+          "simple_average_days": "5.6",
+          "simple_highest_days": "60",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/losangeles/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "John Cooper",
+          "Enforcement Manager",
+          "Suite 900"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "street": "1407 Union Avenue",
+        "zip": "38104"
+      },
+      "emails": [
+        "MEMPFOIA@eeoc.gov"
+      ],
+      "fax": "901-544-0111",
+      "misc": {
+        "Enforcement Manager": {
+          "name": "Audrey Bonner",
+          "phone": [
+            "901-544-0163",
+            "901-544-0112 (TTY)"
+          ]
+        }
+      },
+      "name": "Memphis District Office (Little Rock and Nashville Area Offices)",
+      "phone": "901-544-0100",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14.9498",
+          "simple_highest_days": "31",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "17.0733",
+          "simple_highest_days": "54",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "21.74",
+          "simple_highest_days": "73",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "simple_average_days": "19.76",
+          "simple_highest_days": "48",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2014": {
+          "simple_average_days": "21.73",
+          "simple_highest_days": "57",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "simple_average_days": "13.77",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2016": {
+          "complex_average_days": "25",
+          "complex_highest_days": "28",
+          "complex_lowest_days": "22",
+          "complex_median_days": "25",
+          "simple_average_days": "14.25",
+          "simple_highest_days": "31",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/memphis/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Fredricka Warren",
+          "Records Disclosure Coordinator",
+          "Suite 1500"
+        ],
+        "city": "Miami",
+        "state": "FL",
+        "street": "100 SE Street",
+        "zip": "33131"
+      },
+      "emails": [
+        "MIAMFOIA@eeoc.gov"
+      ],
+      "fax": "305-808-1855",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Carmen Figueroa-Martinez",
+          "phone": [
+            "305-808-1796",
+            "305-808-1742 (TTY)"
+          ]
+        }
+      },
+      "name": "Miami District Office (Tampa Field Office and San Juan Local Office)",
+      "phone": "787-771-1471",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13.479",
+          "simple_highest_days": "240",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.1431",
+          "simple_highest_days": "84",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.62",
+          "simple_highest_days": "88",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "expedited_processing_average_days": "11.33",
+          "expedited_processing_highest_days": "12",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "15.37",
+          "simple_highest_days": "105",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2014": {
+          "simple_average_days": "16.59",
+          "simple_highest_days": "63",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2015": {
+          "simple_average_days": "17.7",
+          "simple_highest_days": "65",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "complex_average_days": "27.5",
+          "complex_highest_days": "40",
+          "complex_lowest_days": "15",
+          "complex_median_days": "27.5",
+          "simple_average_days": "18.74",
+          "simple_highest_days": "190",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/miami/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "David Phillips",
+          "Records Disclosure Coordinator",
+          "5th Floor"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "street": "33 Whitehall Street",
+        "zip": "10004"
+      },
+      "emails": [
+        "NEWYFOIA@eeoc.gov"
+      ],
+      "fax": "212-336-3625",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "David Phillips",
+          "phone": [
+            "212-336-3644",
+            "212-336-3622 (TTY)"
+          ]
+        }
+      },
+      "name": "New York District Office (Boston and Newark Area Offices, Buffalo Local Office)",
+      "phone": "212-336-3644",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15.1007",
+          "simple_highest_days": "128",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "48.8708",
+          "simple_highest_days": "290",
+          "simple_lowest_days": "1",
+          "simple_median_days": "29"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "40.58",
+          "simple_highest_days": "284",
+          "simple_lowest_days": "1",
+          "simple_median_days": "28"
+        },
+        "2013": {
+          "expedited_processing_average_days": "20.5",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "20",
+          "expedited_processing_median_days": "20.5",
+          "simple_average_days": "37.82",
+          "simple_highest_days": "253",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2014": {
+          "simple_average_days": "37.05",
+          "simple_highest_days": "176",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2015": {
+          "simple_average_days": "20.53",
+          "simple_highest_days": "78",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2016": {
+          "simple_average_days": "33.87",
+          "simple_highest_days": "162",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "28"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/newyork/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Thomas Farragher",
+          "Records Disclosure Coordinator",
+          "Suite 1300"
+        ],
+        "city": "Philadelphia",
+        "state": "PA",
+        "street": "801 Market Street",
+        "zip": "19107-3127"
+      },
+      "emails": [
+        "PHILFOIA@eeoc.gov"
+      ],
+      "fax": "215-440-2606",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Fredericka Warren",
+          "phone": [
+            "215-440-2681",
+            "215-440-2610 (TTY)"
+          ]
+        }
+      },
+      "name": "Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)",
+      "phone": "215-440-2840",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13.5979",
+          "simple_highest_days": "110",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24.791",
+          "simple_highest_days": "165",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "25.73",
+          "simple_highest_days": "201",
+          "simple_lowest_days": "1",
+          "simple_median_days": "27"
+        },
+        "2013": {
+          "simple_average_days": "28.67",
+          "simple_highest_days": "112",
+          "simple_lowest_days": "1",
+          "simple_median_days": "29"
+        },
+        "2014": {
+          "simple_average_days": "29.3",
+          "simple_highest_days": "316",
+          "simple_lowest_days": "1",
+          "simple_median_days": "25.5"
+        },
+        "2015": {
+          "simple_average_days": "30.41",
+          "simple_highest_days": "86",
+          "simple_lowest_days": "1",
+          "simple_median_days": "28"
+        },
+        "2016": {
+          "simple_average_days": "49.3",
+          "simple_highest_days": "157",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "52"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/philadelphia/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Joseph Stier",
+          "Records Disclosure Officer",
+          "Suite 690"
+        ],
+        "city": "Phoenix",
+        "state": "AZ",
+        "street": "3300 N. Central Avenue",
+        "zip": "85012-2504"
+      },
+      "emails": [
+        "PHOENIXFOIA@eeoc.gov"
+      ],
+      "fax": "602-640-5071",
+      "misc": {
+        "Records Disclosure Officer": {
+          "name": "Silvia M. Hart",
+          "phone": [
+            "602-640-5012",
+            "602-640-5072 (TTY)"
+          ]
+        }
+      },
+      "name": "Phoenix District Office (Denver Field Office, Albuquerque Area Office)",
+      "phone": "602-640-5012",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8.36937",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13.2801",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.49",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2013": {
+          "simple_average_days": "15.19",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2014": {
+          "simple_average_days": "14.06",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2015": {
+          "simple_average_days": "33.63",
+          "simple_highest_days": "143",
+          "simple_lowest_days": "1",
+          "simple_median_days": "37"
+        },
+        "2016": {
+          "simple_average_days": "17.8",
+          "simple_highest_days": "61",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/phoenix/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Vincent Clark",
+          "Records Disclosure Coordinator",
+          "Suite 500"
+        ],
+        "city": "San Francisco",
+        "state": "CA",
+        "street": "450 Golden Gate Avenue",
+        "zip": "94102-3661"
+      },
+      "emails": [
+        "SANFFOIA@eeoc.gov"
+      ],
+      "fax": "415-522-3415",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Vincent Clark",
+          "phone": [
+            "415-625-5632",
+            "415-625-5610 (TTY)"
+          ]
+        }
+      },
+      "name": "San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)",
+      "phone": "415-522-3144",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.8959",
+          "simple_highest_days": "49",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.03789",
+          "simple_highest_days": "100",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.25",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2013": {
+          "simple_average_days": "27.82",
+          "simple_highest_days": "228",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2014": {
+          "simple_average_days": "28.8",
+          "simple_highest_days": "232",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2015": {
+          "simple_average_days": "41.79",
+          "simple_highest_days": "370",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2016": {
+          "complex_average_days": "37",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "37",
+          "complex_median_days": "37",
+          "simple_average_days": "7.91",
+          "simple_highest_days": "252",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/sanfrancisco/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sherlyn Metzler",
+          "Records Disclosure Coordinator",
+          "Room 8100"
+        ],
+        "city": "St. Louis",
+        "state": "MO",
+        "street": "1222 Spruce Street",
+        "zip": "63103"
+      },
+      "emails": [
+        "STLOFOIA@eeoc.gov"
+      ],
+      "fax": "314-539-7050",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Inez Shiloah",
+          "phone": [
+            "314-539-7846",
+            "314-539-7803 (TTY)"
+          ]
+        }
+      },
+      "name": "St. Louis District Office (Kansas City and Oklahoma Area Offices)",
+      "phone": "314-539-7908",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14.2394",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15.0617",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.25",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2013": {
+          "simple_average_days": "11.34",
+          "simple_highest_days": "306",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "simple_average_days": "2.95",
+          "simple_highest_days": "91",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "simple_average_days": "15.99",
+          "simple_highest_days": "75",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2016": {
+          "complex_average_days": "less than 1",
+          "complex_highest_days": "less than 1",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "less than 1",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "22",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "22",
+          "simple_average_days": "32.91",
+          "simple_highest_days": "254",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "31"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/stlouis/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Tonya Bowens",
+          "Records Disclosure Coordinator",
+          "Suite 4NE29F"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "131 M Street, NE",
+        "zip": "20507"
+      },
+      "emails": [
+        "WASHFOIA@eeoc.gov"
+      ],
+      "fax": "202-419-0740",
+      "misc": {
+        "Records Disclosure Coordinator": {
+          "name": "Betsy Parrish",
+          "phone": [
+            "202-419-0705"
+          ]
+        }
+      },
+      "name": "Washington Field Office",
+      "phone": "202-419-0721",
+      "public_liaison": {
+        "name": "Stephanie Garner",
+        "phone": [
+          "202-663-4634",
+          "202-663-7026 (TTY)"
+        ]
+      },
+      "request_form": "https://egov.eeoc.gov/foia/client/submit_request.aspx",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.8473",
+          "simple_highest_days": "83",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16.3054",
+          "simple_highest_days": "29",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15.83",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2013": {
+          "simple_average_days": "14.26",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "simple_average_days": "16.9",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "simple_average_days": "17.23",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2016": {
+          "complex_average_days": "37",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "37",
+          "complex_median_days": "37",
+          "simple_average_days": "23.86",
+          "simple_highest_days": "111",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "20"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-663-4500"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eeoc.gov/field/washington/foia.cfm"
+    }
+  ],
+  "description": "The U.S. Equal Employment Opportunity Commission (EEOC) is responsible for enforcing federal laws that make it illegal to discriminate against a job applicant or an employee because of the person's race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability or genetic information",
+  "emails": [
+    "FOIA@EEOC.gov"
+  ],
+  "fax": "202-653-6034",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Advertising",
+    "Aged",
+    "Civil rights",
+    "Conflict of interests",
+    "Employee benefit plans",
+    "Equal employment opportunity",
+    "Ethics",
+    "Federal buildings and facilities",
+    "Freedom of information",
+    "Government employees",
+    "Individuals with disabilities",
+    "Intergovernmental relations",
+    "Investigations",
+    "Privacy",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Retirement",
+    "Sex discrimination",
+    "State and local governments",
+    "Sunshine Act"
+  ],
+  "name": "Equal Employment Opportunity Commission",
+  "phone": "202-663-4634",
+  "public_liaison": {
+    "name": "Stephanie Garner",
+    "phone": [
+      "202-663-4634",
+      "202-663-7026 (TTY)"
+    ]
+  },
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "1",
+      "expedited_processing_highest_days": "1",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "11.465",
+      "simple_highest_days": "240",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "3",
+      "expedited_processing_highest_days": "5",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "3",
+      "simple_average_days": "15.8739",
+      "simple_highest_days": "290",
+      "simple_lowest_days": "1",
+      "simple_median_days": "15"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "7.77",
+      "expedited_processing_highest_days": "19",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "5",
+      "simple_average_days": "18",
+      "simple_highest_days": "517",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2013": {
+      "expedited_processing_average_days": "7.09",
+      "expedited_processing_highest_days": "19",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "3",
+      "simple_average_days": "17.52",
+      "simple_highest_days": "306",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2014": {
+      "expedited_processing_average_days": "14.12",
+      "expedited_processing_highest_days": "24",
+      "expedited_processing_lowest_days": "5",
+      "expedited_processing_median_days": "14",
+      "simple_average_days": "16.87",
+      "simple_highest_days": "316",
+      "simple_lowest_days": "1",
+      "simple_median_days": "13"
+    },
+    "2015": {
+      "simple_average_days": "18.42",
+      "simple_highest_days": "357",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2016": {
+      "complex_average_days": "45.52",
+      "complex_highest_days": "226",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "30",
+      "expedited_processing_average_days": "22",
+      "expedited_processing_highest_days": "22",
+      "expedited_processing_lowest_days": "22",
+      "expedited_processing_median_days": "22",
+      "simple_average_days": "23.6",
+      "simple_highest_days": "350",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "18"
+    }
+  },
+  "service_center": {
+    "phone": [
+      "202-663-4500",
+      "202-663-7026 (TTY)"
+    ]
+  },
+  "top_level": false,
+  "website": "http://www.eeoc.gov/eeoc/foia/"
+}

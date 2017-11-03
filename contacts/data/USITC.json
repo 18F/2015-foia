@@ -1,0 +1,292 @@
+{
+  "abbreviation": "USITC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Lisa R. Barton",
+          "Chief FOIA Officer",
+          "112-AA"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "500 E Street, SW",
+        "zip": "20436"
+      },
+      "emails": [
+        "lisa.barton@usitc.gov"
+      ],
+      "fax": "202-205-2104",
+      "foia_officer": {
+        "name": "Lisa R. Barton",
+        "phone": [
+          "202-205-2000"
+        ]
+      },
+      "name": "United States International Trade Commission",
+      "phone": "202-205-2595",
+      "public_liaison": {
+        "name": "Jacqueline N. Gross",
+        "phone": [
+          "202-205-1816"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://www.usitc.gov/secretary/foia/foia_ereadingroom.htm"
+        ]
+      ],
+      "request_form": "http://pubapps.usitc.gov/applications/foia/request.asp",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "10.5",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "10.5",
+          "simple_average_days": "16",
+          "simple_highest_days": "60",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19",
+          "simple_highest_days": "49",
+          "simple_lowest_days": "2",
+          "simple_median_days": "18"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "4",
+          "expedited_processing_highest_days": "4",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "1",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "6",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "16",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "30",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "12",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2013": {
+          "complex_average_days": "30",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "30",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2015": {
+          "complex_average_days": "30",
+          "complex_highest_days": "38",
+          "complex_lowest_days": "20",
+          "complex_median_days": "30",
+          "simple_average_days": "15",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2016": {
+          "complex_average_days": "26",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "21",
+          "complex_median_days": "26",
+          "simple_average_days": "15",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "5",
+          "simple_median_days": "16"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-205-2595"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.usitc.gov/secretary/foia/index.htm"
+    }
+  ],
+  "description": "The mission of the Commission is to (1) administer U.S. trade remedy laws within its mandate in a fair and objective manner; (2) provide the President, USTR, and Congress with independent analysis, information, and support on matters of tariffs, international trade, and U.S. competitiveness; and (3) maintain the Harmonized Tariff Schedule of the United States (HTS).",
+  "name": "United States International Trade Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "10.5",
+      "expedited_processing_highest_days": "20",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "10.5",
+      "simple_average_days": "16",
+      "simple_highest_days": "60",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "19",
+      "simple_highest_days": "49",
+      "simple_lowest_days": "2",
+      "simple_median_days": "18"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "4",
+      "expedited_processing_highest_days": "4",
+      "expedited_processing_lowest_days": "4",
+      "expedited_processing_median_days": "4",
+      "simple_average_days": "1",
+      "simple_highest_days": "37",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "6",
+      "expedited_processing_highest_days": "6",
+      "expedited_processing_lowest_days": "6",
+      "expedited_processing_median_days": "6",
+      "simple_average_days": "16",
+      "simple_highest_days": "34",
+      "simple_lowest_days": "1",
+      "simple_median_days": "15"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "3",
+      "expedited_processing_highest_days": "30",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "14",
+      "simple_average_days": "12",
+      "simple_highest_days": "33",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2013": {
+      "complex_average_days": "30",
+      "complex_highest_days": "30",
+      "complex_lowest_days": "30",
+      "complex_median_days": "30",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "10",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2014": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "12",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2015": {
+      "complex_average_days": "30",
+      "complex_highest_days": "38",
+      "complex_lowest_days": "20",
+      "complex_median_days": "30",
+      "simple_average_days": "15",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2016": {
+      "complex_average_days": "26",
+      "complex_highest_days": "30",
+      "complex_lowest_days": "21",
+      "complex_median_days": "26",
+      "simple_average_days": "15",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "5",
+      "simple_median_days": "16"
+    }
+  }
+}

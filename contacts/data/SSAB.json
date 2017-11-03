@@ -1,0 +1,43 @@
+{
+  "abbreviation": "SSAB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Claire Green",
+          "FOIA Officer",
+          "Suite 625"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "400 Virginia Ave SW",
+        "zip": "20024"
+      },
+      "emails": [
+        "ssab@ssab.gov"
+      ],
+      "fax": "202-475-7715",
+      "name": "Social Security Advisory Board",
+      "phone": "202-574-7700",
+      "public_liaison": {
+        "name": "David Warner",
+        "phone": [
+          "202-475-7700"
+        ]
+      },
+      "request_form": "http://ssab.gov/Resources/FOIA",
+      "request_time_stats": {},
+      "service_center": {
+        "name": "David Warner",
+        "phone": [
+          "202-475-7700"
+        ]
+      },
+      "top_level": false,
+      "website": "http://ssab.gov/Resources/FOIA"
+    }
+  ],
+  "description": "The Social Security Advisory Board is a bipartisan, independent federal government agency established in 1994 to advise the President, the Congress, and the Commissioner of Social Security on matters of policy and administration of  the Old-age, Survivors, and Disability Insurance and the Supplemental Security Income  programs. The Board has seven members, with three appointed by the President, two by the Senate, and two by the House of Representatives.",
+  "name": "Social Security Advisory Board",
+  "request_time_stats": {}
+}

@@ -1,0 +1,182 @@
+{
+  "abbreviation": "MSPB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Fon Muttamara",
+          "FOIA Public Liaison, Office of the Clerk"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1615 M Street, NW",
+        "zip": "20419"
+      },
+      "emails": [
+        "FOIAHQ@mspb.gov"
+      ],
+      "fax": "202-653-7130",
+      "name": "Headquarters",
+      "phone": "202-254-4475",
+      "public_liaison": {
+        "name": "Darryl Aaron",
+        "phone": [
+          "202-254-4474"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "e-FOIA Reading Room",
+          "https://www.mspb.gov/FOIA/e-foiareadingroom.htm"
+        ]
+      ],
+      "request_form": "https://foiaonline.regulations.gov/foia/action/public/home",
+      "service_center": {
+        "name": "Karin Kelly",
+        "phone": [
+          "202-254-4475"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.mspb.gov/FOIA/foia.htm"
+    }
+  ],
+  "description": "The Merit Systems Protection Board is an independent, quasi-judicial agency whose mission is to protect the Merit Systems Principles and promote an effective Federal workforce free of Prohibited Personnel Practices.",
+  "emails": [
+    "foiahq@mspb.gov"
+  ],
+  "keywords": [
+    "Administrative practice and procedure",
+    "Civil rights",
+    "Confidential business information",
+    "Conflict of interests",
+    "Freedom of information",
+    "Government employees",
+    "Lawyers",
+    "Privacy",
+    "Veterans",
+    "Whistleblowing"
+  ],
+  "name": "Merit Systems Protection Board",
+  "request_form": "https://foiaonline.regulations.gov/foia/action/public/home",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "47.5",
+      "complex_highest_days": "180",
+      "complex_lowest_days": "30",
+      "complex_median_days": "40",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "9.2",
+      "simple_highest_days": "25",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "15",
+      "simple_highest_days": "93",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "17",
+      "simple_highest_days": "85",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    },
+    "2011": {
+      "complex_average_days": "42",
+      "complex_highest_days": "81",
+      "complex_lowest_days": "4",
+      "complex_median_days": "42",
+      "simple_average_days": "9",
+      "simple_highest_days": "35",
+      "simple_lowest_days": "0",
+      "simple_median_days": "17"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "8",
+      "expedited_processing_highest_days": "8",
+      "expedited_processing_lowest_days": "8",
+      "expedited_processing_median_days": "8",
+      "simple_average_days": "10",
+      "simple_highest_days": "38",
+      "simple_lowest_days": "0",
+      "simple_median_days": "18"
+    },
+    "2013": {
+      "complex_average_days": "67.92",
+      "complex_highest_days": "150",
+      "complex_lowest_days": "31",
+      "complex_median_days": "55",
+      "simple_average_days": "22.3",
+      "simple_highest_days": "440",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "13"
+    },
+    "2014": {
+      "complex_average_days": "40.63",
+      "complex_highest_days": "94",
+      "complex_lowest_days": "17",
+      "complex_median_days": "39",
+      "expedited_processing_average_days": "14",
+      "expedited_processing_highest_days": "14",
+      "expedited_processing_lowest_days": "14",
+      "expedited_processing_median_days": "14",
+      "simple_average_days": "10.6",
+      "simple_highest_days": "51",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "8"
+    },
+    "2015": {
+      "complex_average_days": "191.17",
+      "complex_highest_days": "239",
+      "complex_lowest_days": "68",
+      "complex_median_days": "215",
+      "expedited_processing_average_days": "15.67",
+      "expedited_processing_highest_days": "35",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "14.5",
+      "simple_average_days": "27.05",
+      "simple_highest_days": "145",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "18"
+    },
+    "2016": {
+      "complex_average_days": "132",
+      "complex_highest_days": "386",
+      "complex_lowest_days": "3",
+      "complex_median_days": "17",
+      "expedited_processing_average_days": "19",
+      "expedited_processing_highest_days": "101",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "6",
+      "simple_average_days": "53.7",
+      "simple_highest_days": "460",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "14"
+    }
+  }
+}

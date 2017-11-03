@@ -1,0 +1,293 @@
+{
+  "abbreviation": "CFTC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "CFTC FOIA Office",
+          "Three Lafayette Centre"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1155 21st Street, N.W.",
+        "zip": "20581"
+      },
+      "fax": "202-418-5524",
+      "misc": {
+        "CFTC FOIA Compliance Office": {
+          "name": "FOIA Contact",
+          "phone": [
+            "202-418-5497"
+          ]
+        },
+        "Counsel": {
+          "name": "Cancace Ambrose",
+          "phone": [
+            "202-418-5192"
+          ]
+        }
+      },
+      "name": "Commodity Futures Trading Commission",
+      "phone": "202-418-5497",
+      "public_liaison": {
+        "name": "Linda Mauldin",
+        "phone": [
+          "202-418-5497"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Conventional and Electronic Reading Rooms",
+          "http://www.cftc.gov/FOI/foiareadingrooms"
+        ]
+      ],
+      "request_form": "https://www.cftc.gov/FOI/request/index.htm",
+      "request_time_stats": {
+        "2008": {
+          "simple_average_days": "23.7",
+          "simple_highest_days": "315",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2009": {
+          "simple_average_days": "15.26",
+          "simple_highest_days": "119",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9.5"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22.79",
+          "simple_highest_days": "253",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2011": {
+          "complex_average_days": "119.26",
+          "complex_highest_days": "473",
+          "complex_lowest_days": "1",
+          "complex_median_days": "79",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "28.39",
+          "simple_highest_days": "145",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13.5"
+        },
+        "2012": {
+          "complex_average_days": "146.47",
+          "complex_highest_days": "471",
+          "complex_lowest_days": "3",
+          "complex_median_days": "108",
+          "simple_average_days": "46.52",
+          "simple_highest_days": "333",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18"
+        },
+        "2013": {
+          "complex_average_days": "239.27",
+          "complex_highest_days": "838",
+          "complex_lowest_days": "26",
+          "complex_median_days": "216",
+          "simple_average_days": "65",
+          "simple_highest_days": "401",
+          "simple_lowest_days": "1",
+          "simple_median_days": "40"
+        },
+        "2014": {
+          "complex_average_days": "102.25",
+          "complex_highest_days": "566",
+          "complex_lowest_days": "2",
+          "complex_median_days": "55",
+          "simple_average_days": "30.92",
+          "simple_highest_days": "126",
+          "simple_lowest_days": "1",
+          "simple_median_days": "23"
+        },
+        "2015": {
+          "complex_average_days": "72.21",
+          "complex_highest_days": "333",
+          "complex_lowest_days": "6",
+          "complex_median_days": "38",
+          "simple_average_days": "43.32",
+          "simple_highest_days": "305",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "23"
+        },
+        "2016": {
+          "complex_average_days": "180.95",
+          "complex_highest_days": "733",
+          "complex_lowest_days": "2",
+          "complex_median_days": "112",
+          "simple_average_days": "77.64",
+          "simple_highest_days": "291",
+          "simple_lowest_days": "2",
+          "simple_median_days": "51"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-418-5497"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.cftc.gov/FOI/index.htm"
+    }
+  ],
+  "description": "Congress created the Commodity Futures Trading Commission (CFTC) in 1974 as an independent agency with the mandate to regulate commodity futures and option markets in the United States.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Advertising",
+    "Agricultural commodities",
+    "Agriculture",
+    "Antitrust",
+    "Authority delegations (Government agencies)",
+    "Bankruptcy",
+    "Banks, banking",
+    "Brokers",
+    "Business and industry",
+    "Claims",
+    "Commodity Futures Trading Commission",
+    "Commodity futures",
+    "Conduct standards",
+    "Confidential business information",
+    "Conflict of interests",
+    "Consumer protection",
+    "Cooperatives",
+    "Cotton",
+    "Credit",
+    "Credit unions",
+    "Currency",
+    "Ethics",
+    "Foreign banking",
+    "Foreign currencies",
+    "Fraud",
+    "Freedom of information",
+    "Gambling",
+    "Government securities",
+    "Grains",
+    "Holding companies",
+    "Insurance",
+    "Insurance companies",
+    "Investigations",
+    "Investment companies",
+    "Investments",
+    "Law enforcement",
+    "National banks",
+    "Organization and functions (Government agencies)",
+    "Penalties",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Savings associations",
+    "Seals and insignia",
+    "Securities",
+    "Security measures",
+    "Sunshine Act",
+    "Trade practices",
+    "Trusts and trustees",
+    "Whistleblowing"
+  ],
+  "name": "Commodity Futures Trading Commission",
+  "request_time_stats": {
+    "2008": {
+      "simple_average_days": "23.7",
+      "simple_highest_days": "315",
+      "simple_lowest_days": "1",
+      "simple_median_days": "14"
+    },
+    "2009": {
+      "simple_average_days": "15.26",
+      "simple_highest_days": "119",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9.5"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "22.79",
+      "simple_highest_days": "253",
+      "simple_lowest_days": "1",
+      "simple_median_days": "13"
+    },
+    "2011": {
+      "complex_average_days": "119.26",
+      "complex_highest_days": "473",
+      "complex_lowest_days": "1",
+      "complex_median_days": "79",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "28.39",
+      "simple_highest_days": "145",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "13.5"
+    },
+    "2012": {
+      "complex_average_days": "146.47",
+      "complex_highest_days": "471",
+      "complex_lowest_days": "3",
+      "complex_median_days": "108",
+      "simple_average_days": "46.52",
+      "simple_highest_days": "333",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "18"
+    },
+    "2013": {
+      "complex_average_days": "239.27",
+      "complex_highest_days": "838",
+      "complex_lowest_days": "26",
+      "complex_median_days": "216",
+      "simple_average_days": "65",
+      "simple_highest_days": "401",
+      "simple_lowest_days": "1",
+      "simple_median_days": "40"
+    },
+    "2014": {
+      "complex_average_days": "102.25",
+      "complex_highest_days": "566",
+      "complex_lowest_days": "2",
+      "complex_median_days": "55",
+      "simple_average_days": "30.92",
+      "simple_highest_days": "126",
+      "simple_lowest_days": "1",
+      "simple_median_days": "23"
+    },
+    "2015": {
+      "complex_average_days": "72.21",
+      "complex_highest_days": "333",
+      "complex_lowest_days": "6",
+      "complex_median_days": "38",
+      "simple_average_days": "43.32",
+      "simple_highest_days": "305",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "23"
+    },
+    "2016": {
+      "complex_average_days": "180.95",
+      "complex_highest_days": "733",
+      "complex_lowest_days": "2",
+      "complex_median_days": "112",
+      "simple_average_days": "77.64",
+      "simple_highest_days": "291",
+      "simple_lowest_days": "2",
+      "simple_median_days": "51"
+    }
+  }
+}

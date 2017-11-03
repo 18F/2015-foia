@@ -1,0 +1,194 @@
+{
+  "abbreviation": "BBG",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Andrew T. Krog",
+          "FOIA/Privacy Act Officer, BBG/FOIA/PA Unit",
+          "Room 3349"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "330 Independence Avenue, SW",
+        "zip": "20237"
+      },
+      "emails": [
+        "akrog@bbg.gov"
+      ],
+      "fax": "202-203-4585",
+      "misc": {
+        "FOIA/Privacy Act Officer, BBG/FOIA/PA Unit": {
+          "name": "Andrew T. Krog",
+          "phone": [
+            "202-203-4550"
+          ]
+        }
+      },
+      "name": "Broadcasting Board of Governors",
+      "phone": "202-203-4550",
+      "public_liaison": {
+        "name": "Patricia A. Hargrave",
+        "phone": [
+          "202-203-4550"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://www.bbg.gov/foia/electronic-reading-room/"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "79",
+          "complex_highest_days": "223",
+          "complex_lowest_days": "17",
+          "complex_median_days": "70",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "69",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2011": {
+          "complex_average_days": "31",
+          "complex_highest_days": "117",
+          "complex_lowest_days": "1",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "52",
+          "expedited_processing_highest_days": "52",
+          "expedited_processing_lowest_days": "52",
+          "expedited_processing_median_days": "52",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2012": {
+          "complex_average_days": "32",
+          "complex_highest_days": "118",
+          "complex_lowest_days": "3",
+          "complex_median_days": "26",
+          "expedited_processing_average_days": "36",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "37",
+          "expedited_processing_median_days": "30"
+        },
+        "2013": {
+          "complex_average_days": "44",
+          "complex_highest_days": "99",
+          "complex_lowest_days": "6",
+          "complex_median_days": "38"
+        },
+        "2014": {
+          "complex_average_days": "35",
+          "complex_highest_days": "354",
+          "complex_lowest_days": "3",
+          "complex_median_days": "8"
+        },
+        "2015": {
+          "complex_average_days": "117",
+          "complex_highest_days": "473",
+          "complex_lowest_days": "8",
+          "complex_median_days": "92"
+        },
+        "2016": {
+          "complex_average_days": "50",
+          "complex_highest_days": "124",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "48"
+        }
+      },
+      "service_center": {
+        "name": "Andrew T. Krog",
+        "phone": [
+          "202-203-4550"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.bbg.gov/reports/foia/"
+    }
+  ],
+  "description": "The Broadcasting Board of Governor's mission is to promote freedom and democracy and to enhance understanding through multimedia communication of accurate, objective, and balanced news, information, and other programming about America and the world to audiences overseas.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Courts",
+    "Foreign relations",
+    "Freedom of information",
+    "News media",
+    "Privacy",
+    "Radio",
+    "Recordings",
+    "Sunshine Act",
+    "Television"
+  ],
+  "name": "Broadcasting Board of Governors",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "79",
+      "complex_highest_days": "223",
+      "complex_lowest_days": "17",
+      "complex_median_days": "70",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "22",
+      "simple_highest_days": "69",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    },
+    "2011": {
+      "complex_average_days": "31",
+      "complex_highest_days": "117",
+      "complex_lowest_days": "1",
+      "complex_median_days": "28",
+      "expedited_processing_average_days": "52",
+      "expedited_processing_highest_days": "52",
+      "expedited_processing_lowest_days": "52",
+      "expedited_processing_median_days": "52",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2012": {
+      "complex_average_days": "32",
+      "complex_highest_days": "118",
+      "complex_lowest_days": "3",
+      "complex_median_days": "26",
+      "expedited_processing_average_days": "36",
+      "expedited_processing_highest_days": "49",
+      "expedited_processing_lowest_days": "37",
+      "expedited_processing_median_days": "30"
+    },
+    "2013": {
+      "complex_average_days": "44",
+      "complex_highest_days": "99",
+      "complex_lowest_days": "6",
+      "complex_median_days": "38"
+    },
+    "2014": {
+      "complex_average_days": "35",
+      "complex_highest_days": "354",
+      "complex_lowest_days": "3",
+      "complex_median_days": "8"
+    },
+    "2015": {
+      "complex_average_days": "117",
+      "complex_highest_days": "473",
+      "complex_lowest_days": "8",
+      "complex_median_days": "92"
+    },
+    "2016": {
+      "complex_average_days": "50",
+      "complex_highest_days": "124",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "48"
+    }
+  }
+}

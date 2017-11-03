@@ -1,0 +1,198 @@
+{
+  "abbreviation": "MCC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Tamiko Walker",
+          "Chief FOIA Officer"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1099 14th St. NW Ste 700",
+        "zip": "20005"
+      },
+      "emails": [
+        "foia@mcc.gov"
+      ],
+      "fax": "202-521-3939",
+      "foia_officer": {
+        "name": "John Mantini",
+        "phone": [
+          "202-521-3863"
+        ]
+      },
+      "misc": {
+        "FOIA Program Officer": {
+          "name": "Jenese Lee",
+          "phone": [
+            "202-521-3691"
+          ]
+        }
+      },
+      "name": "Millennium Challenge Corporation",
+      "phone": "202-521-3730",
+      "public_liaison": {
+        "name": "Udvaldo Lopez",
+        "phone": [
+          "202-521-3594"
+        ]
+      },
+      "request_form": "N/A",
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "17",
+          "simple_highest_days": "259",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "14",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "3",
+          "simple_median_days": "17"
+        },
+        "2013": {
+          "simple_average_days": "17",
+          "simple_highest_days": "55",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18"
+        },
+        "2014": {
+          "simple_average_days": "22.8",
+          "simple_highest_days": "117",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "simple_average_days": "84",
+          "simple_highest_days": "290",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "79"
+        },
+        "2016": {
+          "simple_average_days": "28.28",
+          "simple_highest_days": "79",
+          "simple_lowest_days": "3",
+          "simple_median_days": "24"
+        }
+      },
+      "service_center": {
+        "name": "John Mantini",
+        "phone": [
+          "202-521-3863"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.mcc.gov/resources/foia"
+    }
+  ],
+  "description": "The Millennium Challenge Corporation (MCC) is an innovative and independent U.S. foreign aid agency that is helping lead the fight against global poverty.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Claims",
+    "Courts",
+    "Government employees",
+    "Organization and functions (Government agencies)",
+    "Wages"
+  ],
+  "name": "Millennium Challenge Corporation",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "17",
+      "simple_highest_days": "259",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "14",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "15",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "3",
+      "simple_median_days": "17"
+    },
+    "2013": {
+      "simple_average_days": "17",
+      "simple_highest_days": "55",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "18"
+    },
+    "2014": {
+      "simple_average_days": "22.8",
+      "simple_highest_days": "117",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "19"
+    },
+    "2015": {
+      "simple_average_days": "84",
+      "simple_highest_days": "290",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "79"
+    },
+    "2016": {
+      "simple_average_days": "28.28",
+      "simple_highest_days": "79",
+      "simple_lowest_days": "3",
+      "simple_median_days": "24"
+    }
+  }
+}

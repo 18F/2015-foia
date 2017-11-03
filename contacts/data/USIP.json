@@ -1,0 +1,37 @@
+{
+  "abbreviation": "USIP",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Marshall Rich",
+          "FOIA Contact"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "2301 Constitution Ave., NW",
+        "zip": "20037"
+      },
+      "misc": {
+        "FOIA Requester": {
+          "phone": [
+            "202-429-7850"
+          ]
+        },
+        "Supervisory": {
+          "name": "William \"Bill\" Rothenbecker",
+          "phone": [
+            "202-429-3869"
+          ]
+        }
+      },
+      "name": "United States Institute of Peace",
+      "phone": "202-429-7850",
+      "request_time_stats": {},
+      "top_level": false
+    }
+  ],
+  "description": "USIP is America?s nonpartisan institute to promote national security and global stability by reducing violent conflicts abroad. Our staff guide peace talks and advise governments; train police and religious leaders; and support community groups opposing extremism?all to help troubled countries solve their own conflicts peacefully.",
+  "name": "United States Institute of Peace",
+  "request_time_stats": {}
+}

@@ -1,0 +1,245 @@
+{
+  "abbreviation": "OPIC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Nichole Skoyles",
+          "FOIA Director"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1100 New York Avenue, NW",
+        "zip": "20527"
+      },
+      "emails": [
+        "FOIA@opic.gov"
+      ],
+      "misc": {
+        "FOIA Director": {
+          "name": "Nichole Cadiente",
+          "phone": [
+            "202-336-8400"
+          ]
+        }
+      },
+      "name": "Overseas Private Investment Corporation",
+      "phone": "202-336-8400",
+      "public_liaison": {
+        "name": "Nichole Skoyles",
+        "phone": [
+          "202-336-8400"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "26",
+          "simple_highest_days": "177",
+          "simple_lowest_days": "1",
+          "simple_median_days": "89"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "27.5",
+          "expedited_processing_highest_days": "94",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "7.5",
+          "simple_average_days": "12",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "17.95",
+          "simple_highest_days": "92",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "18.82",
+          "complex_highest_days": "114",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "13.5",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "13.5"
+        },
+        "2012": {
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18.37",
+          "simple_highest_days": "125",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "expedited_processing_average_days": "10",
+          "expedited_processing_highest_days": "10",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "21.68",
+          "simple_highest_days": "322",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "expedited_processing_average_days": "184",
+          "expedited_processing_highest_days": "184",
+          "expedited_processing_lowest_days": "184",
+          "expedited_processing_median_days": "184",
+          "simple_average_days": "14",
+          "simple_highest_days": "191",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "simple_average_days": "13.37",
+          "simple_highest_days": "87",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "simple_average_days": "60.25",
+          "simple_highest_days": "399",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-336-8400"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.opic.gov/publications/foia"
+    }
+  ],
+  "description": "The Overseas Private Investment Corporation's (OPIC) mission is to solve critical world challenges by catalyzing markets in developing nations. OPIC accomplishes its mission by delivering finance innovations that help ambitious U.S. businesses successfully enter, grow and compete in emerging markets.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Courts",
+    "Freedom of information",
+    "Government employees",
+    "Privacy"
+  ],
+  "name": "Overseas Private Investment Corporation",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "26",
+      "simple_highest_days": "177",
+      "simple_lowest_days": "1",
+      "simple_median_days": "89"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "27.5",
+      "expedited_processing_highest_days": "94",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "7.5",
+      "simple_average_days": "12",
+      "simple_highest_days": "36",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "17.95",
+      "simple_highest_days": "92",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "9"
+    },
+    "2011": {
+      "complex_average_days": "18.82",
+      "complex_highest_days": "114",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "12",
+      "expedited_processing_average_days": "13.5",
+      "expedited_processing_highest_days": "21",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "13.5"
+    },
+    "2012": {
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "18.37",
+      "simple_highest_days": "125",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "10"
+    },
+    "2013": {
+      "expedited_processing_average_days": "10",
+      "expedited_processing_highest_days": "10",
+      "expedited_processing_lowest_days": "10",
+      "expedited_processing_median_days": "10",
+      "simple_average_days": "21.68",
+      "simple_highest_days": "322",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    },
+    "2014": {
+      "expedited_processing_average_days": "184",
+      "expedited_processing_highest_days": "184",
+      "expedited_processing_lowest_days": "184",
+      "expedited_processing_median_days": "184",
+      "simple_average_days": "14",
+      "simple_highest_days": "191",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    },
+    "2015": {
+      "simple_average_days": "13.37",
+      "simple_highest_days": "87",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "5"
+    },
+    "2016": {
+      "simple_average_days": "60.25",
+      "simple_highest_days": "399",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
+    }
+  }
+}

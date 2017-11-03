@@ -1,0 +1,178 @@
+{
+  "abbreviation": "SIGAR",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "FOIA Contact",
+          "Office of Privacy, Records, and Disclosures"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "2530 Crystal Drive",
+        "zip": "22202"
+      },
+      "emails": [
+        "sigar.pentagon.gen-coun.mbx.foia@mail.mil"
+      ],
+      "fax": "703-601-3804",
+      "misc": {
+        "Office of Privacy, Records and Disclosure": {
+          "name": "FOIA Contact",
+          "phone": [
+            "703-545-5993"
+          ]
+        }
+      },
+      "name": "Special Inspector General for Afghanistan Reconstruction",
+      "phone": "703-545-6046",
+      "public_liaison": {
+        "name": "Stephen Kurylo, Jr.",
+        "phone": [
+          "703-545-6046"
+        ]
+      },
+      "request_form": "https://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&WP=FOIA%20|%20Privacy%20Act",
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "5",
+          "simple_median_days": "5"
+        },
+        "2012": {
+          "simple_average_days": "61",
+          "simple_highest_days": "381",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2013": {
+          "simple_average_days": "20",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "2",
+          "simple_median_days": "20"
+        },
+        "2014": {
+          "complex_average_days": "38",
+          "complex_highest_days": "161",
+          "complex_lowest_days": "30",
+          "complex_median_days": "65",
+          "simple_average_days": "20",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2015": {
+          "complex_average_days": "51.3",
+          "complex_highest_days": "168",
+          "complex_lowest_days": "14",
+          "complex_median_days": "39",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "22",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "22",
+          "simple_average_days": "23.2",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2016": {
+          "complex_average_days": "40",
+          "complex_highest_days": "61",
+          "complex_lowest_days": "20",
+          "complex_median_days": "40",
+          "simple_average_days": "17",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-545-6046"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.sigar.mil/contact/index.aspx?SSR=9"
+    }
+  ],
+  "description": "The Office of the Special Inspector General for Afghanistan Reconstruction is to provide independent and objective oversight of funds allocated for Afghanistan Reconstruction. SIGAR conducts audits and investigations to both promote efficiency and effectiveness of reconstruction programs, and to detect and prevent waste, fraud, and abuse of taxpayer dollars.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Conflict of interests",
+    "Freedom of information",
+    "Government employees",
+    "Privacy"
+  ],
+  "name": "Special Inspector General for Afghanistan Reconstruction",
+  "request_time_stats": {
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5",
+      "simple_highest_days": "5",
+      "simple_lowest_days": "5",
+      "simple_median_days": "5"
+    },
+    "2012": {
+      "simple_average_days": "61",
+      "simple_highest_days": "381",
+      "simple_lowest_days": "1",
+      "simple_median_days": "13"
+    },
+    "2013": {
+      "simple_average_days": "20",
+      "simple_highest_days": "53",
+      "simple_lowest_days": "2",
+      "simple_median_days": "20"
+    },
+    "2014": {
+      "complex_average_days": "38",
+      "complex_highest_days": "161",
+      "complex_lowest_days": "30",
+      "complex_median_days": "65",
+      "simple_average_days": "20",
+      "simple_highest_days": "30",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2015": {
+      "complex_average_days": "51.3",
+      "complex_highest_days": "168",
+      "complex_lowest_days": "14",
+      "complex_median_days": "39",
+      "expedited_processing_average_days": "22",
+      "expedited_processing_highest_days": "22",
+      "expedited_processing_lowest_days": "22",
+      "expedited_processing_median_days": "22",
+      "simple_average_days": "23.2",
+      "simple_highest_days": "59",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2016": {
+      "complex_average_days": "40",
+      "complex_highest_days": "61",
+      "complex_lowest_days": "20",
+      "complex_median_days": "40",
+      "simple_average_days": "17",
+      "simple_highest_days": "51",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    }
+  }
+}

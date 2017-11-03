@@ -1,0 +1,287 @@
+{
+  "abbreviation": "CPPBSD",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Tina Ballard",
+          "Executive Director",
+          "Suite 715"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "1401 S. Clark St",
+        "zip": "22202-4302"
+      },
+      "emails": [
+        "tballard@abilityone.gov"
+      ],
+      "misc": {
+        "Executive Director": {
+          "name": "Tina Ballard",
+          "phone": [
+            "703-603-7740"
+          ]
+        },
+        "FOIA Administrator": {
+          "name": "Wakita C. Wilson",
+          "phone": [
+            "703-603-7740"
+          ]
+        }
+      },
+      "name": "Committee for Purchase from People Who Are Blind or Severely Disabled",
+      "phone": "703-603-7740",
+      "public_liaison": {
+        "name": "Barry Lineback",
+        "phone": [
+          "703-603-7740"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "http://www.abilityone.gov/laws,_regulations_and_policy/foia_reading_room.html"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "16",
+          "complex_highest_days": "96",
+          "complex_lowest_days": "1",
+          "complex_median_days": "10",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "45",
+          "complex_highest_days": "101",
+          "complex_lowest_days": "11",
+          "complex_median_days": "34.5",
+          "simple_average_days": "11",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "5",
+          "simple_median_days": "8.5"
+        },
+        "2010": {
+          "complex_average_days": "8.5",
+          "complex_highest_days": "18",
+          "complex_lowest_days": "3",
+          "complex_median_days": "6.5",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "1.7",
+          "simple_highest_days": "4",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "10",
+          "complex_highest_days": "15",
+          "complex_lowest_days": "5",
+          "complex_median_days": "9",
+          "simple_average_days": "8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "21",
+          "complex_highest_days": "23",
+          "complex_lowest_days": "20",
+          "complex_median_days": "21.5",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "3",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "9.5",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "3",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "complex_average_days": "20",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "20",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.67",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "5",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "complex_average_days": "15.33",
+          "complex_highest_days": "19",
+          "complex_lowest_days": "12",
+          "complex_median_days": "15",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5.38",
+          "simple_highest_days": "9",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "simple_average_days": "8.4",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "9"
+        },
+        "2016": {
+          "complex_average_days": "43",
+          "complex_highest_days": "55",
+          "complex_lowest_days": "20",
+          "complex_median_days": "54",
+          "simple_average_days": "10.8",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10.5"
+        }
+      },
+      "service_center": {
+        "name": "Wakita Wilson",
+        "phone": [
+          "703-603-7740"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.abilityone.gov/laws,_regulations_and_policy/foia.html"
+    }
+  ],
+  "description": "The Committee for Purchase from People Who are Blind or Severely Disabled provides employment opportunities for people who are blind or have other severe disabilities in the manufacture and delivery of products and services to the federal government.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Civil rights",
+    "Equal employment opportunity",
+    "Federal buildings and facilities",
+    "Freedom of information",
+    "Government procurement",
+    "Individuals with disabilities",
+    "Organization and functions (Government agencies)",
+    "Privacy",
+    "Reporting and recordkeeping requirements"
+  ],
+  "name": "Committee for Purchase from People Who Are Blind or Severely Disabled",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "16",
+      "complex_highest_days": "96",
+      "complex_lowest_days": "1",
+      "complex_median_days": "10",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2009": {
+      "complex_average_days": "45",
+      "complex_highest_days": "101",
+      "complex_lowest_days": "11",
+      "complex_median_days": "34.5",
+      "simple_average_days": "11",
+      "simple_highest_days": "28",
+      "simple_lowest_days": "5",
+      "simple_median_days": "8.5"
+    },
+    "2010": {
+      "complex_average_days": "8.5",
+      "complex_highest_days": "18",
+      "complex_lowest_days": "3",
+      "complex_median_days": "6.5",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "1.7",
+      "simple_highest_days": "4",
+      "simple_lowest_days": "1",
+      "simple_median_days": "2"
+    },
+    "2011": {
+      "complex_average_days": "10",
+      "complex_highest_days": "15",
+      "complex_lowest_days": "5",
+      "complex_median_days": "9",
+      "simple_average_days": "8",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2012": {
+      "complex_average_days": "21",
+      "complex_highest_days": "23",
+      "complex_lowest_days": "20",
+      "complex_median_days": "21.5",
+      "expedited_processing_average_days": "3",
+      "expedited_processing_highest_days": "3",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "3",
+      "simple_average_days": "9.5",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "3",
+      "simple_median_days": "9"
+    },
+    "2013": {
+      "complex_average_days": "20",
+      "complex_highest_days": "20",
+      "complex_lowest_days": "20",
+      "complex_median_days": "20",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "9.67",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "5",
+      "simple_median_days": "11"
+    },
+    "2014": {
+      "complex_average_days": "15.33",
+      "complex_highest_days": "19",
+      "complex_lowest_days": "12",
+      "complex_median_days": "15",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5.38",
+      "simple_highest_days": "9",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2015": {
+      "simple_average_days": "8.4",
+      "simple_highest_days": "16",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "9"
+    },
+    "2016": {
+      "complex_average_days": "43",
+      "complex_highest_days": "55",
+      "complex_lowest_days": "20",
+      "complex_median_days": "54",
+      "simple_average_days": "10.8",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10.5"
+    }
+  }
+}

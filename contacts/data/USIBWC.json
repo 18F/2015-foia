@@ -1,0 +1,225 @@
+{
+  "abbreviation": "USIBWC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Rebecca Rizzuti",
+          "FOIA Officer & Public Liaison",
+          "FOIA - Legal Office, Suite C100"
+        ],
+        "city": "El Paso",
+        "state": "TX",
+        "street": "4171 N. Mesa",
+        "zip": "79902"
+      },
+      "emails": [
+        "rebecca.rizzuti@ibwc.gov"
+      ],
+      "fax": "915-600-7397",
+      "foia_officer": {
+        "name": "Rebecca Rizzuti",
+        "phone": [
+          "915-832-4729"
+        ]
+      },
+      "name": "United States International Boundary and Water Commission",
+      "phone": "915-832-4729",
+      "public_liaison": {
+        "name": "Rebecca Rizzuti",
+        "phone": [
+          "915-832-4729"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.ibwc.gov/Organization/FOIA_RR.html"
+        ]
+      ],
+      "request_form": "http://www.ibwc.gov/Organization/FOIA.html#How",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "17.38",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "2",
+          "simple_median_days": "18.5"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15.6",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "2",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "27.3",
+          "complex_highest_days": "71",
+          "complex_lowest_days": "12",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "4.4",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2012": {
+          "complex_average_days": "31.9",
+          "complex_highest_days": "62",
+          "complex_lowest_days": "14",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5.6",
+          "simple_highest_days": "12",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "64",
+          "complex_highest_days": "110",
+          "complex_lowest_days": "42",
+          "complex_median_days": "54",
+          "simple_average_days": "14.6",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2014": {
+          "simple_average_days": "22.6",
+          "simple_highest_days": "54",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "complex_average_days": "18.71",
+          "complex_highest_days": "159",
+          "complex_lowest_days": "1",
+          "complex_median_days": "8.5"
+        },
+        "2016": {
+          "simple_average_days": "19.6",
+          "simple_highest_days": "67",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        }
+      },
+      "service_center": {
+        "name": "Rebecca Rizzuti",
+        "phone": [
+          "915-832-4729"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ibwc.gov/Organization/FOIA.html"
+    }
+  ],
+  "description": "The Comission's mission is to provide binational solutions to issues that arise during the application of United States ??? Mexico\ntreaties regarding boundary demarcation, national ownership of waters, sanitation, water quality,\nand flood control in the border region.",
+  "name": "United States International Boundary and Water Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "17.38",
+      "simple_highest_days": "27",
+      "simple_lowest_days": "2",
+      "simple_median_days": "18.5"
+    },
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "15.6",
+      "simple_highest_days": "34",
+      "simple_lowest_days": "2",
+      "simple_median_days": "17"
+    },
+    "2011": {
+      "complex_average_days": "27.3",
+      "complex_highest_days": "71",
+      "complex_lowest_days": "12",
+      "complex_median_days": "29",
+      "expedited_processing_average_days": "4.4",
+      "expedited_processing_highest_days": "7",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "4",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2012": {
+      "complex_average_days": "31.9",
+      "complex_highest_days": "62",
+      "complex_lowest_days": "14",
+      "complex_median_days": "30",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5.6",
+      "simple_highest_days": "12",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2013": {
+      "complex_average_days": "64",
+      "complex_highest_days": "110",
+      "complex_lowest_days": "42",
+      "complex_median_days": "54",
+      "simple_average_days": "14.6",
+      "simple_highest_days": "27",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    },
+    "2014": {
+      "simple_average_days": "22.6",
+      "simple_highest_days": "54",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    },
+    "2015": {
+      "complex_average_days": "18.71",
+      "complex_highest_days": "159",
+      "complex_lowest_days": "1",
+      "complex_median_days": "8.5"
+    },
+    "2016": {
+      "simple_average_days": "19.6",
+      "simple_highest_days": "67",
+      "simple_lowest_days": "1",
+      "simple_median_days": "17"
+    }
+  }
+}

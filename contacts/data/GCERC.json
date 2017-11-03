@@ -1,0 +1,160 @@
+{
+  "abbreviation": "GCERC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Frederick Sutter",
+          "FOIA Officer",
+          "Suite 1117"
+        ],
+        "city": "New Orleans",
+        "state": "LA",
+        "street": "500 Poydras Street",
+        "zip": "70130"
+      },
+      "emails": [
+        "buck.sutter@restorethegulf.gov"
+      ],
+      "fax": "504-304-1473",
+      "name": "Gulf Coast Ecosystem Restoration Council",
+      "phone": "504-444-3511",
+      "public_liaison": {
+        "name": "William Spoon",
+        "phone": [
+          "504-239-9814"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Council Documents (FOIA Library)",
+          "https://www.restorethegulf.gov/resources/council-documents-foia-library"
+        ]
+      ],
+      "request_form": "?foiarequest@restorethegulf.gov",
+      "request_time_stats": {
+        "2016": {
+          "simple_average_days": "17",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "17",
+          "simple_median_days": "17"
+        }
+      },
+      "service_center": {
+        "name": "Frederick Sutter",
+        "phone": [
+          "504-444-3511"
+        ]
+      },
+      "top_level": false,
+      "website": "www.restorethegulf.gov"
+    }
+  ],
+  "description": "Spurred by the Deepwater Horizon oil spill, the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act) was signed into law by President Obama on July 6, 2012. The RESTORE Act calls for a regional approach to restoring the long-term health of the valuable natural ecosystem and economy of the Gulf Coast region. The RESTORE Act dedicates 80 percent of civil and administrative penalties paid under the Clean Water Act, after the date of enactment, by responsible parties in connection with the Deepwater Horizon oil spill to the Gulf Coast Restoration Trust Fund (Trust Fund) for ecosystem restoration, economic recovery, and tourism promotion in the Gulf Coast region. This effort is in addition to the restoration of natural resources injured by the spill that is being accomplished through a separate Natural Resource Damage Assessment (NRDA) (link is external) under the Oil Pollution Act. A third and related Gulf restoration effort is being administered by the National Fish and Wildlife Foundation (NFWF) (link is external) using funds from the settlement of criminal charges against BP and Transocean Deepwater, Inc. \n\nIn addition to creating the Trust Fund, the RESTORE Act established the Gulf Coast Ecosystem Restoration Council (Council). The Council is currently chaired by the Secretary of the U.S. Department of Agriculture (USDA) and includes the Governors of the States of Alabama, Florida, Louisiana, Mississippi and Texas, and the Secretaries of the U.S. Departments of Army, Commerce, Homeland Security, and the Interior, and the Administrator of the U.S. Environmental Protection Agency.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Aged",
+    "Agriculture",
+    "American Samoa",
+    "Blind",
+    "Broadband",
+    "Business and industry",
+    "Civil rights",
+    "Classified information",
+    "Coastal zone",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Copyright",
+    "Credit",
+    "Cultural exchange programs",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Equal educational opportunity",
+    "Federally affected areas",
+    "Fisheries",
+    "Freedom of information",
+    "Government contracts",
+    "Grant programs",
+    "Grant programs-education",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Guam",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Human research subjects",
+    "Indians",
+    "Indians-education",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Manpower training programs",
+    "Marine resources",
+    "Migrant labor",
+    "Mortgage insurance",
+    "Mortgages",
+    "Natural resources",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Oil pollution",
+    "Pacific Islands Trust Territory",
+    "Privacy",
+    "Private schools",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Rural areas",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Securities",
+    "Small businesses",
+    "State and local governments",
+    "Student aid",
+    "Teachers",
+    "Telecommunications",
+    "Telephone",
+    "Trusts and trustees",
+    "Urban areas",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Wildlife",
+    "Women"
+  ],
+  "name": "Gulf Coast Ecosystem Restoration Council",
+  "request_time_stats": {
+    "2016": {
+      "simple_average_days": "17",
+      "simple_highest_days": "17",
+      "simple_lowest_days": "17",
+      "simple_median_days": "17"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "abbreviation": "OSC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Christopher M. Kurt",
+          "FOIA Officer",
+          "Suite 218"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1730 M Street, NW",
+        "zip": "20036-4505"
+      },
+      "description": "The Office of Special Counsel is an investigative and prosecutorial office that works to end government and political corruption, and to protect government employees and whistleblowers.",
+      "fax": "202-254-3711",
+      "foia_officer": {
+        "name": "Christopher M. Kurt",
+        "phone": [
+          "202-254-3716"
+        ]
+      },
+      "name": "Office of Special Counsel",
+      "phone": "202-254-3716",
+      "public_liaison": {
+        "name": "Kenneth Hendricks",
+        "phone": [
+          "202-254-3733"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "12",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "10",
+          "simple_highest_days": "147",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "42",
+          "complex_highest_days": "288",
+          "complex_lowest_days": "0",
+          "complex_median_days": "17",
+          "expedited_processing_average_days": "12",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "3",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "0",
+          "simple_median_days": "2"
+        },
+        "2012": {
+          "complex_average_days": "271",
+          "complex_highest_days": "747",
+          "complex_lowest_days": "1",
+          "complex_median_days": "134",
+          "expedited_processing_average_days": "83",
+          "expedited_processing_highest_days": "381",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "29",
+          "simple_highest_days": "211",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "291.62",
+          "complex_highest_days": "715",
+          "complex_lowest_days": "28",
+          "complex_median_days": "259",
+          "expedited_processing_average_days": "204.33",
+          "expedited_processing_highest_days": "377",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "266.5",
+          "simple_average_days": "31.54",
+          "simple_highest_days": "301",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "14"
+        },
+        "2014": {
+          "complex_average_days": "330.24",
+          "complex_highest_days": "885",
+          "complex_lowest_days": "39",
+          "complex_median_days": "309",
+          "expedited_processing_average_days": "120.67",
+          "expedited_processing_highest_days": "342",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "43.48",
+          "simple_highest_days": "476",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "complex_average_days": "487.09",
+          "complex_highest_days": "1014",
+          "complex_lowest_days": "14",
+          "complex_median_days": "442",
+          "expedited_processing_average_days": "139.75",
+          "expedited_processing_highest_days": "826",
+          "expedited_processing_lowest_days": "18",
+          "expedited_processing_median_days": "77.5",
+          "simple_average_days": "74.67",
+          "simple_highest_days": "328",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "27"
+        },
+        "2016": {
+          "complex_average_days": "503.01",
+          "complex_highest_days": "2745",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "447",
+          "expedited_processing_average_days": "223.5",
+          "expedited_processing_highest_days": "917",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "67",
+          "simple_average_days": "135.16",
+          "simple_highest_days": "624",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "43"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-254-3716"
+        ]
+      },
+      "top_level": false,
+      "usa_id": "49593",
+      "website": "http://www.osc.gov/Pages/FOIA-Resources.aspx"
+    }
+  ],
+  "description": "The Office of Special Counsel is an investigative and prosecutorial office that works to end government and political corruption, and to protect government employees and whistleblowers.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Civil rights",
+    "Freedom of information",
+    "Government employees",
+    "Individuals with disabilities",
+    "Investigations",
+    "Law enforcement",
+    "Political activities (Government employees)",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Whistleblowing"
+  ],
+  "name": "Office of Special Counsel",
+  "request_time_stats": {
+    "2010": {
+      "expedited_processing_average_days": "7",
+      "expedited_processing_highest_days": "12",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "6",
+      "simple_average_days": "10",
+      "simple_highest_days": "147",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2011": {
+      "complex_average_days": "42",
+      "complex_highest_days": "288",
+      "complex_lowest_days": "0",
+      "complex_median_days": "17",
+      "expedited_processing_average_days": "12",
+      "expedited_processing_highest_days": "21",
+      "expedited_processing_lowest_days": "3",
+      "expedited_processing_median_days": "12",
+      "simple_average_days": "3",
+      "simple_highest_days": "27",
+      "simple_lowest_days": "0",
+      "simple_median_days": "2"
+    },
+    "2012": {
+      "complex_average_days": "271",
+      "complex_highest_days": "747",
+      "complex_lowest_days": "1",
+      "complex_median_days": "134",
+      "expedited_processing_average_days": "83",
+      "expedited_processing_highest_days": "381",
+      "expedited_processing_lowest_days": "9",
+      "expedited_processing_median_days": "20",
+      "simple_average_days": "29",
+      "simple_highest_days": "211",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10"
+    },
+    "2013": {
+      "complex_average_days": "291.62",
+      "complex_highest_days": "715",
+      "complex_lowest_days": "28",
+      "complex_median_days": "259",
+      "expedited_processing_average_days": "204.33",
+      "expedited_processing_highest_days": "377",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "266.5",
+      "simple_average_days": "31.54",
+      "simple_highest_days": "301",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "14"
+    },
+    "2014": {
+      "complex_average_days": "330.24",
+      "complex_highest_days": "885",
+      "complex_lowest_days": "39",
+      "complex_median_days": "309",
+      "expedited_processing_average_days": "120.67",
+      "expedited_processing_highest_days": "342",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "20",
+      "simple_average_days": "43.48",
+      "simple_highest_days": "476",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2015": {
+      "complex_average_days": "487.09",
+      "complex_highest_days": "1014",
+      "complex_lowest_days": "14",
+      "complex_median_days": "442",
+      "expedited_processing_average_days": "139.75",
+      "expedited_processing_highest_days": "826",
+      "expedited_processing_lowest_days": "18",
+      "expedited_processing_median_days": "77.5",
+      "simple_average_days": "74.67",
+      "simple_highest_days": "328",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "27"
+    },
+    "2016": {
+      "complex_average_days": "503.01",
+      "complex_highest_days": "2745",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "447",
+      "expedited_processing_average_days": "223.5",
+      "expedited_processing_highest_days": "917",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "67",
+      "simple_average_days": "135.16",
+      "simple_highest_days": "624",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "43"
+    }
+  },
+  "usa_id": "49593"
+}

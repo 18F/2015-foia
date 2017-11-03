@@ -1,0 +1,308 @@
+{
+  "abbreviation": "FMSHRC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Stacey Demps-Barrett",
+          "Chief FOIA Officer",
+          "Suite 520N"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1331 Pennsylvania, NW",
+        "zip": "20004-1710"
+      },
+      "emails": [
+        "foia@fmshrc.gov"
+      ],
+      "fax": "202-434-9949",
+      "foia_officer": {
+        "name": "Linda H. Ghosal",
+        "phone": [
+          "202-434-9935"
+        ]
+      },
+      "name": "Federal Mine Safety and Health Review Commission",
+      "phone": "202-434-9935",
+      "public_liaison": {
+        "name": "Linda Wiles",
+        "phone": [
+          "202-434-9935"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "E-Reading Room",
+          "http://www.fmshrc.gov/foia/e-reading-room"
+        ]
+      ],
+      "request_form": "http://www.fmshrc.gov/foia/foia-request-form",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2010": {
+          "complex_average_days": "17",
+          "complex_highest_days": "36",
+          "complex_lowest_days": "4",
+          "complex_median_days": "14.5",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "12.5",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "8",
+          "complex_median_days": "11",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3.3",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "16",
+          "complex_highest_days": "31",
+          "complex_lowest_days": "11",
+          "complex_median_days": "18.5",
+          "expedited_processing_average_days": "12.5",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "12.5",
+          "simple_average_days": "3.6",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2013": {
+          "complex_average_days": "8.9",
+          "complex_highest_days": "34",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "expedited_processing_average_days": "5.7",
+          "expedited_processing_highest_days": "9",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "3.1",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2014": {
+          "complex_average_days": "9.2",
+          "complex_highest_days": "36",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "simple_average_days": "3.4",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "9.1",
+          "complex_highest_days": "106",
+          "complex_lowest_days": "1",
+          "complex_median_days": "4",
+          "simple_average_days": "2.7",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "complex_average_days": "16.8",
+          "complex_highest_days": "59",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "2.15",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-434-9935"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.fmshrc.gov/foia"
+    }
+  ],
+  "description": "The Federal Mine Safety and Health Review Commission is an independent adjudicative agency that provides administrative trial and appellate review of legal disputes arising under the Federal Mine Safety and Health Amendments Act of 1977 (Mine Act).",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Civil rights",
+    "Claims",
+    "Equal access to justice",
+    "Equal employment opportunity",
+    "Federal buildings and facilities",
+    "Freedom of information",
+    "Individuals with disabilities",
+    "Lawyers",
+    "Mine safety and health",
+    "Penalties",
+    "Privacy",
+    "Sunshine Act",
+    "Whistleblowing"
+  ],
+  "name": "Federal Mine Safety and Health Review Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "8",
+      "simple_highest_days": "24",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2009": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "6",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2010": {
+      "complex_average_days": "17",
+      "complex_highest_days": "36",
+      "complex_lowest_days": "4",
+      "complex_median_days": "14.5",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "5",
+      "simple_highest_days": "22",
+      "simple_lowest_days": "1",
+      "simple_median_days": "2"
+    },
+    "2011": {
+      "complex_average_days": "12.5",
+      "complex_highest_days": "20",
+      "complex_lowest_days": "8",
+      "complex_median_days": "11",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "3.3",
+      "simple_highest_days": "36",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2012": {
+      "complex_average_days": "16",
+      "complex_highest_days": "31",
+      "complex_lowest_days": "11",
+      "complex_median_days": "18.5",
+      "expedited_processing_average_days": "12.5",
+      "expedited_processing_highest_days": "17",
+      "expedited_processing_lowest_days": "8",
+      "expedited_processing_median_days": "12.5",
+      "simple_average_days": "3.6",
+      "simple_highest_days": "18",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2013": {
+      "complex_average_days": "8.9",
+      "complex_highest_days": "34",
+      "complex_lowest_days": "1",
+      "complex_median_days": "6",
+      "expedited_processing_average_days": "5.7",
+      "expedited_processing_highest_days": "9",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "3.1",
+      "simple_highest_days": "24",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2014": {
+      "complex_average_days": "9.2",
+      "complex_highest_days": "36",
+      "complex_lowest_days": "1",
+      "complex_median_days": "6",
+      "simple_average_days": "3.4",
+      "simple_highest_days": "25",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2015": {
+      "complex_average_days": "9.1",
+      "complex_highest_days": "106",
+      "complex_lowest_days": "1",
+      "complex_median_days": "4",
+      "simple_average_days": "2.7",
+      "simple_highest_days": "39",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2016": {
+      "complex_average_days": "16.8",
+      "complex_highest_days": "59",
+      "complex_lowest_days": "1",
+      "complex_median_days": "16",
+      "expedited_processing_average_days": "1",
+      "expedited_processing_highest_days": "1",
+      "expedited_processing_lowest_days": "1",
+      "expedited_processing_median_days": "1",
+      "simple_average_days": "2.15",
+      "simple_highest_days": "24",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    }
+  }
+}

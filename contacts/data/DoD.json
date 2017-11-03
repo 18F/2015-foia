@@ -1,0 +1,5018 @@
+{
+  "abbreviation": "DOD",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie Carr",
+          "FOIA Contact",
+          "OSD/JS FOIA Requester Service Center, Office of Freedom of Information"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1155 Defense Pentagon",
+        "zip": "20301-1155"
+      },
+      "description": "This Requester Service Center (RSC) processes Freedom of Information Act (FOIA) requests for records related to the Office of the Secretary of Defense and Joint Staff (OSD/JS), to include the former U.S. Joint Forces Command (JFCOM), and other specific OSD components.* This RSC does not process FOIA requests for the entire Department of Defense (DoD). Please direct requests related to the Military Services, Combatant Commands, or other Defense Agencies, to the appropriate organization/component that maintains the record(s) of interest.",
+      "emails": [
+        "whs.mc-alex.esd.mbx.foia-liaison@mail.mil"
+      ],
+      "fax": "571-372-0500",
+      "misc": {
+        "FOIA Contact": {
+          "phone": [
+            "866-574-4970"
+          ]
+        }
+      },
+      "name": "Office of the Secretary and Joint Staff",
+      "notes": "This Office also handles requests for records of the U.S. Joint Forces Command, which was disestablished on August 31, 2011.",
+      "phone": "866-574-4970",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_form": "http://www.dod.gov/pubs/foi/foiareq.html",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "486",
+          "complex_highest_days": "4213",
+          "complex_lowest_days": "1",
+          "complex_median_days": "237",
+          "expedited_processing_average_days": "687",
+          "expedited_processing_highest_days": "687",
+          "expedited_processing_lowest_days": "687",
+          "expedited_processing_median_days": "687",
+          "simple_average_days": "11",
+          "simple_highest_days": "669",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2009": {
+          "complex_average_days": "492",
+          "complex_highest_days": "3850",
+          "complex_lowest_days": "1",
+          "complex_median_days": "258",
+          "expedited_processing_average_days": "299",
+          "expedited_processing_highest_days": "815",
+          "expedited_processing_lowest_days": "28",
+          "expedited_processing_median_days": "55",
+          "simple_average_days": "18",
+          "simple_highest_days": "738",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2010": {
+          "complex_average_days": "467",
+          "complex_highest_days": "4314",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "118",
+          "expedited_processing_average_days": "921",
+          "expedited_processing_highest_days": "921",
+          "expedited_processing_lowest_days": "921",
+          "expedited_processing_median_days": "921",
+          "simple_average_days": "15",
+          "simple_highest_days": "836",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "504",
+          "complex_highest_days": "4475",
+          "complex_lowest_days": "1",
+          "complex_median_days": "107",
+          "expedited_processing_average_days": "266",
+          "expedited_processing_highest_days": "266",
+          "expedited_processing_lowest_days": "266",
+          "expedited_processing_median_days": "266",
+          "simple_average_days": "17",
+          "simple_highest_days": "877",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "complex_average_days": "447",
+          "complex_highest_days": "4097",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "101",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.75",
+          "simple_highest_days": "430",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "336",
+          "complex_highest_days": "3208",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "83",
+          "simple_average_days": "8",
+          "simple_highest_days": "173",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "283",
+          "complex_highest_days": "3142",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "51",
+          "expedited_processing_average_days": "59",
+          "expedited_processing_highest_days": "59",
+          "expedited_processing_lowest_days": "59",
+          "expedited_processing_median_days": "59",
+          "simple_average_days": "6",
+          "simple_highest_days": "102",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "515.34",
+          "complex_highest_days": "2966",
+          "complex_lowest_days": "21",
+          "complex_median_days": "180",
+          "expedited_processing_average_days": "11.5",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "11.5",
+          "simple_average_days": "7.47",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "complex_average_days": "362",
+          "complex_highest_days": "3042",
+          "complex_lowest_days": "21",
+          "complex_median_days": "144.5",
+          "expedited_processing_average_days": "64.5",
+          "expedited_processing_highest_days": "86",
+          "expedited_processing_lowest_days": "43",
+          "expedited_processing_median_days": "64.5",
+          "simple_average_days": "6.66",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "866-574-4970"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.dod.gov/pubs/foi/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "JoAnne Collins",
+          "FOIA Contact",
+          "SAF/AAII (FOIA)"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1000 Air Force Pentagon",
+        "zip": "20330-1000"
+      },
+      "emails": [
+        "usaf.pentagon.saf-cio-a6.mbx.af-foia@mail.mil"
+      ],
+      "keywords": [
+        "Administrative practice and procedure",
+        "Air carriers",
+        "Alimony",
+        "Archives and records",
+        "Authority delegations (Government agencies)",
+        "Aviation safety",
+        "Child support",
+        "Civil defense",
+        "Civil disorders",
+        "Claims",
+        "Courts",
+        "Credit",
+        "Crime",
+        "Disaster assistance",
+        "Environmental impact statements",
+        "Environmental protection",
+        "Federal buildings and facilities",
+        "Foreign relations",
+        "Government employees",
+        "Inventions and patents",
+        "Law enforcement",
+        "Military air transportation",
+        "Military law",
+        "Military personnel",
+        "Motion pictures",
+        "Motor vehicles",
+        "Penalties",
+        "Privacy",
+        "Reporting and recordkeeping requirements",
+        "Safety",
+        "State and local governments",
+        "Wake Island"
+      ],
+      "name": "Department of the Air Force",
+      "phone": "703-693-2735",
+      "public_liaison": {
+        "name": "Anh Trinh",
+        "phone": [
+          "703-614-8500"
+        ]
+      },
+      "request_form": "https://www.efoia.af.mil/palMain.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "86",
+          "complex_median_days": "17",
+          "expedited_processing_average_days": "20",
+          "expedited_processing_median_days": "44",
+          "simple_average_days": "13",
+          "simple_median_days": "12"
+        },
+        "2009": {
+          "complex_average_days": "97",
+          "complex_highest_days": "2354",
+          "complex_lowest_days": "1",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "15",
+          "expedited_processing_highest_days": "56",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "11",
+          "simple_highest_days": "739",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "complex_average_days": "87",
+          "complex_highest_days": "1022",
+          "complex_lowest_days": "1",
+          "complex_median_days": "36",
+          "expedited_processing_average_days": "17",
+          "expedited_processing_highest_days": "88",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "23",
+          "simple_highest_days": "1044",
+          "simple_lowest_days": "10",
+          "simple_median_days": "11"
+        },
+        "2011": {
+          "complex_average_days": "81",
+          "complex_highest_days": "3608",
+          "complex_lowest_days": "1",
+          "complex_median_days": "36",
+          "expedited_processing_average_days": "53",
+          "expedited_processing_highest_days": "1023",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "26",
+          "simple_highest_days": "3664",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2012": {
+          "complex_average_days": "85",
+          "complex_highest_days": "1398",
+          "complex_lowest_days": "1",
+          "complex_median_days": "39",
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "57",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "15",
+          "simple_highest_days": "3022",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "complex_average_days": "82",
+          "complex_highest_days": "887",
+          "complex_lowest_days": "1",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "111",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "14",
+          "simple_highest_days": "1031",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "complex_average_days": "86",
+          "complex_highest_days": "997",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "39",
+          "expedited_processing_average_days": "21",
+          "expedited_processing_highest_days": "321",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "13",
+          "simple_highest_days": "435",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2015": {
+          "complex_average_days": "82",
+          "complex_highest_days": "1232",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "36",
+          "expedited_processing_average_days": "38",
+          "expedited_processing_highest_days": "123",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "24",
+          "simple_average_days": "16",
+          "simple_highest_days": "1343",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2016": {
+          "complex_average_days": "66",
+          "complex_highest_days": "1016",
+          "complex_lowest_days": "1",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "68",
+          "expedited_processing_highest_days": "1067",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "13",
+          "simple_average_days": "15",
+          "simple_highest_days": "695",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-693-2735"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.af.mil/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alecia Bolling",
+          "FOIA Contact",
+          "Freedom of Information Act Office",
+          "Suite 144"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "7701 Telegraph Road, Room 150",
+        "zip": "22315-3905"
+      },
+      "emails": [
+        "usarmy.belvoir.hqda-oaa-aha.mbx.rmda-foia@mail.mil"
+      ],
+      "fax": "703-428-6522",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Air pollution control",
+        "Alcohol and alcoholic beverages",
+        "Archives and records",
+        "Armed forces",
+        "Armed forces reserves",
+        "Arms and munitions",
+        "Banks, banking",
+        "Biologics",
+        "Cemeteries",
+        "Civil disorders",
+        "Claims",
+        "Credit",
+        "Crime",
+        "Decorations, medals, awards",
+        "Disaster assistance",
+        "District of Columbia",
+        "Environmental impact statements",
+        "Environmental protection",
+        "Federal buildings and facilities",
+        "Freedom of information",
+        "Government contracts",
+        "Government employees",
+        "Government procurement",
+        "Government property",
+        "Hazardous substances",
+        "Health",
+        "Health care",
+        "Historic preservation",
+        "Intergovernmental relations",
+        "Investigations",
+        "Law",
+        "Law enforcement",
+        "Law enforcement officers",
+        "Marine safety",
+        "Military law",
+        "Military personnel",
+        "Monuments and memorials",
+        "National defense",
+        "Natural resources",
+        "Navigation (water)",
+        "Noise control",
+        "Occupational safety and health",
+        "Penalties",
+        "Privacy",
+        "Radiation protection",
+        "Reporting and recordkeeping requirements",
+        "Research",
+        "Safety",
+        "Traffic regulations",
+        "Veterans",
+        "Waste treatment and disposal",
+        "Water pollution control",
+        "Waterways"
+      ],
+      "name": "Department of the Army",
+      "phone": "703-428-7128",
+      "public_liaison": {
+        "name": "Alecia Bolling",
+        "phone": [
+          "703-428-6462"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "41",
+          "complex_highest_days": "1579",
+          "complex_lowest_days": "1",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "21",
+          "expedited_processing_highest_days": "290",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "36",
+          "simple_highest_days": "1725",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2009": {
+          "complex_average_days": "62",
+          "complex_highest_days": "1920",
+          "complex_lowest_days": "1",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "154",
+          "expedited_processing_lowest_days": "1",
+          "simple_average_days": "28",
+          "simple_highest_days": "1262",
+          "simple_lowest_days": "1"
+        },
+        "2010": {
+          "complex_average_days": "54",
+          "complex_highest_days": "1633",
+          "complex_lowest_days": "less than 1",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "273",
+          "expedited_processing_lowest_days": "less than 1",
+          "simple_average_days": "28",
+          "simple_highest_days": "1984",
+          "simple_lowest_days": "less than 1"
+        },
+        "2011": {
+          "complex_average_days": "34",
+          "complex_highest_days": "1313",
+          "complex_lowest_days": "less than 1",
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "524",
+          "expedited_processing_lowest_days": "less than 1",
+          "simple_average_days": "14",
+          "simple_highest_days": "1551",
+          "simple_lowest_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "48",
+          "complex_highest_days": "1641",
+          "complex_lowest_days": "0",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "148",
+          "expedited_processing_lowest_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "572",
+          "simple_lowest_days": "0"
+        },
+        "2013": {
+          "complex_average_days": "34",
+          "complex_highest_days": "1456",
+          "complex_lowest_days": "less than 1",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "30",
+          "expedited_processing_lowest_days": "less than 1",
+          "simple_average_days": "6",
+          "simple_highest_days": "443",
+          "simple_lowest_days": "less than 1"
+        },
+        "2014": {
+          "complex_average_days": "36",
+          "complex_highest_days": "1272",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "complex_average_days": "37",
+          "complex_highest_days": "1785",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "139",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "44",
+          "complex_highest_days": "1669",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "17",
+          "expedited_processing_average_days": "58",
+          "expedited_processing_highest_days": "364",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-428-6238"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.rmda.army.mil/foia/RMDA-FOIA-Division.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Robin Patterson",
+          "FOIA Contact, Chief of Naval Operations",
+          "DNS-36"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "2000 Navy Pentagon",
+        "zip": "20350-2000"
+      },
+      "emails": [
+        "DONFOIA-PA@navy.mil"
+      ],
+      "fax": "202-685-6580",
+      "keywords": [
+        "Administrative practice and procedure",
+        "Aircraft",
+        "Alimony",
+        "Archives and records",
+        "Armed forces",
+        "Child support",
+        "Claims",
+        "Conflict of interests",
+        "Courts",
+        "Crime",
+        "Educational research",
+        "Endangered and threatened species",
+        "Environmental impact statements",
+        "Federal buildings and facilities",
+        "Fish",
+        "Freedom of information",
+        "Government employees",
+        "Government property",
+        "Government property management",
+        "Health care",
+        "Historic preservation",
+        "Housing",
+        "Law",
+        "Law enforcement",
+        "Lawyers",
+        "Legal services",
+        "Marine safety",
+        "Military law",
+        "Military personnel",
+        "National defense",
+        "Navigation (water)",
+        "Organization and functions (Government agencies)",
+        "Penalties",
+        "Privacy",
+        "Reporting and recordkeeping requirements",
+        "Research",
+        "Seals and insignia",
+        "Security measures",
+        "Surplus Government property",
+        "Trusts and trustees",
+        "Vessels",
+        "Wildlife"
+      ],
+      "name": "Department of the Navy",
+      "phone": "202-685-0412",
+      "public_liaison": {
+        "name": "Christopher Julka",
+        "phone": [
+          "703-697-0031"
+        ]
+      },
+      "request_form": "https://foia.navy.mil/foia/webbas02.nsf/(vwwebpage)/home.htm?opendocument",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "133",
+          "complex_highest_days": "2477",
+          "complex_lowest_days": "1",
+          "complex_median_days": "26",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "37",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "33",
+          "simple_highest_days": "868",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        },
+        "2009": {
+          "complex_average_days": "74",
+          "complex_highest_days": "2331",
+          "complex_lowest_days": "1",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "37",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "6",
+          "simple_average_days": "111",
+          "simple_highest_days": "2918",
+          "simple_lowest_days": "1",
+          "simple_median_days": "275"
+        },
+        "2010": {
+          "complex_average_days": "137",
+          "complex_highest_days": "560",
+          "complex_lowest_days": "67",
+          "complex_median_days": "322",
+          "simple_average_days": "11",
+          "simple_highest_days": "70",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2011": {
+          "complex_average_days": "73",
+          "complex_highest_days": "1410",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "9",
+          "expedited_processing_highest_days": "63",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "23",
+          "simple_highest_days": "3760",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "11"
+        },
+        "2012": {
+          "complex_average_days": "60",
+          "complex_highest_days": "1908",
+          "complex_lowest_days": "1",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "90",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "0",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "43",
+          "complex_highest_days": "3089",
+          "complex_lowest_days": "1",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "112",
+          "complex_highest_days": "2006",
+          "complex_lowest_days": "1",
+          "complex_median_days": "33",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "191",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "35",
+          "simple_highest_days": "1345",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "complex_average_days": "147",
+          "complex_highest_days": "2097",
+          "complex_lowest_days": "1",
+          "complex_median_days": "54",
+          "expedited_processing_average_days": "42",
+          "expedited_processing_highest_days": "328",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "54",
+          "simple_highest_days": "3036",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "complex_average_days": "113",
+          "complex_highest_days": "1395",
+          "complex_lowest_days": "1",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "25",
+          "expedited_processing_highest_days": "612",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "27",
+          "simple_highest_days": "1758",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-685-0412"
+        ]
+      },
+      "top_level": false,
+      "website": "https://foia.navy.mil"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sally A. Hughes",
+          "Head, FOIA/PA",
+          "Headquaters US Marine Corps (ARSF), FOIA/PA Section (ARSF)"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "3000 Marine Corps Pentagon",
+        "zip": "20350-3000"
+      },
+      "emails": [
+        "hqmcfoia@usmc.mil"
+      ],
+      "fax": "703-614-6287",
+      "name": "US Marine Corps",
+      "phone": "703-614-4008",
+      "public_liaison": {
+        "name": "Christopher Julka",
+        "phone": [
+          "703-697-0031"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USMC FOIA Reading Room",
+          "http://www.hqmc.marines.mil/Agencies/USMC-FOIA/USMC-FOIA-Reading-Room/"
+        ]
+      ],
+      "request_form": "https://foiaonline.regulations.gov/foia/action/public/request/publicPreCreate",
+      "service_center": {
+        "phone": [
+          "703-614-4008"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.hqmc.marines.mil/Agencies/USMCFOIA.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Catherine A. Stanton",
+          "General Counsel",
+          "Skyline 6, Room 703"
+        ],
+        "city": "Falls Church",
+        "state": "VA",
+        "street": "5109 Leesburg Pike",
+        "zip": "22041-3208"
+      },
+      "emails": [
+        "asbca.recorder@mail.mil"
+      ],
+      "fax": "703-681-8535",
+      "misc": {
+        "General Counsel": {
+          "name": "Catherine A. Stanton",
+          "phone": [
+            "703-681-8501"
+          ]
+        }
+      },
+      "name": "Armed Services Board of Contract Appeals",
+      "phone": "703-681-8501",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "13",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "2",
+          "complex_median_days": "8",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "2",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2009": {
+          "complex_average_days": "5",
+          "complex_highest_days": "15",
+          "complex_lowest_days": "3",
+          "complex_median_days": "5",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "3",
+          "simple_median_days": "5"
+        },
+        "2010": {
+          "simple_average_days": "1",
+          "simple_highest_days": "1",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "simple_average_days": "1",
+          "simple_highest_days": "1",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "21",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "2",
+          "simple_median_days": "18"
+        },
+        "2013": {
+          "simple_average_days": "5",
+          "simple_highest_days": "10",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "simple_average_days": "5",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2015": {
+          "simple_average_days": "7",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "complex_average_days": "26",
+          "complex_highest_days": "83",
+          "complex_lowest_days": "3",
+          "complex_median_days": "13",
+          "expedited_processing_average_days": "20",
+          "expedited_processing_highest_days": "20",
+          "expedited_processing_lowest_days": "20",
+          "expedited_processing_median_days": "20",
+          "simple_average_days": "2",
+          "simple_highest_days": "5",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-681-8503"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.asbca.mil"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Camillo DeSantis",
+          "FOIA Contact",
+          "Freedom of Information Officer"
+        ],
+        "city": "Fort Lee",
+        "state": "VA",
+        "street": "1300 E Avenue",
+        "zip": "23801-1800"
+      },
+      "emails": [
+        "foia@deca.mil"
+      ],
+      "fax": "804-734-8116",
+      "misc": {
+        "FOIA/Privacy Officer": {
+          "name": "Comillo DeSantis",
+          "phone": [
+            "804-734-8116"
+          ]
+        }
+      },
+      "name": "Defense Commissary Agency",
+      "phone": "804-734-8116",
+      "public_liaison": {
+        "name": "William E. Sherman",
+        "phone": [
+          "804-734-8116"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "http://www.commissaries.com/foia/foia_err.cfm"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "28",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "18",
+          "complex_median_days": "26",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16",
+          "simple_highest_days": "53",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2010": {
+          "simple_average_days": "11",
+          "simple_highest_days": "88",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "simple_average_days": "11",
+          "simple_highest_days": "65",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2013": {
+          "simple_average_days": "13",
+          "simple_highest_days": "179",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2014": {
+          "simple_average_days": "62",
+          "simple_highest_days": "229",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "23"
+        },
+        "2015": {
+          "simple_average_days": "9",
+          "simple_highest_days": "80",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "expedited_processing_average_days": "2",
+          "expedited_processing_highest_days": "2",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "2",
+          "simple_average_days": "12",
+          "simple_highest_days": "124",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "804-734-8116"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.commissaries.com/foiainfo.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Keith Mastromichalis",
+          "ATTN: CMR, FOIA Service Center",
+          "Suite 2135"
+        ],
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "street": "8725 John J. Kingman Road",
+        "zip": "22060-6219"
+      },
+      "emails": [
+        "DCAA-FOIA@dcaa.mil"
+      ],
+      "fax": "703-767-1011",
+      "keywords": [
+        "Privacy"
+      ],
+      "name": "Defense Contract Audit Agency",
+      "phone": "703-767-1022",
+      "public_liaison": {
+        "name": "David Gallagher",
+        "phone": [
+          "571-488-3124"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "24",
+          "complex_highest_days": "249",
+          "complex_lowest_days": "1",
+          "complex_median_days": "13",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "7",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "7",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2009": {
+          "complex_average_days": "25",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "13",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "79",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "81",
+          "complex_highest_days": "225",
+          "complex_lowest_days": "20",
+          "complex_median_days": "77",
+          "simple_average_days": "23",
+          "simple_highest_days": "365",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2011": {
+          "complex_average_days": "15",
+          "complex_highest_days": "42",
+          "complex_lowest_days": "1",
+          "complex_median_days": "21",
+          "simple_average_days": "5",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2012": {
+          "complex_average_days": "19",
+          "complex_highest_days": "57",
+          "complex_lowest_days": "3",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "31",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2013": {
+          "complex_average_days": "22",
+          "complex_highest_days": "95",
+          "complex_lowest_days": "5",
+          "complex_median_days": "47",
+          "simple_average_days": "4",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "complex_average_days": "28",
+          "complex_highest_days": "49",
+          "complex_lowest_days": "10",
+          "complex_median_days": "23",
+          "simple_average_days": "7",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "22",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "15",
+          "complex_median_days": "22",
+          "simple_average_days": "8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "complex_average_days": "15",
+          "complex_highest_days": "15",
+          "complex_lowest_days": "15",
+          "complex_median_days": "15",
+          "simple_average_days": "7",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-767-1022"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dcaa.mil/foia.htm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Karen O?Neal",
+          "FOIA Contact",
+          "DCMA HQ-DSP"
+        ],
+        "city": "Fort Lee",
+        "state": "VA",
+        "street": "3901 A Avenue",
+        "zip": "23801"
+      },
+      "emails": [
+        "DCMA.FOIA@DCMA.mil"
+      ],
+      "fax": "804-734-0109",
+      "misc": {
+        "FOIA/PA Privacy Officer/FOIA Analyst": {
+          "name": "Donna Williamson/Kimberly Turner",
+          "phone": [
+            "804-734-1488",
+            "804-734-1466"
+          ]
+        }
+      },
+      "name": "Defense Contract Management Agency",
+      "phone": "804-734-1488",
+      "public_liaison": {
+        "name": "Bruce Cole",
+        "phone": [
+          "804-734-0202"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "71",
+          "complex_highest_days": "371",
+          "complex_lowest_days": "20",
+          "complex_median_days": "66",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "31",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2009": {
+          "complex_average_days": "133",
+          "complex_highest_days": "506",
+          "complex_lowest_days": "12",
+          "complex_median_days": "65",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "153",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2010": {
+          "complex_average_days": "125",
+          "complex_highest_days": "408",
+          "complex_lowest_days": "32",
+          "complex_median_days": "91",
+          "simple_average_days": "30",
+          "simple_highest_days": "193",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "21"
+        },
+        "2011": {
+          "complex_average_days": "215",
+          "complex_highest_days": "417",
+          "complex_lowest_days": "8",
+          "complex_median_days": "249",
+          "expedited_processing_average_days": "24",
+          "expedited_processing_highest_days": "25",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "24",
+          "simple_average_days": "47",
+          "simple_highest_days": "253",
+          "simple_lowest_days": "1",
+          "simple_median_days": "25"
+        },
+        "2012": {
+          "complex_average_days": "137",
+          "complex_highest_days": "446",
+          "complex_lowest_days": "0",
+          "complex_median_days": "223",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "66",
+          "simple_highest_days": "516",
+          "simple_lowest_days": "0",
+          "simple_median_days": "258"
+        },
+        "2013": {
+          "complex_average_days": "182",
+          "complex_highest_days": "1066",
+          "complex_lowest_days": "23",
+          "complex_median_days": "544",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "6",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "3",
+          "simple_average_days": "11",
+          "simple_highest_days": "44",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "22"
+        },
+        "2014": {
+          "complex_average_days": "124",
+          "complex_highest_days": "1085",
+          "complex_lowest_days": "13",
+          "complex_median_days": "549",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "119",
+          "complex_highest_days": "917",
+          "complex_lowest_days": "22",
+          "complex_median_days": "66",
+          "simple_average_days": "10",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "224",
+          "complex_highest_days": "1242",
+          "complex_lowest_days": "23",
+          "complex_median_days": "96",
+          "simple_average_days": "23",
+          "simple_highest_days": "202",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "804-734-1488"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dcma.mil/DCMAHQ/FOIA/index.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Gregory Outlaw",
+          "FOIA Contact",
+          "Indianapolis FOIA/PA Program Manager"
+        ],
+        "city": "Indianapolis",
+        "state": "IN",
+        "street": "8899 East 56th Street",
+        "zip": "46249-0150"
+      },
+      "emails": [
+        "dfas.foia@mail.mil"
+      ],
+      "fax": "317-212-8802",
+      "misc": {
+        "FOIA/PA Program Manager/FOIA Liaison officer": {
+          "name": "Gregory Outlaw",
+          "phone": [
+            "317-212-4591"
+          ]
+        }
+      },
+      "name": "Defense Finance and Accounting Service",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "317-212-4591",
+      "public_liaison": {
+        "name": "Gregory Outlaw",
+        "phone": [
+          "317-212-4591"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.dfas.mil/foia/foiareadingroom.html"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "39",
+          "complex_highest_days": "111",
+          "complex_lowest_days": "2",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18",
+          "simple_highest_days": "187",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2009": {
+          "complex_average_days": "27",
+          "complex_highest_days": "88",
+          "complex_lowest_days": "1",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "7",
+          "expedited_processing_highest_days": "19",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "15",
+          "simple_highest_days": "139",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2010": {
+          "complex_average_days": "23",
+          "complex_highest_days": "133",
+          "complex_lowest_days": "1",
+          "complex_median_days": "18",
+          "expedited_processing_average_days": "6",
+          "expedited_processing_highest_days": "9",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "11",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2011": {
+          "complex_average_days": "26",
+          "complex_highest_days": "47",
+          "complex_lowest_days": "2",
+          "complex_median_days": "26",
+          "simple_average_days": "16",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "38",
+          "complex_highest_days": "156",
+          "complex_lowest_days": "4",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "63",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2013": {
+          "complex_average_days": "42",
+          "complex_highest_days": "288",
+          "complex_lowest_days": "1",
+          "complex_median_days": "21",
+          "expedited_processing_average_days": "9",
+          "expedited_processing_highest_days": "9",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "9",
+          "simple_average_days": "12",
+          "simple_highest_days": "79",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2014": {
+          "complex_average_days": "27",
+          "complex_highest_days": "250",
+          "complex_lowest_days": "4",
+          "complex_median_days": "20",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "16",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "4",
+          "simple_average_days": "10",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "complex_average_days": "25",
+          "complex_highest_days": "70",
+          "complex_lowest_days": "3",
+          "complex_median_days": "19",
+          "simple_average_days": "11",
+          "simple_highest_days": "62",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "complex_average_days": "37",
+          "complex_highest_days": "107",
+          "complex_lowest_days": "2",
+          "complex_median_days": "27",
+          "simple_average_days": "14",
+          "simple_highest_days": "70",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "317-212-4591"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dfas.mil/foia.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Robin M. Berger",
+          "FOIA Contact",
+          "ATTN:  Headquarters FOIA Requester Service Center"
+        ],
+        "city": "Ft. Meade",
+        "state": "MD",
+        "street": "P.O. Box 549",
+        "zip": "20755-0549"
+      },
+      "emails": [
+        "disa.meade.gc.mbx.disa-gen-counsel@mail.mil"
+      ],
+      "fax": "301-225-0510",
+      "name": "Defense Information Systems Agency",
+      "phone": "301-225-6104",
+      "public_liaison": {
+        "name": "William Brazis",
+        "phone": [
+          "301-225-6116"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading Room",
+          "http://www.disa.mil/About/Legal-and-Regulatory/Accessibility/FOIA-Reading-Room"
+        ]
+      ],
+      "service_center": {
+        "phone": [
+          "301-225-6104"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.disa.mil/About/Legal-and-Regulatory/Freedom-of-Info-Act-Program"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Alesia Y. Williams",
+          "FOIA Contact",
+          "ATTN: FAC2A1 (FOIA)"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "7400 Pentagon",
+        "zip": "20301-7400"
+      },
+      "emails": [
+        "foia@dodiis.mil"
+      ],
+      "fax": "301-394-5356",
+      "misc": {
+        "Chief, FOIA Services Branch": {
+          "name": "Alesia Y. Williams",
+          "phone": [
+            "301-394-5587"
+          ]
+        }
+      },
+      "name": "Defense Intelligence Agency",
+      "phone": "301-394-5587",
+      "public_liaison": {
+        "name": "Alesia Y. Williams",
+        "phone": [
+          "301-394-5587"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "http://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "516",
+          "complex_highest_days": "3200",
+          "complex_lowest_days": "21",
+          "complex_median_days": "277",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2009": {
+          "complex_average_days": "963",
+          "complex_highest_days": "3714",
+          "complex_lowest_days": "21",
+          "complex_median_days": "811",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2010": {
+          "complex_average_days": "1060",
+          "complex_highest_days": "3418",
+          "complex_lowest_days": "21",
+          "complex_median_days": "938",
+          "simple_average_days": "11",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2011": {
+          "complex_average_days": "924",
+          "complex_highest_days": "3567",
+          "complex_lowest_days": "23",
+          "complex_median_days": "801",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "786",
+          "complex_highest_days": "3713",
+          "complex_lowest_days": "21",
+          "complex_median_days": "469",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2013": {
+          "complex_average_days": "855",
+          "complex_highest_days": "3517",
+          "complex_lowest_days": "21",
+          "complex_median_days": "553",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "728",
+          "complex_highest_days": "3421",
+          "complex_lowest_days": "21",
+          "complex_median_days": "264",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "641",
+          "complex_highest_days": "3517",
+          "complex_lowest_days": "21",
+          "complex_median_days": "199",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "complex_average_days": "542",
+          "complex_highest_days": "3885",
+          "complex_lowest_days": "21",
+          "complex_median_days": "195",
+          "simple_average_days": "10",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-394-5587"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dia.mil/FOIA.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kathy Dixon",
+          "FOIA Contact",
+          "ATTN: DGA, Suite 1644"
+        ],
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "street": "8725 John J. Kingman Road",
+        "zip": "22060-6221"
+      },
+      "emails": [
+        "hq-foia@dla.mil"
+      ],
+      "fax": "703-767-6091",
+      "keywords": [
+        "Government procurement",
+        "Privacy"
+      ],
+      "name": "Defense Logistics Agency",
+      "phone": "703-767-6183",
+      "public_liaison": {
+        "name": "Lewis Oleinick",
+        "phone": [
+          "703-767-6194"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "30",
+          "complex_highest_days": "603",
+          "complex_lowest_days": "1",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "573",
+          "simple_lowest_days": "1",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "22",
+          "complex_highest_days": "570",
+          "complex_lowest_days": "1",
+          "complex_median_days": "8",
+          "expedited_processing_average_days": "75",
+          "expedited_processing_highest_days": "149",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "75",
+          "simple_average_days": "11",
+          "simple_highest_days": "420",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2010": {
+          "complex_average_days": "30",
+          "complex_highest_days": "314",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "1",
+          "expedited_processing_average_days": "10",
+          "expedited_processing_highest_days": "46",
+          "simple_average_days": "12",
+          "simple_highest_days": "257",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2011": {
+          "complex_average_days": "34",
+          "complex_highest_days": "314",
+          "complex_lowest_days": "1",
+          "complex_median_days": "15",
+          "expedited_processing_average_days": "16",
+          "expedited_processing_highest_days": "16",
+          "expedited_processing_lowest_days": "16",
+          "expedited_processing_median_days": "16",
+          "simple_average_days": "12",
+          "simple_highest_days": "179",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "32",
+          "complex_highest_days": "273",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "33",
+          "expedited_processing_highest_days": "33",
+          "expedited_processing_lowest_days": "33",
+          "expedited_processing_median_days": "33",
+          "simple_average_days": "9",
+          "simple_highest_days": "104",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "32",
+          "complex_highest_days": "274",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12",
+          "simple_average_days": "9",
+          "simple_highest_days": "121",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "11",
+          "complex_highest_days": "120",
+          "complex_lowest_days": "16",
+          "complex_median_days": "12",
+          "expedited_processing_average_days": "3",
+          "expedited_processing_highest_days": "35",
+          "expedited_processing_lowest_days": "15",
+          "expedited_processing_median_days": "less than 1",
+          "simple_average_days": "8",
+          "simple_highest_days": "207",
+          "simple_lowest_days": "6",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "complex_average_days": "12",
+          "complex_highest_days": "152",
+          "complex_lowest_days": "1",
+          "complex_median_days": "8",
+          "simple_average_days": "3",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2016": {
+          "complex_average_days": "19",
+          "complex_highest_days": "186",
+          "complex_lowest_days": "1",
+          "complex_median_days": "16",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "11",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "5",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-767-5247",
+          "703-767-6183"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dla.mil/foia-privacy/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Stephanie J. Courtney",
+          "FOIA Contact",
+          "Office of FOIA and Privacy"
+        ],
+        "city": "Quantico",
+        "state": "VA",
+        "street": "27130 Telegraph Road",
+        "zip": "22314"
+      },
+      "emails": [
+        "dss.quantico.dss-hq.mbx.foia@mail.mil"
+      ],
+      "fax": "571-305-6931",
+      "misc": {
+        "Office of FOI and Privacy": {
+          "name": "Leslie Blake",
+          "phone": [
+            "571-305-6740"
+          ]
+        }
+      },
+      "name": "Defense Security Service",
+      "notes": "This office has additional FOIA contact information that can be found by visiting its website.",
+      "phone": "571-305-6740",
+      "public_liaison": {
+        "name": "Jay Fraude"
+      },
+      "reading_rooms": [
+        [
+          "Electronic Reading Room",
+          "https://www.dss.mil/about_dss/publications.html"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "25",
+          "simple_highest_days": "101",
+          "simple_lowest_days": "1",
+          "simple_median_days": "30"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "5",
+          "simple_median_days": "12"
+        },
+        "2010": {
+          "simple_average_days": "12",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "2",
+          "simple_median_days": "7"
+        },
+        "2011": {
+          "simple_average_days": "12",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "2",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "simple_average_days": "5",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_median_days": "less than 1",
+          "simple_average_days": "5",
+          "simple_highest_days": "60",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "simple_average_days": "5",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "simple_average_days": "55",
+          "simple_highest_days": "130",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "60"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "571-305-6740"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.dss.mil/foia/foia_program.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Pamela Andrews",
+          "FOIA Contact",
+          "MSC 6201"
+        ],
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "street": "8725 John J. Kingman Road",
+        "zip": "22060-6201"
+      },
+      "emails": [
+        "dtra.belvoir.J0.mbx.efoia-privacy@mail.mil"
+      ],
+      "fax": "703-767-3623",
+      "misc": {
+        "FOIA/Privacy Act Ofc (JOXGP-F)": {
+          "name": "Juanita Y. Gaines",
+          "phone": [
+            "703-767-1771"
+          ]
+        }
+      },
+      "name": "Defense Threat Reduction Agency",
+      "phone": "703-767-1792",
+      "public_liaison": {
+        "name": "Pamela Andrews",
+        "phone": [
+          "703-767-1792"
+        ]
+      },
+      "service_center": {
+        "phone": [
+          "703-767-1792"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dtra.mil/Info/FOIA/FOIAHome.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Michael A. Hamilton",
+          "FOIA Contact",
+          "DTIC-R"
+        ],
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "street": "8725 John J. Kingman Road",
+        "zip": "22060-6218"
+      },
+      "emails": [
+        "foia@dtic.mil"
+      ],
+      "fax": "703-767-9201",
+      "misc": {
+        "FOIA Contact (DTIC-R)": {
+          "name": "Michael A. Hamilton",
+          "phone": [
+            "703-767-9204"
+          ]
+        }
+      },
+      "name": "Defense Technical Information Center",
+      "phone": "703-767-9204",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "72",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2010": {
+          "simple_average_days": "35",
+          "simple_highest_days": "233",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2011": {
+          "simple_average_days": "22",
+          "simple_highest_days": "129",
+          "simple_lowest_days": "3",
+          "simple_median_days": "20"
+        },
+        "2012": {
+          "complex_average_days": "42",
+          "complex_highest_days": "111",
+          "complex_lowest_days": "22",
+          "complex_median_days": "26",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "0",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "complex_average_days": "25",
+          "complex_highest_days": "54",
+          "complex_lowest_days": "21",
+          "complex_median_days": "24",
+          "simple_average_days": "13",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2014": {
+          "complex_average_days": "36",
+          "complex_highest_days": "116",
+          "complex_lowest_days": "21",
+          "complex_median_days": "28",
+          "simple_average_days": "11",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "40",
+          "complex_highest_days": "73",
+          "complex_lowest_days": "21",
+          "complex_median_days": "27",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "31",
+          "complex_highest_days": "80",
+          "complex_lowest_days": "21",
+          "complex_median_days": "32",
+          "simple_average_days": "8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-767-9204"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dtic.mil/dtic/foia.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "James Revell",
+          "FOIA Contact",
+          "Requester Service Center"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "4800 Mark Center Drive",
+        "zip": "22350-1400"
+      },
+      "emails": [
+        "foia@hq.dodea.edu"
+      ],
+      "fax": "571-372-5829",
+      "misc": {
+        "FOIA Contact": {
+          "name": "James Revell",
+          "phone": [
+            "571-372-1892"
+          ]
+        }
+      },
+      "name": "Department of Defense Education Activity",
+      "phone": "571-372-1892",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "90",
+          "complex_highest_days": "166",
+          "complex_lowest_days": "57",
+          "complex_median_days": "82",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24",
+          "simple_highest_days": "59",
+          "simple_lowest_days": "3",
+          "simple_median_days": "24"
+        },
+        "2009": {
+          "complex_average_days": "83",
+          "complex_highest_days": "226",
+          "complex_lowest_days": "53",
+          "complex_median_days": "59",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "20",
+          "simple_highest_days": "58",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2010": {
+          "complex_average_days": "53",
+          "complex_highest_days": "310",
+          "complex_lowest_days": "47",
+          "complex_median_days": "69",
+          "simple_average_days": "20",
+          "simple_highest_days": "54",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "complex_average_days": "53",
+          "complex_highest_days": "113",
+          "complex_lowest_days": "2",
+          "complex_median_days": "52",
+          "simple_average_days": "27",
+          "simple_highest_days": "112",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2012": {
+          "complex_average_days": "55",
+          "complex_highest_days": "55",
+          "complex_lowest_days": "55",
+          "complex_median_days": "55",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "24",
+          "simple_highest_days": "81",
+          "simple_lowest_days": "1",
+          "simple_median_days": "22"
+        },
+        "2013": {
+          "complex_average_days": "48",
+          "complex_highest_days": "110",
+          "complex_lowest_days": "20",
+          "complex_median_days": "40",
+          "simple_average_days": "18",
+          "simple_highest_days": "47",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2014": {
+          "complex_average_days": "34",
+          "complex_highest_days": "43",
+          "complex_lowest_days": "18",
+          "complex_median_days": "40",
+          "simple_average_days": "19",
+          "simple_highest_days": "51",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2015": {
+          "complex_average_days": "32",
+          "complex_highest_days": "66",
+          "complex_lowest_days": "18",
+          "complex_median_days": "29",
+          "simple_average_days": "18",
+          "simple_highest_days": "27",
+          "simple_lowest_days": "5",
+          "simple_median_days": "18"
+        },
+        "2016": {
+          "complex_average_days": "34",
+          "complex_highest_days": "64",
+          "complex_lowest_days": "21",
+          "complex_median_days": "35",
+          "simple_average_days": "18",
+          "simple_highest_days": "47",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "571-372-1892"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dodea.edu/foia.cfm"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Claudia Williams",
+          "FOIA Contact",
+          "Mail Stop S01-EGM"
+        ],
+        "city": "Springfield",
+        "state": "VA",
+        "street": "7500 GEOINT Drive",
+        "zip": "22150"
+      },
+      "emails": [
+        "foianga@nga.mil"
+      ],
+      "fax": "571-557-3130",
+      "keywords": [
+        "Privacy"
+      ],
+      "misc": {
+        "FOIA Program Manager": {
+          "phone": [
+            "571-557-4141"
+          ]
+        }
+      },
+      "name": "National Geospatial-Intelligence Agency",
+      "phone": "571-557-4141",
+      "public_liaison": {
+        "name": "Robert Milford",
+        "phone": [
+          "571-557-7708"
+        ]
+      },
+      "request_form": "https://foia.nga.mil/palMain.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "370",
+          "complex_highest_days": "845",
+          "complex_lowest_days": "88",
+          "complex_median_days": "362",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "194",
+          "simple_highest_days": "655",
+          "simple_lowest_days": "118",
+          "simple_median_days": "149"
+        },
+        "2009": {
+          "complex_average_days": "350",
+          "complex_highest_days": "922",
+          "complex_lowest_days": "1",
+          "complex_median_days": "346",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "120",
+          "simple_highest_days": "543",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2010": {
+          "complex_average_days": "417",
+          "complex_highest_days": "1074",
+          "complex_lowest_days": "5",
+          "complex_median_days": "608",
+          "simple_average_days": "221",
+          "simple_highest_days": "845",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "26"
+        },
+        "2011": {
+          "complex_average_days": "288",
+          "complex_highest_days": "870",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "281",
+          "simple_average_days": "less than 1",
+          "simple_highest_days": "less than 1",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "less than 1"
+        },
+        "2012": {
+          "complex_average_days": "306",
+          "complex_highest_days": "1022",
+          "complex_lowest_days": "0",
+          "complex_median_days": "266",
+          "expedited_processing_average_days": "132",
+          "expedited_processing_highest_days": "132",
+          "expedited_processing_lowest_days": "132",
+          "expedited_processing_median_days": "132",
+          "simple_average_days": "287",
+          "simple_highest_days": "321",
+          "simple_lowest_days": "244",
+          "simple_median_days": "296"
+        },
+        "2013": {
+          "complex_average_days": "255",
+          "complex_highest_days": "819",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "155"
+        },
+        "2014": {
+          "complex_average_days": "150",
+          "complex_highest_days": "851",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "45",
+          "simple_average_days": "28",
+          "simple_highest_days": "93",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2015": {
+          "complex_average_days": "190",
+          "complex_highest_days": "1079",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "90",
+          "expedited_processing_average_days": "25",
+          "expedited_processing_highest_days": "25",
+          "expedited_processing_lowest_days": "25",
+          "expedited_processing_median_days": "25",
+          "simple_average_days": "7",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "7",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "166",
+          "complex_highest_days": "817",
+          "complex_lowest_days": "1",
+          "complex_median_days": "94",
+          "simple_average_days": "5",
+          "simple_highest_days": "10",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "571-557-4141"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www1.nga.mil/Pages/FOIA.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Jennifer Nikolaisen",
+          "FOIA Contact",
+          "Office of Information and Privacy (NGB/JA-OIP)"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "111 South George Mason Drive, AH2",
+        "zip": "22204-1373"
+      },
+      "emails": [
+        "NGB.FOIA@mail.mil"
+      ],
+      "fax": "703-607-3684",
+      "foia_officer": {
+        "name": "Jennifer Nikolaisen",
+        "phone": [
+          "571-256-7838"
+        ]
+      },
+      "name": "National Guard Bureau",
+      "phone": "844-573-2939",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "http://www.nationalguard.mil/Resources/FOIA/Reading-Room/"
+        ]
+      ],
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "65",
+          "complex_highest_days": "77",
+          "complex_lowest_days": "53",
+          "complex_median_days": "65",
+          "expedited_processing_average_days": "99",
+          "expedited_processing_highest_days": "99",
+          "expedited_processing_lowest_days": "99",
+          "expedited_processing_median_days": "99",
+          "simple_average_days": "28",
+          "simple_highest_days": "113",
+          "simple_lowest_days": "1",
+          "simple_median_days": "21"
+        },
+        "2010": {
+          "complex_average_days": "48",
+          "complex_highest_days": "147",
+          "complex_lowest_days": "1",
+          "complex_median_days": "34",
+          "simple_average_days": "15",
+          "simple_highest_days": "124",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2011": {
+          "complex_average_days": "61",
+          "complex_highest_days": "197",
+          "complex_lowest_days": "1",
+          "complex_median_days": "49",
+          "simple_average_days": "16",
+          "simple_highest_days": "113",
+          "simple_lowest_days": "10",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "complex_average_days": "69",
+          "complex_highest_days": "337",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "52",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "85",
+          "complex_highest_days": "604",
+          "complex_lowest_days": "6",
+          "complex_median_days": "61",
+          "simple_average_days": "10",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "10"
+        },
+        "2014": {
+          "complex_average_days": "179",
+          "complex_highest_days": "695",
+          "complex_lowest_days": "3",
+          "complex_median_days": "118",
+          "simple_average_days": "14",
+          "simple_highest_days": "35",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2015": {
+          "complex_average_days": "222",
+          "complex_highest_days": "702",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "145",
+          "simple_average_days": "15",
+          "simple_highest_days": "159",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "285",
+          "complex_highest_days": "899",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "223",
+          "simple_average_days": "13",
+          "simple_highest_days": "275",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "844-573-2939"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.nationalguard.mil/Resources/FOIA.aspx"
+    },
+    {
+      "abbreviation": "NRO",
+      "address": {
+        "address_lines": [
+          "Patricia B. Cameresi",
+          "FOIA Contact",
+          "ATTN: OCIO/Information Review and Release Group"
+        ],
+        "city": "Chantilly",
+        "state": "VA",
+        "street": "14675 Lee Road",
+        "zip": "20151-1715"
+      },
+      "emails": [
+        "foia@nro.mil"
+      ],
+      "fax": "703-227-9198",
+      "misc": {
+        "Chief, Information Review and Release Group": {
+          "name": "Patricia B. Cameresi",
+          "phone": [
+            "703-227-9326"
+          ]
+        }
+      },
+      "name": "National Reconnaissance Office",
+      "phone": "703-227-9326",
+      "public_liaison": {
+        "name": "Patricia B. Cameresi",
+        "phone": [
+          "703-227-9128"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "NRO Electronic Reading Room",
+          "http://www.nro.gov/foia/reading-room.html"
+        ]
+      ],
+      "request_form": "http://www.nro.gov/foia/RequestInput.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "219",
+          "complex_highest_days": "1011",
+          "complex_lowest_days": "41",
+          "complex_median_days": "96",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13",
+          "simple_highest_days": "47",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2009": {
+          "complex_average_days": "218",
+          "complex_highest_days": "1161",
+          "complex_lowest_days": "22",
+          "complex_median_days": "136",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13",
+          "simple_highest_days": "77",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2010": {
+          "complex_average_days": "177",
+          "complex_highest_days": "1364",
+          "complex_lowest_days": "41",
+          "complex_median_days": "133",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "10",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2011": {
+          "complex_average_days": "196",
+          "complex_highest_days": "720",
+          "complex_lowest_days": "6",
+          "complex_median_days": "148",
+          "simple_average_days": "10",
+          "simple_highest_days": "58",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2012": {
+          "complex_average_days": "218",
+          "complex_highest_days": "1316",
+          "complex_lowest_days": "23",
+          "complex_median_days": "103",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "36",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "137",
+          "complex_highest_days": "1148",
+          "complex_lowest_days": "23",
+          "complex_median_days": "110",
+          "simple_average_days": "8",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "complex_average_days": "122",
+          "complex_highest_days": "768",
+          "complex_lowest_days": "31",
+          "complex_median_days": "86",
+          "expedited_processing_average_days": "39",
+          "expedited_processing_highest_days": "39",
+          "expedited_processing_lowest_days": "39",
+          "expedited_processing_median_days": "39",
+          "simple_average_days": "11",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "complex_average_days": "156",
+          "complex_highest_days": "1676",
+          "complex_lowest_days": "15",
+          "complex_median_days": "91",
+          "simple_average_days": "8",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        },
+        "2016": {
+          "complex_average_days": "224",
+          "complex_highest_days": "1579",
+          "complex_lowest_days": "6",
+          "complex_median_days": "89",
+          "simple_average_days": "25",
+          "simple_highest_days": "164",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-227-9326"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.nro.gov/foia/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Sharon Linkous",
+          "FOIA Contact, FOIA Requester Service Center/DJ4",
+          "Suite 6248"
+        ],
+        "city": "Fort George G. Meade",
+        "state": "MD",
+        "street": "9800 Savage Road",
+        "zip": "20755-6248"
+      },
+      "emails": [
+        "foiarsc@nsa.gov"
+      ],
+      "fax": "443-479-3612",
+      "name": "National Security Agency",
+      "phone": "301-688-6527",
+      "public_liaison": {
+        "name": "John Chapman",
+        "phone": [
+          "301-688-6527"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Reading Room",
+          "https://www.nsa.gov/resources/everyone/foia/reading-room/"
+        ]
+      ],
+      "request_form": "http://www.nsa.gov/public_info/foia/submit_foia_request/foia_release.shtml",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "1785",
+          "complex_highest_days": "4277",
+          "complex_lowest_days": "191",
+          "complex_median_days": "2012",
+          "expedited_processing_average_days": "114",
+          "expedited_processing_highest_days": "399",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "78",
+          "simple_highest_days": "2361",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2009": {
+          "complex_average_days": "1327",
+          "complex_highest_days": "4117",
+          "complex_lowest_days": "220",
+          "complex_median_days": "833",
+          "expedited_processing_average_days": "10",
+          "expedited_processing_highest_days": "10",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "62",
+          "simple_highest_days": "2066",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2010": {
+          "complex_average_days": "1398",
+          "complex_highest_days": "4189",
+          "complex_lowest_days": "182",
+          "complex_median_days": "822",
+          "expedited_processing_average_days": "78",
+          "expedited_processing_highest_days": "78",
+          "expedited_processing_lowest_days": "78",
+          "expedited_processing_median_days": "78",
+          "simple_average_days": "48",
+          "simple_highest_days": "1457",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2011": {
+          "complex_average_days": "962",
+          "complex_highest_days": "4377",
+          "complex_lowest_days": "211",
+          "complex_median_days": "595",
+          "expedited_processing_average_days": "279",
+          "expedited_processing_highest_days": "548",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "9",
+          "simple_average_days": "86",
+          "simple_highest_days": "1572",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2012": {
+          "complex_average_days": "1185",
+          "complex_highest_days": "3953",
+          "complex_lowest_days": "143",
+          "complex_median_days": "892",
+          "expedited_processing_average_days": "106",
+          "expedited_processing_highest_days": "391",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "58",
+          "simple_highest_days": "2939",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "993",
+          "complex_highest_days": "4585",
+          "complex_lowest_days": "18",
+          "complex_median_days": "559",
+          "expedited_processing_average_days": "173",
+          "expedited_processing_highest_days": "609",
+          "expedited_processing_lowest_days": "4",
+          "expedited_processing_median_days": "39",
+          "simple_average_days": "19",
+          "simple_highest_days": "3061",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2014": {
+          "complex_average_days": "425",
+          "complex_highest_days": "4060",
+          "complex_lowest_days": "4",
+          "complex_median_days": "215",
+          "expedited_processing_average_days": "182",
+          "expedited_processing_highest_days": "630",
+          "expedited_processing_lowest_days": "10",
+          "expedited_processing_median_days": "142",
+          "simple_average_days": "14",
+          "simple_highest_days": "569",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "complex_average_days": "515",
+          "complex_highest_days": "3221",
+          "complex_lowest_days": "1",
+          "complex_median_days": "533",
+          "expedited_processing_average_days": "469",
+          "expedited_processing_highest_days": "469",
+          "expedited_processing_lowest_days": "469",
+          "expedited_processing_median_days": "469",
+          "simple_average_days": "31",
+          "simple_highest_days": "613",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2016": {
+          "complex_average_days": "511",
+          "complex_highest_days": "2751",
+          "complex_lowest_days": "2",
+          "complex_median_days": "487",
+          "expedited_processing_average_days": "938",
+          "expedited_processing_highest_days": "1850",
+          "expedited_processing_lowest_days": "26",
+          "expedited_processing_median_days": "26",
+          "simple_average_days": "50",
+          "simple_highest_days": "1487",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-688-6527"
+        ]
+      },
+      "top_level": true,
+      "website": "http://www.nsa.gov/public_info/foia/index.shtml"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Catherine DelPrete",
+          "FOIA Contact",
+          "Suite 17F18"
+        ],
+        "city": "Alexandria",
+        "state": "VA",
+        "street": "4800 Mark Center Drive",
+        "zip": "22350-1500"
+      },
+      "fax": "571-372-7498",
+      "misc": {
+        "Chief, Freedom of Information & Privacy Office": {
+          "name": "Jeanne Miller",
+          "phone": [
+            "866-993-7005"
+          ]
+        },
+        "Supervisory Attorney FOIA/PA/CL": {
+          "name": "Catherine DelPrete",
+          "phone": [
+            "703-604-8350"
+          ]
+        }
+      },
+      "name": "Office of Inspector General",
+      "phone": "866-993-7005",
+      "public_liaison": {
+        "name": "Jeanne Miller",
+        "phone": [
+          "703-604-9785"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "http://www.dodig.mil/foia/readingroom.cfm"
+        ],
+        [
+          "Reading Room",
+          "http://www.dodig.mil/FOIA/readingroom.cfm"
+        ],
+        [
+          "Reading Room",
+          "http://www.dodig.mil/FOIA/readingroom.html"
+        ]
+      ],
+      "request_form": "http://www.dodig.mil/FOIA/submit.html",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18",
+          "simple_highest_days": "46",
+          "simple_lowest_days": "5",
+          "simple_median_days": "15"
+        },
+        "2009": {
+          "complex_average_days": "117",
+          "complex_highest_days": "1530",
+          "complex_lowest_days": "1",
+          "complex_median_days": "43",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2010": {
+          "complex_average_days": "32",
+          "complex_highest_days": "698",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12",
+          "simple_average_days": "6",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "38",
+          "complex_highest_days": "326",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "17",
+          "expedited_processing_average_days": "50",
+          "expedited_processing_highest_days": "133",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "10",
+          "simple_average_days": "5",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "4"
+        },
+        "2012": {
+          "complex_average_days": "145",
+          "complex_highest_days": "1604",
+          "complex_lowest_days": "1",
+          "complex_median_days": "61",
+          "expedited_processing_average_days": "22",
+          "expedited_processing_highest_days": "22",
+          "expedited_processing_lowest_days": "22",
+          "expedited_processing_median_days": "22",
+          "simple_average_days": "7",
+          "simple_highest_days": "103",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2013": {
+          "complex_average_days": "126",
+          "complex_highest_days": "1665",
+          "complex_lowest_days": "10",
+          "complex_median_days": "33",
+          "expedited_processing_average_days": "25",
+          "expedited_processing_highest_days": "62",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "26",
+          "simple_average_days": "6",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2014": {
+          "complex_average_days": "183",
+          "complex_highest_days": "1182",
+          "complex_lowest_days": "12",
+          "complex_median_days": "104",
+          "expedited_processing_average_days": "81",
+          "expedited_processing_highest_days": "155",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "81",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "294",
+          "complex_highest_days": "2481",
+          "complex_lowest_days": "1",
+          "complex_median_days": "142",
+          "expedited_processing_average_days": "205",
+          "expedited_processing_highest_days": "542",
+          "expedited_processing_lowest_days": "53",
+          "expedited_processing_median_days": "97",
+          "simple_average_days": "6",
+          "simple_highest_days": "73",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2016": {
+          "complex_average_days": "257",
+          "complex_highest_days": "2794",
+          "complex_lowest_days": "1",
+          "complex_median_days": "164",
+          "expedited_processing_average_days": "216",
+          "expedited_processing_highest_days": "1217",
+          "expedited_processing_lowest_days": "3",
+          "expedited_processing_median_days": "48",
+          "simple_average_days": "9",
+          "simple_highest_days": "43",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-604-9775"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.dodig.mil/FOIA/index.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Nadine Brown",
+          "DHA FOIA Officer",
+          "DHA FOIA Requester Service Center"
+        ],
+        "city": "Falls Church",
+        "state": "VA",
+        "street": "7700 Arlington Blvd, Suite 5101",
+        "zip": "22042-5101"
+      },
+      "emails": [
+        "FOIARequests@tma.osd.mil"
+      ],
+      "fax": "703-681-5138",
+      "name": "Defense Health Agency",
+      "phone": "703-681-7500",
+      "public_liaison": {
+        "name": "Linda Thomas",
+        "phone": [
+          "703-681-7500"
+        ]
+      },
+      "request_form": "http://www.tricare.mil/tma/privacy/FOIARequestForm.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "89",
+          "complex_highest_days": "382",
+          "complex_lowest_days": "21",
+          "complex_median_days": "47",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "22",
+          "simple_highest_days": "164",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2009": {
+          "complex_average_days": "67",
+          "complex_highest_days": "156",
+          "complex_lowest_days": "23",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "13",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2010": {
+          "complex_average_days": "65",
+          "complex_highest_days": "432",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "30",
+          "simple_average_days": "2",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "127",
+          "complex_highest_days": "412",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "95",
+          "simple_average_days": "16",
+          "simple_highest_days": "83",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2012": {
+          "complex_average_days": "59",
+          "complex_highest_days": "253",
+          "complex_lowest_days": "0",
+          "complex_median_days": "41",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "19",
+          "simple_highest_days": "161",
+          "simple_lowest_days": "0",
+          "simple_median_days": "11"
+        },
+        "2013": {
+          "complex_average_days": "59",
+          "complex_highest_days": "298",
+          "complex_lowest_days": "16",
+          "complex_median_days": "40",
+          "expedited_processing_average_days": "18",
+          "expedited_processing_highest_days": "18",
+          "expedited_processing_lowest_days": "18",
+          "expedited_processing_median_days": "18",
+          "simple_average_days": "21",
+          "simple_highest_days": "369",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "12"
+        },
+        "2014": {
+          "complex_average_days": "57",
+          "complex_highest_days": "296",
+          "complex_lowest_days": "5",
+          "complex_median_days": "44",
+          "simple_average_days": "25",
+          "simple_highest_days": "96",
+          "simple_lowest_days": "3",
+          "simple_median_days": "20"
+        },
+        "2015": {
+          "complex_average_days": "58",
+          "complex_highest_days": "158",
+          "complex_lowest_days": "3",
+          "complex_median_days": "49",
+          "simple_average_days": "50",
+          "simple_highest_days": "180",
+          "simple_lowest_days": "4",
+          "simple_median_days": "29"
+        },
+        "2016": {
+          "complex_average_days": "71",
+          "complex_highest_days": "283",
+          "complex_lowest_days": "1",
+          "complex_median_days": "57",
+          "expedited_processing_average_days": "49",
+          "expedited_processing_highest_days": "49",
+          "expedited_processing_lowest_days": "49",
+          "expedited_processing_median_days": "49",
+          "simple_average_days": "29",
+          "simple_highest_days": "96",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "22"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-681-7500"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.tricare.mil/tma/privacy/foia.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Christine Jones",
+          "FOIA Contact",
+          "FOIA Requester Service Center"
+        ],
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "street": "10244 Burbeck Road",
+        "zip": "22060-5805"
+      },
+      "emails": [
+        "js.belvoir.jpra.mbx.foia-pa@mail.mil"
+      ],
+      "fax": "703-704-2231",
+      "name": "Joint Personnel Recovery Agency",
+      "phone": "703-704-0637",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_form": "http://www.jpra.mil/links/FOIA/ElecBasic.html",
+      "request_time_stats": {
+        "2013": {
+          "complex_average_days": "25",
+          "complex_highest_days": "25",
+          "complex_lowest_days": "25",
+          "complex_median_days": "25",
+          "simple_average_days": "15",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "4",
+          "simple_median_days": "17"
+        },
+        "2014": {
+          "complex_average_days": "38",
+          "complex_highest_days": "70",
+          "complex_lowest_days": "22",
+          "complex_median_days": "33",
+          "simple_average_days": "8",
+          "simple_highest_days": "9",
+          "simple_lowest_days": "7",
+          "simple_median_days": "8"
+        },
+        "2015": {
+          "complex_average_days": "46",
+          "complex_highest_days": "64",
+          "complex_lowest_days": "27",
+          "complex_median_days": "53",
+          "simple_average_days": "16",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "11",
+          "simple_median_days": "18"
+        },
+        "2016": {
+          "complex_average_days": "36",
+          "complex_highest_days": "59",
+          "complex_lowest_days": "22",
+          "complex_median_days": "22",
+          "simple_average_days": "5",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "4",
+          "simple_median_days": "4"
+        }
+      },
+      "top_level": false,
+      "website": "http://www.jpra.mil/links/FOIA/FOIA.html"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Angelica Simmons",
+          "HQ U.S. Africa Command",
+          "FOIA Requester Service Center"
+        ],
+        "city": "APO",
+        "state": "AE",
+        "street": "Unit 29951",
+        "zip": "09751"
+      },
+      "emails": [
+        "africom.stuttgart.accc.list.foia-mba@mail.mil"
+      ],
+      "fax": "+490 711-729-4732",
+      "misc": {
+        "HQ U.S. Africa Command": {
+          "name": "FOIA Contact",
+          "phone": [
+            "+490 711-729-4287"
+          ]
+        }
+      },
+      "name": "U.S. Africa Command",
+      "phone": "+490 711-729-4287",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "35",
+          "complex_highest_days": "35",
+          "complex_lowest_days": "35",
+          "complex_median_days": "35",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "42",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "complex_average_days": "34",
+          "complex_highest_days": "34",
+          "complex_lowest_days": "34",
+          "complex_median_days": "34"
+        },
+        "2011": {
+          "complex_average_days": "28",
+          "complex_highest_days": "29",
+          "complex_lowest_days": "27",
+          "complex_median_days": "28",
+          "simple_average_days": "17",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "1",
+          "simple_median_days": "25"
+        },
+        "2012": {
+          "complex_average_days": "103",
+          "complex_highest_days": "427",
+          "complex_lowest_days": "36",
+          "complex_median_days": "76",
+          "expedited_processing_average_days": "44",
+          "expedited_processing_highest_days": "44",
+          "expedited_processing_lowest_days": "44",
+          "expedited_processing_median_days": "44",
+          "simple_average_days": "21",
+          "simple_highest_days": "44",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2013": {
+          "complex_average_days": "445",
+          "complex_highest_days": "861",
+          "complex_lowest_days": "29",
+          "complex_median_days": "128",
+          "simple_average_days": "35",
+          "simple_highest_days": "68",
+          "simple_lowest_days": "1",
+          "simple_median_days": "39"
+        },
+        "2014": {
+          "complex_average_days": "410",
+          "complex_highest_days": "1085",
+          "complex_lowest_days": "33",
+          "complex_median_days": "131",
+          "simple_average_days": "42",
+          "simple_highest_days": "103",
+          "simple_lowest_days": "2",
+          "simple_median_days": "46"
+        },
+        "2015": {
+          "complex_average_days": "186",
+          "complex_highest_days": "826",
+          "complex_lowest_days": "47",
+          "complex_median_days": "155",
+          "simple_average_days": "45",
+          "simple_highest_days": "117",
+          "simple_lowest_days": "1",
+          "simple_median_days": "36"
+        },
+        "2016": {
+          "complex_average_days": "304",
+          "complex_highest_days": "972",
+          "complex_lowest_days": "62",
+          "complex_median_days": "283",
+          "expedited_processing_highest_days": "less than 1",
+          "expedited_processing_lowest_days": "less than 1",
+          "simple_average_days": "40",
+          "simple_highest_days": "108",
+          "simple_lowest_days": "1",
+          "simple_median_days": "33"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "+490 711-729-4287"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.africom.mil/FOIA.asp"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Steven Johnson",
+          "FOIA Contact",
+          "CCJ6-RDF (FOIA/PA)"
+        ],
+        "city": "MacDill AFB",
+        "state": "FL",
+        "street": "7115 South Boundary Boulevard",
+        "zip": "33621-5101"
+      },
+      "emails": [
+        "centcom.macdill.centcom-hq.mbx.freedom-of-information-act@mail.mil"
+      ],
+      "fax": "813-529-6689",
+      "misc": {
+        "FOIA Contact": {
+          "phone": [
+            "813-827-1810"
+          ]
+        }
+      },
+      "name": "U.S. Central Command",
+      "phone": "813-529-6298",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_form": "https://www6.centcom.mil/FOIARequests/request.asp",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "138",
+          "complex_highest_days": "819",
+          "complex_lowest_days": "1",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "34",
+          "simple_highest_days": "135",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2009": {
+          "complex_average_days": "428",
+          "complex_highest_days": "1420",
+          "complex_lowest_days": "1",
+          "complex_median_days": "394",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "79",
+          "simple_highest_days": "961",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "complex_average_days": "365",
+          "complex_highest_days": "828",
+          "complex_lowest_days": "1",
+          "complex_median_days": "300",
+          "expedited_processing_average_days": "185",
+          "expedited_processing_highest_days": "364",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "185",
+          "simple_average_days": "60",
+          "simple_highest_days": "442",
+          "simple_lowest_days": "1",
+          "simple_median_days": "43"
+        },
+        "2011": {
+          "complex_average_days": "452",
+          "complex_highest_days": "1659",
+          "complex_lowest_days": "17",
+          "complex_median_days": "351",
+          "simple_average_days": "130",
+          "simple_highest_days": "784",
+          "simple_lowest_days": "1",
+          "simple_median_days": "31"
+        },
+        "2012": {
+          "complex_average_days": "152",
+          "complex_highest_days": "1457",
+          "complex_lowest_days": "1",
+          "complex_median_days": "74",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "97",
+          "simple_highest_days": "1103",
+          "simple_lowest_days": "1",
+          "simple_median_days": "33"
+        },
+        "2013": {
+          "complex_average_days": "159",
+          "complex_highest_days": "1418",
+          "complex_lowest_days": "1",
+          "complex_median_days": "87",
+          "expedited_processing_average_days": "52",
+          "expedited_processing_highest_days": "58",
+          "expedited_processing_lowest_days": "13",
+          "expedited_processing_median_days": "57",
+          "simple_average_days": "5",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "200",
+          "complex_highest_days": "1835",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "96",
+          "simple_average_days": "46",
+          "simple_highest_days": "364",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "complex_average_days": "93",
+          "complex_highest_days": "1011",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "47",
+          "expedited_processing_average_days": "196",
+          "expedited_processing_highest_days": "860",
+          "expedited_processing_lowest_days": "9",
+          "expedited_processing_median_days": "51",
+          "simple_average_days": "90",
+          "simple_highest_days": "173",
+          "simple_lowest_days": "3",
+          "simple_median_days": "103"
+        },
+        "2016": {
+          "complex_average_days": "302",
+          "complex_highest_days": "2317",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "132",
+          "expedited_processing_average_days": "103",
+          "expedited_processing_highest_days": "245",
+          "expedited_processing_lowest_days": "7",
+          "expedited_processing_median_days": "80",
+          "simple_average_days": "92",
+          "simple_highest_days": "211",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "42"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "813-827-1810"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.centcom.mil/en/freedom-of-information-act-en"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Brendan Wilson",
+          "EUCOM FOIA/PA Support Specialist",
+          "FOIA Requester Service Center"
+        ],
+        "city": "APO",
+        "state": "AE",
+        "street": "Unit 30400",
+        "zip": "09131"
+      },
+      "emails": [
+        "eucom.stuttgart.ecj1.mbx.foia-privact-request@mail.mil"
+      ],
+      "fax": "+49011 711-680-8092",
+      "misc": {
+        "HQ USEUCOM": {
+          "name": "FOIA Contact",
+          "phone": [
+            "+49011 711-680-7161"
+          ]
+        }
+      },
+      "name": "U.S. European Command",
+      "phone": "+49011 711-680-7161",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center/foia-reading-room"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "266",
+          "complex_highest_days": "300",
+          "complex_lowest_days": "245",
+          "complex_median_days": "254",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "71",
+          "simple_highest_days": "247",
+          "simple_lowest_days": "3",
+          "simple_median_days": "65"
+        },
+        "2009": {
+          "complex_average_days": "189",
+          "complex_highest_days": "342",
+          "complex_lowest_days": "65",
+          "complex_median_days": "175",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "91",
+          "simple_highest_days": "406",
+          "simple_lowest_days": "2",
+          "simple_median_days": "46"
+        },
+        "2010": {
+          "complex_average_days": "442",
+          "complex_highest_days": "839",
+          "complex_lowest_days": "28",
+          "complex_median_days": "555",
+          "expedited_processing_average_days": "109",
+          "expedited_processing_highest_days": "109",
+          "expedited_processing_lowest_days": "less than 1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "106",
+          "simple_highest_days": "511",
+          "simple_lowest_days": "1",
+          "simple_median_days": "56"
+        },
+        "2011": {
+          "complex_average_days": "402",
+          "complex_highest_days": "1074",
+          "complex_lowest_days": "4",
+          "complex_median_days": "277",
+          "simple_average_days": "101",
+          "simple_highest_days": "1271",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2012": {
+          "complex_average_days": "314",
+          "complex_highest_days": "812",
+          "complex_lowest_days": "16",
+          "complex_median_days": "607",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "15",
+          "simple_highest_days": "72",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2013": {
+          "complex_average_days": "385",
+          "complex_highest_days": "1752",
+          "complex_lowest_days": "11",
+          "complex_median_days": "168",
+          "simple_average_days": "10",
+          "simple_highest_days": "76",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2014": {
+          "complex_average_days": "331",
+          "complex_highest_days": "1379",
+          "complex_lowest_days": "22",
+          "complex_median_days": "111",
+          "simple_average_days": "10",
+          "simple_highest_days": "108",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2015": {
+          "complex_average_days": "36",
+          "complex_highest_days": "821",
+          "complex_lowest_days": "23",
+          "complex_median_days": "56",
+          "simple_average_days": "15",
+          "simple_highest_days": "42",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "60",
+          "complex_highest_days": "60",
+          "complex_lowest_days": "60",
+          "complex_median_days": "60",
+          "simple_average_days": "17",
+          "simple_highest_days": "38",
+          "simple_lowest_days": "1",
+          "simple_median_days": "15"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "+49011 711-680-7161"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.eucom.mil/policies-and-compliance/freedom-of-information-act-foia-requestor-service-center"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kristina Roth",
+          "FOIA Contact",
+          "USNORTHCOM FOIA Requester Service Center"
+        ],
+        "city": "Peterson AFB",
+        "state": "CO",
+        "street": "250 Vandenberg Street Suite B016",
+        "zip": "80914-3804"
+      },
+      "emails": [
+        "n-nc.peterson.n-ncspecialstaff.mbx.cska-foia-omb@mail.mil"
+      ],
+      "fax": "719-554-2619",
+      "misc": {
+        "HQ NORAD USNORTHCOM/CS": {
+          "name": "FOIA Officer",
+          "phone": [
+            "719-554-1785"
+          ]
+        }
+      },
+      "name": "U.S. Northern Command",
+      "phone": "719-554-7185",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Library",
+          "http://www.northcom.mil/About-USNORTHCOM/Freedom-of-Information-Act/Reading-Room/FOIA-Library/"
+        ],
+        [
+          "Reading Room",
+          "http://www.northcom.mil/About-USNORTHCOM/Freedom-of-Information-Act/Reading-Room/"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2009": {
+          "complex_average_days": "6",
+          "complex_highest_days": "8",
+          "complex_lowest_days": "5",
+          "complex_median_days": "6",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2010": {
+          "simple_average_days": "12",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "1",
+          "simple_median_days": "17"
+        },
+        "2011": {
+          "simple_average_days": "20",
+          "simple_highest_days": "120",
+          "simple_lowest_days": "3",
+          "simple_median_days": "17"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "30",
+          "simple_highest_days": "167",
+          "simple_lowest_days": "1",
+          "simple_median_days": "26"
+        },
+        "2013": {
+          "complex_average_days": "218",
+          "complex_highest_days": "973",
+          "complex_lowest_days": "23",
+          "complex_median_days": "89",
+          "simple_average_days": "8",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2014": {
+          "complex_average_days": "92",
+          "complex_highest_days": "279",
+          "complex_lowest_days": "24",
+          "complex_median_days": "28",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2015": {
+          "complex_average_days": "67",
+          "complex_highest_days": "216",
+          "complex_lowest_days": "21",
+          "complex_median_days": "60",
+          "expedited_processing_average_days": "12",
+          "expedited_processing_highest_days": "13",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "12",
+          "simple_average_days": "10",
+          "simple_highest_days": "23",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2016": {
+          "complex_average_days": "270",
+          "complex_highest_days": "1663",
+          "complex_lowest_days": "22",
+          "complex_median_days": "111",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "21",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "5",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "719-554-1785"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.northcom.mil/AboutUSNORTHCOM/FreedomofInformationAct.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Julio Perez",
+          "FOIA Contact",
+          "ATTN: J151 FOIA Requester Service Center"
+        ],
+        "city": "Camp H.M. Smith",
+        "state": "HI",
+        "street": "Box 64017",
+        "zip": "96861-4017"
+      },
+      "emails": [
+        "pacom.foia.fct@pacom.mil"
+      ],
+      "fax": "808-447-6685",
+      "misc": {
+        "FOIA Contact": {
+          "phone": [
+            "808-477-0995"
+          ]
+        }
+      },
+      "name": "U.S. Pacific Command",
+      "phone": "808-477-0995",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA - Reading Room",
+          "http://www.pacom.mil/Media/Freedom-of-Information-Act/FOIA-Reading-Room/"
+        ],
+        [
+          "Reading Room",
+          "http://www.pacom.mil/Media/Freedom-of-Information-Act/FOIAReadingRoom/"
+        ]
+      ],
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "489",
+          "complex_highest_days": "2694",
+          "complex_lowest_days": "2",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "11",
+          "expedited_processing_highest_days": "12",
+          "expedited_processing_lowest_days": "11",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "138",
+          "simple_highest_days": "1724",
+          "simple_lowest_days": "1",
+          "simple_median_days": "0"
+        },
+        "2009": {
+          "complex_average_days": "365",
+          "complex_highest_days": "3665",
+          "complex_lowest_days": "1",
+          "complex_median_days": "92",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "1",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "15",
+          "simple_highest_days": "100",
+          "simple_lowest_days": "1",
+          "simple_median_days": "64"
+        },
+        "2010": {
+          "complex_average_days": "422",
+          "complex_highest_days": "3757",
+          "complex_lowest_days": "1",
+          "complex_median_days": "88",
+          "expedited_processing_average_days": "184",
+          "expedited_processing_highest_days": "346",
+          "expedited_processing_lowest_days": "16",
+          "expedited_processing_median_days": "81",
+          "simple_average_days": "3",
+          "simple_highest_days": "7",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "144",
+          "complex_highest_days": "2035",
+          "complex_lowest_days": "1",
+          "complex_median_days": "25",
+          "simple_average_days": "1",
+          "simple_highest_days": "1",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2012": {
+          "complex_average_days": "116",
+          "complex_highest_days": "2151",
+          "complex_lowest_days": "8",
+          "complex_median_days": "73",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "1",
+          "simple_highest_days": "2",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2013": {
+          "complex_average_days": "109",
+          "complex_highest_days": "495",
+          "complex_lowest_days": "21",
+          "complex_median_days": "68",
+          "simple_average_days": "8",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2014": {
+          "complex_average_days": "293",
+          "complex_highest_days": "3407",
+          "complex_lowest_days": "4",
+          "complex_median_days": "174",
+          "simple_average_days": "2",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2015": {
+          "complex_average_days": "529",
+          "complex_highest_days": "3262",
+          "complex_lowest_days": "1",
+          "complex_median_days": "36",
+          "simple_average_days": "3",
+          "simple_highest_days": "6",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2016": {
+          "complex_average_days": "39",
+          "complex_highest_days": "1068",
+          "complex_lowest_days": "2",
+          "complex_median_days": "11",
+          "simple_average_days": "2",
+          "simple_highest_days": "3",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "808-477-0995"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.pacom.mil/Media/FreedomofInformationAct.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Marco T. Villalobos",
+          "FOIA Manager",
+          "Attn:  SCSJA-FOIA"
+        ],
+        "city": "Doral",
+        "state": "FL",
+        "street": "9301 NW 33rd St.",
+        "zip": "33172"
+      },
+      "emails": [
+        "southcom.miami.sc-cc.mbx.southcomfoia@mail.mil"
+      ],
+      "fax": "305-437-1320",
+      "misc": {
+        "FOIA Contact": {
+          "name": "Marco T. Villalobos",
+          "phone": [
+            "305-437-1108"
+          ]
+        }
+      },
+      "name": "U.S. Southern Command",
+      "phone": "305-437-1108",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "\u200bFOIA Reading Room",
+          "http://www.southcom.mil/FOIA/FOIA-Reading-Room/"
+        ]
+      ],
+      "request_form": "http://www.southcom.mil/foia/Lists/FOIA%20Contact%20Submissions/Item/newifs.aspx?List=90f59c60%2D1255%2D4b96%2Daed0%2D4781c50e01fe&Source=%2Ffoia%2FPages%2FThank%2DYou%2Easpx&Web=d80bb3e4%2Db3a6%2D4623%2D97b0%2D0f5332fbf674",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "163",
+          "simple_highest_days": "420",
+          "simple_lowest_days": "15",
+          "simple_median_days": "140"
+        },
+        "2009": {
+          "complex_average_days": "339",
+          "complex_highest_days": "981",
+          "complex_lowest_days": "37",
+          "complex_median_days": "115",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "7",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "2",
+          "simple_median_days": "6"
+        },
+        "2010": {
+          "simple_average_days": "13",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "4",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "102",
+          "complex_highest_days": "409",
+          "complex_lowest_days": "31",
+          "complex_median_days": "93",
+          "simple_average_days": "15",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "6",
+          "simple_median_days": "11"
+        },
+        "2012": {
+          "complex_average_days": "167",
+          "complex_highest_days": "643",
+          "complex_lowest_days": "45",
+          "complex_median_days": "104",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3",
+          "simple_highest_days": "15",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2013": {
+          "complex_average_days": "202",
+          "complex_highest_days": "695",
+          "complex_lowest_days": "53",
+          "complex_median_days": "145",
+          "simple_average_days": "10",
+          "simple_highest_days": "28",
+          "simple_lowest_days": "4",
+          "simple_median_days": "21"
+        },
+        "2014": {
+          "complex_average_days": "275",
+          "complex_highest_days": "745",
+          "complex_lowest_days": "26",
+          "complex_median_days": "194",
+          "simple_average_days": "13",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "6",
+          "simple_median_days": "19"
+        },
+        "2015": {
+          "complex_average_days": "303",
+          "complex_highest_days": "2184",
+          "complex_lowest_days": "26",
+          "complex_median_days": "212",
+          "simple_average_days": "4",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "2",
+          "simple_median_days": "6"
+        },
+        "2016": {
+          "complex_average_days": "315",
+          "complex_highest_days": "2372",
+          "complex_lowest_days": "31",
+          "complex_median_days": "265",
+          "simple_average_days": "3",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "305-437-1108"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.southcom.mil/foia/Pages/FOIA.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Keith Komosinski",
+          "FOIA Contact",
+          "HQ USSOCOM - SOCS-SJS-I/FOIA Requester Service Center"
+        ],
+        "city": "MacDill AFB",
+        "state": "FL",
+        "street": "7701 Tampa Point Boulevard",
+        "zip": "33621-5323"
+      },
+      "emails": [
+        "FOIA@SOCOM.mil"
+      ],
+      "fax": "813-826-5482",
+      "misc": {
+        "HQ USSOCOM": {
+          "name": "FOIA Contact",
+          "phone": [
+            "813-826-3212"
+          ]
+        }
+      },
+      "name": "U.S. Special Operations Command",
+      "phone": "813-826-3212",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "USSOCOM E-Reading Room",
+          "http://www.socom.mil/FOIA/Pages/ReadingRoom.aspx"
+        ]
+      ],
+      "request_form": "http://www.SOCOM.mil/FOIA/Pages/Request.aspx",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "598",
+          "complex_highest_days": "2797",
+          "complex_lowest_days": "2",
+          "complex_median_days": "305",
+          "expedited_processing_average_days": "523",
+          "expedited_processing_highest_days": "545",
+          "expedited_processing_lowest_days": "484",
+          "expedited_processing_median_days": "539",
+          "simple_average_days": "162",
+          "simple_highest_days": "1553",
+          "simple_lowest_days": "1",
+          "simple_median_days": "6"
+        },
+        "2009": {
+          "complex_average_days": "418",
+          "complex_highest_days": "2342",
+          "complex_lowest_days": "1",
+          "complex_median_days": "397",
+          "expedited_processing_average_days": "1120",
+          "expedited_processing_highest_days": "1507",
+          "expedited_processing_lowest_days": "919",
+          "expedited_processing_median_days": "934",
+          "simple_average_days": "293",
+          "simple_highest_days": "1236",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2010": {
+          "complex_average_days": "438",
+          "complex_highest_days": "2423",
+          "complex_lowest_days": "1",
+          "complex_median_days": "82",
+          "expedited_processing_average_days": "970",
+          "expedited_processing_highest_days": "970",
+          "expedited_processing_lowest_days": "970",
+          "expedited_processing_median_days": "970",
+          "simple_average_days": "60",
+          "simple_highest_days": "1054",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2011": {
+          "complex_average_days": "345",
+          "complex_highest_days": "2088",
+          "complex_lowest_days": "1",
+          "complex_median_days": "64",
+          "simple_average_days": "134",
+          "simple_highest_days": "1493",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2012": {
+          "complex_average_days": "317",
+          "complex_highest_days": "4099",
+          "complex_lowest_days": "2",
+          "complex_median_days": "122",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "5",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2013": {
+          "complex_average_days": "308",
+          "complex_highest_days": "2517",
+          "complex_lowest_days": "1",
+          "complex_median_days": "94",
+          "simple_average_days": "15",
+          "simple_highest_days": "83",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "complex_average_days": "267",
+          "complex_highest_days": "1839",
+          "complex_lowest_days": "1",
+          "complex_median_days": "85",
+          "simple_average_days": "9",
+          "simple_highest_days": "106",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2015": {
+          "complex_average_days": "387",
+          "complex_highest_days": "3025",
+          "complex_lowest_days": "3",
+          "complex_median_days": "174",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2016": {
+          "complex_average_days": "445",
+          "complex_highest_days": "2019",
+          "complex_lowest_days": "3",
+          "complex_median_days": "322",
+          "simple_average_days": "6",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "813-826-3212"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.SOCOM.mil/FOIA/Pages/default.aspx"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Kendall Cooper",
+          "FOIA Contact",
+          "USSTRATCOM/J006 (FOIA)"
+        ],
+        "city": "Offutt AFB",
+        "state": "NE",
+        "street": "901 SAC BLVD STE 2E27",
+        "zip": "68113"
+      },
+      "emails": [
+        "FOIA-PARequestCenter-U@stratcom.mil"
+      ],
+      "fax": "402-294-7535",
+      "misc": {
+        "USSTRATCOM/J006 (FOIA)": {
+          "name": "FOIA Contact",
+          "phone": [
+            "402-294-6321"
+          ]
+        }
+      },
+      "name": "U.S. Strategic Command",
+      "phone": "402-294-6321",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "38",
+          "complex_highest_days": "92",
+          "complex_lowest_days": "5",
+          "complex_median_days": "29",
+          "expedited_processing_average_days": "13",
+          "expedited_processing_highest_days": "29",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "14",
+          "simple_highest_days": "49",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2009": {
+          "complex_average_days": "27",
+          "complex_highest_days": "49",
+          "complex_lowest_days": "5",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9",
+          "simple_highest_days": "25",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2010": {
+          "complex_average_days": "71",
+          "complex_highest_days": "147",
+          "complex_lowest_days": "38",
+          "complex_median_days": "54",
+          "simple_average_days": "14",
+          "simple_highest_days": "63",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2011": {
+          "complex_average_days": "566",
+          "complex_highest_days": "3816",
+          "complex_lowest_days": "47",
+          "complex_median_days": "202",
+          "simple_average_days": "38",
+          "simple_highest_days": "496",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "13"
+        },
+        "2012": {
+          "complex_average_days": "31",
+          "complex_highest_days": "144",
+          "complex_lowest_days": "7",
+          "complex_median_days": "56",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "0",
+          "simple_median_days": "8"
+        },
+        "2013": {
+          "complex_average_days": "68",
+          "complex_highest_days": "135",
+          "complex_lowest_days": "26",
+          "complex_median_days": "48",
+          "simple_average_days": "5",
+          "simple_highest_days": "16",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "3"
+        },
+        "2014": {
+          "complex_average_days": "93",
+          "complex_highest_days": "228",
+          "complex_lowest_days": "23",
+          "complex_median_days": "97",
+          "simple_average_days": "7",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "104",
+          "complex_highest_days": "475",
+          "complex_lowest_days": "23",
+          "complex_median_days": "65",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "9",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2016": {
+          "complex_average_days": "85",
+          "complex_highest_days": "373",
+          "complex_lowest_days": "21",
+          "complex_median_days": "57",
+          "expedited_processing_average_days": "14",
+          "expedited_processing_highest_days": "14",
+          "expedited_processing_lowest_days": "14",
+          "expedited_processing_median_days": "14",
+          "simple_average_days": "9",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "8"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "402-294-6321"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.stratcom.mil/foia/"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Dorothy Sherwood",
+          "FOIA Contact",
+          "USTRANSCOM/TCJA-FO"
+        ],
+        "city": "Scott AFB",
+        "state": "IL",
+        "street": "508 Scott Drive",
+        "zip": "62225-5357"
+      },
+      "emails": [
+        "transcom.scott.tcja.mbx.foia@mail.mil"
+      ],
+      "fax": "618-229-4711",
+      "foia_officer": {
+        "name": "Jolynn Bien",
+        "phone": [
+          "618-220-4100"
+        ]
+      },
+      "name": "U.S. Transportation Command",
+      "phone": "618-220-4100",
+      "public_liaison": {
+        "name": "Jim Hogan",
+        "phone": [
+          "571-372-0462"
+        ]
+      },
+      "request_form": "http://www.transcom.mil/foia/requestform.cfm",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "51",
+          "complex_highest_days": "138",
+          "complex_lowest_days": "29",
+          "complex_median_days": "43",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "8",
+          "simple_highest_days": "24",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2009": {
+          "complex_average_days": "102",
+          "complex_highest_days": "144",
+          "complex_lowest_days": "39",
+          "complex_median_days": "55",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "16",
+          "simple_highest_days": "32",
+          "simple_lowest_days": "1",
+          "simple_median_days": "2"
+        },
+        "2010": {
+          "complex_average_days": "258",
+          "complex_highest_days": "398",
+          "complex_lowest_days": "121",
+          "complex_median_days": "132",
+          "expedited_processing_average_days": "1",
+          "expedited_processing_highest_days": "4",
+          "expedited_processing_lowest_days": "1",
+          "expedited_processing_median_days": "1",
+          "simple_average_days": "8",
+          "simple_highest_days": "118",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2011": {
+          "complex_average_days": "187",
+          "complex_highest_days": "742",
+          "complex_lowest_days": "49",
+          "complex_median_days": "86",
+          "simple_average_days": "17",
+          "simple_highest_days": "114",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        },
+        "2012": {
+          "complex_average_days": "105",
+          "complex_highest_days": "543",
+          "complex_lowest_days": "21",
+          "complex_median_days": "57",
+          "expedited_processing_average_days": "8",
+          "expedited_processing_highest_days": "8",
+          "expedited_processing_lowest_days": "8",
+          "expedited_processing_median_days": "8",
+          "simple_average_days": "6",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2013": {
+          "complex_average_days": "60",
+          "complex_highest_days": "163",
+          "complex_lowest_days": "23",
+          "complex_median_days": "33",
+          "simple_average_days": "7",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2014": {
+          "complex_average_days": "118",
+          "complex_highest_days": "395",
+          "complex_lowest_days": "21",
+          "complex_median_days": "82",
+          "simple_average_days": "12",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
+        },
+        "2015": {
+          "complex_average_days": "309",
+          "complex_highest_days": "2486",
+          "complex_lowest_days": "3",
+          "complex_median_days": "189",
+          "expedited_processing_average_days": "32",
+          "expedited_processing_highest_days": "36",
+          "expedited_processing_lowest_days": "27",
+          "expedited_processing_median_days": "32"
+        },
+        "2016": {
+          "complex_average_days": "163",
+          "complex_highest_days": "1320",
+          "complex_lowest_days": "1",
+          "complex_median_days": "55",
+          "expedited_processing_average_days": "16",
+          "expedited_processing_highest_days": "35",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "9"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "618-220-4100"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.transcom.mil/foia/"
+    }
+  ],
+  "description": "The mission of the Department of Defense is to provide the military forces needed to deter war and to protect the security of our country.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Adult education",
+    "Advertising",
+    "Aged",
+    "Agency for International Development",
+    "Agriculture",
+    "Aid to Families with Dependent Children",
+    "Air carriers",
+    "Air pollution control",
+    "Air traffic control",
+    "Aircraft",
+    "Airports",
+    "Alcohol abuse",
+    "Alcohol and alcoholic beverages",
+    "Alcoholism",
+    "Alimony",
+    "American Samoa",
+    "Archives and records",
+    "Armed forces",
+    "Armed forces reserves",
+    "Arms and munitions",
+    "Authority delegations (Government agencies)",
+    "Aviation safety",
+    "Banks, banking",
+    "Biologics",
+    "Blind",
+    "Bridges",
+    "Broadband",
+    "Buildings and facilities",
+    "Business and industry",
+    "Cemeteries",
+    "Child support",
+    "Child welfare",
+    "Civil defense",
+    "Civil disorders",
+    "Civil rights",
+    "Claims",
+    "Classified information",
+    "Coastal zone",
+    "Colleges and universities",
+    "Communications",
+    "Community development",
+    "Concessions",
+    "Conflict of interests",
+    "Conscientious objectors",
+    "Consumer protection",
+    "Copyright",
+    "Courts",
+    "Credit",
+    "Credit unions",
+    "Crime",
+    "Cultural exchange programs",
+    "Dams",
+    "Day care",
+    "Decorations, medals, awards",
+    "Defense Department",
+    "Dental health",
+    "Disability benefits",
+    "Disaster assistance",
+    "District of Columbia",
+    "Domestic violence",
+    "Drug abuse",
+    "Education",
+    "Education of disadvantaged",
+    "Education of individuals with disabilities",
+    "Educational facilities",
+    "Educational research",
+    "Educational study programs",
+    "Elections",
+    "Electric power",
+    "Electric power rates",
+    "Electric utilities",
+    "Elementary and secondary education",
+    "Employment",
+    "Endangered and threatened species",
+    "Energy",
+    "Environmental impact statements",
+    "Environmental protection",
+    "Equal educational opportunity",
+    "Equal employment opportunity",
+    "Explosives",
+    "Exports",
+    "Federal buildings and facilities",
+    "Federally affected areas",
+    "Fire prevention",
+    "Fish",
+    "Flood control",
+    "Food assistance programs",
+    "Foreign currencies",
+    "Foreign relations",
+    "Fraud",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government procurement",
+    "Government property",
+    "Government property management",
+    "Grant programs",
+    "Grant programs-agriculture",
+    "Grant programs-education",
+    "Grant programs-health",
+    "Grant programs-housing and community development",
+    "Grant programs-social programs",
+    "Grant programs-veterans",
+    "Guam",
+    "HIV/AIDS",
+    "Hazardous substances",
+    "Health",
+    "Health care",
+    "Health facilities",
+    "Health insurance",
+    "Health professions",
+    "Health records",
+    "Highway safety",
+    "Historic preservation",
+    "Home improvement",
+    "Homeless",
+    "Hospitals",
+    "Hostages",
+    "Housing",
+    "Human research subjects",
+    "Income taxes",
+    "Indians",
+    "Indians-education",
+    "Indians-lands",
+    "Individuals with disabilities",
+    "Insurance",
+    "Intergovernmental relations",
+    "International organizations",
+    "Inventions and patents",
+    "Investigations",
+    "Iraq",
+    "Kuwait",
+    "Labor management relations",
+    "Labor unions",
+    "Laboratories",
+    "Law",
+    "Law enforcement",
+    "Law enforcement officers",
+    "Lawyers",
+    "Lebanon",
+    "Legal services",
+    "Life insurance",
+    "Loan programs",
+    "Loan programs-agriculture",
+    "Loan programs-business",
+    "Loan programs-communications",
+    "Loan programs-education",
+    "Loan programs-energy",
+    "Loan programs-housing and community development",
+    "Loan programs-veterans",
+    "Manpower training programs",
+    "Marine safety",
+    "Maternal and child health",
+    "Medical and dental schools",
+    "Medical devices",
+    "Medical research",
+    "Mental health programs",
+    "Migrant labor",
+    "Military air transportation",
+    "Military law",
+    "Military personnel",
+    "Monuments and memorials",
+    "Mortgage insurance",
+    "Mortgages",
+    "Motion pictures",
+    "Motor vehicles",
+    "National defense",
+    "Natural resources",
+    "Navigation (air)",
+    "Navigation (water)",
+    "Noise control",
+    "Nonprofit organizations",
+    "Northern Mariana Islands",
+    "Nuclear energy",
+    "Nursing homes",
+    "Occupational safety and health",
+    "Organization and functions (Government agencies)",
+    "Pacific Islands Trust Territory",
+    "Passports and visas",
+    "Penalties",
+    "Privacy",
+    "Private schools",
+    "Public lands",
+    "Radiation protection",
+    "Real property acquisition",
+    "Religious discrimination",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Reservoirs",
+    "Rights-of-way",
+    "Rural areas",
+    "Safety",
+    "Scholarships and fellowships",
+    "School construction",
+    "Schools",
+    "Science and technology",
+    "Seals and insignia",
+    "Seamen",
+    "Securities",
+    "Security measures",
+    "Sex discrimination",
+    "Small businesses",
+    "State and local governments",
+    "Statistics",
+    "Student aid",
+    "Sunshine Act",
+    "Surplus Government property",
+    "Taxes",
+    "Teachers",
+    "Technical assistance",
+    "Telecommunications",
+    "Telephone",
+    "Terrorism",
+    "Traffic regulations",
+    "Transportation",
+    "Travel and transportation expenses",
+    "Trusts and trustees",
+    "Urban areas",
+    "Vessels",
+    "Veterans",
+    "Virgin Islands",
+    "Vocational education",
+    "Vocational rehabilitation",
+    "Voting rights",
+    "Wages",
+    "Wake Island",
+    "Waste treatment and disposal",
+    "Water pollution control",
+    "Water resources",
+    "Water supply",
+    "Watersheds",
+    "Waterways",
+    "Wildlife",
+    "Wiretapping and electronic surveillance",
+    "Women"
+  ],
+  "name": "Department of Defense",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "190",
+      "complex_highest_days": "4277",
+      "complex_lowest_days": "1",
+      "expedited_processing_average_days": "22.8939",
+      "expedited_processing_highest_days": "687",
+      "expedited_processing_lowest_days": "1",
+      "simple_average_days": "30.2508",
+      "simple_highest_days": "2361",
+      "simple_lowest_days": "1"
+    },
+    "2009": {
+      "complex_average_days": "187",
+      "complex_highest_days": "4117",
+      "complex_lowest_days": "1",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "13",
+      "expedited_processing_highest_days": "1507",
+      "expedited_processing_lowest_days": "1",
+      "simple_average_days": "43",
+      "simple_highest_days": "2918",
+      "simple_lowest_days": "1"
+    },
+    "2010": {
+      "complex_average_days": "127",
+      "complex_highest_days": "4314",
+      "complex_lowest_days": "less than 1",
+      "expedited_processing_average_days": "8",
+      "expedited_processing_highest_days": "970",
+      "expedited_processing_lowest_days": "less than 1",
+      "simple_average_days": "24",
+      "simple_highest_days": "2306",
+      "simple_lowest_days": "less than 1"
+    },
+    "2011": {
+      "complex_average_days": "111",
+      "complex_highest_days": "4475",
+      "complex_lowest_days": "less than 1",
+      "expedited_processing_average_days": "16",
+      "expedited_processing_highest_days": "1023",
+      "expedited_processing_lowest_days": "less than 1",
+      "simple_average_days": "19",
+      "simple_highest_days": "3760",
+      "simple_lowest_days": "less than 1"
+    },
+    "2012": {
+      "complex_average_days": "115",
+      "complex_highest_days": "4099",
+      "complex_lowest_days": "less than 1",
+      "expedited_processing_average_days": "14",
+      "expedited_processing_highest_days": "391",
+      "expedited_processing_lowest_days": "less than 1",
+      "simple_average_days": "11",
+      "simple_highest_days": "2939",
+      "simple_lowest_days": "less than 1"
+    },
+    "2013": {
+      "complex_average_days": "93",
+      "complex_highest_days": "4585",
+      "complex_lowest_days": "less than 1",
+      "expedited_processing_average_days": "15",
+      "expedited_processing_highest_days": "609",
+      "expedited_processing_lowest_days": "less than 1",
+      "simple_average_days": "10",
+      "simple_highest_days": "3061",
+      "simple_lowest_days": "less than 1"
+    },
+    "2014": {
+      "complex_average_days": "97",
+      "complex_highest_days": "4060",
+      "complex_lowest_days": "less than 1",
+      "expedited_processing_average_days": "35",
+      "expedited_processing_highest_days": "630",
+      "expedited_processing_lowest_days": "less than 1",
+      "simple_average_days": "13",
+      "simple_highest_days": "1345",
+      "simple_lowest_days": "less than 1"
+    },
+    "2015": {
+      "complex_average_days": "165.14",
+      "complex_highest_days": "3517",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "89.72",
+      "expedited_processing_average_days": "32.33",
+      "expedited_processing_highest_days": "860",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "22.89",
+      "simple_average_days": "16.58",
+      "simple_highest_days": "3036",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "11.91"
+    },
+    "2016": {
+      "complex_average_days": "158.97",
+      "complex_highest_days": "3885",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "99.02",
+      "expedited_processing_average_days": "49.36",
+      "expedited_processing_highest_days": "1850",
+      "expedited_processing_lowest_days": "less than 1",
+      "expedited_processing_median_days": "10.98",
+      "simple_average_days": "19.46",
+      "simple_highest_days": "1758",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "13.44"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "abbreviation": "USTDA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Doug Choi",
+          "FOIA Contact",
+          "Suite 1600"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "1000 Wilson Boulevard",
+        "zip": "22209-3901"
+      },
+      "emails": [
+        "dchoi@ustda.gov"
+      ],
+      "fax": "703-875-4009",
+      "misc": {
+        "FOIA Contact": {
+          "name": "Anna Kastelas",
+          "phone": [
+            "703-875-4357"
+          ]
+        }
+      },
+      "name": "United States Trade and Development Agency",
+      "phone": "703-875-4357",
+      "public_liaison": {
+        "name": "Doug Choi",
+        "phone": [
+          "703-875-4357"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "105",
+          "complex_highest_days": "303",
+          "complex_lowest_days": "2",
+          "complex_median_days": "60",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "155.3",
+          "complex_highest_days": "539",
+          "complex_lowest_days": "1",
+          "complex_median_days": "48",
+          "expedited_processing_average_days": "62.5",
+          "expedited_processing_highest_days": "109",
+          "expedited_processing_lowest_days": "16",
+          "expedited_processing_median_days": "62.5",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2012": {
+          "complex_average_days": "20.6",
+          "complex_highest_days": "84",
+          "complex_lowest_days": "7",
+          "complex_median_days": "13",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2013": {
+          "complex_average_days": "15.75",
+          "complex_highest_days": "44",
+          "complex_lowest_days": "5",
+          "complex_median_days": "10"
+        },
+        "2014": {
+          "complex_average_days": "45",
+          "complex_highest_days": "342",
+          "complex_lowest_days": "11",
+          "complex_median_days": "32"
+        },
+        "2015": {
+          "complex_average_days": "53",
+          "complex_highest_days": "116",
+          "complex_lowest_days": "22",
+          "complex_median_days": "37"
+        },
+        "2016": {
+          "complex_average_days": "174",
+          "complex_highest_days": "764",
+          "complex_lowest_days": "2",
+          "complex_median_days": "87"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-875-5578"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.ustda.gov/pubs/foia/"
+    }
+  ],
+  "description": "The U.S. Trade and Development Agency helps companies create U.S. jobs through the export of U.S. goods and services for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic growth in partner countries.",
+  "name": "United States Trade and Development Agency",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "105",
+      "complex_highest_days": "303",
+      "complex_lowest_days": "2",
+      "complex_median_days": "60",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2011": {
+      "complex_average_days": "155.3",
+      "complex_highest_days": "539",
+      "complex_lowest_days": "1",
+      "complex_median_days": "48",
+      "expedited_processing_average_days": "62.5",
+      "expedited_processing_highest_days": "109",
+      "expedited_processing_lowest_days": "16",
+      "expedited_processing_median_days": "62.5",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2012": {
+      "complex_average_days": "20.6",
+      "complex_highest_days": "84",
+      "complex_lowest_days": "7",
+      "complex_median_days": "13",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "0",
+      "simple_highest_days": "0",
+      "simple_lowest_days": "0",
+      "simple_median_days": "0"
+    },
+    "2013": {
+      "complex_average_days": "15.75",
+      "complex_highest_days": "44",
+      "complex_lowest_days": "5",
+      "complex_median_days": "10"
+    },
+    "2014": {
+      "complex_average_days": "45",
+      "complex_highest_days": "342",
+      "complex_lowest_days": "11",
+      "complex_median_days": "32"
+    },
+    "2015": {
+      "complex_average_days": "53",
+      "complex_highest_days": "116",
+      "complex_lowest_days": "22",
+      "complex_median_days": "37"
+    },
+    "2016": {
+      "complex_average_days": "174",
+      "complex_highest_days": "764",
+      "complex_lowest_days": "2",
+      "complex_median_days": "87"
+    }
+  }
+}

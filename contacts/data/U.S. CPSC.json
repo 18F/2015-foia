@@ -1,0 +1,314 @@
+{
+  "abbreviation": "CPSC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Alberta E. Mills",
+          "FOIA Officer / Chief FOIA Liaison",
+          "U.S. Consumer Product Safety Commission"
+        ],
+        "city": "Bethesda",
+        "state": "MD",
+        "street": "4330 East West Highway",
+        "zip": "20814-4408"
+      },
+      "emails": [
+        "cpsc-foia@cpsc.gov"
+      ],
+      "fax": "301-504-0127",
+      "foia_officer": {
+        "name": "Todd A. Stevenson",
+        "phone": [
+          "301-504-7923"
+        ]
+      },
+      "name": "Consumer Product Safety Commission",
+      "phone": "301-504-7923",
+      "public_liaison": {
+        "name": "Deborah Acosta",
+        "phone": [
+          "301-504-6821"
+        ]
+      },
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "85",
+          "complex_highest_days": "780",
+          "complex_lowest_days": "5",
+          "complex_median_days": "60",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "12",
+          "simple_highest_days": "50",
+          "simple_lowest_days": "1",
+          "simple_median_days": "10"
+        },
+        "2009": {
+          "complex_average_days": "68",
+          "complex_highest_days": "368",
+          "complex_lowest_days": "1",
+          "complex_median_days": "68",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "33",
+          "simple_highest_days": "332",
+          "simple_lowest_days": "0",
+          "simple_median_days": "17"
+        },
+        "2010": {
+          "complex_average_days": "87",
+          "complex_highest_days": "617",
+          "complex_lowest_days": "1",
+          "complex_median_days": "65",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "40",
+          "simple_highest_days": "350",
+          "simple_lowest_days": "1",
+          "simple_median_days": "19"
+        },
+        "2011": {
+          "complex_average_days": "97",
+          "complex_highest_days": "632",
+          "complex_lowest_days": "1",
+          "complex_median_days": "64",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "51",
+          "simple_highest_days": "580",
+          "simple_lowest_days": "1",
+          "simple_median_days": "9"
+        },
+        "2012": {
+          "complex_average_days": "102",
+          "complex_highest_days": "644",
+          "complex_lowest_days": "1",
+          "complex_median_days": "77",
+          "expedited_processing_average_days": "99",
+          "expedited_processing_highest_days": "99",
+          "expedited_processing_lowest_days": "99",
+          "expedited_processing_median_days": "99",
+          "simple_average_days": "35",
+          "simple_highest_days": "615",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2013": {
+          "complex_average_days": "96",
+          "complex_highest_days": "1159",
+          "complex_lowest_days": "1",
+          "complex_median_days": "53",
+          "simple_average_days": "27",
+          "simple_highest_days": "402",
+          "simple_lowest_days": "1",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "complex_average_days": "81",
+          "complex_highest_days": "729",
+          "complex_lowest_days": "1",
+          "complex_median_days": "50",
+          "simple_average_days": "32",
+          "simple_highest_days": "481",
+          "simple_lowest_days": "1",
+          "simple_median_days": "18"
+        },
+        "2015": {
+          "complex_average_days": "83",
+          "complex_highest_days": "1540",
+          "complex_lowest_days": "1",
+          "complex_median_days": "44",
+          "expedited_processing_average_days": "24",
+          "expedited_processing_highest_days": "24",
+          "expedited_processing_lowest_days": "24",
+          "expedited_processing_median_days": "24",
+          "simple_average_days": "44",
+          "simple_highest_days": "640",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2016": {
+          "complex_average_days": "114",
+          "complex_highest_days": "1665",
+          "complex_lowest_days": "1",
+          "complex_median_days": "46",
+          "simple_average_days": "28",
+          "simple_highest_days": "392",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "301-504-7923"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.cpsc.gov/en/Newsroom/FOIA/"
+    }
+  ],
+  "description": "The U.S. Consumer Product Safety Commission is charged with protecting the public from unreasonable risks of injury or death from thousands of types of consumer products under the agency's jurisdiction.",
+  "keywords": [
+    "Accounting",
+    "Administrative practice and procedure",
+    "Agency for International Development",
+    "Arms and munitions",
+    "Bicycles",
+    "Business and industry",
+    "Carpets and rugs",
+    "Cigarette lighters",
+    "Clothing",
+    "Consumer protection",
+    "Drugs",
+    "Explosives",
+    "Fire prevention",
+    "Flammable materials",
+    "Gasoline",
+    "Hazardous substances",
+    "Household appliances",
+    "Human research subjects",
+    "Imports",
+    "Investigations",
+    "Labeling",
+    "Law enforcement",
+    "Lawyers",
+    "Lead poisoning",
+    "Mattresses and mattress pads",
+    "Organization and functions (Government agencies)",
+    "Packaging and containers",
+    "Poison prevention",
+    "Reporting and recordkeeping requirements",
+    "Research",
+    "Safety",
+    "Textiles",
+    "Toys",
+    "Voluntary standards",
+    "Youth"
+  ],
+  "name": "Consumer Product Safety Commission",
+  "request_time_stats": {
+    "2008": {
+      "complex_average_days": "85",
+      "complex_highest_days": "780",
+      "complex_lowest_days": "5",
+      "complex_median_days": "60",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "12",
+      "simple_highest_days": "50",
+      "simple_lowest_days": "1",
+      "simple_median_days": "10"
+    },
+    "2009": {
+      "complex_average_days": "68",
+      "complex_highest_days": "368",
+      "complex_lowest_days": "1",
+      "complex_median_days": "68",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "33",
+      "simple_highest_days": "332",
+      "simple_lowest_days": "0",
+      "simple_median_days": "17"
+    },
+    "2010": {
+      "complex_average_days": "87",
+      "complex_highest_days": "617",
+      "complex_lowest_days": "1",
+      "complex_median_days": "65",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "40",
+      "simple_highest_days": "350",
+      "simple_lowest_days": "1",
+      "simple_median_days": "19"
+    },
+    "2011": {
+      "complex_average_days": "97",
+      "complex_highest_days": "632",
+      "complex_lowest_days": "1",
+      "complex_median_days": "64",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "51",
+      "simple_highest_days": "580",
+      "simple_lowest_days": "1",
+      "simple_median_days": "9"
+    },
+    "2012": {
+      "complex_average_days": "102",
+      "complex_highest_days": "644",
+      "complex_lowest_days": "1",
+      "complex_median_days": "77",
+      "expedited_processing_average_days": "99",
+      "expedited_processing_highest_days": "99",
+      "expedited_processing_lowest_days": "99",
+      "expedited_processing_median_days": "99",
+      "simple_average_days": "35",
+      "simple_highest_days": "615",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2013": {
+      "complex_average_days": "96",
+      "complex_highest_days": "1159",
+      "complex_lowest_days": "1",
+      "complex_median_days": "53",
+      "simple_average_days": "27",
+      "simple_highest_days": "402",
+      "simple_lowest_days": "1",
+      "simple_median_days": "11"
+    },
+    "2014": {
+      "complex_average_days": "81",
+      "complex_highest_days": "729",
+      "complex_lowest_days": "1",
+      "complex_median_days": "50",
+      "simple_average_days": "32",
+      "simple_highest_days": "481",
+      "simple_lowest_days": "1",
+      "simple_median_days": "18"
+    },
+    "2015": {
+      "complex_average_days": "83",
+      "complex_highest_days": "1540",
+      "complex_lowest_days": "1",
+      "complex_median_days": "44",
+      "expedited_processing_average_days": "24",
+      "expedited_processing_highest_days": "24",
+      "expedited_processing_lowest_days": "24",
+      "expedited_processing_median_days": "24",
+      "simple_average_days": "44",
+      "simple_highest_days": "640",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2016": {
+      "complex_average_days": "114",
+      "complex_highest_days": "1665",
+      "complex_lowest_days": "1",
+      "complex_median_days": "46",
+      "simple_average_days": "28",
+      "simple_highest_days": "392",
+      "simple_lowest_days": "1",
+      "simple_median_days": "14"
+    }
+  }
+}

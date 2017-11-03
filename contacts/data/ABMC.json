@@ -1,0 +1,182 @@
+{
+  "abbreviation": "ABMC",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Beatriz Collazo",
+          "FOIA Assistant",
+          "Suite 500"
+        ],
+        "city": "Arlington",
+        "state": "VA",
+        "street": "2300 Clarendon Boulevard",
+        "zip": "22201"
+      },
+      "emails": [
+        "FOIA@abmc.gov"
+      ],
+      "foia_officer": {
+        "name": "Monique Ceruti",
+        "phone": [
+          "703-696-6890"
+        ]
+      },
+      "misc": {
+        "FOIA Assistant": {
+          "name": "Martha R. Sell",
+          "phone": [
+            "703-696-6897"
+          ]
+        }
+      },
+      "name": "American Battle Monuments Commission",
+      "phone": "703-696-8384",
+      "public_liaison": {
+        "name": "Michael G. Conley",
+        "phone": [
+          "703-696-6778"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "FOIA Reading Room",
+          "https://www.abmc.gov/node/1005/foia-reading-room"
+        ]
+      ],
+      "request_time_stats": {
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "3",
+          "simple_median_days": "11"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "10",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "8"
+        },
+        "2012": {
+          "simple_average_days": "13",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "14"
+        },
+        "2013": {
+          "simple_average_days": "72",
+          "simple_highest_days": "193",
+          "simple_lowest_days": "10",
+          "simple_median_days": "11"
+        },
+        "2014": {
+          "simple_average_days": "22",
+          "simple_highest_days": "142",
+          "simple_lowest_days": "2",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "simple_average_days": "8",
+          "simple_highest_days": "11",
+          "simple_lowest_days": "4",
+          "simple_median_days": "11"
+        },
+        "2016": {
+          "simple_average_days": "10",
+          "simple_highest_days": "22",
+          "simple_lowest_days": "4",
+          "simple_median_days": "12"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-696-8384"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.abmc.gov/foia"
+    }
+  ],
+  "description": "The American Battle Monuments Commission, established by the Congress in 1923, is an agency of the Executive Branch of the Federal Government. \n\nThe Commission-guardian of America\u00b4s overseas commemorative cemeteries and memorials-honors the service, achievements and sacrifice of United States Armed Forces.",
+  "keywords": [
+    "Freedom of information",
+    "Monuments and memorials"
+  ],
+  "name": "American Battle Monuments Commission",
+  "request_time_stats": {
+    "2010": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "11",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "3",
+      "simple_median_days": "11"
+    },
+    "2011": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "10",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2012": {
+      "simple_average_days": "13",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "14"
+    },
+    "2013": {
+      "simple_average_days": "72",
+      "simple_highest_days": "193",
+      "simple_lowest_days": "10",
+      "simple_median_days": "11"
+    },
+    "2014": {
+      "simple_average_days": "22",
+      "simple_highest_days": "142",
+      "simple_lowest_days": "2",
+      "simple_median_days": "7"
+    },
+    "2015": {
+      "simple_average_days": "8",
+      "simple_highest_days": "11",
+      "simple_lowest_days": "4",
+      "simple_median_days": "11"
+    },
+    "2016": {
+      "simple_average_days": "10",
+      "simple_highest_days": "22",
+      "simple_lowest_days": "4",
+      "simple_median_days": "12"
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "abbreviation": "CIA",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Information and Privacy Coordinator",
+          "Central Intelligence Agency"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "",
+        "zip": "20505"
+      },
+      "fax": "703-613-3007",
+      "name": "Central Intelligence Agency",
+      "phone": "703-613-1287",
+      "public_liaison": {
+        "name": "Scott Koch",
+        "phone": [
+          "703-613-1287"
+        ]
+      },
+      "reading_rooms": [
+        [
+          "Freedom of Information Act Electronic Reading Room",
+          "https://www.cia.gov/library/readingroom/"
+        ],
+        [
+          "What is the Electronic Reading Room?",
+          "https://www.cia.gov/library/readingroom/what-electronic-reading-room"
+        ]
+      ],
+      "request_form": "https://www.cia.gov/library/readingroom/foia_request/form",
+      "request_time_stats": {
+        "2009": {
+          "complex_average_days": "146",
+          "complex_highest_days": "5005",
+          "complex_lowest_days": "0",
+          "complex_median_days": "51",
+          "expedited_processing_average_days": "117",
+          "expedited_processing_highest_days": "338",
+          "expedited_processing_lowest_days": "6",
+          "expedited_processing_median_days": "61",
+          "simple_average_days": "37",
+          "simple_highest_days": "1775",
+          "simple_lowest_days": "0",
+          "simple_median_days": "15"
+        },
+        "2010": {
+          "complex_average_days": "109",
+          "complex_highest_days": "2917",
+          "complex_lowest_days": "0",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "5",
+          "expedited_processing_highest_days": "5",
+          "expedited_processing_lowest_days": "5",
+          "expedited_processing_median_days": "5",
+          "simple_average_days": "19",
+          "simple_highest_days": "1711",
+          "simple_lowest_days": "0",
+          "simple_median_days": "10"
+        },
+        "2011": {
+          "complex_average_days": "113.76",
+          "complex_highest_days": "3104",
+          "complex_lowest_days": "0",
+          "complex_median_days": "32",
+          "expedited_processing_average_days": "33.17",
+          "expedited_processing_highest_days": "209",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "11",
+          "simple_average_days": "23.95",
+          "simple_highest_days": "1242",
+          "simple_lowest_days": "0",
+          "simple_median_days": "10"
+        },
+        "2012": {
+          "complex_average_days": "93",
+          "complex_highest_days": "1939",
+          "complex_lowest_days": "0",
+          "complex_median_days": "30",
+          "expedited_processing_average_days": "84",
+          "expedited_processing_highest_days": "212",
+          "expedited_processing_lowest_days": "15",
+          "expedited_processing_median_days": "58",
+          "simple_average_days": "32",
+          "simple_highest_days": "1846",
+          "simple_lowest_days": "0",
+          "simple_median_days": "12"
+        },
+        "2013": {
+          "complex_average_days": "186.02",
+          "complex_highest_days": "3055",
+          "complex_lowest_days": "1",
+          "complex_median_days": "62",
+          "expedited_processing_average_days": "1032",
+          "expedited_processing_highest_days": "1043",
+          "expedited_processing_lowest_days": "1021",
+          "expedited_processing_median_days": "1032",
+          "simple_average_days": "35.18",
+          "simple_highest_days": "2411",
+          "simple_lowest_days": "1",
+          "simple_median_days": "13"
+        },
+        "2014": {
+          "complex_average_days": "134.24",
+          "complex_highest_days": "2327",
+          "complex_lowest_days": "1",
+          "complex_median_days": "49",
+          "expedited_processing_average_days": "1303",
+          "expedited_processing_highest_days": "1413",
+          "expedited_processing_lowest_days": "1193",
+          "expedited_processing_median_days": "1303",
+          "simple_average_days": "32.87",
+          "simple_highest_days": "1361",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "16"
+        },
+        "2015": {
+          "complex_average_days": "116.22",
+          "complex_highest_days": "2454",
+          "complex_lowest_days": "less than 1",
+          "complex_median_days": "53",
+          "simple_average_days": "39.85",
+          "simple_highest_days": "2449",
+          "simple_lowest_days": "4",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "complex_average_days": "251.53",
+          "complex_highest_days": "2299",
+          "complex_lowest_days": "7",
+          "complex_median_days": "153",
+          "simple_average_days": "38.72",
+          "simple_highest_days": "792",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "30"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "703-613-1287"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.foia.cia.gov/"
+    }
+  ],
+  "description": "The Central Intelligence Agency (CIA) is an independent US Government agency responsible for providing national security intelligence to senior US policymakers.",
+  "keywords": [
+    "Archives and records",
+    "Classified information",
+    "Freedom of information",
+    "Privacy",
+    "counterintelligence",
+    "espionage",
+    "spies"
+  ],
+  "name": "Central Intelligence Agency",
+  "request_time_stats": {
+    "2009": {
+      "complex_average_days": "146",
+      "complex_highest_days": "5005",
+      "complex_lowest_days": "0",
+      "complex_median_days": "51",
+      "expedited_processing_average_days": "117",
+      "expedited_processing_highest_days": "338",
+      "expedited_processing_lowest_days": "6",
+      "expedited_processing_median_days": "61",
+      "simple_average_days": "37",
+      "simple_highest_days": "1775",
+      "simple_lowest_days": "0",
+      "simple_median_days": "15"
+    },
+    "2010": {
+      "complex_average_days": "109",
+      "complex_highest_days": "2917",
+      "complex_lowest_days": "0",
+      "complex_median_days": "32",
+      "expedited_processing_average_days": "5",
+      "expedited_processing_highest_days": "5",
+      "expedited_processing_lowest_days": "5",
+      "expedited_processing_median_days": "5",
+      "simple_average_days": "19",
+      "simple_highest_days": "1711",
+      "simple_lowest_days": "0",
+      "simple_median_days": "10"
+    },
+    "2011": {
+      "complex_average_days": "113.76",
+      "complex_highest_days": "3104",
+      "complex_lowest_days": "0",
+      "complex_median_days": "32",
+      "expedited_processing_average_days": "33.17",
+      "expedited_processing_highest_days": "209",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "11",
+      "simple_average_days": "23.95",
+      "simple_highest_days": "1242",
+      "simple_lowest_days": "0",
+      "simple_median_days": "10"
+    },
+    "2012": {
+      "complex_average_days": "93",
+      "complex_highest_days": "1939",
+      "complex_lowest_days": "0",
+      "complex_median_days": "30",
+      "expedited_processing_average_days": "84",
+      "expedited_processing_highest_days": "212",
+      "expedited_processing_lowest_days": "15",
+      "expedited_processing_median_days": "58",
+      "simple_average_days": "32",
+      "simple_highest_days": "1846",
+      "simple_lowest_days": "0",
+      "simple_median_days": "12"
+    },
+    "2013": {
+      "complex_average_days": "186.02",
+      "complex_highest_days": "3055",
+      "complex_lowest_days": "1",
+      "complex_median_days": "62",
+      "expedited_processing_average_days": "1032",
+      "expedited_processing_highest_days": "1043",
+      "expedited_processing_lowest_days": "1021",
+      "expedited_processing_median_days": "1032",
+      "simple_average_days": "35.18",
+      "simple_highest_days": "2411",
+      "simple_lowest_days": "1",
+      "simple_median_days": "13"
+    },
+    "2014": {
+      "complex_average_days": "134.24",
+      "complex_highest_days": "2327",
+      "complex_lowest_days": "1",
+      "complex_median_days": "49",
+      "expedited_processing_average_days": "1303",
+      "expedited_processing_highest_days": "1413",
+      "expedited_processing_lowest_days": "1193",
+      "expedited_processing_median_days": "1303",
+      "simple_average_days": "32.87",
+      "simple_highest_days": "1361",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "16"
+    },
+    "2015": {
+      "complex_average_days": "116.22",
+      "complex_highest_days": "2454",
+      "complex_lowest_days": "less than 1",
+      "complex_median_days": "53",
+      "simple_average_days": "39.85",
+      "simple_highest_days": "2449",
+      "simple_lowest_days": "4",
+      "simple_median_days": "17"
+    },
+    "2016": {
+      "complex_average_days": "251.53",
+      "complex_highest_days": "2299",
+      "complex_lowest_days": "7",
+      "complex_median_days": "153",
+      "simple_average_days": "38.72",
+      "simple_highest_days": "792",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "30"
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "abbreviation": "USCCR",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Jennifer Cron Hepler",
+          "Attorney-Advisor",
+          "Suite 1150"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "1331 Pennsylvania Ave, NW",
+        "zip": "20425"
+      },
+      "emails": [
+        "jhepler@usccr.gov"
+      ],
+      "fax": "202-376-1163",
+      "foia_officer": {
+        "name": "Maureen Rudolph",
+        "phone": [
+          "202-376-7622"
+        ]
+      },
+      "misc": {
+        "Attorney-Advisor": {
+          "name": "Jennifer Cron Hepler",
+          "phone": [
+            "202-376-8351"
+          ]
+        }
+      },
+      "name": "Commission on Civil Rights",
+      "phone": "202-376-2890",
+      "public_liaison": {
+        "name": "Brian Walch",
+        "phone": [
+          "202-376-8371"
+        ]
+      },
+      "request_time_stats": {
+        "2010": {
+          "simple_average_days": "15",
+          "simple_highest_days": "161",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7.5"
+        },
+        "2011": {
+          "complex_average_days": "40",
+          "complex_highest_days": "742",
+          "complex_lowest_days": "0",
+          "complex_median_days": "14"
+        },
+        "2012": {
+          "complex_average_days": "22",
+          "complex_highest_days": "63",
+          "complex_lowest_days": "3",
+          "complex_median_days": "10",
+          "simple_average_days": "7",
+          "simple_highest_days": "6",
+          "simple_lowest_days": "1",
+          "simple_median_days": "1"
+        },
+        "2013": {
+          "complex_average_days": "14",
+          "complex_highest_days": "14",
+          "complex_lowest_days": "14",
+          "complex_median_days": "14",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "3",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "1"
+        },
+        "2014": {
+          "complex_average_days": "10",
+          "complex_highest_days": "20",
+          "complex_lowest_days": "1",
+          "complex_median_days": "6",
+          "simple_average_days": "5",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2015": {
+          "complex_average_days": "19",
+          "complex_highest_days": "60",
+          "complex_lowest_days": "1",
+          "complex_median_days": "12",
+          "simple_average_days": "6",
+          "simple_highest_days": "13",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2016": {
+          "complex_average_days": "10",
+          "complex_highest_days": "17",
+          "complex_lowest_days": "4",
+          "complex_median_days": "8",
+          "simple_average_days": "4",
+          "simple_highest_days": "20",
+          "simple_lowest_days": "1",
+          "simple_median_days": "3"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "202-376-8351"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.usccr.gov/foia/index.php"
+    }
+  ],
+  "description": "The primary mission of the U.S. Commission on Civil Rights is to investigate allegations relating to deprivations because of color, race, religion, sex, age, disability, or national origin or as a result of any pattern or practice of fraud of the right of citizens of the United States to vote and have votes counted.",
+  "name": "Commission on Civil Rights",
+  "request_time_stats": {
+    "2010": {
+      "simple_average_days": "15",
+      "simple_highest_days": "161",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7.5"
+    },
+    "2011": {
+      "complex_average_days": "40",
+      "complex_highest_days": "742",
+      "complex_lowest_days": "0",
+      "complex_median_days": "14"
+    },
+    "2012": {
+      "complex_average_days": "22",
+      "complex_highest_days": "63",
+      "complex_lowest_days": "3",
+      "complex_median_days": "10",
+      "simple_average_days": "7",
+      "simple_highest_days": "6",
+      "simple_lowest_days": "1",
+      "simple_median_days": "1"
+    },
+    "2013": {
+      "complex_average_days": "14",
+      "complex_highest_days": "14",
+      "complex_lowest_days": "14",
+      "complex_median_days": "14",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "3",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "1"
+    },
+    "2014": {
+      "complex_average_days": "10",
+      "complex_highest_days": "20",
+      "complex_lowest_days": "1",
+      "complex_median_days": "6",
+      "simple_average_days": "5",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "5"
+    },
+    "2015": {
+      "complex_average_days": "19",
+      "complex_highest_days": "60",
+      "complex_lowest_days": "1",
+      "complex_median_days": "12",
+      "simple_average_days": "6",
+      "simple_highest_days": "13",
+      "simple_lowest_days": "1",
+      "simple_median_days": "4"
+    },
+    "2016": {
+      "complex_average_days": "10",
+      "complex_highest_days": "17",
+      "complex_lowest_days": "4",
+      "complex_median_days": "8",
+      "simple_average_days": "4",
+      "simple_highest_days": "20",
+      "simple_lowest_days": "1",
+      "simple_median_days": "3"
+    }
+  }
+}

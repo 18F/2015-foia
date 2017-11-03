@@ -1,0 +1,162 @@
+{
+  "abbreviation": "AFRH",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Jaqueline Parrish",
+          "FOIA Officer",
+          "Box 580",
+          "3700 North Capitol Street NW"
+        ],
+        "city": "Washington",
+        "state": "DC",
+        "street": "P.O. Box 2875",
+        "zip": "20011"
+      },
+      "emails": [
+        "jacqueline.parrish@AFRH.Gov"
+      ],
+      "fax": "202-541-7508",
+      "name": "Armed Forces Retirement Home",
+      "phone": "202-541-7554",
+      "public_liaison": {
+        "name": "Jacqueline Parrish",
+        "phone": [
+          "202-541-7550"
+        ]
+      },
+      "request_time_stats": {
+        "2011": {
+          "complex_average_days": "49",
+          "complex_highest_days": "51",
+          "complex_lowest_days": "47",
+          "complex_median_days": "49",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "32",
+          "simple_highest_days": "39",
+          "simple_lowest_days": "25",
+          "simple_median_days": "32"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "111",
+          "simple_highest_days": "656",
+          "simple_lowest_days": "4",
+          "simple_median_days": "14.5"
+        },
+        "2013": {
+          "simple_average_days": "14",
+          "simple_highest_days": "21",
+          "simple_lowest_days": "1",
+          "simple_median_days": "16"
+        },
+        "2014": {
+          "simple_average_days": "6",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "3",
+          "simple_median_days": "7"
+        },
+        "2015": {
+          "complex_average_days": "37",
+          "complex_highest_days": "37",
+          "complex_lowest_days": "37",
+          "complex_median_days": "37",
+          "simple_average_days": "17",
+          "simple_highest_days": "37",
+          "simple_lowest_days": "7",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "simple_average_days": "15",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "10",
+          "simple_median_days": "17"
+        }
+      },
+      "service_center": {
+        "name": "Jacqueline Parrish",
+        "phone": [
+          "202-541-7554"
+        ]
+      },
+      "top_level": false,
+      "website": "https://www.afrh.gov/afrh/foia.htm"
+    }
+  ],
+  "description": "The mission of the Armed Forces Retirement Home is to fulfill our nation\u00b4s commitment to its Veterans by providing a premier retirement community with exceptional residential care and extensive support services.",
+  "keywords": [
+    "Armed forces",
+    "Environmental protection",
+    "Retirement"
+  ],
+  "name": "Armed Forces Retirement Home",
+  "request_time_stats": {
+    "2011": {
+      "complex_average_days": "49",
+      "complex_highest_days": "51",
+      "complex_lowest_days": "47",
+      "complex_median_days": "49",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "32",
+      "simple_highest_days": "39",
+      "simple_lowest_days": "25",
+      "simple_median_days": "32"
+    },
+    "2012": {
+      "complex_average_days": "0",
+      "complex_highest_days": "0",
+      "complex_lowest_days": "0",
+      "complex_median_days": "0",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "111",
+      "simple_highest_days": "656",
+      "simple_lowest_days": "4",
+      "simple_median_days": "14.5"
+    },
+    "2013": {
+      "simple_average_days": "14",
+      "simple_highest_days": "21",
+      "simple_lowest_days": "1",
+      "simple_median_days": "16"
+    },
+    "2014": {
+      "simple_average_days": "6",
+      "simple_highest_days": "19",
+      "simple_lowest_days": "3",
+      "simple_median_days": "7"
+    },
+    "2015": {
+      "complex_average_days": "37",
+      "complex_highest_days": "37",
+      "complex_lowest_days": "37",
+      "complex_median_days": "37",
+      "simple_average_days": "17",
+      "simple_highest_days": "37",
+      "simple_lowest_days": "7",
+      "simple_median_days": "17"
+    },
+    "2016": {
+      "simple_average_days": "15",
+      "simple_highest_days": "17",
+      "simple_lowest_days": "10",
+      "simple_median_days": "17"
+    }
+  }
+}

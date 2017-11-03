@@ -1,0 +1,230 @@
+{
+  "abbreviation": "RRB",
+  "departments": [
+    {
+      "address": {
+        "address_lines": [
+          "Eric T. Wooden",
+          "FOIA Officer"
+        ],
+        "city": "Chicago",
+        "state": "IL",
+        "street": "844 North Rush Street",
+        "zip": "60611-2092"
+      },
+      "emails": [
+        "Eric.Wooden@rrb.gov"
+      ],
+      "fax": "312-751-7102",
+      "foia_officer": {
+        "name": "Eric Wooden",
+        "phone": [
+          "312-751-4936"
+        ]
+      },
+      "name": "Main Office",
+      "phone": "312-751-7131",
+      "public_liaison": {
+        "name": "Marguerite P. Dadabo",
+        "phone": [
+          "312-751-4945"
+        ]
+      },
+      "request_form": "https://secure.rrb.gov/efoia/",
+      "service_center": {
+        "phone": [
+          "312-751-4948"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.rrb.gov/blaw/foia/foia.asp"
+    },
+    {
+      "address": {
+        "address_lines": [
+          "Patricia Marshall",
+          "Freedom of Information Officer",
+          "Room 450"
+        ],
+        "city": "Chicago",
+        "state": "IL",
+        "street": "844 North Rush Street",
+        "zip": "60611-2092"
+      },
+      "emails": [
+        "Patricia.Marshall@oig.rrb.gov"
+      ],
+      "fax": "312-751-4342",
+      "misc": {
+        "Freedom of Information Officer": {
+          "phone": [
+            "312-751-4350"
+          ]
+        }
+      },
+      "name": "Office of the Inspector General",
+      "phone": "312-751-4690",
+      "public_liaison": {
+        "name": "Lauren A. McLees",
+        "phone": [
+          "312-751-4690"
+        ]
+      },
+      "request_form": "https://secure.rrb.gov/efoia/",
+      "request_time_stats": {
+        "2008": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11",
+          "simple_highest_days": "17",
+          "simple_lowest_days": "3",
+          "simple_median_days": "13"
+        },
+        "2009": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "306",
+          "simple_highest_days": "997",
+          "simple_lowest_days": "1",
+          "simple_median_days": "38"
+        },
+        "2010": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "0",
+          "simple_highest_days": "0",
+          "simple_lowest_days": "0",
+          "simple_median_days": "0"
+        },
+        "2011": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "6.2",
+          "simple_highest_days": "18",
+          "simple_lowest_days": "1",
+          "simple_median_days": "5"
+        },
+        "2012": {
+          "complex_average_days": "0",
+          "complex_highest_days": "0",
+          "complex_lowest_days": "0",
+          "complex_median_days": "0",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "11.6",
+          "simple_highest_days": "19",
+          "simple_lowest_days": "6",
+          "simple_median_days": "10"
+        },
+        "2013": {
+          "simple_average_days": "11.33",
+          "simple_highest_days": "26",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2014": {
+          "simple_average_days": "54",
+          "simple_highest_days": "121",
+          "simple_lowest_days": "1",
+          "simple_median_days": "4"
+        },
+        "2015": {
+          "simple_average_days": "45.5",
+          "simple_highest_days": "141",
+          "simple_lowest_days": "7",
+          "simple_median_days": "17"
+        },
+        "2016": {
+          "simple_average_days": "8.8",
+          "simple_highest_days": "30",
+          "simple_lowest_days": "7",
+          "simple_median_days": "6"
+        }
+      },
+      "service_center": {
+        "phone": [
+          "312-751-4690"
+        ]
+      },
+      "top_level": false,
+      "website": "http://www.rrb.gov/blaw/foia/foia.asp"
+    }
+  ],
+  "description": "The Railroad Retirement Board (RRB) is an independent agency in the executive branch of the Federal Government. The RRB's primary function is to administer comprehensive retirement-survivor and unemployment-sickness benefit programs for the nation's railroad workers and their families, under the Railroad Retirement and Railroad Unemployment Insurance Acts. In connection with the retirement program, the RRB has administrative responsibilities under the Social Security Act for certain benefit payments and railroad workers' Medicare coverage.",
+  "keywords": [
+    "Administrative practice and procedure",
+    "Aged",
+    "Air traffic controllers",
+    "Alcoholism",
+    "Alimony",
+    "Archives and records",
+    "Blind",
+    "Cemeteries",
+    "Child support",
+    "Claims",
+    "Courts",
+    "Crime",
+    "Disability benefits",
+    "Drug abuse",
+    "Firefighters",
+    "Flags",
+    "Freedom of information",
+    "Government contracts",
+    "Government employees",
+    "Government property",
+    "Income taxes",
+    "Insurance",
+    "Intergovernmental relations",
+    "Inventions and patents",
+    "Investigations",
+    "Law enforcement officers",
+    "Medicaid",
+    "Organization and functions (Government agencies)",
+    "Parking",
+    "Penalties",
+    "Privacy",
+    "Railroad employees",
+    "Railroad retirement",
+    "Railroad unemployment insurance",
+    "Reporting and recordkeeping requirements",
+    "Retirement",
+    "Seals and insignia",
+    "Security measures",
+    "Social security",
+    "Sunshine Act",
+    "Supplemental Security Income (SSI)",
+    "Travel and transportation expenses",
+    "Treaties",
+    "Veterans",
+    "Vocational rehabilitation",
+    "Wages"
+  ],
+  "name": "Railroad Retirement Board",
+  "request_form": "https://secure.rrb.gov/efoia/"
+}
